@@ -1,0 +1,275 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+St. Aloisius Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$473.40,ND
+St. Aloisius Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,670.85",ND
+St. Aloisius Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$180.45,ND
+St. Aloisius Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$251.55,ND
+St. Aloisius Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$438.30,ND
+St. Aloisius Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,$709.20,ND
+St. Aloisius Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,138.95",ND
+St. Aloisius Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$726.30,ND
+St. Aloisius Medical Center,Speech,HCPCS 92507,Speech Therapy,$292.50,ND
+St. Aloisius Medical Center,Speech,HCPCS 92610,Swallow Evaluation,$372.60,ND
+St. Aloisius Medical Center,Speech,HCPCS 92526,Swallow Treatment,$328.95,ND
+St. Aloisius Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$50.85,ND
+St. Aloisius Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$17.55,ND
+St. Aloisius Medical Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$29.70,ND
+St. Aloisius Medical Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$79.65,ND
+St. Aloisius Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$61.65,ND
+St. Aloisius Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$42.30,ND
+St. Aloisius Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$54.00,ND
+St. Aloisius Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$31.95,ND
+St. Aloisius Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$22.05,ND
+St. Aloisius Medical Center,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$91.80,ND
+St. Aloisius Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$701.10,ND
+St. Aloisius Medical Center,Blood,HCPCS 85041,"Red blood count, automated test",$22.50,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$232.20,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$263.25,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$35.10,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$89.55,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$115.65,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 82140,Ammonia level,$108.90,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$44.55,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$99.90,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$128.25,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$63.90,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$111.15,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$36.45,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$33.30,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$61.65,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$28.35,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$22.95,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$35.10,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$40.95,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$61.65,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$115.65,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 82310,Calcium level,$36.45,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$35.10,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$130.50,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 82465,Cholesterol level,$31.05,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 82525,Copper level,$85.50,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$105.75,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$142.20,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$45.90,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$77.40,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$174.15,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$263.25,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$94.05,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$102.15,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$63.90,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$57.60,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$67.95,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$127.35,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$127.35,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$86.85,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 83718,HDL cholesterol level,$56.25,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$117.00,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$135.90,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 83520,IgE (immune system protein) level,$188.10,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$78.30,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$94.05,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$54.45,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 83540,Iron level,$44.55,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$42.30,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 83721,LDL cholesterol level,$65.70,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$48.60,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$36.45,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$97.20,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$91.80,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 82542,Mass spectrometry,$235.35,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$72.90,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$74.70,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 83945,Oxalate level,$88.65,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 83970,Parathormone,$256.05,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$26.55,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$83.25,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$133.20,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$75.15,ND
+St. Aloisius Medical Center,Chemistry,HCPCS A9270,Selenium (vitamin) level,$7.25,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$129.60,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$174.15,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$347.85,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$48.60,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$26.55,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$23.40,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$89.10,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 84560,Uric acid level,$35.10,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$32.40,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$42.30,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 82436,Urine chloride level,$36.45,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$29.70,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$48.60,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$98.10,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$31.05,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$35.10,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 84591,Vitamin B-6 level,$98.10,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$153.00,ND
+St. Aloisius Medical Center,Chemistry,HCPCS 84630,Zinc level,$78.30,ND
+St. Aloisius Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$117.00,ND
+St. Aloisius Medical Center,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$99.00,ND
+St. Aloisius Medical Center,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$72.00,ND
+St. Aloisius Medical Center,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$66.15,ND
+St. Aloisius Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$99.00,ND
+St. Aloisius Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$94.05,ND
+St. Aloisius Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$84.60,ND
+St. Aloisius Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$67.05,ND
+St. Aloisius Medical Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$92.70,ND
+St. Aloisius Medical Center,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$153.00,ND
+St. Aloisius Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$36.45,ND
+St. Aloisius Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$26.10,ND
+St. Aloisius Medical Center,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$84.60,ND
+St. Aloisius Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$81.90,ND
+St. Aloisius Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$99.90,ND
+St. Aloisius Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$28.35,ND
+St. Aloisius Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$27.00,ND
+St. Aloisius Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$28.35,ND
+St. Aloisius Medical Center,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$108.90,ND
+St. Aloisius Medical Center,Immunology,HCPCS 86580,Tuberculosis Test,$27.45,ND
+St. Aloisius Medical Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$36.45,ND
+St. Aloisius Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$43.20,ND
+St. Aloisius Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$51.75,ND
+St. Aloisius Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$240.30,ND
+St. Aloisius Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$232.20,ND
+St. Aloisius Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$57.60,ND
+St. Aloisius Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$77.40,ND
+St. Aloisius Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$240.30,ND
+St. Aloisius Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$132.30,ND
+St. Aloisius Medical Center,Microbiology,HCPCS 87624,HPV Detection,$175.95,ND
+St. Aloisius Medical Center,Microbiology,HCPCS 86735,Mumps virus antibody test,$90.00,ND
+St. Aloisius Medical Center,Microbiology,HCPCS 86747,Parvovirus antibody test,$103.50,ND
+St. Aloisius Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$99.00,ND
+St. Aloisius Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$88.65,ND
+St. Aloisius Medical Center,Microbiology,HCPCS 87207,Smear for infectious agents,$42.30,ND
+St. Aloisius Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$61.65,ND
+St. Aloisius Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$47.25,ND
+St. Aloisius Medical Center,Microbiology,HCPCS 87045,Stool Culture,$65.70,ND
+St. Aloisius Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$78.30,ND
+St. Aloisius Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$88.65,ND
+St. Aloisius Medical Center,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$499.95,ND
+St. Aloisius Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$356.40,ND
+St. Aloisius Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$57.60,ND
+St. Aloisius Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$84.60,ND
+St. Aloisius Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$97.20,ND
+St. Aloisius Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$57.60,ND
+St. Aloisius Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$56.25,ND
+St. Aloisius Medical Center,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$413.55,ND
+St. Aloisius Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$243.90,ND
+St. Aloisius Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$228.60,ND
+St. Aloisius Medical Center,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$124.20,ND
+St. Aloisius Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$90.90,ND
+St. Aloisius Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$361.80,ND
+St. Aloisius Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$149.85,ND
+St. Aloisius Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$45.90,ND
+St. Aloisius Medical Center,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$78.30,ND
+St. Aloisius Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$66.60,ND
+St. Aloisius Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$94.05,ND
+St. Aloisius Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$107.10,ND
+St. Aloisius Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$92.25,ND
+St. Aloisius Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$19.35,ND
+St. Aloisius Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$20.70,ND
+St. Aloisius Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$207.45,ND
+St. Aloisius Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$33.75,ND
+St. Aloisius Medical Center,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$110.70,ND
+St. Aloisius Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$88.20,ND
+St. Aloisius Medical Center,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$19.35,ND
+St. Aloisius Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$21.15,ND
+St. Aloisius Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$44.55,ND
+St. Aloisius Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$462.15,ND
+St. Aloisius Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$126.45,ND
+St. Aloisius Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$433.80,ND
+St. Aloisius Medical Center,Sleep,HCPCS 95810,Sleep study,"$2,497.95",ND
+St. Aloisius Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$106.65,ND
+St. Aloisius Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$456.75,ND
+St. Aloisius Medical Center,Breast,HCPCS 77067,Mammogram Screening,$462.60,ND
+St. Aloisius Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$562.50,ND
+St. Aloisius Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,940.85",ND
+St. Aloisius Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,101.60",ND
+St. Aloisius Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,047.15",ND
+St. Aloisius Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,047.15",ND
+St. Aloisius Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$2,791.35",ND
+St. Aloisius Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,062.35",ND
+St. Aloisius Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,516.50",ND
+St. Aloisius Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,333.80",ND
+St. Aloisius Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,651.95",ND
+St. Aloisius Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,376.55",ND
+St. Aloisius Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,151.55",ND
+St. Aloisius Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,333.80",ND
+St. Aloisius Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,239.30",ND
+St. Aloisius Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$2,483.10",ND
+St. Aloisius Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,833.30",ND
+St. Aloisius Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,833.30",ND
+St. Aloisius Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,864.25",ND
+St. Aloisius Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,725.75",ND
+St. Aloisius Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$2,870.10",ND
+St. Aloisius Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$3,024.90",ND
+St. Aloisius Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,851.75",ND
+St. Aloisius Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,915.55",ND
+St. Aloisius Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,970.10",ND
+St. Aloisius Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$1,898.55",ND
+St. Aloisius Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$452.70,ND
+St. Aloisius Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$417.60,ND
+St. Aloisius Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$432.90,ND
+St. Aloisius Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$427.50,ND
+St. Aloisius Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$327.60,ND
+St. Aloisius Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$176.40,ND
+St. Aloisius Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$383.40,ND
+St. Aloisius Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$430.20,ND
+St. Aloisius Medical Center,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$353.70,ND
+St. Aloisius Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$446.85,ND
+St. Aloisius Medical Center,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$180.45,ND
+St. Aloisius Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$213.30,ND
+St. Aloisius Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$163.35,ND
+St. Aloisius Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$244.80,ND
+St. Aloisius Medical Center,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$268.20,ND
+St. Aloisius Medical Center,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$204.75,ND
+St. Aloisius Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$123.75,ND
+St. Aloisius Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$145.35,ND
+St. Aloisius Medical Center,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$213.30,ND
+St. Aloisius Medical Center,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$337.95,ND
+St. Aloisius Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$212.85,ND
+St. Aloisius Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$180.00,ND
+St. Aloisius Medical Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$213.30,ND
+St. Aloisius Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$170.10,ND
+St. Aloisius Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$182.70,ND
+St. Aloisius Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$145.35,ND
+St. Aloisius Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$182.70,ND
+St. Aloisius Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$198.00,ND
+St. Aloisius Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$198.00,ND
+St. Aloisius Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$170.10,ND
+St. Aloisius Medical Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$163.35,ND
+St. Aloisius Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$180.00,ND
+St. Aloisius Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$237.15,ND
+St. Aloisius Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$180.00,ND
+St. Aloisius Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$323.55,ND
+St. Aloisius Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$205.65,ND
+St. Aloisius Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$229.05,ND
+St. Aloisius Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$387.00,ND
+St. Aloisius Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$198.00,ND
+St. Aloisius Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$145.35,ND
+St. Aloisius Medical Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$170.10,ND
+St. Aloisius Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$182.70,ND
+St. Aloisius Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$198.00,ND
+St. Aloisius Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$180.00,ND
+St. Aloisius Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$170.10,ND
+St. Aloisius Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$182.70,ND
+St. Aloisius Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$191.70,ND
+St. Aloisius Medical Center,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$191.70,ND
+St. Aloisius Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,579.50",ND
+St. Aloisius Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,579.50",ND
+St. Aloisius Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,579.50",ND
+St. Aloisius Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,579.50",ND
+St. Aloisius Medical Center,Digestive,HCPCS 43235,EGD,"$1,423.80",ND
+St. Aloisius Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$1,423.80",ND
+St. Aloisius Medical Center,General,HCPCS 10060,Drainage of Abscess,$304.20,ND
+St. Aloisius Medical Center,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$527.40,ND
+St. Aloisius Medical Center,General,HCPCS 69200,Removal of foreign body from ear canal,$238.95,ND
+St. Aloisius Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$304.20,ND
+St. Aloisius Medical Center,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$542.25,ND
+St. Aloisius Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$304.20,ND
+St. Aloisius Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$304.20,ND
+St. Aloisius Medical Center,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$415.35,ND
+St. Aloisius Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$456.75,ND
+St. Aloisius Medical Center,Ocular,HCPCS 66984,Cataract removal,"$2,524.50",ND
+St. Aloisius Medical Center,Ocular,HCPCS 66821,Laser cataract removal,"$1,206.90",ND
+St. Aloisius Medical Center,Soft Tissue,HCPCS 97602,Non-selective debridement,$354.60,ND
+St. Aloisius Medical Center,Vascular,HCPCS 36416,Collection of capillary blood specimen,$14.85,ND
+St. Aloisius Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$715.95,ND

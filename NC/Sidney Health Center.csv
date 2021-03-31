@@ -1,0 +1,229 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Sidney Health Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$2,157.65",NC
+Sidney Health Center,Emergency Care,HCPCS 99281,Emergency Level 1,$285.62,NC
+Sidney Health Center,Emergency Care,HCPCS 99282,Emergency Level 2,$285.62,NC
+Sidney Health Center,Emergency Care,HCPCS 99283,Emergency Level 3,$285.62,NC
+Sidney Health Center,Emergency Care,HCPCS 99284,Emergency Level 4,$285.62,NC
+Sidney Health Center,Emergency Care,HCPCS 99285,Emergency Level 5,$285.62,NC
+Sidney Health Center,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$105.40,NC
+Sidney Health Center,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$105.40,NC
+Sidney Health Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$105.40,NC
+Sidney Health Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$105.40,NC
+Sidney Health Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$105.40,NC
+Sidney Health Center,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$82.33,NC
+Sidney Health Center,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$82.33,NC
+Sidney Health Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$11.86,NC
+Sidney Health Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$23.03,NC
+Sidney Health Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$41.48,NC
+Sidney Health Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$41.48,NC
+Sidney Health Center,Blood,HCPCS 85610,"Blood test, clotting time",$19.62,NC
+Sidney Health Center,Blood,HCPCS 85730,Coagulation assessment blood test,$45.80,NC
+Sidney Health Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$50.93,NC
+Sidney Health Center,Blood,HCPCS 85027,"Complete blood count, automated",$50.93,NC
+Sidney Health Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$16.69,NC
+Sidney Health Center,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$113.20,NC
+Sidney Health Center,Chemistry,HCPCS 82040,Albumin (protein) level,$28.03,NC
+Sidney Health Center,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$90.02,NC
+Sidney Health Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$66.80,NC
+Sidney Health Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$36.01,NC
+Sidney Health Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$110.55,NC
+Sidney Health Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$69.58,NC
+Sidney Health Center,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$79.59,NC
+Sidney Health Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$35.04,NC
+Sidney Health Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$35.04,NC
+Sidney Health Center,Chemistry,HCPCS 82565,Blood creatinine level,$30.54,NC
+Sidney Health Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$25.96,NC
+Sidney Health Center,Chemistry,HCPCS 84132,Blood potassium level,$24.22,NC
+Sidney Health Center,Chemistry,HCPCS 84295,Blood sodium level,$23.06,NC
+Sidney Health Center,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$23.37,NC
+Sidney Health Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$53.32,NC
+Sidney Health Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$90.65,NC
+Sidney Health Center,Chemistry,HCPCS 82533,Cortisol Measurement,$92.86,NC
+Sidney Health Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$36.01,NC
+Sidney Health Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$70.12,NC
+Sidney Health Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$188.25,NC
+Sidney Health Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$64.42,NC
+Sidney Health Center,Chemistry,HCPCS 82746,Folic acid; serum,$69.76,NC
+Sidney Health Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$72.86,NC
+Sidney Health Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$25.90,NC
+Sidney Health Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$30.32,NC
+Sidney Health Center,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$90.96,NC
+Sidney Health Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$125.08,NC
+Sidney Health Center,Chemistry,HCPCS 83020,Hemoglobin Measurement,$72.19,NC
+Sidney Health Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$110.76,NC
+Sidney Health Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$91.81,NC
+Sidney Health Center,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$101.70,NC
+Sidney Health Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$84.65,NC
+Sidney Health Center,Chemistry,HCPCS 82330,Ionized Calcium,$67.61,NC
+Sidney Health Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$40.43,NC
+Sidney Health Center,Chemistry,HCPCS 83540,Iron level,$32.22,NC
+Sidney Health Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$43.59,NC
+Sidney Health Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$40.43,NC
+Sidney Health Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$29.31,NC
+Sidney Health Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$105.18,NC
+Sidney Health Center,Chemistry,HCPCS 83021,Liver function blood test panel,$72.19,NC
+Sidney Health Center,Chemistry,HCPCS 83735,Magnesium Level,$43.33,NC
+Sidney Health Center,Chemistry,HCPCS 82542,Mass spectrometry,$116.55,NC
+Sidney Health Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$71.38,NC
+Sidney Health Center,Chemistry,HCPCS 83945,Oxalate level,$54.96,NC
+Sidney Health Center,Chemistry,HCPCS 83970,Parathormone,$128.73,NC
+Sidney Health Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$46.47,NC
+Sidney Health Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$126.34,NC
+Sidney Health Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$46.47,NC
+Sidney Health Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$140.69,NC
+Sidney Health Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$140.69,NC
+Sidney Health Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$69.58,NC
+Sidney Health Center,Chemistry,HCPCS 84155,"Total protein level, blood",$46.47,NC
+Sidney Health Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$46.47,NC
+Sidney Health Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$46.47,NC
+Sidney Health Center,Chemistry,HCPCS 84560,Uric acid level,$29.24,NC
+Sidney Health Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$29.24,NC
+Sidney Health Center,Chemistry,HCPCS 82340,Urine calcium level,$67.61,NC
+Sidney Health Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$28.03,NC
+Sidney Health Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$44.85,NC
+Sidney Health Center,Chemistry,HCPCS 84300,Urine sodium level,$23.06,NC
+Sidney Health Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$90.33,NC
+Sidney Health Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$92.86,NC
+Sidney Health Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$43.49,NC
+Sidney Health Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$81.06,NC
+Sidney Health Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$96.02,NC
+Sidney Health Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$81.06,NC
+Sidney Health Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$81.06,NC
+Sidney Health Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$760.57,NC
+Sidney Health Center,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$97.00,NC
+Sidney Health Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$42.96,NC
+Sidney Health Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$17.06,NC
+Sidney Health Center,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$91.60,NC
+Sidney Health Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$81.06,NC
+Sidney Health Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$91.32,NC
+Sidney Health Center,Immunology,HCPCS 86431,Rheumatoid factor level,$20.55,NC
+Sidney Health Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$26.74,NC
+Sidney Health Center,Immunology,HCPCS 86592,Syphilis Detection Test,$40.94,NC
+Sidney Health Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$47.91,NC
+Sidney Health Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$62.27,NC
+Sidney Health Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$61.12,NC
+Sidney Health Center,Microbiology,HCPCS 87491,Chlamydia Test,$46.64,NC
+Sidney Health Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$114.34,NC
+Sidney Health Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$96.02,NC
+Sidney Health Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$81.06,NC
+Sidney Health Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$50.31,NC
+Sidney Health Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$43.49,NC
+Sidney Health Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$64.27,NC
+Sidney Health Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$64.43,NC
+Sidney Health Center,Microbiology,HCPCS 87177,Smear for Parasites,$60.64,NC
+Sidney Health Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$33.87,NC
+Sidney Health Center,Microbiology,HCPCS 87045,Stool Culture,$43.21,NC
+Sidney Health Center,Microbiology,HCPCS 87880,Strep Test,$35.47,NC
+Sidney Health Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$34.74,NC
+Sidney Health Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$40.94,NC
+Sidney Health Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$77.70,NC
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$62.54,NC
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$78.33,NC
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$64.43,NC
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$41.06,NC
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$60.64,NC
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$146.55,NC
+Sidney Health Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$81.28,NC
+Sidney Health Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$120.93,NC
+Sidney Health Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$49.27,NC
+Sidney Health Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$144.79,NC
+Sidney Health Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$90.33,NC
+Sidney Health Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$45.64,NC
+Sidney Health Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$45.64,NC
+Sidney Health Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$58.03,NC
+Sidney Health Center,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$65.07,NC
+Sidney Health Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$58.03,NC
+Sidney Health Center,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$14.21,NC
+Sidney Health Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$21.94,NC
+Sidney Health Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$21.94,NC
+Sidney Health Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$26.02,NC
+Sidney Health Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$690.68,NC
+Sidney Health Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$157.08,NC
+Sidney Health Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$146.80,NC
+Sidney Health Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,$135.60,NC
+Sidney Health Center,Pulmonary,HCPCS 94640,Aerosol Treatment,$295.36,NC
+Sidney Health Center,Sleep,HCPCS 95810,Sleep study,"$1,924.45",NC
+Sidney Health Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$275.83,NC
+Sidney Health Center,Breast,HCPCS 77067,Mammogram Screening,$273.42,NC
+Sidney Health Center,Breast,HCPCS 77066,Mammography of both breasts,$275.83,NC
+Sidney Health Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,630.25",NC
+Sidney Health Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$819.47,NC
+Sidney Health Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$776.95,NC
+Sidney Health Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,552.88",NC
+Sidney Health Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,552.88",NC
+Sidney Health Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$543.24,NC
+Sidney Health Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,157.30",NC
+Sidney Health Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$944.60,NC
+Sidney Health Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,369.71",NC
+Sidney Health Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,010.09",NC
+Sidney Health Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$765.89,NC
+Sidney Health Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$1,716.17",NC
+Sidney Health Center,MRI,HCPCS 72141,MRI neck spine without contrast material,$765.89,NC
+Sidney Health Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,025.65",NC
+Sidney Health Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$814.26,NC
+Sidney Health Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,039.96",NC
+Sidney Health Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$882.48,NC
+Sidney Health Center,MRI,HCPCS 73721,MRI scan of leg joint,$653.01,NC
+Sidney Health Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$351.36,NC
+Sidney Health Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$226.40,NC
+Sidney Health Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$516.84,NC
+Sidney Health Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$380.43,NC
+Sidney Health Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$380.43,NC
+Sidney Health Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$288.69,NC
+Sidney Health Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$277.81,NC
+Sidney Health Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$181.80,NC
+Sidney Health Center,Chest,HCPCS 71045,X-ray of chest; Single View,$181.80,NC
+Sidney Health Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$132.03,NC
+Sidney Health Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$127.60,NC
+Sidney Health Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$126.76,NC
+Sidney Health Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$166.14,NC
+Sidney Health Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$246.36,NC
+Sidney Health Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$180.28,NC
+Sidney Health Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$157.08,NC
+Sidney Health Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$180.28,NC
+Sidney Health Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$157.08,NC
+Sidney Health Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$85.28,NC
+Sidney Health Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$180.28,NC
+Sidney Health Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$150.98,NC
+Sidney Health Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$157.08,NC
+Sidney Health Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$157.08,NC
+Sidney Health Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$333.58,NC
+Sidney Health Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$333.58,NC
+Sidney Health Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$185.38,NC
+Sidney Health Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$156.16,NC
+Sidney Health Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$111.72,NC
+Sidney Health Center,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$227.41,NC
+Sidney Health Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$161.50,NC
+Sidney Health Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$161.50,NC
+Sidney Health Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$175.14,NC
+Sidney Health Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$161.50,NC
+Sidney Health Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$161.50,NC
+Sidney Health Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$6,512.10",NC
+Sidney Health Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$113.91,NC
+Sidney Health Center,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$113.91,NC
+Sidney Health Center,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$25,008.99",NC
+Sidney Health Center,Breast,HCPCS 19301,Partial removal of breast,"$4,689.04",NC
+Sidney Health Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,182.12",NC
+Sidney Health Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,351.49",NC
+Sidney Health Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,354.66",NC
+Sidney Health Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,354.66",NC
+Sidney Health Center,Digestive,HCPCS 43239,EGD and biopsy,"$1,195.05",NC
+Sidney Health Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$22,333.33",NC
+Sidney Health Center,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$12,906.19",NC
+Sidney Health Center,General,HCPCS 10060,Drainage of Abscess,$284.11,NC
+Sidney Health Center,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple","$1,132.58",NC
+Sidney Health Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$355.30,NC
+Sidney Health Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$355.30,NC
+Sidney Health Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$355.30,NC
+Sidney Health Center,Head,HCPCS 69436,Create eardrum opening,"$1,882.11",NC
+Sidney Health Center,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$3,517.60",NC
+Sidney Health Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$665.33,NC
+Sidney Health Center,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,$665.33,NC
+Sidney Health Center,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$433.59,NC
+Sidney Health Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$288.25,NC
+Sidney Health Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$28,741.80",NC
+Sidney Health Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$3,702.59",NC
+Sidney Health Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$15,808.56",NC
+Sidney Health Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$8,461.78",NC
+Sidney Health Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$130.87,NC
+Sidney Health Center,Vascular,HCPCS 36416,Collection of capillary blood specimen,$15.74,NC

@@ -1,0 +1,349 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Cooper University Hospital,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$2,406.00",NJ
+Cooper University Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$3,777.00",NJ
+Cooper University Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$923.00,NJ
+Cooper University Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$983.00,NJ
+Cooper University Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$1,400.00",NJ
+Cooper University Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,980.00",NJ
+Cooper University Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$2,681.00",NJ
+Cooper University Hospital,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$560.00,NJ
+Cooper University Hospital,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$929.00,NJ
+Cooper University Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$725.00,NJ
+Cooper University Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min","$1,037.00",NJ
+Cooper University Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$655.00,NJ
+Cooper University Hospital,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$674.00,NJ
+Cooper University Hospital,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$674.00,NJ
+Cooper University Hospital,Psychology,HCPCS 90853,Group psychotherapy,$403.00,NJ
+Cooper University Hospital,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$550.00,NJ
+Cooper University Hospital,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$674.00,NJ
+Cooper University Hospital,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$674.00,NJ
+Cooper University Hospital,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$674.00,NJ
+Cooper University Hospital,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$978.00,NJ
+Cooper University Hospital,Speech,HCPCS 92507,Speech Therapy,$436.00,NJ
+Cooper University Hospital,Speech,HCPCS 92610,Swallow Evaluation,$399.00,NJ
+Cooper University Hospital,Speech,HCPCS 92526,Swallow Treatment,$475.00,NJ
+Cooper University Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$21.00,NJ
+Cooper University Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$21.00,NJ
+Cooper University Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$45.00,NJ
+Cooper University Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$51.00,NJ
+Cooper University Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$65.00,NJ
+Cooper University Hospital,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$51.00,NJ
+Cooper University Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$65.00,NJ
+Cooper University Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$62.00,NJ
+Cooper University Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$26.00,NJ
+Cooper University Hospital,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$112.00,NJ
+Cooper University Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$473.00,NJ
+Cooper University Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$896.00,NJ
+Cooper University Hospital,Blood,HCPCS 85041,"Red blood count, automated test",$23.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$152.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$353.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$101.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$213.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$586.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82140,Ammonia level,$363.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$40.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$296.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$363.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$72.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$231.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$57.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$41.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$40.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$45.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$44.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 84132,Blood potassium level,$115.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 84295,Blood sodium level,$119.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$45.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$287.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82310,Calcium level,$115.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$40.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$116.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82465,Cholesterol level,$53.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82525,Copper level,$477.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$124.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$269.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$63.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$112.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$192.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$381.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$71.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$314.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$168.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$81.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$37.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$80.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$80.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$287.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 83718,HDL cholesterol level,$75.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 83020,Hemoglobin Measurement,$643.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$144.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$193.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$117.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$200.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$270.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$98.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 83540,Iron level,$90.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$44.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$60.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$111.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$40.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$91.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$902.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 83735,Magnesium Level,$10.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82542,Mass spectrometry,"$1,627.00",NJ
+Cooper University Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$227.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$235.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 83918,Organic acid level,$750.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 83945,Oxalate level,$210.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 83970,Parathormone,$141.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$46.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$101.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$534.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$572.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$42.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$196.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$210.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$66.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$805.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$61.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$71.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$100.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$572.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 84560,Uric acid level,$69.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$45.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82340,Urine calcium level,$67.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82436,Urine chloride level,$41.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$149.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$92.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$794.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 84133,Urine potassium level,$93.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 84300,Urine sodium level,$103.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 84591,Vitamin B-6 level,$209.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$268.00,NJ
+Cooper University Hospital,Chemistry,HCPCS 84630,Zinc level,$220.00,NJ
+Cooper University Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$135.00,NJ
+Cooper University Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$168.00,NJ
+Cooper University Hospital,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$115.00,NJ
+Cooper University Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$628.00,NJ
+Cooper University Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$72.00,NJ
+Cooper University Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$54.00,NJ
+Cooper University Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$161.00,NJ
+Cooper University Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$90.00,NJ
+Cooper University Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$80.00,NJ
+Cooper University Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$118.00,NJ
+Cooper University Hospital,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$246.00,NJ
+Cooper University Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$73.00,NJ
+Cooper University Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$193.00,NJ
+Cooper University Hospital,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$701.00,NJ
+Cooper University Hospital,Immunology,HCPCS 86161,Measurement of complement (immune system proteins),$46.00,NJ
+Cooper University Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$92.00,NJ
+Cooper University Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$548.00,NJ
+Cooper University Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$195.00,NJ
+Cooper University Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$110.00,NJ
+Cooper University Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$32.00,NJ
+Cooper University Hospital,Immunology,HCPCS 86361,T cell count and ratio,$188.00,NJ
+Cooper University Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$283.00,NJ
+Cooper University Hospital,Immunology,HCPCS 86359,"T cells count, total",$268.00,NJ
+Cooper University Hospital,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$196.00,NJ
+Cooper University Hospital,Immunology,HCPCS 86580,Tuberculosis Test,$88.00,NJ
+Cooper University Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$52.00,NJ
+Cooper University Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$346.00,NJ
+Cooper University Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$276.00,NJ
+Cooper University Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$461.00,NJ
+Cooper University Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$270.00,NJ
+Cooper University Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$210.00,NJ
+Cooper University Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$287.00,NJ
+Cooper University Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$76.00,NJ
+Cooper University Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification","$1,823.00",NJ
+Cooper University Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$216.00,NJ
+Cooper University Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,"$1,066.00",NJ
+Cooper University Hospital,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$84.00,NJ
+Cooper University Hospital,Microbiology,HCPCS 87624,HPV Detection,$272.00,NJ
+Cooper University Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$228.00,NJ
+Cooper University Hospital,Microbiology,HCPCS 86747,Parvovirus antibody test,$186.00,NJ
+Cooper University Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$114.00,NJ
+Cooper University Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$76.00,NJ
+Cooper University Hospital,Microbiology,HCPCS 87207,Smear for infectious agents,$48.00,NJ
+Cooper University Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$71.00,NJ
+Cooper University Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$123.00,NJ
+Cooper University Hospital,Microbiology,HCPCS 87045,Stool Culture,$70.00,NJ
+Cooper University Hospital,Microbiology,HCPCS 87880,Strep Test,$63.00,NJ
+Cooper University Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$278.00,NJ
+Cooper University Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$200.00,NJ
+Cooper University Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$146.00,NJ
+Cooper University Hospital,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$363.00,NJ
+Cooper University Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$307.00,NJ
+Cooper University Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$63.00,NJ
+Cooper University Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$84.00,NJ
+Cooper University Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$51.00,NJ
+Cooper University Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$56.00,NJ
+Cooper University Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$55.00,NJ
+Cooper University Hospital,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$821.00,NJ
+Cooper University Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$306.00,NJ
+Cooper University Hospital,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$462.00,NJ
+Cooper University Hospital,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,"$1,879.00",NJ
+Cooper University Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$141.00,NJ
+Cooper University Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$375.00,NJ
+Cooper University Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$216.00,NJ
+Cooper University Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$224.00,NJ
+Cooper University Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$192.00,NJ
+Cooper University Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$139.00,NJ
+Cooper University Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,"$1,026.00",NJ
+Cooper University Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$141.00,NJ
+Cooper University Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$270.00,NJ
+Cooper University Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$543.00,NJ
+Cooper University Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$164.00,NJ
+Cooper University Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$739.00,NJ
+Cooper University Hospital,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$164.00,NJ
+Cooper University Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$164.00,NJ
+Cooper University Hospital,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$164.00,NJ
+Cooper University Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$260.00,NJ
+Cooper University Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$100.00,NJ
+Cooper University Hospital,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$51.00,NJ
+Cooper University Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$117.00,NJ
+Cooper University Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$50.00,NJ
+Cooper University Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$2,239.00",NJ
+Cooper University Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$285.00,NJ
+Cooper University Hospital,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$536.00,NJ
+Cooper University Hospital,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,"$1,380.00",NJ
+Cooper University Hospital,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$2,323.00",NJ
+Cooper University Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,177.00",NJ
+Cooper University Hospital,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$185.00,NJ
+Cooper University Hospital,Pulmonary,HCPCS 94640,Nebulizer Treatment,$978.00,NJ
+Cooper University Hospital,Pulmonary,HCPCS 94618,Pulmonary stress test,$543.00,NJ
+Cooper University Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,"$1,070.00",NJ
+Cooper University Hospital,Sleep,HCPCS 95810,Sleep study,"$4,658.00",NJ
+Cooper University Hospital,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$111.00,NJ
+Cooper University Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral","$1,134.00",NJ
+Cooper University Hospital,Breast,HCPCS 77067,Mammogram Screening,"$1,556.00",NJ
+Cooper University Hospital,Breast,HCPCS 77066,Mammography of both breasts,"$1,792.00",NJ
+Cooper University Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$3,257.00",NJ
+Cooper University Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$2,115.00",NJ
+Cooper University Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$2,079.00",NJ
+Cooper University Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,293.00",NJ
+Cooper University Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,796.00",NJ
+Cooper University Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$3,451.00",NJ
+Cooper University Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$3,137.00",NJ
+Cooper University Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$2,327.00",NJ
+Cooper University Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$2,559.00",NJ
+Cooper University Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$2,586.00",NJ
+Cooper University Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,351.00",NJ
+Cooper University Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$2,583.00",NJ
+Cooper University Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$2,571.00",NJ
+Cooper University Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$3,252.00",NJ
+Cooper University Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$3,408.00",NJ
+Cooper University Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$3,885.00",NJ
+Cooper University Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$4,700.00",NJ
+Cooper University Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$3,626.00",NJ
+Cooper University Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$4,386.00",NJ
+Cooper University Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$3,645.00",NJ
+Cooper University Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,268.00",NJ
+Cooper University Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$4,615.00",NJ
+Cooper University Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$3,814.00",NJ
+Cooper University Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$3,667.00",NJ
+Cooper University Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$574.00,NJ
+Cooper University Hospital,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$806.00,NJ
+Cooper University Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,056.00",NJ
+Cooper University Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,119.00",NJ
+Cooper University Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$314.00,NJ
+Cooper University Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,178.00",NJ
+Cooper University Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,229.00",NJ
+Cooper University Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,"$1,299.00",NJ
+Cooper University Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$3,455.00",NJ
+Cooper University Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$625.00,NJ
+Cooper University Hospital,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$574.00,NJ
+Cooper University Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$816.00,NJ
+Cooper University Hospital,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$574.00,NJ
+Cooper University Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$585.00,NJ
+Cooper University Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$569.00,NJ
+Cooper University Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$503.00,NJ
+Cooper University Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$574.00,NJ
+Cooper University Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$330.00,NJ
+Cooper University Hospital,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$574.00,NJ
+Cooper University Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$574.00,NJ
+Cooper University Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$389.00,NJ
+Cooper University Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$318.00,NJ
+Cooper University Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$764.00,NJ
+Cooper University Hospital,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$574.00,NJ
+Cooper University Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$318.00,NJ
+Cooper University Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$574.00,NJ
+Cooper University Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$584.00,NJ
+Cooper University Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$571.00,NJ
+Cooper University Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$586.00,NJ
+Cooper University Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$318.00,NJ
+Cooper University Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$528.00,NJ
+Cooper University Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$700.00,NJ
+Cooper University Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$318.00,NJ
+Cooper University Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$318.00,NJ
+Cooper University Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$318.00,NJ
+Cooper University Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$634.00,NJ
+Cooper University Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$574.00,NJ
+Cooper University Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$624.00,NJ
+Cooper University Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$682.00,NJ
+Cooper University Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$813.00,NJ
+Cooper University Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$574.00,NJ
+Cooper University Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$755.00,NJ
+Cooper University Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$961.00,NJ
+Cooper University Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$399.00,NJ
+Cooper University Hospital,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$727.00,NJ
+Cooper University Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$574.00,NJ
+Cooper University Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$970.00,NJ
+Cooper University Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views","$1,308.00",NJ
+Cooper University Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$800.00,NJ
+Cooper University Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$825.00,NJ
+Cooper University Hospital,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$34,232.00",NJ
+Cooper University Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$1,000.00",NJ
+Cooper University Hospital,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$2,869.00",NJ
+Cooper University Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$540.00,NJ
+Cooper University Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$543.00,NJ
+Cooper University Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$53,408.00",NJ
+Cooper University Hospital,Breast,HCPCS 19101,Biopsy of breast,"$14,371.00",NJ
+Cooper University Hospital,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$26,867.00",NJ
+Cooper University Hospital,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,"$301,850.00",NJ
+Cooper University Hospital,Cardiac,MSDRG 216,Cardiac valve procedure,"$362,055.00",NJ
+Cooper University Hospital,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$197,325.74",NJ
+Cooper University Hospital,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$138,263.00",NJ
+Cooper University Hospital,Cardiac,HCPCS 33249,Defibrillator complete system,"$119,666.00",NJ
+Cooper University Hospital,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$14,343.00",NJ
+Cooper University Hospital,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$14,549.00",NJ
+Cooper University Hospital,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers","$2,661.00",NJ
+Cooper University Hospital,Cardiac,MSDRG 247,Implant drug-eluting stent,"$96,388.00",NJ
+Cooper University Hospital,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$112,968.00",NJ
+Cooper University Hospital,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$50,419.00",NJ
+Cooper University Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$4,099.00",NJ
+Cooper University Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$5,000.00",NJ
+Cooper University Hospital,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$5,000.00",NJ
+Cooper University Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$5,000.00",NJ
+Cooper University Hospital,Digestive,HCPCS 43235,EGD,"$3,887.00",NJ
+Cooper University Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$3,887.00",NJ
+Cooper University Hospital,Digestive,HCPCS 45391,Ultrasound of lower large bowel using an endoscope,"$5,000.00",NJ
+Cooper University Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$39,922.00",NJ
+Cooper University Hospital,General,HCPCS 55700,Biopsy of prostate gland,"$8,879.00",NJ
+Cooper University Hospital,General,HCPCS 10060,Drainage of Abscess,$900.00,NJ
+Cooper University Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple","$1,603.00",NJ
+Cooper University Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$543.00,NJ
+Cooper University Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$900.00,NJ
+Cooper University Hospital,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),"$1,603.00",NJ
+Cooper University Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$900.00,NJ
+Cooper University Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$900.00,NJ
+Cooper University Hospital,Head,HCPCS 67028,Injection of drug into the eye,"$1,472.00",NJ
+Cooper University Hospital,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$173,508.00",NJ
+Cooper University Hospital,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,"$1,149.00",NJ
+Cooper University Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$3,056.00",NJ
+Cooper University Hospital,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$3,056.00",NJ
+Cooper University Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$3,903.00",NJ
+Cooper University Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$1,263.00",NJ
+Cooper University Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$64,945.00",NJ
+Cooper University Hospital,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,"$130,073.00",NJ
+Cooper University Hospital,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$78,743.00",NJ
+Cooper University Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$144,311.00",NJ
+Cooper University Hospital,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$687.00,NJ
+Cooper University Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$12,051.00",NJ
+Cooper University Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$32,855.00",NJ
+Cooper University Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$23,512.00",NJ
+Cooper University Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$900.00,NJ
+Cooper University Hospital,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$543.00,NJ
+Cooper University Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$175.00,NJ
+Cooper University Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$5,581.00",NJ
+Cooper University Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,954.00",NJ
+Cooper University Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$3,687.00",NJ

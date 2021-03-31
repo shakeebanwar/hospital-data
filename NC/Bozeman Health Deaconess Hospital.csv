@@ -1,0 +1,338 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Bozeman Health Deaconess Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes",$992.88,NC
+Bozeman Health Deaconess Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$768.48,NC
+Bozeman Health Deaconess Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$768.48,NC
+Bozeman Health Deaconess Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$768.48,NC
+Bozeman Health Deaconess Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$768.48,NC
+Bozeman Health Deaconess Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$768.48,NC
+Bozeman Health Deaconess Hospital,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$197.85,NC
+Bozeman Health Deaconess Hospital,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$197.85,NC
+Bozeman Health Deaconess Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$197.85,NC
+Bozeman Health Deaconess Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$197.85,NC
+Bozeman Health Deaconess Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$197.85,NC
+Bozeman Health Deaconess Hospital,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$197.85,NC
+Bozeman Health Deaconess Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$197.85,NC
+Bozeman Health Deaconess Hospital,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$261.01,NC
+Bozeman Health Deaconess Hospital,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$140.23,NC
+Bozeman Health Deaconess Hospital,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$140.23,NC
+Bozeman Health Deaconess Hospital,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$140.23,NC
+Bozeman Health Deaconess Hospital,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$207.64,NC
+Bozeman Health Deaconess Hospital,Speech,HCPCS 92507,Speech Therapy,$177.56,NC
+Bozeman Health Deaconess Hospital,Speech,HCPCS 92610,Swallow Evaluation,$296.67,NC
+Bozeman Health Deaconess Hospital,Speech,HCPCS 92526,Swallow Treatment,$194.43,NC
+Bozeman Health Deaconess Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$12.97,NC
+Bozeman Health Deaconess Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$19.80,NC
+Bozeman Health Deaconess Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$35.63,NC
+Bozeman Health Deaconess Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$35.63,NC
+Bozeman Health Deaconess Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$21.59,NC
+Bozeman Health Deaconess Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$28.17,NC
+Bozeman Health Deaconess Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$30.66,NC
+Bozeman Health Deaconess Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$30.66,NC
+Bozeman Health Deaconess Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$7.66,NC
+Bozeman Health Deaconess Hospital,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$198.21,NC
+Bozeman Health Deaconess Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$35.58,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$177.26,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$36.96,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$78.62,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$85.46,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 82140,Ammonia level,$46.04,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$35.57,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$142.82,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$241.30,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$45.74,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$122.62,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$25.47,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$25.47,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$25.33,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$18.89,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$18.89,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 84132,Blood potassium level,$23.25,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 84295,Blood sodium level,$24.21,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$30.06,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$56.98,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 82310,Calcium level,$41.77,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$88.51,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 82465,Cholesterol level,$21.64,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 82525,Copper level,$102.95,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$75.83,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$82.31,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$31.69,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$70.90,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$192.65,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$63.79,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$67.46,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$47.45,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$35.43,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$46.56,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$86.49,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$86.65,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$86.09,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 83020,Hemoglobin Measurement,$70.30,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$79.03,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$118.98,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$109.35,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$90.52,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$41.77,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$32.63,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 83540,Iron level,$25.34,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$28.19,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$44.79,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$43.05,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$25.28,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$79.26,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$70.30,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 83735,Magnesium Level,$35.29,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$113.93,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$18.93,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 83945,Oxalate level,$60.25,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 83970,Parathormone,$188.91,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$76.15,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$109.35,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$89.90,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$76.15,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$122.42,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$122.42,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$274.48,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$45.74,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$76.15,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$76.15,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$76.15,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 84560,Uric acid level,$22.66,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$22.66,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 82340,Urine calcium level,$41.77,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 82436,Urine chloride level,$30.20,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$36.96,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$49.24,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$107.35,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 84133,Urine potassium level,$23.25,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 84300,Urine sodium level,$24.21,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$84.14,NC
+Bozeman Health Deaconess Hospital,Chemistry,HCPCS 84630,Zinc level,$74.67,NC
+Bozeman Health Deaconess Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$140.24,NC
+Bozeman Health Deaconess Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$70.63,NC
+Bozeman Health Deaconess Hospital,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$80.58,NC
+Bozeman Health Deaconess Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$80.58,NC
+Bozeman Health Deaconess Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$56.14,NC
+Bozeman Health Deaconess Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$100.17,NC
+Bozeman Health Deaconess Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$39.74,NC
+Bozeman Health Deaconess Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$100.17,NC
+Bozeman Health Deaconess Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$100.17,NC
+Bozeman Health Deaconess Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$47.26,NC
+Bozeman Health Deaconess Hospital,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$159.52,NC
+Bozeman Health Deaconess Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$35.52,NC
+Bozeman Health Deaconess Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$19.86,NC
+Bozeman Health Deaconess Hospital,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$111.80,NC
+Bozeman Health Deaconess Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$100.17,NC
+Bozeman Health Deaconess Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$66.71,NC
+Bozeman Health Deaconess Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$38.36,NC
+Bozeman Health Deaconess Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$20.75,NC
+Bozeman Health Deaconess Hospital,Immunology,HCPCS 86580,Skin test for tuberculosis,$34.07,NC
+Bozeman Health Deaconess Hospital,Immunology,HCPCS 86361,T cell count and ratio,$69.71,NC
+Bozeman Health Deaconess Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$69.71,NC
+Bozeman Health Deaconess Hospital,Immunology,HCPCS 86359,"T cells count, total",$69.71,NC
+Bozeman Health Deaconess Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$32.90,NC
+Bozeman Health Deaconess Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$40.35,NC
+Bozeman Health Deaconess Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$38.27,NC
+Bozeman Health Deaconess Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$114.22,NC
+Bozeman Health Deaconess Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$74.56,NC
+Bozeman Health Deaconess Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$177.25,NC
+Bozeman Health Deaconess Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$70.22,NC
+Bozeman Health Deaconess Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$152.48,NC
+Bozeman Health Deaconess Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$100.17,NC
+Bozeman Health Deaconess Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$130.74,NC
+Bozeman Health Deaconess Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$97.42,NC
+Bozeman Health Deaconess Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$452.68,NC
+Bozeman Health Deaconess Hospital,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$56.14,NC
+Bozeman Health Deaconess Hospital,Microbiology,HCPCS 87624,HPV Detection,$84.21,NC
+Bozeman Health Deaconess Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$38.52,NC
+Bozeman Health Deaconess Hospital,Microbiology,HCPCS 86747,Parvovirus antibody test,$79.80,NC
+Bozeman Health Deaconess Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$53.45,NC
+Bozeman Health Deaconess Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$37.44,NC
+Bozeman Health Deaconess Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$44.84,NC
+Bozeman Health Deaconess Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$23.79,NC
+Bozeman Health Deaconess Hospital,Microbiology,HCPCS 87045,Stool Culture,$48.37,NC
+Bozeman Health Deaconess Hospital,Microbiology,HCPCS 87880,Strep Test,$65.65,NC
+Bozeman Health Deaconess Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$47.50,NC
+Bozeman Health Deaconess Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$33.63,NC
+Bozeman Health Deaconess Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$44.13,NC
+Bozeman Health Deaconess Hospital,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$305.22,NC
+Bozeman Health Deaconess Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$214.54,NC
+Bozeman Health Deaconess Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$41.13,NC
+Bozeman Health Deaconess Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$38.28,NC
+Bozeman Health Deaconess Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$43.94,NC
+Bozeman Health Deaconess Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$29.70,NC
+Bozeman Health Deaconess Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$40.16,NC
+Bozeman Health Deaconess Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$205.09,NC
+Bozeman Health Deaconess Hospital,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$45.08,NC
+Bozeman Health Deaconess Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$62.51,NC
+Bozeman Health Deaconess Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$99.90,NC
+Bozeman Health Deaconess Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$148.43,NC
+Bozeman Health Deaconess Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$67.48,NC
+Bozeman Health Deaconess Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$86.19,NC
+Bozeman Health Deaconess Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$62.89,NC
+Bozeman Health Deaconess Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$49.25,NC
+Bozeman Health Deaconess Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$63.88,NC
+Bozeman Health Deaconess Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$131.13,NC
+Bozeman Health Deaconess Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$16.93,NC
+Bozeman Health Deaconess Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$16.93,NC
+Bozeman Health Deaconess Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$124.58,NC
+Bozeman Health Deaconess Hospital,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$420.66,NC
+Bozeman Health Deaconess Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$56.43,NC
+Bozeman Health Deaconess Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$56.43,NC
+Bozeman Health Deaconess Hospital,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$16.58,NC
+Bozeman Health Deaconess Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$18.99,NC
+Bozeman Health Deaconess Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$18.99,NC
+Bozeman Health Deaconess Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$32.36,NC
+Bozeman Health Deaconess Hospital,Cardiovascular,HCPCS 93015,"Cardiovascular stress test, with interpretation and report",$548.81,NC
+Bozeman Health Deaconess Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$548.81,NC
+Bozeman Health Deaconess Hospital,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$99.17,NC
+Bozeman Health Deaconess Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$99.17,NC
+Bozeman Health Deaconess Hospital,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$117.07,NC
+Bozeman Health Deaconess Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,465.22",NC
+Bozeman Health Deaconess Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,$164.45,NC
+Bozeman Health Deaconess Hospital,Pulmonary,HCPCS 94618,Pulmonary stress test,$264.55,NC
+Bozeman Health Deaconess Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$504.50,NC
+Bozeman Health Deaconess Hospital,Sleep,HCPCS 95810,Sleep study,"$2,363.71",NC
+Bozeman Health Deaconess Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$2,661.29",NC
+Bozeman Health Deaconess Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,163.12",NC
+Bozeman Health Deaconess Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,145.51",NC
+Bozeman Health Deaconess Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$839.13,NC
+Bozeman Health Deaconess Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$2,695.63",NC
+Bozeman Health Deaconess Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,695.63",NC
+Bozeman Health Deaconess Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,765.30",NC
+Bozeman Health Deaconess Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,914.93",NC
+Bozeman Health Deaconess Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,914.93",NC
+Bozeman Health Deaconess Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,468.40",NC
+Bozeman Health Deaconess Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,204.38",NC
+Bozeman Health Deaconess Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,640.48",NC
+Bozeman Health Deaconess Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,567.53",NC
+Bozeman Health Deaconess Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,567.53",NC
+Bozeman Health Deaconess Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$3,760.90",NC
+Bozeman Health Deaconess Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,567.53",NC
+Bozeman Health Deaconess Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$3,784.15",NC
+Bozeman Health Deaconess Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,686.40",NC
+Bozeman Health Deaconess Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,853.92",NC
+Bozeman Health Deaconess Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,821.82",NC
+Bozeman Health Deaconess Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$1,789.51",NC
+Bozeman Health Deaconess Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$350.27,NC
+Bozeman Health Deaconess Hospital,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$340.10,NC
+Bozeman Health Deaconess Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$344.78,NC
+Bozeman Health Deaconess Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$331.82,NC
+Bozeman Health Deaconess Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$320.64,NC
+Bozeman Health Deaconess Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$320.64,NC
+Bozeman Health Deaconess Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$338.04,NC
+Bozeman Health Deaconess Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$338.04,NC
+Bozeman Health Deaconess Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$345.01,NC
+Bozeman Health Deaconess Hospital,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$400.46,NC
+Bozeman Health Deaconess Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$245.37,NC
+Bozeman Health Deaconess Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$151.21,NC
+Bozeman Health Deaconess Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$151.21,NC
+Bozeman Health Deaconess Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$207.93,NC
+Bozeman Health Deaconess Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$192.53,NC
+Bozeman Health Deaconess Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$169.21,NC
+Bozeman Health Deaconess Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$204.82,NC
+Bozeman Health Deaconess Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$104.50,NC
+Bozeman Health Deaconess Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$150.83,NC
+Bozeman Health Deaconess Hospital,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$120.97,NC
+Bozeman Health Deaconess Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$101.78,NC
+Bozeman Health Deaconess Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$179.43,NC
+Bozeman Health Deaconess Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$246.66,NC
+Bozeman Health Deaconess Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$139.24,NC
+Bozeman Health Deaconess Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$139.24,NC
+Bozeman Health Deaconess Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$142.25,NC
+Bozeman Health Deaconess Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$139.24,NC
+Bozeman Health Deaconess Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$142.25,NC
+Bozeman Health Deaconess Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$110.31,NC
+Bozeman Health Deaconess Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$139.24,NC
+Bozeman Health Deaconess Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$123.92,NC
+Bozeman Health Deaconess Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$142.25,NC
+Bozeman Health Deaconess Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$142.25,NC
+Bozeman Health Deaconess Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$142.56,NC
+Bozeman Health Deaconess Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$215.61,NC
+Bozeman Health Deaconess Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$215.61,NC
+Bozeman Health Deaconess Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$197.66,NC
+Bozeman Health Deaconess Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$178.98,NC
+Bozeman Health Deaconess Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$119.50,NC
+Bozeman Health Deaconess Hospital,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$139.86,NC
+Bozeman Health Deaconess Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$157.26,NC
+Bozeman Health Deaconess Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$157.26,NC
+Bozeman Health Deaconess Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$170.47,NC
+Bozeman Health Deaconess Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$157.26,NC
+Bozeman Health Deaconess Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$157.26,NC
+Bozeman Health Deaconess Hospital,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$3,021.18",NC
+Bozeman Health Deaconess Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$6,723.47",NC
+Bozeman Health Deaconess Hospital,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$6,723.47",NC
+Bozeman Health Deaconess Hospital,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,"$16,301.59",NC
+Bozeman Health Deaconess Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$16,301.59",NC
+Bozeman Health Deaconess Hospital,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,$756.80,NC
+Bozeman Health Deaconess Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$6,099.01",NC
+Bozeman Health Deaconess Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$251.95,NC
+Bozeman Health Deaconess Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$251.95,NC
+Bozeman Health Deaconess Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$28,664.50",NC
+Bozeman Health Deaconess Hospital,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$4,964.24",NC
+Bozeman Health Deaconess Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$11,582.31",NC
+Bozeman Health Deaconess Hospital,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$11,582.31",NC
+Bozeman Health Deaconess Hospital,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$11,582.31",NC
+Bozeman Health Deaconess Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$11,356.27",NC
+Bozeman Health Deaconess Hospital,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$6,099.01",NC
+Bozeman Health Deaconess Hospital,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$4,782.42",NC
+Bozeman Health Deaconess Hospital,Breast,HCPCS 19101,Biopsy of breast,"$2,423.83",NC
+Bozeman Health Deaconess Hospital,Breast,HCPCS 19125,Excision of breast lesion,"$5,624.47",NC
+Bozeman Health Deaconess Hospital,Breast,HCPCS 19120,Excision of cyst of breast,"$5,624.47",NC
+Bozeman Health Deaconess Hospital,Breast,HCPCS 19301,Partial removal of breast,"$4,586.54",NC
+Bozeman Health Deaconess Hospital,Breast,HCPCS 19318,Reduction mammaplasty,"$9,590.81",NC
+Bozeman Health Deaconess Hospital,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$6,112.99",NC
+Bozeman Health Deaconess Hospital,Breast,HCPCS 19303,Total removal of breast,"$6,112.99",NC
+Bozeman Health Deaconess Hospital,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$10,626.11",NC
+Bozeman Health Deaconess Hospital,Cardiac,MSDRG 247,Implant drug-eluting stent,"$34,550.82",NC
+Bozeman Health Deaconess Hospital,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$24,779.85",NC
+Bozeman Health Deaconess Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,565.31",NC
+Bozeman Health Deaconess Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$2,294.13",NC
+Bozeman Health Deaconess Hospital,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$2,312.23",NC
+Bozeman Health Deaconess Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$2,312.23",NC
+Bozeman Health Deaconess Hospital,Digestive,HCPCS 43235,EGD,"$1,886.47",NC
+Bozeman Health Deaconess Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$2,431.04",NC
+Bozeman Health Deaconess Hospital,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$5,539.83",NC
+Bozeman Health Deaconess Hospital,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$5,539.83",NC
+Bozeman Health Deaconess Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$24,194.51",NC
+Bozeman Health Deaconess Hospital,General,HCPCS 55700,Biopsy of prostate gland,"$5,457.90",NC
+Bozeman Health Deaconess Hospital,General,HCPCS 10060,Drainage of Abscess,$774.57,NC
+Bozeman Health Deaconess Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$590.15,NC
+Bozeman Health Deaconess Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$489.61,NC
+Bozeman Health Deaconess Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$834.70,NC
+Bozeman Health Deaconess Hospital,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$834.70,NC
+Bozeman Health Deaconess Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$834.70,NC
+Bozeman Health Deaconess Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$834.70,NC
+Bozeman Health Deaconess Hospital,Head,HCPCS 69436,Create eardrum opening,"$2,242.68",NC
+Bozeman Health Deaconess Hospital,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$4,733.68",NC
+Bozeman Health Deaconess Hospital,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$4,278.59",NC
+Bozeman Health Deaconess Hospital,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$109,229.10",NC
+Bozeman Health Deaconess Hospital,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,"$1,043.65",NC
+Bozeman Health Deaconess Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$1,096.64",NC
+Bozeman Health Deaconess Hospital,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$1,096.64",NC
+Bozeman Health Deaconess Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$978.25,NC
+Bozeman Health Deaconess Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$579.08,NC
+Bozeman Health Deaconess Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$35,401.37",NC
+Bozeman Health Deaconess Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$4,131.19",NC
+Bozeman Health Deaconess Hospital,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$4,131.19",NC
+Bozeman Health Deaconess Hospital,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$3,809.24",NC
+Bozeman Health Deaconess Hospital,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$64,006.02",NC
+Bozeman Health Deaconess Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$109,229.10",NC
+Bozeman Health Deaconess Hospital,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$2,314.02",NC
+Bozeman Health Deaconess Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$5,548.84",NC
+Bozeman Health Deaconess Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$17,613.44",NC
+Bozeman Health Deaconess Hospital,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$6,839.93",NC
+Bozeman Health Deaconess Hospital,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$7,702.53",NC
+Bozeman Health Deaconess Hospital,Obstetrics,HCPCS 58545,Removal of uterine fibroid tumors using an endoscope,"$1,602.41",NC
+Bozeman Health Deaconess Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$8,349.30",NC
+Bozeman Health Deaconess Hospital,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries","$16,025.98",NC
+Bozeman Health Deaconess Hospital,Ocular,HCPCS 66984,Cataract removal,"$4,248.75",NC
+Bozeman Health Deaconess Hospital,Ocular,HCPCS 66982,Cataract removal with insertion of lens,"$4,248.75",NC
+Bozeman Health Deaconess Hospital,Ocular,HCPCS 65426,Removal or relocation of corneal conjunctiva,"$3,005.52",NC
+Bozeman Health Deaconess Hospital,Ocular,HCPCS 67108,Repair of detached retina,"$6,780.36",NC
+Bozeman Health Deaconess Hospital,Ocular,HCPCS 65756,Transplant of outer layer of corneal tissue,"$12,564.92",NC
+Bozeman Health Deaconess Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$161.77,NC
+Bozeman Health Deaconess Hospital,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$86.08,NC
+Bozeman Health Deaconess Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$4,048.99",NC
+Bozeman Health Deaconess Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$2,443.96",NC
+Bozeman Health Deaconess Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,984.54",NC

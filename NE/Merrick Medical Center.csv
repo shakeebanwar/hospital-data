@@ -1,0 +1,322 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Merrick Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",-,NE
+Merrick Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes",-,NE
+Merrick Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,-,NE
+Merrick Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,-,NE
+Merrick Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,-,NE
+Merrick Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,-,NE
+Merrick Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,-,NE
+Merrick Medical Center,Hospital,HCPCS 99234,Hospital observation care discharge,-,NE
+Merrick Medical Center,Hospital,HCPCS 99219,Hospital observation care typically 30 minutes,-,NE
+Merrick Medical Center,Hospital,HCPCS 99235,"Hospital observation or inpatient care moderate severity, 50 minutes per day",-,NE
+Merrick Medical Center,Hospital,HCPCS 99224,"Subsequent observation care, typically 35 minutes per day",-,NE
+Merrick Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",-,NE
+Merrick Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",-,NE
+Merrick Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",-,NE
+Merrick Medical Center,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",-,NE
+Merrick Medical Center,Psychology,HCPCS 90853,Group psychotherapy,-,NE
+Merrick Medical Center,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,-,NE
+Merrick Medical Center,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",-,NE
+Merrick Medical Center,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",-,NE
+Merrick Medical Center,Psychology,HCPCS 90837,"Psychotherapy, 60 min",-,NE
+Merrick Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,-,NE
+Merrick Medical Center,Speech,HCPCS 92507,Speech Therapy,-,NE
+Merrick Medical Center,Speech,HCPCS 92610,Swallow Evaluation,-,NE
+Merrick Medical Center,Speech,HCPCS 92526,Swallow Treatment,-,NE
+Merrick Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",-,NE
+Merrick Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",-,NE
+Merrick Medical Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,-,NE
+Merrick Medical Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,-,NE
+Merrick Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",-,NE
+Merrick Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,-,NE
+Merrick Medical Center,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,-,NE
+Merrick Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",-,NE
+Merrick Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",-,NE
+Merrick Medical Center,Blood,HCPCS 85008,Microscopic examination for white blood cells,-,NE
+Merrick Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,-,NE
+Merrick Medical Center,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,-,NE
+Merrick Medical Center,Blood,HCPCS 85660,Red blood cell sickling measurement,-,NE
+Merrick Medical Center,Blood,HCPCS 85041,"Red blood count, automated test",-,NE
+Merrick Medical Center,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,-,NE
+Merrick Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",-,NE
+Merrick Medical Center,Chemistry,HCPCS 82140,Ammonia level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,-,NE
+Merrick Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,-,NE
+Merrick Medical Center,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),-,NE
+Merrick Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),-,NE
+Merrick Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,-,NE
+Merrick Medical Center,Chemistry,HCPCS 84295,Blood sodium level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",-,NE
+Merrick Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",-,NE
+Merrick Medical Center,Chemistry,HCPCS 82310,Calcium level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 82465,Cholesterol level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 82525,Copper level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,-,NE
+Merrick Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,-,NE
+Merrick Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",-,NE
+Merrick Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,-,NE
+Merrick Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,-,NE
+Merrick Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,-,NE
+Merrick Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",-,NE
+Merrick Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,-,NE
+Merrick Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 83718,HDL cholesterol level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 83020,Hemoglobin Measurement,-,NE
+Merrick Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",-,NE
+Merrick Medical Center,Chemistry,HCPCS 83520,IgE (immune system protein) level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,-,NE
+Merrick Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,-,NE
+Merrick Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,-,NE
+Merrick Medical Center,Chemistry,HCPCS 83540,Iron level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 83721,LDL cholesterol level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",-,NE
+Merrick Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",-,NE
+Merrick Medical Center,Chemistry,HCPCS 83021,Liver function blood test panel,-,NE
+Merrick Medical Center,Chemistry,HCPCS 83735,Magnesium Level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 82542,Mass spectrometry,-,NE
+Merrick Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",-,NE
+Merrick Medical Center,Chemistry,HCPCS 83918,Organic acid level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 83945,Oxalate level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 83970,Parathormone,-,NE
+Merrick Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",-,NE
+Merrick Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,-,NE
+Merrick Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,-,NE
+Merrick Medical Center,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement",-,NE
+Merrick Medical Center,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,-,NE
+Merrick Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",-,NE
+Merrick Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",-,NE
+Merrick Medical Center,Chemistry,HCPCS 84478,Triglycerides level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,-,NE
+Merrick Medical Center,Chemistry,HCPCS 84560,Uric acid level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",-,NE
+Merrick Medical Center,Chemistry,HCPCS 82340,Urine calcium level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 82436,Urine chloride level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,-,NE
+Merrick Medical Center,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,-,NE
+Merrick Medical Center,Chemistry,HCPCS 84133,Urine potassium level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 84300,Urine sodium level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 84591,Vitamin B-6 level,-,NE
+Merrick Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,-,NE
+Merrick Medical Center,Chemistry,HCPCS 84630,Zinc level,-,NE
+Merrick Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),-,NE
+Merrick Medical Center,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),-,NE
+Merrick Medical Center,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,-,NE
+Merrick Medical Center,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",-,NE
+Merrick Medical Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,-,NE
+Merrick Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,-,NE
+Merrick Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,-,NE
+Merrick Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,-,NE
+Merrick Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,-,NE
+Merrick Medical Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,-,NE
+Merrick Medical Center,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,-,NE
+Merrick Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,-,NE
+Merrick Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,-,NE
+Merrick Medical Center,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),-,NE
+Merrick Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),-,NE
+Merrick Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,-,NE
+Merrick Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,-,NE
+Merrick Medical Center,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,-,NE
+Merrick Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),-,NE
+Merrick Medical Center,Immunology,HCPCS 86580,Skin test for tuberculosis,-,NE
+Merrick Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,-,NE
+Merrick Medical Center,Immunology,HCPCS 86361,T cell count and ratio,-,NE
+Merrick Medical Center,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",-,NE
+Merrick Medical Center,Immunology,HCPCS 86359,"T cells count, total",-,NE
+Merrick Medical Center,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,-,NE
+Merrick Medical Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),-,NE
+Merrick Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",-,NE
+Merrick Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,-,NE
+Merrick Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,-,NE
+Merrick Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,-,NE
+Merrick Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,-,NE
+Merrick Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),-,NE
+Merrick Medical Center,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",-,NE
+Merrick Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,-,NE
+Merrick Medical Center,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",-,NE
+Merrick Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,-,NE
+Merrick Medical Center,Microbiology,HCPCS 87517,Hepatitis B Detection,-,NE
+Merrick Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,-,NE
+Merrick Medical Center,Microbiology,HCPCS 87624,HPV Detection,-,NE
+Merrick Medical Center,Microbiology,HCPCS 86735,Mumps virus antibody test,-,NE
+Merrick Medical Center,Microbiology,HCPCS 86747,Parvovirus antibody test,-,NE
+Merrick Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,-,NE
+Merrick Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,-,NE
+Merrick Medical Center,Microbiology,HCPCS 87207,Smear for infectious agents,-,NE
+Merrick Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,-,NE
+Merrick Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,-,NE
+Merrick Medical Center,Microbiology,HCPCS 87045,Stool Culture,-,NE
+Merrick Medical Center,Microbiology,HCPCS 87880,Strep Test,-,NE
+Merrick Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,-,NE
+Merrick Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,-,NE
+Merrick Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,-,NE
+Merrick Medical Center,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,-,NE
+Merrick Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,-,NE
+Merrick Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,-,NE
+Merrick Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",-,NE
+Merrick Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",-,NE
+Merrick Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,-,NE
+Merrick Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,-,NE
+Merrick Medical Center,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,-,NE
+Merrick Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,-,NE
+Merrick Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,-,NE
+Merrick Medical Center,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,-,NE
+Merrick Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,-,NE
+Merrick Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,-,NE
+Merrick Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,-,NE
+Merrick Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,-,NE
+Merrick Medical Center,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,-,NE
+Merrick Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,-,NE
+Merrick Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,-,NE
+Merrick Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,-,NE
+Merrick Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,-,NE
+Merrick Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",-,NE
+Merrick Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",-,NE
+Merrick Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,-,NE
+Merrick Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,-,NE
+Merrick Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,-,NE
+Merrick Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",-,NE
+Merrick Medical Center,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",-,NE
+Merrick Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",-,NE
+Merrick Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,-,NE
+Merrick Medical Center,Cardiovascular,HCPCS 93015,"Cardiovascular stress test, with interpretation and report",-,NE
+Merrick Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",-,NE
+Merrick Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",-,NE
+Merrick Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,-,NE
+Merrick Medical Center,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,-,NE
+Merrick Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,-,NE
+Merrick Medical Center,Pulmonary,HCPCS 94729,CO Diffusion Capacity,-,NE
+Merrick Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,-,NE
+Merrick Medical Center,Pulmonary,HCPCS 94618,Pulmonary stress test,-,NE
+Merrick Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,-,NE
+Merrick Medical Center,Sleep,HCPCS 95810,Sleep study,-,NE
+Merrick Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),-,NE
+Merrick Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",-,NE
+Merrick Medical Center,Breast,HCPCS 77067,Mammogram Screening,-,NE
+Merrick Medical Center,Breast,HCPCS 77066,Mammography of both breasts,-,NE
+Merrick Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,-,NE
+Merrick Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,-,NE
+Merrick Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",-,NE
+Merrick Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",-,NE
+Merrick Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,-,NE
+Merrick Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,-,NE
+Merrick Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,-,NE
+Merrick Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,-,NE
+Merrick Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,-,NE
+Merrick Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",-,NE
+Merrick Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",-,NE
+Merrick Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",-,NE
+Merrick Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",-,NE
+Merrick Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)",-,NE
+Merrick Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,-,NE
+Merrick Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,-,NE
+Merrick Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,-,NE
+Merrick Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,-,NE
+Merrick Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,-,NE
+Merrick Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,-,NE
+Merrick Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,-,NE
+Merrick Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,-,NE
+Merrick Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,-,NE
+Merrick Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,-,NE
+Merrick Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",-,NE
+Merrick Medical Center,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,-,NE
+Merrick Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",-,NE
+Merrick Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,-,NE
+Merrick Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,-,NE
+Merrick Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",-,NE
+Merrick Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",-,NE
+Merrick Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,-,NE
+Merrick Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",-,NE
+Merrick Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",-,NE
+Merrick Medical Center,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,-,NE
+Merrick Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",-,NE
+Merrick Medical Center,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",-,NE
+Merrick Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,-,NE
+Merrick Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,-,NE
+Merrick Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",-,NE
+Merrick Medical Center,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",-,NE
+Merrick Medical Center,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",-,NE
+Merrick Medical Center,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,-,NE
+Merrick Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",-,NE
+Merrick Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,-,NE
+Merrick Medical Center,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",-,NE
+Merrick Medical Center,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",-,NE
+Merrick Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",-,NE
+Merrick Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",-,NE
+Merrick Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",-,NE
+Merrick Medical Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",-,NE
+Merrick Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",-,NE
+Merrick Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",-,NE
+Merrick Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,-,NE
+Merrick Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,-,NE
+Merrick Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",-,NE
+Merrick Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",-,NE
+Merrick Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",-,NE
+Merrick Medical Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",-,NE
+Merrick Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",-,NE
+Merrick Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",-,NE
+Merrick Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",-,NE
+Merrick Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",-,NE
+Merrick Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",-,NE
+Merrick Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",-,NE
+Merrick Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",-,NE
+Merrick Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",-,NE
+Merrick Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",-,NE
+Merrick Medical Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",-,NE
+Merrick Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",-,NE
+Merrick Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",-,NE
+Merrick Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",-,NE
+Merrick Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",-,NE
+Merrick Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",-,NE
+Merrick Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,-,NE
+Merrick Medical Center,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,-,NE
+Merrick Medical Center,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",-,NE
+Merrick Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",-,NE
+Merrick Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy",-,NE
+Merrick Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal",-,NE
+Merrick Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)",-,NE
+Merrick Medical Center,Digestive,HCPCS 43235,EGD,-,NE
+Merrick Medical Center,Digestive,HCPCS 43239,EGD and biopsy,-,NE
+Merrick Medical Center,General,HCPCS 10060,Drainage of Abscess,-,NE
+Merrick Medical Center,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",-,NE
+Merrick Medical Center,General,HCPCS 69200,Removal of foreign body from ear canal,-,NE
+Merrick Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),-,NE
+Merrick Medical Center,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),-,NE
+Merrick Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",-,NE
+Merrick Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",-,NE
+Merrick Medical Center,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,-,NE
+Merrick Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,-,NE
+Merrick Medical Center,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,-,NE
+Merrick Medical Center,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,-,NE
+Merrick Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,-,NE
+Merrick Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",-,NE
+Merrick Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,-,NE
+Merrick Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,-,NE
+Merrick Medical Center,Soft Tissue,HCPCS 97602,Non-selective debridement,-,NE
+Merrick Medical Center,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,-,NE
+Merrick Medical Center,Vascular,HCPCS 36416,Collection of capillary blood specimen,-,NE
+Merrick Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,-,NE
+Merrick Medical Center,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,-,NE

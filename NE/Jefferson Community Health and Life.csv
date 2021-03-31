@@ -1,0 +1,149 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Jefferson Community Health and Life,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,605.18",NE
+Jefferson Community Health and Life,Emergency Care,HCPCS 99281,Emergency Level 1,$485.98,NE
+Jefferson Community Health and Life,Emergency Care,HCPCS 99282,Emergency Level 2,$485.98,NE
+Jefferson Community Health and Life,Emergency Care,HCPCS 99283,Emergency Level 3,$485.98,NE
+Jefferson Community Health and Life,Emergency Care,HCPCS 99284,Emergency Level 4,$485.98,NE
+Jefferson Community Health and Life,Emergency Care,HCPCS 99285,Emergency Level 5,$485.98,NE
+Jefferson Community Health and Life,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$110.51,NE
+Jefferson Community Health and Life,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$110.51,NE
+Jefferson Community Health and Life,Blood,HCPCS 85018,"Blood count, hemoglobin",$4.25,NE
+Jefferson Community Health and Life,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$5.25,NE
+Jefferson Community Health and Life,Blood,HCPCS 85610,"Blood test, clotting time",$20.50,NE
+Jefferson Community Health and Life,Blood,HCPCS 85730,Coagulation assessment blood test,$69.75,NE
+Jefferson Community Health and Life,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$34.85,NE
+Jefferson Community Health and Life,Blood,HCPCS 85027,"Complete blood count, automated",$34.85,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 82040,Albumin (protein) level,$10.75,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 82150,Amylase (enzyme) level,$11.10,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 84439,Assay of free thyroxine,$23.58,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 82248,Bilirubin level (Direct),$8.25,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 82565,Blood creatinine level,$30.59,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$7.50,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$31.76,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 82525,Copper level,$124.50,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$94.93,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$29.06,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$34.78,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 82746,Folic acid; serum,$30.00,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$66.25,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$26.55,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$106.50,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$109.50,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$21.25,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 82330,Ionized Calcium,$41.25,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 83550,Iron Binding Capacity,$24.00,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 83540,Iron level,$17.63,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$44.06,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$11.75,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$8.25,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$117.75,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 83735,Magnesium Level,$46.13,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$140.25,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$25.35,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 82270,Stool analysis for blood,$18.00,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 84403,Testosterone (hormone) level,$78.15,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$23.58,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$25.35,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 84166,Troponin (protein) analysis,$25.35,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 84550,"Uric acid level, blood",$24.38,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 82340,Urine calcium level,$41.25,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$10.75,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$107.85,NE
+Jefferson Community Health and Life,Chemistry,HCPCS 84630,Zinc level,$93.00,NE
+Jefferson Community Health and Life,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$32.70,NE
+Jefferson Community Health and Life,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$43.50,NE
+Jefferson Community Health and Life,Immunology,HCPCS 86140,Measurement C-reactive protein,$17.48,NE
+Jefferson Community Health and Life,Immunology,HCPCS 86431,Rheumatoid factor level,$12.00,NE
+Jefferson Community Health and Life,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$11.81,NE
+Jefferson Community Health and Life,Immunology,HCPCS 86580,Skin test for tuberculosis,$13.50,NE
+Jefferson Community Health and Life,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$68.50,NE
+Jefferson Community Health and Life,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$35.37,NE
+Jefferson Community Health and Life,Microbiology,HCPCS 87491,Chlamydia Test,$69.38,NE
+Jefferson Community Health and Life,Microbiology,HCPCS 87635,Covid-19 current infection test,$165.00,NE
+Jefferson Community Health and Life,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$126.75,NE
+Jefferson Community Health and Life,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$69.94,NE
+Jefferson Community Health and Life,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$32.70,NE
+Jefferson Community Health and Life,Microbiology,HCPCS 87045,Stool Culture,$92.25,NE
+Jefferson Community Health and Life,Microbiology,HCPCS 87880,Strep Test,$28.24,NE
+Jefferson Community Health and Life,Microbiology,HCPCS 87804,Test for Influenza Virus,$61.76,NE
+Jefferson Community Health and Life,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$12.75,NE
+Jefferson Community Health and Life,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$46.60,NE
+Jefferson Community Health and Life,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$47.42,NE
+Jefferson Community Health and Life,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$31.75,NE
+Jefferson Community Health and Life,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$15.50,NE
+Jefferson Community Health and Life,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$36.84,NE
+Jefferson Community Health and Life,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$133.80,NE
+Jefferson Community Health and Life,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$77.25,NE
+Jefferson Community Health and Life,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$13.50,NE
+Jefferson Community Health and Life,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$21.75,NE
+Jefferson Community Health and Life,Transfusion,HCPCS 86900,"Blood Typing, ABO",$50.75,NE
+Jefferson Community Health and Life,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$50.75,NE
+Jefferson Community Health and Life,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$14.21,NE
+Jefferson Community Health and Life,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$12.62,NE
+Jefferson Community Health and Life,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$12.62,NE
+Jefferson Community Health and Life,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$36.31,NE
+Jefferson Community Health and Life,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$184.72,NE
+Jefferson Community Health and Life,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$184.72,NE
+Jefferson Community Health and Life,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$413.17,NE
+Jefferson Community Health and Life,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$298.09,NE
+Jefferson Community Health and Life,Breast,HCPCS 77067,Mammogram Screening,$237.75,NE
+Jefferson Community Health and Life,Breast,HCPCS 77066,Mammography of both breasts,$298.09,NE
+Jefferson Community Health and Life,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$2,521.13",NE
+Jefferson Community Health and Life,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,470.00",NE
+Jefferson Community Health and Life,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,323.75",NE
+Jefferson Community Health and Life,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$2,933.74",NE
+Jefferson Community Health and Life,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,933.74",NE
+Jefferson Community Health and Life,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,562.00",NE
+Jefferson Community Health and Life,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$2,437.88",NE
+Jefferson Community Health and Life,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,798.99",NE
+Jefferson Community Health and Life,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,679.25",NE
+Jefferson Community Health and Life,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,827.90",NE
+Jefferson Community Health and Life,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,962.75",NE
+Jefferson Community Health and Life,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,962.75",NE
+Jefferson Community Health and Life,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,314.97",NE
+Jefferson Community Health and Life,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,564.65",NE
+Jefferson Community Health and Life,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,324.93",NE
+Jefferson Community Health and Life,MRI,HCPCS 73721,MRI scan of leg joint,"$1,737.00",NE
+Jefferson Community Health and Life,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$424.50,NE
+Jefferson Community Health and Life,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$504.63,NE
+Jefferson Community Health and Life,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$504.63,NE
+Jefferson Community Health and Life,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$550.50,NE
+Jefferson Community Health and Life,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$462.00,NE
+Jefferson Community Health and Life,Chest,HCPCS 71046,X-ray of chest; 2 Views,$167.69,NE
+Jefferson Community Health and Life,Chest,HCPCS 71045,X-ray of chest; Single View,$167.69,NE
+Jefferson Community Health and Life,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$231.75,NE
+Jefferson Community Health and Life,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$239.25,NE
+Jefferson Community Health and Life,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$202.13,NE
+Jefferson Community Health and Life,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$222.00,NE
+Jefferson Community Health and Life,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$139.20,NE
+Jefferson Community Health and Life,Lower Limbs,HCPCS 73630,X-ray exam of foot,$139.20,NE
+Jefferson Community Health and Life,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$186.64,NE
+Jefferson Community Health and Life,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$186.64,NE
+Jefferson Community Health and Life,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$186.64,NE
+Jefferson Community Health and Life,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$216.75,NE
+Jefferson Community Health and Life,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$252.46,NE
+Jefferson Community Health and Life,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$252.46,NE
+Jefferson Community Health and Life,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$225.38,NE
+Jefferson Community Health and Life,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$71.00,NE
+Jefferson Community Health and Life,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$77.50,NE
+Jefferson Community Health and Life,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$85.19,NE
+Jefferson Community Health and Life,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$201.18,NE
+Jefferson Community Health and Life,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$85.19,NE
+Jefferson Community Health and Life,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$85.19,NE
+Jefferson Community Health and Life,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$22,233.15",NE
+Jefferson Community Health and Life,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$4,213.31",NE
+Jefferson Community Health and Life,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$4,335.53",NE
+Jefferson Community Health and Life,Breast,HCPCS 19101,Biopsy of breast,"$1,757.13",NE
+Jefferson Community Health and Life,Breast,HCPCS 19125,Excision of breast lesion,"$3,809.43",NE
+Jefferson Community Health and Life,Breast,HCPCS 19301,Partial removal of breast,"$1,757.13",NE
+Jefferson Community Health and Life,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,401.31",NE
+Jefferson Community Health and Life,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$3,020.26",NE
+Jefferson Community Health and Life,General,HCPCS 10060,Drainage of Abscess,$321.77,NE
+Jefferson Community Health and Life,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$631.20,NE
+Jefferson Community Health and Life,General,HCPCS 69200,Removal of foreign body from ear canal,$55.31,NE
+Jefferson Community Health and Life,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$267.60,NE
+Jefferson Community Health and Life,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$267.60,NE
+Jefferson Community Health and Life,Head,HCPCS 69436,Create eardrum opening,"$1,261.06",NE
+Jefferson Community Health and Life,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$146.18,NE
+Jefferson Community Health and Life,Ocular,HCPCS 66984,Cataract removal,"$3,982.59",NE
+Jefferson Community Health and Life,Vascular,HCPCS 36416,Collection of capillary blood specimen,$9.76,NE

@@ -1,0 +1,237 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Sidney Regional Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$3,549.53",NE
+Sidney Regional Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$869.67,NE
+Sidney Regional Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$869.67,NE
+Sidney Regional Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$869.67,NE
+Sidney Regional Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,$869.67,NE
+Sidney Regional Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,$869.67,NE
+Sidney Regional Medical Center,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$150.99,NE
+Sidney Regional Medical Center,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$150.99,NE
+Sidney Regional Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$150.99,NE
+Sidney Regional Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$150.99,NE
+Sidney Regional Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$150.99,NE
+Sidney Regional Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$353.15,NE
+Sidney Regional Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$39.24,NE
+Sidney Regional Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$41.56,NE
+Sidney Regional Medical Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$107.64,NE
+Sidney Regional Medical Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$107.64,NE
+Sidney Regional Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$49.68,NE
+Sidney Regional Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$85.45,NE
+Sidney Regional Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$48.67,NE
+Sidney Regional Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$48.67,NE
+Sidney Regional Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$74.91,NE
+Sidney Regional Medical Center,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$123.92,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$136.15,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$92.01,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$246.71,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$105.25,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$68.94,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$68.94,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$76.05,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$46.08,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$46.08,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 84132,Blood potassium level,$54.88,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$80.00,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 82310,Calcium level,$68.32,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$148.53,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$149.52,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$98.26,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$152.33,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$119.82,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$141.11,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$108.35,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$81.43,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$138.75,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$145.66,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$137.36,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$72.82,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$231.62,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$68.32,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$82.98,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 83540,Iron level,$68.89,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$73.10,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$125.38,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$69.42,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$187.89,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$51.24,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 83970,Parathormone,$251.08,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$80.17,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$231.62,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$171.50,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$80.17,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$46.31,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$165.59,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$165.59,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$485.05,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$105.25,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$80.17,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$80.17,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$80.17,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$64.39,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$68.32,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$136.15,NE
+Sidney Regional Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$174.47,NE
+Sidney Regional Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$201.14,NE
+Sidney Regional Medical Center,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$115.32,NE
+Sidney Regional Medical Center,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$115.32,NE
+Sidney Regional Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$123.07,NE
+Sidney Regional Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$123.07,NE
+Sidney Regional Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$123.07,NE
+Sidney Regional Medical Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$211.82,NE
+Sidney Regional Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$121.21,NE
+Sidney Regional Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$294.59,NE
+Sidney Regional Medical Center,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$201.14,NE
+Sidney Regional Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$117.04,NE
+Sidney Regional Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$88.36,NE
+Sidney Regional Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$94.95,NE
+Sidney Regional Medical Center,Immunology,HCPCS 86580,Skin test for tuberculosis,$12.46,NE
+Sidney Regional Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$69.30,NE
+Sidney Regional Medical Center,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$223.84,NE
+Sidney Regional Medical Center,Immunology,HCPCS 86359,"T cells count, total",$223.84,NE
+Sidney Regional Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$128.59,NE
+Sidney Regional Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$123.82,NE
+Sidney Regional Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$123.07,NE
+Sidney Regional Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$135.69,NE
+Sidney Regional Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$126.65,NE
+Sidney Regional Medical Center,Microbiology,HCPCS 87624,HPV Detection,$156.82,NE
+Sidney Regional Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$91.05,NE
+Sidney Regional Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$112.59,NE
+Sidney Regional Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$94.45,NE
+Sidney Regional Medical Center,Microbiology,HCPCS 87045,Stool Culture,$93.68,NE
+Sidney Regional Medical Center,Microbiology,HCPCS 87880,Strep Test,$49.81,NE
+Sidney Regional Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$69.30,NE
+Sidney Regional Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$132.19,NE
+Sidney Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$387.36,NE
+Sidney Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$67.66,NE
+Sidney Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$81.24,NE
+Sidney Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$106.26,NE
+Sidney Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$158.84,NE
+Sidney Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$131.68,NE
+Sidney Regional Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$235.49,NE
+Sidney Regional Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$122.15,NE
+Sidney Regional Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$211.00,NE
+Sidney Regional Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$127.72,NE
+Sidney Regional Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$203.81,NE
+Sidney Regional Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$75.60,NE
+Sidney Regional Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$75.60,NE
+Sidney Regional Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$191.14,NE
+Sidney Regional Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$110.99,NE
+Sidney Regional Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$110.99,NE
+Sidney Regional Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$29.27,NE
+Sidney Regional Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$29.27,NE
+Sidney Regional Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$50.16,NE
+Sidney Regional Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$304.20,NE
+Sidney Regional Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$543.30,NE
+Sidney Regional Medical Center,Pulmonary,HCPCS 94640,Aerosol Treatment,$568.90,NE
+Sidney Regional Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$674.52,NE
+Sidney Regional Medical Center,Sleep,HCPCS 95810,Sleep study,"$3,906.23",NE
+Sidney Regional Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$303.00,NE
+Sidney Regional Medical Center,Breast,HCPCS 77067,Mammogram Screening,$379.69,NE
+Sidney Regional Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$303.00,NE
+Sidney Regional Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$3,347.73",NE
+Sidney Regional Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,827.32",NE
+Sidney Regional Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,877.95",NE
+Sidney Regional Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$4,534.40",NE
+Sidney Regional Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$4,534.40",NE
+Sidney Regional Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$3,747.21",NE
+Sidney Regional Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$2,947.98",NE
+Sidney Regional Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$2,947.98",NE
+Sidney Regional Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$2,583.88",NE
+Sidney Regional Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,243.46",NE
+Sidney Regional Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$2,447.69",NE
+Sidney Regional Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$3,356.19",NE
+Sidney Regional Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$3,094.20",NE
+Sidney Regional Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$3,094.20",NE
+Sidney Regional Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$4,533.37",NE
+Sidney Regional Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$3,094.20",NE
+Sidney Regional Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$5,052.08",NE
+Sidney Regional Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,606.59",NE
+Sidney Regional Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$4,516.05",NE
+Sidney Regional Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$3,073.60",NE
+Sidney Regional Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$2,516.12",NE
+Sidney Regional Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$672.60,NE
+Sidney Regional Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$753.21,NE
+Sidney Regional Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$631.30,NE
+Sidney Regional Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$820.44,NE
+Sidney Regional Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$820.44,NE
+Sidney Regional Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$728.07,NE
+Sidney Regional Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$728.07,NE
+Sidney Regional Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$684.41,NE
+Sidney Regional Medical Center,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$420.19,NE
+Sidney Regional Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$303.03,NE
+Sidney Regional Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$303.03,NE
+Sidney Regional Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$296.94,NE
+Sidney Regional Medical Center,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$247.42,NE
+Sidney Regional Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$315.15,NE
+Sidney Regional Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$316.16,NE
+Sidney Regional Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$320.16,NE
+Sidney Regional Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$320.16,NE
+Sidney Regional Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$320.16,NE
+Sidney Regional Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$361.84,NE
+Sidney Regional Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$320.16,NE
+Sidney Regional Medical Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$254.99,NE
+Sidney Regional Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$361.84,NE
+Sidney Regional Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$361.84,NE
+Sidney Regional Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$316.48,NE
+Sidney Regional Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$543.52,NE
+Sidney Regional Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$543.52,NE
+Sidney Regional Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$413.10,NE
+Sidney Regional Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$313.92,NE
+Sidney Regional Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$248.47,NE
+Sidney Regional Medical Center,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$296.74,NE
+Sidney Regional Medical Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$303.03,NE
+Sidney Regional Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$303.03,NE
+Sidney Regional Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$389.60,NE
+Sidney Regional Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$303.03,NE
+Sidney Regional Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$303.03,NE
+Sidney Regional Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$9,301.39",NE
+Sidney Regional Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$9,301.39",NE
+Sidney Regional Medical Center,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$10,821.80",NE
+Sidney Regional Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$5,117.04",NE
+Sidney Regional Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$213.69,NE
+Sidney Regional Medical Center,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,"$7,003.59",NE
+Sidney Regional Medical Center,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$3,522.78",NE
+Sidney Regional Medical Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$8,044.84",NE
+Sidney Regional Medical Center,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$7,908.60",NE
+Sidney Regional Medical Center,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$5,117.04",NE
+Sidney Regional Medical Center,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$5,117.04",NE
+Sidney Regional Medical Center,Breast,HCPCS 19301,Partial removal of breast,"$4,173.21",NE
+Sidney Regional Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,947.04",NE
+Sidney Regional Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$2,582.26",NE
+Sidney Regional Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$2,451.83",NE
+Sidney Regional Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$2,451.83",NE
+Sidney Regional Medical Center,Digestive,HCPCS 43235,EGD,"$1,609.29",NE
+Sidney Regional Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$2,466.31",NE
+Sidney Regional Medical Center,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,$662.16,NE
+Sidney Regional Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$13,786.10",NE
+Sidney Regional Medical Center,General,HCPCS 55700,Biopsy of prostate gland,"$1,019.20",NE
+Sidney Regional Medical Center,General,HCPCS 10060,Drainage of Abscess,$987.42,NE
+Sidney Regional Medical Center,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$380.30,NE
+Sidney Regional Medical Center,General,HCPCS 69200,Removal of foreign body from ear canal,$399.57,NE
+Sidney Regional Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$907.81,NE
+Sidney Regional Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$907.81,NE
+Sidney Regional Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$907.81,NE
+Sidney Regional Medical Center,Head,HCPCS 69436,Create eardrum opening,"$4,671.01",NE
+Sidney Regional Medical Center,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$6,942.15",NE
+Sidney Regional Medical Center,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$72,971.36",NE
+Sidney Regional Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$1,702.04",NE
+Sidney Regional Medical Center,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$1,702.04",NE
+Sidney Regional Medical Center,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$1,885.50",NE
+Sidney Regional Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$53,056.77",NE
+Sidney Regional Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$6,459.99",NE
+Sidney Regional Medical Center,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$6,459.99",NE
+Sidney Regional Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$1,282.49",NE
+Sidney Regional Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$69,376.97",NE
+Sidney Regional Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$72,971.36",NE
+Sidney Regional Medical Center,Musculoskeletal,HCPCS 22612,Spine arthrodesis,"$4,713.67",NE
+Sidney Regional Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$407.03,NE
+Sidney Regional Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$17,933.52",NE
+Sidney Regional Medical Center,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$10,625.65",NE
+Sidney Regional Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$10,334.90",NE
+Sidney Regional Medical Center,Ocular,HCPCS 66984,Cataract removal,"$7,257.14",NE
+Sidney Regional Medical Center,Ocular,HCPCS 66982,Cataract removal with insertion of lens,"$7,257.14",NE
+Sidney Regional Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$309.57,NE
+Sidney Regional Medical Center,Vascular,HCPCS 36416,Collection of capillary blood specimen,$29.83,NE
+Sidney Regional Medical Center,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$5,112.99",NE
+Sidney Regional Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$3,199.54",NE
+Sidney Regional Medical Center,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,$703.82,NE

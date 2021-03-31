@@ -1,0 +1,308 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Essentia Health-Fargo,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$548.25,ND
+Essentia Health-Fargo,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,587.00",ND
+Essentia Health-Fargo,Emergency Care,HCPCS 99281,Emergency Level 1,$167.25,ND
+Essentia Health-Fargo,Emergency Care,HCPCS 99282,Emergency Level 2,$267.00,ND
+Essentia Health-Fargo,Emergency Care,HCPCS 99283,Emergency Level 3,$438.75,ND
+Essentia Health-Fargo,Emergency Care,HCPCS 99284,Emergency Level 4,$684.00,ND
+Essentia Health-Fargo,Emergency Care,HCPCS 99285,Emergency Level 5,$993.75,ND
+Essentia Health-Fargo,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$118.50,ND
+Essentia Health-Fargo,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$147.00,ND
+Essentia Health-Fargo,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$80.25,ND
+Essentia Health-Fargo,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$384.00,ND
+Essentia Health-Fargo,Speech,HCPCS 92507,Speech Therapy,$159.75,ND
+Essentia Health-Fargo,Speech,HCPCS 92610,Swallow Evaluation,$216.75,ND
+Essentia Health-Fargo,Speech,HCPCS 92526,Swallow Treatment,$172.50,ND
+Essentia Health-Fargo,Blood,HCPCS 85018,"Blood count, hemoglobin",$30.75,ND
+Essentia Health-Fargo,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$34.50,ND
+Essentia Health-Fargo,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$51.00,ND
+Essentia Health-Fargo,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$79.50,ND
+Essentia Health-Fargo,Blood,HCPCS 85610,"Blood test, clotting time",$47.25,ND
+Essentia Health-Fargo,Blood,HCPCS 85730,Coagulation assessment blood test,$62.25,ND
+Essentia Health-Fargo,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$60.00,ND
+Essentia Health-Fargo,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$82.50,ND
+Essentia Health-Fargo,Blood,HCPCS 85027,"Complete blood count, automated",$54.00,ND
+Essentia Health-Fargo,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$107.25,ND
+Essentia Health-Fargo,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$148.50,ND
+Essentia Health-Fargo,Blood,HCPCS 85660,Red blood cell sickling measurement,$56.25,ND
+Essentia Health-Fargo,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$427.50,ND
+Essentia Health-Fargo,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$138.75,ND
+Essentia Health-Fargo,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$159.75,ND
+Essentia Health-Fargo,Chemistry,HCPCS 82040,Albumin (protein) level,$36.75,ND
+Essentia Health-Fargo,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$145.50,ND
+Essentia Health-Fargo,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$93.00,ND
+Essentia Health-Fargo,Chemistry,HCPCS 82140,Ammonia level,$110.25,ND
+Essentia Health-Fargo,Chemistry,HCPCS 82150,Amylase (enzyme) level,$67.50,ND
+Essentia Health-Fargo,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$78.75,ND
+Essentia Health-Fargo,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$135.00,ND
+Essentia Health-Fargo,Chemistry,HCPCS 84439,Assay of free thyroxine,$73.50,ND
+Essentia Health-Fargo,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$129.75,ND
+Essentia Health-Fargo,Chemistry,HCPCS 82248,Bilirubin level (Direct),$46.50,ND
+Essentia Health-Fargo,Chemistry,HCPCS 82247,Bilirubin level (Total),$58.50,ND
+Essentia Health-Fargo,Chemistry,HCPCS 82565,Blood creatinine level,$57.00,ND
+Essentia Health-Fargo,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$44.25,ND
+Essentia Health-Fargo,Chemistry,HCPCS 84295,Blood sodium level,$48.00,ND
+Essentia Health-Fargo,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$51.00,ND
+Essentia Health-Fargo,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$103.50,ND
+Essentia Health-Fargo,Chemistry,HCPCS 82310,Calcium level,$54.75,ND
+Essentia Health-Fargo,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$56.25,ND
+Essentia Health-Fargo,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$120.00,ND
+Essentia Health-Fargo,Chemistry,HCPCS 82465,Cholesterol level,$38.25,ND
+Essentia Health-Fargo,Chemistry,HCPCS 82525,Copper level,$67.50,ND
+Essentia Health-Fargo,Chemistry,HCPCS 82533,Cortisol Measurement,$100.50,ND
+Essentia Health-Fargo,Chemistry,HCPCS 84681,C-peptide (protein) level,$84.75,ND
+Essentia Health-Fargo,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$60.00,ND
+Essentia Health-Fargo,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$96.75,ND
+Essentia Health-Fargo,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$145.50,ND
+Essentia Health-Fargo,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$38.25,ND
+Essentia Health-Fargo,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$132.75,ND
+Essentia Health-Fargo,Chemistry,HCPCS 82746,Folic acid; serum,$121.50,ND
+Essentia Health-Fargo,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$69.75,ND
+Essentia Health-Fargo,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$47.25,ND
+Essentia Health-Fargo,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$71.25,ND
+Essentia Health-Fargo,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$100.50,ND
+Essentia Health-Fargo,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$147.75,ND
+Essentia Health-Fargo,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$86.25,ND
+Essentia Health-Fargo,Chemistry,HCPCS 83718,HDL cholesterol level,$46.50,ND
+Essentia Health-Fargo,Chemistry,HCPCS 83020,Hemoglobin Measurement,$66.00,ND
+Essentia Health-Fargo,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$195.75,ND
+Essentia Health-Fargo,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$115.50,ND
+Essentia Health-Fargo,Chemistry,HCPCS 83520,IgE (immune system protein) level,$64.50,ND
+Essentia Health-Fargo,Chemistry,HCPCS 83525,Insulin Measurement; Total,$56.25,ND
+Essentia Health-Fargo,Chemistry,HCPCS 82330,Ionized Calcium,$107.25,ND
+Essentia Health-Fargo,Chemistry,HCPCS 83540,Iron level,$60.75,ND
+Essentia Health-Fargo,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$54.75,ND
+Essentia Health-Fargo,Chemistry,HCPCS 83721,LDL cholesterol level,$51.75,ND
+Essentia Health-Fargo,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$55.50,ND
+Essentia Health-Fargo,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$56.25,ND
+Essentia Health-Fargo,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$83.25,ND
+Essentia Health-Fargo,Chemistry,HCPCS 83021,Liver function blood test panel,$73.50,ND
+Essentia Health-Fargo,Chemistry,HCPCS 83735,Magnesium Level,$50.25,ND
+Essentia Health-Fargo,Chemistry,HCPCS 82542,Mass spectrometry,$118.50,ND
+Essentia Health-Fargo,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$121.50,ND
+Essentia Health-Fargo,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$38.25,ND
+Essentia Health-Fargo,Chemistry,HCPCS 83945,Oxalate level,$61.50,ND
+Essentia Health-Fargo,Chemistry,HCPCS 83970,Parathormone,$252.00,ND
+Essentia Health-Fargo,Chemistry,HCPCS 84157,Prealbumin (protein) level,$50.25,ND
+Essentia Health-Fargo,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$120.75,ND
+Essentia Health-Fargo,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$111.75,ND
+Essentia Health-Fargo,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$85.50,ND
+Essentia Health-Fargo,Chemistry,HCPCS 82270,Stool analysis for blood,$13.50,ND
+Essentia Health-Fargo,Chemistry,HCPCS 84403,Testosterone (hormone) level,$124.50,ND
+Essentia Health-Fargo,Chemistry,HCPCS 84402,Testosterone Level; Free,$102.00,ND
+Essentia Health-Fargo,Chemistry,HCPCS 84479,"Thyroid Hormone, T3 Measurement, Free",$27.75,ND
+Essentia Health-Fargo,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$255.00,ND
+Essentia Health-Fargo,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$45.00,ND
+Essentia Health-Fargo,Chemistry,HCPCS 84155,"Total protein level, blood",$46.50,ND
+Essentia Health-Fargo,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$46.50,ND
+Essentia Health-Fargo,Chemistry,HCPCS 84478,Triglycerides level,$60.75,ND
+Essentia Health-Fargo,Chemistry,HCPCS 84166,Troponin (protein) analysis,$93.75,ND
+Essentia Health-Fargo,Chemistry,HCPCS 84560,Uric acid level,$45.00,ND
+Essentia Health-Fargo,Chemistry,HCPCS 84550,"Uric acid level, blood",$45.75,ND
+Essentia Health-Fargo,Chemistry,HCPCS 82340,Urine calcium level,$54.00,ND
+Essentia Health-Fargo,Chemistry,HCPCS 82436,Urine chloride level,$35.25,ND
+Essentia Health-Fargo,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$65.25,ND
+Essentia Health-Fargo,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$59.25,ND
+Essentia Health-Fargo,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$54.00,ND
+Essentia Health-Fargo,Chemistry,HCPCS 84133,Urine potassium level,$41.25,ND
+Essentia Health-Fargo,Chemistry,HCPCS 84300,Urine sodium level,$43.50,ND
+Essentia Health-Fargo,Chemistry,HCPCS 84591,Vitamin B-6 level,$67.50,ND
+Essentia Health-Fargo,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$170.25,ND
+Essentia Health-Fargo,Chemistry,HCPCS 84630,Zinc level,$82.50,ND
+Essentia Health-Fargo,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$95.25,ND
+Essentia Health-Fargo,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$96.75,ND
+Essentia Health-Fargo,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$56.25,ND
+Essentia Health-Fargo,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$13.50,ND
+Essentia Health-Fargo,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$42.75,ND
+Essentia Health-Fargo,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$76.50,ND
+Essentia Health-Fargo,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$92.25,ND
+Essentia Health-Fargo,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$99.00,ND
+Essentia Health-Fargo,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$34.50,ND
+Essentia Health-Fargo,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$57.75,ND
+Essentia Health-Fargo,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$122.25,ND
+Essentia Health-Fargo,Immunology,HCPCS 86140,Measurement C-reactive protein,$148.50,ND
+Essentia Health-Fargo,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$21.75,ND
+Essentia Health-Fargo,Immunology,HCPCS 86161,Measurement of complement (immune system proteins),$57.00,ND
+Essentia Health-Fargo,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$69.75,ND
+Essentia Health-Fargo,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$84.00,ND
+Essentia Health-Fargo,Immunology,HCPCS 86431,Rheumatoid factor level,$58.50,ND
+Essentia Health-Fargo,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$72.00,ND
+Essentia Health-Fargo,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$44.25,ND
+Essentia Health-Fargo,Immunology,HCPCS 86592,Syphilis Detection Test,$33.75,ND
+Essentia Health-Fargo,Immunology,HCPCS 86361,T cell count and ratio,$173.25,ND
+Essentia Health-Fargo,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$158.25,ND
+Essentia Health-Fargo,Immunology,HCPCS 86359,"T cells count, total",$146.25,ND
+Essentia Health-Fargo,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$66.75,ND
+Essentia Health-Fargo,Immunology,HCPCS 86580,Tuberculosis Test,$18.00,ND
+Essentia Health-Fargo,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$35.25,ND
+Essentia Health-Fargo,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$72.00,ND
+Essentia Health-Fargo,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$58.50,ND
+Essentia Health-Fargo,Microbiology,HCPCS 87491,Chlamydia Test,$153.75,ND
+Essentia Health-Fargo,Microbiology,HCPCS 87635,Covid-19 current infection test,$120.00,ND
+Essentia Health-Fargo,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$166.50,ND
+Essentia Health-Fargo,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$292.50,ND
+Essentia Health-Fargo,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$22.50,ND
+Essentia Health-Fargo,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$285.00,ND
+Essentia Health-Fargo,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$159.75,ND
+Essentia Health-Fargo,Microbiology,HCPCS 87517,Hepatitis B Detection,$292.50,ND
+Essentia Health-Fargo,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$79.50,ND
+Essentia Health-Fargo,Microbiology,HCPCS 87624,HPV Detection,$125.25,ND
+Essentia Health-Fargo,Microbiology,HCPCS 86735,Mumps virus antibody test,$12.75,ND
+Essentia Health-Fargo,Microbiology,HCPCS 86747,Parvovirus antibody test,$69.00,ND
+Essentia Health-Fargo,Microbiology,HCPCS 86762,Rubella virus antibody test,$62.25,ND
+Essentia Health-Fargo,Microbiology,HCPCS 86765,Rubeola virus antibody test,$12.75,ND
+Essentia Health-Fargo,Microbiology,HCPCS 87207,Smear for infectious agents,$81.00,ND
+Essentia Health-Fargo,Microbiology,HCPCS 87177,Smear for Parasites,$23.25,ND
+Essentia Health-Fargo,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$40.50,ND
+Essentia Health-Fargo,Microbiology,HCPCS 87045,Stool Culture,$50.25,ND
+Essentia Health-Fargo,Microbiology,HCPCS 87880,Streptoccus,$56.25,ND
+Essentia Health-Fargo,Microbiology,HCPCS 87804,Test for Influenza Virus,$61.50,ND
+Essentia Health-Fargo,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$62.25,ND
+Essentia Health-Fargo,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$72.75,ND
+Essentia Health-Fargo,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$405.75,ND
+Essentia Health-Fargo,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$224.25,ND
+Essentia Health-Fargo,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$69.00,ND
+Essentia Health-Fargo,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$120.00,ND
+Essentia Health-Fargo,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$95.25,ND
+Essentia Health-Fargo,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$93.75,ND
+Essentia Health-Fargo,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$108.75,ND
+Essentia Health-Fargo,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$151.50,ND
+Essentia Health-Fargo,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$100.50,ND
+Essentia Health-Fargo,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$101.25,ND
+Essentia Health-Fargo,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$98.25,ND
+Essentia Health-Fargo,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$55.50,ND
+Essentia Health-Fargo,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$40.50,ND
+Essentia Health-Fargo,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$63.75,ND
+Essentia Health-Fargo,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$83.25,ND
+Essentia Health-Fargo,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$94.50,ND
+Essentia Health-Fargo,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$132.75,ND
+Essentia Health-Fargo,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$95.25,ND
+Essentia Health-Fargo,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$112.50,ND
+Essentia Health-Fargo,Transfusion,HCPCS 86900,"Blood Typing, ABO",$79.50,ND
+Essentia Health-Fargo,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$49.50,ND
+Essentia Health-Fargo,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$111.75,ND
+Essentia Health-Fargo,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$48.75,ND
+Essentia Health-Fargo,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$87.75,ND
+Essentia Health-Fargo,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$90.75,ND
+Essentia Health-Fargo,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$21.00,ND
+Essentia Health-Fargo,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$31.50,ND
+Essentia Health-Fargo,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$35.25,ND
+Essentia Health-Fargo,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$301.50,ND
+Essentia Health-Fargo,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$123.75,ND
+Essentia Health-Fargo,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$288.00,ND
+Essentia Health-Fargo,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),$823.50,ND
+Essentia Health-Fargo,Cardiovascular,HCPCS 93975,Ultrasound Heart,$860.25,ND
+Essentia Health-Fargo,Pulmonary,HCPCS 94729,CO Diffusion Capacity,$105.75,ND
+Essentia Health-Fargo,Pulmonary,HCPCS 94640,Nebulizer Treatment,$149.25,ND
+Essentia Health-Fargo,Pulmonary,HCPCS 94618,Pulmonary stress test,$228.00,ND
+Essentia Health-Fargo,Pulmonary,HCPCS 94010,Spirometry - breathing test,$147.00,ND
+Essentia Health-Fargo,Sleep,HCPCS 95810,Sleep study,"$2,214.00",ND
+Essentia Health-Fargo,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$66.00,ND
+Essentia Health-Fargo,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,805.25",ND
+Essentia Health-Fargo,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,147.50",ND
+Essentia Health-Fargo,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,086.00",ND
+Essentia Health-Fargo,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,224.00",ND
+Essentia Health-Fargo,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,072.75",ND
+Essentia Health-Fargo,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,616.00",ND
+Essentia Health-Fargo,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,256.00",ND
+Essentia Health-Fargo,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,428.75",ND
+Essentia Health-Fargo,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,685.25",ND
+Essentia Health-Fargo,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,401.75",ND
+Essentia Health-Fargo,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,213.50",ND
+Essentia Health-Fargo,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,389.75",ND
+Essentia Health-Fargo,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,320.00",ND
+Essentia Health-Fargo,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,972.50",ND
+Essentia Health-Fargo,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,164.50",ND
+Essentia Health-Fargo,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,164.50",ND
+Essentia Health-Fargo,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,520.75",ND
+Essentia Health-Fargo,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,949.25",ND
+Essentia Health-Fargo,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$2,484.75",ND
+Essentia Health-Fargo,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,630.25",ND
+Essentia Health-Fargo,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,917.00",ND
+Essentia Health-Fargo,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,775.00",ND
+Essentia Health-Fargo,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,081.25",ND
+Essentia Health-Fargo,MRI,HCPCS 73721,MRI scan of leg joint,"$1,915.50",ND
+Essentia Health-Fargo,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$430.50,ND
+Essentia Health-Fargo,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$257.25,ND
+Essentia Health-Fargo,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$390.75,ND
+Essentia Health-Fargo,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$364.50,ND
+Essentia Health-Fargo,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$500.25,ND
+Essentia Health-Fargo,Ultrasound,HCPCS 76881,Ultrasound Joint Soft Tissue - Complete,$368.25,ND
+Essentia Health-Fargo,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$482.25,ND
+Essentia Health-Fargo,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$420.75,ND
+Essentia Health-Fargo,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$327.75,ND
+Essentia Health-Fargo,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$381.00,ND
+Essentia Health-Fargo,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$386.25,ND
+Essentia Health-Fargo,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$134.25,ND
+Essentia Health-Fargo,Chest,HCPCS 71046,X-ray of chest; 2 Views,$157.50,ND
+Essentia Health-Fargo,Chest,HCPCS 71045,X-ray of chest; Single View,$142.50,ND
+Essentia Health-Fargo,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$103.50,ND
+Essentia Health-Fargo,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$100.50,ND
+Essentia Health-Fargo,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$80.25,ND
+Essentia Health-Fargo,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$135.00,ND
+Essentia Health-Fargo,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$99.00,ND
+Essentia Health-Fargo,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$147.75,ND
+Essentia Health-Fargo,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$66.75,ND
+Essentia Health-Fargo,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$115.50,ND
+Essentia Health-Fargo,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$125.25,ND
+Essentia Health-Fargo,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$198.00,ND
+Essentia Health-Fargo,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$171.00,ND
+Essentia Health-Fargo,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$158.25,ND
+Essentia Health-Fargo,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$95.25,ND
+Essentia Health-Fargo,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$102.00,ND
+Essentia Health-Fargo,Lower Limbs,HCPCS 73565,X-ray Both Knees,$96.75,ND
+Essentia Health-Fargo,Lower Limbs,HCPCS 73630,X-ray exam of foot,$102.75,ND
+Essentia Health-Fargo,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$112.50,ND
+Essentia Health-Fargo,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$99.75,ND
+Essentia Health-Fargo,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$126.00,ND
+Essentia Health-Fargo,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$93.00,ND
+Essentia Health-Fargo,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$98.25,ND
+Essentia Health-Fargo,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$168.00,ND
+Essentia Health-Fargo,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$98.25,ND
+Essentia Health-Fargo,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$164.25,ND
+Essentia Health-Fargo,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$162.00,ND
+Essentia Health-Fargo,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$171.00,ND
+Essentia Health-Fargo,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$310.50,ND
+Essentia Health-Fargo,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$109.50,ND
+Essentia Health-Fargo,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$88.50,ND
+Essentia Health-Fargo,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$141.75,ND
+Essentia Health-Fargo,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$150.75,ND
+Essentia Health-Fargo,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$161.25,ND
+Essentia Health-Fargo,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$138.75,ND
+Essentia Health-Fargo,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$93.75,ND
+Essentia Health-Fargo,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$145.50,ND
+Essentia Health-Fargo,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$3,043.50",ND
+Essentia Health-Fargo,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$1,108.50",ND
+Essentia Health-Fargo,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$161.25,ND
+Essentia Health-Fargo,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$129.00,ND
+Essentia Health-Fargo,Cardiac,HCPCS 33249,Defibrillator complete system,"$28,875.00",ND
+Essentia Health-Fargo,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$8,103.00",ND
+Essentia Health-Fargo,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$5,310.00",ND
+Essentia Health-Fargo,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$356.25,ND
+Essentia Health-Fargo,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$9,612.75",ND
+Essentia Health-Fargo,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,485.00",ND
+Essentia Health-Fargo,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,462.50",ND
+Essentia Health-Fargo,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,631.25",ND
+Essentia Health-Fargo,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,612.50",ND
+Essentia Health-Fargo,Digestive,HCPCS 43235,EGD,"$1,506.00",ND
+Essentia Health-Fargo,Digestive,HCPCS 43239,EGD and biopsy,"$1,677.75",ND
+Essentia Health-Fargo,General,HCPCS 55700,Biopsy of prostate gland,"$1,125.00",ND
+Essentia Health-Fargo,General,HCPCS 10060,Drainage of Abscess,$249.75,ND
+Essentia Health-Fargo,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$469.50,ND
+Essentia Health-Fargo,General,HCPCS 69200,Removal of foreign body from ear canal,$189.00,ND
+Essentia Health-Fargo,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$357.75,ND
+Essentia Health-Fargo,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$444.00,ND
+Essentia Health-Fargo,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$386.25,ND
+Essentia Health-Fargo,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$357.75,ND
+Essentia Health-Fargo,Head,HCPCS 67028,Injection of drug into the eye,$381.75,ND
+Essentia Health-Fargo,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$360.00,ND
+Essentia Health-Fargo,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$1,140.00",ND
+Essentia Health-Fargo,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$1,229.25",ND
+Essentia Health-Fargo,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$1,199.25",ND
+Essentia Health-Fargo,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$282.75,ND
+Essentia Health-Fargo,Soft Tissue,HCPCS 97597,Debridement of open wound,$112.50,ND
+Essentia Health-Fargo,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$91.50,ND
+Essentia Health-Fargo,Vascular,HCPCS 36416,Collection of capillary blood specimen,$19.50,ND
+Essentia Health-Fargo,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,563.00",ND
+Essentia Health-Fargo,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$556.50,ND
+Essentia Health-Fargo,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,851.00",ND

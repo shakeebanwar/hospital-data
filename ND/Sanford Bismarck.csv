@@ -1,0 +1,325 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Sanford Bismarck,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$710.00,ND
+Sanford Bismarck,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$2,292.00",ND
+Sanford Bismarck,Emergency Care,HCPCS 99281,Emergency Level 1,$247.00,ND
+Sanford Bismarck,Emergency Care,HCPCS 99282,Emergency Level 2,$338.00,ND
+Sanford Bismarck,Emergency Care,HCPCS 99283,Emergency Level 3,$499.00,ND
+Sanford Bismarck,Emergency Care,HCPCS 99284,Emergency Level 4,$888.00,ND
+Sanford Bismarck,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,545.00",ND
+Sanford Bismarck,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$242.00,ND
+Sanford Bismarck,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$200.00,ND
+Sanford Bismarck,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$565.00,ND
+Sanford Bismarck,Speech,HCPCS 92507,Speech Therapy,$275.00,ND
+Sanford Bismarck,Speech,HCPCS 92610,Swallow Evaluation,$324.00,ND
+Sanford Bismarck,Speech,HCPCS 92526,Swallow Treatment,$305.00,ND
+Sanford Bismarck,Blood,HCPCS 85018,"Blood count, hemoglobin",$15.00,ND
+Sanford Bismarck,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$14.00,ND
+Sanford Bismarck,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$32.00,ND
+Sanford Bismarck,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$86.00,ND
+Sanford Bismarck,Blood,HCPCS 85610,"Blood test, clotting time",$15.00,ND
+Sanford Bismarck,Blood,HCPCS 85730,Coagulation assessment blood test,$23.00,ND
+Sanford Bismarck,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$76.00,ND
+Sanford Bismarck,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$74.00,ND
+Sanford Bismarck,Blood,HCPCS 85027,"Complete blood count, automated",$43.00,ND
+Sanford Bismarck,Blood,HCPCS 85008,Microscopic examination for white blood cells,$21.00,ND
+Sanford Bismarck,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$19.00,ND
+Sanford Bismarck,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$96.00,ND
+Sanford Bismarck,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$728.00,ND
+Sanford Bismarck,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$203.00,ND
+Sanford Bismarck,Chemistry,HCPCS 82040,Albumin (protein) level,$23.00,ND
+Sanford Bismarck,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$71.00,ND
+Sanford Bismarck,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$95.00,ND
+Sanford Bismarck,Chemistry,HCPCS 82140,Ammonia level,$101.00,ND
+Sanford Bismarck,Chemistry,HCPCS 82150,Amylase (enzyme) level,$45.00,ND
+Sanford Bismarck,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$86.00,ND
+Sanford Bismarck,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$105.00,ND
+Sanford Bismarck,Chemistry,HCPCS 84439,Assay of free thyroxine,$55.00,ND
+Sanford Bismarck,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$86.00,ND
+Sanford Bismarck,Chemistry,HCPCS 82248,Bilirubin level (Direct),$23.00,ND
+Sanford Bismarck,Chemistry,HCPCS 82247,Bilirubin level (Total),$29.00,ND
+Sanford Bismarck,Chemistry,HCPCS 82565,Blood creatinine level,$25.00,ND
+Sanford Bismarck,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$25.00,ND
+Sanford Bismarck,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$22.00,ND
+Sanford Bismarck,Chemistry,HCPCS 84295,Blood sodium level,$27.00,ND
+Sanford Bismarck,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$25.00,ND
+Sanford Bismarck,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$104.00,ND
+Sanford Bismarck,Chemistry,HCPCS 82310,Calcium level,$25.00,ND
+Sanford Bismarck,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$23.00,ND
+Sanford Bismarck,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$131.00,ND
+Sanford Bismarck,Chemistry,HCPCS 82465,Cholesterol level,$26.00,ND
+Sanford Bismarck,Chemistry,HCPCS 82525,Copper level,$65.00,ND
+Sanford Bismarck,Chemistry,HCPCS 82533,Cortisol Measurement,$112.00,ND
+Sanford Bismarck,Chemistry,HCPCS 84681,C-peptide (protein) level,$110.00,ND
+Sanford Bismarck,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$44.00,ND
+Sanford Bismarck,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$104.00,ND
+Sanford Bismarck,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$203.00,ND
+Sanford Bismarck,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$95.00,ND
+Sanford Bismarck,Chemistry,HCPCS 82746,Folic acid; serum,$101.00,ND
+Sanford Bismarck,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$65.00,ND
+Sanford Bismarck,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$50.00,ND
+Sanford Bismarck,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$68.00,ND
+Sanford Bismarck,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$130.00,ND
+Sanford Bismarck,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$130.00,ND
+Sanford Bismarck,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$90.00,ND
+Sanford Bismarck,Chemistry,HCPCS 83020,Hemoglobin Measurement,$41.00,ND
+Sanford Bismarck,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$116.00,ND
+Sanford Bismarck,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$138.00,ND
+Sanford Bismarck,Chemistry,HCPCS 83520,IgE (immune system protein) level,$88.00,ND
+Sanford Bismarck,Chemistry,HCPCS 83525,Insulin Measurement; Total,$60.00,ND
+Sanford Bismarck,Chemistry,HCPCS 82330,Ionized Calcium,$95.00,ND
+Sanford Bismarck,Chemistry,HCPCS 83550,Iron Binding Capacity,$59.00,ND
+Sanford Bismarck,Chemistry,HCPCS 83540,Iron level,$45.00,ND
+Sanford Bismarck,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$42.00,ND
+Sanford Bismarck,Chemistry,HCPCS 83721,LDL cholesterol level,$45.00,ND
+Sanford Bismarck,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$46.00,ND
+Sanford Bismarck,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$25.00,ND
+Sanford Bismarck,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$76.00,ND
+Sanford Bismarck,Chemistry,HCPCS 83021,Liver function blood test panel,$95.00,ND
+Sanford Bismarck,Chemistry,HCPCS 83735,Magnesium Level,$45.00,ND
+Sanford Bismarck,Chemistry,HCPCS 82542,Mass spectrometry,$232.00,ND
+Sanford Bismarck,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$90.00,ND
+Sanford Bismarck,Chemistry,HCPCS 83970,Parathormone,$284.00,ND
+Sanford Bismarck,Chemistry,HCPCS 84157,Prealbumin (protein) level,$27.00,ND
+Sanford Bismarck,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$68.00,ND
+Sanford Bismarck,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$131.00,ND
+Sanford Bismarck,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$76.00,ND
+Sanford Bismarck,Chemistry,HCPCS 84403,Testosterone (hormone) level,$184.00,ND
+Sanford Bismarck,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$266.00,ND
+Sanford Bismarck,Chemistry,HCPCS 84155,"Total protein level, blood",$21.00,ND
+Sanford Bismarck,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$27.00,ND
+Sanford Bismarck,Chemistry,HCPCS 84478,Triglycerides level,$32.00,ND
+Sanford Bismarck,Chemistry,HCPCS 84166,Troponin (protein) analysis,$124.00,ND
+Sanford Bismarck,Chemistry,HCPCS 84560,Uric acid level,$33.00,ND
+Sanford Bismarck,Chemistry,HCPCS 84550,"Uric acid level, blood",$32.00,ND
+Sanford Bismarck,Chemistry,HCPCS 82340,Urine calcium level,$42.00,ND
+Sanford Bismarck,Chemistry,HCPCS 82436,Urine chloride level,$33.00,ND
+Sanford Bismarck,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$41.00,ND
+Sanford Bismarck,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$46.00,ND
+Sanford Bismarck,Chemistry,HCPCS 84133,Urine potassium level,$31.00,ND
+Sanford Bismarck,Chemistry,HCPCS 84300,Urine sodium level,$35.00,ND
+Sanford Bismarck,Chemistry,HCPCS 84591,Vitamin B-6 level,$106.00,ND
+Sanford Bismarck,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$204.00,ND
+Sanford Bismarck,Chemistry,HCPCS 84630,Zinc level,$60.00,ND
+Sanford Bismarck,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$81.00,ND
+Sanford Bismarck,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$77.00,ND
+Sanford Bismarck,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$70.00,ND
+Sanford Bismarck,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$46.00,ND
+Sanford Bismarck,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$99.00,ND
+Sanford Bismarck,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$95.00,ND
+Sanford Bismarck,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$63.00,ND
+Sanford Bismarck,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$76.00,ND
+Sanford Bismarck,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$81.00,ND
+Sanford Bismarck,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$167.00,ND
+Sanford Bismarck,Immunology,HCPCS 86140,Measurement C-reactive protein,$35.00,ND
+Sanford Bismarck,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$26.00,ND
+Sanford Bismarck,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$67.00,ND
+Sanford Bismarck,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$78.00,ND
+Sanford Bismarck,Immunology,HCPCS 86431,Rheumatoid factor level,$37.00,ND
+Sanford Bismarck,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$77.00,ND
+Sanford Bismarck,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$35.00,ND
+Sanford Bismarck,Immunology,HCPCS 86592,Syphilis Detection Test,$31.00,ND
+Sanford Bismarck,Immunology,HCPCS 86361,T cell count and ratio,$105.00,ND
+Sanford Bismarck,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$175.00,ND
+Sanford Bismarck,Immunology,HCPCS 86359,"T cells count, total",$189.00,ND
+Sanford Bismarck,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$111.00,ND
+Sanford Bismarck,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$34.00,ND
+Sanford Bismarck,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$58.00,ND
+Sanford Bismarck,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$54.00,ND
+Sanford Bismarck,Microbiology,HCPCS 87491,Chlamydia Test,$220.00,ND
+Sanford Bismarck,Microbiology,HCPCS 87635,Covid-19 current infection test,$137.00,ND
+Sanford Bismarck,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$223.00,ND
+Sanford Bismarck,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$81.00,ND
+Sanford Bismarck,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$225.00,ND
+Sanford Bismarck,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$68.00,ND
+Sanford Bismarck,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$450.00,ND
+Sanford Bismarck,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$220.00,ND
+Sanford Bismarck,Microbiology,HCPCS 87517,Hepatitis B Detection,$225.00,ND
+Sanford Bismarck,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$116.00,ND
+Sanford Bismarck,Microbiology,HCPCS 87624,HPV Detection,$185.00,ND
+Sanford Bismarck,Microbiology,HCPCS 86747,Parvovirus antibody test,$79.00,ND
+Sanford Bismarck,Microbiology,HCPCS 86762,Rubella virus antibody test,$100.00,ND
+Sanford Bismarck,Microbiology,HCPCS 87177,Smear for Parasites,$46.00,ND
+Sanford Bismarck,Microbiology,HCPCS 87045,Stool Culture,$63.00,ND
+Sanford Bismarck,Microbiology,HCPCS 87880,Streptoccus,$81.00,ND
+Sanford Bismarck,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$83.00,ND
+Sanford Bismarck,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$68.00,ND
+Sanford Bismarck,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$320.00,ND
+Sanford Bismarck,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$241.00,ND
+Sanford Bismarck,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$95.00,ND
+Sanford Bismarck,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$122.00,ND
+Sanford Bismarck,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$79.00,ND
+Sanford Bismarck,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$50.00,ND
+Sanford Bismarck,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$46.00,ND
+Sanford Bismarck,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$223.00,ND
+Sanford Bismarck,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$163.00,ND
+Sanford Bismarck,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$124.00,ND
+Sanford Bismarck,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$91.00,ND
+Sanford Bismarck,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$183.00,ND
+Sanford Bismarck,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$71.00,ND
+Sanford Bismarck,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$45.00,ND
+Sanford Bismarck,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$79.00,ND
+Sanford Bismarck,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$91.00,ND
+Sanford Bismarck,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$95.00,ND
+Sanford Bismarck,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$95.00,ND
+Sanford Bismarck,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$95.00,ND
+Sanford Bismarck,Transfusion,HCPCS 86900,"Blood Typing, ABO",$27.00,ND
+Sanford Bismarck,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$49.00,ND
+Sanford Bismarck,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$185.00,ND
+Sanford Bismarck,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$49.00,ND
+Sanford Bismarck,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$119.00,ND
+Sanford Bismarck,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$18.00,ND
+Sanford Bismarck,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$17.00,ND
+Sanford Bismarck,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$21.00,ND
+Sanford Bismarck,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$43.00,ND
+Sanford Bismarck,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$673.00,ND
+Sanford Bismarck,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$225.00,ND
+Sanford Bismarck,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$86.00,ND
+Sanford Bismarck,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$371.00,ND
+Sanford Bismarck,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),$937.00,ND
+Sanford Bismarck,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,216.00",ND
+Sanford Bismarck,Pulmonary,HCPCS 94729,CO Diffusion Capacity,$309.00,ND
+Sanford Bismarck,Pulmonary,HCPCS 94640,Nebulizer Treatment,$88.00,ND
+Sanford Bismarck,Pulmonary,HCPCS 94618,Pulmonary stress test,$291.00,ND
+Sanford Bismarck,Pulmonary,HCPCS 94010,Spirometry - breathing test,$207.00,ND
+Sanford Bismarck,Sleep,HCPCS 95810,Sleep study,"$3,206.00",ND
+Sanford Bismarck,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$58.00,ND
+Sanford Bismarck,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$416.00,ND
+Sanford Bismarck,Breast,HCPCS 77067,Mammogram Screening,$371.00,ND
+Sanford Bismarck,Breast,HCPCS 77066,Mammography of both breasts,$433.00,ND
+Sanford Bismarck,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$2,535.00",ND
+Sanford Bismarck,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,298.00",ND
+Sanford Bismarck,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$2,047.00",ND
+Sanford Bismarck,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,174.00",ND
+Sanford Bismarck,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$4,080.00",ND
+Sanford Bismarck,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$3,720.00",ND
+Sanford Bismarck,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$3,360.00",ND
+Sanford Bismarck,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,606.00",ND
+Sanford Bismarck,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$2,139.00",ND
+Sanford Bismarck,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,674.00",ND
+Sanford Bismarck,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,330.00",ND
+Sanford Bismarck,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,496.00",ND
+Sanford Bismarck,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,391.00",ND
+Sanford Bismarck,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$2,279.00",ND
+Sanford Bismarck,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,421.00",ND
+Sanford Bismarck,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$3,344.00",ND
+Sanford Bismarck,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$3,974.00",ND
+Sanford Bismarck,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,282.00",ND
+Sanford Bismarck,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$3,674.00",ND
+Sanford Bismarck,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$3,320.00",ND
+Sanford Bismarck,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,293.00",ND
+Sanford Bismarck,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,428.00",ND
+Sanford Bismarck,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,528.00",ND
+Sanford Bismarck,MRI,HCPCS 73721,MRI scan of leg joint,"$2,817.00",ND
+Sanford Bismarck,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$561.00,ND
+Sanford Bismarck,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$441.00,ND
+Sanford Bismarck,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$499.00,ND
+Sanford Bismarck,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$509.00,ND
+Sanford Bismarck,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$733.00,ND
+Sanford Bismarck,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$567.00,ND
+Sanford Bismarck,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$432.00,ND
+Sanford Bismarck,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$397.00,ND
+Sanford Bismarck,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$503.00,ND
+Sanford Bismarck,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$478.00,ND
+Sanford Bismarck,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$204.00,ND
+Sanford Bismarck,Chest,HCPCS 71046,X-ray of chest; 2 Views,$152.00,ND
+Sanford Bismarck,Chest,HCPCS 71045,X-ray of chest; Single View,$130.00,ND
+Sanford Bismarck,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$152.00,ND
+Sanford Bismarck,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$188.00,ND
+Sanford Bismarck,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$335.00,ND
+Sanford Bismarck,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$134.00,ND
+Sanford Bismarck,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$151.00,ND
+Sanford Bismarck,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$210.00,ND
+Sanford Bismarck,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$183.00,ND
+Sanford Bismarck,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$183.00,ND
+Sanford Bismarck,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$183.00,ND
+Sanford Bismarck,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$152.00,ND
+Sanford Bismarck,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$183.00,ND
+Sanford Bismarck,Lower Limbs,HCPCS 73630,X-ray exam of foot,$183.00,ND
+Sanford Bismarck,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$183.00,ND
+Sanford Bismarck,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$152.00,ND
+Sanford Bismarck,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$152.00,ND
+Sanford Bismarck,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$152.00,ND
+Sanford Bismarck,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$152.00,ND
+Sanford Bismarck,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$210.00,ND
+Sanford Bismarck,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$152.00,ND
+Sanford Bismarck,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$210.00,ND
+Sanford Bismarck,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$183.00,ND
+Sanford Bismarck,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$183.00,ND
+Sanford Bismarck,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$183.00,ND
+Sanford Bismarck,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$152.00,ND
+Sanford Bismarck,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$158.00,ND
+Sanford Bismarck,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$183.00,ND
+Sanford Bismarck,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$152.00,ND
+Sanford Bismarck,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$152.00,ND
+Sanford Bismarck,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$152.00,ND
+Sanford Bismarck,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$183.00,ND
+Sanford Bismarck,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$17,884.00",ND
+Sanford Bismarck,Abdomenal,HCPCS 47562,Cholecystectomy,"$6,131.00",ND
+Sanford Bismarck,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$8,233.00",ND
+Sanford Bismarck,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$6,083.00",ND
+Sanford Bismarck,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$4,982.00",ND
+Sanford Bismarck,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$248.00,ND
+Sanford Bismarck,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$270.00,ND
+Sanford Bismarck,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$25,616.00",ND
+Sanford Bismarck,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$6,161.00",ND
+Sanford Bismarck,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$8,049.00",ND
+Sanford Bismarck,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$7,043.00",ND
+Sanford Bismarck,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$6,346.00",ND
+Sanford Bismarck,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$3,651.00",ND
+Sanford Bismarck,Breast,HCPCS 19125,Excision of breast lesion,"$4,229.00",ND
+Sanford Bismarck,Breast,HCPCS 19301,Partial removal of breast,"$4,086.00",ND
+Sanford Bismarck,Breast,HCPCS 19318,Reduction mammaplasty,"$15,035.00",ND
+Sanford Bismarck,Breast,HCPCS 19303,Total removal of breast,"$8,354.00",ND
+Sanford Bismarck,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,"$74,998.00",ND
+Sanford Bismarck,Cardiac,MSDRG 216,Cardiac valve procedure,"$174,900.00",ND
+Sanford Bismarck,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$89,333.00",ND
+Sanford Bismarck,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$73,217.00",ND
+Sanford Bismarck,Cardiac,HCPCS 33249,Defibrillator complete system,"$18,018.00",ND
+Sanford Bismarck,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$11,253.00",ND
+Sanford Bismarck,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$9,179.00",ND
+Sanford Bismarck,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$194.00,ND
+Sanford Bismarck,Cardiac,MSDRG 247,Implant drug-eluting stent,"$50,166.00",ND
+Sanford Bismarck,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$38,188.00",ND
+Sanford Bismarck,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$18,410.00",ND
+Sanford Bismarck,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$3,372.00",ND
+Sanford Bismarck,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$3,375.00",ND
+Sanford Bismarck,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$4,127.00",ND
+Sanford Bismarck,Digestive,HCPCS 43235,EGD,"$3,551.00",ND
+Sanford Bismarck,Digestive,HCPCS 43239,EGD and biopsy,"$4,555.00",ND
+Sanford Bismarck,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$3,407.00",ND
+Sanford Bismarck,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$18,614.00",ND
+Sanford Bismarck,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$5,390.00",ND
+Sanford Bismarck,General,HCPCS 10060,Drainage of Abscess,$363.00,ND
+Sanford Bismarck,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$505.00,ND
+Sanford Bismarck,General,HCPCS 55866,Prostatectomy,"$21,553.00",ND
+Sanford Bismarck,General,HCPCS 69200,Removal of foreign body from ear canal,$206.00,ND
+Sanford Bismarck,General,HCPCS 60240,Removal of thyroid,"$9,557.00",ND
+Sanford Bismarck,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$311.00,ND
+Sanford Bismarck,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$269.00,ND
+Sanford Bismarck,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$257.00,ND
+Sanford Bismarck,Head,HCPCS 69436,Create eardrum opening,"$2,106.00",ND
+Sanford Bismarck,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$4,721.00",ND
+Sanford Bismarck,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$66,249.00",ND
+Sanford Bismarck,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$326.00,ND
+Sanford Bismarck,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$1,418.00",ND
+Sanford Bismarck,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$1,293.00",ND
+Sanford Bismarck,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$1,496.00",ND
+Sanford Bismarck,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$569.00,ND
+Sanford Bismarck,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$29,706.00",ND
+Sanford Bismarck,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$7,970.00",ND
+Sanford Bismarck,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,"$9,827.00",ND
+Sanford Bismarck,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$32,917.00",ND
+Sanford Bismarck,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$65,330.00",ND
+Sanford Bismarck,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$3,769.00",ND
+Sanford Bismarck,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$3,516.00",ND
+Sanford Bismarck,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$14,080.00",ND
+Sanford Bismarck,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$8,098.00",ND
+Sanford Bismarck,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$6,320.00",ND
+Sanford Bismarck,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$5,917.00",ND
+Sanford Bismarck,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries","$7,442.00",ND
+Sanford Bismarck,Soft Tissue,HCPCS 97597,Debridement of open wound,$276.00,ND
+Sanford Bismarck,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$147.00,ND
+Sanford Bismarck,Vascular,HCPCS 36416,Collection of capillary blood specimen,$19.00,ND
+Sanford Bismarck,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$2,048.00",ND
+Sanford Bismarck,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,429.00",ND
+Sanford Bismarck,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$2,249.00",ND

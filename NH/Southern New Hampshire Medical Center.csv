@@ -1,0 +1,341 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Southern New Hampshire Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes",$451.79,NH
+Southern New Hampshire Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$388.53,NH
+Southern New Hampshire Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$388.53,NH
+Southern New Hampshire Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$388.53,NH
+Southern New Hampshire Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,$388.53,NH
+Southern New Hampshire Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,$388.53,NH
+Southern New Hampshire Medical Center,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$186.73,NH
+Southern New Hampshire Medical Center,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$186.73,NH
+Southern New Hampshire Medical Center,Psychology,HCPCS 90853,Group psychotherapy,$325.15,NH
+Southern New Hampshire Medical Center,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$269.73,NH
+Southern New Hampshire Medical Center,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$88.56,NH
+Southern New Hampshire Medical Center,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$88.56,NH
+Southern New Hampshire Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$242.70,NH
+Southern New Hampshire Medical Center,Speech,HCPCS 92507,Speech Therapy,$230.74,NH
+Southern New Hampshire Medical Center,Speech,HCPCS 92610,Swallow Evaluation,$241.77,NH
+Southern New Hampshire Medical Center,Speech,HCPCS 92526,Swallow Treatment,$194.27,NH
+Southern New Hampshire Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$17.08,NH
+Southern New Hampshire Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$17.02,NH
+Southern New Hampshire Medical Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$62.04,NH
+Southern New Hampshire Medical Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$62.04,NH
+Southern New Hampshire Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$29.33,NH
+Southern New Hampshire Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$49.48,NH
+Southern New Hampshire Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$37.32,NH
+Southern New Hampshire Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$37.32,NH
+Southern New Hampshire Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$25.47,NH
+Southern New Hampshire Medical Center,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$99.49,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$308.05,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$258.90,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$85.63,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$131.48,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 82140,Ammonia level,$76.98,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$52.37,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$98.68,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$140.56,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$54.74,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$71.62,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$29.86,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$29.86,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$27.43,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$18.05,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 84132,Blood potassium level,$25.08,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$23.12,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$30.96,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$81.07,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 82310,Calcium level,$27.84,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$25.70,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$76.26,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 82465,Cholesterol level,$22.59,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 82525,Copper level,$130.37,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$88.82,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$128.73,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$50.71,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$80.82,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$302.70,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$59.29,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$57.60,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$51.67,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$44.21,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$52.44,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$76.12,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$75.88,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$70.75,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 83718,HDL cholesterol level,$43.83,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 83020,Hemoglobin Measurement,$67.78,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$112.34,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$166.10,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$115.91,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$83.81,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$27.84,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$36.96,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 83540,Iron level,$38.09,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$33.90,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 83721,LDL cholesterol level,$34.45,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$67.01,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$35.69,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$118.34,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 83021,Liver function blood test panel,$67.78,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$47.15,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 82542,Mass spectrometry,$132.87,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$46.03,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$85.76,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 83918,Organic acid level,$191.57,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 83945,Oxalate level,$51.96,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 83970,Parathormone,$164.61,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$42.14,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$115.91,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$96.92,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$42.14,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$174.96,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$174.96,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$29.79,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$349.66,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$54.74,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$42.14,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$42.14,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$42.14,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 84560,Uric acid level,$30.55,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$30.55,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$27.84,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 82436,Urine chloride level,$23.37,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$42.04,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$47.60,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$144.18,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$25.08,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$23.12,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 84591,Vitamin B-6 level,$53.01,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$108.17,NH
+Southern New Hampshire Medical Center,Chemistry,HCPCS 84630,Zinc level,$100.01,NH
+Southern New Hampshire Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$47.33,NH
+Southern New Hampshire Medical Center,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$111.68,NH
+Southern New Hampshire Medical Center,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$51.98,NH
+Southern New Hampshire Medical Center,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$51.98,NH
+Southern New Hampshire Medical Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$80.32,NH
+Southern New Hampshire Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$55.35,NH
+Southern New Hampshire Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$83.24,NH
+Southern New Hampshire Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$55.35,NH
+Southern New Hampshire Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$55.35,NH
+Southern New Hampshire Medical Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$33.28,NH
+Southern New Hampshire Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$46.23,NH
+Southern New Hampshire Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$23.78,NH
+Southern New Hampshire Medical Center,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$105.55,NH
+Southern New Hampshire Medical Center,Immunology,HCPCS 86161,Measurement of complement (immune system proteins),$82.69,NH
+Southern New Hampshire Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$55.35,NH
+Southern New Hampshire Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$106.34,NH
+Southern New Hampshire Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$43.83,NH
+Southern New Hampshire Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$38.65,NH
+Southern New Hampshire Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$23.68,NH
+Southern New Hampshire Medical Center,Immunology,HCPCS 86361,T cell count and ratio,$81.36,NH
+Southern New Hampshire Medical Center,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$81.36,NH
+Southern New Hampshire Medical Center,Immunology,HCPCS 86359,"T cells count, total",$81.36,NH
+Southern New Hampshire Medical Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$22.30,NH
+Southern New Hampshire Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$44.58,NH
+Southern New Hampshire Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$26.71,NH
+Southern New Hampshire Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$84.17,NH
+Southern New Hampshire Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$115.49,NH
+Southern New Hampshire Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$68.34,NH
+Southern New Hampshire Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$55.35,NH
+Southern New Hampshire Medical Center,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$247.33,NH
+Southern New Hampshire Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$84.09,NH
+Southern New Hampshire Medical Center,Microbiology,HCPCS 87517,Hepatitis B Detection,$196.65,NH
+Southern New Hampshire Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$80.32,NH
+Southern New Hampshire Medical Center,Microbiology,HCPCS 87624,HPV Detection,$166.63,NH
+Southern New Hampshire Medical Center,Microbiology,HCPCS 86735,Mumps virus antibody test,$105.09,NH
+Southern New Hampshire Medical Center,Microbiology,HCPCS 86747,Parvovirus antibody test,$171.25,NH
+Southern New Hampshire Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$51.13,NH
+Southern New Hampshire Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$49.44,NH
+Southern New Hampshire Medical Center,Microbiology,HCPCS 87207,Smear for infectious agents,$27.72,NH
+Southern New Hampshire Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$53.36,NH
+Southern New Hampshire Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$27.72,NH
+Southern New Hampshire Medical Center,Microbiology,HCPCS 87045,Stool Culture,$34.64,NH
+Southern New Hampshire Medical Center,Microbiology,HCPCS 87880,Strep Test,$51.12,NH
+Southern New Hampshire Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$61.75,NH
+Southern New Hampshire Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$50.45,NH
+Southern New Hampshire Medical Center,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$514.33,NH
+Southern New Hampshire Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$204.06,NH
+Southern New Hampshire Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$32.15,NH
+Southern New Hampshire Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$40.03,NH
+Southern New Hampshire Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$79.47,NH
+Southern New Hampshire Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$123.90,NH
+Southern New Hampshire Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$46.13,NH
+Southern New Hampshire Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$104.15,NH
+Southern New Hampshire Medical Center,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$154.51,NH
+Southern New Hampshire Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$82.03,NH
+Southern New Hampshire Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$201.37,NH
+Southern New Hampshire Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$53.43,NH
+Southern New Hampshire Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$47.26,NH
+Southern New Hampshire Medical Center,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$78.16,NH
+Southern New Hampshire Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$85.72,NH
+Southern New Hampshire Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$167.51,NH
+Southern New Hampshire Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$85.98,NH
+Southern New Hampshire Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$200.98,NH
+Southern New Hampshire Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$33.48,NH
+Southern New Hampshire Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$33.48,NH
+Southern New Hampshire Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$60.97,NH
+Southern New Hampshire Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$44.94,NH
+Southern New Hampshire Medical Center,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$89.19,NH
+Southern New Hampshire Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$44.94,NH
+Southern New Hampshire Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$21.78,NH
+Southern New Hampshire Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$21.78,NH
+Southern New Hampshire Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$22.63,NH
+Southern New Hampshire Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$1,113.16",NH
+Southern New Hampshire Medical Center,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$91.97,NH
+Southern New Hampshire Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$294.10,NH
+Southern New Hampshire Medical Center,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),$568.62,NH
+Southern New Hampshire Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,$359.91,NH
+Southern New Hampshire Medical Center,Pulmonary,HCPCS 94640,Aerosol Treatment,$190.13,NH
+Southern New Hampshire Medical Center,Pulmonary,HCPCS 94618,Pulmonary stress test,$137.16,NH
+Southern New Hampshire Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$352.39,NH
+Southern New Hampshire Medical Center,Sleep,HCPCS 95810,Sleep study,"$1,951.49",NH
+Southern New Hampshire Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$222.01,NH
+Southern New Hampshire Medical Center,Breast,HCPCS 77067,Mammogram Screening,$202.28,NH
+Southern New Hampshire Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$222.01,NH
+Southern New Hampshire Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,428.53",NH
+Southern New Hampshire Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,072.07",NH
+Southern New Hampshire Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$932.79,NH
+Southern New Hampshire Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$955.01,NH
+Southern New Hampshire Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,929.49",NH
+Southern New Hampshire Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,929.49",NH
+Southern New Hampshire Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,536.54",NH
+Southern New Hampshire Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,361.60",NH
+Southern New Hampshire Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,361.60",NH
+Southern New Hampshire Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,053.52",NH
+Southern New Hampshire Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$809.95,NH
+Southern New Hampshire Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,157.62",NH
+Southern New Hampshire Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,226.38",NH
+Southern New Hampshire Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,362.44",NH
+Southern New Hampshire Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,122.63",NH
+Southern New Hampshire Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,122.63",NH
+Southern New Hampshire Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,090.47",NH
+Southern New Hampshire Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,122.63",NH
+Southern New Hampshire Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,448.85",NH
+Southern New Hampshire Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,266.75",NH
+Southern New Hampshire Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,093.82",NH
+Southern New Hampshire Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,174.35",NH
+Southern New Hampshire Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$1,357.05",NH
+Southern New Hampshire Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$314.76,NH
+Southern New Hampshire Medical Center,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$308.28,NH
+Southern New Hampshire Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$354.75,NH
+Southern New Hampshire Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$263.75,NH
+Southern New Hampshire Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$439.12,NH
+Southern New Hampshire Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$439.12,NH
+Southern New Hampshire Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$263.51,NH
+Southern New Hampshire Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$263.51,NH
+Southern New Hampshire Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$301.73,NH
+Southern New Hampshire Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$142.55,NH
+Southern New Hampshire Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$142.55,NH
+Southern New Hampshire Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$169.25,NH
+Southern New Hampshire Medical Center,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$196.80,NH
+Southern New Hampshire Medical Center,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$157.19,NH
+Southern New Hampshire Medical Center,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$425.25,NH
+Southern New Hampshire Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$198.14,NH
+Southern New Hampshire Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$130.01,NH
+Southern New Hampshire Medical Center,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$210.52,NH
+Southern New Hampshire Medical Center,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$198.04,NH
+Southern New Hampshire Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$198.45,NH
+Southern New Hampshire Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$168.47,NH
+Southern New Hampshire Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$128.87,NH
+Southern New Hampshire Medical Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$156.04,NH
+Southern New Hampshire Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$155.13,NH
+Southern New Hampshire Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$155.13,NH
+Southern New Hampshire Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$178.19,NH
+Southern New Hampshire Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$155.13,NH
+Southern New Hampshire Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$178.19,NH
+Southern New Hampshire Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$157.73,NH
+Southern New Hampshire Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$155.13,NH
+Southern New Hampshire Medical Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$150.96,NH
+Southern New Hampshire Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$178.19,NH
+Southern New Hampshire Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$178.19,NH
+Southern New Hampshire Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$156.10,NH
+Southern New Hampshire Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$221.29,NH
+Southern New Hampshire Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$221.29,NH
+Southern New Hampshire Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$215.62,NH
+Southern New Hampshire Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$215.62,NH
+Southern New Hampshire Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$133.17,NH
+Southern New Hampshire Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$120.03,NH
+Southern New Hampshire Medical Center,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$144.39,NH
+Southern New Hampshire Medical Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$150.03,NH
+Southern New Hampshire Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$150.03,NH
+Southern New Hampshire Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$155.52,NH
+Southern New Hampshire Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$150.03,NH
+Southern New Hampshire Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$150.03,NH
+Southern New Hampshire Medical Center,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$3,241.67",NH
+Southern New Hampshire Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$6,939.07",NH
+Southern New Hampshire Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$6,939.07",NH
+Southern New Hampshire Medical Center,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,"$6,100.52",NH
+Southern New Hampshire Medical Center,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$6,100.52",NH
+Southern New Hampshire Medical Center,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$2,498.33",NH
+Southern New Hampshire Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$5,297.45",NH
+Southern New Hampshire Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$242.49,NH
+Southern New Hampshire Medical Center,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$242.49,NH
+Southern New Hampshire Medical Center,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$17,332.21",NH
+Southern New Hampshire Medical Center,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,"$5,459.89",NH
+Southern New Hampshire Medical Center,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$9,194.87",NH
+Southern New Hampshire Medical Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$9,057.35",NH
+Southern New Hampshire Medical Center,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$9,057.35",NH
+Southern New Hampshire Medical Center,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$9,057.35",NH
+Southern New Hampshire Medical Center,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$7,723.64",NH
+Southern New Hampshire Medical Center,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$5,297.45",NH
+Southern New Hampshire Medical Center,Breast,HCPCS 19101,Biopsy of breast,"$4,613.01",NH
+Southern New Hampshire Medical Center,Breast,HCPCS 19125,Excision of breast lesion,"$4,221.48",NH
+Southern New Hampshire Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$4,221.48",NH
+Southern New Hampshire Medical Center,Breast,HCPCS 19301,Partial removal of breast,"$5,639.51",NH
+Southern New Hampshire Medical Center,Breast,HCPCS 19318,Reduction mammaplasty,"$11,261.31",NH
+Southern New Hampshire Medical Center,Breast,HCPCS 19303,Total removal of breast,"$10,363.51",NH
+Southern New Hampshire Medical Center,Cardiac,HCPCS 33249,Defibrillator complete system,"$32,695.14",NH
+Southern New Hampshire Medical Center,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$6,026.82",NH
+Southern New Hampshire Medical Center,Cardiac,MSDRG 247,Implant drug-eluting stent,"$29,864.84",NH
+Southern New Hampshire Medical Center,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$19,764.43",NH
+Southern New Hampshire Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,657.47",NH
+Southern New Hampshire Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,662.87",NH
+Southern New Hampshire Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,333.28",NH
+Southern New Hampshire Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,333.28",NH
+Southern New Hampshire Medical Center,Digestive,HCPCS 43235,EGD,"$1,364.11",NH
+Southern New Hampshire Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$1,301.66",NH
+Southern New Hampshire Medical Center,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$4,663.43",NH
+Southern New Hampshire Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$10,966.17",NH
+Southern New Hampshire Medical Center,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$4,703.69",NH
+Southern New Hampshire Medical Center,General,HCPCS 10060,Drainage of Abscess,$464.99,NH
+Southern New Hampshire Medical Center,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$938.58,NH
+Southern New Hampshire Medical Center,General,HCPCS 69200,Removal of foreign body from ear canal,$428.84,NH
+Southern New Hampshire Medical Center,General,HCPCS 60240,Removal of thyroid,"$7,743.55",NH
+Southern New Hampshire Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$572.43,NH
+Southern New Hampshire Medical Center,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$572.43,NH
+Southern New Hampshire Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$572.43,NH
+Southern New Hampshire Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$572.43,NH
+Southern New Hampshire Medical Center,Head,HCPCS 69436,Create eardrum opening,"$1,641.98",NH
+Southern New Hampshire Medical Center,Head,HCPCS 69631,Repair of eardrum,"$5,423.40",NH
+Southern New Hampshire Medical Center,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$4,108.20",NH
+Southern New Hampshire Medical Center,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$4,513.55",NH
+Southern New Hampshire Medical Center,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$61,872.11",NH
+Southern New Hampshire Medical Center,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$595.76,NH
+Southern New Hampshire Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$1,472.55",NH
+Southern New Hampshire Medical Center,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$1,472.55",NH
+Southern New Hampshire Medical Center,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$1,638.88",NH
+Southern New Hampshire Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$745.88,NH
+Southern New Hampshire Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$29,913.81",NH
+Southern New Hampshire Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$4,061.78",NH
+Southern New Hampshire Medical Center,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$4,061.78",NH
+Southern New Hampshire Medical Center,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,"$26,210.84",NH
+Southern New Hampshire Medical Center,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$4,291.65",NH
+Southern New Hampshire Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$41,115.00",NH
+Southern New Hampshire Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$61,872.11",NH
+Southern New Hampshire Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$176.11,NH
+Southern New Hampshire Medical Center,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$10,158.84",NH
+Southern New Hampshire Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$3,109.53",NH
+Southern New Hampshire Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$7,450.35",NH
+Southern New Hampshire Medical Center,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$4,774.00",NH
+Southern New Hampshire Medical Center,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$5,864.52",NH
+Southern New Hampshire Medical Center,Obstetrics,HCPCS 58545,Removal of uterine fibroid tumors using an endoscope,"$12,446.76",NH
+Southern New Hampshire Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$5,449.74",NH
+Southern New Hampshire Medical Center,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries","$6,817.26",NH
+Southern New Hampshire Medical Center,Ocular,HCPCS 66984,Cataract removal,"$5,683.79",NH
+Southern New Hampshire Medical Center,Ocular,HCPCS 66982,Cataract removal with insertion of lens,"$5,683.79",NH
+Southern New Hampshire Medical Center,Ocular,HCPCS 67311,Realignment of the eye with repair of eye muscle,"$4,023.74",NH
+Southern New Hampshire Medical Center,Ocular,HCPCS 65756,Transplant of outer layer of corneal tissue,"$10,429.01",NH
+Southern New Hampshire Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$314.01,NH
+Southern New Hampshire Medical Center,Soft Tissue,HCPCS 97602,Non-selective debridement,$314.01,NH
+Southern New Hampshire Medical Center,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$3,067.85",NH
+Southern New Hampshire Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,344.56",NH
+Southern New Hampshire Medical Center,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,546.10",NH

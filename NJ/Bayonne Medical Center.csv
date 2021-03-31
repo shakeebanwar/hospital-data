@@ -1,0 +1,92 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Bayonne Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$80.06,NJ
+Bayonne Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$147.15,NJ
+Bayonne Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$256.84,NJ
+Bayonne Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,$404.56,NJ
+Bayonne Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,$580.19,NJ
+Bayonne Medical Center,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$151.06,NJ
+Bayonne Medical Center,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$151.06,NJ
+Bayonne Medical Center,Psychology,HCPCS 90853,Group psychotherapy,$90.32,NJ
+Bayonne Medical Center,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$151.06,NJ
+Bayonne Medical Center,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$151.06,NJ
+Bayonne Medical Center,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$151.06,NJ
+Bayonne Medical Center,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$151.06,NJ
+Bayonne Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$4.93,NJ
+Bayonne Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$6.91,NJ
+Bayonne Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$8.94,NJ
+Bayonne Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$7.44,NJ
+Bayonne Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$216.60,NJ
+Bayonne Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$19.32,NJ
+Bayonne Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$9.73,NJ
+Bayonne Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$12.14,NJ
+Bayonne Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$15.40,NJ
+Bayonne Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$9.98,NJ
+Bayonne Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$9.40,NJ
+Bayonne Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$125.38,NJ
+Bayonne Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$165.03,NJ
+Bayonne Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$38.44,NJ
+Bayonne Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$56.89,NJ
+Bayonne Medical Center,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$4.00,NJ
+Bayonne Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$2.59,NJ
+Bayonne Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$4.62,NJ
+Bayonne Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$291.07,NJ
+Bayonne Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$63.26,NJ
+Bayonne Medical Center,Pulmonary,HCPCS 94640,Aerosol Treatment,$211.55,NJ
+Bayonne Medical Center,Sleep,HCPCS 95810,Sleep study,"$1,045.29",NJ
+Bayonne Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,$209.55,NJ
+Bayonne Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$128.89,NJ
+Bayonne Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$128.89,NJ
+Bayonne Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,$439.13,NJ
+Bayonne Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$268.00,NJ
+Bayonne Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$209.55,NJ
+Bayonne Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$128.89,NJ
+Bayonne Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$209.55,NJ
+Bayonne Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$268.00,NJ
+Bayonne Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,$439.13,NJ
+Bayonne Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$268.00,NJ
+Bayonne Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,$268.00,NJ
+Bayonne Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$128.89,NJ
+Bayonne Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$128.89,NJ
+Bayonne Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$128.89,NJ
+Bayonne Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$128.89,NJ
+Bayonne Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$128.89,NJ
+Bayonne Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$128.89,NJ
+Bayonne Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$91.78,NJ
+Bayonne Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$91.78,NJ
+Bayonne Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$91.78,NJ
+Bayonne Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$91.78,NJ
+Bayonne Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$91.78,NJ
+Bayonne Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$128.89,NJ
+Bayonne Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$128.89,NJ
+Bayonne Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$91.78,NJ
+Bayonne Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$91.78,NJ
+Bayonne Medical Center,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$12,660.60",NJ
+Bayonne Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$5,558.77",NJ
+Bayonne Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$3,575.74",NJ
+Bayonne Medical Center,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$14,366.85",NJ
+Bayonne Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$3,483.98",NJ
+Bayonne Medical Center,Cardiac,MSDRG 216,Cardiac valve procedure,"$110,405.34",NJ
+Bayonne Medical Center,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$3,277.44",NJ
+Bayonne Medical Center,Cardiac,MSDRG 247,Implant drug-eluting stent,"$22,369.33",NJ
+Bayonne Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",$878.46,NJ
+Bayonne Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,154.85",NJ
+Bayonne Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,154.85",NJ
+Bayonne Medical Center,Digestive,HCPCS 43235,EGD,$903.81,NJ
+Bayonne Medical Center,Digestive,HCPCS 43239,EGD and biopsy,$903.81,NJ
+Bayonne Medical Center,Digestive,HCPCS 45391,Ultrasound of lower large bowel using an endoscope,"$1,154.85",NJ
+Bayonne Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$12,626.52",NJ
+Bayonne Medical Center,General,HCPCS 55700,Biopsy of prostate gland,"$2,037.28",NJ
+Bayonne Medical Center,General,HCPCS 55866,Prostatectomy,"$9,675.08",NJ
+Bayonne Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$200.94,NJ
+Bayonne Medical Center,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$5,578.11",NJ
+Bayonne Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$21,640.43",NJ
+Bayonne Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$3,148.07",NJ
+Bayonne Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$3,148.07",NJ
+Bayonne Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$27,621.12",NJ
+Bayonne Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$43,540.32",NJ
+Bayonne Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$153.80,NJ
+Bayonne Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$9,962.69",NJ
+Bayonne Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$6,890.99",NJ
+Bayonne Medical Center,Ocular,HCPCS 66984,Cataract removal,"$2,325.14",NJ
+Bayonne Medical Center,Ocular,HCPCS 66821,Laser cataract removal,$582.97,NJ
+Bayonne Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$446.25,NJ

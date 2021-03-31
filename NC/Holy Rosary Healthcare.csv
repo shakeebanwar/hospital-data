@@ -1,0 +1,336 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Holy Rosary Healthcare,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$179.55,NC
+Holy Rosary Healthcare,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes",$357.00,NC
+Holy Rosary Healthcare,Emergency Care,HCPCS 99281,Emergency Level 1,$36.40,NC
+Holy Rosary Healthcare,Emergency Care,HCPCS 99282,Emergency Level 2,$70.00,NC
+Holy Rosary Healthcare,Emergency Care,HCPCS 99283,Emergency Level 3,$104.65,NC
+Holy Rosary Healthcare,Emergency Care,HCPCS 99284,Emergency Level 4,$192.15,NC
+Holy Rosary Healthcare,Emergency Care,HCPCS 99285,Emergency Level 5,$279.13,NC
+Holy Rosary Healthcare,Hospital,HCPCS 99234,Hospital observation care discharge,$114.24,NC
+Holy Rosary Healthcare,Hospital,HCPCS 99219,Hospital observation care typically 30 minutes,$148.05,NC
+Holy Rosary Healthcare,Hospital,HCPCS 99235,"Hospital observation or inpatient care moderate severity, 50 minutes per day",$185.88,NC
+Holy Rosary Healthcare,Hospital,HCPCS 99218,Hospital Observation per Hour,$85.44,NC
+Holy Rosary Healthcare,Hospital,HCPCS 99224,"Subsequent observation care, typically 35 minutes per day",$33.96,NC
+Holy Rosary Healthcare,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$115.40,NC
+Holy Rosary Healthcare,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$123.34,NC
+Holy Rosary Healthcare,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$121.63,NC
+Holy Rosary Healthcare,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$247.00,NC
+Holy Rosary Healthcare,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$169.02,NC
+Holy Rosary Healthcare,Speech,HCPCS 92507,Speech Therapy,$140.88,NC
+Holy Rosary Healthcare,Speech,HCPCS 92610,Swallow Evaluation,$226.14,NC
+Holy Rosary Healthcare,Speech,HCPCS 92526,Swallow Treatment,$162.86,NC
+Holy Rosary Healthcare,Blood,HCPCS 85018,"Blood count, hemoglobin",$26.95,NC
+Holy Rosary Healthcare,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$27.16,NC
+Holy Rosary Healthcare,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$24.64,NC
+Holy Rosary Healthcare,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$87.64,NC
+Holy Rosary Healthcare,Blood,HCPCS 85610,"Blood test, clotting time",$29.40,NC
+Holy Rosary Healthcare,Blood,HCPCS 85730,Coagulation assessment blood test,$64.26,NC
+Holy Rosary Healthcare,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$33.95,NC
+Holy Rosary Healthcare,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$57.89,NC
+Holy Rosary Healthcare,Blood,HCPCS 85027,"Complete blood count, automated",$72.00,NC
+Holy Rosary Healthcare,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$12.32,NC
+Holy Rosary Healthcare,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$104.41,NC
+Holy Rosary Healthcare,Blood,HCPCS 85660,Red blood cell sickling measurement,$55.41,NC
+Holy Rosary Healthcare,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$485.70,NC
+Holy Rosary Healthcare,Blood,HCPCS 85041,"Red blood count, automated test",$37.77,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$178.50,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$99.54,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 82040,Albumin (protein) level,$33.32,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$70.04,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$65.80,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 82140,Ammonia level,$142.52,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 82150,Amylase (enzyme) level,$50.96,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$24.64,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$95.52,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 84439,Assay of free thyroxine,$57.86,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$68.99,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 82248,Bilirubin level (Direct),$46.76,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 82247,Bilirubin level (Total),$37.35,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 82565,Blood creatinine level,$36.05,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$29.86,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 84295,Blood sodium level,$41.06,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$31.43,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$218.58,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 82310,Calcium level,$36.51,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$50.93,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$137.66,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 82465,Cholesterol level,$44.35,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 82525,Copper level,$44.14,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 82533,Cortisol Measurement,$27.58,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 84681,C-peptide (protein) level,$88.73,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$67.52,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$53.31,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$41.16,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$203.53,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$102.03,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 82746,Folic acid; serum,$88.03,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$107.00,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$72.94,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$45.22,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$98.04,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$96.99,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$40.32,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 83718,HDL cholesterol level,$85.44,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 83020,Hemoglobin Measurement,$36.09,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$36.51,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$44.14,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 83520,IgE (immune system protein) level,$171.92,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 83525,Insulin Measurement; Total,$29.09,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 82330,Ionized Calcium,$138.46,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 83550,Iron Binding Capacity,$45.19,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 83540,Iron level,$35.46,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$47.92,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 83721,LDL cholesterol level,$64.44,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$67.45,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$38.50,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$59.64,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 83021,Liver function blood test panel,$29.30,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 83735,Magnesium Level,$85.12,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 82542,Mass spectrometry,$363.34,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$20.55,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$21.42,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 83918,Organic acid level,$140.28,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 83945,Oxalate level,$40.99,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 83970,Parathormone,$102.73,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$15.51,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 84157,Prealbumin (protein) level,$29.30,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$79.38,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$68.78,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$89.15,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 82270,Stool analysis for blood,$12.18,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 84403,Testosterone (hormone) level,$44.98,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 84402,Testosterone Level; Free,$41.37,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement",$51.17,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$82.99,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$22.09,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 84155,"Total protein level, blood",$35.00,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$19.53,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 84478,Triglycerides level,$16.00,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 84166,Troponin (protein) analysis,$111.20,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 84560,Uric acid level,$24.64,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 84550,"Uric acid level, blood",$36.93,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 82340,Urine calcium level,$62.30,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 82436,Urine chloride level,$54.18,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$24.50,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$37.77,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$44.59,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 84133,Urine potassium level,$18.97,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 84300,Urine sodium level,$55.58,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 84591,Vitamin B-6 level,$220.50,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$48.20,NC
+Holy Rosary Healthcare,Chemistry,HCPCS 84630,Zinc level,$18.66,NC
+Holy Rosary Healthcare,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$93.38,NC
+Holy Rosary Healthcare,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$20.79,NC
+Holy Rosary Healthcare,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$44.14,NC
+Holy Rosary Healthcare,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$40.53,NC
+Holy Rosary Healthcare,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$113.12,NC
+Holy Rosary Healthcare,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$66.26,NC
+Holy Rosary Healthcare,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$53.31,NC
+Holy Rosary Healthcare,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$59.43,NC
+Holy Rosary Healthcare,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$65.38,NC
+Holy Rosary Healthcare,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$21.04,NC
+Holy Rosary Healthcare,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$70.49,NC
+Holy Rosary Healthcare,Immunology,HCPCS 86140,Measurement C-reactive protein,$23.56,NC
+Holy Rosary Healthcare,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$41.16,NC
+Holy Rosary Healthcare,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$68.53,NC
+Holy Rosary Healthcare,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$29.09,NC
+Holy Rosary Healthcare,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$24.64,NC
+Holy Rosary Healthcare,Immunology,HCPCS 86431,Rheumatoid factor level,$29.09,NC
+Holy Rosary Healthcare,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$70.28,NC
+Holy Rosary Healthcare,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$29.47,NC
+Holy Rosary Healthcare,Immunology,HCPCS 86592,Syphilis Detection Test,$12.60,NC
+Holy Rosary Healthcare,Immunology,HCPCS 86361,T cell count and ratio,$56.25,NC
+Holy Rosary Healthcare,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$71.09,NC
+Holy Rosary Healthcare,Immunology,HCPCS 86359,"T cells count, total",$53.48,NC
+Holy Rosary Healthcare,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$50.30,NC
+Holy Rosary Healthcare,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$50.30,NC
+Holy Rosary Healthcare,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$57.26,NC
+Holy Rosary Healthcare,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$65.00,NC
+Holy Rosary Healthcare,Microbiology,HCPCS 87491,Chlamydia Test,$122.85,NC
+Holy Rosary Healthcare,Microbiology,HCPCS 87635,Covid-19 current infection test,$70.00,NC
+Holy Rosary Healthcare,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$233.00,NC
+Holy Rosary Healthcare,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$72.77,NC
+Holy Rosary Healthcare,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$278.99,NC
+Holy Rosary Healthcare,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$47.71,NC
+Holy Rosary Healthcare,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$120.12,NC
+Holy Rosary Healthcare,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$87.99,NC
+Holy Rosary Healthcare,Microbiology,HCPCS 87517,Hepatitis B Detection,$138.25,NC
+Holy Rosary Healthcare,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$67.90,NC
+Holy Rosary Healthcare,Microbiology,HCPCS 87624,HPV Detection,$73.50,NC
+Holy Rosary Healthcare,Microbiology,HCPCS 86735,Mumps virus antibody test,$53.31,NC
+Holy Rosary Healthcare,Microbiology,HCPCS 86747,Parvovirus antibody test,$36.72,NC
+Holy Rosary Healthcare,Microbiology,HCPCS 86762,Rubella virus antibody test,$83.62,NC
+Holy Rosary Healthcare,Microbiology,HCPCS 86765,Rubeola virus antibody test,$29.51,NC
+Holy Rosary Healthcare,Microbiology,HCPCS 87207,Smear for infectious agents,$62.30,NC
+Holy Rosary Healthcare,Microbiology,HCPCS 87177,Smear for Parasites,$63.00,NC
+Holy Rosary Healthcare,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$33.11,NC
+Holy Rosary Healthcare,Microbiology,HCPCS 87045,Stool Culture,$28.60,NC
+Holy Rosary Healthcare,Microbiology,HCPCS 87880,Streptoccus,$99.96,NC
+Holy Rosary Healthcare,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$26.32,NC
+Holy Rosary Healthcare,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$72.59,NC
+Holy Rosary Healthcare,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$337.44,NC
+Holy Rosary Healthcare,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$247.24,NC
+Holy Rosary Healthcare,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$81.52,NC
+Holy Rosary Healthcare,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$94.33,NC
+Holy Rosary Healthcare,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$100.17,NC
+Holy Rosary Healthcare,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$94.78,NC
+Holy Rosary Healthcare,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$105.56,NC
+Holy Rosary Healthcare,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$180.25,NC
+Holy Rosary Healthcare,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$95.94,NC
+Holy Rosary Healthcare,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$169.75,NC
+Holy Rosary Healthcare,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$102.31,NC
+Holy Rosary Healthcare,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$133.11,NC
+Holy Rosary Healthcare,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$132.93,NC
+Holy Rosary Healthcare,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$54.22,NC
+Holy Rosary Healthcare,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$36.51,NC
+Holy Rosary Healthcare,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$124.18,NC
+Holy Rosary Healthcare,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$52.50,NC
+Holy Rosary Healthcare,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$132.23,NC
+Holy Rosary Healthcare,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$145.71,NC
+Holy Rosary Healthcare,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$139.90,NC
+Holy Rosary Healthcare,Transfusion,HCPCS 86900,"Blood Typing, ABO",$83.51,NC
+Holy Rosary Healthcare,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$65.52,NC
+Holy Rosary Healthcare,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$124.81,NC
+Holy Rosary Healthcare,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$251.62,NC
+Holy Rosary Healthcare,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$68.99,NC
+Holy Rosary Healthcare,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$104.97,NC
+Holy Rosary Healthcare,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$25.24,NC
+Holy Rosary Healthcare,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$18.17,NC
+Holy Rosary Healthcare,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$39.90,NC
+Holy Rosary Healthcare,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$29.89,NC
+Holy Rosary Healthcare,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$506.80,NC
+Holy Rosary Healthcare,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$146.76,NC
+Holy Rosary Healthcare,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$121.31,NC
+Holy Rosary Healthcare,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$210.00,NC
+Holy Rosary Healthcare,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$9.36,NC
+Holy Rosary Healthcare,Cardiovascular,HCPCS 93975,Ultrasound Heart,$733.99,NC
+Holy Rosary Healthcare,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$253.61,NC
+Holy Rosary Healthcare,Pulmonary,HCPCS 94640,Nebulizer Treatment,$143.15,NC
+Holy Rosary Healthcare,Pulmonary,HCPCS 94618,Pulmonary stress test,$231.42,NC
+Holy Rosary Healthcare,Pulmonary,HCPCS 94010,Spirometry - breathing test,$170.17,NC
+Holy Rosary Healthcare,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$25.73,NC
+Holy Rosary Healthcare,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$196.88,NC
+Holy Rosary Healthcare,Breast,HCPCS 77067,Mammogram Screening,$163.35,NC
+Holy Rosary Healthcare,Breast,HCPCS 77066,Mammography of both breasts,$256.06,NC
+Holy Rosary Healthcare,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,365.32",NC
+Holy Rosary Healthcare,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$710.19,NC
+Holy Rosary Healthcare,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$703.54,NC
+Holy Rosary Healthcare,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$816.27,NC
+Holy Rosary Healthcare,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,128.72",NC
+Holy Rosary Healthcare,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,$946.37,NC
+Holy Rosary Healthcare,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$764.05,NC
+Holy Rosary Healthcare,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$927.57,NC
+Holy Rosary Healthcare,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,102.50",NC
+Holy Rosary Healthcare,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,060.08",NC
+Holy Rosary Healthcare,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$710.19,NC
+Holy Rosary Healthcare,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$773.08,NC
+Holy Rosary Healthcare,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,041.43",NC
+Holy Rosary Healthcare,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)",$895.69,NC
+Holy Rosary Healthcare,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,866.59",NC
+Holy Rosary Healthcare,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,634.89",NC
+Holy Rosary Healthcare,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,352.60",NC
+Holy Rosary Healthcare,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,507.94",NC
+Holy Rosary Healthcare,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$2,352.60",NC
+Holy Rosary Healthcare,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,352.60",NC
+Holy Rosary Healthcare,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,474.38",NC
+Holy Rosary Healthcare,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,930.39",NC
+Holy Rosary Healthcare,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,378.97",NC
+Holy Rosary Healthcare,MRI,HCPCS 73721,MRI scan of leg joint,$967.26,NC
+Holy Rosary Healthcare,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$465.75,NC
+Holy Rosary Healthcare,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$384.09,NC
+Holy Rosary Healthcare,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$516.29,NC
+Holy Rosary Healthcare,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$352.66,NC
+Holy Rosary Healthcare,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$423.92,NC
+Holy Rosary Healthcare,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$352.66,NC
+Holy Rosary Healthcare,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$352.66,NC
+Holy Rosary Healthcare,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$311.57,NC
+Holy Rosary Healthcare,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$465.75,NC
+Holy Rosary Healthcare,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$362.53,NC
+Holy Rosary Healthcare,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$245.91,NC
+Holy Rosary Healthcare,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$360.40,NC
+Holy Rosary Healthcare,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$297.54,NC
+Holy Rosary Healthcare,Chest,HCPCS 71046,X-ray of chest; 2 Views,$229.22,NC
+Holy Rosary Healthcare,Chest,HCPCS 71045,X-ray of chest; Single View,$178.89,NC
+Holy Rosary Healthcare,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$203.14,NC
+Holy Rosary Healthcare,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$278.78,NC
+Holy Rosary Healthcare,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$193.13,NC
+Holy Rosary Healthcare,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$280.43,NC
+Holy Rosary Healthcare,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$228.27,NC
+Holy Rosary Healthcare,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$156.49,NC
+Holy Rosary Healthcare,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$244.83,NC
+Holy Rosary Healthcare,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$325.08,NC
+Holy Rosary Healthcare,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$475.41,NC
+Holy Rosary Healthcare,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$193.52,NC
+Holy Rosary Healthcare,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$183.51,NC
+Holy Rosary Healthcare,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$228.27,NC
+Holy Rosary Healthcare,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$158.41,NC
+Holy Rosary Healthcare,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$176.93,NC
+Holy Rosary Healthcare,Lower Limbs,HCPCS 73565,X-ray Both Knees,$261.94,NC
+Holy Rosary Healthcare,Lower Limbs,HCPCS 73630,X-ray exam of foot,$176.93,NC
+Holy Rosary Healthcare,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$218.40,NC
+Holy Rosary Healthcare,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$218.40,NC
+Holy Rosary Healthcare,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$158.41,NC
+Holy Rosary Healthcare,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$178.68,NC
+Holy Rosary Healthcare,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$174.62,NC
+Holy Rosary Healthcare,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$232.47,NC
+Holy Rosary Healthcare,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$197.40,NC
+Holy Rosary Healthcare,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$335.13,NC
+Holy Rosary Healthcare,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$363.13,NC
+Holy Rosary Healthcare,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$223.02,NC
+Holy Rosary Healthcare,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$392.63,NC
+Holy Rosary Healthcare,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$218.40,NC
+Holy Rosary Healthcare,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$157.61,NC
+Holy Rosary Healthcare,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$177.28,NC
+Holy Rosary Healthcare,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$177.28,NC
+Holy Rosary Healthcare,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$218.40,NC
+Holy Rosary Healthcare,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$197.40,NC
+Holy Rosary Healthcare,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$183.09,NC
+Holy Rosary Healthcare,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$204.93,NC
+Holy Rosary Healthcare,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$22,847.95",NC
+Holy Rosary Healthcare,Abdomenal,HCPCS 47562,Cholecystectomy,"$1,090.78",NC
+Holy Rosary Healthcare,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,$90.84,NC
+Holy Rosary Healthcare,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),$862.23,NC
+Holy Rosary Healthcare,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$218.19,NC
+Holy Rosary Healthcare,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$32,760.47",NC
+Holy Rosary Healthcare,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),$994.18,NC
+Holy Rosary Healthcare,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,$746.64,NC
+Holy Rosary Healthcare,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),$970.20,NC
+Holy Rosary Healthcare,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),$392.88,NC
+Holy Rosary Healthcare,Breast,HCPCS 19120,Excision of cyst of breast,$363.84,NC
+Holy Rosary Healthcare,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,"$111,656.12",NC
+Holy Rosary Healthcare,Cardiac,MSDRG 216,Cardiac valve procedure,"$212,557.85",NC
+Holy Rosary Healthcare,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$137,436.61",NC
+Holy Rosary Healthcare,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$122,255.48",NC
+Holy Rosary Healthcare,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$430.05,NC
+Holy Rosary Healthcare,Cardiac,MSDRG 247,Implant drug-eluting stent,"$66,455.39",NC
+Holy Rosary Healthcare,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$53,706.55",NC
+Holy Rosary Healthcare,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",$304.15,NC
+Holy Rosary Healthcare,Digestive,HCPCS 45380,"Colonoscopy, with biopsy",$329.18,NC
+Holy Rosary Healthcare,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)",$417.73,NC
+Holy Rosary Healthcare,Digestive,HCPCS 43235,EGD,$201.25,NC
+Holy Rosary Healthcare,Digestive,HCPCS 43239,EGD and biopsy,$226.80,NC
+Holy Rosary Healthcare,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,$312.24,NC
+Holy Rosary Healthcare,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,$420.48,NC
+Holy Rosary Healthcare,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$29,118.52",NC
+Holy Rosary Healthcare,General,HCPCS 55700,Biopsy of prostate gland,"$1,302.70",NC
+Holy Rosary Healthcare,General,HCPCS 10060,Drainage of Abscess,$111.84,NC
+Holy Rosary Healthcare,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$98.35,NC
+Holy Rosary Healthcare,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$92.58,NC
+Holy Rosary Healthcare,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$73.85,NC
+Holy Rosary Healthcare,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$114,030.17",NC
+Holy Rosary Healthcare,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$75.08,NC
+Holy Rosary Healthcare,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$43,279.37",NC
+Holy Rosary Healthcare,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$64,666.62",NC
+Holy Rosary Healthcare,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$97,024.25",NC
+Holy Rosary Healthcare,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$293.65,NC
+Holy Rosary Healthcare,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$11,087.54",NC
+Holy Rosary Healthcare,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,$375.26,NC
+Holy Rosary Healthcare,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,$571.80,NC
+Holy Rosary Healthcare,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$4,683.36",NC
+Holy Rosary Healthcare,Soft Tissue,HCPCS 97597,Debridement of open wound,$233.17,NC
+Holy Rosary Healthcare,Soft Tissue,HCPCS 97602,Non-selective debridement,$135.87,NC
+Holy Rosary Healthcare,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$86.07,NC
+Holy Rosary Healthcare,Vascular,HCPCS 36416,Collection of capillary blood specimen,$13.97,NC
+Holy Rosary Healthcare,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,400.49",NC
+Holy Rosary Healthcare,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$604.10,NC
+Holy Rosary Healthcare,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,$313.25,NC

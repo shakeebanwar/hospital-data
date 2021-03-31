@@ -1,0 +1,92 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Blue Ridge Regional Hospital,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$1,950.70",NC
+Blue Ridge Regional Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$4,143.74",NC
+Blue Ridge Regional Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$198.40,NC
+Blue Ridge Regional Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$458.57,NC
+Blue Ridge Regional Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$1,020.49",NC
+Blue Ridge Regional Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,696.46",NC
+Blue Ridge Regional Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$2,766.85",NC
+Blue Ridge Regional Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$95.04,NC
+Blue Ridge Regional Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$123.55,NC
+Blue Ridge Regional Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$68.43,NC
+Blue Ridge Regional Hospital,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$84.78,NC
+Blue Ridge Regional Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$48.38,NC
+Blue Ridge Regional Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$11.12,NC
+Blue Ridge Regional Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$21.14,NC
+Blue Ridge Regional Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$221.37,NC
+Blue Ridge Regional Hospital,Chemistry,HCPCS 84132,Blood potassium level,$72.87,NC
+Blue Ridge Regional Hospital,Chemistry,HCPCS 84295,Blood sodium level,$105.68,NC
+Blue Ridge Regional Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$157.96,NC
+Blue Ridge Regional Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$76.76,NC
+Blue Ridge Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$7.79,NC
+Blue Ridge Regional Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$44.82,NC
+Blue Ridge Regional Hospital,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$93.44,NC
+Blue Ridge Regional Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$140.16,NC
+Blue Ridge Regional Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$339.77,NC
+Blue Ridge Regional Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$129.49,NC
+Blue Ridge Regional Hospital,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$112.86,NC
+Blue Ridge Regional Hospital,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$427.68,NC
+Blue Ridge Regional Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,$933.51,NC
+Blue Ridge Regional Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,$93.26,NC
+Blue Ridge Regional Hospital,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$172.26,NC
+Blue Ridge Regional Hospital,Pulmonary,HCPCS 94618,Pulmonary stress test,$112.27,NC
+Blue Ridge Regional Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$154.44,NC
+Blue Ridge Regional Hospital,Sleep,HCPCS 95810,Sleep study,"$3,326.40",NC
+Blue Ridge Regional Hospital,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$45.55,NC
+Blue Ridge Regional Hospital,Breast,HCPCS 77067,Mammogram Screening,$322.48,NC
+Blue Ridge Regional Hospital,Breast,HCPCS 77066,Mammography of both breasts,$329.67,NC
+Blue Ridge Regional Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,222.17",NC
+Blue Ridge Regional Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$2,602.59",NC
+Blue Ridge Regional Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$2,694.90",NC
+Blue Ridge Regional Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,694.90",NC
+Blue Ridge Regional Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$5,208.79",NC
+Blue Ridge Regional Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$6,523.87",NC
+Blue Ridge Regional Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,247.15",NC
+Blue Ridge Regional Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$3,110.89",NC
+Blue Ridge Regional Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$3,796.60",NC
+Blue Ridge Regional Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$3,110.89",NC
+Blue Ridge Regional Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,602.59",NC
+Blue Ridge Regional Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$3,366.23",NC
+Blue Ridge Regional Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$3,110.89",NC
+Blue Ridge Regional Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$3,697.10",NC
+Blue Ridge Regional Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$4,024.37",NC
+Blue Ridge Regional Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$4,024.37",NC
+Blue Ridge Regional Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$5,706.29",NC
+Blue Ridge Regional Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$4,024.37",NC
+Blue Ridge Regional Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$4,835.96",NC
+Blue Ridge Regional Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$5,753.04",NC
+Blue Ridge Regional Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$5,567.23",NC
+Blue Ridge Regional Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$3,934.46",NC
+Blue Ridge Regional Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$908.69,NC
+Blue Ridge Regional Hospital,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$920.68,NC
+Blue Ridge Regional Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$941.06,NC
+Blue Ridge Regional Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$846.35,NC
+Blue Ridge Regional Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$1,057.34",NC
+Blue Ridge Regional Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,324.67",NC
+Blue Ridge Regional Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$853.55,NC
+Blue Ridge Regional Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$504.69,NC
+Blue Ridge Regional Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,056.14",NC
+Blue Ridge Regional Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$823.58,NC
+Blue Ridge Regional Hospital,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$706.09,NC
+Blue Ridge Regional Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$740.86,NC
+Blue Ridge Regional Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$445.95,NC
+Blue Ridge Regional Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$378.82,NC
+Blue Ridge Regional Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$647.35,NC
+Blue Ridge Regional Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$357.24,NC
+Blue Ridge Regional Hospital,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$520.28,NC
+Blue Ridge Regional Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$539.46,NC
+Blue Ridge Regional Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$296.10,NC
+Blue Ridge Regional Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$296.10,NC
+Blue Ridge Regional Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$656.94,NC
+Blue Ridge Regional Hospital,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views","$1,012.99",NC
+Blue Ridge Regional Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$52.75,NC
+Blue Ridge Regional Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$443.56,NC
+Blue Ridge Regional Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$489.11,NC
+Blue Ridge Regional Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$398.00,NC
+Blue Ridge Regional Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$573.03,NC
+Blue Ridge Regional Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$326.07,NC
+Blue Ridge Regional Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$899.10,NC
+Blue Ridge Regional Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$668.93,NC
+Blue Ridge Regional Hospital,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$409.96,NC
+Blue Ridge Regional Hospital,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$161.57,NC
+Blue Ridge Regional Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$460.94,NC

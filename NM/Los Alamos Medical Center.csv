@@ -1,0 +1,309 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Los Alamos Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$449.24,NM
+Los Alamos Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$704.51,NM
+Los Alamos Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$1,200.98",NM
+Los Alamos Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,904.22",NM
+Los Alamos Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$3,012.03",NM
+Los Alamos Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$640.16,NM
+Los Alamos Medical Center,Speech,HCPCS 92507,Speech Therapy,$288.45,NM
+Los Alamos Medical Center,Speech,HCPCS 92610,Swallow Evaluation,$237.68,NM
+Los Alamos Medical Center,Speech,HCPCS 92526,Swallow Treatment,$278.17,NM
+Los Alamos Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$75.31,NM
+Los Alamos Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$75.31,NM
+Los Alamos Medical Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$95.72,NM
+Los Alamos Medical Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$252.71,NM
+Los Alamos Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$84.24,NM
+Los Alamos Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$89.34,NM
+Los Alamos Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$134.01,NM
+Los Alamos Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$128.91,NM
+Los Alamos Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$40.83,NM
+Los Alamos Medical Center,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$707.07,NM
+Los Alamos Medical Center,Blood,HCPCS 85660,Red blood cell sickling measurement,$70.19,NM
+Los Alamos Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$1,283.94",NM
+Los Alamos Medical Center,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$394.37,NM
+Los Alamos Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$465.84,NM
+Los Alamos Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$125.08,NM
+Los Alamos Medical Center,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$538.60,NM
+Los Alamos Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$284.61,NM
+Los Alamos Medical Center,Chemistry,HCPCS 82140,Ammonia level,$159.54,NM
+Los Alamos Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$402.02,NM
+Los Alamos Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$206.77,NM
+Los Alamos Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$353.52,NM
+Los Alamos Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$156.99,NM
+Los Alamos Medical Center,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$108.49,NM
+Los Alamos Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$79.14,NM
+Los Alamos Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$71.47,NM
+Los Alamos Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$105.93,NM
+Los Alamos Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$81.68,NM
+Los Alamos Medical Center,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$47.22,NM
+Los Alamos Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$74.04,NM
+Los Alamos Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$91.90,NM
+Los Alamos Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$353.52,NM
+Los Alamos Medical Center,Chemistry,HCPCS 82310,Calcium level,$105.93,NM
+Los Alamos Medical Center,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$197.82,NM
+Los Alamos Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$257.82,NM
+Los Alamos Medical Center,Chemistry,HCPCS 82465,Cholesterol level,$70.19,NM
+Los Alamos Medical Center,Chemistry,HCPCS 82525,Copper level,$155.72,NM
+Los Alamos Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$294.82,NM
+Los Alamos Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$176.14,NM
+Los Alamos Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$116.15,NM
+Los Alamos Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$233.56,NM
+Los Alamos Medical Center,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$328.01,NM
+Los Alamos Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$275.68,NM
+Los Alamos Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$195.27,NM
+Los Alamos Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$187.61,NM
+Los Alamos Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$111.05,NM
+Los Alamos Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$25.20,NM
+Los Alamos Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$172.29,NM
+Los Alamos Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$256.53,NM
+Los Alamos Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$239.94,NM
+Los Alamos Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$86.79,NM
+Los Alamos Medical Center,Chemistry,HCPCS 83718,HDL cholesterol level,$86.79,NM
+Los Alamos Medical Center,Chemistry,HCPCS 83020,Hemoglobin Measurement,$220.79,NM
+Los Alamos Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$510.68,NM
+Los Alamos Medical Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$182.51,NM
+Los Alamos Medical Center,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$451.80,NM
+Los Alamos Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$123.80,NM
+Los Alamos Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$177.41,NM
+Los Alamos Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$93.77,NM
+Los Alamos Medical Center,Chemistry,HCPCS 83540,Iron level,$118.69,NM
+Los Alamos Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$108.49,NM
+Los Alamos Medical Center,Chemistry,HCPCS 83721,LDL cholesterol level,$76.58,NM
+Los Alamos Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$130.18,NM
+Los Alamos Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$132.73,NM
+Los Alamos Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$220.79,NM
+Los Alamos Medical Center,Chemistry,HCPCS 83021,Liver function blood test panel,$59.99,NM
+Los Alamos Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$108.49,NM
+Los Alamos Medical Center,Chemistry,HCPCS 82542,Mass spectrometry,$365.48,NM
+Los Alamos Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$107.21,NM
+Los Alamos Medical Center,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$162.09,NM
+Los Alamos Medical Center,Chemistry,HCPCS 83918,Organic acid level,$676.44,NM
+Los Alamos Medical Center,Chemistry,HCPCS 83945,Oxalate level,$160.82,NM
+Los Alamos Medical Center,Chemistry,HCPCS 83970,Parathormone,$276.95,NM
+Los Alamos Medical Center,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$107.21,NM
+Los Alamos Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$100.83,NM
+Los Alamos Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$418.62,NM
+Los Alamos Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$320.36,NM
+Los Alamos Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$205.49,NM
+Los Alamos Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$241.22,NM
+Los Alamos Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$395.65,NM
+Los Alamos Medical Center,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$888.30,NM
+Los Alamos Medical Center,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,"$1,331.17",NM
+Los Alamos Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$144.22,NM
+Los Alamos Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$107.21,NM
+Los Alamos Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$151.88,NM
+Los Alamos Medical Center,Chemistry,HCPCS 84478,Triglycerides level,$90.62,NM
+Los Alamos Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$122.52,NM
+Los Alamos Medical Center,Chemistry,HCPCS 84560,Uric acid level,$127.63,NM
+Los Alamos Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$108.49,NM
+Los Alamos Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$177.41,NM
+Los Alamos Medical Center,Chemistry,HCPCS 82436,Urine chloride level,$62.54,NM
+Los Alamos Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$112.31,NM
+Los Alamos Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$74.04,NM
+Los Alamos Medical Center,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$33.19,NM
+Los Alamos Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$132.73,NM
+Los Alamos Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$76.58,NM
+Los Alamos Medical Center,Chemistry,HCPCS 84591,Vitamin B-6 level,$220.79,NM
+Los Alamos Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$274.40,NM
+Los Alamos Medical Center,Chemistry,HCPCS 84630,Zinc level,$144.22,NM
+Los Alamos Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$276.95,NM
+Los Alamos Medical Center,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$681.54,NM
+Los Alamos Medical Center,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$213.15,NM
+Los Alamos Medical Center,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$353.52,NM
+Los Alamos Medical Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$130.18,NM
+Los Alamos Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$160.82,NM
+Los Alamos Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$216.97,NM
+Los Alamos Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$229.73,NM
+Los Alamos Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$271.85,NM
+Los Alamos Medical Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$793.85,NM
+Los Alamos Medical Center,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$379.05,NM
+Los Alamos Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$130.18,NM
+Los Alamos Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$363.32,NM
+Los Alamos Medical Center,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$260.37,NM
+Los Alamos Medical Center,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$588.36,NM
+Los Alamos Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$186.34,NM
+Los Alamos Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$153.16,NM
+Los Alamos Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$228.46,NM
+Los Alamos Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$88.05,NM
+Los Alamos Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$99.56,NM
+Los Alamos Medical Center,Immunology,HCPCS 86361,T cell count and ratio,$232.28,NM
+Los Alamos Medical Center,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$855.11,NM
+Los Alamos Medical Center,Immunology,HCPCS 86359,"T cells count, total","$1,983.35",NM
+Los Alamos Medical Center,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$140.40,NM
+Los Alamos Medical Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$68.93,NM
+Los Alamos Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$153.16,NM
+Los Alamos Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$127.63,NM
+Los Alamos Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$174.85,NM
+Los Alamos Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$336.93,NM
+Los Alamos Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$102.53,NM
+Los Alamos Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$188.90,NM
+Los Alamos Medical Center,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$892.12,NM
+Los Alamos Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$224.63,NM
+Los Alamos Medical Center,Microbiology,HCPCS 87517,Hepatitis B Detection,$146.62,NM
+Los Alamos Medical Center,Microbiology,HCPCS 87624,HPV Detection,$385.44,NM
+Los Alamos Medical Center,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$721.10,NM
+Los Alamos Medical Center,Microbiology,HCPCS 86735,Mumps virus antibody test,$112.31,NM
+Los Alamos Medical Center,Microbiology,HCPCS 86747,Parvovirus antibody test,$232.28,NM
+Los Alamos Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$104.66,NM
+Los Alamos Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$16.59,NM
+Los Alamos Medical Center,Microbiology,HCPCS 87207,Smear for infectious agents,$170.32,NM
+Los Alamos Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$196.55,NM
+Los Alamos Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$225.91,NM
+Los Alamos Medical Center,Microbiology,HCPCS 87045,Stool Culture,$171.03,NM
+Los Alamos Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$99.23,NM
+Los Alamos Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$174.00,NM
+Los Alamos Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$214.41,NM
+Los Alamos Medical Center,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$328.01,NM
+Los Alamos Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$446.70,NM
+Los Alamos Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$206.77,NM
+Los Alamos Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$287.15,NM
+Los Alamos Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$163.37,NM
+Los Alamos Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$270.57,NM
+Los Alamos Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$208.05,NM
+Los Alamos Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$278.24,NM
+Los Alamos Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$311.41,NM
+Los Alamos Medical Center,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$220.79,NM
+Los Alamos Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$187.61,NM
+Los Alamos Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$425.00,NM
+Los Alamos Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$191.45,NM
+Los Alamos Medical Center,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$145.50,NM
+Los Alamos Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$174.85,NM
+Los Alamos Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$100.83,NM
+Los Alamos Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$338.22,NM
+Los Alamos Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$239.94,NM
+Los Alamos Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$94.45,NM
+Los Alamos Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$127.63,NM
+Los Alamos Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$627.94,NM
+Los Alamos Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$100.83,NM
+Los Alamos Medical Center,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$943.17,NM
+Los Alamos Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$136.56,NM
+Los Alamos Medical Center,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$231.01,NM
+Los Alamos Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$35.73,NM
+Los Alamos Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$130.18,NM
+Los Alamos Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$177.41,NM
+Los Alamos Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$379.05,NM
+Los Alamos Medical Center,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$160.82,NM
+Los Alamos Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,558.34",NM
+Los Alamos Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,$266.74,NM
+Los Alamos Medical Center,Sleep,HCPCS 95810,Sleep study,"$7,087.19",NM
+Los Alamos Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$70.02,NM
+Los Alamos Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$742.80,NM
+Los Alamos Medical Center,Breast,HCPCS 77067,Mammogram Screening,$751.65,NM
+Los Alamos Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$821.68,NM
+Los Alamos Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,155.57",NM
+Los Alamos Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$3,960.31",NM
+Los Alamos Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,258.34",NM
+Los Alamos Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,057.36",NM
+Los Alamos Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$7,995.91",NM
+Los Alamos Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$6,791.10",NM
+Los Alamos Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,941.10",NM
+Los Alamos Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$4,529.52",NM
+Los Alamos Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$5,331.03",NM
+Los Alamos Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,535.91",NM
+Los Alamos Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$3,763.75",NM
+Los Alamos Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$4,529.52",NM
+Los Alamos Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$4,170.89",NM
+Los Alamos Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$5,331.03",NM
+Los Alamos Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$5,331.03",NM
+Los Alamos Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$5,226.38",NM
+Los Alamos Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$6,401.83",NM
+Los Alamos Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$5,226.38",NM
+Los Alamos Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$6,401.83",NM
+Los Alamos Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$6,401.83",NM
+Los Alamos Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$5,313.17",NM
+Los Alamos Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$6,401.83",NM
+Los Alamos Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$5,226.38",NM
+Los Alamos Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$6,184.87",NM
+Los Alamos Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$1,308.18",NM
+Los Alamos Medical Center,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$735.14,NM
+Los Alamos Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,175.45",NM
+Los Alamos Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,244.38",NM
+Los Alamos Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$1,596.63",NM
+Los Alamos Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,207.37",NM
+Los Alamos Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$581.98,NM
+Los Alamos Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,"$1,241.82",NM
+Los Alamos Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,419.22",NM
+Los Alamos Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,236.72",NM
+Los Alamos Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$830.87,NM
+Los Alamos Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$598.57,NM
+Los Alamos Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$430.11,NM
+Los Alamos Medical Center,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$901.06,NM
+Los Alamos Medical Center,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$645.80,NM
+Los Alamos Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$774.70,NM
+Los Alamos Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$393.10,NM
+Los Alamos Medical Center,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$511.79,NM
+Los Alamos Medical Center,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views","$1,283.95",NM
+Los Alamos Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$561.75,NM
+Los Alamos Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$710.88,NM
+Los Alamos Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$336.93,NM
+Los Alamos Medical Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$689.20,NM
+Los Alamos Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$386.72,NM
+Los Alamos Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$490.10,NM
+Los Alamos Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$490.10,NM
+Los Alamos Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$490.10,NM
+Los Alamos Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$620.28,NM
+Los Alamos Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$538.60,NM
+Los Alamos Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$386.72,NM
+Los Alamos Medical Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$386.72,NM
+Los Alamos Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$490.10,NM
+Los Alamos Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$585.82,NM
+Los Alamos Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$515.61,NM
+Los Alamos Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,046.55",NM
+Los Alamos Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$765.78,NM
+Los Alamos Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views","$1,301.81",NM
+Los Alamos Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$801.51,NM
+Los Alamos Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$542.42,NM
+Los Alamos Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$336.93,NM
+Los Alamos Medical Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$362.47,NM
+Los Alamos Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$413.51,NM
+Los Alamos Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$749.19,NM
+Los Alamos Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$490.10,NM
+Los Alamos Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$386.72,NM
+Los Alamos Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$490.10,NM
+Los Alamos Medical Center,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$44,159.51",NM
+Los Alamos Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$22,879.70",NM
+Los Alamos Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$27,638.39",NM
+Los Alamos Medical Center,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$34,937.60",NM
+Los Alamos Medical Center,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$16,367.21",NM
+Los Alamos Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$24,447.18",NM
+Los Alamos Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$154.42,NM
+Los Alamos Medical Center,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$61,639.86",NM
+Los Alamos Medical Center,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$23,497.80",NM
+Los Alamos Medical Center,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$28,934.77",NM
+Los Alamos Medical Center,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$18,577.70",NM
+Los Alamos Medical Center,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$34,585.29",NM
+Los Alamos Medical Center,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$20,347.73",NM
+Los Alamos Medical Center,Breast,HCPCS 19101,Biopsy of breast,"$14,837.81",NM
+Los Alamos Medical Center,Breast,HCPCS 19125,Excision of breast lesion,$945.72,NM
+Los Alamos Medical Center,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$56,023.91",NM
+Los Alamos Medical Center,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$13,208.94",NM
+Los Alamos Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$6,380.17",NM
+Los Alamos Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$7,013.20",NM
+Los Alamos Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$4,080.30",NM
+Los Alamos Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$7,013.20",NM
+Los Alamos Medical Center,Digestive,HCPCS 43235,EGD,"$6,064.92",NM
+Los Alamos Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$6,697.95",NM
+Los Alamos Medical Center,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$16,083.53",NM
+Los Alamos Medical Center,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$23,891.98",NM
+Los Alamos Medical Center,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$20,333.38",NM
+Los Alamos Medical Center,General,HCPCS 55700,Biopsy of prostate gland,"$11,817.74",NM
+Los Alamos Medical Center,General,HCPCS 10060,Drainage of Abscess,$845.71,NM
+Los Alamos Medical Center,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$267.08,NM
+Los Alamos Medical Center,General,HCPCS 69200,Removal of foreign body from ear canal,$506.72,NM
+Los Alamos Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$729.05,NM
+Los Alamos Medical Center,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),"$1,333.57",NM
+Los Alamos Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$515.39,NM
+Los Alamos Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$464.64,NM
+Los Alamos Medical Center,Head,HCPCS 69436,Create eardrum opening,"$10,809.97",NM
+Los Alamos Medical Center,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$13,706.63",NM
+Los Alamos Medical Center,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$13,210.12",NM
+Los Alamos Medical Center,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$664.76,NM
+Los Alamos Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$11,989.41",NM
+Los Alamos Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$333.00,NM
+Los Alamos Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$7,009.74",NM
+Los Alamos Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$42,974.14",NM
+Los Alamos Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$10,353.12",NM
+Los Alamos Medical Center,Soft Tissue,HCPCS 97602,Non-selective debridement,$163.37,NM
+Los Alamos Medical Center,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,947.38",NM
+Los Alamos Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,286.49",NM
+Los Alamos Medical Center,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$12,396.30",NM

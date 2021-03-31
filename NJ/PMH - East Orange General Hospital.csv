@@ -1,0 +1,92 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+PMH - East Orange General Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes",$951.44,NJ
+PMH - East Orange General Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$99.72,NJ
+PMH - East Orange General Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$99.72,NJ
+PMH - East Orange General Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$99.72,NJ
+PMH - East Orange General Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$99.72,NJ
+PMH - East Orange General Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$99.72,NJ
+PMH - East Orange General Hospital,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$199.70,NJ
+PMH - East Orange General Hospital,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$199.70,NJ
+PMH - East Orange General Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$199.70,NJ
+PMH - East Orange General Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$199.70,NJ
+PMH - East Orange General Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$199.70,NJ
+PMH - East Orange General Hospital,Psychology,HCPCS 90853,Group psychotherapy,$102.83,NJ
+PMH - East Orange General Hospital,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$183.55,NJ
+PMH - East Orange General Hospital,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$183.55,NJ
+PMH - East Orange General Hospital,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$183.55,NJ
+PMH - East Orange General Hospital,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$183.55,NJ
+PMH - East Orange General Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$2.73,NJ
+PMH - East Orange General Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$2.73,NJ
+PMH - East Orange General Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$4.93,NJ
+PMH - East Orange General Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$6.91,NJ
+PMH - East Orange General Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$8.94,NJ
+PMH - East Orange General Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$8.94,NJ
+PMH - East Orange General Hospital,Chemistry,HCPCS 82140,Ammonia level,$16.76,NJ
+PMH - East Orange General Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$7.45,NJ
+PMH - East Orange General Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$29.98,NJ
+PMH - East Orange General Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$7.90,NJ
+PMH - East Orange General Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$5.89,NJ
+PMH - East Orange General Hospital,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$5.80,NJ
+PMH - East Orange General Hospital,Chemistry,HCPCS 84132,Blood potassium level,$5.47,NJ
+PMH - East Orange General Hospital,Chemistry,HCPCS 84295,Blood sodium level,$5.53,NJ
+PMH - East Orange General Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$19.32,NJ
+PMH - East Orange General Hospital,Chemistry,HCPCS 82310,Calcium level,$5.93,NJ
+PMH - East Orange General Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$13.28,NJ
+PMH - East Orange General Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$17.34,NJ
+PMH - East Orange General Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$15.67,NJ
+PMH - East Orange General Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$16.91,NJ
+PMH - East Orange General Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$11.17,NJ
+PMH - East Orange General Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$21.37,NJ
+PMH - East Orange General Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$21.30,NJ
+PMH - East Orange General Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$5.93,NJ
+PMH - East Orange General Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$10.05,NJ
+PMH - East Orange General Hospital,Chemistry,HCPCS 83540,Iron level,$7.44,NJ
+PMH - East Orange General Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$6.95,NJ
+PMH - East Orange General Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$7.92,NJ
+PMH - East Orange General Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$5.96,NJ
+PMH - East Orange General Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$16.31,NJ
+PMH - East Orange General Hospital,Chemistry,HCPCS 83735,Magnesium Level,$7.71,NJ
+PMH - East Orange General Hospital,Chemistry,HCPCS 83970,Parathormone,$47.47,NJ
+PMH - East Orange General Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$5.04,NJ
+PMH - East Orange General Hospital,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$7.44,NJ
+PMH - East Orange General Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$7.90,NJ
+PMH - East Orange General Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$34.04,NJ
+PMH - East Orange General Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$10.22,NJ
+PMH - East Orange General Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$13.54,NJ
+PMH - East Orange General Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$13.54,NJ
+PMH - East Orange General Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$17.24,NJ
+PMH - East Orange General Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$5.96,NJ
+PMH - East Orange General Hospital,Immunology,HCPCS 86580,Skin test for tuberculosis,$33.89,NJ
+PMH - East Orange General Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$15.23,NJ
+PMH - East Orange General Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$54.03,NJ
+PMH - East Orange General Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$10.89,NJ
+PMH - East Orange General Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$9.28,NJ
+PMH - East Orange General Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$40.35,NJ
+PMH - East Orange General Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$59.01,NJ
+PMH - East Orange General Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$13.54,NJ
+PMH - East Orange General Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$97.87,NJ
+PMH - East Orange General Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$40.35,NJ
+PMH - East Orange General Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$15.01,NJ
+PMH - East Orange General Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$16.55,NJ
+PMH - East Orange General Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$14.81,NJ
+PMH - East Orange General Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$15.23,NJ
+PMH - East Orange General Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$14.81,NJ
+PMH - East Orange General Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$54.77,NJ
+PMH - East Orange General Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$9.73,NJ
+PMH - East Orange General Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$12.14,NJ
+PMH - East Orange General Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$15.40,NJ
+PMH - East Orange General Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$9.40,NJ
+PMH - East Orange General Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$46.48,NJ
+PMH - East Orange General Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$71.46,NJ
+PMH - East Orange General Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$7.60,NJ
+PMH - East Orange General Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$15.24,NJ
+PMH - East Orange General Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$15.57,NJ
+PMH - East Orange General Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$46.48,NJ
+PMH - East Orange General Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$46.48,NJ
+PMH - East Orange General Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$204.88,NJ
+PMH - East Orange General Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$68.34,NJ
+PMH - East Orange General Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$3.65,NJ
+PMH - East Orange General Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$9.90,NJ
+PMH - East Orange General Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$363.24,NJ
+PMH - East Orange General Hospital,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$76.45,NJ
+PMH - East Orange General Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$76.45,NJ

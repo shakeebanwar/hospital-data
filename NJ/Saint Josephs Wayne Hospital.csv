@@ -1,0 +1,351 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Saint Josephs Wayne Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$5,234.15",NJ
+Saint Josephs Wayne Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,"$2,395.52",NJ
+Saint Josephs Wayne Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$2,395.52",NJ
+Saint Josephs Wayne Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$2,395.52",NJ
+Saint Josephs Wayne Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$2,395.52",NJ
+Saint Josephs Wayne Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$2,395.52",NJ
+Saint Josephs Wayne Hospital,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$411.43,NJ
+Saint Josephs Wayne Hospital,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$411.43,NJ
+Saint Josephs Wayne Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$411.43,NJ
+Saint Josephs Wayne Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$411.43,NJ
+Saint Josephs Wayne Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$411.43,NJ
+Saint Josephs Wayne Hospital,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$411.43,NJ
+Saint Josephs Wayne Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$411.43,NJ
+Saint Josephs Wayne Hospital,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$630.00,NJ
+Saint Josephs Wayne Hospital,Psychology,HCPCS 90853,Group psychotherapy,$327.00,NJ
+Saint Josephs Wayne Hospital,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,"$1,167.41",NJ
+Saint Josephs Wayne Hospital,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$275.65,NJ
+Saint Josephs Wayne Hospital,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$275.65,NJ
+Saint Josephs Wayne Hospital,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$275.65,NJ
+Saint Josephs Wayne Hospital,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$564.66,NJ
+Saint Josephs Wayne Hospital,Speech,HCPCS 92507,Speech Therapy,$404.00,NJ
+Saint Josephs Wayne Hospital,Speech,HCPCS 92610,Swallow Evaluation,$859.00,NJ
+Saint Josephs Wayne Hospital,Speech,HCPCS 92526,Swallow Treatment,$359.00,NJ
+Saint Josephs Wayne Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$47.43,NJ
+Saint Josephs Wayne Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$44.90,NJ
+Saint Josephs Wayne Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$151.08,NJ
+Saint Josephs Wayne Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$151.08,NJ
+Saint Josephs Wayne Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$60.20,NJ
+Saint Josephs Wayne Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$163.69,NJ
+Saint Josephs Wayne Hospital,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$60.20,NJ
+Saint Josephs Wayne Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$129.24,NJ
+Saint Josephs Wayne Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$129.24,NJ
+Saint Josephs Wayne Hospital,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$208.25,NJ
+Saint Josephs Wayne Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$60.63,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$191.00,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$54.09,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$68.78,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$95.93,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 82140,Ammonia level,$83.00,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$43.73,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$99.06,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$628.35,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$148.49,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$132.00,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$30.06,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$30.06,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$65.61,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$45.06,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$45.06,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 84132,Blood potassium level,$51.95,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 84295,Blood sodium level,$38.87,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$42.59,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$126.37,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 82310,Calcium level,$42.84,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$136.00,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 82465,Cholesterol level,$55.86,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 82525,Copper level,$85.00,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$119.37,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$140.00,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$37.00,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$85.00,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$130.73,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$391.00,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$77.97,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$102.79,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$122.03,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$51.00,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$159.37,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$125.00,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$125.00,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$71.00,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 83718,HDL cholesterol level,$47.00,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$190.00,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$128.00,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$94.58,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$54.50,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 83540,Iron level,$43.95,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$62.52,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$37.99,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$40.82,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$156.13,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$118.48,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 83735,Magnesium Level,$105.64,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$136.17,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$61.00,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 83918,Organic acid level,$77.00,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 83945,Oxalate level,$132.00,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 83970,Parathormone,$478.85,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$41.87,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$94.58,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$114.00,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$41.87,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$77.98,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$147.57,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$147.57,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$287.00,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$148.49,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$41.87,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$41.87,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$41.87,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 84560,Uric acid level,$30.94,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$30.94,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 82340,Urine calcium level,$42.84,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$54.09,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$37.00,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$340.50,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 84133,Urine potassium level,$51.95,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 84300,Urine sodium level,$38.87,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 84591,Vitamin B-6 level,$65.00,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$218.95,NJ
+Saint Josephs Wayne Hospital,Chemistry,HCPCS 84630,Zinc level,$79.00,NJ
+Saint Josephs Wayne Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$166.73,NJ
+Saint Josephs Wayne Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$158.40,NJ
+Saint Josephs Wayne Hospital,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$128.55,NJ
+Saint Josephs Wayne Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$128.55,NJ
+Saint Josephs Wayne Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$118.87,NJ
+Saint Josephs Wayne Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$255.48,NJ
+Saint Josephs Wayne Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$118.87,NJ
+Saint Josephs Wayne Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$118.87,NJ
+Saint Josephs Wayne Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$120.28,NJ
+Saint Josephs Wayne Hospital,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$185.55,NJ
+Saint Josephs Wayne Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$75.14,NJ
+Saint Josephs Wayne Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$50.38,NJ
+Saint Josephs Wayne Hospital,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$198.71,NJ
+Saint Josephs Wayne Hospital,Immunology,HCPCS 86161,Measurement of complement (immune system proteins),$185.20,NJ
+Saint Josephs Wayne Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$118.87,NJ
+Saint Josephs Wayne Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$250.00,NJ
+Saint Josephs Wayne Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$43.84,NJ
+Saint Josephs Wayne Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$74.00,NJ
+Saint Josephs Wayne Hospital,Immunology,HCPCS 86580,Skin test for tuberculosis,$37.00,NJ
+Saint Josephs Wayne Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$85.16,NJ
+Saint Josephs Wayne Hospital,Immunology,HCPCS 86361,T cell count and ratio,$352.73,NJ
+Saint Josephs Wayne Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$352.73,NJ
+Saint Josephs Wayne Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$42.69,NJ
+Saint Josephs Wayne Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$78.31,NJ
+Saint Josephs Wayne Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$53.20,NJ
+Saint Josephs Wayne Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$208.09,NJ
+Saint Josephs Wayne Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$174.00,NJ
+Saint Josephs Wayne Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$226.00,NJ
+Saint Josephs Wayne Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$265.26,NJ
+Saint Josephs Wayne Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$321.00,NJ
+Saint Josephs Wayne Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$118.87,NJ
+Saint Josephs Wayne Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$484.34,NJ
+Saint Josephs Wayne Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$141.81,NJ
+Saint Josephs Wayne Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$379.33,NJ
+Saint Josephs Wayne Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$98.93,NJ
+Saint Josephs Wayne Hospital,Microbiology,HCPCS 86747,Parvovirus antibody test,$142.25,NJ
+Saint Josephs Wayne Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$178.70,NJ
+Saint Josephs Wayne Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$118.70,NJ
+Saint Josephs Wayne Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$70.57,NJ
+Saint Josephs Wayne Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$61.02,NJ
+Saint Josephs Wayne Hospital,Microbiology,HCPCS 87045,Stool Culture,$104.18,NJ
+Saint Josephs Wayne Hospital,Microbiology,HCPCS 87880,Strep Test,$133.18,NJ
+Saint Josephs Wayne Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$112.82,NJ
+Saint Josephs Wayne Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$85.16,NJ
+Saint Josephs Wayne Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$101.37,NJ
+Saint Josephs Wayne Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$320.60,NJ
+Saint Josephs Wayne Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$220.95,NJ
+Saint Josephs Wayne Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$349.97,NJ
+Saint Josephs Wayne Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$76.86,NJ
+Saint Josephs Wayne Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$101.05,NJ
+Saint Josephs Wayne Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$46.99,NJ
+Saint Josephs Wayne Hospital,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$912.00,NJ
+Saint Josephs Wayne Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$216.80,NJ
+Saint Josephs Wayne Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$87.00,NJ
+Saint Josephs Wayne Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$376.45,NJ
+Saint Josephs Wayne Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$165.03,NJ
+Saint Josephs Wayne Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$43.00,NJ
+Saint Josephs Wayne Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$75.00,NJ
+Saint Josephs Wayne Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$76.00,NJ
+Saint Josephs Wayne Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$107.62,NJ
+Saint Josephs Wayne Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$89.00,NJ
+Saint Josephs Wayne Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$89.00,NJ
+Saint Josephs Wayne Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$130.66,NJ
+Saint Josephs Wayne Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$130.66,NJ
+Saint Josephs Wayne Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$287.67,NJ
+Saint Josephs Wayne Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$164.05,NJ
+Saint Josephs Wayne Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$164.05,NJ
+Saint Josephs Wayne Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$23.82,NJ
+Saint Josephs Wayne Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$23.82,NJ
+Saint Josephs Wayne Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$66.34,NJ
+Saint Josephs Wayne Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$1,228.85",NJ
+Saint Josephs Wayne Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$309.69,NJ
+Saint Josephs Wayne Hospital,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$654.09,NJ
+Saint Josephs Wayne Hospital,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$8,584.81",NJ
+Saint Josephs Wayne Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,068.17",NJ
+Saint Josephs Wayne Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,$739.24,NJ
+Saint Josephs Wayne Hospital,Pulmonary,HCPCS 94618,Pulmonary stress test,$341.70,NJ
+Saint Josephs Wayne Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$658.13,NJ
+Saint Josephs Wayne Hospital,Sleep,HCPCS 95810,Sleep study,"$6,660.82",NJ
+Saint Josephs Wayne Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$617.89,NJ
+Saint Josephs Wayne Hospital,Breast,HCPCS 77067,Mammogram Screening,$671.13,NJ
+Saint Josephs Wayne Hospital,Breast,HCPCS 77066,Mammography of both breasts,$617.89,NJ
+Saint Josephs Wayne Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$3,206.61",NJ
+Saint Josephs Wayne Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$2,142.22",NJ
+Saint Josephs Wayne Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$2,480.40",NJ
+Saint Josephs Wayne Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,776.54",NJ
+Saint Josephs Wayne Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,143.49",NJ
+Saint Josephs Wayne Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$3,143.49",NJ
+Saint Josephs Wayne Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,898.33",NJ
+Saint Josephs Wayne Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$3,906.79",NJ
+Saint Josephs Wayne Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$3,906.79",NJ
+Saint Josephs Wayne Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,120.27",NJ
+Saint Josephs Wayne Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$3,278.67",NJ
+Saint Josephs Wayne Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$3,104.41",NJ
+Saint Josephs Wayne Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$3,681.81",NJ
+Saint Josephs Wayne Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$3,257.04",NJ
+Saint Josephs Wayne Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$3,383.16",NJ
+Saint Josephs Wayne Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$3,383.16",NJ
+Saint Josephs Wayne Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$6,156.20",NJ
+Saint Josephs Wayne Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$3,383.16",NJ
+Saint Josephs Wayne Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$4,491.19",NJ
+Saint Josephs Wayne Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$3,600.39",NJ
+Saint Josephs Wayne Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$4,771.81",NJ
+Saint Josephs Wayne Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$3,964.85",NJ
+Saint Josephs Wayne Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$2,676.90",NJ
+Saint Josephs Wayne Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$957.78,NJ
+Saint Josephs Wayne Hospital,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$484.00,NJ
+Saint Josephs Wayne Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$840.47,NJ
+Saint Josephs Wayne Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$946.01,NJ
+Saint Josephs Wayne Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,068.36",NJ
+Saint Josephs Wayne Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,068.36",NJ
+Saint Josephs Wayne Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,"$1,174.63",NJ
+Saint Josephs Wayne Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,174.63",NJ
+Saint Josephs Wayne Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,034.78",NJ
+Saint Josephs Wayne Hospital,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$413.72,NJ
+Saint Josephs Wayne Hospital,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$374.00,NJ
+Saint Josephs Wayne Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$173.65,NJ
+Saint Josephs Wayne Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$173.65,NJ
+Saint Josephs Wayne Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$513.60,NJ
+Saint Josephs Wayne Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$463.29,NJ
+Saint Josephs Wayne Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$265.00,NJ
+Saint Josephs Wayne Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$492.36,NJ
+Saint Josephs Wayne Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$254.00,NJ
+Saint Josephs Wayne Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$384.21,NJ
+Saint Josephs Wayne Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$262.46,NJ
+Saint Josephs Wayne Hospital,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$344.52,NJ
+Saint Josephs Wayne Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$209.50,NJ
+Saint Josephs Wayne Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$364.31,NJ
+Saint Josephs Wayne Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$289.37,NJ
+Saint Josephs Wayne Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$293.66,NJ
+Saint Josephs Wayne Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$293.66,NJ
+Saint Josephs Wayne Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$639.42,NJ
+Saint Josephs Wayne Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$293.66,NJ
+Saint Josephs Wayne Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$639.42,NJ
+Saint Josephs Wayne Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$208.83,NJ
+Saint Josephs Wayne Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$293.66,NJ
+Saint Josephs Wayne Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$305.32,NJ
+Saint Josephs Wayne Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$639.42,NJ
+Saint Josephs Wayne Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$639.42,NJ
+Saint Josephs Wayne Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$326.46,NJ
+Saint Josephs Wayne Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$442.72,NJ
+Saint Josephs Wayne Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$442.72,NJ
+Saint Josephs Wayne Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$431.01,NJ
+Saint Josephs Wayne Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$431.01,NJ
+Saint Josephs Wayne Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$301.23,NJ
+Saint Josephs Wayne Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$263.96,NJ
+Saint Josephs Wayne Hospital,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$262.36,NJ
+Saint Josephs Wayne Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$311.38,NJ
+Saint Josephs Wayne Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$311.38,NJ
+Saint Josephs Wayne Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$327.52,NJ
+Saint Josephs Wayne Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$311.38,NJ
+Saint Josephs Wayne Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$311.38,NJ
+Saint Josephs Wayne Hospital,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$7,899.34",NJ
+Saint Josephs Wayne Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$11,632.22",NJ
+Saint Josephs Wayne Hospital,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$11,632.22",NJ
+Saint Josephs Wayne Hospital,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,"$9,060.67",NJ
+Saint Josephs Wayne Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$9,060.67",NJ
+Saint Josephs Wayne Hospital,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$3,896.11",NJ
+Saint Josephs Wayne Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$9,705.66",NJ
+Saint Josephs Wayne Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$701.00,NJ
+Saint Josephs Wayne Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$701.00,NJ
+Saint Josephs Wayne Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$86,040.96",NJ
+Saint Josephs Wayne Hospital,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$16,144.32",NJ
+Saint Josephs Wayne Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$12,772.23",NJ
+Saint Josephs Wayne Hospital,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$12,772.23",NJ
+Saint Josephs Wayne Hospital,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$12,772.23",NJ
+Saint Josephs Wayne Hospital,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$9,705.66",NJ
+Saint Josephs Wayne Hospital,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$9,705.66",NJ
+Saint Josephs Wayne Hospital,Breast,HCPCS 19125,Excision of breast lesion,"$8,164.53",NJ
+Saint Josephs Wayne Hospital,Breast,HCPCS 19120,Excision of cyst of breast,"$8,164.53",NJ
+Saint Josephs Wayne Hospital,Breast,HCPCS 19301,Partial removal of breast,"$8,962.66",NJ
+Saint Josephs Wayne Hospital,Breast,HCPCS 19318,Reduction mammaplasty,"$17,528.44",NJ
+Saint Josephs Wayne Hospital,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$10,143.05",NJ
+Saint Josephs Wayne Hospital,Breast,HCPCS 19303,Total removal of breast,"$10,143.05",NJ
+Saint Josephs Wayne Hospital,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),"$213,990.91",NJ
+Saint Josephs Wayne Hospital,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$132,594.40",NJ
+Saint Josephs Wayne Hospital,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$132,594.40",NJ
+Saint Josephs Wayne Hospital,Cardiac,HCPCS 33249,Defibrillator complete system,"$92,522.63",NJ
+Saint Josephs Wayne Hospital,Cardiac,HCPCS 33240,Defibrillator generator,"$107,503.27",NJ
+Saint Josephs Wayne Hospital,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$14,184.75",NJ
+Saint Josephs Wayne Hospital,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$14,184.75",NJ
+Saint Josephs Wayne Hospital,Cardiac,MSDRG 247,Implant drug-eluting stent,"$162,868.75",NJ
+Saint Josephs Wayne Hospital,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$38,601.58",NJ
+Saint Josephs Wayne Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$3,270.52",NJ
+Saint Josephs Wayne Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$3,875.21",NJ
+Saint Josephs Wayne Hospital,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$3,867.97",NJ
+Saint Josephs Wayne Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$3,867.97",NJ
+Saint Josephs Wayne Hospital,Digestive,HCPCS 43235,EGD,"$4,049.98",NJ
+Saint Josephs Wayne Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$4,166.58",NJ
+Saint Josephs Wayne Hospital,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$7,519.95",NJ
+Saint Josephs Wayne Hospital,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$7,519.95",NJ
+Saint Josephs Wayne Hospital,Digestive,HCPCS 45391,Ultrasound of lower large bowel using an endoscope,"$3,270.52",NJ
+Saint Josephs Wayne Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$52,714.94",NJ
+Saint Josephs Wayne Hospital,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$10,000.89",NJ
+Saint Josephs Wayne Hospital,General,HCPCS 55700,Biopsy of prostate gland,"$7,259.61",NJ
+Saint Josephs Wayne Hospital,General,HCPCS 10060,Drainage of Abscess,"$2,272.18",NJ
+Saint Josephs Wayne Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple","$3,688.37",NJ
+Saint Josephs Wayne Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,"$1,635.63",NJ
+Saint Josephs Wayne Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$3,149.32",NJ
+Saint Josephs Wayne Hospital,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),"$3,149.32",NJ
+Saint Josephs Wayne Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$3,149.32",NJ
+Saint Josephs Wayne Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$3,149.32",NJ
+Saint Josephs Wayne Hospital,Head,HCPCS 69436,Create eardrum opening,"$5,794.14",NJ
+Saint Josephs Wayne Hospital,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$8,306.05",NJ
+Saint Josephs Wayne Hospital,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$6,234.30",NJ
+Saint Josephs Wayne Hospital,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$114,947.20",NJ
+Saint Josephs Wayne Hospital,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,"$3,166.81",NJ
+Saint Josephs Wayne Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$3,953.22",NJ
+Saint Josephs Wayne Hospital,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$3,953.22",NJ
+Saint Josephs Wayne Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$4,187.47",NJ
+Saint Josephs Wayne Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$1,682.33",NJ
+Saint Josephs Wayne Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$90,033.25",NJ
+Saint Josephs Wayne Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$8,267.70",NJ
+Saint Josephs Wayne Hospital,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$8,267.70",NJ
+Saint Josephs Wayne Hospital,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,"$51,416.47",NJ
+Saint Josephs Wayne Hospital,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$4,945.34",NJ
+Saint Josephs Wayne Hospital,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$89,414.89",NJ
+Saint Josephs Wayne Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$114,947.20",NJ
+Saint Josephs Wayne Hospital,Musculoskeletal,HCPCS 22612,Spine arthrodesis,"$39,812.20",NJ
+Saint Josephs Wayne Hospital,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$413.49,NJ
+Saint Josephs Wayne Hospital,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$13,087.08",NJ
+Saint Josephs Wayne Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$7,245.47",NJ
+Saint Josephs Wayne Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$62,578.10",NJ
+Saint Josephs Wayne Hospital,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$10,790.24",NJ
+Saint Josephs Wayne Hospital,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$11,457.29",NJ
+Saint Josephs Wayne Hospital,Obstetrics,HCPCS 58545,Removal of uterine fibroid tumors using an endoscope,"$17,759.21",NJ
+Saint Josephs Wayne Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$45,473.69",NJ
+Saint Josephs Wayne Hospital,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries","$12,275.41",NJ
+Saint Josephs Wayne Hospital,Ocular,HCPCS 66984,Cataract removal,"$7,259.88",NJ
+Saint Josephs Wayne Hospital,Ocular,HCPCS 66982,Cataract removal with insertion of lens,"$7,259.88",NJ
+Saint Josephs Wayne Hospital,Ocular,HCPCS 66821,Laser cataract removal,"$3,222.53",NJ
+Saint Josephs Wayne Hospital,Ocular,HCPCS 67311,Realignment of the eye with repair of eye muscle,"$8,214.64",NJ
+Saint Josephs Wayne Hospital,Ocular,HCPCS 65426,Removal or relocation of corneal conjunctiva,"$8,192.95",NJ
+Saint Josephs Wayne Hospital,Ocular,HCPCS 65756,Transplant of outer layer of corneal tissue,"$30,253.28",NJ
+Saint Josephs Wayne Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,"$6,191.27",NJ
+Saint Josephs Wayne Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$35.17,NJ
+Saint Josephs Wayne Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$7,554.42",NJ
+Saint Josephs Wayne Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$4,001.01",NJ
+Saint Josephs Wayne Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$3,890.89",NJ

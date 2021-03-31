@@ -1,0 +1,225 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Boone County Health Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,177.55",NE
+Boone County Health Center,Emergency Care,HCPCS 99281,Emergency Level 1,"$1,024.23",NE
+Boone County Health Center,Emergency Care,HCPCS 99282,Emergency Level 2,"$1,024.23",NE
+Boone County Health Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$1,024.23",NE
+Boone County Health Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,024.23",NE
+Boone County Health Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,024.23",NE
+Boone County Health Center,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$197.97,NE
+Boone County Health Center,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$197.97,NE
+Boone County Health Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$197.97,NE
+Boone County Health Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$197.97,NE
+Boone County Health Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$197.97,NE
+Boone County Health Center,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$180.13,NE
+Boone County Health Center,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$180.13,NE
+Boone County Health Center,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$226.85,NE
+Boone County Health Center,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$163.43,NE
+Boone County Health Center,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$163.43,NE
+Boone County Health Center,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$163.43,NE
+Boone County Health Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$26.10,NE
+Boone County Health Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$27.00,NE
+Boone County Health Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$112.50,NE
+Boone County Health Center,Blood,HCPCS 85610,"Blood test, clotting time",$48.53,NE
+Boone County Health Center,Blood,HCPCS 85730,Coagulation assessment blood test,$75.75,NE
+Boone County Health Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$76.83,NE
+Boone County Health Center,Blood,HCPCS 85027,"Complete blood count, automated",$76.83,NE
+Boone County Health Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$44.10,NE
+Boone County Health Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$189.90,NE
+Boone County Health Center,Chemistry,HCPCS 82040,Albumin (protein) level,$79.31,NE
+Boone County Health Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$73.80,NE
+Boone County Health Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$179.53,NE
+Boone County Health Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$80.10,NE
+Boone County Health Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$47.75,NE
+Boone County Health Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$47.75,NE
+Boone County Health Center,Chemistry,HCPCS 82565,Blood creatinine level,$47.54,NE
+Boone County Health Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$40.09,NE
+Boone County Health Center,Chemistry,HCPCS 84132,Blood potassium level,$40.50,NE
+Boone County Health Center,Chemistry,HCPCS 84295,Blood sodium level,$40.36,NE
+Boone County Health Center,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$44.10,NE
+Boone County Health Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$107.70,NE
+Boone County Health Center,Chemistry,HCPCS 82310,Calcium level,$44.61,NE
+Boone County Health Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$126.00,NE
+Boone County Health Center,Chemistry,HCPCS 82465,Cholesterol level,$56.70,NE
+Boone County Health Center,Chemistry,HCPCS 82533,Cortisol Measurement,$103.50,NE
+Boone County Health Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$111.49,NE
+Boone County Health Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$115.76,NE
+Boone County Health Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$103.81,NE
+Boone County Health Center,Chemistry,HCPCS 82746,Folic acid; serum,$116.10,NE
+Boone County Health Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$70.45,NE
+Boone County Health Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$54.00,NE
+Boone County Health Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$73.69,NE
+Boone County Health Center,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$95.40,NE
+Boone County Health Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$99.00,NE
+Boone County Health Center,Chemistry,HCPCS 83540,Iron level,$49.16,NE
+Boone County Health Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$55.55,NE
+Boone County Health Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$88.20,NE
+Boone County Health Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$54.00,NE
+Boone County Health Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$157.86,NE
+Boone County Health Center,Chemistry,HCPCS 83735,Magnesium Level,$68.40,NE
+Boone County Health Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$133.20,NE
+Boone County Health Center,Chemistry,HCPCS 83970,Parathormone,$183.60,NE
+Boone County Health Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$70.02,NE
+Boone County Health Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$70.02,NE
+Boone County Health Center,Chemistry,HCPCS 82270,Stool analysis for blood,$36.28,NE
+Boone County Health Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$137.93,NE
+Boone County Health Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$137.93,NE
+Boone County Health Center,Chemistry,HCPCS 84155,"Total protein level, blood",$70.02,NE
+Boone County Health Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$70.02,NE
+Boone County Health Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$70.02,NE
+Boone County Health Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$41.40,NE
+Boone County Health Center,Chemistry,HCPCS 82340,Urine calcium level,$44.61,NE
+Boone County Health Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$79.31,NE
+Boone County Health Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$67.50,NE
+Boone County Health Center,Chemistry,HCPCS 84300,Urine sodium level,$40.36,NE
+Boone County Health Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$151.55,NE
+Boone County Health Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$84.58,NE
+Boone County Health Center,Immunology,HCPCS 86318,Covid-19 antibody test,$77.56,NE
+Boone County Health Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$84.58,NE
+Boone County Health Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$77.56,NE
+Boone County Health Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$83.46,NE
+Boone County Health Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$108.00,NE
+Boone County Health Center,Immunology,HCPCS 86431,Rheumatoid factor level,$56.70,NE
+Boone County Health Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$62.10,NE
+Boone County Health Center,Immunology,HCPCS 86580,Skin test for tuberculosis,$47.70,NE
+Boone County Health Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$93.01,NE
+Boone County Health Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$75.21,NE
+Boone County Health Center,Microbiology,HCPCS 87491,Chlamydia Test,$100.80,NE
+Boone County Health Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$108.00,NE
+Boone County Health Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$133.20,NE
+Boone County Health Center,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$259.20,NE
+Boone County Health Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$84.58,NE
+Boone County Health Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$103.50,NE
+Boone County Health Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$135.00,NE
+Boone County Health Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$63.00,NE
+Boone County Health Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$42.72,NE
+Boone County Health Center,Microbiology,HCPCS 87045,Stool Culture,$96.30,NE
+Boone County Health Center,Microbiology,HCPCS 87880,Strep Test,$71.10,NE
+Boone County Health Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$75.60,NE
+Boone County Health Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$67.50,NE
+Boone County Health Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$100.80,NE
+Boone County Health Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$247.50,NE
+Boone County Health Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$119.56,NE
+Boone County Health Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$150.87,NE
+Boone County Health Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$114.90,NE
+Boone County Health Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$111.60,NE
+Boone County Health Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$108.90,NE
+Boone County Health Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$148.50,NE
+Boone County Health Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$168.30,NE
+Boone County Health Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$70.20,NE
+Boone County Health Center,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$99.90,NE
+Boone County Health Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$111.60,NE
+Boone County Health Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$140.40,NE
+Boone County Health Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$126.00,NE
+Boone County Health Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$130.50,NE
+Boone County Health Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$48.15,NE
+Boone County Health Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$48.15,NE
+Boone County Health Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$83.41,NE
+Boone County Health Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$83.41,NE
+Boone County Health Center,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$30.10,NE
+Boone County Health Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$42.84,NE
+Boone County Health Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$42.84,NE
+Boone County Health Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$28.80,NE
+Boone County Health Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$1,041.75",NE
+Boone County Health Center,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$156.99,NE
+Boone County Health Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$156.99,NE
+Boone County Health Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$357.75,NE
+Boone County Health Center,Pulmonary,HCPCS 94640,Aerosol Treatment,$160.01,NE
+Boone County Health Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$735.89,NE
+Boone County Health Center,Sleep,HCPCS 95810,Sleep study,"$2,823.22",NE
+Boone County Health Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$262.21,NE
+Boone County Health Center,Breast,HCPCS 77067,Mammogram Screening,$290.70,NE
+Boone County Health Center,Breast,HCPCS 77066,Mammography of both breasts,$262.21,NE
+Boone County Health Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$2,956.49",NE
+Boone County Health Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,681.00",NE
+Boone County Health Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,309.50",NE
+Boone County Health Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$4,268.17",NE
+Boone County Health Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$4,268.17",NE
+Boone County Health Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$3,325.50",NE
+Boone County Health Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$2,198.70",NE
+Boone County Health Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$2,198.70",NE
+Boone County Health Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$2,177.42",NE
+Boone County Health Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,640.70",NE
+Boone County Health Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$2,282.41",NE
+Boone County Health Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,721.16",NE
+Boone County Health Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,721.16",NE
+Boone County Health Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$3,437.44",NE
+Boone County Health Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,721.16",NE
+Boone County Health Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,926.62",NE
+Boone County Health Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,052.63",NE
+Boone County Health Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,999.58",NE
+Boone County Health Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,399.40",NE
+Boone County Health Center,MRI,HCPCS 73721,MRI scan of leg joint,"$2,187.80",NE
+Boone County Health Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$445.80,NE
+Boone County Health Center,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$288.00,NE
+Boone County Health Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$572.20,NE
+Boone County Health Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$372.60,NE
+Boone County Health Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$563.53,NE
+Boone County Health Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$563.53,NE
+Boone County Health Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$459.26,NE
+Boone County Health Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$459.26,NE
+Boone County Health Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$427.50,NE
+Boone County Health Center,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$538.20,NE
+Boone County Health Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$288.11,NE
+Boone County Health Center,Chest,HCPCS 71045,X-ray of chest; Single View,$288.11,NE
+Boone County Health Center,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$293.40,NE
+Boone County Health Center,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$194.40,NE
+Boone County Health Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$247.50,NE
+Boone County Health Center,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$164.70,NE
+Boone County Health Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$266.88,NE
+Boone County Health Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$225.90,NE
+Boone County Health Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$276.75,NE
+Boone County Health Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$241.40,NE
+Boone County Health Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$276.75,NE
+Boone County Health Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$241.40,NE
+Boone County Health Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$276.75,NE
+Boone County Health Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$241.40,NE
+Boone County Health Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$241.40,NE
+Boone County Health Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$195.30,NE
+Boone County Health Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$363.85,NE
+Boone County Health Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$363.85,NE
+Boone County Health Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$376.86,NE
+Boone County Health Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$207.90,NE
+Boone County Health Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$191.70,NE
+Boone County Health Center,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$187.20,NE
+Boone County Health Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$206.66,NE
+Boone County Health Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$294.30,NE
+Boone County Health Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$206.66,NE
+Boone County Health Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$206.66,NE
+Boone County Health Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$7,619.94",NE
+Boone County Health Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$7,619.94",NE
+Boone County Health Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$234.84,NE
+Boone County Health Center,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$234.84,NE
+Boone County Health Center,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$1,388.70",NE
+Boone County Health Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$6,098.43",NE
+Boone County Health Center,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$4,381.71",NE
+Boone County Health Center,Breast,HCPCS 19125,Excision of breast lesion,"$3,161.42",NE
+Boone County Health Center,Breast,HCPCS 19120,Excision of cyst of breast,"$3,161.42",NE
+Boone County Health Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,891.99",NE
+Boone County Health Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$2,084.31",NE
+Boone County Health Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$2,094.08",NE
+Boone County Health Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$2,094.08",NE
+Boone County Health Center,Digestive,HCPCS 43239,EGD and biopsy,"$2,195.75",NE
+Boone County Health Center,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$5,017.39",NE
+Boone County Health Center,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$5,017.39",NE
+Boone County Health Center,General,HCPCS 55700,Biopsy of prostate gland,"$4,316.85",NE
+Boone County Health Center,General,HCPCS 10060,Drainage of Abscess,$373.55,NE
+Boone County Health Center,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$428.77,NE
+Boone County Health Center,General,HCPCS 69200,Removal of foreign body from ear canal,$241.50,NE
+Boone County Health Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$620.53,NE
+Boone County Health Center,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$620.53,NE
+Boone County Health Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$620.53,NE
+Boone County Health Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$620.53,NE
+Boone County Health Center,Head,HCPCS 69436,Create eardrum opening,"$2,334.90",NE
+Boone County Health Center,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$4,163.63",NE
+Boone County Health Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$657.53,NE
+Boone County Health Center,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,$657.53,NE
+Boone County Health Center,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$798.89,NE
+Boone County Health Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$477.25,NE
+Boone County Health Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$28,340.33",NE
+Boone County Health Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$5,038.17",NE
+Boone County Health Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$12,138.03",NE
+Boone County Health Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$5,818.95",NE
+Boone County Health Center,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries","$6,192.90",NE
+Boone County Health Center,Ocular,HCPCS 66984,Cataract removal,"$4,192.52",NE
+Boone County Health Center,Vascular,HCPCS 36416,Collection of capillary blood specimen,$26.00,NE
+Boone County Health Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,480.47",NE

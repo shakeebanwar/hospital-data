@@ -1,0 +1,351 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Inspira Medical Center Vineland,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes",$630.29,NJ
+Inspira Medical Center Vineland,Emergency Care,HCPCS 99281,Emergency Level 1,$294.23,NJ
+Inspira Medical Center Vineland,Emergency Care,HCPCS 99282,Emergency Level 2,$294.23,NJ
+Inspira Medical Center Vineland,Emergency Care,HCPCS 99283,Emergency Level 3,$294.23,NJ
+Inspira Medical Center Vineland,Emergency Care,HCPCS 99284,Emergency Level 4,$294.23,NJ
+Inspira Medical Center Vineland,Emergency Care,HCPCS 99285,Emergency Level 5,$294.23,NJ
+Inspira Medical Center Vineland,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$153.94,NJ
+Inspira Medical Center Vineland,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$118.36,NJ
+Inspira Medical Center Vineland,Psychology,HCPCS 90853,Group psychotherapy,$93.05,NJ
+Inspira Medical Center Vineland,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$65.48,NJ
+Inspira Medical Center Vineland,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$80.86,NJ
+Inspira Medical Center Vineland,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$80.86,NJ
+Inspira Medical Center Vineland,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$80.86,NJ
+Inspira Medical Center Vineland,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$86.77,NJ
+Inspira Medical Center Vineland,Speech,HCPCS 92507,Speech Therapy,$39.42,NJ
+Inspira Medical Center Vineland,Speech,HCPCS 92610,Swallow Evaluation,$36.23,NJ
+Inspira Medical Center Vineland,Speech,HCPCS 92526,Swallow Treatment,$43.24,NJ
+Inspira Medical Center Vineland,Blood,HCPCS 85018,"Blood count, hemoglobin",$0.94,NJ
+Inspira Medical Center Vineland,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$0.94,NJ
+Inspira Medical Center Vineland,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$2.68,NJ
+Inspira Medical Center Vineland,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$2.68,NJ
+Inspira Medical Center Vineland,Blood,HCPCS 85610,"Blood test, clotting time",$1.56,NJ
+Inspira Medical Center Vineland,Blood,HCPCS 85730,Coagulation assessment blood test,$2.38,NJ
+Inspira Medical Center Vineland,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$3.00,NJ
+Inspira Medical Center Vineland,Blood,HCPCS 85027,"Complete blood count, automated",$3.00,NJ
+Inspira Medical Center Vineland,Blood,HCPCS 85008,Microscopic examination for white blood cells,$1.50,NJ
+Inspira Medical Center Vineland,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$1.50,NJ
+Inspira Medical Center Vineland,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$5.83,NJ
+Inspira Medical Center Vineland,Blood,HCPCS 85660,Red blood cell sickling measurement,$2.17,NJ
+Inspira Medical Center Vineland,Blood,HCPCS 85041,"Red blood count, automated test",$1.45,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$15.36,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 82040,Albumin (protein) level,$2.23,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$5.44,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$6.66,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 82140,Ammonia level,$5.77,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 82150,Amylase (enzyme) level,$2.55,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$5.80,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$7.65,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 84439,Assay of free thyroxine,$3.20,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$6.45,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 82248,Bilirubin level (Direct),$1.99,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 82247,Bilirubin level (Total),$1.99,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 82565,Blood creatinine level,$2.26,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$0.94,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$0.94,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 84132,Blood potassium level,$1.82,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 84295,Blood sodium level,$1.75,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$2.28,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$6.65,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 82310,Calcium level,$4.97,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$7.54,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 82465,Cholesterol level,$1.72,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 82525,Copper level,$4.95,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 82533,Cortisol Measurement,$7.27,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 84681,C-peptide (protein) level,$8.26,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$2.58,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$5.97,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$9.12,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$15.30,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$5.41,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 82746,Folic acid; serum,$5.88,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$4.23,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$2.85,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$3.84,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$7.38,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$7.36,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$4.98,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 83718,HDL cholesterol level,$3.26,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 83020,Hemoglobin Measurement,$5.64,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$6.71,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$10.78,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$26.51,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 83525,Insulin Measurement; Total,$4.53,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 82330,Ionized Calcium,$4.97,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 83550,Iron Binding Capacity,$3.42,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 83540,Iron level,$2.57,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$2.39,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 83721,LDL cholesterol level,$3.59,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$2.73,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$2.06,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$6.41,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 83021,Liver function blood test panel,$5.64,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 83735,Magnesium Level,$2.66,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 82542,Mass spectrometry,$13.09,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$6.09,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$75.87,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 83918,Organic acid level,$9.37,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 83945,Oxalate level,$5.14,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 83970,Parathormone,$16.38,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 84157,Prealbumin (protein) level,$2.35,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$26.51,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$7.70,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$2.35,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 82270,Stool analysis for blood,$1.29,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 84403,Testosterone (hormone) level,$10.22,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 84402,Testosterone Level; Free,$10.22,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$2.56,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$20.20,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$3.20,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 84155,"Total protein level, blood",$2.35,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$2.35,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 84166,Troponin (protein) analysis,$2.35,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 84560,Uric acid level,$1.79,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 84550,"Uric acid level, blood",$1.79,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 82340,Urine calcium level,$4.97,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 82436,Urine chloride level,$1.83,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$2.23,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$2.72,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$5.49,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 84133,Urine potassium level,$1.82,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 84300,Urine sodium level,$1.75,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$11.74,NJ
+Inspira Medical Center Vineland,Chemistry,HCPCS 84630,Zinc level,$4.53,NJ
+Inspira Medical Center Vineland,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$6.71,NJ
+Inspira Medical Center Vineland,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$6.04,NJ
+Inspira Medical Center Vineland,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$6.39,NJ
+Inspira Medical Center Vineland,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$6.39,NJ
+Inspira Medical Center Vineland,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$12.89,NJ
+Inspira Medical Center Vineland,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$5.49,NJ
+Inspira Medical Center Vineland,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$5.47,NJ
+Inspira Medical Center Vineland,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$5.49,NJ
+Inspira Medical Center Vineland,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$5.49,NJ
+Inspira Medical Center Vineland,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$5.85,NJ
+Inspira Medical Center Vineland,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$8.90,NJ
+Inspira Medical Center Vineland,Immunology,HCPCS 86140,Measurement C-reactive protein,$2.06,NJ
+Inspira Medical Center Vineland,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$2.86,NJ
+Inspira Medical Center Vineland,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$4.91,NJ
+Inspira Medical Center Vineland,Immunology,HCPCS 86161,Measurement of complement (immune system proteins),$6.94,NJ
+Inspira Medical Center Vineland,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$5.49,NJ
+Inspira Medical Center Vineland,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$5.75,NJ
+Inspira Medical Center Vineland,Immunology,HCPCS 86431,Rheumatoid factor level,$2.25,NJ
+Inspira Medical Center Vineland,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$2.05,NJ
+Inspira Medical Center Vineland,Immunology,HCPCS 86592,Syphilis Detection Test,$1.82,NJ
+Inspira Medical Center Vineland,Immunology,HCPCS 86361,T cell count and ratio,$12.55,NJ
+Inspira Medical Center Vineland,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$12.55,NJ
+Inspira Medical Center Vineland,Immunology,HCPCS 86359,"T cells count, total",$12.55,NJ
+Inspira Medical Center Vineland,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$2.08,NJ
+Inspira Medical Center Vineland,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$3.61,NJ
+Inspira Medical Center Vineland,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$3.44,NJ
+Inspira Medical Center Vineland,Microbiology,HCPCS 87491,Chlamydia Test,$13.40,NJ
+Inspira Medical Center Vineland,Microbiology,HCPCS 87635,Covid-19 current infection test,$66.24,NJ
+Inspira Medical Center Vineland,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$13.92,NJ
+Inspira Medical Center Vineland,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$4.39,NJ
+Inspira Medical Center Vineland,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$16.44,NJ
+Inspira Medical Center Vineland,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$5.49,NJ
+Inspira Medical Center Vineland,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$39.38,NJ
+Inspira Medical Center Vineland,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$13.40,NJ
+Inspira Medical Center Vineland,Microbiology,HCPCS 87517,Hepatitis B Detection,$16.76,NJ
+Inspira Medical Center Vineland,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$12.89,NJ
+Inspira Medical Center Vineland,Microbiology,HCPCS 87624,HPV Detection,$13.87,NJ
+Inspira Medical Center Vineland,Microbiology,HCPCS 86735,Mumps virus antibody test,$5.06,NJ
+Inspira Medical Center Vineland,Microbiology,HCPCS 86747,Parvovirus antibody test,$13.79,NJ
+Inspira Medical Center Vineland,Microbiology,HCPCS 86762,Rubella virus antibody test,$5.67,NJ
+Inspira Medical Center Vineland,Microbiology,HCPCS 86765,Rubeola virus antibody test,$3.74,NJ
+Inspira Medical Center Vineland,Microbiology,HCPCS 87207,Smear for infectious agents,$1.72,NJ
+Inspira Medical Center Vineland,Microbiology,HCPCS 87177,Smear for Parasites,$3.54,NJ
+Inspira Medical Center Vineland,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$1.72,NJ
+Inspira Medical Center Vineland,Microbiology,HCPCS 87045,Stool Culture,$3.75,NJ
+Inspira Medical Center Vineland,Microbiology,HCPCS 87880,Strep Test,$4.24,NJ
+Inspira Medical Center Vineland,Microbiology,HCPCS 87804,Test for Influenza Virus,$4.38,NJ
+Inspira Medical Center Vineland,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$1.82,NJ
+Inspira Medical Center Vineland,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$5.07,NJ
+Inspira Medical Center Vineland,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$26.88,NJ
+Inspira Medical Center Vineland,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$18.84,NJ
+Inspira Medical Center Vineland,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$3.35,NJ
+Inspira Medical Center Vineland,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$3.79,NJ
+Inspira Medical Center Vineland,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$5.29,NJ
+Inspira Medical Center Vineland,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$3.45,NJ
+Inspira Medical Center Vineland,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$3.24,NJ
+Inspira Medical Center Vineland,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$78.91,NJ
+Inspira Medical Center Vineland,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$7.21,NJ
+Inspira Medical Center Vineland,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$5.26,NJ
+Inspira Medical Center Vineland,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$31.84,NJ
+Inspira Medical Center Vineland,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$2.62,NJ
+Inspira Medical Center Vineland,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$4.52,NJ
+Inspira Medical Center Vineland,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$5.25,NJ
+Inspira Medical Center Vineland,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$5.45,NJ
+Inspira Medical Center Vineland,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$3.88,NJ
+Inspira Medical Center Vineland,Transfusion,HCPCS 86900,"Blood Typing, ABO",$74.10,NJ
+Inspira Medical Center Vineland,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$74.10,NJ
+Inspira Medical Center Vineland,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$28.47,NJ
+Inspira Medical Center Vineland,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$68.70,NJ
+Inspira Medical Center Vineland,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$36.08,NJ
+Inspira Medical Center Vineland,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$68.70,NJ
+Inspira Medical Center Vineland,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$1.03,NJ
+Inspira Medical Center Vineland,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$1.03,NJ
+Inspira Medical Center Vineland,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$2.52,NJ
+Inspira Medical Center Vineland,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$867.00,NJ
+Inspira Medical Center Vineland,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$45.01,NJ
+Inspira Medical Center Vineland,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$45.01,NJ
+Inspira Medical Center Vineland,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$211.30,NJ
+Inspira Medical Center Vineland,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),$241.01,NJ
+Inspira Medical Center Vineland,Cardiovascular,HCPCS 93975,Ultrasound Heart,$94.57,NJ
+Inspira Medical Center Vineland,Pulmonary,HCPCS 94640,Aerosol Treatment,$150.82,NJ
+Inspira Medical Center Vineland,Pulmonary,HCPCS 94618,Pulmonary stress test,$61.25,NJ
+Inspira Medical Center Vineland,Sleep,HCPCS 95810,Sleep study,"$1,207.94",NJ
+Inspira Medical Center Vineland,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$163.88,NJ
+Inspira Medical Center Vineland,Breast,HCPCS 77067,Mammogram Screening,$66.95,NJ
+Inspira Medical Center Vineland,Breast,HCPCS 77066,Mammography of both breasts,$163.88,NJ
+Inspira Medical Center Vineland,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,$222.22,NJ
+Inspira Medical Center Vineland,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$62.86,NJ
+Inspira Medical Center Vineland,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$62.67,NJ
+Inspira Medical Center Vineland,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$62.81,NJ
+Inspira Medical Center Vineland,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,$293.70,NJ
+Inspira Medical Center Vineland,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,$293.70,NJ
+Inspira Medical Center Vineland,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$119.91,NJ
+Inspira Medical Center Vineland,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$269.29,NJ
+Inspira Medical Center Vineland,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,$269.29,NJ
+Inspira Medical Center Vineland,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$195.75,NJ
+Inspira Medical Center Vineland,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$62.80,NJ
+Inspira Medical Center Vineland,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$256.14,NJ
+Inspira Medical Center Vineland,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$209.22,NJ
+Inspira Medical Center Vineland,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)",$146.42,NJ
+Inspira Medical Center Vineland,MRI,HCPCS 72146,MRI chest spine without contrast material,$146.40,NJ
+Inspira Medical Center Vineland,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$146.40,NJ
+Inspira Medical Center Vineland,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,$277.53,NJ
+Inspira Medical Center Vineland,MRI,HCPCS 72141,MRI neck spine without contrast material,$146.40,NJ
+Inspira Medical Center Vineland,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,$265.82,NJ
+Inspira Medical Center Vineland,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$146.41,NJ
+Inspira Medical Center Vineland,MRI,HCPCS 70553,MRI scan of brain before and after contrast,$269.52,NJ
+Inspira Medical Center Vineland,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$146.27,NJ
+Inspira Medical Center Vineland,MRI,HCPCS 73721,MRI scan of leg joint,$146.32,NJ
+Inspira Medical Center Vineland,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$79.60,NJ
+Inspira Medical Center Vineland,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$66.50,NJ
+Inspira Medical Center Vineland,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$66.87,NJ
+Inspira Medical Center Vineland,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$66.84,NJ
+Inspira Medical Center Vineland,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$66.84,NJ
+Inspira Medical Center Vineland,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$66.84,NJ
+Inspira Medical Center Vineland,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$65.81,NJ
+Inspira Medical Center Vineland,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$65.81,NJ
+Inspira Medical Center Vineland,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$66.87,NJ
+Inspira Medical Center Vineland,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$52.31,NJ
+Inspira Medical Center Vineland,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$45.07,NJ
+Inspira Medical Center Vineland,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$28.11,NJ
+Inspira Medical Center Vineland,Chest,HCPCS 71046,X-ray of chest; 2 Views,$34.07,NJ
+Inspira Medical Center Vineland,Chest,HCPCS 71045,X-ray of chest; Single View,$34.07,NJ
+Inspira Medical Center Vineland,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$32.21,NJ
+Inspira Medical Center Vineland,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$41.19,NJ
+Inspira Medical Center Vineland,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$28.55,NJ
+Inspira Medical Center Vineland,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$45.13,NJ
+Inspira Medical Center Vineland,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$42.48,NJ
+Inspira Medical Center Vineland,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$28.49,NJ
+Inspira Medical Center Vineland,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$28.46,NJ
+Inspira Medical Center Vineland,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$38.21,NJ
+Inspira Medical Center Vineland,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$49.40,NJ
+Inspira Medical Center Vineland,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$29.82,NJ
+Inspira Medical Center Vineland,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$28.46,NJ
+Inspira Medical Center Vineland,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$28.50,NJ
+Inspira Medical Center Vineland,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$31.42,NJ
+Inspira Medical Center Vineland,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$31.42,NJ
+Inspira Medical Center Vineland,Lower Limbs,HCPCS 73630,X-ray exam of foot,$31.42,NJ
+Inspira Medical Center Vineland,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$40.38,NJ
+Inspira Medical Center Vineland,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$29.79,NJ
+Inspira Medical Center Vineland,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$31.42,NJ
+Inspira Medical Center Vineland,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$29.94,NJ
+Inspira Medical Center Vineland,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$40.38,NJ
+Inspira Medical Center Vineland,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$40.38,NJ
+Inspira Medical Center Vineland,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$28.46,NJ
+Inspira Medical Center Vineland,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$41.10,NJ
+Inspira Medical Center Vineland,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$41.10,NJ
+Inspira Medical Center Vineland,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$40.80,NJ
+Inspira Medical Center Vineland,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$40.80,NJ
+Inspira Medical Center Vineland,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$28.47,NJ
+Inspira Medical Center Vineland,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$28.49,NJ
+Inspira Medical Center Vineland,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$28.45,NJ
+Inspira Medical Center Vineland,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$33.97,NJ
+Inspira Medical Center Vineland,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$33.97,NJ
+Inspira Medical Center Vineland,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$28.47,NJ
+Inspira Medical Center Vineland,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$33.97,NJ
+Inspira Medical Center Vineland,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$33.97,NJ
+Inspira Medical Center Vineland,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$1,077.33",NJ
+Inspira Medical Center Vineland,Abdomenal,HCPCS 47562,Cholecystectomy,"$2,764.96",NJ
+Inspira Medical Center Vineland,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$2,764.96",NJ
+Inspira Medical Center Vineland,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,"$2,242.24",NJ
+Inspira Medical Center Vineland,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$2,242.24",NJ
+Inspira Medical Center Vineland,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$1,046.60",NJ
+Inspira Medical Center Vineland,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$2,185.95",NJ
+Inspira Medical Center Vineland,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$100.91,NJ
+Inspira Medical Center Vineland,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$100.91,NJ
+Inspira Medical Center Vineland,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$13,989.27",NJ
+Inspira Medical Center Vineland,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,"$2,528.14",NJ
+Inspira Medical Center Vineland,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$3,635.03",NJ
+Inspira Medical Center Vineland,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$3,226.36",NJ
+Inspira Medical Center Vineland,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$3,226.36",NJ
+Inspira Medical Center Vineland,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$3,226.36",NJ
+Inspira Medical Center Vineland,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$2,326.77",NJ
+Inspira Medical Center Vineland,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$2,185.95",NJ
+Inspira Medical Center Vineland,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$1,931.89",NJ
+Inspira Medical Center Vineland,Breast,HCPCS 19101,Biopsy of breast,"$2,153.09",NJ
+Inspira Medical Center Vineland,Breast,HCPCS 19125,Excision of breast lesion,"$1,723.04",NJ
+Inspira Medical Center Vineland,Breast,HCPCS 19120,Excision of cyst of breast,"$1,723.04",NJ
+Inspira Medical Center Vineland,Breast,HCPCS 19301,Partial removal of breast,"$2,487.31",NJ
+Inspira Medical Center Vineland,Breast,HCPCS 19303,Total removal of breast,"$2,421.81",NJ
+Inspira Medical Center Vineland,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),"$19,323.93",NJ
+Inspira Medical Center Vineland,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$2,558.96",NJ
+Inspira Medical Center Vineland,Cardiac,MSDRG 247,Implant drug-eluting stent,"$25,307.70",NJ
+Inspira Medical Center Vineland,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$5,404.79",NJ
+Inspira Medical Center Vineland,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",$347.53,NJ
+Inspira Medical Center Vineland,Digestive,HCPCS 45380,"Colonoscopy, with biopsy",$386.00,NJ
+Inspira Medical Center Vineland,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal",$411.97,NJ
+Inspira Medical Center Vineland,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)",$411.97,NJ
+Inspira Medical Center Vineland,Digestive,HCPCS 43235,EGD,$331.21,NJ
+Inspira Medical Center Vineland,Digestive,HCPCS 43239,EGD and biopsy,$383.91,NJ
+Inspira Medical Center Vineland,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$1,375.83",NJ
+Inspira Medical Center Vineland,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$1,375.83",NJ
+Inspira Medical Center Vineland,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$10,156.34",NJ
+Inspira Medical Center Vineland,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$3,062.83",NJ
+Inspira Medical Center Vineland,General,HCPCS 55700,Biopsy of prostate gland,"$1,082.92",NJ
+Inspira Medical Center Vineland,General,HCPCS 10060,Drainage of Abscess,$300.02,NJ
+Inspira Medical Center Vineland,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$404.30,NJ
+Inspira Medical Center Vineland,General,HCPCS 55866,Prostatectomy,"$6,628.39",NJ
+Inspira Medical Center Vineland,General,HCPCS 69200,Removal of foreign body from ear canal,$222.54,NJ
+Inspira Medical Center Vineland,General,HCPCS 60240,Removal of thyroid,"$3,504.98",NJ
+Inspira Medical Center Vineland,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$357.31,NJ
+Inspira Medical Center Vineland,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$357.31,NJ
+Inspira Medical Center Vineland,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$357.31,NJ
+Inspira Medical Center Vineland,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$357.31,NJ
+Inspira Medical Center Vineland,Head,HCPCS 69436,Create eardrum opening,$516.52,NJ
+Inspira Medical Center Vineland,Head,HCPCS 69631,Repair of eardrum,"$3,084.21",NJ
+Inspira Medical Center Vineland,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$1,498.25",NJ
+Inspira Medical Center Vineland,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$1,417.94",NJ
+Inspira Medical Center Vineland,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$26,261.59",NJ
+Inspira Medical Center Vineland,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$417.57,NJ
+Inspira Medical Center Vineland,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$386.78,NJ
+Inspira Medical Center Vineland,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,$386.78,NJ
+Inspira Medical Center Vineland,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$518.19,NJ
+Inspira Medical Center Vineland,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$348.94,NJ
+Inspira Medical Center Vineland,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$18,732.48",NJ
+Inspira Medical Center Vineland,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$1,619.37",NJ
+Inspira Medical Center Vineland,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$1,619.37",NJ
+Inspira Medical Center Vineland,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,"$9,098.12",NJ
+Inspira Medical Center Vineland,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$1,580.56",NJ
+Inspira Medical Center Vineland,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$20,078.76",NJ
+Inspira Medical Center Vineland,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$26,261.59",NJ
+Inspira Medical Center Vineland,Musculoskeletal,HCPCS 22612,Spine arthrodesis,"$4,740.41",NJ
+Inspira Medical Center Vineland,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$116.10,NJ
+Inspira Medical Center Vineland,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$5,772.16",NJ
+Inspira Medical Center Vineland,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$1,421.31",NJ
+Inspira Medical Center Vineland,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$7,754.18",NJ
+Inspira Medical Center Vineland,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$3,076.43",NJ
+Inspira Medical Center Vineland,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$2,384.98",NJ
+Inspira Medical Center Vineland,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$6,639.13",NJ
+Inspira Medical Center Vineland,Ocular,HCPCS 66984,Cataract removal,"$1,525.11",NJ
+Inspira Medical Center Vineland,Soft Tissue,HCPCS 97597,Debridement of open wound,$138.08,NJ
+Inspira Medical Center Vineland,Soft Tissue,HCPCS 97602,Non-selective debridement,$138.08,NJ
+Inspira Medical Center Vineland,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$75.32,NJ
+Inspira Medical Center Vineland,Vascular,HCPCS 36416,Collection of capillary blood specimen,$0.87,NJ
+Inspira Medical Center Vineland,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,258.23",NJ
+Inspira Medical Center Vineland,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$529.98,NJ
+Inspira Medical Center Vineland,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,$656.15,NJ

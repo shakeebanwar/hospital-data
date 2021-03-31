@@ -1,0 +1,349 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Dosher Memorial Hospital,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$243.00,NC
+Dosher Memorial Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,000.00",NC
+Dosher Memorial Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$110.83,NC
+Dosher Memorial Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$192.00,NC
+Dosher Memorial Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$335.00,NC
+Dosher Memorial Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$580.50,NC
+Dosher Memorial Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$757.00,NC
+Dosher Memorial Hospital,Hospital,HCPCS 99234,Hospital observation care discharge,$263.50,NC
+Dosher Memorial Hospital,Hospital,HCPCS 99219,Hospital observation care typically 30 minutes,$268.00,NC
+Dosher Memorial Hospital,Hospital,HCPCS 99235,"Hospital observation or inpatient care moderate severity, 50 minutes per day",$367.00,NC
+Dosher Memorial Hospital,Hospital,HCPCS 99218,Hospital Observation per Hour,$197.00,NC
+Dosher Memorial Hospital,Hospital,HCPCS 99224,"Subsequent observation care, typically 25 minutes per day",$78.50,NC
+Dosher Memorial Hospital,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$111.24,NC
+Dosher Memorial Hospital,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$125.14,NC
+Dosher Memorial Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$320.50,NC
+Dosher Memorial Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$316.87,NC
+Dosher Memorial Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$209.00,NC
+Dosher Memorial Hospital,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$121.00,NC
+Dosher Memorial Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$143.29,NC
+Dosher Memorial Hospital,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$191.50,NC
+Dosher Memorial Hospital,Speech,HCPCS 92507,Speech Therapy,$216.00,NC
+Dosher Memorial Hospital,Speech,HCPCS 92610,Swallow Evaluation,$236.00,NC
+Dosher Memorial Hospital,Speech,HCPCS 92526,Swallow Treatment,$108.00,NC
+Dosher Memorial Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$12.00,NC
+Dosher Memorial Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$12.00,NC
+Dosher Memorial Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$39.59,NC
+Dosher Memorial Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$107.54,NC
+Dosher Memorial Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$67.41,NC
+Dosher Memorial Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$30.00,NC
+Dosher Memorial Hospital,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$4.63,NC
+Dosher Memorial Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$47.35,NC
+Dosher Memorial Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$32.50,NC
+Dosher Memorial Hospital,Blood,HCPCS 85008,Microscopic examination for white blood cells,$20.68,NC
+Dosher Memorial Hospital,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$69.00,NC
+Dosher Memorial Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$43.49,NC
+Dosher Memorial Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$188.50,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$169.50,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$193.00,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$25.00,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$67.00,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$84.00,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82140,Ammonia level,$73.00,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$54.88,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$80.50,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$130.50,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$46.65,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$111.61,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$25.00,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$28.50,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$25.50,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$39.59,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$3.79,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 84132,Blood potassium level,$24.00,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 84295,Blood sodium level,$24.00,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$28.50,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$267.08,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82310,Calcium level,$26.00,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$33.92,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$95.00,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82465,Cholesterol level,$22.00,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82525,Copper level,$70.50,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$81.50,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$104.00,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$32.50,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$75.50,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$126.50,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$192.50,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$68.00,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$73.50,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$90.36,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$36.00,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$48.50,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$93.00,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$102.00,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$63.00,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 83718,HDL cholesterol level,$41.00,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$89.50,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$149.50,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$300.75,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$57.00,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$68.50,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$43.50,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 83540,Iron level,$32.50,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$69.29,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$52.50,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$129.90,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$35.98,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$71.00,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$90.50,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 83735,Magnesium Level,$111.61,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$284.92,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$180.68,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$56.08,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 83918,Organic acid level,$169.59,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 83945,Oxalate level,$69.78,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 83970,Parathormone,$206.50,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$41.22,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$29.46,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$297.51,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$97.00,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$94.97,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$22.00,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$129.00,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$127.50,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$51.16,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$279.50,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$51.16,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$40.70,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$18.50,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$89.00,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 84560,Uric acid level,$37.30,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$22.50,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82340,Urine calcium level,$37.42,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82436,Urine chloride level,$33.92,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$104.48,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$34.00,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$114.45,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 84133,Urine potassium level,$23.50,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 84300,Urine sodium level,$25.50,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 84591,Vitamin B-6 level,$149.59,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$148.00,NC
+Dosher Memorial Hospital,Chemistry,HCPCS 84630,Zinc level,$57.00,NC
+Dosher Memorial Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$85.00,NC
+Dosher Memorial Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$72.00,NC
+Dosher Memorial Hospital,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$29.09,NC
+Dosher Memorial Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$72.50,NC
+Dosher Memorial Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$84.87,NC
+Dosher Memorial Hospital,Immunology,HCPCS 86318,Covid-19 antibody test,$14.42,NC
+Dosher Memorial Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$101.00,NC
+Dosher Memorial Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$60.50,NC
+Dosher Memorial Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$59.00,NC
+Dosher Memorial Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$75.00,NC
+Dosher Memorial Hospital,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$111.50,NC
+Dosher Memorial Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$26.00,NC
+Dosher Memorial Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$168.60,NC
+Dosher Memorial Hospital,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$86.38,NC
+Dosher Memorial Hospital,Immunology,HCPCS 86161,Measurement of complement (immune system proteins),$85.07,NC
+Dosher Memorial Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$68.00,NC
+Dosher Memorial Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$73.00,NC
+Dosher Memorial Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$28.50,NC
+Dosher Memorial Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$56.27,NC
+Dosher Memorial Hospital,Immunology,HCPCS 86580,Skin test for tuberculosis,$12.50,NC
+Dosher Memorial Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$27.65,NC
+Dosher Memorial Hospital,Immunology,HCPCS 86361,T cell count and ratio,$106.74,NC
+Dosher Memorial Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$106.74,NC
+Dosher Memorial Hospital,Immunology,HCPCS 86359,"T cells count, total",$217.66,NC
+Dosher Memorial Hospital,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$79.50,NC
+Dosher Memorial Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$56.87,NC
+Dosher Memorial Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$43.00,NC
+Dosher Memorial Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$40.50,NC
+Dosher Memorial Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$175.50,NC
+Dosher Memorial Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$75.00,NC
+Dosher Memorial Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$205.00,NC
+Dosher Memorial Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$60.00,NC
+Dosher Memorial Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$214.00,NC
+Dosher Memorial Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$54.22,NC
+Dosher Memorial Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$230.68,NC
+Dosher Memorial Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$79.57,NC
+Dosher Memorial Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$243.19,NC
+Dosher Memorial Hospital,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$120.50,NC
+Dosher Memorial Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$65.50,NC
+Dosher Memorial Hospital,Microbiology,HCPCS 86747,Parvovirus antibody test,$75.00,NC
+Dosher Memorial Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$41.53,NC
+Dosher Memorial Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$84.23,NC
+Dosher Memorial Hospital,Microbiology,HCPCS 87207,Smear for infectious agents,$73.69,NC
+Dosher Memorial Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$44.50,NC
+Dosher Memorial Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$27.00,NC
+Dosher Memorial Hospital,Microbiology,HCPCS 87045,Stool Culture,$47.00,NC
+Dosher Memorial Hospital,Microbiology,HCPCS 87880,Strep Test,$12.36,NC
+Dosher Memorial Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$83.00,NC
+Dosher Memorial Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$66.00,NC
+Dosher Memorial Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$601.44,NC
+Dosher Memorial Hospital,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$327.00,NC
+Dosher Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$238.00,NC
+Dosher Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$42.50,NC
+Dosher Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$53.00,NC
+Dosher Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$67.00,NC
+Dosher Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$43.50,NC
+Dosher Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$41.00,NC
+Dosher Memorial Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$272.00,NC
+Dosher Memorial Hospital,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$170.62,NC
+Dosher Memorial Hospital,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$99.50,NC
+Dosher Memorial Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$66.50,NC
+Dosher Memorial Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$310.50,NC
+Dosher Memorial Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$69.78,NC
+Dosher Memorial Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$33.00,NC
+Dosher Memorial Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$110.00,NC
+Dosher Memorial Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$66.50,NC
+Dosher Memorial Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$68.50,NC
+Dosher Memorial Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$67.50,NC
+Dosher Memorial Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$67.50,NC
+Dosher Memorial Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$136.50,NC
+Dosher Memorial Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$42.00,NC
+Dosher Memorial Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$179.50,NC
+Dosher Memorial Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$167.00,NC
+Dosher Memorial Hospital,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$42.50,NC
+Dosher Memorial Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$62.00,NC
+Dosher Memorial Hospital,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$3.09,NC
+Dosher Memorial Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$11.50,NC
+Dosher Memorial Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$16.00,NC
+Dosher Memorial Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$7.72,NC
+Dosher Memorial Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$696.00,NC
+Dosher Memorial Hospital,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$25.75,NC
+Dosher Memorial Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$137.50,NC
+Dosher Memorial Hospital,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$34.02,NC
+Dosher Memorial Hospital,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$36.01,NC
+Dosher Memorial Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,$629.17,NC
+Dosher Memorial Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,$184.00,NC
+Dosher Memorial Hospital,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$53.50,NC
+Dosher Memorial Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$119.15,NC
+Dosher Memorial Hospital,Sleep,HCPCS 95810,Sleep study,"$1,624.50",NC
+Dosher Memorial Hospital,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$73.50,NC
+Dosher Memorial Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$88.50,NC
+Dosher Memorial Hospital,Breast,HCPCS 77067,Mammogram Screening,$180.50,NC
+Dosher Memorial Hospital,Breast,HCPCS 77066,Mammography of both breasts,$222.50,NC
+Dosher Memorial Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,764.18",NC
+Dosher Memorial Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$560.50,NC
+Dosher Memorial Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$892.81,NC
+Dosher Memorial Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,270.66",NC
+Dosher Memorial Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$2,000.00",NC
+Dosher Memorial Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,909.50",NC
+Dosher Memorial Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,281.50",NC
+Dosher Memorial Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$911.00,NC
+Dosher Memorial Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,002.00",NC
+Dosher Memorial Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,076.18",NC
+Dosher Memorial Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$924.75,NC
+Dosher Memorial Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$911.00,NC
+Dosher Memorial Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,002.00",NC
+Dosher Memorial Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,165.00",NC
+Dosher Memorial Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,183.33",NC
+Dosher Memorial Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,382.39",NC
+Dosher Memorial Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,100.00",NC
+Dosher Memorial Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,435.12",NC
+Dosher Memorial Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$2,100.00",NC
+Dosher Memorial Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,909.50",NC
+Dosher Memorial Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,635.48",NC
+Dosher Memorial Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,909.50",NC
+Dosher Memorial Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,618.08",NC
+Dosher Memorial Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$1,880.80",NC
+Dosher Memorial Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$559.57,NC
+Dosher Memorial Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$554.12,NC
+Dosher Memorial Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$462.50,NC
+Dosher Memorial Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$449.36,NC
+Dosher Memorial Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$462.50,NC
+Dosher Memorial Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$462.50,NC
+Dosher Memorial Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$420.50,NC
+Dosher Memorial Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$462.50,NC
+Dosher Memorial Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$509.19,NC
+Dosher Memorial Hospital,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$299.82,NC
+Dosher Memorial Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$375.00,NC
+Dosher Memorial Hospital,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$252.00,NC
+Dosher Memorial Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$197.50,NC
+Dosher Memorial Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$179.50,NC
+Dosher Memorial Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$197.81,NC
+Dosher Memorial Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$277.50,NC
+Dosher Memorial Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$197.50,NC
+Dosher Memorial Hospital,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$642.91,NC
+Dosher Memorial Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$277.50,NC
+Dosher Memorial Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$197.50,NC
+Dosher Memorial Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$179.50,NC
+Dosher Memorial Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$277.50,NC
+Dosher Memorial Hospital,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$350.00,NC
+Dosher Memorial Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$205.00,NC
+Dosher Memorial Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$175.00,NC
+Dosher Memorial Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$277.50,NC
+Dosher Memorial Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$197.50,NC
+Dosher Memorial Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$205.00,NC
+Dosher Memorial Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$395.00,NC
+Dosher Memorial Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$205.00,NC
+Dosher Memorial Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$197.50,NC
+Dosher Memorial Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$179.50,NC
+Dosher Memorial Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$197.50,NC
+Dosher Memorial Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$179.50,NC
+Dosher Memorial Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$179.50,NC
+Dosher Memorial Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$277.50,NC
+Dosher Memorial Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$197.50,NC
+Dosher Memorial Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$313.29,NC
+Dosher Memorial Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$252.00,NC
+Dosher Memorial Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$277.50,NC
+Dosher Memorial Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$249.13,NC
+Dosher Memorial Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$197.50,NC
+Dosher Memorial Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$197.50,NC
+Dosher Memorial Hospital,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$197.50,NC
+Dosher Memorial Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$197.50,NC
+Dosher Memorial Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$225.00,NC
+Dosher Memorial Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$197.50,NC
+Dosher Memorial Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$197.50,NC
+Dosher Memorial Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$197.50,NC
+Dosher Memorial Hospital,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$4,807.14",NC
+Dosher Memorial Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$5,772.11",NC
+Dosher Memorial Hospital,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$6,962.99",NC
+Dosher Memorial Hospital,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,"$6,637.27",NC
+Dosher Memorial Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$6,630.03",NC
+Dosher Memorial Hospital,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,$152.44,NC
+Dosher Memorial Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$4,840.26",NC
+Dosher Memorial Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$163.50,NC
+Dosher Memorial Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$126.50,NC
+Dosher Memorial Hospital,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,"$5,414.44",NC
+Dosher Memorial Hospital,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$8,882.47",NC
+Dosher Memorial Hospital,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$5,886.58",NC
+Dosher Memorial Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$7,450.49",NC
+Dosher Memorial Hospital,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$8,092.62",NC
+Dosher Memorial Hospital,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$5,722.12",NC
+Dosher Memorial Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$6,400.53",NC
+Dosher Memorial Hospital,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),$442.38,NC
+Dosher Memorial Hospital,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$5,604.16",NC
+Dosher Memorial Hospital,Breast,HCPCS 19120,Excision of cyst of breast,$366.68,NC
+Dosher Memorial Hospital,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,$899.71,NC
+Dosher Memorial Hospital,Breast,HCPCS 19303,Total removal of breast,"$5,306.27",NC
+Dosher Memorial Hospital,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$160.18,NC
+Dosher Memorial Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$2,164.39",NC
+Dosher Memorial Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$2,437.89",NC
+Dosher Memorial Hospital,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$2,754.47",NC
+Dosher Memorial Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$2,364.82",NC
+Dosher Memorial Hospital,Digestive,HCPCS 43235,EGD,"$5,898.48",NC
+Dosher Memorial Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$3,733.56",NC
+Dosher Memorial Hospital,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$4,220.86",NC
+Dosher Memorial Hospital,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$4,814.06",NC
+Dosher Memorial Hospital,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$8,038.95",NC
+Dosher Memorial Hospital,General,HCPCS 55700,Biopsy of prostate gland,$593.23,NC
+Dosher Memorial Hospital,General,HCPCS 10060,Drainage of Abscess,"$4,177.88",NC
+Dosher Memorial Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple","$6,186.76",NC
+Dosher Memorial Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$163.50,NC
+Dosher Memorial Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$288.50,NC
+Dosher Memorial Hospital,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$527.00,NC
+Dosher Memorial Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$288.50,NC
+Dosher Memorial Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$288.50,NC
+Dosher Memorial Hospital,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$551.00,NC
+Dosher Memorial Hospital,Musculoskeletal,HCPCS 27200,Insertion of Breathing Tube Using an Endoscope,$151.89,NC
+Dosher Memorial Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$395.49,NC
+Dosher Memorial Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$4,377.45",NC
+Dosher Memorial Hospital,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,$278.62,NC
+Dosher Memorial Hospital,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$6,795.39",NC
+Dosher Memorial Hospital,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$7,432.35",NC
+Dosher Memorial Hospital,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$294.00,NC
+Dosher Memorial Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$6,347.02",NC
+Dosher Memorial Hospital,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,$489.76,NC
+Dosher Memorial Hospital,Obstetrics,HCPCS 58545,Removal of uterine fibroid tumors using an endoscope,$824.00,NC
+Dosher Memorial Hospital,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries","$1,236.00",NC
+Dosher Memorial Hospital,Ocular,HCPCS 66984,Cataract removal,"$2,529.78",NC
+Dosher Memorial Hospital,Ocular,HCPCS 66982,Cataract removal with insertion of lens,"$2,798.43",NC
+Dosher Memorial Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$174.50,NC
+Dosher Memorial Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$174.50,NC
+Dosher Memorial Hospital,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$109.00,NC
+Dosher Memorial Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$18.02,NC
+Dosher Memorial Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$2,446.50",NC
+Dosher Memorial Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$19,491.00",NC
+Dosher Memorial Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,$219.91,NC
