@@ -1,0 +1,201 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Valley Hospital Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$2,406.34",PA
+Valley Hospital Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$174.09,PA
+Valley Hospital Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$273.70,PA
+Valley Hospital Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$866.34,PA
+Valley Hospital Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,132.63",PA
+Valley Hospital Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,405.72",PA
+Valley Hospital Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$816.45,PA
+Valley Hospital Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$659.55,PA
+Valley Hospital Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$656.95,PA
+Valley Hospital Medical Center,Speech,HCPCS 92610,Swallow Evaluation,$590.23,PA
+Valley Hospital Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$135.90,PA
+Valley Hospital Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$130.63,PA
+Valley Hospital Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$183.36,PA
+Valley Hospital Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$214.68,PA
+Valley Hospital Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$212.76,PA
+Valley Hospital Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$117.18,PA
+Valley Hospital Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$57.34,PA
+Valley Hospital Medical Center,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$349.32,PA
+Valley Hospital Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$748.80,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$146.72,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$145.86,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 82140,Ammonia level,$208.29,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$284.29,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$201.32,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$511.78,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$94.39,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$193.35,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$159.33,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$131.78,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$180.85,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 84132,Blood potassium level,$138.44,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$159.86,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$131.22,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$389.29,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$308.87,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$326.20,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$221.81,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$368.56,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$356.56,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$291.49,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$313.50,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$322.76,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$200.76,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$184.14,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$157.57,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$236.16,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 83520,IgE (immune system protein) level,$143.12,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$141.40,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$145.93,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 83540,Iron level,$141.58,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$153.74,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$110.97,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$173.24,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 82542,Mass spectrometry,$64.46,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 83918,Organic acid level,$45.72,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 83970,Parathormone,$522.62,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$77.76,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,"$1,027.01",PA
+Valley Hospital Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$359.23,PA
+Valley Hospital Medical Center,Chemistry,HCPCS A9270,Selenium (vitamin) level,$31.75,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$126.87,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$179.09,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 84560,Uric acid level,$172.77,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$203.78,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 82436,Urine chloride level,$139.56,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$163.17,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$142.88,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$164.13,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$154.62,PA
+Valley Hospital Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$273.07,PA
+Valley Hospital Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$191.60,PA
+Valley Hospital Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$187.87,PA
+Valley Hospital Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$291.17,PA
+Valley Hospital Medical Center,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$289.33,PA
+Valley Hospital Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$306.60,PA
+Valley Hospital Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$51.23,PA
+Valley Hospital Medical Center,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$311.45,PA
+Valley Hospital Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$146.62,PA
+Valley Hospital Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$168.95,PA
+Valley Hospital Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$147.65,PA
+Valley Hospital Medical Center,Immunology,HCPCS 86361,T cell count and ratio,$127.65,PA
+Valley Hospital Medical Center,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$594.86,PA
+Valley Hospital Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$387.72,PA
+Valley Hospital Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$43.21,PA
+Valley Hospital Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$123.73,PA
+Valley Hospital Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$32.55,PA
+Valley Hospital Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$129.96,PA
+Valley Hospital Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$250.00,PA
+Valley Hospital Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$106.28,PA
+Valley Hospital Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$60.87,PA
+Valley Hospital Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$251.43,PA
+Valley Hospital Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$262.19,PA
+Valley Hospital Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$208.35,PA
+Valley Hospital Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$540.04,PA
+Valley Hospital Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$414.07,PA
+Valley Hospital Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$434.15,PA
+Valley Hospital Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$552.35,PA
+Valley Hospital Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$111.77,PA
+Valley Hospital Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$643.99,PA
+Valley Hospital Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$172.57,PA
+Valley Hospital Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$292.80,PA
+Valley Hospital Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$301.68,PA
+Valley Hospital Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$171.97,PA
+Valley Hospital Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$237.00,PA
+Valley Hospital Medical Center,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$412.07,PA
+Valley Hospital Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$438.47,PA
+Valley Hospital Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$275.73,PA
+Valley Hospital Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$368.54,PA
+Valley Hospital Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$108.17,PA
+Valley Hospital Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$63.62,PA
+Valley Hospital Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$245.26,PA
+Valley Hospital Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$37.96,PA
+Valley Hospital Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$142.23,PA
+Valley Hospital Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$171.64,PA
+Valley Hospital Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$30.00,PA
+Valley Hospital Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$22.46,PA
+Valley Hospital Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$968.14,PA
+Valley Hospital Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$455.72,PA
+Valley Hospital Medical Center,Pulmonary,HCPCS 94640,Aerosol Treatment,$207.54,PA
+Valley Hospital Medical Center,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$545.96,PA
+Valley Hospital Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$378.29,PA
+Valley Hospital Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$5,364.82",PA
+Valley Hospital Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$2,381.68",PA
+Valley Hospital Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,113.40",PA
+Valley Hospital Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$6,552.74",PA
+Valley Hospital Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$6,084.62",PA
+Valley Hospital Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$4,352.05",PA
+Valley Hospital Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$3,108.45",PA
+Valley Hospital Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,275.71",PA
+Valley Hospital Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$2,903.60",PA
+Valley Hospital Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$2,786.60",PA
+Valley Hospital Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$2,152.78",PA
+Valley Hospital Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,560.44",PA
+Valley Hospital Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$3,316.50",PA
+Valley Hospital Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$3,952.48",PA
+Valley Hospital Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$3,311.00",PA
+Valley Hospital Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$3,985.90",PA
+Valley Hospital Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$3,019.12",PA
+Valley Hospital Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,823.93",PA
+Valley Hospital Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$3,185.14",PA
+Valley Hospital Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$3,475.32",PA
+Valley Hospital Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$1,126.81",PA
+Valley Hospital Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$3,522.94",PA
+Valley Hospital Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$5,036.42",PA
+Valley Hospital Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,137.80",PA
+Valley Hospital Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,151.62",PA
+Valley Hospital Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,168.58",PA
+Valley Hospital Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$878.30,PA
+Valley Hospital Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$532.11,PA
+Valley Hospital Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$399.02,PA
+Valley Hospital Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$443.01,PA
+Valley Hospital Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$427.40,PA
+Valley Hospital Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$552.99,PA
+Valley Hospital Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$513.37,PA
+Valley Hospital Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$332.80,PA
+Valley Hospital Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$404.01,PA
+Valley Hospital Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$502.55,PA
+Valley Hospital Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$414.47,PA
+Valley Hospital Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$448.10,PA
+Valley Hospital Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$459.17,PA
+Valley Hospital Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$447.41,PA
+Valley Hospital Medical Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$335.30,PA
+Valley Hospital Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$382.80,PA
+Valley Hospital Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$559.74,PA
+Valley Hospital Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$380.31,PA
+Valley Hospital Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$517.53,PA
+Valley Hospital Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$488.95,PA
+Valley Hospital Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$391.55,PA
+Valley Hospital Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$244.65,PA
+Valley Hospital Medical Center,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$326.85,PA
+Valley Hospital Medical Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$339.48,PA
+Valley Hospital Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$444.96,PA
+Valley Hospital Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$343.22,PA
+Valley Hospital Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$285.35,PA
+Valley Hospital Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$479.19,PA
+Valley Hospital Medical Center,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$37,645.67",PA
+Valley Hospital Medical Center,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$6,057.64",PA
+Valley Hospital Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$15,613.21",PA
+Valley Hospital Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$15,021.38",PA
+Valley Hospital Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$247.88,PA
+Valley Hospital Medical Center,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$48,044.69",PA
+Valley Hospital Medical Center,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$11,783.66",PA
+Valley Hospital Medical Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$16,666.29",PA
+Valley Hospital Medical Center,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$18,000.58",PA
+Valley Hospital Medical Center,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$17,648.08",PA
+Valley Hospital Medical Center,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$8,397.52",PA
+Valley Hospital Medical Center,Breast,HCPCS 19125,Excision of breast lesion,"$7,340.13",PA
+Valley Hospital Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$8,176.20",PA
+Valley Hospital Medical Center,Breast,HCPCS 19301,Partial removal of breast,"$5,849.59",PA
+Valley Hospital Medical Center,Breast,HCPCS 19303,Total removal of breast,"$5,070.73",PA
+Valley Hospital Medical Center,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,"$129,986.51",PA
+Valley Hospital Medical Center,Cardiac,MSDRG 216,Cardiac valve procedure,"$383,265.33",PA
+Valley Hospital Medical Center,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$201,869.04",PA
+Valley Hospital Medical Center,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$132,751.80",PA
+Valley Hospital Medical Center,Cardiac,HCPCS 33249,Defibrillator complete system,"$23,797.28",PA
+Valley Hospital Medical Center,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$9,133.00",PA
+Valley Hospital Medical Center,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$381.16,PA
+Valley Hospital Medical Center,Cardiac,MSDRG 247,Implant drug-eluting stent,"$81,918.20",PA
+Valley Hospital Medical Center,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$60,435.20",PA
+Valley Hospital Medical Center,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$9,320.32",PA

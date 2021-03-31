@@ -1,0 +1,187 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Desert Springs Hospital Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$2,417.13",OR
+Desert Springs Hospital Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$183.40,OR
+Desert Springs Hospital Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$262.80,OR
+Desert Springs Hospital Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$855.39,OR
+Desert Springs Hospital Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,193.42",OR
+Desert Springs Hospital Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,552.68",OR
+Desert Springs Hospital Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$699.04,OR
+Desert Springs Hospital Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$502.88,OR
+Desert Springs Hospital Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$650.60,OR
+Desert Springs Hospital Medical Center,Speech,HCPCS 92507,Speech Therapy,$212.80,OR
+Desert Springs Hospital Medical Center,Speech,HCPCS 92610,Swallow Evaluation,$516.48,OR
+Desert Springs Hospital Medical Center,Speech,HCPCS 92526,Swallow Treatment,$228.78,OR
+Desert Springs Hospital Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$117.43,OR
+Desert Springs Hospital Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$101.35,OR
+Desert Springs Hospital Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$180.87,OR
+Desert Springs Hospital Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$192.58,OR
+Desert Springs Hospital Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$222.03,OR
+Desert Springs Hospital Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$351.42,OR
+Desert Springs Hospital Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$855.48,OR
+Desert Springs Hospital Medical Center,Chemistry,HCPCS 82140,Ammonia level,$307.31,OR
+Desert Springs Hospital Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$76.14,OR
+Desert Springs Hospital Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$530.68,OR
+Desert Springs Hospital Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$349.73,OR
+Desert Springs Hospital Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$53.46,OR
+Desert Springs Hospital Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$193.23,OR
+Desert Springs Hospital Medical Center,Chemistry,HCPCS 84132,Blood potassium level,$149.91,OR
+Desert Springs Hospital Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$205.63,OR
+Desert Springs Hospital Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$460.15,OR
+Desert Springs Hospital Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$424.00,OR
+Desert Springs Hospital Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$208.53,OR
+Desert Springs Hospital Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$315.53,OR
+Desert Springs Hospital Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$380.56,OR
+Desert Springs Hospital Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$334.25,OR
+Desert Springs Hospital Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$256.65,OR
+Desert Springs Hospital Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$208.65,OR
+Desert Springs Hospital Medical Center,Chemistry,HCPCS 83520,IgE (immune system protein) level,$143.72,OR
+Desert Springs Hospital Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$422.71,OR
+Desert Springs Hospital Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$193.06,OR
+Desert Springs Hospital Medical Center,Chemistry,HCPCS 83540,Iron level,$143.71,OR
+Desert Springs Hospital Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$61.51,OR
+Desert Springs Hospital Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$113.64,OR
+Desert Springs Hospital Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$209.30,OR
+Desert Springs Hospital Medical Center,Chemistry,HCPCS 82542,Mass spectrometry,$63.86,OR
+Desert Springs Hospital Medical Center,Chemistry,HCPCS 83970,Parathormone,$352.75,OR
+Desert Springs Hospital Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$56.21,OR
+Desert Springs Hospital Medical Center,Chemistry,HCPCS A9270,Selenium (vitamin) level,$33.98,OR
+Desert Springs Hospital Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$192.00,OR
+Desert Springs Hospital Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$149.03,OR
+Desert Springs Hospital Medical Center,Chemistry,HCPCS 82436,Urine chloride level,$146.14,OR
+Desert Springs Hospital Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$156.28,OR
+Desert Springs Hospital Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$158.70,OR
+Desert Springs Hospital Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$145.86,OR
+Desert Springs Hospital Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$960.33,OR
+Desert Springs Hospital Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$242.40,OR
+Desert Springs Hospital Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$312.29,OR
+Desert Springs Hospital Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$167.63,OR
+Desert Springs Hospital Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$152.42,OR
+Desert Springs Hospital Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$147.45,OR
+Desert Springs Hospital Medical Center,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$468.34,OR
+Desert Springs Hospital Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$366.94,OR
+Desert Springs Hospital Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$41.96,OR
+Desert Springs Hospital Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$123.56,OR
+Desert Springs Hospital Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$32.06,OR
+Desert Springs Hospital Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$111.23,OR
+Desert Springs Hospital Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$106.29,OR
+Desert Springs Hospital Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$60.54,OR
+Desert Springs Hospital Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$73.17,OR
+Desert Springs Hospital Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$268.81,OR
+Desert Springs Hospital Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$391.24,OR
+Desert Springs Hospital Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$115.39,OR
+Desert Springs Hospital Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$624.73,OR
+Desert Springs Hospital Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$118.89,OR
+Desert Springs Hospital Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$51.09,OR
+Desert Springs Hospital Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$747.06,OR
+Desert Springs Hospital Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$138.05,OR
+Desert Springs Hospital Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$339.88,OR
+Desert Springs Hospital Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$236.49,OR
+Desert Springs Hospital Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$195.40,OR
+Desert Springs Hospital Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$394.60,OR
+Desert Springs Hospital Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$393.11,OR
+Desert Springs Hospital Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$238.70,OR
+Desert Springs Hospital Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$107.47,OR
+Desert Springs Hospital Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$83.58,OR
+Desert Springs Hospital Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$60.99,OR
+Desert Springs Hospital Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$144.95,OR
+Desert Springs Hospital Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$151.66,OR
+Desert Springs Hospital Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$29.80,OR
+Desert Springs Hospital Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$96.36,OR
+Desert Springs Hospital Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$860.62,OR
+Desert Springs Hospital Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$458.94,OR
+Desert Springs Hospital Medical Center,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$4,652.06",OR
+Desert Springs Hospital Medical Center,Pulmonary,HCPCS 94640,Aerosol Treatment,$140.25,OR
+Desert Springs Hospital Medical Center,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$459.78,OR
+Desert Springs Hospital Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$374.44,OR
+Desert Springs Hospital Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$5,514.85",OR
+Desert Springs Hospital Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$2,300.94",OR
+Desert Springs Hospital Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$2,272.53",OR
+Desert Springs Hospital Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,273.15",OR
+Desert Springs Hospital Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$6,662.75",OR
+Desert Springs Hospital Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$6,415.99",OR
+Desert Springs Hospital Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$4,460.85",OR
+Desert Springs Hospital Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$3,104.64",OR
+Desert Springs Hospital Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,283.52",OR
+Desert Springs Hospital Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$3,137.71",OR
+Desert Springs Hospital Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$2,757.23",OR
+Desert Springs Hospital Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$2,270.44",OR
+Desert Springs Hospital Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,672.84",OR
+Desert Springs Hospital Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$3,382.16",OR
+Desert Springs Hospital Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$4,132.76",OR
+Desert Springs Hospital Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$3,437.40",OR
+Desert Springs Hospital Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$4,098.33",OR
+Desert Springs Hospital Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,903.95",OR
+Desert Springs Hospital Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$3,274.42",OR
+Desert Springs Hospital Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$1,151.21",OR
+Desert Springs Hospital Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,033.36",OR
+Desert Springs Hospital Medical Center,Ultrasound,HCPCS 76881,Ultrasound Joint Soft Tissue - Complete,$801.09,OR
+Desert Springs Hospital Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,062.57",OR
+Desert Springs Hospital Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,179.12",OR
+Desert Springs Hospital Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,194.09",OR
+Desert Springs Hospital Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,211.64",OR
+Desert Springs Hospital Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$878.43,OR
+Desert Springs Hospital Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$526.03,OR
+Desert Springs Hospital Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$396.50,OR
+Desert Springs Hospital Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$447.85,OR
+Desert Springs Hospital Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$558.54,OR
+Desert Springs Hospital Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$414.08,OR
+Desert Springs Hospital Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$541.00,OR
+Desert Springs Hospital Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$512.33,OR
+Desert Springs Hospital Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$338.29,OR
+Desert Springs Hospital Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$403.88,OR
+Desert Springs Hospital Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$488.07,OR
+Desert Springs Hospital Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$403.44,OR
+Desert Springs Hospital Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$439.08,OR
+Desert Springs Hospital Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$429.29,OR
+Desert Springs Hospital Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$346.87,OR
+Desert Springs Hospital Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$549.00,OR
+Desert Springs Hospital Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$376.87,OR
+Desert Springs Hospital Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$459.96,OR
+Desert Springs Hospital Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$448.93,OR
+Desert Springs Hospital Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$392.00,OR
+Desert Springs Hospital Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$246.96,OR
+Desert Springs Hospital Medical Center,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$322.95,OR
+Desert Springs Hospital Medical Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$263.23,OR
+Desert Springs Hospital Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$415.25,OR
+Desert Springs Hospital Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$330.38,OR
+Desert Springs Hospital Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$281.18,OR
+Desert Springs Hospital Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$478.18,OR
+Desert Springs Hospital Medical Center,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$33,401.86",OR
+Desert Springs Hospital Medical Center,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$8,298.38",OR
+Desert Springs Hospital Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$14,711.35",OR
+Desert Springs Hospital Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$13,535.43",OR
+Desert Springs Hospital Medical Center,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$13,000.31",OR
+Desert Springs Hospital Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$251.17,OR
+Desert Springs Hospital Medical Center,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$51,636.89",OR
+Desert Springs Hospital Medical Center,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$14,271.35",OR
+Desert Springs Hospital Medical Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$15,128.96",OR
+Desert Springs Hospital Medical Center,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$16,682.24",OR
+Desert Springs Hospital Medical Center,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$11,787.44",OR
+Desert Springs Hospital Medical Center,Breast,HCPCS 19125,Excision of breast lesion,"$11,494.92",OR
+Desert Springs Hospital Medical Center,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,"$129,957.07",OR
+Desert Springs Hospital Medical Center,Cardiac,MSDRG 216,Cardiac valve procedure,"$306,886.24",OR
+Desert Springs Hospital Medical Center,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$175,690.90",OR
+Desert Springs Hospital Medical Center,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$144,155.38",OR
+Desert Springs Hospital Medical Center,Cardiac,HCPCS 33249,Defibrillator complete system,"$24,043.48",OR
+Desert Springs Hospital Medical Center,Cardiac,MSDRG 247,Implant drug-eluting stent,"$58,013.50",OR
+Desert Springs Hospital Medical Center,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$50,462.36",OR
+Desert Springs Hospital Medical Center,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$5,970.38",OR
+Desert Springs Hospital Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,494.01",OR
+Desert Springs Hospital Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,484.94",OR
+Desert Springs Hospital Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,605.92",OR
+Desert Springs Hospital Medical Center,Digestive,HCPCS 43235,EGD,"$1,560.87",OR
+Desert Springs Hospital Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$1,573.77",OR
+Desert Springs Hospital Medical Center,General,HCPCS 10060,Drainage of Abscess,$496.90,OR
+Desert Springs Hospital Medical Center,General,HCPCS 69200,Removal of foreign body from ear canal,$309.84,OR
+Desert Springs Hospital Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$613.50,OR
+Desert Springs Hospital Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$576.48,OR
+Desert Springs Hospital Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$549.49,OR
+Desert Springs Hospital Medical Center,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$141,569.24",OR
+Desert Springs Hospital Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$75,849.24",OR
+Desert Springs Hospital Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$12,645.10",OR
+Desert Springs Hospital Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$8,277.33",OR
+Desert Springs Hospital Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$71,980.83",OR
+Desert Springs Hospital Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$124,165.76",OR
+Desert Springs Hospital Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$478.00,OR
+Desert Springs Hospital Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$679.92,OR
+Desert Springs Hospital Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$629.54,OR
