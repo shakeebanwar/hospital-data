@@ -1,0 +1,73 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Denver Health,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$93.55,CO
+Denver Health,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$93.55,CO
+Denver Health,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$93.55,CO
+Denver Health,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$93.55,CO
+Denver Health,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$93.55,CO
+Denver Health,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$93.55,CO
+Denver Health,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$93.55,CO
+Denver Health,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$106.45,CO
+Denver Health,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$106.45,CO
+Denver Health,Psychology,HCPCS 90853,Group psychotherapy,$165.48,CO
+Denver Health,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$174.36,CO
+Denver Health,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$174.36,CO
+Denver Health,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$174.36,CO
+Denver Health,Blood,HCPCS 85610,"Blood test, clotting time",$17.29,CO
+Denver Health,Blood,HCPCS 85730,Coagulation assessment blood test,$19.95,CO
+Denver Health,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$21.74,CO
+Denver Health,Blood,HCPCS 85027,"Complete blood count, automated",$21.74,CO
+Denver Health,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$43.52,CO
+Denver Health,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$47.31,CO
+Denver Health,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$55.61,CO
+Denver Health,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$42.24,CO
+Denver Health,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$38.96,CO
+Denver Health,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$40.05,CO
+Denver Health,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$8.20,CO
+Denver Health,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$14.70,CO
+Denver Health,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$14.70,CO
+Denver Health,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$78.90,CO
+Denver Health,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$78.90,CO
+Denver Health,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$54.88,CO
+Denver Health,Breast,HCPCS 77067,Mammogram Screening,$49.80,CO
+Denver Health,Breast,HCPCS 77066,Mammography of both breasts,$54.88,CO
+Denver Health,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$905.88,CO
+Denver Health,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$2,127.44",CO
+Denver Health,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,127.44",CO
+Denver Health,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$682.04,CO
+Denver Health,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,236.25",CO
+Denver Health,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,236.25",CO
+Denver Health,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,236.25",CO
+Denver Health,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,600.73",CO
+Denver Health,MRI,HCPCS 73721,MRI scan of leg joint,"$1,096.38",CO
+Denver Health,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$136.93,CO
+Denver Health,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$203.02,CO
+Denver Health,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$203.02,CO
+Denver Health,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$170.08,CO
+Denver Health,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$129.54,CO
+Denver Health,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$129.54,CO
+Denver Health,Abdomenal,HCPCS 47562,Cholecystectomy,"$4,496.14",CO
+Denver Health,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$4,496.14",CO
+Denver Health,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$2,875.65",CO
+Denver Health,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$2,875.65",CO
+Denver Health,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$2,875.65",CO
+Denver Health,Breast,HCPCS 19125,Excision of breast lesion,"$2,310.81",CO
+Denver Health,Breast,HCPCS 19120,Excision of cyst of breast,"$2,310.81",CO
+Denver Health,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$4,617.55",CO
+Denver Health,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",$563.78,CO
+Denver Health,Digestive,HCPCS 45380,"Colonoscopy, with biopsy",$795.67,CO
+Denver Health,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)",$891.67,CO
+Denver Health,Digestive,HCPCS 43235,EGD,$578.39,CO
+Denver Health,Digestive,HCPCS 43239,EGD and biopsy,$636.65,CO
+Denver Health,Digestive,HCPCS 45391,Ultrasound of lower large bowel using an endoscope,$563.78,CO
+Denver Health,General,HCPCS 55700,Biopsy of prostate gland,"$1,404.90",CO
+Denver Health,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$1,432.95",CO
+Denver Health,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$365.74,CO
+Denver Health,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,$365.74,CO
+Denver Health,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$566.20,CO
+Denver Health,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$2,061.27",CO
+Denver Health,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$2,061.27",CO
+Denver Health,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$10,474.53",CO
+Denver Health,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$6,201.07",CO
+Denver Health,Ocular,HCPCS 66984,Cataract removal,"$1,977.83",CO
+Denver Health,Ocular,HCPCS 66982,Cataract removal with insertion of lens,"$1,977.83",CO
+Denver Health,Ocular,HCPCS 66821,Laser cataract removal,$374.32,CO

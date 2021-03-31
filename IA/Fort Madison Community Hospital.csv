@@ -1,0 +1,215 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Fort Madison Community Hospital,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$496.00,IA
+Fort Madison Community Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,103.00",IA
+Fort Madison Community Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$158.00,IA
+Fort Madison Community Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$125.00,IA
+Fort Madison Community Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$272.00,IA
+Fort Madison Community Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$426.00,IA
+Fort Madison Community Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$665.00,IA
+Fort Madison Community Hospital,Hospital,HCPCS 99234,Hospital observation care discharge,$594.00,IA
+Fort Madison Community Hospital,Hospital,HCPCS 99219,Hospital observation care typically 30 minutes,$493.00,IA
+Fort Madison Community Hospital,Hospital,HCPCS 99235,"Hospital observation or inpatient care moderate severity, 50 minutes per day",$784.00,IA
+Fort Madison Community Hospital,Hospital,HCPCS 99218,Hospital Observation per Hour,$384.00,IA
+Fort Madison Community Hospital,Hospital,HCPCS 99224,"Subsequent observation care, typically 25 minutes per day",$119.00,IA
+Fort Madison Community Hospital,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$123.00,IA
+Fort Madison Community Hospital,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$456.00,IA
+Fort Madison Community Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$356.00,IA
+Fort Madison Community Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$444.00,IA
+Fort Madison Community Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$461.00,IA
+Fort Madison Community Hospital,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$524.00,IA
+Fort Madison Community Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$740.00,IA
+Fort Madison Community Hospital,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$323.00,IA
+Fort Madison Community Hospital,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$268.00,IA
+Fort Madison Community Hospital,Psychology,HCPCS 90853,Group psychotherapy,$92.00,IA
+Fort Madison Community Hospital,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$445.00,IA
+Fort Madison Community Hospital,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$120.00,IA
+Fort Madison Community Hospital,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$156.00,IA
+Fort Madison Community Hospital,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$228.00,IA
+Fort Madison Community Hospital,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$470.00,IA
+Fort Madison Community Hospital,Speech,HCPCS 92610,Swallow Evaluation,$452.00,IA
+Fort Madison Community Hospital,Speech,HCPCS 92526,Swallow Treatment,$338.00,IA
+Fort Madison Community Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$45.00,IA
+Fort Madison Community Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$61.00,IA
+Fort Madison Community Hospital,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$99.00,IA
+Fort Madison Community Hospital,Chemistry,HCPCS 83520,IgE (immune system protein) level,$244.00,IA
+Fort Madison Community Hospital,Chemistry,HCPCS A9270,Selenium (vitamin) level,$20.00,IA
+Fort Madison Community Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$59.00,IA
+Fort Madison Community Hospital,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$244.00,IA
+Fort Madison Community Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$67.00,IA
+Fort Madison Community Hospital,Immunology,HCPCS 86580,Tuberculosis Test,$48.00,IA
+Fort Madison Community Hospital,Microbiology,HCPCS 87880,Streptoccus,$80.00,IA
+Fort Madison Community Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$94.00,IA
+Fort Madison Community Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$576.00,IA
+Fort Madison Community Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$36.00,IA
+Fort Madison Community Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$154.00,IA
+Fort Madison Community Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$145.00,IA
+Fort Madison Community Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$192.00,IA
+Fort Madison Community Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$180.00,IA
+Fort Madison Community Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$381.00,IA
+Fort Madison Community Hospital,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$77.00,IA
+Fort Madison Community Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$289.00,IA
+Fort Madison Community Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$286.00,IA
+Fort Madison Community Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$146.00,IA
+Fort Madison Community Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$250.00,IA
+Fort Madison Community Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$289.00,IA
+Fort Madison Community Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$297.00,IA
+Fort Madison Community Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$177.00,IA
+Fort Madison Community Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$40.00,IA
+Fort Madison Community Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$14.00,IA
+Fort Madison Community Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$94.00,IA
+Fort Madison Community Hospital,Cardiovascular,HCPCS 93015,"Cardiovascular stress test, with interpretation and report",$258.00,IA
+Fort Madison Community Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$1,196.00",IA
+Fort Madison Community Hospital,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$102.00,IA
+Fort Madison Community Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$147.00,IA
+Fort Madison Community Hospital,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$179.00,IA
+Fort Madison Community Hospital,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$329.00,IA
+Fort Madison Community Hospital,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$61.00,IA
+Fort Madison Community Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,809.00",IA
+Fort Madison Community Hospital,Pulmonary,HCPCS 94729,CO Diffusion Capacity,$282.00,IA
+Fort Madison Community Hospital,Pulmonary,HCPCS 94640,Nebulizer Treatment,$72.00,IA
+Fort Madison Community Hospital,Pulmonary,HCPCS 94618,Pulmonary stress test,$286.00,IA
+Fort Madison Community Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$125.00,IA
+Fort Madison Community Hospital,Sleep,HCPCS 95810,Sleep study,"$3,014.00",IA
+Fort Madison Community Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$566.00,IA
+Fort Madison Community Hospital,Breast,HCPCS 77067,Mammogram Screening,$573.00,IA
+Fort Madison Community Hospital,Breast,HCPCS 77066,Mammography of both breasts,$659.00,IA
+Fort Madison Community Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$2,712.00",IA
+Fort Madison Community Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$2,028.00",IA
+Fort Madison Community Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,621.00",IA
+Fort Madison Community Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,902.00",IA
+Fort Madison Community Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,232.00",IA
+Fort Madison Community Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,867.00",IA
+Fort Madison Community Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,028.00",IA
+Fort Madison Community Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$2,675.00",IA
+Fort Madison Community Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$3,169.00",IA
+Fort Madison Community Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$2,183.00",IA
+Fort Madison Community Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,658.00",IA
+Fort Madison Community Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$2,675.00",IA
+Fort Madison Community Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$2,299.00",IA
+Fort Madison Community Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$3,712.00",IA
+Fort Madison Community Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$3,712.00",IA
+Fort Madison Community Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$3,712.00",IA
+Fort Madison Community Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$6,634.00",IA
+Fort Madison Community Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$3,712.00",IA
+Fort Madison Community Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$6,634.00",IA
+Fort Madison Community Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$5,307.00",IA
+Fort Madison Community Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,130.00",IA
+Fort Madison Community Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$5,307.00",IA
+Fort Madison Community Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$3,712.00",IA
+Fort Madison Community Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$2,132.00",IA
+Fort Madison Community Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$969.00,IA
+Fort Madison Community Hospital,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,"$1,317.00",IA
+Fort Madison Community Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$965.00,IA
+Fort Madison Community Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$700.00,IA
+Fort Madison Community Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$1,112.00",IA
+Fort Madison Community Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,006.00",IA
+Fort Madison Community Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$887.00,IA
+Fort Madison Community Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$549.00,IA
+Fort Madison Community Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$753.00,IA
+Fort Madison Community Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$753.00,IA
+Fort Madison Community Hospital,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$435.00,IA
+Fort Madison Community Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$668.00,IA
+Fort Madison Community Hospital,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$578.00,IA
+Fort Madison Community Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$533.00,IA
+Fort Madison Community Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$385.00,IA
+Fort Madison Community Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$504.00,IA
+Fort Madison Community Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$552.00,IA
+Fort Madison Community Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$380.00,IA
+Fort Madison Community Hospital,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$353.00,IA
+Fort Madison Community Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$472.00,IA
+Fort Madison Community Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$380.00,IA
+Fort Madison Community Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$380.00,IA
+Fort Madison Community Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$647.00,IA
+Fort Madison Community Hospital,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$382.00,IA
+Fort Madison Community Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$177.00,IA
+Fort Madison Community Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$473.00,IA
+Fort Madison Community Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$382.00,IA
+Fort Madison Community Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$393.00,IA
+Fort Madison Community Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$488.00,IA
+Fort Madison Community Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$472.00,IA
+Fort Madison Community Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$498.00,IA
+Fort Madison Community Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$177.00,IA
+Fort Madison Community Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$393.00,IA
+Fort Madison Community Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$393.00,IA
+Fort Madison Community Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$617.00,IA
+Fort Madison Community Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$858.00,IA
+Fort Madison Community Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$452.00,IA
+Fort Madison Community Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$682.00,IA
+Fort Madison Community Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$406.00,IA
+Fort Madison Community Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$743.00,IA
+Fort Madison Community Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$443.00,IA
+Fort Madison Community Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$478.00,IA
+Fort Madison Community Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$363.00,IA
+Fort Madison Community Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$363.00,IA
+Fort Madison Community Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$422.00,IA
+Fort Madison Community Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$582.00,IA
+Fort Madison Community Hospital,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$369.00,IA
+Fort Madison Community Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$363.00,IA
+Fort Madison Community Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$456.00,IA
+Fort Madison Community Hospital,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,IA
+Fort Madison Community Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$3,620.00",IA
+Fort Madison Community Hospital,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$3,885.00",IA
+Fort Madison Community Hospital,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$1,110.00",IA
+Fort Madison Community Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$2,547.00",IA
+Fort Madison Community Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$263.00,IA
+Fort Madison Community Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$277.00,IA
+Fort Madison Community Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,IA
+Fort Madison Community Hospital,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$2,875.00",IA
+Fort Madison Community Hospital,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$2,874.00",IA
+Fort Madison Community Hospital,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$2,953.00",IA
+Fort Madison Community Hospital,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$3,156.00",IA
+Fort Madison Community Hospital,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$2,131.00",IA
+Fort Madison Community Hospital,Breast,HCPCS 19101,Biopsy of breast,"$1,074.00",IA
+Fort Madison Community Hospital,Breast,HCPCS 19325,Breast enlargement using prosthetic implant,"$18,469.00",IA
+Fort Madison Community Hospital,Breast,HCPCS 19125,Excision of breast lesion,"$1,560.00",IA
+Fort Madison Community Hospital,Breast,HCPCS 19120,Excision of cyst of breast,"$1,449.00",IA
+Fort Madison Community Hospital,Breast,HCPCS 19301,Partial removal of breast,"$1,868.00",IA
+Fort Madison Community Hospital,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$3,388.00",IA
+Fort Madison Community Hospital,Breast,HCPCS 19303,Total removal of breast,"$2,513.00",IA
+Fort Madison Community Hospital,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers","$1,125.00",IA
+Fort Madison Community Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,903.00",IA
+Fort Madison Community Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$2,431.00",IA
+Fort Madison Community Hospital,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$2,417.00",IA
+Fort Madison Community Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$2,746.00",IA
+Fort Madison Community Hospital,Digestive,HCPCS 43235,EGD,"$1,564.00",IA
+Fort Madison Community Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$1,779.00",IA
+Fort Madison Community Hospital,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$2,226.00",IA
+Fort Madison Community Hospital,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$2,133.00",IA
+Fort Madison Community Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,IA
+Fort Madison Community Hospital,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$5,285.00",IA
+Fort Madison Community Hospital,General,HCPCS 55700,Biopsy of prostate gland,"$2,506.00",IA
+Fort Madison Community Hospital,General,HCPCS 10060,Drainage of Abscess,$403.00,IA
+Fort Madison Community Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$508.00,IA
+Fort Madison Community Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$263.00,IA
+Fort Madison Community Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$426.00,IA
+Fort Madison Community Hospital,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$804.00,IA
+Fort Madison Community Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$385.00,IA
+Fort Madison Community Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$496.00,IA
+Fort Madison Community Hospital,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,"$1,162.00",IA
+Fort Madison Community Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$1,749.00",IA
+Fort Madison Community Hospital,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$1,399.00",IA
+Fort Madison Community Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$1,677.00",IA
+Fort Madison Community Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$807.00,IA
+Fort Madison Community Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,IA
+Fort Madison Community Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$7,069.00",IA
+Fort Madison Community Hospital,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$6,234.00",IA
+Fort Madison Community Hospital,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$5,657.00",IA
+Fort Madison Community Hospital,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$6,806.00",IA
+Fort Madison Community Hospital,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$329.00,IA
+Fort Madison Community Hospital,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$3,497.00",IA
+Fort Madison Community Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$1,556.00",IA
+Fort Madison Community Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,IA
+Fort Madison Community Hospital,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$3,923.00",IA
+Fort Madison Community Hospital,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$3,623.00",IA
+Fort Madison Community Hospital,Obstetrics,HCPCS 58545,Removal of uterine fibroid tumors using an endoscope,"$4,868.00",IA
+Fort Madison Community Hospital,Obstetrics,HCPCS 59400,Routine obstetric care,"$4,750.00",IA
+Fort Madison Community Hospital,Obstetrics,HCPCS 59510,"Routine obstetric care for cesarean delivery, including pre-and postdelivery care","$5,242.00",IA
+Fort Madison Community Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,IA
+Fort Madison Community Hospital,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries","$4,945.00",IA
+Fort Madison Community Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$403.00,IA
+Fort Madison Community Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$403.00,IA
+Fort Madison Community Hospital,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$51.90,IA
+Fort Madison Community Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$48.00,IA
+Fort Madison Community Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,676.00",IA
+Fort Madison Community Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,333.00",IA
+Fort Madison Community Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,446.00",IA

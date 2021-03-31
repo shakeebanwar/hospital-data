@@ -1,0 +1,112 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Valley Presbyterian Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$3,116.31",CA
+Valley Presbyterian Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,"$2,320.59",CA
+Valley Presbyterian Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$2,320.59",CA
+Valley Presbyterian Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$2,320.59",CA
+Valley Presbyterian Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$2,320.59",CA
+Valley Presbyterian Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$2,320.59",CA
+Valley Presbyterian Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$236.00,CA
+Valley Presbyterian Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$236.00,CA
+Valley Presbyterian Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$109.11,CA
+Valley Presbyterian Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$146.24,CA
+Valley Presbyterian Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$162.86,CA
+Valley Presbyterian Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$162.86,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$12.00,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 82140,Ammonia level,$364.46,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$174.68,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$500.00,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$193.90,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$176.36,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$176.36,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$166.42,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 84132,Blood potassium level,$131.78,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 84295,Blood sodium level,$131.67,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$132.92,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$140.00,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 82525,Copper level,$11.00,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$73.67,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$215.19,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$116.89,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$25.00,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$175.60,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$119.66,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$117.00,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$6.99,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$14.00,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$14.00,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$81.00,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 83020,Hemoglobin Measurement,$71.00,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 83540,Iron level,$183.87,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$175.30,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$201.96,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$146.36,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 83735,Magnesium Level,$137.30,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 83970,Parathormone,$110.33,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$15.00,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$93.67,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$204.00,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$257.78,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$193.90,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$57.20,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 84560,Uric acid level,$133.29,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 82436,Urine chloride level,$137.00,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$22.00,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 84133,Urine potassium level,$131.78,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 84300,Urine sodium level,$131.67,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$47.00,CA
+Valley Presbyterian Hospital,Chemistry,HCPCS 84630,Zinc level,$11.00,CA
+Valley Presbyterian Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$126.24,CA
+Valley Presbyterian Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$126.24,CA
+Valley Presbyterian Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$126.24,CA
+Valley Presbyterian Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$166.04,CA
+Valley Presbyterian Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$151.15,CA
+Valley Presbyterian Hospital,Immunology,HCPCS 86580,Skin test for tuberculosis,$133.00,CA
+Valley Presbyterian Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$89.19,CA
+Valley Presbyterian Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$249.31,CA
+Valley Presbyterian Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$247.38,CA
+Valley Presbyterian Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$96.00,CA
+Valley Presbyterian Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$126.24,CA
+Valley Presbyterian Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$110.00,CA
+Valley Presbyterian Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$62.67,CA
+Valley Presbyterian Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$17.00,CA
+Valley Presbyterian Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$12.00,CA
+Valley Presbyterian Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$21.92,CA
+Valley Presbyterian Hospital,Microbiology,HCPCS 87045,Stool Culture,$262.00,CA
+Valley Presbyterian Hospital,Microbiology,HCPCS 87880,Strep Test,$110.86,CA
+Valley Presbyterian Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$10.00,CA
+Valley Presbyterian Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$554.13,CA
+Valley Presbyterian Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$602.49,CA
+Valley Presbyterian Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$323.34,CA
+Valley Presbyterian Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$581.00,CA
+Valley Presbyterian Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$562.82,CA
+Valley Presbyterian Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$60.72,CA
+Valley Presbyterian Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$554.19,CA
+Valley Presbyterian Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$38.00,CA
+Valley Presbyterian Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$365.00,CA
+Valley Presbyterian Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$253.00,CA
+Valley Presbyterian Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$57.85,CA
+Valley Presbyterian Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$57.85,CA
+Valley Presbyterian Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$76.84,CA
+Valley Presbyterian Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$91.28,CA
+Valley Presbyterian Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$91.28,CA
+Valley Presbyterian Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$17.41,CA
+Valley Presbyterian Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$2,343.65",CA
+Valley Presbyterian Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$318.53,CA
+Valley Presbyterian Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,$769.53,CA
+Valley Presbyterian Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$665.87,CA
+Valley Presbyterian Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$5,014.48",CA
+Valley Presbyterian Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$2,280.31",CA
+Valley Presbyterian Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,811.13",CA
+Valley Presbyterian Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,729.34",CA
+Valley Presbyterian Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$3,729.34",CA
+Valley Presbyterian Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,753.16",CA
+Valley Presbyterian Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$2,886.39",CA
+Valley Presbyterian Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,639.75",CA
+Valley Presbyterian Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$3,178.10",CA
+Valley Presbyterian Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$3,128.93",CA
+Valley Presbyterian Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$2,362.00",CA
+Valley Presbyterian Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,416.00",CA
+Valley Presbyterian Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,416.00",CA
+Valley Presbyterian Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$4,603.68",CA
+Valley Presbyterian Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$3,230.00",CA
+Valley Presbyterian Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$3,598.00",CA

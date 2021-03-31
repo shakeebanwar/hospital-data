@@ -1,0 +1,280 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Yampa Valley Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$12,594.41",CO
+Yampa Valley Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,"$1,590.60",CO
+Yampa Valley Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,"$1,590.60",CO
+Yampa Valley Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$1,590.60",CO
+Yampa Valley Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,590.60",CO
+Yampa Valley Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,590.60",CO
+Yampa Valley Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$150.15,CO
+Yampa Valley Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$356.40,CO
+Yampa Valley Medical Center,Speech,HCPCS 92507,Speech Therapy,$178.20,CO
+Yampa Valley Medical Center,Speech,HCPCS 92610,Swallow Evaluation,$251.10,CO
+Yampa Valley Medical Center,Speech,HCPCS 92526,Swallow Treatment,$225.00,CO
+Yampa Valley Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$12.12,CO
+Yampa Valley Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$12.16,CO
+Yampa Valley Medical Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$21.60,CO
+Yampa Valley Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$19.69,CO
+Yampa Valley Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$29.99,CO
+Yampa Valley Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$34.09,CO
+Yampa Valley Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$34.09,CO
+Yampa Valley Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$20.00,CO
+Yampa Valley Medical Center,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$198.54,CO
+Yampa Valley Medical Center,Blood,HCPCS 85660,Red blood cell sickling measurement,$52.20,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$172.80,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$25.17,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$60.30,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$165.58,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 82140,Ammonia level,$64.80,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$29.70,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$17.10,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$160.20,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$36.22,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$72.00,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$23.40,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$23.40,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$23.40,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$26.15,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 84132,Blood potassium level,$27.79,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$32.40,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$26.10,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$74.68,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 82310,Calcium level,$37.58,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$85.50,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 82465,Cholesterol level,$27.49,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 82525,Copper level,$143.79,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$72.90,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$74.76,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$33.75,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$67.48,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$100.66,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$171.90,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$61.20,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$65.70,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$82.85,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$37.98,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$43.20,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$83.70,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$82.80,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$36.90,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$117.90,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$129.34,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$51.30,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$37.58,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$38.70,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 83540,Iron level,$29.70,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$27.00,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$44.55,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$23.40,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$27.01,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$33.70,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 82542,Mass spectrometry,$124.20,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$62.69,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 83945,Oxalate level,$57.60,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 83970,Parathormone,$121.54,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$33.41,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$129.34,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$87.30,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$33.41,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$102.77,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$102.77,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$792.90,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$226.80,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$36.22,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$33.41,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$33.41,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$33.41,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$20.70,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$37.58,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$25.17,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$30.60,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$27.79,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$32.40,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$132.30,CO
+Yampa Valley Medical Center,Chemistry,HCPCS 84630,Zinc level,$51.30,CO
+Yampa Valley Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$67.19,CO
+Yampa Valley Medical Center,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$194.95,CO
+Yampa Valley Medical Center,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$121.34,CO
+Yampa Valley Medical Center,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$121.34,CO
+Yampa Valley Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$55.11,CO
+Yampa Valley Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$57.58,CO
+Yampa Valley Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$55.11,CO
+Yampa Valley Medical Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$90.00,CO
+Yampa Valley Medical Center,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$95.04,CO
+Yampa Valley Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$24.87,CO
+Yampa Valley Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$100.68,CO
+Yampa Valley Medical Center,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$104.67,CO
+Yampa Valley Medical Center,Immunology,HCPCS 86161,Measurement of complement (immune system proteins),$92.12,CO
+Yampa Valley Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$55.11,CO
+Yampa Valley Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$64.67,CO
+Yampa Valley Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$26.10,CO
+Yampa Valley Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$30.47,CO
+Yampa Valley Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$37.21,CO
+Yampa Valley Medical Center,Immunology,HCPCS 86361,T cell count and ratio,$215.55,CO
+Yampa Valley Medical Center,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$215.55,CO
+Yampa Valley Medical Center,Immunology,HCPCS 86359,"T cells count, total",$215.55,CO
+Yampa Valley Medical Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$20.70,CO
+Yampa Valley Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$49.25,CO
+Yampa Valley Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$37.30,CO
+Yampa Valley Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$156.60,CO
+Yampa Valley Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$184.35,CO
+Yampa Valley Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$42.30,CO
+Yampa Valley Medical Center,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$688.89,CO
+Yampa Valley Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$55.11,CO
+Yampa Valley Medical Center,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$625.10,CO
+Yampa Valley Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$156.60,CO
+Yampa Valley Medical Center,Microbiology,HCPCS 87517,Hepatitis B Detection,$389.65,CO
+Yampa Valley Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$96.30,CO
+Yampa Valley Medical Center,Microbiology,HCPCS 86747,Parvovirus antibody test,$26.10,CO
+Yampa Valley Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$64.80,CO
+Yampa Valley Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$57.60,CO
+Yampa Valley Medical Center,Microbiology,HCPCS 87207,Smear for infectious agents,$28.77,CO
+Yampa Valley Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$39.60,CO
+Yampa Valley Medical Center,Microbiology,HCPCS 87045,Stool Culture,$55.98,CO
+Yampa Valley Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$37.21,CO
+Yampa Valley Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$52.65,CO
+Yampa Valley Medical Center,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$290.70,CO
+Yampa Valley Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$239.67,CO
+Yampa Valley Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$46.95,CO
+Yampa Valley Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$53.04,CO
+Yampa Valley Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$60.27,CO
+Yampa Valley Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$38.70,CO
+Yampa Valley Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$36.90,CO
+Yampa Valley Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$113.40,CO
+Yampa Valley Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$29.70,CO
+Yampa Valley Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$247.65,CO
+Yampa Valley Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$517.48,CO
+Yampa Valley Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$180.25,CO
+Yampa Valley Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$61.20,CO
+Yampa Valley Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$16.55,CO
+Yampa Valley Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$16.55,CO
+Yampa Valley Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$22.50,CO
+Yampa Valley Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$22.50,CO
+Yampa Valley Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$22.52,CO
+Yampa Valley Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$22.52,CO
+Yampa Valley Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$51.50,CO
+Yampa Valley Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$364.50,CO
+Yampa Valley Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$183.36,CO
+Yampa Valley Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,$538.82,CO
+Yampa Valley Medical Center,Pulmonary,HCPCS 94640,Aerosol Treatment,$431.05,CO
+Yampa Valley Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$305.54,CO
+Yampa Valley Medical Center,Sleep,HCPCS 95810,Sleep study,"$2,990.77",CO
+Yampa Valley Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$284.89,CO
+Yampa Valley Medical Center,Breast,HCPCS 77067,Mammogram Screening,$264.53,CO
+Yampa Valley Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$284.89,CO
+Yampa Valley Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,342.20",CO
+Yampa Valley Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$765.00,CO
+Yampa Valley Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$938.82,CO
+Yampa Valley Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$801.59,CO
+Yampa Valley Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,777.15",CO
+Yampa Valley Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,777.15",CO
+Yampa Valley Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,439.21",CO
+Yampa Valley Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$971.23,CO
+Yampa Valley Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,$971.23,CO
+Yampa Valley Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,065.04",CO
+Yampa Valley Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$786.75,CO
+Yampa Valley Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$960.30,CO
+Yampa Valley Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$931.01,CO
+Yampa Valley Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)",$639.00,CO
+Yampa Valley Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,$639.00,CO
+Yampa Valley Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$639.00,CO
+Yampa Valley Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$1,113.24",CO
+Yampa Valley Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,$639.00,CO
+Yampa Valley Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,225.66",CO
+Yampa Valley Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$627.30,CO
+Yampa Valley Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,129.97",CO
+Yampa Valley Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$639.00,CO
+Yampa Valley Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,$638.04,CO
+Yampa Valley Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$250.38,CO
+Yampa Valley Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$341.82,CO
+Yampa Valley Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$347.77,CO
+Yampa Valley Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$336.60,CO
+Yampa Valley Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$336.60,CO
+Yampa Valley Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$246.53,CO
+Yampa Valley Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$246.53,CO
+Yampa Valley Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$348.30,CO
+Yampa Valley Medical Center,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$314.55,CO
+Yampa Valley Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$192.90,CO
+Yampa Valley Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$192.90,CO
+Yampa Valley Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$207.90,CO
+Yampa Valley Medical Center,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$292.50,CO
+Yampa Valley Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$168.30,CO
+Yampa Valley Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$198.83,CO
+Yampa Valley Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$253.80,CO
+Yampa Valley Medical Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$269.55,CO
+Yampa Valley Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$183.12,CO
+Yampa Valley Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$183.12,CO
+Yampa Valley Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$183.12,CO
+Yampa Valley Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$221.44,CO
+Yampa Valley Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$226.80,CO
+Yampa Valley Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$183.12,CO
+Yampa Valley Medical Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$187.20,CO
+Yampa Valley Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$221.44,CO
+Yampa Valley Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$221.44,CO
+Yampa Valley Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$224.72,CO
+Yampa Valley Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$310.25,CO
+Yampa Valley Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$310.25,CO
+Yampa Valley Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$316.37,CO
+Yampa Valley Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$203.69,CO
+Yampa Valley Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$142.90,CO
+Yampa Valley Medical Center,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$215.10,CO
+Yampa Valley Medical Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$158.04,CO
+Yampa Valley Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$158.04,CO
+Yampa Valley Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$215.09,CO
+Yampa Valley Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$158.04,CO
+Yampa Valley Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$158.04,CO
+Yampa Valley Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$11,676.42",CO
+Yampa Valley Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$11,676.42",CO
+Yampa Valley Medical Center,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$7,758.52",CO
+Yampa Valley Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$4,412.17",CO
+Yampa Valley Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$230.40,CO
+Yampa Valley Medical Center,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$82,550.93",CO
+Yampa Valley Medical Center,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$6,602.85",CO
+Yampa Valley Medical Center,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$3,682.45",CO
+Yampa Valley Medical Center,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$5,470.45",CO
+Yampa Valley Medical Center,Breast,HCPCS 19125,Excision of breast lesion,"$7,679.95",CO
+Yampa Valley Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$7,679.95",CO
+Yampa Valley Medical Center,Breast,HCPCS 19301,Partial removal of breast,"$5,812.84",CO
+Yampa Valley Medical Center,Breast,HCPCS 19318,Reduction mammaplasty,"$17,282.96",CO
+Yampa Valley Medical Center,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),"$101,494.81",CO
+Yampa Valley Medical Center,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$367,964.19",CO
+Yampa Valley Medical Center,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$367,964.19",CO
+Yampa Valley Medical Center,Cardiac,MSDRG 247,Implant drug-eluting stent,"$38,020.74",CO
+Yampa Valley Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,078.78",CO
+Yampa Valley Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,175.34",CO
+Yampa Valley Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,473.61",CO
+Yampa Valley Medical Center,Digestive,HCPCS 43235,EGD,$908.48,CO
+Yampa Valley Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$1,305.39",CO
+Yampa Valley Medical Center,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$4,735.97",CO
+Yampa Valley Medical Center,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$4,735.97",CO
+Yampa Valley Medical Center,General,HCPCS 55700,Biopsy of prostate gland,"$4,987.98",CO
+Yampa Valley Medical Center,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$377.10,CO
+Yampa Valley Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$618.57,CO
+Yampa Valley Medical Center,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$618.57,CO
+Yampa Valley Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$618.57,CO
+Yampa Valley Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$618.57,CO
+Yampa Valley Medical Center,Head,HCPCS 69436,Create eardrum opening,"$3,124.44",CO
+Yampa Valley Medical Center,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$5,079.30",CO
+Yampa Valley Medical Center,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$5,344.87",CO
+Yampa Valley Medical Center,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$67,061.26",CO
+Yampa Valley Medical Center,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,"$1,082.63",CO
+Yampa Valley Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$676.85,CO
+Yampa Valley Medical Center,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,$676.85,CO
+Yampa Valley Medical Center,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$1,767.60",CO
+Yampa Valley Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$720.46,CO
+Yampa Valley Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$56,265.33",CO
+Yampa Valley Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$5,183.22",CO
+Yampa Valley Medical Center,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$3,931.17",CO
+Yampa Valley Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$58,011.21",CO
+Yampa Valley Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$67,061.26",CO
+Yampa Valley Medical Center,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$23,807.95",CO
+Yampa Valley Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$19,772.52",CO
+Yampa Valley Medical Center,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$13,907.04",CO
+Yampa Valley Medical Center,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$18,767.49",CO
+Yampa Valley Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$14,000.32",CO
+Yampa Valley Medical Center,Ocular,HCPCS 66984,Cataract removal,"$3,828.99",CO
+Yampa Valley Medical Center,Ocular,HCPCS 66982,Cataract removal with insertion of lens,"$3,828.99",CO
+Yampa Valley Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$235.74,CO
+Yampa Valley Medical Center,Soft Tissue,HCPCS 97602,Non-selective debridement,$235.74,CO
+Yampa Valley Medical Center,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$214.90,CO
+Yampa Valley Medical Center,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$2,013.30",CO
+Yampa Valley Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$2,762.91",CO

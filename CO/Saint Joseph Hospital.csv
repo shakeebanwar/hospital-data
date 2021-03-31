@@ -1,0 +1,355 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Saint Joseph Hospital,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$285.60,CO
+Saint Joseph Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$3,298.38",CO
+Saint Joseph Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$149.87,CO
+Saint Joseph Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$337.02,CO
+Saint Joseph Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$709.25,CO
+Saint Joseph Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,169.13",CO
+Saint Joseph Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,840.49",CO
+Saint Joseph Hospital,Hospital,HCPCS 99234,Hospital observation care discharge,$147.00,CO
+Saint Joseph Hospital,Hospital,HCPCS 99219,Hospital observation care typically 30 minutes,$149.28,CO
+Saint Joseph Hospital,Hospital,HCPCS 99235,"Hospital observation or inpatient care moderate severity, 50 minutes per day",$185.88,CO
+Saint Joseph Hospital,Hospital,HCPCS 99218,Hospital Observation per Hour,$109.92,CO
+Saint Joseph Hospital,Hospital,HCPCS 99224,"Subsequent observation care, typically 35 minutes per day",$43.68,CO
+Saint Joseph Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$123.20,CO
+Saint Joseph Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$134.37,CO
+Saint Joseph Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$111.99,CO
+Saint Joseph Hospital,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$106.80,CO
+Saint Joseph Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$171.84,CO
+Saint Joseph Hospital,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$308.95,CO
+Saint Joseph Hospital,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$352.04,CO
+Saint Joseph Hospital,Speech,HCPCS 92507,Speech Therapy,$139.41,CO
+Saint Joseph Hospital,Speech,HCPCS 92610,Swallow Evaluation,$129.27,CO
+Saint Joseph Hospital,Speech,HCPCS 92526,Swallow Treatment,$152.70,CO
+Saint Joseph Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$26.07,CO
+Saint Joseph Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$26.07,CO
+Saint Joseph Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$80.16,CO
+Saint Joseph Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$130.74,CO
+Saint Joseph Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$76.17,CO
+Saint Joseph Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$14.78,CO
+Saint Joseph Hospital,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$61.16,CO
+Saint Joseph Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$70.64,CO
+Saint Joseph Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$70.64,CO
+Saint Joseph Hospital,Blood,HCPCS 85008,Microscopic examination for white blood cells,$32.33,CO
+Saint Joseph Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$45.07,CO
+Saint Joseph Hospital,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$220.86,CO
+Saint Joseph Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$61.41,CO
+Saint Joseph Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$423.78,CO
+Saint Joseph Hospital,Blood,HCPCS 85041,"Red blood count, automated test",$21.76,CO
+Saint Joseph Hospital,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$380.66,CO
+Saint Joseph Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$286.81,CO
+Saint Joseph Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$80.16,CO
+Saint Joseph Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$86.74,CO
+Saint Joseph Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$211.47,CO
+Saint Joseph Hospital,Chemistry,HCPCS 82140,Ammonia level,$110.80,CO
+Saint Joseph Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$10.04,CO
+Saint Joseph Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$142.38,CO
+Saint Joseph Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$77.37,CO
+Saint Joseph Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$82.43,CO
+Saint Joseph Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$180.23,CO
+Saint Joseph Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$47.34,CO
+Saint Joseph Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$9.13,CO
+Saint Joseph Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$80.16,CO
+Saint Joseph Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$76.17,CO
+Saint Joseph Hospital,Chemistry,HCPCS 84295,Blood sodium level,$76.17,CO
+Saint Joseph Hospital,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$76.17,CO
+Saint Joseph Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$217.99,CO
+Saint Joseph Hospital,Chemistry,HCPCS 82310,Calcium level,$298.23,CO
+Saint Joseph Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$80.16,CO
+Saint Joseph Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$21.34,CO
+Saint Joseph Hospital,Chemistry,HCPCS 82465,Cholesterol level,$80.16,CO
+Saint Joseph Hospital,Chemistry,HCPCS 82525,Copper level,$208.95,CO
+Saint Joseph Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$58.68,CO
+Saint Joseph Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$181.33,CO
+Saint Joseph Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$109.45,CO
+Saint Joseph Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$194.77,CO
+Saint Joseph Hospital,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$376.08,CO
+Saint Joseph Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$274.93,CO
+Saint Joseph Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$173.61,CO
+Saint Joseph Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$180.23,CO
+Saint Joseph Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$122.93,CO
+Saint Joseph Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$46.58,CO
+Saint Joseph Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$98.06,CO
+Saint Joseph Hospital,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$194.77,CO
+Saint Joseph Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$158.12,CO
+Saint Joseph Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$14.70,CO
+Saint Joseph Hospital,Chemistry,HCPCS 83718,HDL cholesterol level,$86.27,CO
+Saint Joseph Hospital,Chemistry,HCPCS 83020,Hemoglobin Measurement,$202.30,CO
+Saint Joseph Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$23.81,CO
+Saint Joseph Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$55.61,CO
+Saint Joseph Hospital,Chemistry,HCPCS 83520,IgE (immune system protein) level,$54.91,CO
+Saint Joseph Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$133.00,CO
+Saint Joseph Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$65.13,CO
+Saint Joseph Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$100.22,CO
+Saint Joseph Hospital,Chemistry,HCPCS 83540,Iron level,$72.34,CO
+Saint Joseph Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$13.59,CO
+Saint Joseph Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$101.19,CO
+Saint Joseph Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$141.30,CO
+Saint Joseph Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$80.16,CO
+Saint Joseph Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$150.55,CO
+Saint Joseph Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$308.03,CO
+Saint Joseph Hospital,Chemistry,HCPCS 83735,Magnesium Level,$114.53,CO
+Saint Joseph Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$113.54,CO
+Saint Joseph Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$22.71,CO
+Saint Joseph Hospital,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$15.78,CO
+Saint Joseph Hospital,Chemistry,HCPCS 83918,Organic acid level,$133.00,CO
+Saint Joseph Hospital,Chemistry,HCPCS 83945,Oxalate level,$171.96,CO
+Saint Joseph Hospital,Chemistry,HCPCS 83970,Parathormone,$342.68,CO
+Saint Joseph Hospital,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$176.50,CO
+Saint Joseph Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$29.56,CO
+Saint Joseph Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$154.76,CO
+Saint Joseph Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$184.20,CO
+Saint Joseph Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$145.27,CO
+Saint Joseph Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$18.72,CO
+Saint Joseph Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$228.66,CO
+Saint Joseph Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$100.68,CO
+Saint Joseph Hospital,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement",$99.72,CO
+Saint Joseph Hospital,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$306.63,CO
+Saint Joseph Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$75.72,CO
+Saint Joseph Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$65.45,CO
+Saint Joseph Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$87.11,CO
+Saint Joseph Hospital,Chemistry,HCPCS 84478,Triglycerides level,$158.62,CO
+Saint Joseph Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$180.23,CO
+Saint Joseph Hospital,Chemistry,HCPCS 84560,Uric acid level,$80.16,CO
+Saint Joseph Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$80.16,CO
+Saint Joseph Hospital,Chemistry,HCPCS 82340,Urine calcium level,$8.35,CO
+Saint Joseph Hospital,Chemistry,HCPCS 82436,Urine chloride level,$80.16,CO
+Saint Joseph Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$185.89,CO
+Saint Joseph Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$62.98,CO
+Saint Joseph Hospital,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$183.60,CO
+Saint Joseph Hospital,Chemistry,HCPCS 84133,Urine potassium level,$10.55,CO
+Saint Joseph Hospital,Chemistry,HCPCS 84300,Urine sodium level,$80.16,CO
+Saint Joseph Hospital,Chemistry,HCPCS 84591,Vitamin B-6 level,$127.15,CO
+Saint Joseph Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$33.90,CO
+Saint Joseph Hospital,Chemistry,HCPCS 84630,Zinc level,$140.83,CO
+Saint Joseph Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$126.84,CO
+Saint Joseph Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$98.28,CO
+Saint Joseph Hospital,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$18.15,CO
+Saint Joseph Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$205.01,CO
+Saint Joseph Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$63.44,CO
+Saint Joseph Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$119.67,CO
+Saint Joseph Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$39.53,CO
+Saint Joseph Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$18.30,CO
+Saint Joseph Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$105.39,CO
+Saint Joseph Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$18.15,CO
+Saint Joseph Hospital,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$37.26,CO
+Saint Joseph Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$50.10,CO
+Saint Joseph Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$115.11,CO
+Saint Joseph Hospital,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$172.43,CO
+Saint Joseph Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$25.00,CO
+Saint Joseph Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$177.94,CO
+Saint Joseph Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$31.06,CO
+Saint Joseph Hospital,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$166.90,CO
+Saint Joseph Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$87.42,CO
+Saint Joseph Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$51.90,CO
+Saint Joseph Hospital,Immunology,HCPCS 86361,T cell count and ratio,$32.10,CO
+Saint Joseph Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$63.61,CO
+Saint Joseph Hospital,Immunology,HCPCS 86359,"T cells count, total",$30.83,CO
+Saint Joseph Hospital,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$75.08,CO
+Saint Joseph Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$34.10,CO
+Saint Joseph Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$113.43,CO
+Saint Joseph Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$106.88,CO
+Saint Joseph Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$37.51,CO
+Saint Joseph Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,-,CO
+Saint Joseph Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$82.25,CO
+Saint Joseph Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$154.96,CO
+Saint Joseph Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$265.91,CO
+Saint Joseph Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$82.43,CO
+Saint Joseph Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$556.46,CO
+Saint Joseph Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$37.51,CO
+Saint Joseph Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$88.51,CO
+Saint Joseph Hospital,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$38.11,CO
+Saint Joseph Hospital,Microbiology,HCPCS 87624,HPV Detection,$48.81,CO
+Saint Joseph Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$38.98,CO
+Saint Joseph Hospital,Microbiology,HCPCS 86747,Parvovirus antibody test,$154.63,CO
+Saint Joseph Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$19.91,CO
+Saint Joseph Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$143.59,CO
+Saint Joseph Hospital,Microbiology,HCPCS 87207,Smear for infectious agents,$120.17,CO
+Saint Joseph Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$91.92,CO
+Saint Joseph Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$48.28,CO
+Saint Joseph Hospital,Microbiology,HCPCS 87045,Stool Culture,$121.14,CO
+Saint Joseph Hospital,Microbiology,HCPCS 87880,Streptoccus,$20.29,CO
+Saint Joseph Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$104.49,CO
+Saint Joseph Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$21.76,CO
+Saint Joseph Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$66.38,CO
+Saint Joseph Hospital,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$270.72,CO
+Saint Joseph Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$410.09,CO
+Saint Joseph Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$179.16,CO
+Saint Joseph Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$249.82,CO
+Saint Joseph Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$57.82,CO
+Saint Joseph Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$158.62,CO
+Saint Joseph Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$158.62,CO
+Saint Joseph Hospital,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$357.86,CO
+Saint Joseph Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$40.61,CO
+Saint Joseph Hospital,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$72.28,CO
+Saint Joseph Hospital,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$164.13,CO
+Saint Joseph Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$158.62,CO
+Saint Joseph Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$146.01,CO
+Saint Joseph Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$33.53,CO
+Saint Joseph Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$108.03,CO
+Saint Joseph Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$181.93,CO
+Saint Joseph Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$15.15,CO
+Saint Joseph Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$140.83,CO
+Saint Joseph Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$165.95,CO
+Saint Joseph Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$92.89,CO
+Saint Joseph Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$45.12,CO
+Saint Joseph Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$33.95,CO
+Saint Joseph Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$117.62,CO
+Saint Joseph Hospital,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$60.52,CO
+Saint Joseph Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$125.28,CO
+Saint Joseph Hospital,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$72.14,CO
+Saint Joseph Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$57.16,CO
+Saint Joseph Hospital,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$22.21,CO
+Saint Joseph Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$28.82,CO
+Saint Joseph Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$85.67,CO
+Saint Joseph Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$103.69,CO
+Saint Joseph Hospital,Cardiovascular,HCPCS 93015,"Cardiovascular stress test, with interpretation and report",$78.00,CO
+Saint Joseph Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$797.41,CO
+Saint Joseph Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$159.49,CO
+Saint Joseph Hospital,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$83.92,CO
+Saint Joseph Hospital,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$153.89,CO
+Saint Joseph Hospital,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$9.36,CO
+Saint Joseph Hospital,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$1,181.61",CO
+Saint Joseph Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,$499.78,CO
+Saint Joseph Hospital,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$325.33,CO
+Saint Joseph Hospital,Pulmonary,HCPCS 94640,Nebulizer Treatment,$84.95,CO
+Saint Joseph Hospital,Pulmonary,HCPCS 94618,Pulmonary stress test,$153.89,CO
+Saint Joseph Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$128.56,CO
+Saint Joseph Hospital,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$12.19,CO
+Saint Joseph Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$131.51,CO
+Saint Joseph Hospital,Breast,HCPCS 77067,Mammogram Screening,$113.98,CO
+Saint Joseph Hospital,Breast,HCPCS 77066,Mammography of both breasts,$174.65,CO
+Saint Joseph Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,388.42",CO
+Saint Joseph Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,164.12",CO
+Saint Joseph Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,013.17",CO
+Saint Joseph Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,013.17",CO
+Saint Joseph Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,876.25",CO
+Saint Joseph Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,576.05",CO
+Saint Joseph Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,501.00",CO
+Saint Joseph Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,388.42",CO
+Saint Joseph Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,463.47",CO
+Saint Joseph Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,388.42",CO
+Saint Joseph Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,164.12",CO
+Saint Joseph Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,388.42",CO
+Saint Joseph Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,388.42",CO
+Saint Joseph Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,088.22",CO
+Saint Joseph Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,088.22",CO
+Saint Joseph Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,088.22",CO
+Saint Joseph Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$1,605.55",CO
+Saint Joseph Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,088.22",CO
+Saint Joseph Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$1,605.55",CO
+Saint Joseph Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,605.55",CO
+Saint Joseph Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,088.22",CO
+Saint Joseph Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,600.51",CO
+Saint Joseph Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,088.22",CO
+Saint Joseph Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$1,088.22",CO
+Saint Joseph Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$548.43,CO
+Saint Joseph Hospital,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$422.64,CO
+Saint Joseph Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$642.00,CO
+Saint Joseph Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$187.39,CO
+Saint Joseph Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$460.55,CO
+Saint Joseph Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$173.45,CO
+Saint Joseph Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$173.45,CO
+Saint Joseph Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$366.98,CO
+Saint Joseph Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$548.43,CO
+Saint Joseph Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$430.26,CO
+Saint Joseph Hospital,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$173.45,CO
+Saint Joseph Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$508.73,CO
+Saint Joseph Hospital,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$359.40,CO
+Saint Joseph Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$209.32,CO
+Saint Joseph Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$199.31,CO
+Saint Joseph Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$375.57,CO
+Saint Joseph Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$396.93,CO
+Saint Joseph Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$279.47,CO
+Saint Joseph Hospital,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$268.35,CO
+Saint Joseph Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$388.01,CO
+Saint Joseph Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$266.08,CO
+Saint Joseph Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$242.63,CO
+Saint Joseph Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$354.91,CO
+Saint Joseph Hospital,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$324.15,CO
+Saint Joseph Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$260.24,CO
+Saint Joseph Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$238.06,CO
+Saint Joseph Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$305.19,CO
+Saint Joseph Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$223.58,CO
+Saint Joseph Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$271.59,CO
+Saint Joseph Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$395.12,CO
+Saint Joseph Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$271.59,CO
+Saint Joseph Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$303.62,CO
+Saint Joseph Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$265.38,CO
+Saint Joseph Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$180.14,CO
+Saint Joseph Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$189.04,CO
+Saint Joseph Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$290.08,CO
+Saint Joseph Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$316.40,CO
+Saint Joseph Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$286.22,CO
+Saint Joseph Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$496.99,CO
+Saint Joseph Hospital,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$336.42,CO
+Saint Joseph Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$386.79,CO
+Saint Joseph Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$458.87,CO
+Saint Joseph Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$301.82,CO
+Saint Joseph Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$238.06,CO
+Saint Joseph Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$181.70,CO
+Saint Joseph Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$271.59,CO
+Saint Joseph Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$332.10,CO
+Saint Joseph Hospital,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$240.53,CO
+Saint Joseph Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$212.01,CO
+Saint Joseph Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$277.77,CO
+Saint Joseph Hospital,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$10,901.74",CO
+Saint Joseph Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,$753.15,CO
+Saint Joseph Hospital,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,$848.12,CO
+Saint Joseph Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),$624.09,CO
+Saint Joseph Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$188.43,CO
+Saint Joseph Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$19,318.60",CO
+Saint Joseph Hospital,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),$681.72,CO
+Saint Joseph Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,$672.09,CO
+Saint Joseph Hospital,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,$960.00,CO
+Saint Joseph Hospital,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$1,055.52",CO
+Saint Joseph Hospital,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),$505.08,CO
+Saint Joseph Hospital,Breast,HCPCS 19125,Excision of breast lesion,$532.85,CO
+Saint Joseph Hospital,Breast,HCPCS 19120,Excision of cyst of breast,$485.29,CO
+Saint Joseph Hospital,Breast,HCPCS 19301,Partial removal of breast,$742.92,CO
+Saint Joseph Hospital,Breast,HCPCS 19303,Total removal of breast,"$1,966.85",CO
+Saint Joseph Hospital,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,"$65,185.89",CO
+Saint Joseph Hospital,Cardiac,MSDRG 216,Cardiac valve procedure,"$90,759.16",CO
+Saint Joseph Hospital,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$72,050.09",CO
+Saint Joseph Hospital,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$57,947.57",CO
+Saint Joseph Hospital,Cardiac,HCPCS 33249,Defibrillator complete system,"$13,884.21",CO
+Saint Joseph Hospital,Cardiac,HCPCS 33240,Defibrillator generator,"$9,357.01",CO
+Saint Joseph Hospital,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$3,499.55",CO
+Saint Joseph Hospital,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$3,499.55",CO
+Saint Joseph Hospital,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$314.09,CO
+Saint Joseph Hospital,Cardiac,MSDRG 247,Implant drug-eluting stent,"$39,184.89",CO
+Saint Joseph Hospital,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$28,852.76",CO
+Saint Joseph Hospital,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$8,427.09",CO
+Saint Joseph Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",$208.56,CO
+Saint Joseph Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy",$225.72,CO
+Saint Joseph Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)",$286.44,CO
+Saint Joseph Hospital,Digestive,HCPCS 43235,EGD,$138.00,CO
+Saint Joseph Hospital,Digestive,HCPCS 43239,EGD and biopsy,$155.52,CO
+Saint Joseph Hospital,Digestive,HCPCS 43775,Gastric Sleeve (Outpatient),"$1,269.48",CO
+Saint Joseph Hospital,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,$401.52,CO
+Saint Joseph Hospital,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,$540.60,CO
+Saint Joseph Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$15,944.46",CO
+Saint Joseph Hospital,General,HCPCS 55700,Biopsy of prostate gland,$862.69,CO
+Saint Joseph Hospital,General,HCPCS 10060,Drainage of Abscess,$270.12,CO
+Saint Joseph Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$484.75,CO
+Saint Joseph Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$195.21,CO
+Saint Joseph Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$167.32,CO
+Saint Joseph Hospital,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$81,368.50",CO
+Saint Joseph Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$493.67,CO
+Saint Joseph Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$25,803.65",CO
+Saint Joseph Hospital,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$42,634.05",CO
+Saint Joseph Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$73,881.00",CO
+Saint Joseph Hospital,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,$821.99,CO
+Saint Joseph Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,$262.68,CO
+Saint Joseph Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$11,287.18",CO
+Saint Joseph Hospital,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,$804.12,CO
+Saint Joseph Hospital,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,$747.37,CO
+Saint Joseph Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$6,728.63",CO
+Saint Joseph Hospital,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries",$837.89,CO
+Saint Joseph Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$61.87,CO
+Saint Joseph Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$77.67,CO
+Saint Joseph Hospital,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$76.60,CO
+Saint Joseph Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$22.23,CO
+Saint Joseph Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,087.10",CO
+Saint Joseph Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$908.30,CO
+Saint Joseph Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,087.10",CO

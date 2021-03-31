@@ -1,0 +1,84 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+St Anthony North Health Campus,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$5,879.35",CO
+St Anthony North Health Campus,Emergency Care,HCPCS 99281,Emergency Level 1,"$2,508.20",CO
+St Anthony North Health Campus,Emergency Care,HCPCS 99282,Emergency Level 2,"$2,508.20",CO
+St Anthony North Health Campus,Emergency Care,HCPCS 99283,Emergency Level 3,"$2,508.20",CO
+St Anthony North Health Campus,Emergency Care,HCPCS 99284,Emergency Level 4,"$2,508.20",CO
+St Anthony North Health Campus,Emergency Care,HCPCS 99285,Emergency Level 5,"$2,508.20",CO
+St Anthony North Health Campus,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$85.31,CO
+St Anthony North Health Campus,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$85.31,CO
+St Anthony North Health Campus,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$85.31,CO
+St Anthony North Health Campus,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$85.31,CO
+St Anthony North Health Campus,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$97.69,CO
+St Anthony North Health Campus,Speech,HCPCS 92507,Speech Therapy,$67.08,CO
+St Anthony North Health Campus,Speech,HCPCS 92610,Swallow Evaluation,$75.35,CO
+St Anthony North Health Campus,Speech,HCPCS 92526,Swallow Treatment,$75.62,CO
+St Anthony North Health Campus,Blood,HCPCS 85018,"Blood count, hemoglobin",$36.72,CO
+St Anthony North Health Campus,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$39.23,CO
+St Anthony North Health Campus,Blood,HCPCS 85610,"Blood test, clotting time",$43.17,CO
+St Anthony North Health Campus,Blood,HCPCS 85730,Coagulation assessment blood test,$66.76,CO
+St Anthony North Health Campus,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$81.61,CO
+St Anthony North Health Campus,Blood,HCPCS 85027,"Complete blood count, automated",$81.61,CO
+St Anthony North Health Campus,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$28.50,CO
+St Anthony North Health Campus,Chemistry,HCPCS 82040,Albumin (protein) level,$6.13,CO
+St Anthony North Health Campus,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$71.42,CO
+St Anthony North Health Campus,Chemistry,HCPCS 82140,Ammonia level,$89.33,CO
+St Anthony North Health Campus,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$16.99,CO
+St Anthony North Health Campus,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$99.02,CO
+St Anthony North Health Campus,Chemistry,HCPCS 84439,Assay of free thyroxine,$41.39,CO
+St Anthony North Health Campus,Chemistry,HCPCS 82248,Bilirubin level (Direct),$21.01,CO
+St Anthony North Health Campus,Chemistry,HCPCS 82247,Bilirubin level (Total),$21.01,CO
+St Anthony North Health Campus,Chemistry,HCPCS 82565,Blood creatinine level,$30.78,CO
+St Anthony North Health Campus,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$38.00,CO
+St Anthony North Health Campus,Chemistry,HCPCS 84132,Blood potassium level,$24.53,CO
+St Anthony North Health Campus,Chemistry,HCPCS 84295,Blood sodium level,$28.17,CO
+St Anthony North Health Campus,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$29.22,CO
+St Anthony North Health Campus,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$70.23,CO
+St Anthony North Health Campus,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$77.33,CO
+St Anthony North Health Campus,Chemistry,HCPCS 82533,Cortisol Measurement,$69.44,CO
+St Anthony North Health Campus,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$27.91,CO
+St Anthony North Health Campus,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$64.19,CO
+St Anthony North Health Campus,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$22.25,CO
+St Anthony North Health Campus,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$44.31,CO
+St Anthony North Health Campus,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$38.46,CO
+St Anthony North Health Campus,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$125.74,CO
+St Anthony North Health Campus,Chemistry,HCPCS 82330,Ionized Calcium,$78.62,CO
+St Anthony North Health Campus,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$27.18,CO
+St Anthony North Health Campus,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$101.41,CO
+St Anthony North Health Campus,Chemistry,HCPCS 83735,Magnesium Level,$27.91,CO
+St Anthony North Health Campus,Chemistry,HCPCS 83970,Parathormone,$193.53,CO
+St Anthony North Health Campus,Chemistry,HCPCS 84157,Prealbumin (protein) level,$59.95,CO
+St Anthony North Health Campus,Chemistry,HCPCS 84403,Testosterone (hormone) level,$42.79,CO
+St Anthony North Health Campus,Chemistry,HCPCS 84402,Testosterone Level; Free,$42.79,CO
+St Anthony North Health Campus,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$59.95,CO
+St Anthony North Health Campus,Chemistry,HCPCS 84550,"Uric acid level, blood",$27.87,CO
+St Anthony North Health Campus,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$15.10,CO
+St Anthony North Health Campus,Immunology,HCPCS 86140,Measurement C-reactive protein,$88.26,CO
+St Anthony North Health Campus,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$7.30,CO
+St Anthony North Health Campus,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$28.73,CO
+St Anthony North Health Campus,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$93.80,CO
+St Anthony North Health Campus,Immunology,HCPCS 86592,Syphilis Detection Test,$17.72,CO
+St Anthony North Health Campus,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$110.02,CO
+St Anthony North Health Campus,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$111.50,CO
+St Anthony North Health Campus,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$44.55,CO
+St Anthony North Health Campus,Microbiology,HCPCS 87491,Chlamydia Test,$18.99,CO
+St Anthony North Health Campus,Microbiology,HCPCS 87635,Covid-19 current infection test,$50.17,CO
+St Anthony North Health Campus,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$140.05,CO
+St Anthony North Health Campus,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$90.38,CO
+St Anthony North Health Campus,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$19.09,CO
+St Anthony North Health Campus,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$56.76,CO
+St Anthony North Health Campus,Microbiology,HCPCS 87045,Stool Culture,$122.14,CO
+St Anthony North Health Campus,Microbiology,HCPCS 87880,Strep Test,$49.51,CO
+St Anthony North Health Campus,Microbiology,HCPCS 87804,Test for Influenza Virus,$46.97,CO
+St Anthony North Health Campus,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$17.72,CO
+St Anthony North Health Campus,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$202.79,CO
+St Anthony North Health Campus,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$72.73,CO
+St Anthony North Health Campus,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$81.29,CO
+St Anthony North Health Campus,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$137.28,CO
+St Anthony North Health Campus,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$91.90,CO
+St Anthony North Health Campus,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$72.54,CO
+St Anthony North Health Campus,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$476.36,CO
+St Anthony North Health Campus,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$51.23,CO
+St Anthony North Health Campus,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$10.26,CO
+St Anthony North Health Campus,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$63.43,CO
+St Anthony North Health Campus,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$214.62,CO

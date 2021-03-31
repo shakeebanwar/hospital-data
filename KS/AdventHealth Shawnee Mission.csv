@@ -1,0 +1,405 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+AdventHealth Shawnee Mission,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$478.09,KS
+AdventHealth Shawnee Mission,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,700.49",KS
+AdventHealth Shawnee Mission,Emergency Care,HCPCS 99281,Emergency Level 1,$370.57,KS
+AdventHealth Shawnee Mission,Emergency Care,HCPCS 99282,Emergency Level 2,$293.51,KS
+AdventHealth Shawnee Mission,Emergency Care,HCPCS 99283,Emergency Level 3,$668.86,KS
+AdventHealth Shawnee Mission,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,098.57",KS
+AdventHealth Shawnee Mission,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,360.43",KS
+AdventHealth Shawnee Mission,Hospital,HCPCS 99234,Hospital observation care discharge,$138.00,KS
+AdventHealth Shawnee Mission,Hospital,HCPCS 99219,Hospital observation care typically 70 minutes per day,$139.00,KS
+AdventHealth Shawnee Mission,Hospital,HCPCS 99235,"Hospital observation or inpatient care moderate severity, 50 minutes per day",$173.00,KS
+AdventHealth Shawnee Mission,Hospital,HCPCS 99218,Hospital Observation per Hour,$103.00,KS
+AdventHealth Shawnee Mission,Hospital,HCPCS 99224,"Subsequent observation care, typically 25 minutes per day",$41.00,KS
+AdventHealth Shawnee Mission,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$135.00,KS
+AdventHealth Shawnee Mission,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$156.00,KS
+AdventHealth Shawnee Mission,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$392.96,KS
+AdventHealth Shawnee Mission,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$442.16,KS
+AdventHealth Shawnee Mission,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$272.32,KS
+AdventHealth Shawnee Mission,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$260.61,KS
+AdventHealth Shawnee Mission,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$365.44,KS
+AdventHealth Shawnee Mission,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$249.44,KS
+AdventHealth Shawnee Mission,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$249.44,KS
+AdventHealth Shawnee Mission,Psychology,HCPCS 90853,Group psychotherapy,$180.91,KS
+AdventHealth Shawnee Mission,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$225.39,KS
+AdventHealth Shawnee Mission,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$174.74,KS
+AdventHealth Shawnee Mission,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$170.13,KS
+AdventHealth Shawnee Mission,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$172.05,KS
+AdventHealth Shawnee Mission,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$318.43,KS
+AdventHealth Shawnee Mission,Speech,HCPCS 92507,Speech Therapy,$115.79,KS
+AdventHealth Shawnee Mission,Speech,HCPCS 92610,Swallow Evaluation,$318.43,KS
+AdventHealth Shawnee Mission,Speech,HCPCS 92526,Swallow Treatment,$166.62,KS
+AdventHealth Shawnee Mission,Blood,HCPCS 85018,"Blood count, hemoglobin",$37.60,KS
+AdventHealth Shawnee Mission,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$16.70,KS
+AdventHealth Shawnee Mission,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$80.99,KS
+AdventHealth Shawnee Mission,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$69.33,KS
+AdventHealth Shawnee Mission,Blood,HCPCS 85610,"Blood test, clotting time",$0.52,KS
+AdventHealth Shawnee Mission,Blood,HCPCS 85730,Coagulation assessment blood test,$65.99,KS
+AdventHealth Shawnee Mission,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$62.93,KS
+AdventHealth Shawnee Mission,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$137.43,KS
+AdventHealth Shawnee Mission,Blood,HCPCS 85027,"Complete blood count, automated",$70.16,KS
+AdventHealth Shawnee Mission,Blood,HCPCS 85008,Microscopic examination for white blood cells,$4.00,KS
+AdventHealth Shawnee Mission,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$70.16,KS
+AdventHealth Shawnee Mission,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$190.88,KS
+AdventHealth Shawnee Mission,Blood,HCPCS 85660,Red blood cell sickling measurement,$75.15,KS
+AdventHealth Shawnee Mission,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$332.70,KS
+AdventHealth Shawnee Mission,Blood,HCPCS 85041,"Red blood count, automated test",$4.00,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$176.55,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$217.91,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82040,Albumin (protein) level,$80.99,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$100.80,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$87.09,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82140,Ammonia level,$82.15,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82150,Amylase (enzyme) level,$120.61,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$167.81,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$120.61,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 84439,Assay of free thyroxine,$73.99,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$121.19,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82248,Bilirubin level (Direct),$66.42,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82247,Bilirubin level (Total),$72.83,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82565,Blood creatinine level,$72.83,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$69.33,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$6.00,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 84295,Blood sodium level,$83.90,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$83.90,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$122.94,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82310,Calcium level,$69.33,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$69.33,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$93.81,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82465,Cholesterol level,$72.83,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82525,Copper level,$83.90,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82533,Cortisol Measurement,$161.98,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 84681,C-peptide (protein) level,$153.24,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$82.15,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$111.28,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$194.61,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$213.84,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$103.13,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82746,Folic acid; serum,$110.70,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$104.87,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$58.84,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$125.27,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$131.68,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$131.68,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$98.46,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 83718,HDL cholesterol level,$137.50,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 83020,Hemoglobin Measurement,$0.52,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$284.92,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$188.78,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 83520,IgE (immune system protein) level,$402.79,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 83525,Insulin Measurement; Total,$76.91,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82330,Ionized Calcium,$103.13,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 83550,Iron Binding Capacity,$0.52,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 83540,Iron level,$107.79,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$79.82,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 83721,LDL cholesterol level,$66.42,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$100.22,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$66.42,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$90.31,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 83021,Liver function blood test panel,$0.52,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 83735,Magnesium Level,$83.90,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82542,Mass spectrometry,$226.08,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$80.40,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$77.49,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 83918,Organic acid level,$486.53,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 83945,Oxalate level,$75.16,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 83970,Parathormone,$224.91,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$45.44,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 84157,Prealbumin (protein) level,$66.42,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$139.83,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$137.50,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$120.03,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS A9270,Selenium (vitamin) level,$46.42,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82270,Stool analysis for blood,$47.79,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 84403,Testosterone (hormone) level,$153.24,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 84402,Testosterone Level; Free,$161.98,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement",$48.94,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$315.81,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$72.83,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 84155,"Total protein level, blood",$123.36,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$44.46,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 84478,Triglycerides level,$97.30,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 84166,Troponin (protein) analysis,$51.84,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 84560,Uric acid level,$74.58,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 84550,"Uric acid level, blood",$74.58,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82340,Urine calcium level,$56.51,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82436,Urine chloride level,$64.91,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$60.01,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$55.35,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$72.83,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 84133,Urine potassium level,$60.01,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 84300,Urine sodium level,$57.68,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 84591,Vitamin B-6 level,$92.64,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$168.97,KS
+AdventHealth Shawnee Mission,Chemistry,HCPCS 84630,Zinc level,$127.60,KS
+AdventHealth Shawnee Mission,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$126.42,KS
+AdventHealth Shawnee Mission,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$130.09,KS
+AdventHealth Shawnee Mission,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$111.75,KS
+AdventHealth Shawnee Mission,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$122.92,KS
+AdventHealth Shawnee Mission,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$150.68,KS
+AdventHealth Shawnee Mission,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$170.32,KS
+AdventHealth Shawnee Mission,Immunology,HCPCS 86318,Covid-19 antibody test,$19.00,KS
+AdventHealth Shawnee Mission,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$198.34,KS
+AdventHealth Shawnee Mission,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$185.58,KS
+AdventHealth Shawnee Mission,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$168.92,KS
+AdventHealth Shawnee Mission,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$122.57,KS
+AdventHealth Shawnee Mission,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$198.34,KS
+AdventHealth Shawnee Mission,Immunology,HCPCS 86140,Measurement C-reactive protein,$74.46,KS
+AdventHealth Shawnee Mission,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$61.98,KS
+AdventHealth Shawnee Mission,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$114.20,KS
+AdventHealth Shawnee Mission,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$168.71,KS
+AdventHealth Shawnee Mission,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$133.23,KS
+AdventHealth Shawnee Mission,Immunology,HCPCS 86431,Rheumatoid factor level,$137.80,KS
+AdventHealth Shawnee Mission,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$189.55,KS
+AdventHealth Shawnee Mission,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$158.34,KS
+AdventHealth Shawnee Mission,Immunology,HCPCS 86580,Skin test for tuberculosis,$10.00,KS
+AdventHealth Shawnee Mission,Immunology,HCPCS 86592,Syphilis Detection Test,$106.98,KS
+AdventHealth Shawnee Mission,Immunology,HCPCS 86361,T cell count and ratio,$151.48,KS
+AdventHealth Shawnee Mission,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$286.24,KS
+AdventHealth Shawnee Mission,Immunology,HCPCS 86359,"T cells count, total",$261.93,KS
+AdventHealth Shawnee Mission,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$138.90,KS
+AdventHealth Shawnee Mission,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$34.67,KS
+AdventHealth Shawnee Mission,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$179.30,KS
+AdventHealth Shawnee Mission,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$107.79,KS
+AdventHealth Shawnee Mission,Microbiology,HCPCS 87491,Chlamydia Test,$232.92,KS
+AdventHealth Shawnee Mission,Microbiology,HCPCS 87635,Covid-19 current infection test,$52.00,KS
+AdventHealth Shawnee Mission,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$136.50,KS
+AdventHealth Shawnee Mission,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$68.08,KS
+AdventHealth Shawnee Mission,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$469.64,KS
+AdventHealth Shawnee Mission,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$106.17,KS
+AdventHealth Shawnee Mission,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$215.05,KS
+AdventHealth Shawnee Mission,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$232.92,KS
+AdventHealth Shawnee Mission,Microbiology,HCPCS 87517,Hepatitis B Detection,$478.31,KS
+AdventHealth Shawnee Mission,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$111.58,KS
+AdventHealth Shawnee Mission,Microbiology,HCPCS 87624,HPV Detection,$150.59,KS
+AdventHealth Shawnee Mission,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$105.63,KS
+AdventHealth Shawnee Mission,Microbiology,HCPCS 86735,Mumps virus antibody test,$120.37,KS
+AdventHealth Shawnee Mission,Microbiology,HCPCS 86747,Parvovirus antibody test,$106.71,KS
+AdventHealth Shawnee Mission,Microbiology,HCPCS 86762,Rubella virus antibody test,$142.33,KS
+AdventHealth Shawnee Mission,Microbiology,HCPCS 86765,Rubeola virus antibody test,$84.03,KS
+AdventHealth Shawnee Mission,Microbiology,HCPCS 87207,Smear for infectious agents,$78.00,KS
+AdventHealth Shawnee Mission,Microbiology,HCPCS 87177,Smear for Parasites,$52.54,KS
+AdventHealth Shawnee Mission,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$76.92,KS
+AdventHealth Shawnee Mission,Microbiology,HCPCS 87045,Stool Culture,$252.43,KS
+AdventHealth Shawnee Mission,Microbiology,HCPCS 87880,Streptoccus,$92.09,KS
+AdventHealth Shawnee Mission,Microbiology,HCPCS 87804,Test for Influenza Virus,$121.88,KS
+AdventHealth Shawnee Mission,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$119.75,KS
+AdventHealth Shawnee Mission,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$84.35,KS
+AdventHealth Shawnee Mission,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$620.09,KS
+AdventHealth Shawnee Mission,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$310.97,KS
+AdventHealth Shawnee Mission,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$107.77,KS
+AdventHealth Shawnee Mission,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$129.05,KS
+AdventHealth Shawnee Mission,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$158.57,KS
+AdventHealth Shawnee Mission,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$117.39,KS
+AdventHealth Shawnee Mission,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$100.22,KS
+AdventHealth Shawnee Mission,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$283.51,KS
+AdventHealth Shawnee Mission,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$174.70,KS
+AdventHealth Shawnee Mission,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$117.98,KS
+AdventHealth Shawnee Mission,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$165.05,KS
+AdventHealth Shawnee Mission,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$105.46,KS
+AdventHealth Shawnee Mission,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,"$1,701.79",KS
+AdventHealth Shawnee Mission,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$130.00,KS
+AdventHealth Shawnee Mission,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$88.78,KS
+AdventHealth Shawnee Mission,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$145.39,KS
+AdventHealth Shawnee Mission,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$140.02,KS
+AdventHealth Shawnee Mission,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$134.07,KS
+AdventHealth Shawnee Mission,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$128.11,KS
+AdventHealth Shawnee Mission,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$106.65,KS
+AdventHealth Shawnee Mission,Transfusion,HCPCS 86900,"Blood Typing, ABO",$57.56,KS
+AdventHealth Shawnee Mission,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$77.57,KS
+AdventHealth Shawnee Mission,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$293.65,KS
+AdventHealth Shawnee Mission,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$50.05,KS
+AdventHealth Shawnee Mission,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$103.09,KS
+AdventHealth Shawnee Mission,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$251.09,KS
+AdventHealth Shawnee Mission,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$85.92,KS
+AdventHealth Shawnee Mission,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$54.73,KS
+AdventHealth Shawnee Mission,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$59.34,KS
+AdventHealth Shawnee Mission,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$131.88,KS
+AdventHealth Shawnee Mission,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$109.45,KS
+AdventHealth Shawnee Mission,Cardiovascular,HCPCS 93015,"Cardiovascular stress test, with interpretation and report",$70.00,KS
+AdventHealth Shawnee Mission,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$983.17,KS
+AdventHealth Shawnee Mission,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$17.00,KS
+AdventHealth Shawnee Mission,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$320.68,KS
+AdventHealth Shawnee Mission,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$139.75,KS
+AdventHealth Shawnee Mission,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$0.54,KS
+AdventHealth Shawnee Mission,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$9.00,KS
+AdventHealth Shawnee Mission,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),$686.52,KS
+AdventHealth Shawnee Mission,Cardiovascular,HCPCS 93975,Ultrasound Heart,$571.48,KS
+AdventHealth Shawnee Mission,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$361.70,KS
+AdventHealth Shawnee Mission,Pulmonary,HCPCS 94640,Nebulizer Treatment,$124.55,KS
+AdventHealth Shawnee Mission,Pulmonary,HCPCS 94618,Pulmonary stress test,$34.00,KS
+AdventHealth Shawnee Mission,Pulmonary,HCPCS 94010,Spirometry - breathing test,$416.47,KS
+AdventHealth Shawnee Mission,Sleep,HCPCS 95810,Sleep study,"$4,871.93",KS
+AdventHealth Shawnee Mission,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$154.62,KS
+AdventHealth Shawnee Mission,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$242.69,KS
+AdventHealth Shawnee Mission,Breast,HCPCS 77067,Mammogram Screening,$242.69,KS
+AdventHealth Shawnee Mission,Breast,HCPCS 77066,Mammography of both breasts,$322.93,KS
+AdventHealth Shawnee Mission,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$2,399.57",KS
+AdventHealth Shawnee Mission,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,931.45",KS
+AdventHealth Shawnee Mission,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,993.31",KS
+AdventHealth Shawnee Mission,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,317.58",KS
+AdventHealth Shawnee Mission,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,970.57",KS
+AdventHealth Shawnee Mission,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$3,599.62",KS
+AdventHealth Shawnee Mission,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,866.10",KS
+AdventHealth Shawnee Mission,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$2,112.34",KS
+AdventHealth Shawnee Mission,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$2,877.69",KS
+AdventHealth Shawnee Mission,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,887.26",KS
+AdventHealth Shawnee Mission,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,716.08",KS
+AdventHealth Shawnee Mission,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,603.60",KS
+AdventHealth Shawnee Mission,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$2,110.90",KS
+AdventHealth Shawnee Mission,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,109.49",KS
+AdventHealth Shawnee Mission,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,925.05",KS
+AdventHealth Shawnee Mission,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,925.05",KS
+AdventHealth Shawnee Mission,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,886.60",KS
+AdventHealth Shawnee Mission,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,750.05",KS
+AdventHealth Shawnee Mission,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$2,624.18",KS
+AdventHealth Shawnee Mission,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,886.60",KS
+AdventHealth Shawnee Mission,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,629.99",KS
+AdventHealth Shawnee Mission,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,343.53",KS
+AdventHealth Shawnee Mission,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,562.35",KS
+AdventHealth Shawnee Mission,MRI,HCPCS 73721,MRI scan of leg joint,"$2,887.59",KS
+AdventHealth Shawnee Mission,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$716.16,KS
+AdventHealth Shawnee Mission,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$662.23,KS
+AdventHealth Shawnee Mission,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$771.67,KS
+AdventHealth Shawnee Mission,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$958.06,KS
+AdventHealth Shawnee Mission,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$857.71,KS
+AdventHealth Shawnee Mission,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$958.06,KS
+AdventHealth Shawnee Mission,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$464.10,KS
+AdventHealth Shawnee Mission,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$376.71,KS
+AdventHealth Shawnee Mission,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$770.88,KS
+AdventHealth Shawnee Mission,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$720.13,KS
+AdventHealth Shawnee Mission,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,"$1,801.11",KS
+AdventHealth Shawnee Mission,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$739.02,KS
+AdventHealth Shawnee Mission,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$263.93,KS
+AdventHealth Shawnee Mission,Chest,HCPCS 71046,X-ray of chest; 2 Views,$456.21,KS
+AdventHealth Shawnee Mission,Chest,HCPCS 71045,X-ray of chest; Single View,$348.13,KS
+AdventHealth Shawnee Mission,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$442.25,KS
+AdventHealth Shawnee Mission,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$593.53,KS
+AdventHealth Shawnee Mission,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$424.87,KS
+AdventHealth Shawnee Mission,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$362.42,KS
+AdventHealth Shawnee Mission,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$506.63,KS
+AdventHealth Shawnee Mission,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$225.46,KS
+AdventHealth Shawnee Mission,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$400.41,KS
+AdventHealth Shawnee Mission,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$643.10,KS
+AdventHealth Shawnee Mission,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$51.00,KS
+AdventHealth Shawnee Mission,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$453.90,KS
+AdventHealth Shawnee Mission,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$316.72,KS
+AdventHealth Shawnee Mission,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$302.56,KS
+AdventHealth Shawnee Mission,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$178.96,KS
+AdventHealth Shawnee Mission,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$196.98,KS
+AdventHealth Shawnee Mission,Lower Limbs,HCPCS 73565,X-ray Both Knees,$243.33,KS
+AdventHealth Shawnee Mission,Lower Limbs,HCPCS 73630,X-ray exam of foot,$460.92,KS
+AdventHealth Shawnee Mission,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$460.92,KS
+AdventHealth Shawnee Mission,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$520.79,KS
+AdventHealth Shawnee Mission,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$375.94,KS
+AdventHealth Shawnee Mission,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$348.26,KS
+AdventHealth Shawnee Mission,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$442.25,KS
+AdventHealth Shawnee Mission,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$581.94,KS
+AdventHealth Shawnee Mission,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$424.87,KS
+AdventHealth Shawnee Mission,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$675.93,KS
+AdventHealth Shawnee Mission,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$325.09,KS
+AdventHealth Shawnee Mission,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$377.23,KS
+AdventHealth Shawnee Mission,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$783.44,KS
+AdventHealth Shawnee Mission,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$437.46,KS
+AdventHealth Shawnee Mission,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$290.33,KS
+AdventHealth Shawnee Mission,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$177.67,KS
+AdventHealth Shawnee Mission,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$442.25,KS
+AdventHealth Shawnee Mission,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$430.02,KS
+AdventHealth Shawnee Mission,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$437.10,KS
+AdventHealth Shawnee Mission,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$261.36,KS
+AdventHealth Shawnee Mission,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$435.81,KS
+AdventHealth Shawnee Mission,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,$384.00,KS
+AdventHealth Shawnee Mission,Abdomenal,HCPCS 47562,Cholecystectomy,$711.00,KS
+AdventHealth Shawnee Mission,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,$774.00,KS
+AdventHealth Shawnee Mission,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,$411.00,KS
+AdventHealth Shawnee Mission,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,$435.00,KS
+AdventHealth Shawnee Mission,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,$210.00,KS
+AdventHealth Shawnee Mission,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),$560.00,KS
+AdventHealth Shawnee Mission,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$199.86,KS
+AdventHealth Shawnee Mission,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$46.00,KS
+AdventHealth Shawnee Mission,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,"$1,673.00",KS
+AdventHealth Shawnee Mission,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),$647.00,KS
+AdventHealth Shawnee Mission,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,$762.00,KS
+AdventHealth Shawnee Mission,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,$461.00,KS
+AdventHealth Shawnee Mission,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,$914.00,KS
+AdventHealth Shawnee Mission,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$1,004.00",KS
+AdventHealth Shawnee Mission,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$8,287.85",KS
+AdventHealth Shawnee Mission,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),$631.00,KS
+AdventHealth Shawnee Mission,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),$477.00,KS
+AdventHealth Shawnee Mission,Breast,HCPCS 19101,Biopsy of breast,$345.00,KS
+AdventHealth Shawnee Mission,Breast,HCPCS 19325,Breast enlargement using prosthetic implant,$675.00,KS
+AdventHealth Shawnee Mission,Breast,HCPCS 19125,Excision of breast lesion,$584.00,KS
+AdventHealth Shawnee Mission,Breast,HCPCS 19120,Excision of cyst of breast,$527.00,KS
+AdventHealth Shawnee Mission,Breast,HCPCS 19301,Partial removal of breast,$705.00,KS
+AdventHealth Shawnee Mission,Breast,HCPCS 19318,Reduction mammaplasty,"$1,153.00",KS
+AdventHealth Shawnee Mission,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$1,291.00",KS
+AdventHealth Shawnee Mission,Breast,HCPCS 19303,Total removal of breast,"$1,030.00",KS
+AdventHealth Shawnee Mission,Cardiac,HCPCS 33249,Defibrillator complete system,"$15,288.26",KS
+AdventHealth Shawnee Mission,Cardiac,HCPCS 33240,Defibrillator generator,"$29,357.04",KS
+AdventHealth Shawnee Mission,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$9,253.77",KS
+AdventHealth Shawnee Mission,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$3,843.32",KS
+AdventHealth Shawnee Mission,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$132.59,KS
+AdventHealth Shawnee Mission,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$13,165.03",KS
+AdventHealth Shawnee Mission,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",$333.00,KS
+AdventHealth Shawnee Mission,Digestive,HCPCS 45380,"Colonoscopy, with biopsy",$426.00,KS
+AdventHealth Shawnee Mission,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal",$477.00,KS
+AdventHealth Shawnee Mission,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)",$448.00,KS
+AdventHealth Shawnee Mission,Digestive,HCPCS 43235,EGD,$280.00,KS
+AdventHealth Shawnee Mission,Digestive,HCPCS 43239,EGD and biopsy,$371.00,KS
+AdventHealth Shawnee Mission,Digestive,HCPCS 43775,Gastric Sleeve (Outpatient),"$1,220.00",KS
+AdventHealth Shawnee Mission,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,$531.00,KS
+AdventHealth Shawnee Mission,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,$504.00,KS
+AdventHealth Shawnee Mission,Digestive,HCPCS 45391,Ultrasound of lower large bowel using an endoscope,$269.00,KS
+AdventHealth Shawnee Mission,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,$918.00,KS
+AdventHealth Shawnee Mission,General,HCPCS 55700,Biopsy of prostate gland,"$1,445.81",KS
+AdventHealth Shawnee Mission,General,HCPCS 10060,Drainage of Abscess,$402.89,KS
+AdventHealth Shawnee Mission,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$402.89,KS
+AdventHealth Shawnee Mission,General,HCPCS 55866,Prostatectomy,"$1,512.00",KS
+AdventHealth Shawnee Mission,General,HCPCS 69200,Removal of foreign body from ear canal,$82.00,KS
+AdventHealth Shawnee Mission,General,HCPCS 60240,Removal of thyroid,$975.00,KS
+AdventHealth Shawnee Mission,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$114.00,KS
+AdventHealth Shawnee Mission,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$176.00,KS
+AdventHealth Shawnee Mission,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$113.00,KS
+AdventHealth Shawnee Mission,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$619.41,KS
+AdventHealth Shawnee Mission,Head,HCPCS 69436,Create eardrum opening,$161.00,KS
+AdventHealth Shawnee Mission,Head,HCPCS 69930,Implantation of cochlear device,"$1,251.00",KS
+AdventHealth Shawnee Mission,Head,HCPCS 67028,Injection of drug into the eye,$102.00,KS
+AdventHealth Shawnee Mission,Head,HCPCS 69631,Repair of eardrum,$893.00,KS
+AdventHealth Shawnee Mission,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),$259.00,KS
+AdventHealth Shawnee Mission,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),$298.00,KS
+AdventHealth Shawnee Mission,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$291.00,KS
+AdventHealth Shawnee Mission,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$1,155.00",KS
+AdventHealth Shawnee Mission,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$1,155.00",KS
+AdventHealth Shawnee Mission,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$999.30,KS
+AdventHealth Shawnee Mission,Musculoskeletal,HCPCS 27200,Insertion of Breathing Tube Using an Endoscope,$194.00,KS
+AdventHealth Shawnee Mission,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$1,091.80",KS
+AdventHealth Shawnee Mission,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,$565.00,KS
+AdventHealth Shawnee Mission,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,$650.00,KS
+AdventHealth Shawnee Mission,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,$947.78,KS
+AdventHealth Shawnee Mission,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,$705.00,KS
+AdventHealth Shawnee Mission,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,$186.00,KS
+AdventHealth Shawnee Mission,Musculoskeletal,HCPCS 22612,Spine arthrodesis,"$1,706.00",KS
+AdventHealth Shawnee Mission,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$211.75,KS
+AdventHealth Shawnee Mission,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,$945.00,KS
+AdventHealth Shawnee Mission,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$1,369.00",KS
+AdventHealth Shawnee Mission,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,$754.00,KS
+AdventHealth Shawnee Mission,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,$690.00,KS
+AdventHealth Shawnee Mission,Obstetrics,HCPCS 58545,Removal of uterine fibroid tumors using an endoscope,$953.00,KS
+AdventHealth Shawnee Mission,Obstetrics,HCPCS 59400,Routine obstetric care,"$2,296.00",KS
+AdventHealth Shawnee Mission,Obstetrics,HCPCS 59510,"Routine obstetric care for cesarean delivery, including pre-and postdelivery care","$2,539.00",KS
+AdventHealth Shawnee Mission,Obstetrics,HCPCS 59610,Routine obstetric care for vaginal delivery after prior cesarean delivery including pre-and post-delivery care,"$2,410.00",KS
+AdventHealth Shawnee Mission,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries",$981.00,KS
+AdventHealth Shawnee Mission,Ocular,HCPCS 66984,Cataract removal,$547.00,KS
+AdventHealth Shawnee Mission,Ocular,HCPCS 66982,Cataract removal with insertion of lens,$751.00,KS
+AdventHealth Shawnee Mission,Ocular,HCPCS 66821,Laser cataract removal,$330.00,KS
+AdventHealth Shawnee Mission,Ocular,HCPCS 67311,Realignment of the eye with repair of eye muscle,$597.00,KS
+AdventHealth Shawnee Mission,Ocular,HCPCS 65426,Removal or relocation of corneal conjunctiva,$659.00,KS
+AdventHealth Shawnee Mission,Ocular,HCPCS 67108,Repair of detached retina,"$1,201.00",KS
+AdventHealth Shawnee Mission,Ocular,HCPCS 65756,Transplant of outer layer of corneal tissue,"$1,186.00",KS
+AdventHealth Shawnee Mission,Soft Tissue,HCPCS 97597,Debridement of open wound,$191.13,KS
+AdventHealth Shawnee Mission,Soft Tissue,HCPCS 97602,Non-selective debridement,$191.13,KS
+AdventHealth Shawnee Mission,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$95.89,KS
+AdventHealth Shawnee Mission,Vascular,HCPCS 36416,Collection of capillary blood specimen,$25.45,KS
+AdventHealth Shawnee Mission,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),$214.00,KS
+AdventHealth Shawnee Mission,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$823.23,KS
+AdventHealth Shawnee Mission,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,$397.34,KS

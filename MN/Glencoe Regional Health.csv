@@ -1,0 +1,144 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Glencoe Regional Health,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$2,038.58",MN
+Glencoe Regional Health,Emergency Care,HCPCS 99281,Emergency Level 1,$209.88,MN
+Glencoe Regional Health,Emergency Care,HCPCS 99282,Emergency Level 2,$309.47,MN
+Glencoe Regional Health,Emergency Care,HCPCS 99283,Emergency Level 3,$498.16,MN
+Glencoe Regional Health,Emergency Care,HCPCS 99284,Emergency Level 4,$719.01,MN
+Glencoe Regional Health,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,030.08",MN
+Glencoe Regional Health,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$455.00,MN
+Glencoe Regional Health,Blood,HCPCS 85018,"Blood count, hemoglobin",$82.03,MN
+Glencoe Regional Health,Blood,HCPCS 85610,"Blood test, clotting time",$87.94,MN
+Glencoe Regional Health,Blood,HCPCS 85730,Coagulation assessment blood test,$63.39,MN
+Glencoe Regional Health,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$68.25,MN
+Glencoe Regional Health,Blood,HCPCS 85027,"Complete blood count, automated",$42.16,MN
+Glencoe Regional Health,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$1,038.39",MN
+Glencoe Regional Health,Chemistry,HCPCS 82040,Albumin (protein) level,$52.23,MN
+Glencoe Regional Health,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$138.35,MN
+Glencoe Regional Health,Chemistry,HCPCS 82140,Ammonia level,$68.39,MN
+Glencoe Regional Health,Chemistry,HCPCS 82150,Amylase (enzyme) level,$68.39,MN
+Glencoe Regional Health,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$204.20,MN
+Glencoe Regional Health,Chemistry,HCPCS 84439,Assay of free thyroxine,$177.34,MN
+Glencoe Regional Health,Chemistry,HCPCS 82248,Bilirubin level (Direct),$34.32,MN
+Glencoe Regional Health,Chemistry,HCPCS 82247,Bilirubin level (Total),$52.94,MN
+Glencoe Regional Health,Chemistry,HCPCS 82565,Blood creatinine level,$54.09,MN
+Glencoe Regional Health,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$50.08,MN
+Glencoe Regional Health,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$33.47,MN
+Glencoe Regional Health,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$54.63,MN
+Glencoe Regional Health,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$121.87,MN
+Glencoe Regional Health,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$198.35,MN
+Glencoe Regional Health,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$121.64,MN
+Glencoe Regional Health,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$262.56,MN
+Glencoe Regional Health,Chemistry,HCPCS 82746,Folic acid; serum,$98.18,MN
+Glencoe Regional Health,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$98.18,MN
+Glencoe Regional Health,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$196.12,MN
+Glencoe Regional Health,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$77.33,MN
+Glencoe Regional Health,Chemistry,HCPCS 82330,Ionized Calcium,$51.55,MN
+Glencoe Regional Health,Chemistry,HCPCS 83540,Iron level,$92.25,MN
+Glencoe Regional Health,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$63.70,MN
+Glencoe Regional Health,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$100.71,MN
+Glencoe Regional Health,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$55.94,MN
+Glencoe Regional Health,Chemistry,HCPCS 83735,Magnesium Level,$136.33,MN
+Glencoe Regional Health,Chemistry,HCPCS 83970,Parathormone,$37.78,MN
+Glencoe Regional Health,Chemistry,HCPCS 84157,Prealbumin (protein) level,$38.70,MN
+Glencoe Regional Health,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$122.79,MN
+Glencoe Regional Health,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$194.12,MN
+Glencoe Regional Health,Chemistry,HCPCS 82270,Stool analysis for blood,$34.32,MN
+Glencoe Regional Health,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$38.70,MN
+Glencoe Regional Health,Chemistry,HCPCS 84550,"Uric acid level, blood",$84.83,MN
+Glencoe Regional Health,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$84.83,MN
+Glencoe Regional Health,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$370.38,MN
+Glencoe Regional Health,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$182.62,MN
+Glencoe Regional Health,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$153.11,MN
+Glencoe Regional Health,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$54.63,MN
+Glencoe Regional Health,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$124.26,MN
+Glencoe Regional Health,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$130.71,MN
+Glencoe Regional Health,Immunology,HCPCS 86140,Measurement C-reactive protein,$126.64,MN
+Glencoe Regional Health,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$118.79,MN
+Glencoe Regional Health,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$59.86,MN
+Glencoe Regional Health,Immunology,HCPCS 86431,Rheumatoid factor level,$45.09,MN
+Glencoe Regional Health,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$127.17,MN
+Glencoe Regional Health,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$91.08,MN
+Glencoe Regional Health,Immunology,HCPCS 86592,Syphilis Detection Test,$45.09,MN
+Glencoe Regional Health,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$62.09,MN
+Glencoe Regional Health,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$66.86,MN
+Glencoe Regional Health,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$85.40,MN
+Glencoe Regional Health,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$126.48,MN
+Glencoe Regional Health,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$127.17,MN
+Glencoe Regional Health,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$202.37,MN
+Glencoe Regional Health,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$137.73,MN
+Glencoe Regional Health,Microbiology,HCPCS 86762,Rubella virus antibody test,$135.95,MN
+Glencoe Regional Health,Microbiology,HCPCS 87177,Smear for Parasites,$143.04,MN
+Glencoe Regional Health,Microbiology,HCPCS 87880,Streptoccus,$126.48,MN
+Glencoe Regional Health,Microbiology,HCPCS 87804,Test for Influenza Virus,"$1,632.84",MN
+Glencoe Regional Health,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$135.95,MN
+Glencoe Regional Health,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$898.09,MN
+Glencoe Regional Health,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$219.66,MN
+Glencoe Regional Health,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$141.33,MN
+Glencoe Regional Health,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$91.64,MN
+Glencoe Regional Health,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$502.71,MN
+Glencoe Regional Health,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$84.83,MN
+Glencoe Regional Health,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$68.32,MN
+Glencoe Regional Health,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$425.34,MN
+Glencoe Regional Health,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$125.80,MN
+Glencoe Regional Health,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$120.87,MN
+Glencoe Regional Health,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$84.83,MN
+Glencoe Regional Health,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$170.42,MN
+Glencoe Regional Health,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$29.18,MN
+Glencoe Regional Health,Transfusion,HCPCS 86900,"Blood Typing, ABO",$31.55,MN
+Glencoe Regional Health,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$31.55,MN
+Glencoe Regional Health,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$56.85,MN
+Glencoe Regional Health,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$32.17,MN
+Glencoe Regional Health,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$23.70,MN
+Glencoe Regional Health,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$80.63,MN
+Glencoe Regional Health,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$101.31,MN
+Glencoe Regional Health,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$234.14,MN
+Glencoe Regional Health,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$522.14,MN
+Glencoe Regional Health,Pulmonary,HCPCS 94640,Aerosol Treatment,$64.57,MN
+Glencoe Regional Health,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$240.15,MN
+Glencoe Regional Health,Sleep,HCPCS 95810,Sleep study,"$3,436.03",MN
+Glencoe Regional Health,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$143.28,MN
+Glencoe Regional Health,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$306.80,MN
+Glencoe Regional Health,Breast,HCPCS 77067,Mammogram Screening,$326.51,MN
+Glencoe Regional Health,Breast,HCPCS 77066,Mammography of both breasts,$362.16,MN
+Glencoe Regional Health,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$3,743.69",MN
+Glencoe Regional Health,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,152.37",MN
+Glencoe Regional Health,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,210.71",MN
+Glencoe Regional Health,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$2,837.57",MN
+Glencoe Regional Health,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,759.81",MN
+Glencoe Regional Health,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,404.56",MN
+Glencoe Regional Health,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,825.14",MN
+Glencoe Regional Health,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,412.91",MN
+Glencoe Regional Health,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$3,300.32",MN
+Glencoe Regional Health,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$2,242.55",MN
+Glencoe Regional Health,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$3,592.02",MN
+Glencoe Regional Health,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,626.86",MN
+Glencoe Regional Health,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,530.30",MN
+Glencoe Regional Health,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,$200.41,MN
+Glencoe Regional Health,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,573.06",MN
+Glencoe Regional Health,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$2,903.69",MN
+Glencoe Regional Health,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$3,428.63",MN
+Glencoe Regional Health,MRI,HCPCS 70553,MRI scan of brain before and after contrast,$91.32,MN
+Glencoe Regional Health,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,518.69",MN
+Glencoe Regional Health,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$383.14,MN
+Glencoe Regional Health,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$673.84,MN
+Glencoe Regional Health,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$539.91,MN
+Glencoe Regional Health,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$156.06,MN
+Glencoe Regional Health,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$546.14,MN
+Glencoe Regional Health,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$546.14,MN
+Glencoe Regional Health,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$203.49,MN
+Glencoe Regional Health,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$667.61,MN
+Glencoe Regional Health,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$773.55,MN
+Glencoe Regional Health,Chest,HCPCS 71046,X-ray of chest; 2 Views,$215.61,MN
+Glencoe Regional Health,Chest,HCPCS 71045,X-ray of chest; Single View,$91.32,MN
+Glencoe Regional Health,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$181.69,MN
+Glencoe Regional Health,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$91.32,MN
+Glencoe Regional Health,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$200.41,MN
+Glencoe Regional Health,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$253.38,MN
+Glencoe Regional Health,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$206.64,MN
+Glencoe Regional Health,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$256.45,MN
+Glencoe Regional Health,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$68.55,MN
+Glencoe Regional Health,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$438.58,MN
+Glencoe Regional Health,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$337.67,MN
+Glencoe Regional Health,Soft Tissue,HCPCS 97597,Debridement of open wound,$353.95,MN
+Glencoe Regional Health,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$93.47,MN
+Glencoe Regional Health,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$302.59,MN

@@ -1,0 +1,251 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Alaska Regional Hospital,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$6,692.33",AK
+Alaska Regional Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$6,692.33",AK
+Alaska Regional Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$498.83,AK
+Alaska Regional Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$791.89,AK
+Alaska Regional Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$1,755.00",AK
+Alaska Regional Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$3,714.12",AK
+Alaska Regional Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$6,381.18",AK
+Alaska Regional Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$754.40,AK
+Alaska Regional Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$958.80,AK
+Alaska Regional Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$600.00,AK
+Alaska Regional Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$65.35,AK
+Alaska Regional Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$65.35,AK
+Alaska Regional Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$85.60,AK
+Alaska Regional Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$247.61,AK
+Alaska Regional Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$133.36,AK
+Alaska Regional Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$166.61,AK
+Alaska Regional Hospital,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$562.50,AK
+Alaska Regional Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$130.32,AK
+Alaska Regional Hospital,Blood,HCPCS 85008,Microscopic examination for white blood cells,$76.43,AK
+Alaska Regional Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$295.38,AK
+Alaska Regional Hospital,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$46.31,AK
+Alaska Regional Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$197.56,AK
+Alaska Regional Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$1,316.10",AK
+Alaska Regional Hospital,Blood,HCPCS 85041,"Red blood count, automated test",$13.23,AK
+Alaska Regional Hospital,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$72.76,AK
+Alaska Regional Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$79.38,AK
+Alaska Regional Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$39.69,AK
+Alaska Regional Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$26.46,AK
+Alaska Regional Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$33.07,AK
+Alaska Regional Hospital,Chemistry,HCPCS 82140,Ammonia level,$197.56,AK
+Alaska Regional Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$115.02,AK
+Alaska Regional Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$202.53,AK
+Alaska Regional Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$671.02,AK
+Alaska Regional Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$146.35,AK
+Alaska Regional Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$33.07,AK
+Alaska Regional Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$166.61,AK
+Alaska Regional Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$83.31,AK
+Alaska Regional Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$72.10,AK
+Alaska Regional Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$83.31,AK
+Alaska Regional Hospital,Chemistry,HCPCS 84295,Blood sodium level,$42.80,AK
+Alaska Regional Hospital,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$74.14,AK
+Alaska Regional Hospital,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$42.80,AK
+Alaska Regional Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$214.77,AK
+Alaska Regional Hospital,Chemistry,HCPCS 82310,Calcium level,$74.14,AK
+Alaska Regional Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$42.80,AK
+Alaska Regional Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$39.69,AK
+Alaska Regional Hospital,Chemistry,HCPCS 82465,Cholesterol level,$51.60,AK
+Alaska Regional Hospital,Chemistry,HCPCS 82525,Copper level,$85.19,AK
+Alaska Regional Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$286.60,AK
+Alaska Regional Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$39.69,AK
+Alaska Regional Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$195.64,AK
+Alaska Regional Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$92.87,AK
+Alaska Regional Hospital,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$291.93,AK
+Alaska Regional Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$92.60,AK
+Alaska Regional Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$243.80,AK
+Alaska Regional Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$74.14,AK
+Alaska Regional Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$81.02,AK
+Alaska Regional Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$133.36,AK
+Alaska Regional Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$231.57,AK
+Alaska Regional Hospital,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$305.70,AK
+Alaska Regional Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$238.45,AK
+Alaska Regional Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$132.29,AK
+Alaska Regional Hospital,Chemistry,HCPCS 83718,HDL cholesterol level,$90.17,AK
+Alaska Regional Hospital,Chemistry,HCPCS 83020,Hemoglobin Measurement,$538.34,AK
+Alaska Regional Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$594.60,AK
+Alaska Regional Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$367.23,AK
+Alaska Regional Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$440.22,AK
+Alaska Regional Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$26.46,AK
+Alaska Regional Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$441.73,AK
+Alaska Regional Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$171.18,AK
+Alaska Regional Hospital,Chemistry,HCPCS 83540,Iron level,$171.18,AK
+Alaska Regional Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$99.35,AK
+Alaska Regional Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$30.58,AK
+Alaska Regional Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$81.02,AK
+Alaska Regional Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$92.60,AK
+Alaska Regional Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$33.07,AK
+Alaska Regional Hospital,Chemistry,HCPCS 83735,Magnesium Level,$139.86,AK
+Alaska Regional Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$132.29,AK
+Alaska Regional Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$132.29,AK
+Alaska Regional Hospital,Chemistry,HCPCS 83918,Organic acid level,"$1,820.47",AK
+Alaska Regional Hospital,Chemistry,HCPCS 83945,Oxalate level,$72.23,AK
+Alaska Regional Hospital,Chemistry,HCPCS 83970,Parathormone,$376.38,AK
+Alaska Regional Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$30.58,AK
+Alaska Regional Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$829.98,AK
+Alaska Regional Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$305.70,AK
+Alaska Regional Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$26.46,AK
+Alaska Regional Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$224.69,AK
+Alaska Regional Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$52.92,AK
+Alaska Regional Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$46.31,AK
+Alaska Regional Hospital,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$146.35,AK
+Alaska Regional Hospital,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$92.60,AK
+Alaska Regional Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$155.52,AK
+Alaska Regional Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$83.31,AK
+Alaska Regional Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$153.24,AK
+Alaska Regional Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$26.46,AK
+Alaska Regional Hospital,Chemistry,HCPCS 84560,Uric acid level,$27.14,AK
+Alaska Regional Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$121.52,AK
+Alaska Regional Hospital,Chemistry,HCPCS 82340,Urine calcium level,$192.60,AK
+Alaska Regional Hospital,Chemistry,HCPCS 82436,Urine chloride level,$47.39,AK
+Alaska Regional Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$188.79,AK
+Alaska Regional Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$94.39,AK
+Alaska Regional Hospital,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$33.07,AK
+Alaska Regional Hospital,Chemistry,HCPCS 84133,Urine potassium level,$42.80,AK
+Alaska Regional Hospital,Chemistry,HCPCS 84300,Urine sodium level,$42.80,AK
+Alaska Regional Hospital,Chemistry,HCPCS 84591,Vitamin B-6 level,$119.06,AK
+Alaska Regional Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$254.50,AK
+Alaska Regional Hospital,Chemistry,HCPCS 84630,Zinc level,$39.69,AK
+Alaska Regional Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$33.07,AK
+Alaska Regional Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$26.46,AK
+Alaska Regional Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$90.17,AK
+Alaska Regional Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$47.63,AK
+Alaska Regional Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$243.80,AK
+Alaska Regional Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$26.46,AK
+Alaska Regional Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$391.29,AK
+Alaska Regional Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$49.08,AK
+Alaska Regional Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$49.29,AK
+Alaska Regional Hospital,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$64.82,AK
+Alaska Regional Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$122.66,AK
+Alaska Regional Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$111.96,AK
+Alaska Regional Hospital,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$92.87,AK
+Alaska Regional Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$164.32,AK
+Alaska Regional Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$26.46,AK
+Alaska Regional Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$26.46,AK
+Alaska Regional Hospital,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$294.49,AK
+Alaska Regional Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$166.61,AK
+Alaska Regional Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$26.46,AK
+Alaska Regional Hospital,Immunology,HCPCS 86361,T cell count and ratio,$72.76,AK
+Alaska Regional Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$85.99,AK
+Alaska Regional Hospital,Immunology,HCPCS 86359,"T cells count, total",$71.52,AK
+Alaska Regional Hospital,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$33.07,AK
+Alaska Regional Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$162.40,AK
+Alaska Regional Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$846.80,AK
+Alaska Regional Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$194.13,AK
+Alaska Regional Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$67.31,AK
+Alaska Regional Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$56.10,AK
+Alaska Regional Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$117.94,AK
+Alaska Regional Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$59.53,AK
+Alaska Regional Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$231.51,AK
+Alaska Regional Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$346.60,AK
+Alaska Regional Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$218.28,AK
+Alaska Regional Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$67.31,AK
+Alaska Regional Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$235.38,AK
+Alaska Regional Hospital,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$99.22,AK
+Alaska Regional Hospital,Microbiology,HCPCS 87624,HPV Detection,$382.13,AK
+Alaska Regional Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$78.54,AK
+Alaska Regional Hospital,Microbiology,HCPCS 86747,Parvovirus antibody test,$223.17,AK
+Alaska Regional Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$26.46,AK
+Alaska Regional Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$47.67,AK
+Alaska Regional Hospital,Microbiology,HCPCS 87207,Smear for infectious agents,$74.14,AK
+Alaska Regional Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$171.99,AK
+Alaska Regional Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$81.02,AK
+Alaska Regional Hospital,Microbiology,HCPCS 87045,Stool Culture,$297.31,AK
+Alaska Regional Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$103.94,AK
+Alaska Regional Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$127.61,AK
+Alaska Regional Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$26.46,AK
+Alaska Regional Hospital,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$178.60,AK
+Alaska Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$852.91,AK
+Alaska Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$178.46,AK
+Alaska Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$214.77,AK
+Alaska Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$74.89,AK
+Alaska Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$267.87,AK
+Alaska Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$164.32,AK
+Alaska Regional Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$58.36,AK
+Alaska Regional Hospital,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$233.86,AK
+Alaska Regional Hospital,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$192.60,AK
+Alaska Regional Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$309.14,AK
+Alaska Regional Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$886.53,AK
+Alaska Regional Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$33.07,AK
+Alaska Regional Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$164.32,AK
+Alaska Regional Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$202.53,AK
+Alaska Regional Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$223.17,AK
+Alaska Regional Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$130.32,AK
+Alaska Regional Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$111.96,AK
+Alaska Regional Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$846.80,AK
+Alaska Regional Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$83.31,AK
+Alaska Regional Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$49.68,AK
+Alaska Regional Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$69.94,AK
+Alaska Regional Hospital,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$245.34,AK
+Alaska Regional Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$217.82,AK
+Alaska Regional Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$309.14,AK
+Alaska Regional Hospital,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$67.26,AK
+Alaska Regional Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$83.31,AK
+Alaska Regional Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$160.51,AK
+Alaska Regional Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$171.18,AK
+Alaska Regional Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$2,264.14",AK
+Alaska Regional Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$1,030.38",AK
+Alaska Regional Hospital,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$158.45,AK
+Alaska Regional Hospital,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$1,515.41",AK
+Alaska Regional Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$2,044.45",AK
+Alaska Regional Hospital,Pulmonary,HCPCS 94729,CO Diffusion Capacity,$639.28,AK
+Alaska Regional Hospital,Pulmonary,HCPCS 94640,Nebulizer Treatment,$339.09,AK
+Alaska Regional Hospital,Pulmonary,HCPCS 94618,Pulmonary stress test,$409.57,AK
+Alaska Regional Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$770.23,AK
+Alaska Regional Hospital,Sleep,HCPCS 95810,Sleep study,"$7,228.07",AK
+Alaska Regional Hospital,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$75.89,AK
+Alaska Regional Hospital,Breast,HCPCS 77067,Mammogram Screening,$729.51,AK
+Alaska Regional Hospital,Breast,HCPCS 77066,Mammography of both breasts,$729.51,AK
+Alaska Regional Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$2,225.92",AK
+Alaska Regional Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$3,377.15",AK
+Alaska Regional Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,282.93",AK
+Alaska Regional Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$3,728.98",AK
+Alaska Regional Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$8,790.29",AK
+Alaska Regional Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$7,597.83",AK
+Alaska Regional Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$6,754.28",AK
+Alaska Regional Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$3,799.66",AK
+Alaska Regional Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$4,394.41",AK
+Alaska Regional Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,011.65",AK
+Alaska Regional Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$3,655.38",AK
+Alaska Regional Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$3,799.66",AK
+Alaska Regional Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$3,890.92",AK
+Alaska Regional Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$5,750.48",AK
+Alaska Regional Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$5,986.68",AK
+Alaska Regional Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$5,821.92",AK
+Alaska Regional Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$3,755.88",AK
+Alaska Regional Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$5,661.54",AK
+Alaska Regional Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$3,633.40",AK
+Alaska Regional Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$5,193.50",AK
+Alaska Regional Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$8,026.20",AK
+Alaska Regional Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,966.17",AK
+Alaska Regional Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$1,156.12",AK
+Alaska Regional Hospital,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,"$1,410.48",AK
+Alaska Regional Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,310.28",AK
+Alaska Regional Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,166.92",AK
+Alaska Regional Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$1,700.29",AK
+Alaska Regional Hospital,Ultrasound,HCPCS 76881,Ultrasound Joint Soft Tissue - Complete,$496.37,AK
+Alaska Regional Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,535.35",AK
+Alaska Regional Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,086.75",AK
+Alaska Regional Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$992.72,AK
+Alaska Regional Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,156.12",AK
+Alaska Regional Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$681.34,AK
+Alaska Regional Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views","$1,335.33",AK
+Alaska Regional Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$789.79,AK
+Alaska Regional Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$689.89,AK
+Alaska Regional Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views","$1,135.52",AK
+Alaska Regional Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$783.46,AK
+Alaska Regional Hospital,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,"$1,395.61",AK
+Alaska Regional Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views","$1,256.04",AK
+Alaska Regional Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,"$1,019.73",AK
+Alaska Regional Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$404.42,AK
+Alaska Regional Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views","$1,175.17",AK
+Alaska Regional Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$659.75,AK
+Alaska Regional Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$772.34,AK
+Alaska Regional Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$791.37,AK
+Alaska Regional Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,700.11",AK
+Alaska Regional Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$737.46,AK
+Alaska Regional Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views","$1,539.93",AK
+Alaska Regional Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$986.45,AK
+Alaska Regional Hospital,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers","$1,175.46",AK
+Alaska Regional Hospital,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$263.26,AK
+Alaska Regional Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$2,270.22",AK

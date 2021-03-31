@@ -1,0 +1,256 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+USA Health Children's & Women's Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes",$805.15,AL
+USA Health Children's & Women's Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$342.72,AL
+USA Health Children's & Women's Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$342.72,AL
+USA Health Children's & Women's Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$342.72,AL
+USA Health Children's & Women's Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$342.72,AL
+USA Health Children's & Women's Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$342.72,AL
+USA Health Children's & Women's Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$252.71,AL
+USA Health Children's & Women's Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$252.71,AL
+USA Health Children's & Women's Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$252.71,AL
+USA Health Children's & Women's Hospital,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$252.71,AL
+USA Health Children's & Women's Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$252.71,AL
+USA Health Children's & Women's Hospital,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$350.30,AL
+USA Health Children's & Women's Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$6.82,AL
+USA Health Children's & Women's Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$6.82,AL
+USA Health Children's & Women's Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$36.51,AL
+USA Health Children's & Women's Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$36.51,AL
+USA Health Children's & Women's Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$30.76,AL
+USA Health Children's & Women's Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$30.91,AL
+USA Health Children's & Women's Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$38.49,AL
+USA Health Children's & Women's Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$38.49,AL
+USA Health Children's & Women's Hospital,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$55.80,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$161.82,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$60.82,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$78.12,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 82140,Ammonia level,$52.08,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$47.41,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$72.54,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$59.69,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$88.76,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$21.09,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$21.09,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$22.67,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$17.21,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 84132,Blood potassium level,$27.11,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 84295,Blood sodium level,$15.33,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$11.16,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$82.99,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 82310,Calcium level,$31.41,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$84.74,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 82465,Cholesterol level,$9.30,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 82525,Copper level,$52.70,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$58.28,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$22.86,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$39.02,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$213.90,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$66.28,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$80.78,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$36.87,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$12.40,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$45.58,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$19.84,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$20.22,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 83020,Hemoglobin Measurement,$36.86,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$57.66,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$111.36,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$66.36,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$31.41,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$53.80,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 83540,Iron level,$55.58,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$19.83,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$40.72,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$24.21,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$36.86,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 83735,Magnesium Level,$14.86,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$279.68,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$87.88,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 83970,Parathormone,$154.29,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$28.03,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$111.36,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$31.00,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$28.03,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$27.72,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$27.72,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$59.69,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$28.03,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$28.03,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$28.03,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$37.11,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 82340,Urine calcium level,$31.41,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$60.82,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$39.06,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 84133,Urine potassium level,$27.11,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 84300,Urine sodium level,$15.33,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$34.10,AL
+USA Health Children's & Women's Hospital,Chemistry,HCPCS 84630,Zinc level,$50.22,AL
+USA Health Children's & Women's Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$72.85,AL
+USA Health Children's & Women's Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$45.41,AL
+USA Health Children's & Women's Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$37.76,AL
+USA Health Children's & Women's Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$37.38,AL
+USA Health Children's & Women's Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$37.76,AL
+USA Health Children's & Women's Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$37.76,AL
+USA Health Children's & Women's Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$79.48,AL
+USA Health Children's & Women's Hospital,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$32.91,AL
+USA Health Children's & Women's Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$26.56,AL
+USA Health Children's & Women's Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$42.83,AL
+USA Health Children's & Women's Hospital,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$510.49,AL
+USA Health Children's & Women's Hospital,Immunology,HCPCS 86161,Measurement of complement (immune system proteins),$56.05,AL
+USA Health Children's & Women's Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$37.76,AL
+USA Health Children's & Women's Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$23.56,AL
+USA Health Children's & Women's Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$33.85,AL
+USA Health Children's & Women's Hospital,Immunology,HCPCS 86580,Skin test for tuberculosis,$6.20,AL
+USA Health Children's & Women's Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$26.42,AL
+USA Health Children's & Women's Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$54.74,AL
+USA Health Children's & Women's Hospital,Immunology,HCPCS 86359,"T cells count, total",$54.74,AL
+USA Health Children's & Women's Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$53.01,AL
+USA Health Children's & Women's Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$110.79,AL
+USA Health Children's & Women's Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$55.80,AL
+USA Health Children's & Women's Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$24.18,AL
+USA Health Children's & Women's Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$157.48,AL
+USA Health Children's & Women's Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$37.76,AL
+USA Health Children's & Women's Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$146.73,AL
+USA Health Children's & Women's Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$71.37,AL
+USA Health Children's & Women's Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$116.64,AL
+USA Health Children's & Women's Hospital,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$45.41,AL
+USA Health Children's & Women's Hospital,Microbiology,HCPCS 87624,HPV Detection,$72.54,AL
+USA Health Children's & Women's Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$17.36,AL
+USA Health Children's & Women's Hospital,Microbiology,HCPCS 86747,Parvovirus antibody test,$63.86,AL
+USA Health Children's & Women's Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$45.29,AL
+USA Health Children's & Women's Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$19.22,AL
+USA Health Children's & Women's Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$22.94,AL
+USA Health Children's & Women's Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$16.91,AL
+USA Health Children's & Women's Hospital,Microbiology,HCPCS 87045,Stool Culture,$23.38,AL
+USA Health Children's & Women's Hospital,Microbiology,HCPCS 87880,Strep Test,$56.74,AL
+USA Health Children's & Women's Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$31.57,AL
+USA Health Children's & Women's Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$19.84,AL
+USA Health Children's & Women's Hospital,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$375.10,AL
+USA Health Children's & Women's Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$80.78,AL
+USA Health Children's & Women's Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$73.33,AL
+USA Health Children's & Women's Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$139.19,AL
+USA Health Children's & Women's Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$57.04,AL
+USA Health Children's & Women's Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$87.11,AL
+USA Health Children's & Women's Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$75.02,AL
+USA Health Children's & Women's Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$208.15,AL
+USA Health Children's & Women's Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$67.58,AL
+USA Health Children's & Women's Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$52.70,AL
+USA Health Children's & Women's Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$254.82,AL
+USA Health Children's & Women's Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$118.42,AL
+USA Health Children's & Women's Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$77.50,AL
+USA Health Children's & Women's Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$85.59,AL
+USA Health Children's & Women's Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$85.59,AL
+USA Health Children's & Women's Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$163.00,AL
+USA Health Children's & Women's Hospital,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$108.05,AL
+USA Health Children's & Women's Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$77.43,AL
+USA Health Children's & Women's Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$77.43,AL
+USA Health Children's & Women's Hospital,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$64.01,AL
+USA Health Children's & Women's Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$26.41,AL
+USA Health Children's & Women's Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$26.41,AL
+USA Health Children's & Women's Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$44.06,AL
+USA Health Children's & Women's Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$702.07,AL
+USA Health Children's & Women's Hospital,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$58.66,AL
+USA Health Children's & Women's Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$58.66,AL
+USA Health Children's & Women's Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,$319.16,AL
+USA Health Children's & Women's Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$236.58,AL
+USA Health Children's & Women's Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$184.48,AL
+USA Health Children's & Women's Hospital,Breast,HCPCS 77067,Mammogram Screening,$183.20,AL
+USA Health Children's & Women's Hospital,Breast,HCPCS 77066,Mammography of both breasts,$184.48,AL
+USA Health Children's & Women's Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,009.52",AL
+USA Health Children's & Women's Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$465.00,AL
+USA Health Children's & Women's Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$483.22,AL
+USA Health Children's & Women's Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$480.77,AL
+USA Health Children's & Women's Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,267.67",AL
+USA Health Children's & Women's Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,267.67",AL
+USA Health Children's & Women's Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$870.46,AL
+USA Health Children's & Women's Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$691.55,AL
+USA Health Children's & Women's Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,$691.55,AL
+USA Health Children's & Women's Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$625.89,AL
+USA Health Children's & Women's Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$465.00,AL
+USA Health Children's & Women's Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$725.30,AL
+USA Health Children's & Women's Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)",$872.31,AL
+USA Health Children's & Women's Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,$850.77,AL
+USA Health Children's & Women's Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$850.77,AL
+USA Health Children's & Women's Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$1,959.36",AL
+USA Health Children's & Women's Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,$850.77,AL
+USA Health Children's & Women's Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,633.40",AL
+USA Health Children's & Women's Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$851.88,AL
+USA Health Children's & Women's Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,654.98",AL
+USA Health Children's & Women's Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$868.08,AL
+USA Health Children's & Women's Hospital,MRI,HCPCS 73721,MRI scan of leg joint,$851.88,AL
+USA Health Children's & Women's Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$168.67,AL
+USA Health Children's & Women's Hospital,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$166.78,AL
+USA Health Children's & Women's Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$166.35,AL
+USA Health Children's & Women's Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$211.83,AL
+USA Health Children's & Women's Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$211.83,AL
+USA Health Children's & Women's Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$166.78,AL
+USA Health Children's & Women's Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$146.94,AL
+USA Health Children's & Women's Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$98.95,AL
+USA Health Children's & Women's Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$98.95,AL
+USA Health Children's & Women's Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$112.84,AL
+USA Health Children's & Women's Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$96.18,AL
+USA Health Children's & Women's Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$71.06,AL
+USA Health Children's & Women's Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$86.98,AL
+USA Health Children's & Women's Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$71.30,AL
+USA Health Children's & Women's Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$71.30,AL
+USA Health Children's & Women's Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$79.00,AL
+USA Health Children's & Women's Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$79.00,AL
+USA Health Children's & Women's Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$79.00,AL
+USA Health Children's & Women's Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$61.93,AL
+USA Health Children's & Women's Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$72.05,AL
+USA Health Children's & Women's Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$79.00,AL
+USA Health Children's & Women's Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$61.93,AL
+USA Health Children's & Women's Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$57.75,AL
+USA Health Children's & Women's Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$86.24,AL
+USA Health Children's & Women's Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$84.61,AL
+USA Health Children's & Women's Hospital,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$58.21,AL
+USA Health Children's & Women's Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$61.39,AL
+USA Health Children's & Women's Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$61.39,AL
+USA Health Children's & Women's Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$61.39,AL
+USA Health Children's & Women's Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$61.39,AL
+USA Health Children's & Women's Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$5,339.54",AL
+USA Health Children's & Women's Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$11,140.82",AL
+USA Health Children's & Women's Hospital,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$1,350.98",AL
+USA Health Children's & Women's Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$2,140.70",AL
+USA Health Children's & Women's Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$162.93,AL
+USA Health Children's & Women's Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$10,587.48",AL
+USA Health Children's & Women's Hospital,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$5,742.88",AL
+USA Health Children's & Women's Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$2,920.36",AL
+USA Health Children's & Women's Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$3,518.42",AL
+USA Health Children's & Women's Hospital,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$2,378.73",AL
+USA Health Children's & Women's Hospital,Breast,HCPCS 19125,Excision of breast lesion,"$3,674.91",AL
+USA Health Children's & Women's Hospital,Breast,HCPCS 19120,Excision of cyst of breast,"$3,674.91",AL
+USA Health Children's & Women's Hospital,Breast,HCPCS 19301,Partial removal of breast,"$4,046.91",AL
+USA Health Children's & Women's Hospital,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$37,338.95",AL
+USA Health Children's & Women's Hospital,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$37,338.95",AL
+USA Health Children's & Women's Hospital,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$5,012.11",AL
+USA Health Children's & Women's Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,026.16",AL
+USA Health Children's & Women's Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,936.11",AL
+USA Health Children's & Women's Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,593.83",AL
+USA Health Children's & Women's Hospital,Digestive,HCPCS 43235,EGD,"$2,765.95",AL
+USA Health Children's & Women's Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$2,316.82",AL
+USA Health Children's & Women's Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$5,712.75",AL
+USA Health Children's & Women's Hospital,General,HCPCS 10060,Drainage of Abscess,"$1,655.43",AL
+USA Health Children's & Women's Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,"$1,537.66",AL
+USA Health Children's & Women's Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$419.87,AL
+USA Health Children's & Women's Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$419.87,AL
+USA Health Children's & Women's Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$419.87,AL
+USA Health Children's & Women's Hospital,Head,HCPCS 69436,Create eardrum opening,"$1,451.89",AL
+USA Health Children's & Women's Hospital,Head,HCPCS 69631,Repair of eardrum,"$3,416.13",AL
+USA Health Children's & Women's Hospital,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$2,391.26",AL
+USA Health Children's & Women's Hospital,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$33,220.63",AL
+USA Health Children's & Women's Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$843.81,AL
+USA Health Children's & Women's Hospital,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,$843.81,AL
+USA Health Children's & Women's Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$1,514.82",AL
+USA Health Children's & Women's Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$13,614.62",AL
+USA Health Children's & Women's Hospital,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$20,104.26",AL
+USA Health Children's & Women's Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$33,220.63",AL
+USA Health Children's & Women's Hospital,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$9,592.69",AL
+USA Health Children's & Women's Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$3,637.59",AL
+USA Health Children's & Women's Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$4,400.00",AL
+USA Health Children's & Women's Hospital,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$6,782.77",AL
+USA Health Children's & Women's Hospital,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$5,417.61",AL
+USA Health Children's & Women's Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$3,300.00",AL
+USA Health Children's & Women's Hospital,Ocular,HCPCS 67311,Realignment of the eye with repair of eye muscle,"$2,399.67",AL
+USA Health Children's & Women's Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$3,167.27",AL
+USA Health Children's & Women's Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,474.35",AL
+USA Health Children's & Women's Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,944.34",AL

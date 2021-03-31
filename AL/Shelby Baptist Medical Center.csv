@@ -1,0 +1,113 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Shelby Baptist Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$25,260.83",AL
+Shelby Baptist Medical Center,Speech,HCPCS 92507,Speech Therapy,"$3,895.30",AL
+Shelby Baptist Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$7,206.32",AL
+Shelby Baptist Medical Center,Speech,HCPCS 92526,Swallow Treatment,"$2,826.47",AL
+Shelby Baptist Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$70.95,AL
+Shelby Baptist Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$125.66,AL
+Shelby Baptist Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$152.06,AL
+Shelby Baptist Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$164.09,AL
+Shelby Baptist Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$115.01,AL
+Shelby Baptist Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$8,263.71",AL
+Shelby Baptist Medical Center,Chemistry,HCPCS 82140,Ammonia level,$195.00,AL
+Shelby Baptist Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$519.29,AL
+Shelby Baptist Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$127.08,AL
+Shelby Baptist Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$137.00,AL
+Shelby Baptist Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$73.91,AL
+Shelby Baptist Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$138.21,AL
+Shelby Baptist Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$330.74,AL
+Shelby Baptist Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$138.91,AL
+Shelby Baptist Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$314.88,AL
+Shelby Baptist Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$283.05,AL
+Shelby Baptist Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$101.81,AL
+Shelby Baptist Medical Center,Chemistry,HCPCS 83540,Iron level,$147.81,AL
+Shelby Baptist Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$70.14,AL
+Shelby Baptist Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$98.25,AL
+Shelby Baptist Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$148.50,AL
+Shelby Baptist Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$390.53,AL
+Shelby Baptist Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$151.63,AL
+Shelby Baptist Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$248.43,AL
+Shelby Baptist Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$122.55,AL
+Shelby Baptist Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$169.55,AL
+Shelby Baptist Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$193.55,AL
+Shelby Baptist Medical Center,Microbiology,HCPCS 87045,Stool Culture,$205.86,AL
+Shelby Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$447.38,AL
+Shelby Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$358.97,AL
+Shelby Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$321.23,AL
+Shelby Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$332.96,AL
+Shelby Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$328.70,AL
+Shelby Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$332.16,AL
+Shelby Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$92.41,AL
+Shelby Baptist Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$79.04,AL
+Shelby Baptist Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$177.15,AL
+Shelby Baptist Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$214.04,AL
+Shelby Baptist Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$10,186.25",AL
+Shelby Baptist Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$17,339.05",AL
+Shelby Baptist Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$44,721.71",AL
+Shelby Baptist Medical Center,Sleep,HCPCS 95810,Sleep study,"$5,377.14",AL
+Shelby Baptist Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$128.11,AL
+Shelby Baptist Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$361.84,AL
+Shelby Baptist Medical Center,Breast,HCPCS 77067,Mammogram Screening,$415.97,AL
+Shelby Baptist Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$436.92,AL
+Shelby Baptist Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$5,209.04",AL
+Shelby Baptist Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$2,177.95",AL
+Shelby Baptist Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,127.73",AL
+Shelby Baptist Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$9,493.72",AL
+Shelby Baptist Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$7,205.52",AL
+Shelby Baptist Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$6,934.77",AL
+Shelby Baptist Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$2,803.87",AL
+Shelby Baptist Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,661.11",AL
+Shelby Baptist Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$2,585.00",AL
+Shelby Baptist Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$3,554.75",AL
+Shelby Baptist Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$3,986.73",AL
+Shelby Baptist Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$4,459.27",AL
+Shelby Baptist Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$3,427.45",AL
+Shelby Baptist Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$4,339.06",AL
+Shelby Baptist Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$3,202.19",AL
+Shelby Baptist Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$4,754.71",AL
+Shelby Baptist Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$4,178.75",AL
+Shelby Baptist Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$3,385.19",AL
+Shelby Baptist Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$485.90,AL
+Shelby Baptist Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$617.02,AL
+Shelby Baptist Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,051.57",AL
+Shelby Baptist Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,039.22",AL
+Shelby Baptist Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$982.13,AL
+Shelby Baptist Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$652.03,AL
+Shelby Baptist Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$300.70,AL
+Shelby Baptist Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$640.07,AL
+Shelby Baptist Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$439.50,AL
+Shelby Baptist Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$570.86,AL
+Shelby Baptist Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$591.22,AL
+Shelby Baptist Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$553.75,AL
+Shelby Baptist Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$147.75,AL
+Shelby Baptist Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$710.25,AL
+Shelby Baptist Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$799.67,AL
+Shelby Baptist Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$405.00,AL
+Shelby Baptist Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$398.25,AL
+Shelby Baptist Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$489.75,AL
+Shelby Baptist Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$782.23,AL
+Shelby Baptist Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views","$1,071.75",AL
+Shelby Baptist Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$398.25,AL
+Shelby Baptist Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$288.00,AL
+Shelby Baptist Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$720.92,AL
+Shelby Baptist Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$20,710.19",AL
+Shelby Baptist Medical Center,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$18,751.43",AL
+Shelby Baptist Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$18,760.94",AL
+Shelby Baptist Medical Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$30,585.72",AL
+Shelby Baptist Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$15,833.53",AL
+Shelby Baptist Medical Center,Cardiac,MSDRG 216,Cardiac valve procedure,"$339,102.16",AL
+Shelby Baptist Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$9,206.93",AL
+Shelby Baptist Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$11,686.82",AL
+Shelby Baptist Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$11,058.98",AL
+Shelby Baptist Medical Center,Digestive,HCPCS 43235,EGD,"$9,286.04",AL
+Shelby Baptist Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$10,385.30",AL
+Shelby Baptist Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$33,236.05",AL
+Shelby Baptist Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$72,574.74",AL
+Shelby Baptist Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$19,109.79",AL
+Shelby Baptist Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$28,756.97",AL
+Shelby Baptist Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$41,914.68",AL
+Shelby Baptist Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$86,086.94",AL
+Shelby Baptist Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$24,167.73",AL
+Shelby Baptist Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$19,263.40",AL
+Shelby Baptist Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$702.70,AL
+Shelby Baptist Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$8,570.27",AL

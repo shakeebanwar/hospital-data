@@ -1,0 +1,54 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Kaiser Foundation Hospital - San Jose Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$270.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$340.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$180.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$750.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$600.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,Psychology,HCPCS 90853,Group psychotherapy,$500.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$300.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$400.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$500.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$114.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$191.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$170.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$150.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$219.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$250.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$300.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$204.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$250.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$226.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$581.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$91.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$109.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$114.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,Sleep,HCPCS 95810,Sleep study,"$6,546.00",CA
+Kaiser Foundation Hospital - San Jose Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$478.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,Breast,HCPCS 77067,Mammogram Screening,$514.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$717.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,000.00",CA
+Kaiser Foundation Hospital - San Jose Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$6,000.00",CA
+Kaiser Foundation Hospital - San Jose Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,500.00",CA
+Kaiser Foundation Hospital - San Jose Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,500.00",CA
+Kaiser Foundation Hospital - San Jose Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$3,500.00",CA
+Kaiser Foundation Hospital - San Jose Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$4,000.00",CA
+Kaiser Foundation Hospital - San Jose Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$5,000.00",CA
+Kaiser Foundation Hospital - San Jose Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$7,500.00",CA
+Kaiser Foundation Hospital - San Jose Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$5,500.00",CA
+Kaiser Foundation Hospital - San Jose Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$4,000.00",CA
+Kaiser Foundation Hospital - San Jose Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$1,226.00",CA
+Kaiser Foundation Hospital - San Jose Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,302.00",CA
+Kaiser Foundation Hospital - San Jose Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,333.00",CA
+Kaiser Foundation Hospital - San Jose Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,257.00",CA
+Kaiser Foundation Hospital - San Jose Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,238.00",CA
+Kaiser Foundation Hospital - San Jose Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,042.00",CA
+Kaiser Foundation Hospital - San Jose Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$637.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$600.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$750.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$752.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$739.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$677.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$542.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$862.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$879.00,CA
+Kaiser Foundation Hospital - San Jose Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$792.00,CA

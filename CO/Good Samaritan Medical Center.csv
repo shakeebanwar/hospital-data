@@ -1,0 +1,306 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Good Samaritan Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$285.79,CO
+Good Samaritan Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$3,298.38",CO
+Good Samaritan Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$149.87,CO
+Good Samaritan Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$337.02,CO
+Good Samaritan Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$709.25,CO
+Good Samaritan Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,169.13",CO
+Good Samaritan Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,840.49",CO
+Good Samaritan Medical Center,Hospital,HCPCS 99234,Hospital observation care discharge,$147.00,CO
+Good Samaritan Medical Center,Hospital,HCPCS 99219,Hospital observation care typically 30 minutes,$149.28,CO
+Good Samaritan Medical Center,Hospital,HCPCS 99235,"Hospital observation or inpatient care moderate severity, 50 minutes per day",$185.88,CO
+Good Samaritan Medical Center,Hospital,HCPCS 99218,Hospital Observation per Hour,$109.92,CO
+Good Samaritan Medical Center,Hospital,HCPCS 99224,"Subsequent observation care, typically 35 minutes per day",$43.68,CO
+Good Samaritan Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$123.20,CO
+Good Samaritan Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$134.37,CO
+Good Samaritan Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$111.99,CO
+Good Samaritan Medical Center,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$224.95,CO
+Good Samaritan Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$352.04,CO
+Good Samaritan Medical Center,Speech,HCPCS 92507,Speech Therapy,$139.41,CO
+Good Samaritan Medical Center,Speech,HCPCS 92610,Swallow Evaluation,$129.27,CO
+Good Samaritan Medical Center,Speech,HCPCS 92526,Swallow Treatment,$152.70,CO
+Good Samaritan Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$31.80,CO
+Good Samaritan Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$28.14,CO
+Good Samaritan Medical Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$65.45,CO
+Good Samaritan Medical Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$107.00,CO
+Good Samaritan Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$96.48,CO
+Good Samaritan Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$56.86,CO
+Good Samaritan Medical Center,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$12.02,CO
+Good Samaritan Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$74.50,CO
+Good Samaritan Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$59.69,CO
+Good Samaritan Medical Center,Blood,HCPCS 85008,Microscopic examination for white blood cells,$27.20,CO
+Good Samaritan Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$29.11,CO
+Good Samaritan Medical Center,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$217.17,CO
+Good Samaritan Medical Center,Blood,HCPCS 85660,Red blood cell sickling measurement,$51.92,CO
+Good Samaritan Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$402.99,CO
+Good Samaritan Medical Center,Blood,HCPCS 85041,"Red blood count, automated test",$18.25,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$326.82,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$234.53,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$29.61,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$74.50,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$88.83,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 82140,Ammonia level,$91.63,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$199.26,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$116.62,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$171.11,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$60.17,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$147.66,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$38.69,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$7.83,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$65.45,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$65.45,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$65.45,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$65.45,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$176.87,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 82310,Calcium level,$65.45,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$65.45,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$176.87,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 82465,Cholesterol level,$68.42,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 82525,Copper level,$171.11,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$165.31,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$141.38,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$89.26,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$159.13,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$292.97,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$236.10,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$141.80,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$147.26,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$84.52,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$45.99,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$11.69,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$159.64,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$129.09,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$147.26,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 83718,HDL cholesterol level,$73.78,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 83020,Hemoglobin Measurement,$165.58,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$20.44,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$47.46,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 83520,IgE (immune system protein) level,$207.20,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$103.71,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$66.45,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$81.71,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 83540,Iron level,$123.51,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$13.43,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 83721,LDL cholesterol level,$19.41,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$99.90,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$45.99,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$129.09,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 83021,Liver function blood test panel,$304.24,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$93.60,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 82542,Mass spectrometry,$175.00,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$19.51,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$15.78,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 83918,Organic acid level,$108.47,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 83945,Oxalate level,$140.55,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 83970,Parathormone,$276.13,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$144.25,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$25.38,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$132.92,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$150.47,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$118.97,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$18.72,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$78.84,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$145.09,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement",$81.31,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$250.85,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$49.75,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$65.45,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$71.74,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 84478,Triglycerides level,$129.91,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$124.65,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 84560,Uric acid level,$65.45,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$65.45,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$8.35,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 82436,Urine chloride level,$65.45,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$151.99,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$51.09,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$185.95,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$65.45,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$65.45,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 84591,Vitamin B-6 level,$109.18,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$184.42,CO
+Good Samaritan Medical Center,Chemistry,HCPCS 84630,Zinc level,$115.16,CO
+Good Samaritan Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$125.27,CO
+Good Samaritan Medical Center,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$77.00,CO
+Good Samaritan Medical Center,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$319.79,CO
+Good Samaritan Medical Center,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$45.21,CO
+Good Samaritan Medical Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$54.49,CO
+Good Samaritan Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$97.93,CO
+Good Samaritan Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$16.33,CO
+Good Samaritan Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$18.30,CO
+Good Samaritan Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$86.17,CO
+Good Samaritan Medical Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$15.58,CO
+Good Samaritan Medical Center,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$18.84,CO
+Good Samaritan Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$40.68,CO
+Good Samaritan Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$98.86,CO
+Good Samaritan Medical Center,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$141.38,CO
+Good Samaritan Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$26.72,CO
+Good Samaritan Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$152.82,CO
+Good Samaritan Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$72.18,CO
+Good Samaritan Medical Center,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$279.84,CO
+Good Samaritan Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$87.42,CO
+Good Samaritan Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$6.31,CO
+Good Samaritan Medical Center,Immunology,HCPCS 86361,T cell count and ratio,$25.99,CO
+Good Samaritan Medical Center,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$87.57,CO
+Good Samaritan Medical Center,Immunology,HCPCS 86359,"T cells count, total",$30.44,CO
+Good Samaritan Medical Center,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$66.97,CO
+Good Samaritan Medical Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$34.10,CO
+Good Samaritan Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$112.37,CO
+Good Samaritan Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$106.88,CO
+Good Samaritan Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$37.51,CO
+Good Samaritan Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$33.40,CO
+Good Samaritan Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$82.25,CO
+Good Samaritan Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$154.96,CO
+Good Samaritan Medical Center,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$262.61,CO
+Good Samaritan Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$58.02,CO
+Good Samaritan Medical Center,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$551.18,CO
+Good Samaritan Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$37.51,CO
+Good Samaritan Medical Center,Microbiology,HCPCS 87517,Hepatitis B Detection,$88.51,CO
+Good Samaritan Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$37.61,CO
+Good Samaritan Medical Center,Microbiology,HCPCS 87624,HPV Detection,$48.81,CO
+Good Samaritan Medical Center,Microbiology,HCPCS 86735,Mumps virus antibody test,$129.09,CO
+Good Samaritan Medical Center,Microbiology,HCPCS 86747,Parvovirus antibody test,$126.62,CO
+Good Samaritan Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$14.96,CO
+Good Samaritan Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$132.03,CO
+Good Samaritan Medical Center,Microbiology,HCPCS 87207,Smear for infectious agents,$112.98,CO
+Good Samaritan Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$33.67,CO
+Good Samaritan Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$48.28,CO
+Good Samaritan Medical Center,Microbiology,HCPCS 87045,Stool Culture,$121.14,CO
+Good Samaritan Medical Center,Microbiology,HCPCS 87880,Streptoccus,$20.29,CO
+Good Samaritan Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$104.49,CO
+Good Samaritan Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$216.50,CO
+Good Samaritan Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$66.38,CO
+Good Samaritan Medical Center,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$130.89,CO
+Good Samaritan Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$12.19,CO
+Good Samaritan Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$131.51,CO
+Good Samaritan Medical Center,Breast,HCPCS 77067,Mammogram Screening,$113.98,CO
+Good Samaritan Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$174.65,CO
+Good Samaritan Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,388.42",CO
+Good Samaritan Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,164.12",CO
+Good Samaritan Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,013.17",CO
+Good Samaritan Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,013.17",CO
+Good Samaritan Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,876.25",CO
+Good Samaritan Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,576.05",CO
+Good Samaritan Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,501.00",CO
+Good Samaritan Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,388.42",CO
+Good Samaritan Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,463.47",CO
+Good Samaritan Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,388.42",CO
+Good Samaritan Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,164.12",CO
+Good Samaritan Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,388.42",CO
+Good Samaritan Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,388.42",CO
+Good Samaritan Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,088.22",CO
+Good Samaritan Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,088.22",CO
+Good Samaritan Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,088.22",CO
+Good Samaritan Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$1,605.55",CO
+Good Samaritan Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,088.22",CO
+Good Samaritan Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$1,605.55",CO
+Good Samaritan Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,605.55",CO
+Good Samaritan Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,088.22",CO
+Good Samaritan Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,605.55",CO
+Good Samaritan Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,088.22",CO
+Good Samaritan Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$1,088.22",CO
+Good Samaritan Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$521.76,CO
+Good Samaritan Medical Center,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$379.06,CO
+Good Samaritan Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$601.78,CO
+Good Samaritan Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$187.39,CO
+Good Samaritan Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$460.55,CO
+Good Samaritan Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$173.45,CO
+Good Samaritan Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$173.45,CO
+Good Samaritan Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$348.60,CO
+Good Samaritan Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$521.76,CO
+Good Samaritan Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$356.66,CO
+Good Samaritan Medical Center,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$173.45,CO
+Good Samaritan Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$508.73,CO
+Good Samaritan Medical Center,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$338.01,CO
+Good Samaritan Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$206.71,CO
+Good Samaritan Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$196.83,CO
+Good Samaritan Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$343.95,CO
+Good Samaritan Medical Center,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$373.16,CO
+Good Samaritan Medical Center,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$262.77,CO
+Good Samaritan Medical Center,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$252.87,CO
+Good Samaritan Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$368.18,CO
+Good Samaritan Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$262.77,CO
+Good Samaritan Medical Center,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$217.57,CO
+Good Samaritan Medical Center,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$318.45,CO
+Good Samaritan Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$357.86,CO
+Good Samaritan Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$257.01,CO
+Good Samaritan Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$279.83,CO
+Good Samaritan Medical Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$287.09,CO
+Good Samaritan Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$197.08,CO
+Good Samaritan Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$276.02,CO
+Good Samaritan Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$395.12,CO
+Good Samaritan Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$273.25,CO
+Good Samaritan Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$297.96,CO
+Good Samaritan Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$312.07,CO
+Good Samaritan Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$203.46,CO
+Good Samaritan Medical Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$186.71,CO
+Good Samaritan Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$264.54,CO
+Good Samaritan Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$324.30,CO
+Good Samaritan Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$336.81,CO
+Good Samaritan Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$432.90,CO
+Good Samaritan Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$285.44,CO
+Good Samaritan Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$325.72,CO
+Good Samaritan Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$454.96,CO
+Good Samaritan Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$268.74,CO
+Good Samaritan Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$240.13,CO
+Good Samaritan Medical Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$210.09,CO
+Good Samaritan Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$290.31,CO
+Good Samaritan Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$294.37,CO
+Good Samaritan Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$270.99,CO
+Good Samaritan Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$217.10,CO
+Good Samaritan Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$267.30,CO
+Good Samaritan Medical Center,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$12,584.37",CO
+Good Samaritan Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,$439.92,CO
+Good Samaritan Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,$407.10,CO
+Good Samaritan Medical Center,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,$90.84,CO
+Good Samaritan Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),$436.73,CO
+Good Samaritan Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$188.43,CO
+Good Samaritan Medical Center,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$17,308.03",CO
+Good Samaritan Medical Center,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),$493.62,CO
+Good Samaritan Medical Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,$324.19,CO
+Good Samaritan Medical Center,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,$384.00,CO
+Good Samaritan Medical Center,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),$798.34,CO
+Good Samaritan Medical Center,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),$305.67,CO
+Good Samaritan Medical Center,Breast,HCPCS 19125,Excision of breast lesion,$519.60,CO
+Good Samaritan Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,$467.76,CO
+Good Samaritan Medical Center,Breast,HCPCS 19301,Partial removal of breast,$584.21,CO
+Good Samaritan Medical Center,Breast,HCPCS 19303,Total removal of breast,"$1,103.25",CO
+Good Samaritan Medical Center,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,"$54,565.08",CO
+Good Samaritan Medical Center,Cardiac,MSDRG 216,Cardiac valve procedure,"$104,971.25",CO
+Good Samaritan Medical Center,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$65,765.91",CO
+Good Samaritan Medical Center,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$58,486.62",CO
+Good Samaritan Medical Center,Cardiac,HCPCS 33249,Defibrillator complete system,"$13,884.21",CO
+Good Samaritan Medical Center,Cardiac,HCPCS 33240,Defibrillator generator,"$9,357.01",CO
+Good Samaritan Medical Center,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$3,499.55",CO
+Good Samaritan Medical Center,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$3,499.55",CO
+Good Samaritan Medical Center,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$314.09,CO
+Good Samaritan Medical Center,Cardiac,MSDRG 247,Implant drug-eluting stent,"$36,725.76",CO
+Good Samaritan Medical Center,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$27,500.89",CO
+Good Samaritan Medical Center,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$8,427.09",CO
+Good Samaritan Medical Center,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,$401.52,CO
+Good Samaritan Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$14,023.60",CO
+Good Samaritan Medical Center,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,$307.84,CO
+Good Samaritan Medical Center,General,HCPCS 55700,Biopsy of prostate gland,$852.42,CO
+Good Samaritan Medical Center,General,HCPCS 10060,Drainage of Abscess,$270.12,CO
+Good Samaritan Medical Center,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$450.22,CO
+Good Samaritan Medical Center,General,HCPCS 55866,Prostatectomy,$324.98,CO
+Good Samaritan Medical Center,General,HCPCS 60240,Removal of thyroid,$620.42,CO
+Good Samaritan Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$195.21,CO
+Good Samaritan Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$167.32,CO
+Good Samaritan Medical Center,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$74,685.24",CO
+Good Samaritan Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$493.67,CO
+Good Samaritan Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$25,756.00",CO
+Good Samaritan Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$41,003.35",CO
+Good Samaritan Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$76,084.55",CO
+Good Samaritan Medical Center,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,$687.24,CO
+Good Samaritan Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,$262.68,CO
+Good Samaritan Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$9,616.95",CO
+Good Samaritan Medical Center,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,$482.47,CO
+Good Samaritan Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$6,108.96",CO
+Good Samaritan Medical Center,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries",$628.42,CO
+Good Samaritan Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$68.07,CO
+Good Samaritan Medical Center,Soft Tissue,HCPCS 97602,Non-selective debridement,$118.62,CO
+Good Samaritan Medical Center,Vascular,HCPCS 36416,Collection of capillary blood specimen,$16.33,CO
+Good Samaritan Medical Center,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,087.10",CO
+Good Samaritan Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$897.29,CO
+Good Samaritan Medical Center,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,087.10",CO

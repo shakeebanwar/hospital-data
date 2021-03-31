@@ -1,0 +1,293 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Johns Hopkins Bayview Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$146.82,MD
+Johns Hopkins Bayview Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$146.82,MD
+Johns Hopkins Bayview Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$293.64,MD
+Johns Hopkins Bayview Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,$587.27,MD
+Johns Hopkins Bayview Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,027.73",MD
+Johns Hopkins Bayview Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$166.09,MD
+Johns Hopkins Bayview Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$209.62,MD
+Johns Hopkins Bayview Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$109.45,MD
+Johns Hopkins Bayview Medical Center,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$111.97,MD
+Johns Hopkins Bayview Medical Center,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$106.58,MD
+Johns Hopkins Bayview Medical Center,Psychology,HCPCS 90853,Group psychotherapy,$48.35,MD
+Johns Hopkins Bayview Medical Center,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$276.32,MD
+Johns Hopkins Bayview Medical Center,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$69.98,MD
+Johns Hopkins Bayview Medical Center,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$107.53,MD
+Johns Hopkins Bayview Medical Center,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$124.37,MD
+Johns Hopkins Bayview Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$137.99,MD
+Johns Hopkins Bayview Medical Center,Speech,HCPCS 92507,Speech Therapy,$69.00,MD
+Johns Hopkins Bayview Medical Center,Speech,HCPCS 92610,Swallow Evaluation,$137.99,MD
+Johns Hopkins Bayview Medical Center,Speech,HCPCS 92526,Swallow Treatment,$69.00,MD
+Johns Hopkins Bayview Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$9.19,MD
+Johns Hopkins Bayview Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$9.19,MD
+Johns Hopkins Bayview Medical Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$9.19,MD
+Johns Hopkins Bayview Medical Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$34.48,MD
+Johns Hopkins Bayview Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$18.39,MD
+Johns Hopkins Bayview Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$18.39,MD
+Johns Hopkins Bayview Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$22.98,MD
+Johns Hopkins Bayview Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$18.39,MD
+Johns Hopkins Bayview Medical Center,Blood,HCPCS 85008,Microscopic examination for white blood cells,$11.49,MD
+Johns Hopkins Bayview Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$22.98,MD
+Johns Hopkins Bayview Medical Center,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$137.90,MD
+Johns Hopkins Bayview Medical Center,Blood,HCPCS 85660,Red blood cell sickling measurement,$22.98,MD
+Johns Hopkins Bayview Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$620.55,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$57.46,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$68.95,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$4.60,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$34.48,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$34.48,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82140,Ammonia level,$45.97,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$13.79,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$45.97,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$71.25,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$34.48,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$34.48,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$13.79,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$13.79,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$4.60,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$9.19,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$9.44,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$4.60,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$9.19,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$34.48,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82310,Calcium level,$4.60,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$4.60,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$57.46,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82465,Cholesterol level,$9.19,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82525,Copper level,$57.46,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$34.48,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$34.48,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$13.79,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$34.48,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$34.48,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$57.46,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$34.48,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$34.48,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$34.48,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$4.60,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$45.97,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$34.48,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$57.46,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$34.48,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 83718,HDL cholesterol level,$34.48,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 83020,Hemoglobin Measurement,$57.46,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$68.95,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$80.44,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 83520,IgE (immune system protein) level,$643.54,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$34.48,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$34.48,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 83540,Iron level,$13.79,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$9.19,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 83721,LDL cholesterol level,$34.48,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$18.39,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$4.60,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$34.48,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 83021,Liver function blood test panel,$57.46,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$13.79,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82542,Mass spectrometry,$68.95,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$34.48,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$34.48,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 83918,Organic acid level,$287.29,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 83945,Oxalate level,$34.48,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 83970,Parathormone,$34.48,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$34.48,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$22.98,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$57.46,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$45.97,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$57.46,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$11.49,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$34.48,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$34.48,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement",$34.48,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$57.46,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$34.48,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$4.60,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$22.98,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 84478,Triglycerides level,$4.60,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$57.46,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 84560,Uric acid level,$22.98,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$4.60,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$22.98,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82436,Urine chloride level,$22.98,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$34.48,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$22.98,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$80.44,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$22.98,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$22.98,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 84591,Vitamin B-6 level,$114.92,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$34.48,MD
+Johns Hopkins Bayview Medical Center,Chemistry,HCPCS 84630,Zinc level,$57.46,MD
+Johns Hopkins Bayview Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$57.46,MD
+Johns Hopkins Bayview Medical Center,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$34.48,MD
+Johns Hopkins Bayview Medical Center,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$57.46,MD
+Johns Hopkins Bayview Medical Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$57.46,MD
+Johns Hopkins Bayview Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$57.46,MD
+Johns Hopkins Bayview Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$71.25,MD
+Johns Hopkins Bayview Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$45.97,MD
+Johns Hopkins Bayview Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$45.97,MD
+Johns Hopkins Bayview Medical Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$57.46,MD
+Johns Hopkins Bayview Medical Center,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$91.93,MD
+Johns Hopkins Bayview Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$34.48,MD
+Johns Hopkins Bayview Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$34.48,MD
+Johns Hopkins Bayview Medical Center,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$57.46,MD
+Johns Hopkins Bayview Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$45.97,MD
+Johns Hopkins Bayview Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$50.56,MD
+Johns Hopkins Bayview Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$22.98,MD
+Johns Hopkins Bayview Medical Center,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$34.48,MD
+Johns Hopkins Bayview Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$18.39,MD
+Johns Hopkins Bayview Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$18.39,MD
+Johns Hopkins Bayview Medical Center,Immunology,HCPCS 86361,T cell count and ratio,$114.92,MD
+Johns Hopkins Bayview Medical Center,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$229.84,MD
+Johns Hopkins Bayview Medical Center,Immunology,HCPCS 86359,"T cells count, total",$114.92,MD
+Johns Hopkins Bayview Medical Center,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$57.46,MD
+Johns Hopkins Bayview Medical Center,Immunology,HCPCS 86580,Tuberculosis Test,$2.30,MD
+Johns Hopkins Bayview Medical Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$45.97,MD
+Johns Hopkins Bayview Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$91.93,MD
+Johns Hopkins Bayview Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$45.97,MD
+Johns Hopkins Bayview Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$103.43,MD
+Johns Hopkins Bayview Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$100.00,MD
+Johns Hopkins Bayview Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$275.80,MD
+Johns Hopkins Bayview Medical Center,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$367.74,MD
+Johns Hopkins Bayview Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$57.46,MD
+Johns Hopkins Bayview Medical Center,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$367.74,MD
+Johns Hopkins Bayview Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$103.43,MD
+Johns Hopkins Bayview Medical Center,Microbiology,HCPCS 87517,Hepatitis B Detection,$367.74,MD
+Johns Hopkins Bayview Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$57.46,MD
+Johns Hopkins Bayview Medical Center,Microbiology,HCPCS 87624,HPV Detection,$275.80,MD
+Johns Hopkins Bayview Medical Center,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$68.95,MD
+Johns Hopkins Bayview Medical Center,Microbiology,HCPCS 86735,Mumps virus antibody test,$45.97,MD
+Johns Hopkins Bayview Medical Center,Microbiology,HCPCS 86747,Parvovirus antibody test,$68.95,MD
+Johns Hopkins Bayview Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$34.48,MD
+Johns Hopkins Bayview Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$45.97,MD
+Johns Hopkins Bayview Medical Center,Microbiology,HCPCS 87207,Smear for infectious agents,$34.48,MD
+Johns Hopkins Bayview Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$91.93,MD
+Johns Hopkins Bayview Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$45.97,MD
+Johns Hopkins Bayview Medical Center,Microbiology,HCPCS 87045,Stool Culture,$68.95,MD
+Johns Hopkins Bayview Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$57.46,MD
+Johns Hopkins Bayview Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$39.07,MD
+Johns Hopkins Bayview Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$45.97,MD
+Johns Hopkins Bayview Medical Center,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$137.90,MD
+Johns Hopkins Bayview Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$206.85,MD
+Johns Hopkins Bayview Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$25.28,MD
+Johns Hopkins Bayview Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$34.48,MD
+Johns Hopkins Bayview Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$43.67,MD
+Johns Hopkins Bayview Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$27.58,MD
+Johns Hopkins Bayview Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$25.28,MD
+Johns Hopkins Bayview Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$34.48,MD
+Johns Hopkins Bayview Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$91.93,MD
+Johns Hopkins Bayview Medical Center,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$45.97,MD
+Johns Hopkins Bayview Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$34.48,MD
+Johns Hopkins Bayview Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$147.09,MD
+Johns Hopkins Bayview Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$34.48,MD
+Johns Hopkins Bayview Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$34.48,MD
+Johns Hopkins Bayview Medical Center,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$34.48,MD
+Johns Hopkins Bayview Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$34.48,MD
+Johns Hopkins Bayview Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$68.95,MD
+Johns Hopkins Bayview Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$34.48,MD
+Johns Hopkins Bayview Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$34.48,MD
+Johns Hopkins Bayview Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$9.19,MD
+Johns Hopkins Bayview Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$9.19,MD
+Johns Hopkins Bayview Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$22.98,MD
+Johns Hopkins Bayview Medical Center,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$183.87,MD
+Johns Hopkins Bayview Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$18.39,MD
+Johns Hopkins Bayview Medical Center,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$68.95,MD
+Johns Hopkins Bayview Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$27.58,MD
+Johns Hopkins Bayview Medical Center,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$9.19,MD
+Johns Hopkins Bayview Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$9.19,MD
+Johns Hopkins Bayview Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$20.69,MD
+Johns Hopkins Bayview Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$23.00,MD
+Johns Hopkins Bayview Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$414.28,MD
+Johns Hopkins Bayview Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$165.71,MD
+Johns Hopkins Bayview Medical Center,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$69.05,MD
+Johns Hopkins Bayview Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$690.47,MD
+Johns Hopkins Bayview Medical Center,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$1,242.84",MD
+Johns Hopkins Bayview Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$2,057.54",MD
+Johns Hopkins Bayview Medical Center,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$41.73,MD
+Johns Hopkins Bayview Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,$83.46,MD
+Johns Hopkins Bayview Medical Center,Pulmonary,HCPCS 94618,Pulmonary stress test,$443.92,MD
+Johns Hopkins Bayview Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$52.16,MD
+Johns Hopkins Bayview Medical Center,Sleep,HCPCS 95810,Sleep study,"$3,935.48",MD
+Johns Hopkins Bayview Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$228.62,MD
+Johns Hopkins Bayview Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$849.14,MD
+Johns Hopkins Bayview Medical Center,Breast,HCPCS 77067,Mammogram Screening,$914.46,MD
+Johns Hopkins Bayview Medical Center,Breast,HCPCS 77066,Mammography of both breasts,"$1,110.42",MD
+Johns Hopkins Bayview Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,$391.29,MD
+Johns Hopkins Bayview Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$165.80,MD
+Johns Hopkins Bayview Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$139.27,MD
+Johns Hopkins Bayview Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$179.06,MD
+Johns Hopkins Bayview Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,$470.87,MD
+Johns Hopkins Bayview Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,$411.18,MD
+Johns Hopkins Bayview Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$212.22,MD
+Johns Hopkins Bayview Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$311.70,MD
+Johns Hopkins Bayview Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,$358.13,MD
+Johns Hopkins Bayview Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$311.70,MD
+Johns Hopkins Bayview Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$238.75,MD
+Johns Hopkins Bayview Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$311.70,MD
+Johns Hopkins Bayview Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$311.70,MD
+Johns Hopkins Bayview Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,494.32",MD
+Johns Hopkins Bayview Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,$674.85,MD
+Johns Hopkins Bayview Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$674.85,MD
+Johns Hopkins Bayview Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$1,189.03",MD
+Johns Hopkins Bayview Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,$674.85,MD
+Johns Hopkins Bayview Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$1,189.03",MD
+Johns Hopkins Bayview Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,783.54",MD
+Johns Hopkins Bayview Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$755.19,MD
+Johns Hopkins Bayview Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,189.03",MD
+Johns Hopkins Bayview Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$706.99,MD
+Johns Hopkins Bayview Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,$755.19,MD
+Johns Hopkins Bayview Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$849.14,MD
+Johns Hopkins Bayview Medical Center,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$783.82,MD
+Johns Hopkins Bayview Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$718.50,MD
+Johns Hopkins Bayview Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$816.48,MD
+Johns Hopkins Bayview Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$100.02,MD
+Johns Hopkins Bayview Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$751.16,MD
+Johns Hopkins Bayview Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$587.87,MD
+Johns Hopkins Bayview Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$228.62,MD
+Johns Hopkins Bayview Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$685.85,MD
+Johns Hopkins Bayview Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$816.48,MD
+Johns Hopkins Bayview Medical Center,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$816.48,MD
+Johns Hopkins Bayview Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$293.93,MD
+Johns Hopkins Bayview Medical Center,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$326.59,MD
+Johns Hopkins Bayview Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$163.30,MD
+Johns Hopkins Bayview Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$130.64,MD
+Johns Hopkins Bayview Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$195.96,MD
+Johns Hopkins Bayview Medical Center,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$261.27,MD
+Johns Hopkins Bayview Medical Center,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$228.62,MD
+Johns Hopkins Bayview Medical Center,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$555.21,MD
+Johns Hopkins Bayview Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$228.62,MD
+Johns Hopkins Bayview Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$163.30,MD
+Johns Hopkins Bayview Medical Center,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$195.96,MD
+Johns Hopkins Bayview Medical Center,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$261.27,MD
+Johns Hopkins Bayview Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$293.93,MD
+Johns Hopkins Bayview Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$261.27,MD
+Johns Hopkins Bayview Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$195.96,MD
+Johns Hopkins Bayview Medical Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$228.62,MD
+Johns Hopkins Bayview Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$195.96,MD
+Johns Hopkins Bayview Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$195.96,MD
+Johns Hopkins Bayview Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$261.27,MD
+Johns Hopkins Bayview Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$195.96,MD
+Johns Hopkins Bayview Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$228.62,MD
+Johns Hopkins Bayview Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$195.96,MD
+Johns Hopkins Bayview Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$163.30,MD
+Johns Hopkins Bayview Medical Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$163.30,MD
+Johns Hopkins Bayview Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$195.96,MD
+Johns Hopkins Bayview Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$261.27,MD
+Johns Hopkins Bayview Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$195.96,MD
+Johns Hopkins Bayview Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$293.93,MD
+Johns Hopkins Bayview Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$228.62,MD
+Johns Hopkins Bayview Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$359.25,MD
+Johns Hopkins Bayview Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$195.96,MD
+Johns Hopkins Bayview Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$195.96,MD
+Johns Hopkins Bayview Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$228.62,MD
+Johns Hopkins Bayview Medical Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$163.30,MD
+Johns Hopkins Bayview Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$195.96,MD
+Johns Hopkins Bayview Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$163.30,MD
+Johns Hopkins Bayview Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$163.30,MD
+Johns Hopkins Bayview Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$195.96,MD
+Johns Hopkins Bayview Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$228.62,MD
+Johns Hopkins Bayview Medical Center,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$138.09,MD
+Johns Hopkins Bayview Medical Center,Head,HCPCS 67028,Injection of drug into the eye,$945.74,MD
+Johns Hopkins Bayview Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$76.14,MD
+Johns Hopkins Bayview Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$152.28,MD
+Johns Hopkins Bayview Medical Center,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$215.19,MD
+Johns Hopkins Bayview Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$430.38,MD

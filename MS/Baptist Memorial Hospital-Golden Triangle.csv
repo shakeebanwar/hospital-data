@@ -1,0 +1,335 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Baptist Memorial Hospital-Golden Triangle,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$361.25,MS
+Baptist Memorial Hospital-Golden Triangle,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes",$452.00,MS
+Baptist Memorial Hospital-Golden Triangle,Emergency Care,HCPCS 99281,Emergency Level 1,$77.00,MS
+Baptist Memorial Hospital-Golden Triangle,Emergency Care,HCPCS 99282,Emergency Level 2,$115.50,MS
+Baptist Memorial Hospital-Golden Triangle,Emergency Care,HCPCS 99283,Emergency Level 3,$162.75,MS
+Baptist Memorial Hospital-Golden Triangle,Emergency Care,HCPCS 99284,Emergency Level 4,$234.50,MS
+Baptist Memorial Hospital-Golden Triangle,Emergency Care,HCPCS 99285,Emergency Level 5,$313.50,MS
+Baptist Memorial Hospital-Golden Triangle,Hospital,HCPCS 99219,Hospital observation care typically 30 minutes,$45.25,MS
+Baptist Memorial Hospital-Golden Triangle,Hospital,HCPCS 99224,"Subsequent observation care, typically 35 minutes per day",$16.75,MS
+Baptist Memorial Hospital-Golden Triangle,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$121.75,MS
+Baptist Memorial Hospital-Golden Triangle,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$149.50,MS
+Baptist Memorial Hospital-Golden Triangle,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$79.50,MS
+Baptist Memorial Hospital-Golden Triangle,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$106.50,MS
+Baptist Memorial Hospital-Golden Triangle,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$147.75,MS
+Baptist Memorial Hospital-Golden Triangle,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$140.50,MS
+Baptist Memorial Hospital-Golden Triangle,Psychology,HCPCS 90853,Group psychotherapy,$91.00,MS
+Baptist Memorial Hospital-Golden Triangle,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$93.75,MS
+Baptist Memorial Hospital-Golden Triangle,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$50.25,MS
+Baptist Memorial Hospital-Golden Triangle,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$117.50,MS
+Baptist Memorial Hospital-Golden Triangle,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$128.50,MS
+Baptist Memorial Hospital-Golden Triangle,Speech,HCPCS 92507,Speech Therapy,$231.75,MS
+Baptist Memorial Hospital-Golden Triangle,Speech,HCPCS 92610,Swallow Evaluation,$153.25,MS
+Baptist Memorial Hospital-Golden Triangle,Speech,HCPCS 92526,Swallow Treatment,$231.75,MS
+Baptist Memorial Hospital-Golden Triangle,Blood,HCPCS 85018,"Blood count, hemoglobin",$20.00,MS
+Baptist Memorial Hospital-Golden Triangle,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$20.00,MS
+Baptist Memorial Hospital-Golden Triangle,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$36.75,MS
+Baptist Memorial Hospital-Golden Triangle,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$43.50,MS
+Baptist Memorial Hospital-Golden Triangle,Blood,HCPCS 85610,"Blood test, clotting time",$36.75,MS
+Baptist Memorial Hospital-Golden Triangle,Blood,HCPCS 85730,Coagulation assessment blood test,$14.00,MS
+Baptist Memorial Hospital-Golden Triangle,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$32.75,MS
+Baptist Memorial Hospital-Golden Triangle,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$36.50,MS
+Baptist Memorial Hospital-Golden Triangle,Blood,HCPCS 85027,"Complete blood count, automated",$31.50,MS
+Baptist Memorial Hospital-Golden Triangle,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$7.75,MS
+Baptist Memorial Hospital-Golden Triangle,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$97.00,MS
+Baptist Memorial Hospital-Golden Triangle,Blood,HCPCS 85660,Red blood cell sickling measurement,$43.25,MS
+Baptist Memorial Hospital-Golden Triangle,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$281.00,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$275.50,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$299.75,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82040,Albumin (protein) level,$40.75,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$79.25,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$31.00,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82140,Ammonia level,$92.50,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82150,Amylase (enzyme) level,$53.25,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$83.75,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$75.50,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 84439,Assay of free thyroxine,$33.50,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$128.25,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82248,Bilirubin level (Direct),$42.75,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82247,Bilirubin level (Total),$42.75,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82565,Blood creatinine level,$43.25,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$32.75,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$1.56,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 84295,Blood sodium level,$40.00,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$36.75,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$76.25,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82310,Calcium level,$43.25,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$34.50,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$153.50,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82465,Cholesterol level,$34.50,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82525,Copper level,$99.00,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82533,Cortisol Measurement,$53.25,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 84681,C-peptide (protein) level,$155.00,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$53.75,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$122.25,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$71.25,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$310.50,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$111.25,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82746,Folic acid; serum,$93.50,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$74.50,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$59.00,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$79.00,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$150.25,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$143.25,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$103.75,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 83718,HDL cholesterol level,$65.50,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 83020,Hemoglobin Measurement,$104.25,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$95.75,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$215.25,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 83520,IgE (immune system protein) level,$129.25,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 83525,Insulin Measurement; Total,$93.00,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82330,Ionized Calcium,$53.25,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 83550,Iron Binding Capacity,$71.50,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 83540,Iron level,$53.25,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$48.00,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 83721,LDL cholesterol level,$33.50,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$13.50,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$43.25,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$114.75,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 83735,Magnesium Level,$23.25,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82542,Mass spectrometry,$160.50,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$50.50,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$6.50,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 83918,Organic acid level,$70.50,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 83945,Oxalate level,$34.75,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 83970,Parathormone,$152.50,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$60.50,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 84157,Prealbumin (protein) level,$30.25,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$31.00,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$157.25,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$15.50,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82270,Stool analysis for blood,$20.50,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 84403,Testosterone (hormone) level,$58.75,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 84402,Testosterone Level; Free,$70.00,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement",$26.25,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$191.25,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$26.25,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 84155,"Total protein level, blood",$43.50,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$54.25,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 84478,Triglycerides level,$47.25,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 84166,Troponin (protein) analysis,$27.75,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 84560,Uric acid level,$61.25,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 84550,"Uric acid level, blood",$35.25,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82340,Urine calcium level,$50.00,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82436,Urine chloride level,$42.75,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$26.25,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$56.00,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$118.50,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 84133,Urine potassium level,$34.50,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 84300,Urine sodium level,$40.00,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 84591,Vitamin B-6 level,$9.25,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$260.75,MS
+Baptist Memorial Hospital-Golden Triangle,Chemistry,HCPCS 84630,Zinc level,$76.50,MS
+Baptist Memorial Hospital-Golden Triangle,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$13.75,MS
+Baptist Memorial Hospital-Golden Triangle,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$114.00,MS
+Baptist Memorial Hospital-Golden Triangle,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$58.25,MS
+Baptist Memorial Hospital-Golden Triangle,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$28.75,MS
+Baptist Memorial Hospital-Golden Triangle,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$16.50,MS
+Baptist Memorial Hospital-Golden Triangle,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$86.75,MS
+Baptist Memorial Hospital-Golden Triangle,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$109.75,MS
+Baptist Memorial Hospital-Golden Triangle,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$33.25,MS
+Baptist Memorial Hospital-Golden Triangle,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$86.75,MS
+Baptist Memorial Hospital-Golden Triangle,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$19.75,MS
+Baptist Memorial Hospital-Golden Triangle,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$226.00,MS
+Baptist Memorial Hospital-Golden Triangle,Immunology,HCPCS 86140,Measurement C-reactive protein,$34.50,MS
+Baptist Memorial Hospital-Golden Triangle,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$5.25,MS
+Baptist Memorial Hospital-Golden Triangle,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$46.75,MS
+Baptist Memorial Hospital-Golden Triangle,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$20.00,MS
+Baptist Memorial Hospital-Golden Triangle,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$33.50,MS
+Baptist Memorial Hospital-Golden Triangle,Immunology,HCPCS 86431,Rheumatoid factor level,$63.25,MS
+Baptist Memorial Hospital-Golden Triangle,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$218.75,MS
+Baptist Memorial Hospital-Golden Triangle,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$83.00,MS
+Baptist Memorial Hospital-Golden Triangle,Immunology,HCPCS 86592,Syphilis Detection Test,$34.50,MS
+Baptist Memorial Hospital-Golden Triangle,Immunology,HCPCS 86361,T cell count and ratio,$122.25,MS
+Baptist Memorial Hospital-Golden Triangle,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$125.75,MS
+Baptist Memorial Hospital-Golden Triangle,Immunology,HCPCS 86359,"T cells count, total",$58.75,MS
+Baptist Memorial Hospital-Golden Triangle,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$127.00,MS
+Baptist Memorial Hospital-Golden Triangle,Immunology,HCPCS 86580,Tuberculosis Test,$13.75,MS
+Baptist Memorial Hospital-Golden Triangle,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$8.25,MS
+Baptist Memorial Hospital-Golden Triangle,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$127.50,MS
+Baptist Memorial Hospital-Golden Triangle,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$64.00,MS
+Baptist Memorial Hospital-Golden Triangle,Microbiology,HCPCS 87491,Chlamydia Test,$50.25,MS
+Baptist Memorial Hospital-Golden Triangle,Microbiology,HCPCS 87635,Covid-19 current infection test,$39.75,MS
+Baptist Memorial Hospital-Golden Triangle,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$28.00,MS
+Baptist Memorial Hospital-Golden Triangle,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$93.50,MS
+Baptist Memorial Hospital-Golden Triangle,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$252.75,MS
+Baptist Memorial Hospital-Golden Triangle,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$69.00,MS
+Baptist Memorial Hospital-Golden Triangle,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$132.25,MS
+Baptist Memorial Hospital-Golden Triangle,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$40.75,MS
+Baptist Memorial Hospital-Golden Triangle,Microbiology,HCPCS 87517,Hepatitis B Detection,$103.75,MS
+Baptist Memorial Hospital-Golden Triangle,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$22.00,MS
+Baptist Memorial Hospital-Golden Triangle,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$15.00,MS
+Baptist Memorial Hospital-Golden Triangle,Microbiology,HCPCS 86735,Mumps virus antibody test,$114.75,MS
+Baptist Memorial Hospital-Golden Triangle,Microbiology,HCPCS 86747,Parvovirus antibody test,$83.75,MS
+Baptist Memorial Hospital-Golden Triangle,Microbiology,HCPCS 86762,Rubella virus antibody test,$108.00,MS
+Baptist Memorial Hospital-Golden Triangle,Microbiology,HCPCS 86765,Rubeola virus antibody test,$14.00,MS
+Baptist Memorial Hospital-Golden Triangle,Microbiology,HCPCS 87207,Smear for infectious agents,$49.25,MS
+Baptist Memorial Hospital-Golden Triangle,Microbiology,HCPCS 87177,Smear for Parasites,$92.50,MS
+Baptist Memorial Hospital-Golden Triangle,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$19.50,MS
+Baptist Memorial Hospital-Golden Triangle,Microbiology,HCPCS 87045,Stool Culture,$76.50,MS
+Baptist Memorial Hospital-Golden Triangle,Microbiology,HCPCS 87880,Strep Test,$86.00,MS
+Baptist Memorial Hospital-Golden Triangle,Microbiology,HCPCS 87804,Test for Influenza Virus,$36.75,MS
+Baptist Memorial Hospital-Golden Triangle,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$13.00,MS
+Baptist Memorial Hospital-Golden Triangle,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$103.75,MS
+Baptist Memorial Hospital-Golden Triangle,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$309.25,MS
+Baptist Memorial Hospital-Golden Triangle,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$133.50,MS
+Baptist Memorial Hospital-Golden Triangle,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$141.75,MS
+Baptist Memorial Hospital-Golden Triangle,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$147.50,MS
+Baptist Memorial Hospital-Golden Triangle,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$83.50,MS
+Baptist Memorial Hospital-Golden Triangle,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$68.75,MS
+Baptist Memorial Hospital-Golden Triangle,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$124.25,MS
+Baptist Memorial Hospital-Golden Triangle,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$13.75,MS
+Baptist Memorial Hospital-Golden Triangle,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$146.50,MS
+Baptist Memorial Hospital-Golden Triangle,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$146.50,MS
+Baptist Memorial Hospital-Golden Triangle,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$108.00,MS
+Baptist Memorial Hospital-Golden Triangle,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$63.25,MS
+Baptist Memorial Hospital-Golden Triangle,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$59.00,MS
+Baptist Memorial Hospital-Golden Triangle,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$53.75,MS
+Baptist Memorial Hospital-Golden Triangle,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$61.25,MS
+Baptist Memorial Hospital-Golden Triangle,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$108.00,MS
+Baptist Memorial Hospital-Golden Triangle,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$166.75,MS
+Baptist Memorial Hospital-Golden Triangle,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$110.50,MS
+Baptist Memorial Hospital-Golden Triangle,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$110.50,MS
+Baptist Memorial Hospital-Golden Triangle,Transfusion,HCPCS 86900,"Blood Typing, ABO",$33.50,MS
+Baptist Memorial Hospital-Golden Triangle,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$33.50,MS
+Baptist Memorial Hospital-Golden Triangle,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$52.00,MS
+Baptist Memorial Hospital-Golden Triangle,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$44.25,MS
+Baptist Memorial Hospital-Golden Triangle,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$43.50,MS
+Baptist Memorial Hospital-Golden Triangle,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$64.00,MS
+Baptist Memorial Hospital-Golden Triangle,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$7.50,MS
+Baptist Memorial Hospital-Golden Triangle,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$7.50,MS
+Baptist Memorial Hospital-Golden Triangle,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$2.50,MS
+Baptist Memorial Hospital-Golden Triangle,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$56.00,MS
+Baptist Memorial Hospital-Golden Triangle,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$196.25,MS
+Baptist Memorial Hospital-Golden Triangle,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$54.00,MS
+Baptist Memorial Hospital-Golden Triangle,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$187.50,MS
+Baptist Memorial Hospital-Golden Triangle,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$22.50,MS
+Baptist Memorial Hospital-Golden Triangle,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),$327.00,MS
+Baptist Memorial Hospital-Golden Triangle,Cardiovascular,HCPCS 93975,Ultrasound Heart,$338.00,MS
+Baptist Memorial Hospital-Golden Triangle,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$68.00,MS
+Baptist Memorial Hospital-Golden Triangle,Pulmonary,HCPCS 94640,Nebulizer Treatment,$53.50,MS
+Baptist Memorial Hospital-Golden Triangle,Pulmonary,HCPCS 94618,Pulmonary stress test,$47.75,MS
+Baptist Memorial Hospital-Golden Triangle,Pulmonary,HCPCS 94010,Spirometry - breathing test,$149.00,MS
+Baptist Memorial Hospital-Golden Triangle,Sleep,HCPCS 95810,Sleep study,"$1,165.00",MS
+Baptist Memorial Hospital-Golden Triangle,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$22.25,MS
+Baptist Memorial Hospital-Golden Triangle,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$129.50,MS
+Baptist Memorial Hospital-Golden Triangle,Breast,HCPCS 77067,Mammogram Screening,$116.50,MS
+Baptist Memorial Hospital-Golden Triangle,Breast,HCPCS 77066,Mammography of both breasts,$162.00,MS
+Baptist Memorial Hospital-Golden Triangle,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,114.50",MS
+Baptist Memorial Hospital-Golden Triangle,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$723.75,MS
+Baptist Memorial Hospital-Golden Triangle,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$647.75,MS
+Baptist Memorial Hospital-Golden Triangle,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$787.25,MS
+Baptist Memorial Hospital-Golden Triangle,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,396.75",MS
+Baptist Memorial Hospital-Golden Triangle,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,317.50",MS
+Baptist Memorial Hospital-Golden Triangle,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,229.75",MS
+Baptist Memorial Hospital-Golden Triangle,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$955.00,MS
+Baptist Memorial Hospital-Golden Triangle,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,041.00",MS
+Baptist Memorial Hospital-Golden Triangle,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$948.75,MS
+Baptist Memorial Hospital-Golden Triangle,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$70.25,MS
+Baptist Memorial Hospital-Golden Triangle,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$892.00,MS
+Baptist Memorial Hospital-Golden Triangle,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$784.25,MS
+Baptist Memorial Hospital-Golden Triangle,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)",$795.25,MS
+Baptist Memorial Hospital-Golden Triangle,MRI,HCPCS 72146,MRI chest spine without contrast material,$967.75,MS
+Baptist Memorial Hospital-Golden Triangle,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$967.75,MS
+Baptist Memorial Hospital-Golden Triangle,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$1,454.25",MS
+Baptist Memorial Hospital-Golden Triangle,MRI,HCPCS 72141,MRI neck spine without contrast material,$967.75,MS
+Baptist Memorial Hospital-Golden Triangle,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$1,469.50",MS
+Baptist Memorial Hospital-Golden Triangle,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,253.00",MS
+Baptist Memorial Hospital-Golden Triangle,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$795.25,MS
+Baptist Memorial Hospital-Golden Triangle,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,454.25",MS
+Baptist Memorial Hospital-Golden Triangle,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$785.25,MS
+Baptist Memorial Hospital-Golden Triangle,MRI,HCPCS 73721,MRI scan of leg joint,$876.00,MS
+Baptist Memorial Hospital-Golden Triangle,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$339.50,MS
+Baptist Memorial Hospital-Golden Triangle,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$126.00,MS
+Baptist Memorial Hospital-Golden Triangle,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$191.50,MS
+Baptist Memorial Hospital-Golden Triangle,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$188.25,MS
+Baptist Memorial Hospital-Golden Triangle,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$263.00,MS
+Baptist Memorial Hospital-Golden Triangle,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$304.25,MS
+Baptist Memorial Hospital-Golden Triangle,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$232.25,MS
+Baptist Memorial Hospital-Golden Triangle,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$136.00,MS
+Baptist Memorial Hospital-Golden Triangle,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$223.25,MS
+Baptist Memorial Hospital-Golden Triangle,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$135.00,MS
+Baptist Memorial Hospital-Golden Triangle,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$156.75,MS
+Baptist Memorial Hospital-Golden Triangle,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$92.25,MS
+Baptist Memorial Hospital-Golden Triangle,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$109.75,MS
+Baptist Memorial Hospital-Golden Triangle,Chest,HCPCS 71046,X-ray of chest; 2 Views,$88.25,MS
+Baptist Memorial Hospital-Golden Triangle,Chest,HCPCS 71045,X-ray of chest; Single View,$68.75,MS
+Baptist Memorial Hospital-Golden Triangle,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$67.25,MS
+Baptist Memorial Hospital-Golden Triangle,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$52.00,MS
+Baptist Memorial Hospital-Golden Triangle,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$52.00,MS
+Baptist Memorial Hospital-Golden Triangle,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$70.00,MS
+Baptist Memorial Hospital-Golden Triangle,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$46.75,MS
+Baptist Memorial Hospital-Golden Triangle,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$35.50,MS
+Baptist Memorial Hospital-Golden Triangle,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$73.00,MS
+Baptist Memorial Hospital-Golden Triangle,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$121.75,MS
+Baptist Memorial Hospital-Golden Triangle,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$109.75,MS
+Baptist Memorial Hospital-Golden Triangle,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$37.75,MS
+Baptist Memorial Hospital-Golden Triangle,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$60.50,MS
+Baptist Memorial Hospital-Golden Triangle,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$53.75,MS
+Baptist Memorial Hospital-Golden Triangle,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$52.00,MS
+Baptist Memorial Hospital-Golden Triangle,Lower Limbs,HCPCS 73565,X-ray Both Knees,$52.00,MS
+Baptist Memorial Hospital-Golden Triangle,Lower Limbs,HCPCS 73630,X-ray exam of foot,$54.50,MS
+Baptist Memorial Hospital-Golden Triangle,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$76.25,MS
+Baptist Memorial Hospital-Golden Triangle,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$91.00,MS
+Baptist Memorial Hospital-Golden Triangle,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$46.75,MS
+Baptist Memorial Hospital-Golden Triangle,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$46.75,MS
+Baptist Memorial Hospital-Golden Triangle,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$52.00,MS
+Baptist Memorial Hospital-Golden Triangle,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$69.00,MS
+Baptist Memorial Hospital-Golden Triangle,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$52.00,MS
+Baptist Memorial Hospital-Golden Triangle,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$105.50,MS
+Baptist Memorial Hospital-Golden Triangle,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$60.50,MS
+Baptist Memorial Hospital-Golden Triangle,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$83.75,MS
+Baptist Memorial Hospital-Golden Triangle,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$63.75,MS
+Baptist Memorial Hospital-Golden Triangle,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$52.00,MS
+Baptist Memorial Hospital-Golden Triangle,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$46.75,MS
+Baptist Memorial Hospital-Golden Triangle,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$42.75,MS
+Baptist Memorial Hospital-Golden Triangle,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$69.00,MS
+Baptist Memorial Hospital-Golden Triangle,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$69.00,MS
+Baptist Memorial Hospital-Golden Triangle,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$40.75,MS
+Baptist Memorial Hospital-Golden Triangle,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$35.50,MS
+Baptist Memorial Hospital-Golden Triangle,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$69.00,MS
+Baptist Memorial Hospital-Golden Triangle,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$5,701.80",MS
+Baptist Memorial Hospital-Golden Triangle,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,$278.75,MS
+Baptist Memorial Hospital-Golden Triangle,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$37.00,MS
+Baptist Memorial Hospital-Golden Triangle,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$41.25,MS
+Baptist Memorial Hospital-Golden Triangle,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$6,630.43",MS
+Baptist Memorial Hospital-Golden Triangle,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,"$38,402.08",MS
+Baptist Memorial Hospital-Golden Triangle,Cardiac,MSDRG 216,Cardiac valve procedure,"$34,400.53",MS
+Baptist Memorial Hospital-Golden Triangle,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$41,525.48",MS
+Baptist Memorial Hospital-Golden Triangle,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$31,420.69",MS
+Baptist Memorial Hospital-Golden Triangle,Cardiac,HCPCS 33249,Defibrillator complete system,"$17,731.50",MS
+Baptist Memorial Hospital-Golden Triangle,Cardiac,HCPCS 33240,Defibrillator generator,"$11,414.75",MS
+Baptist Memorial Hospital-Golden Triangle,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$2,938.25",MS
+Baptist Memorial Hospital-Golden Triangle,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$3,140.25",MS
+Baptist Memorial Hospital-Golden Triangle,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$167.25,MS
+Baptist Memorial Hospital-Golden Triangle,Cardiac,MSDRG 247,Implant drug-eluting stent,"$24,588.84",MS
+Baptist Memorial Hospital-Golden Triangle,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$18,914.13",MS
+Baptist Memorial Hospital-Golden Triangle,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$9,984.75",MS
+Baptist Memorial Hospital-Golden Triangle,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$6,990.95",MS
+Baptist Memorial Hospital-Golden Triangle,General,HCPCS 10060,Drainage of Abscess,$93.75,MS
+Baptist Memorial Hospital-Golden Triangle,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$88.75,MS
+Baptist Memorial Hospital-Golden Triangle,General,HCPCS 69200,Removal of foreign body from ear canal,$41.25,MS
+Baptist Memorial Hospital-Golden Triangle,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$53.25,MS
+Baptist Memorial Hospital-Golden Triangle,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$102.25,MS
+Baptist Memorial Hospital-Golden Triangle,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$51.25,MS
+Baptist Memorial Hospital-Golden Triangle,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$70.75,MS
+Baptist Memorial Hospital-Golden Triangle,Head,HCPCS 67028,Injection of drug into the eye,$104.25,MS
+Baptist Memorial Hospital-Golden Triangle,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$15,665.44",MS
+Baptist Memorial Hospital-Golden Triangle,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$53.25,MS
+Baptist Memorial Hospital-Golden Triangle,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$404.00,MS
+Baptist Memorial Hospital-Golden Triangle,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,$364.00,MS
+Baptist Memorial Hospital-Golden Triangle,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$428.00,MS
+Baptist Memorial Hospital-Golden Triangle,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$227.75,MS
+Baptist Memorial Hospital-Golden Triangle,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$8,485.43",MS
+Baptist Memorial Hospital-Golden Triangle,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$13,263.41",MS
+Baptist Memorial Hospital-Golden Triangle,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$14,813.47",MS
+Baptist Memorial Hospital-Golden Triangle,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$4,997.13",MS
+Baptist Memorial Hospital-Golden Triangle,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$3,853.91",MS
+Baptist Memorial Hospital-Golden Triangle,Soft Tissue,HCPCS 97597,Debridement of open wound,$83.75,MS
+Baptist Memorial Hospital-Golden Triangle,Soft Tissue,HCPCS 97602,Non-selective debridement,$45.50,MS
+Baptist Memorial Hospital-Golden Triangle,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$35.25,MS
+Baptist Memorial Hospital-Golden Triangle,Vascular,HCPCS 36416,Collection of capillary blood specimen,$8.50,MS
+Baptist Memorial Hospital-Golden Triangle,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),$764.00,MS
+Baptist Memorial Hospital-Golden Triangle,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$243.50,MS
+Baptist Memorial Hospital-Golden Triangle,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,$584.00,MS

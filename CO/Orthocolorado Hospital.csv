@@ -1,0 +1,34 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Orthocolorado Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$37.76,CO
+Orthocolorado Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$40.31,CO
+Orthocolorado Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$78.08,CO
+Orthocolorado Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$78.08,CO
+Orthocolorado Hospital,Chemistry,HCPCS 84132,Blood potassium level,$25.17,CO
+Orthocolorado Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$41.32,CO
+Orthocolorado Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$108.85,CO
+Orthocolorado Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$75.12,CO
+Orthocolorado Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$82.75,CO
+Orthocolorado Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$44.41,CO
+Orthocolorado Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$44.41,CO
+Orthocolorado Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$222.46,CO
+Orthocolorado Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$26.49,CO
+Orthocolorado Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$459.42,CO
+Orthocolorado Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$251.34,CO
+Orthocolorado Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$236.57,CO
+Orthocolorado Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$236.57,CO
+Orthocolorado Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$82.72,CO
+Orthocolorado Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$236.57,CO
+Orthocolorado Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$258.50,CO
+Orthocolorado Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$287.33,CO
+Orthocolorado Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$329.51,CO
+Orthocolorado Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$337.12,CO
+Orthocolorado Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$255.19,CO
+Orthocolorado Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$255.19,CO
+Orthocolorado Hospital,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$67,371.91",CO
+Orthocolorado Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$666.55,CO
+Orthocolorado Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$30,123.59",CO
+Orthocolorado Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$5,426.59",CO
+Orthocolorado Hospital,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$5,426.59",CO
+Orthocolorado Hospital,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$2,845.73",CO
+Orthocolorado Hospital,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$35,420.75",CO
+Orthocolorado Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$67,371.91",CO

@@ -1,0 +1,308 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Holy Cross Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$30.00,MD
+Holy Cross Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$93.09,MD
+Holy Cross Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$186.18,MD
+Holy Cross Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$372.36,MD
+Holy Cross Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$624.28,MD
+Holy Cross Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$650.64,MD
+Holy Cross Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$308.11,MD
+Holy Cross Hospital,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$96.91,MD
+Holy Cross Hospital,Speech,HCPCS 92507,Speech Therapy,$48.46,MD
+Holy Cross Hospital,Speech,HCPCS 92610,Swallow Evaluation,$222.51,MD
+Holy Cross Hospital,Speech,HCPCS 92526,Swallow Treatment,$48.46,MD
+Holy Cross Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$7.87,MD
+Holy Cross Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$7.88,MD
+Holy Cross Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$8.04,MD
+Holy Cross Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$29.99,MD
+Holy Cross Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$15.79,MD
+Holy Cross Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$15.82,MD
+Holy Cross Hospital,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$45.93,MD
+Holy Cross Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$19.86,MD
+Holy Cross Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$15.84,MD
+Holy Cross Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$19.14,MD
+Holy Cross Hospital,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$114.82,MD
+Holy Cross Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$19.14,MD
+Holy Cross Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$287.56,MD
+Holy Cross Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$57.41,MD
+Holy Cross Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$3.83,MD
+Holy Cross Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$28.70,MD
+Holy Cross Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$28.70,MD
+Holy Cross Hospital,Chemistry,HCPCS 82140,Ammonia level,$38.27,MD
+Holy Cross Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$11.48,MD
+Holy Cross Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$38.27,MD
+Holy Cross Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$59.32,MD
+Holy Cross Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$28.65,MD
+Holy Cross Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$28.70,MD
+Holy Cross Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$11.97,MD
+Holy Cross Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$12.07,MD
+Holy Cross Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$3.96,MD
+Holy Cross Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$7.98,MD
+Holy Cross Hospital,Chemistry,HCPCS 84132,Blood potassium level,$7.87,MD
+Holy Cross Hospital,Chemistry,HCPCS 84295,Blood sodium level,$3.83,MD
+Holy Cross Hospital,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$3.83,MD
+Holy Cross Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$29.57,MD
+Holy Cross Hospital,Chemistry,HCPCS 82310,Calcium level,$3.83,MD
+Holy Cross Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$3.83,MD
+Holy Cross Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$47.84,MD
+Holy Cross Hospital,Chemistry,HCPCS 82465,Cholesterol level,$7.65,MD
+Holy Cross Hospital,Chemistry,HCPCS 82525,Copper level,$47.84,MD
+Holy Cross Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$28.70,MD
+Holy Cross Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$28.70,MD
+Holy Cross Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$11.48,MD
+Holy Cross Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$28.70,MD
+Holy Cross Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$47.84,MD
+Holy Cross Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$28.70,MD
+Holy Cross Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$28.70,MD
+Holy Cross Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$28.70,MD
+Holy Cross Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$3.83,MD
+Holy Cross Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$39.46,MD
+Holy Cross Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$28.70,MD
+Holy Cross Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$47.84,MD
+Holy Cross Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$28.70,MD
+Holy Cross Hospital,Chemistry,HCPCS 83718,HDL cholesterol level,$28.70,MD
+Holy Cross Hospital,Chemistry,HCPCS 83020,Hemoglobin Measurement,$50.90,MD
+Holy Cross Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$57.41,MD
+Holy Cross Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$66.98,MD
+Holy Cross Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$38.27,MD
+Holy Cross Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$28.70,MD
+Holy Cross Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$28.70,MD
+Holy Cross Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$22.96,MD
+Holy Cross Hospital,Chemistry,HCPCS 83540,Iron level,$11.48,MD
+Holy Cross Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$7.99,MD
+Holy Cross Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$28.70,MD
+Holy Cross Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$15.78,MD
+Holy Cross Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$3.83,MD
+Holy Cross Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$28.70,MD
+Holy Cross Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$47.84,MD
+Holy Cross Hospital,Chemistry,HCPCS 83735,Magnesium Level,$11.83,MD
+Holy Cross Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$57.41,MD
+Holy Cross Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$28.70,MD
+Holy Cross Hospital,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$28.70,MD
+Holy Cross Hospital,Chemistry,HCPCS 83918,Organic acid level,$239.20,MD
+Holy Cross Hospital,Chemistry,HCPCS 83945,Oxalate level,$28.70,MD
+Holy Cross Hospital,Chemistry,HCPCS 83970,Parathormone,$28.70,MD
+Holy Cross Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$19.14,MD
+Holy Cross Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$47.84,MD
+Holy Cross Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$38.27,MD
+Holy Cross Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$47.84,MD
+Holy Cross Hospital,Chemistry,HCPCS A9270,Selenium (vitamin) level,$1.05,MD
+Holy Cross Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$9.91,MD
+Holy Cross Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$29.76,MD
+Holy Cross Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$28.70,MD
+Holy Cross Hospital,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$28.70,MD
+Holy Cross Hospital,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$47.84,MD
+Holy Cross Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$28.65,MD
+Holy Cross Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$3.83,MD
+Holy Cross Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$19.86,MD
+Holy Cross Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$47.84,MD
+Holy Cross Hospital,Chemistry,HCPCS 84560,Uric acid level,$19.14,MD
+Holy Cross Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$3.96,MD
+Holy Cross Hospital,Chemistry,HCPCS 82340,Urine calcium level,$19.14,MD
+Holy Cross Hospital,Chemistry,HCPCS 82436,Urine chloride level,$19.14,MD
+Holy Cross Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$29.68,MD
+Holy Cross Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$19.14,MD
+Holy Cross Hospital,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$66.98,MD
+Holy Cross Hospital,Chemistry,HCPCS 84133,Urine potassium level,$19.14,MD
+Holy Cross Hospital,Chemistry,HCPCS 84300,Urine sodium level,$19.14,MD
+Holy Cross Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$29.54,MD
+Holy Cross Hospital,Chemistry,HCPCS 84630,Zinc level,$47.84,MD
+Holy Cross Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$47.84,MD
+Holy Cross Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$28.70,MD
+Holy Cross Hospital,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$47.84,MD
+Holy Cross Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$47.84,MD
+Holy Cross Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$47.84,MD
+Holy Cross Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$47.84,MD
+Holy Cross Hospital,Immunology,HCPCS 86318,Covid-19 antibody test,$28.70,MD
+Holy Cross Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$59.32,MD
+Holy Cross Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$38.27,MD
+Holy Cross Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$38.27,MD
+Holy Cross Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$47.84,MD
+Holy Cross Hospital,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$76.54,MD
+Holy Cross Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$28.70,MD
+Holy Cross Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$28.70,MD
+Holy Cross Hospital,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$28.70,MD
+Holy Cross Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$38.27,MD
+Holy Cross Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$42.10,MD
+Holy Cross Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$19.14,MD
+Holy Cross Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$15.31,MD
+Holy Cross Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$16.11,MD
+Holy Cross Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$191.36,MD
+Holy Cross Hospital,Immunology,HCPCS 86359,"T cells count, total",$95.68,MD
+Holy Cross Hospital,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$47.84,MD
+Holy Cross Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$38.27,MD
+Holy Cross Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$76.54,MD
+Holy Cross Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$39.79,MD
+Holy Cross Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$91.00,MD
+Holy Cross Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$51.31,MD
+Holy Cross Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$229.63,MD
+Holy Cross Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$47.84,MD
+Holy Cross Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$306.18,MD
+Holy Cross Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$50.79,MD
+Holy Cross Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$306.18,MD
+Holy Cross Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$91.00,MD
+Holy Cross Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$306.18,MD
+Holy Cross Hospital,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$47.84,MD
+Holy Cross Hospital,Microbiology,HCPCS 87624,HPV Detection,$242.53,MD
+Holy Cross Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$38.27,MD
+Holy Cross Hospital,Microbiology,HCPCS 86747,Parvovirus antibody test,$57.41,MD
+Holy Cross Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$30.58,MD
+Holy Cross Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$38.27,MD
+Holy Cross Hospital,Microbiology,HCPCS 87207,Smear for infectious agents,$28.70,MD
+Holy Cross Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$76.54,MD
+Holy Cross Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$39.29,MD
+Holy Cross Hospital,Microbiology,HCPCS 87045,Stool Culture,$59.15,MD
+Holy Cross Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$32.53,MD
+Holy Cross Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$40.78,MD
+Holy Cross Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$172.23,MD
+Holy Cross Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$21.69,MD
+Holy Cross Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$29.64,MD
+Holy Cross Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$37.41,MD
+Holy Cross Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$23.81,MD
+Holy Cross Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$21.68,MD
+Holy Cross Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$28.70,MD
+Holy Cross Hospital,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$57.41,MD
+Holy Cross Hospital,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$38.27,MD
+Holy Cross Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$28.70,MD
+Holy Cross Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$111.02,MD
+Holy Cross Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$28.70,MD
+Holy Cross Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$28.70,MD
+Holy Cross Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$28.70,MD
+Holy Cross Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$28.70,MD
+Holy Cross Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$57.41,MD
+Holy Cross Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$28.70,MD
+Holy Cross Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$28.70,MD
+Holy Cross Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$7.95,MD
+Holy Cross Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$7.95,MD
+Holy Cross Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$19.14,MD
+Holy Cross Hospital,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$153.09,MD
+Holy Cross Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$15.31,MD
+Holy Cross Hospital,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$57.41,MD
+Holy Cross Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$23.85,MD
+Holy Cross Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$7.97,MD
+Holy Cross Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$17.81,MD
+Holy Cross Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$19.62,MD
+Holy Cross Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$114.97,MD
+Holy Cross Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$42.08,MD
+Holy Cross Hospital,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$19.16,MD
+Holy Cross Hospital,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$191.62,MD
+Holy Cross Hospital,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),$229.95,MD
+Holy Cross Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,$836.25,MD
+Holy Cross Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,$60.07,MD
+Holy Cross Hospital,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$98.11,MD
+Holy Cross Hospital,Pulmonary,HCPCS 94618,Pulmonary stress test,$151.42,MD
+Holy Cross Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$300.32,MD
+Holy Cross Hospital,Sleep,HCPCS 95810,Sleep study,"$1,068.49",MD
+Holy Cross Hospital,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$84.29,MD
+Holy Cross Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$334.44,MD
+Holy Cross Hospital,Breast,HCPCS 77067,Mammogram Screening,$337.46,MD
+Holy Cross Hospital,Breast,HCPCS 77066,Mammography of both breasts,$412.46,MD
+Holy Cross Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,$225.48,MD
+Holy Cross Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$95.54,MD
+Holy Cross Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$84.68,MD
+Holy Cross Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$109.00,MD
+Holy Cross Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,$282.83,MD
+Holy Cross Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,$251.42,MD
+Holy Cross Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$128.67,MD
+Holy Cross Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$179.62,MD
+Holy Cross Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,$206.37,MD
+Holy Cross Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$189.82,MD
+Holy Cross Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$144.30,MD
+Holy Cross Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$179.62,MD
+Holy Cross Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$183.33,MD
+Holy Cross Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)",$506.93,MD
+Holy Cross Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,$226.31,MD
+Holy Cross Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$228.86,MD
+Holy Cross Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,$403.05,MD
+Holy Cross Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,$226.30,MD
+Holy Cross Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,$379.84,MD
+Holy Cross Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,$604.72,MD
+Holy Cross Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$241.25,MD
+Holy Cross Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,$404.24,MD
+Holy Cross Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$239.29,MD
+Holy Cross Hospital,MRI,HCPCS 73721,MRI scan of leg joint,$265.41,MD
+Holy Cross Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$345.12,MD
+Holy Cross Hospital,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$318.57,MD
+Holy Cross Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$292.02,MD
+Holy Cross Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$303.13,MD
+Holy Cross Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$280.61,MD
+Holy Cross Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$219.21,MD
+Holy Cross Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$92.92,MD
+Holy Cross Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$255.19,MD
+Holy Cross Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$303.44,MD
+Holy Cross Hospital,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$331.84,MD
+Holy Cross Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$119.46,MD
+Holy Cross Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$60.35,MD
+Holy Cross Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$48.02,MD
+Holy Cross Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$79.64,MD
+Holy Cross Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$106.19,MD
+Holy Cross Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$92.92,MD
+Holy Cross Hospital,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$225.65,MD
+Holy Cross Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$92.92,MD
+Holy Cross Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$61.32,MD
+Holy Cross Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$79.64,MD
+Holy Cross Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$106.19,MD
+Holy Cross Hospital,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$119.46,MD
+Holy Cross Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$97.54,MD
+Holy Cross Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$72.46,MD
+Holy Cross Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$92.92,MD
+Holy Cross Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$79.64,MD
+Holy Cross Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$73.02,MD
+Holy Cross Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$106.19,MD
+Holy Cross Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$76.11,MD
+Holy Cross Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$88.84,MD
+Holy Cross Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$79.64,MD
+Holy Cross Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$66.37,MD
+Holy Cross Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$66.37,MD
+Holy Cross Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$76.70,MD
+Holy Cross Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$106.19,MD
+Holy Cross Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$79.64,MD
+Holy Cross Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$119.46,MD
+Holy Cross Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$84.79,MD
+Holy Cross Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$146.01,MD
+Holy Cross Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$72.62,MD
+Holy Cross Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$79.64,MD
+Holy Cross Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$92.92,MD
+Holy Cross Hospital,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$61.13,MD
+Holy Cross Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$66.37,MD
+Holy Cross Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$77.33,MD
+Holy Cross Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$61.63,MD
+Holy Cross Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$79.64,MD
+Holy Cross Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$92.92,MD
+Holy Cross Hospital,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$8,773.00",MD
+Holy Cross Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$6,808.90",MD
+Holy Cross Hospital,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$6,021.31",MD
+Holy Cross Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$4,318.92",MD
+Holy Cross Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$14,004.00",MD
+Holy Cross Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$8,051.31",MD
+Holy Cross Hospital,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$3,851.40",MD
+Holy Cross Hospital,Breast,HCPCS 19120,Excision of cyst of breast,"$3,086.37",MD
+Holy Cross Hospital,Breast,HCPCS 19301,Partial removal of breast,"$2,953.92",MD
+Holy Cross Hospital,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$34.46,MD
+Holy Cross Hospital,Cardiac,MSDRG 247,Implant drug-eluting stent,"$16,846.00",MD
+Holy Cross Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,603.89",MD
+Holy Cross Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,777.62",MD
+Holy Cross Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$2,006.37",MD
+Holy Cross Hospital,Digestive,HCPCS 43235,EGD,"$1,723.64",MD
+Holy Cross Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$1,684.81",MD
+Holy Cross Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$13,682.00",MD
+Holy Cross Hospital,General,HCPCS 10060,Drainage of Abscess,"$1,616.97",MD
+Holy Cross Hospital,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$4,225.40",MD
+Holy Cross Hospital,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$43,457.00",MD
+Holy Cross Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$197.12,MD
+Holy Cross Hospital,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,$198.42,MD
+Holy Cross Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$196.04,MD
+Holy Cross Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$1,485.92",MD
+Holy Cross Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$24,881.00",MD
+Holy Cross Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$3,251.46",MD
+Holy Cross Hospital,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,"$3,577.86",MD
+Holy Cross Hospital,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$3,271.96",MD
+Holy Cross Hospital,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$33,159.00",MD
+Holy Cross Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$43,616.00",MD
+Holy Cross Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$4,629.42",MD
+Holy Cross Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$8,060.00",MD
+Holy Cross Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$7,330.00",MD
+Holy Cross Hospital,Ocular,HCPCS 66984,Cataract removal,"$4,430.26",MD
+Holy Cross Hospital,Ocular,HCPCS 66821,Laser cataract removal,"$1,300.56",MD
+Holy Cross Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$155.48,MD
+Holy Cross Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$11.48,MD
+Holy Cross Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$845.97,MD

@@ -1,0 +1,201 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+St. Luke's McCall Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$1,066.00",ID
+St. Luke's McCall Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$2,666.00",ID
+St. Luke's McCall Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$282.00,ID
+St. Luke's McCall Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$518.00,ID
+St. Luke's McCall Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$904.00,ID
+St. Luke's McCall Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,425.00",ID
+St. Luke's McCall Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$2,043.00",ID
+St. Luke's McCall Medical Center,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$359.00,ID
+St. Luke's McCall Medical Center,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$451.00,ID
+St. Luke's McCall Medical Center,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$451.00,ID
+St. Luke's McCall Medical Center,Psychology,HCPCS 90853,Group psychotherapy,$270.00,ID
+St. Luke's McCall Medical Center,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$451.00,ID
+St. Luke's McCall Medical Center,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$451.00,ID
+St. Luke's McCall Medical Center,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$451.00,ID
+St. Luke's McCall Medical Center,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$451.00,ID
+St. Luke's McCall Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$91.00,ID
+St. Luke's McCall Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$336.00,ID
+St. Luke's McCall Medical Center,Breast,HCPCS 77067,Mammogram Screening,$355.00,ID
+St. Luke's McCall Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$429.00,ID
+St. Luke's McCall Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,676.00",ID
+St. Luke's McCall Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,031.00",ID
+St. Luke's McCall Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,031.00",ID
+St. Luke's McCall Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,031.00",ID
+St. Luke's McCall Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,511.00",ID
+St. Luke's McCall Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$3,511.00",ID
+St. Luke's McCall Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,143.00",ID
+St. Luke's McCall Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,676.00",ID
+St. Luke's McCall Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,676.00",ID
+St. Luke's McCall Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,676.00",ID
+St. Luke's McCall Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,031.00",ID
+St. Luke's McCall Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,676.00",ID
+St. Luke's McCall Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,676.00",ID
+St. Luke's McCall Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$2,330.00",ID
+St. Luke's McCall Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,330.00",ID
+St. Luke's McCall Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,330.00",ID
+St. Luke's McCall Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$3,816.00",ID
+St. Luke's McCall Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,330.00",ID
+St. Luke's McCall Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$3,816.00",ID
+St. Luke's McCall Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$3,816.00",ID
+St. Luke's McCall Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,330.00",ID
+St. Luke's McCall Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,816.00",ID
+St. Luke's McCall Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,330.00",ID
+St. Luke's McCall Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$2,330.00",ID
+St. Luke's McCall Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$392.00,ID
+St. Luke's McCall Medical Center,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$392.00,ID
+St. Luke's McCall Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$392.00,ID
+St. Luke's McCall Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$392.00,ID
+St. Luke's McCall Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$708.00,ID
+St. Luke's McCall Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$392.00,ID
+St. Luke's McCall Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$392.00,ID
+St. Luke's McCall Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$392.00,ID
+St. Luke's McCall Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$392.00,ID
+St. Luke's McCall Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$392.00,ID
+St. Luke's McCall Medical Center,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$392.00,ID
+St. Luke's McCall Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$392.00,ID
+St. Luke's McCall Medical Center,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$392.00,ID
+St. Luke's McCall Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$279.00,ID
+St. Luke's McCall Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$279.00,ID
+St. Luke's McCall Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$279.00,ID
+St. Luke's McCall Medical Center,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$392.00,ID
+St. Luke's McCall Medical Center,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$279.00,ID
+St. Luke's McCall Medical Center,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$392.00,ID
+St. Luke's McCall Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$392.00,ID
+St. Luke's McCall Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$279.00,ID
+St. Luke's McCall Medical Center,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$279.00,ID
+St. Luke's McCall Medical Center,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$392.00,ID
+St. Luke's McCall Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$392.00,ID
+St. Luke's McCall Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$279.00,ID
+St. Luke's McCall Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$392.00,ID
+St. Luke's McCall Medical Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$392.00,ID
+St. Luke's McCall Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$279.00,ID
+St. Luke's McCall Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$279.00,ID
+St. Luke's McCall Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$279.00,ID
+St. Luke's McCall Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$279.00,ID
+St. Luke's McCall Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$279.00,ID
+St. Luke's McCall Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$279.00,ID
+St. Luke's McCall Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$279.00,ID
+St. Luke's McCall Medical Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$279.00,ID
+St. Luke's McCall Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$279.00,ID
+St. Luke's McCall Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$392.00,ID
+St. Luke's McCall Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$279.00,ID
+St. Luke's McCall Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$392.00,ID
+St. Luke's McCall Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$392.00,ID
+St. Luke's McCall Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$392.00,ID
+St. Luke's McCall Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$279.00,ID
+St. Luke's McCall Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$279.00,ID
+St. Luke's McCall Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$279.00,ID
+St. Luke's McCall Medical Center,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$279.00,ID
+St. Luke's McCall Medical Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$392.00,ID
+St. Luke's McCall Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$279.00,ID
+St. Luke's McCall Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$279.00,ID
+St. Luke's McCall Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$279.00,ID
+St. Luke's McCall Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$279.00,ID
+St. Luke's McCall Medical Center,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$33,955.83",ID
+St. Luke's McCall Medical Center,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$4,485.00",ID
+St. Luke's McCall Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$12,385.00",ID
+St. Luke's McCall Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$12,385.00",ID
+St. Luke's McCall Medical Center,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,"$10,738.00",ID
+St. Luke's McCall Medical Center,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$10,738.00",ID
+St. Luke's McCall Medical Center,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$1,495.00",ID
+St. Luke's McCall Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$7,389.00",ID
+St. Luke's McCall Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$294.00,ID
+St. Luke's McCall Medical Center,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$294.00,ID
+St. Luke's McCall Medical Center,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$47,664.01",ID
+St. Luke's McCall Medical Center,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,"$10,738.00",ID
+St. Luke's McCall Medical Center,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$12,385.00",ID
+St. Luke's McCall Medical Center,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$10,738.00",ID
+St. Luke's McCall Medical Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$12,385.00",ID
+St. Luke's McCall Medical Center,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$20,667.00",ID
+St. Luke's McCall Medical Center,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$12,385.00",ID
+St. Luke's McCall Medical Center,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$7,590.00",ID
+St. Luke's McCall Medical Center,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$7,389.00",ID
+St. Luke's McCall Medical Center,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$7,389.00",ID
+St. Luke's McCall Medical Center,Breast,HCPCS 19101,Biopsy of breast,"$8,098.00",ID
+St. Luke's McCall Medical Center,Breast,HCPCS 19325,Breast enlargement using prosthetic implant,"$15,188.00",ID
+St. Luke's McCall Medical Center,Breast,HCPCS 19125,Excision of breast lesion,"$8,098.00",ID
+St. Luke's McCall Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$8,098.00",ID
+St. Luke's McCall Medical Center,Breast,HCPCS 19301,Partial removal of breast,"$8,098.00",ID
+St. Luke's McCall Medical Center,Breast,HCPCS 19318,Reduction mammaplasty,"$13,783.00",ID
+St. Luke's McCall Medical Center,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$13,783.00",ID
+St. Luke's McCall Medical Center,Breast,HCPCS 19303,Total removal of breast,"$13,783.00",ID
+St. Luke's McCall Medical Center,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,"$70,433.93",ID
+St. Luke's McCall Medical Center,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),"$237,900.76",ID
+St. Luke's McCall Medical Center,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$179,774.93",ID
+St. Luke's McCall Medical Center,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$146,587.58",ID
+St. Luke's McCall Medical Center,Cardiac,HCPCS 33249,Defibrillator complete system,"$21,188.00",ID
+St. Luke's McCall Medical Center,Cardiac,HCPCS 33240,Defibrillator generator,"$15,667.00",ID
+St. Luke's McCall Medical Center,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$16,354.00",ID
+St. Luke's McCall Medical Center,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$16,354.00",ID
+St. Luke's McCall Medical Center,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$991.00,ID
+St. Luke's McCall Medical Center,Cardiac,MSDRG 247,Implant drug-eluting stent,"$76,257.86",ID
+St. Luke's McCall Medical Center,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$37,957.92",ID
+St. Luke's McCall Medical Center,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$10,291.00",ID
+St. Luke's McCall Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$2,060.00",ID
+St. Luke's McCall Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$2,700.00",ID
+St. Luke's McCall Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$2,700.00",ID
+St. Luke's McCall Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$2,700.00",ID
+St. Luke's McCall Medical Center,Digestive,HCPCS 43235,EGD,"$2,077.00",ID
+St. Luke's McCall Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$2,077.00",ID
+St. Luke's McCall Medical Center,Digestive,HCPCS 43775,Gastric Sleeve (Outpatient),"$15,199.00",ID
+St. Luke's McCall Medical Center,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$6,222.00",ID
+St. Luke's McCall Medical Center,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$6,222.00",ID
+St. Luke's McCall Medical Center,Digestive,HCPCS 45391,Ultrasound of lower large bowel using an endoscope,"$2,700.00",ID
+St. Luke's McCall Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$39,773.19",ID
+St. Luke's McCall Medical Center,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$7,036.00",ID
+St. Luke's McCall Medical Center,General,HCPCS 55700,Biopsy of prostate gland,"$4,485.00",ID
+St. Luke's McCall Medical Center,General,HCPCS 10060,Drainage of Abscess,$472.00,ID
+St. Luke's McCall Medical Center,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$862.00,ID
+St. Luke's McCall Medical Center,General,HCPCS 55866,Prostatectomy,"$20,667.00",ID
+St. Luke's McCall Medical Center,General,HCPCS 69200,Removal of foreign body from ear canal,$294.00,ID
+St. Luke's McCall Medical Center,General,HCPCS 60240,Removal of thyroid,"$12,385.00",ID
+St. Luke's McCall Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$472.00,ID
+St. Luke's McCall Medical Center,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$862.00,ID
+St. Luke's McCall Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$472.00,ID
+St. Luke's McCall Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$472.00,ID
+St. Luke's McCall Medical Center,Head,HCPCS 69436,Create eardrum opening,"$3,541.00",ID
+St. Luke's McCall Medical Center,Head,HCPCS 69930,Implantation of cochlear device,"$16,474.00",ID
+St. Luke's McCall Medical Center,Head,HCPCS 67028,Injection of drug into the eye,$836.00,ID
+St. Luke's McCall Medical Center,Head,HCPCS 69631,Repair of eardrum,"$12,481.00",ID
+St. Luke's McCall Medical Center,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$6,966.00",ID
+St. Luke's McCall Medical Center,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$6,966.00",ID
+St. Luke's McCall Medical Center,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$99,817.44",ID
+St. Luke's McCall Medical Center,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$581.00,ID
+St. Luke's McCall Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$1,684.00",ID
+St. Luke's McCall Medical Center,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$1,684.00",ID
+St. Luke's McCall Medical Center,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$2,187.00",ID
+St. Luke's McCall Medical Center,Musculoskeletal,HCPCS 27200,Insertion of Breathing Tube Using an Endoscope,$581.00,ID
+St. Luke's McCall Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$706.00,ID
+St. Luke's McCall Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$50,875.39",ID
+St. Luke's McCall Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$7,036.00",ID
+St. Luke's McCall Medical Center,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$7,036.00",ID
+St. Luke's McCall Medical Center,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,"$13,137.00",ID
+St. Luke's McCall Medical Center,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$7,036.00",ID
+St. Luke's McCall Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$2,400.00",ID
+St. Luke's McCall Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$61,850.12",ID
+St. Luke's McCall Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$100,979.79",ID
+St. Luke's McCall Medical Center,Musculoskeletal,HCPCS 22612,Spine arthrodesis,"$17,163.00",ID
+St. Luke's McCall Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$361.00,ID
+St. Luke's McCall Medical Center,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$20,667.00",ID
+St. Luke's McCall Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$6,650.00",ID
+St. Luke's McCall Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$27,739.51",ID
+St. Luke's McCall Medical Center,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$12,385.00",ID
+St. Luke's McCall Medical Center,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$12,385.00",ID
+St. Luke's McCall Medical Center,Obstetrics,HCPCS 58545,Removal of uterine fibroid tumors using an endoscope,"$12,385.00",ID
+St. Luke's McCall Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$15,668.99",ID
+St. Luke's McCall Medical Center,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries","$9,777.00",ID
+St. Luke's McCall Medical Center,Ocular,HCPCS 66984,Cataract removal,"$4,742.00",ID
+St. Luke's McCall Medical Center,Ocular,HCPCS 66982,Cataract removal with insertion of lens,"$4,742.00",ID
+St. Luke's McCall Medical Center,Ocular,HCPCS 66821,Laser cataract removal,"$1,369.00",ID
+St. Luke's McCall Medical Center,Ocular,HCPCS 67311,Realignment of the eye with repair of eye muscle,"$5,127.00",ID
+St. Luke's McCall Medical Center,Ocular,HCPCS 65426,Removal or relocation of corneal conjunctiva,"$5,127.00",ID
+St. Luke's McCall Medical Center,Ocular,HCPCS 67108,Repair of detached retina,"$8,735.00",ID
+St. Luke's McCall Medical Center,Ocular,HCPCS 65756,Transplant of outer layer of corneal tissue,"$8,735.00",ID
+St. Luke's McCall Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$472.00,ID
+St. Luke's McCall Medical Center,Soft Tissue,HCPCS 97602,Non-selective debridement,$472.00,ID
+St. Luke's McCall Medical Center,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$294.00,ID
+St. Luke's McCall Medical Center,Vascular,HCPCS 36416,Collection of capillary blood specimen,$36.00,ID
+St. Luke's McCall Medical Center,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$3,438.00",ID
+St. Luke's McCall Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,047.00",ID
+St. Luke's McCall Medical Center,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,666.00",ID

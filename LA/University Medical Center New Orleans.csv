@@ -1,0 +1,303 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+University Medical Center New Orleans,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$234.39,LA
+University Medical Center New Orleans,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,406.73",LA
+University Medical Center New Orleans,Emergency Care,HCPCS 99281,Emergency Level 1,$140.79,LA
+University Medical Center New Orleans,Emergency Care,HCPCS 99282,Emergency Level 2,$234.39,LA
+University Medical Center New Orleans,Emergency Care,HCPCS 99283,Emergency Level 3,$375.18,LA
+University Medical Center New Orleans,Emergency Care,HCPCS 99284,Emergency Level 4,$515.97,LA
+University Medical Center New Orleans,Emergency Care,HCPCS 99285,Emergency Level 5,$843.96,LA
+University Medical Center New Orleans,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$196.56,LA
+University Medical Center New Orleans,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$209.04,LA
+University Medical Center New Orleans,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$285.48,LA
+University Medical Center New Orleans,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$157.95,LA
+University Medical Center New Orleans,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$273.00,LA
+University Medical Center New Orleans,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$273.00,LA
+University Medical Center New Orleans,Psychology,HCPCS 90853,Group psychotherapy,$129.09,LA
+University Medical Center New Orleans,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$234.39,LA
+University Medical Center New Orleans,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$176.28,LA
+University Medical Center New Orleans,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$234.39,LA
+University Medical Center New Orleans,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$234.39,LA
+University Medical Center New Orleans,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$436.02,LA
+University Medical Center New Orleans,Speech,HCPCS 92507,Speech Therapy,$125.58,LA
+University Medical Center New Orleans,Speech,HCPCS 92610,Swallow Evaluation,$118.56,LA
+University Medical Center New Orleans,Speech,HCPCS 92526,Swallow Treatment,$135.33,LA
+University Medical Center New Orleans,Blood,HCPCS 85018,"Blood count, hemoglobin",$7.80,LA
+University Medical Center New Orleans,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$7.80,LA
+University Medical Center New Orleans,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$13.65,LA
+University Medical Center New Orleans,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$44.07,LA
+University Medical Center New Orleans,Blood,HCPCS 85610,"Blood test, clotting time",$12.48,LA
+University Medical Center New Orleans,Blood,HCPCS 85730,Coagulation assessment blood test,$23.79,LA
+University Medical Center New Orleans,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$10.14,LA
+University Medical Center New Orleans,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$24.57,LA
+University Medical Center New Orleans,Blood,HCPCS 85027,"Complete blood count, automated",$21.06,LA
+University Medical Center New Orleans,Blood,HCPCS 85008,Microscopic examination for white blood cells,$10.92,LA
+University Medical Center New Orleans,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$8.19,LA
+University Medical Center New Orleans,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$50.31,LA
+University Medical Center New Orleans,Blood,HCPCS 85660,Red blood cell sickling measurement,$17.55,LA
+University Medical Center New Orleans,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$379.86,LA
+University Medical Center New Orleans,Blood,HCPCS 85041,"Red blood count, automated test",$9.36,LA
+University Medical Center New Orleans,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$94.38,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$104.52,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82040,Albumin (protein) level,$21.45,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$46.02,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$57.33,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82140,Ammonia level,$49.92,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82150,Amylase (enzyme) level,$28.47,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$49.92,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$52.26,LA
+University Medical Center New Orleans,Chemistry,HCPCS 84439,Assay of free thyroxine,$31.20,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$55.77,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82248,Bilirubin level (Direct),$15.21,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82247,Bilirubin level (Total),$15.21,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82565,Blood creatinine level,$17.55,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$13.65,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$10.92,LA
+University Medical Center New Orleans,Chemistry,HCPCS 84295,Blood sodium level,$16.38,LA
+University Medical Center New Orleans,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$15.60,LA
+University Medical Center New Orleans,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$57.33,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82310,Calcium level,$17.55,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$16.77,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$64.74,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82465,Cholesterol level,$19.11,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82525,Copper level,$42.51,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82533,Cortisol Measurement,$56.16,LA
+University Medical Center New Orleans,Chemistry,HCPCS 84681,C-peptide (protein) level,$71.37,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$28.47,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$51.87,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$70.59,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$131.43,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$46.41,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82746,Folic acid; serum,$50.31,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$31.98,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$31.20,LA
+University Medical Center New Orleans,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$33.54,LA
+University Medical Center New Orleans,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$63.57,LA
+University Medical Center New Orleans,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$63.57,LA
+University Medical Center New Orleans,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$43.29,LA
+University Medical Center New Orleans,Chemistry,HCPCS 83718,HDL cholesterol level,$28.47,LA
+University Medical Center New Orleans,Chemistry,HCPCS 83020,Hemoglobin Measurement,$44.07,LA
+University Medical Center New Orleans,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$57.72,LA
+University Medical Center New Orleans,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$75.66,LA
+University Medical Center New Orleans,Chemistry,HCPCS 83520,IgE (immune system protein) level,$38.22,LA
+University Medical Center New Orleans,Chemistry,HCPCS 83525,Insulin Measurement; Total,$49.53,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82330,Ionized Calcium,$58.89,LA
+University Medical Center New Orleans,Chemistry,HCPCS 83550,Iron Binding Capacity,$30.03,LA
+University Medical Center New Orleans,Chemistry,HCPCS 83540,Iron level,$18.72,LA
+University Medical Center New Orleans,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$21.06,LA
+University Medical Center New Orleans,Chemistry,HCPCS 83721,LDL cholesterol level,$29.25,LA
+University Medical Center New Orleans,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$23.40,LA
+University Medical Center New Orleans,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$22.23,LA
+University Medical Center New Orleans,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$22.23,LA
+University Medical Center New Orleans,Chemistry,HCPCS 83021,Liver function blood test panel,$61.23,LA
+University Medical Center New Orleans,Chemistry,HCPCS 83735,Magnesium Level,$28.86,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82542,Mass spectrometry,$63.57,LA
+University Medical Center New Orleans,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$15.99,LA
+University Medical Center New Orleans,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$38.22,LA
+University Medical Center New Orleans,Chemistry,HCPCS 83918,Organic acid level,$56.55,LA
+University Medical Center New Orleans,Chemistry,HCPCS 83945,Oxalate level,$44.07,LA
+University Medical Center New Orleans,Chemistry,HCPCS 83970,Parathormone,$140.79,LA
+University Medical Center New Orleans,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$25.35,LA
+University Medical Center New Orleans,Chemistry,HCPCS 84157,Prealbumin (protein) level,$12.87,LA
+University Medical Center New Orleans,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$15.99,LA
+University Medical Center New Orleans,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$66.30,LA
+University Medical Center New Orleans,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$36.66,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82270,Stool analysis for blood,$11.70,LA
+University Medical Center New Orleans,Chemistry,HCPCS 84403,Testosterone (hormone) level,$88.14,LA
+University Medical Center New Orleans,Chemistry,HCPCS 84402,Testosterone Level; Free,$86.97,LA
+University Medical Center New Orleans,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$15.99,LA
+University Medical Center New Orleans,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$63.18,LA
+University Medical Center New Orleans,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$16.38,LA
+University Medical Center New Orleans,Chemistry,HCPCS 84155,"Total protein level, blood",$14.82,LA
+University Medical Center New Orleans,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$12.87,LA
+University Medical Center New Orleans,Chemistry,HCPCS 84478,Triglycerides level,$24.96,LA
+University Medical Center New Orleans,Chemistry,HCPCS 84166,Troponin (protein) analysis,$12.87,LA
+University Medical Center New Orleans,Chemistry,HCPCS 84560,Uric acid level,$16.38,LA
+University Medical Center New Orleans,Chemistry,HCPCS 84550,"Uric acid level, blood",$15.60,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82340,Urine calcium level,$26.13,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82436,Urine chloride level,$17.55,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$19.89,LA
+University Medical Center New Orleans,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$23.40,LA
+University Medical Center New Orleans,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$41.73,LA
+University Medical Center New Orleans,Chemistry,HCPCS 84133,Urine potassium level,$14.82,LA
+University Medical Center New Orleans,Chemistry,HCPCS 84300,Urine sodium level,$16.38,LA
+University Medical Center New Orleans,Chemistry,HCPCS 84591,Vitamin B-6 level,$42.51,LA
+University Medical Center New Orleans,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$101.40,LA
+University Medical Center New Orleans,Chemistry,HCPCS 84630,Zinc level,$39.00,LA
+University Medical Center New Orleans,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$122.46,LA
+University Medical Center New Orleans,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$150.15,LA
+University Medical Center New Orleans,Breast,HCPCS 77067,Mammogram Screening,$158.34,LA
+University Medical Center New Orleans,Breast,HCPCS 77066,Mammography of both breasts,$191.10,LA
+University Medical Center New Orleans,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,$722.28,LA
+University Medical Center New Orleans,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$369.72,LA
+University Medical Center New Orleans,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$462.15,LA
+University Medical Center New Orleans,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$369.72,LA
+University Medical Center New Orleans,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,027.26",LA
+University Medical Center New Orleans,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,027.26",LA
+University Medical Center New Orleans,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$651.30,LA
+University Medical Center New Orleans,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$632.58,LA
+University Medical Center New Orleans,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,$701.22,LA
+University Medical Center New Orleans,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$632.58,LA
+University Medical Center New Orleans,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$369.72,LA
+University Medical Center New Orleans,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$632.58,LA
+University Medical Center New Orleans,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$632.58,LA
+University Medical Center New Orleans,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)",$719.94,LA
+University Medical Center New Orleans,MRI,HCPCS 72146,MRI chest spine without contrast material,$719.94,LA
+University Medical Center New Orleans,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$719.94,LA
+University Medical Center New Orleans,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$1,169.22",LA
+University Medical Center New Orleans,MRI,HCPCS 72141,MRI neck spine without contrast material,$719.94,LA
+University Medical Center New Orleans,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$1,169.22",LA
+University Medical Center New Orleans,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,169.22",LA
+University Medical Center New Orleans,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$719.94,LA
+University Medical Center New Orleans,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,169.22",LA
+University Medical Center New Orleans,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$719.94,LA
+University Medical Center New Orleans,MRI,HCPCS 73721,MRI scan of leg joint,$719.94,LA
+University Medical Center New Orleans,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$210.60,LA
+University Medical Center New Orleans,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$137.28,LA
+University Medical Center New Orleans,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$179.79,LA
+University Medical Center New Orleans,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$209.43,LA
+University Medical Center New Orleans,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$58.89,LA
+University Medical Center New Orleans,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$211.38,LA
+University Medical Center New Orleans,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$203.19,LA
+University Medical Center New Orleans,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$137.67,LA
+University Medical Center New Orleans,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$210.99,LA
+University Medical Center New Orleans,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$211.38,LA
+University Medical Center New Orleans,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$292.11,LA
+University Medical Center New Orleans,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$151.32,LA
+University Medical Center New Orleans,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$202.02,LA
+University Medical Center New Orleans,Chest,HCPCS 71046,X-ray of chest; 2 Views,$98.28,LA
+University Medical Center New Orleans,Chest,HCPCS 71045,X-ray of chest; Single View,$98.28,LA
+University Medical Center New Orleans,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$98.28,LA
+University Medical Center New Orleans,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$151.32,LA
+University Medical Center New Orleans,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$98.28,LA
+University Medical Center New Orleans,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$151.32,LA
+University Medical Center New Orleans,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$179.79,LA
+University Medical Center New Orleans,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$73.71,LA
+University Medical Center New Orleans,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$98.28,LA
+University Medical Center New Orleans,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$151.32,LA
+University Medical Center New Orleans,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$198.51,LA
+University Medical Center New Orleans,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$119.34,LA
+University Medical Center New Orleans,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$107.25,LA
+University Medical Center New Orleans,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$98.28,LA
+University Medical Center New Orleans,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$117.00,LA
+University Medical Center New Orleans,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$111.93,LA
+University Medical Center New Orleans,Lower Limbs,HCPCS 73565,X-ray Both Knees,$93.21,LA
+University Medical Center New Orleans,Lower Limbs,HCPCS 73630,X-ray exam of foot,$98.28,LA
+University Medical Center New Orleans,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$98.28,LA
+University Medical Center New Orleans,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$119.34,LA
+University Medical Center New Orleans,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$98.28,LA
+University Medical Center New Orleans,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$98.28,LA
+University Medical Center New Orleans,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$98.28,LA
+University Medical Center New Orleans,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$151.32,LA
+University Medical Center New Orleans,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$118.95,LA
+University Medical Center New Orleans,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$151.32,LA
+University Medical Center New Orleans,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$98.28,LA
+University Medical Center New Orleans,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$98.28,LA
+University Medical Center New Orleans,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$151.32,LA
+University Medical Center New Orleans,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$122.46,LA
+University Medical Center New Orleans,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$98.28,LA
+University Medical Center New Orleans,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$98.28,LA
+University Medical Center New Orleans,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$98.28,LA
+University Medical Center New Orleans,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$122.46,LA
+University Medical Center New Orleans,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$122.46,LA
+University Medical Center New Orleans,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$98.28,LA
+University Medical Center New Orleans,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$98.28,LA
+University Medical Center New Orleans,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$14,262.90",LA
+University Medical Center New Orleans,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$3,100.89",LA
+University Medical Center New Orleans,Abdomenal,HCPCS 47562,Cholecystectomy,"$7,540.65",LA
+University Medical Center New Orleans,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$3,704.22",LA
+University Medical Center New Orleans,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,"$3,378.05",LA
+University Medical Center New Orleans,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$6,155.12",LA
+University Medical Center New Orleans,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,$996.45,LA
+University Medical Center New Orleans,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$5,265.70",LA
+University Medical Center New Orleans,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$84.63,LA
+University Medical Center New Orleans,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$80.73,LA
+University Medical Center New Orleans,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$18,842.48",LA
+University Medical Center New Orleans,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,"$6,409.65",LA
+University Medical Center New Orleans,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$4,943.87",LA
+University Medical Center New Orleans,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$4,934.58",LA
+University Medical Center New Orleans,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$5,312.88",LA
+University Medical Center New Orleans,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$1,872.74",LA
+University Medical Center New Orleans,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$6,644.52",LA
+University Medical Center New Orleans,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$7,941.36",LA
+University Medical Center New Orleans,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$5,698.96",LA
+University Medical Center New Orleans,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$3,434.28",LA
+University Medical Center New Orleans,Breast,HCPCS 19101,Biopsy of breast,"$3,026.01",LA
+University Medical Center New Orleans,Breast,HCPCS 19125,Excision of breast lesion,"$3,026.01",LA
+University Medical Center New Orleans,Breast,HCPCS 19120,Excision of cyst of breast,"$3,026.40",LA
+University Medical Center New Orleans,Breast,HCPCS 19301,Partial removal of breast,"$4,096.43",LA
+University Medical Center New Orleans,Breast,HCPCS 19318,Reduction mammaplasty,"$5,438.25",LA
+University Medical Center New Orleans,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$9,981.14",LA
+University Medical Center New Orleans,Breast,HCPCS 19303,Total removal of breast,"$4,947.07",LA
+University Medical Center New Orleans,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,"$97,473.33",LA
+University Medical Center New Orleans,Cardiac,MSDRG 216,Cardiac valve procedure,"$152,449.55",LA
+University Medical Center New Orleans,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$61,281.53",LA
+University Medical Center New Orleans,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$39,254.97",LA
+University Medical Center New Orleans,Cardiac,HCPCS 33249,Defibrillator complete system,"$54,532.14",LA
+University Medical Center New Orleans,Cardiac,HCPCS 33240,Defibrillator generator,"$14,070.81",LA
+University Medical Center New Orleans,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$4,792.71",LA
+University Medical Center New Orleans,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$6,401.07",LA
+University Medical Center New Orleans,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$423.15,LA
+University Medical Center New Orleans,Cardiac,MSDRG 247,Implant drug-eluting stent,"$33,430.43",LA
+University Medical Center New Orleans,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$36,996.95",LA
+University Medical Center New Orleans,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$13,324.74",LA
+University Medical Center New Orleans,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,063.53",LA
+University Medical Center New Orleans,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,404.39",LA
+University Medical Center New Orleans,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,122.81",LA
+University Medical Center New Orleans,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,122.81",LA
+University Medical Center New Orleans,Digestive,HCPCS 43235,EGD,"$1,225.77",LA
+University Medical Center New Orleans,Digestive,HCPCS 43239,EGD and biopsy,"$1,250.34",LA
+University Medical Center New Orleans,Digestive,HCPCS 43775,Gastric Sleeve (Outpatient),"$4,810.26",LA
+University Medical Center New Orleans,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$2,114.19",LA
+University Medical Center New Orleans,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$2,688.66",LA
+University Medical Center New Orleans,Digestive,HCPCS 45391,Ultrasound of lower large bowel using an endoscope,"$1,007.76",LA
+University Medical Center New Orleans,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$17,543.76",LA
+University Medical Center New Orleans,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$1,638.68",LA
+University Medical Center New Orleans,General,HCPCS 55700,Biopsy of prostate gland,"$1,571.31",LA
+University Medical Center New Orleans,General,HCPCS 10060,Drainage of Abscess,$203.97,LA
+University Medical Center New Orleans,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$553.80,LA
+University Medical Center New Orleans,General,HCPCS 55866,Prostatectomy,"$7,473.52",LA
+University Medical Center New Orleans,General,HCPCS 69200,Removal of foreign body from ear canal,$80.73,LA
+University Medical Center New Orleans,General,HCPCS 60240,Removal of thyroid,"$7,340.04",LA
+University Medical Center New Orleans,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$174.72,LA
+University Medical Center New Orleans,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$196.17,LA
+University Medical Center New Orleans,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$196.17,LA
+University Medical Center New Orleans,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$174.72,LA
+University Medical Center New Orleans,Head,HCPCS 69436,Create eardrum opening,"$3,201.44",LA
+University Medical Center New Orleans,Head,HCPCS 67028,Injection of drug into the eye,$455.91,LA
+University Medical Center New Orleans,Head,HCPCS 69631,Repair of eardrum,"$2,652.26",LA
+University Medical Center New Orleans,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$4,965.87",LA
+University Medical Center New Orleans,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$62,212.98",LA
+University Medical Center New Orleans,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$217.23,LA
+University Medical Center New Orleans,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$950.82,LA
+University Medical Center New Orleans,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,$950.82,LA
+University Medical Center New Orleans,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$1,111.89",LA
+University Medical Center New Orleans,Musculoskeletal,HCPCS 27200,Insertion of Breathing Tube Using an Endoscope,$271.44,LA
+University Medical Center New Orleans,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$296.79,LA
+University Medical Center New Orleans,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$30,295.23",LA
+University Medical Center New Orleans,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$5,583.50",LA
+University Medical Center New Orleans,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$1,851.46",LA
+University Medical Center New Orleans,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,"$26,631.93",LA
+University Medical Center New Orleans,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$1,998.65",LA
+University Medical Center New Orleans,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$1,284.47",LA
+University Medical Center New Orleans,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$28,607.64",LA
+University Medical Center New Orleans,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$48,903.23",LA
+University Medical Center New Orleans,Musculoskeletal,HCPCS 22612,Spine arthrodesis,"$2,777.19",LA
+University Medical Center New Orleans,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$161.07,LA
+University Medical Center New Orleans,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$4,337.34",LA
+University Medical Center New Orleans,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$3,897.27",LA
+University Medical Center New Orleans,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$4,452.73",LA
+University Medical Center New Orleans,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$3,967.67",LA
+University Medical Center New Orleans,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries","$3,826.47",LA
+University Medical Center New Orleans,Ocular,HCPCS 66984,Cataract removal,"$4,359.32",LA
+University Medical Center New Orleans,Ocular,HCPCS 66982,Cataract removal with insertion of lens,"$4,671.35",LA
+University Medical Center New Orleans,Ocular,HCPCS 66821,Laser cataract removal,$807.30,LA
+University Medical Center New Orleans,Ocular,HCPCS 67311,Realignment of the eye with repair of eye muscle,"$2,529.15",LA
+University Medical Center New Orleans,Ocular,HCPCS 65426,Removal or relocation of corneal conjunctiva,"$2,723.37",LA
+University Medical Center New Orleans,Ocular,HCPCS 67108,Repair of detached retina,"$5,498.11",LA
+University Medical Center New Orleans,Soft Tissue,HCPCS 97597,Debridement of open wound,$173.94,LA
+University Medical Center New Orleans,Soft Tissue,HCPCS 97602,Non-selective debridement,$349.83,LA
+University Medical Center New Orleans,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$52.26,LA
+University Medical Center New Orleans,Vascular,HCPCS 36416,Collection of capillary blood specimen,$102.18,LA
+University Medical Center New Orleans,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,731.60",LA
+University Medical Center New Orleans,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$512.46,LA
+University Medical Center New Orleans,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,277.25",LA

@@ -1,0 +1,290 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+The Johns Hopkins Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$257.02,MD
+The Johns Hopkins Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$257.02,MD
+The Johns Hopkins Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$514.05,MD
+The Johns Hopkins Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,028.07",MD
+The Johns Hopkins Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,799.11",MD
+The Johns Hopkins Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$428.14,MD
+The Johns Hopkins Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$513.83,MD
+The Johns Hopkins Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$199.84,MD
+The Johns Hopkins Hospital,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$388.22,MD
+The Johns Hopkins Hospital,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$392.02,MD
+The Johns Hopkins Hospital,Psychology,HCPCS 90853,Group psychotherapy,$100.00,MD
+The Johns Hopkins Hospital,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$342.60,MD
+The Johns Hopkins Hospital,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$171.29,MD
+The Johns Hopkins Hospital,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$256.93,MD
+The Johns Hopkins Hospital,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$342.60,MD
+The Johns Hopkins Hospital,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$178.93,MD
+The Johns Hopkins Hospital,Speech,HCPCS 92507,Speech Therapy,$89.48,MD
+The Johns Hopkins Hospital,Speech,HCPCS 92610,Swallow Evaluation,$178.93,MD
+The Johns Hopkins Hospital,Speech,HCPCS 92526,Swallow Treatment,$89.48,MD
+The Johns Hopkins Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$11.12,MD
+The Johns Hopkins Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$11.12,MD
+The Johns Hopkins Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$11.12,MD
+The Johns Hopkins Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$41.70,MD
+The Johns Hopkins Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$22.25,MD
+The Johns Hopkins Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$22.25,MD
+The Johns Hopkins Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$27.80,MD
+The Johns Hopkins Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$22.25,MD
+The Johns Hopkins Hospital,Blood,HCPCS 85008,Microscopic examination for white blood cells,$13.89,MD
+The Johns Hopkins Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$27.80,MD
+The Johns Hopkins Hospital,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$166.81,MD
+The Johns Hopkins Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$27.80,MD
+The Johns Hopkins Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$403.13,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$69.50,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$83.41,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$5.55,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$41.70,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$41.70,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 82140,Ammonia level,$55.61,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$16.69,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$55.61,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$86.19,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$41.70,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$41.70,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$16.69,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$16.69,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$5.55,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$11.12,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 84295,Blood sodium level,$5.55,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$11.12,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$41.70,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 82310,Calcium level,$5.55,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$5.55,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$69.50,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 82465,Cholesterol level,$11.12,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 82525,Copper level,$69.50,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$41.70,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$41.70,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$16.69,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$41.70,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$41.70,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$69.50,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$41.70,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$41.70,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$41.70,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$5.55,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$55.61,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$41.70,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$69.50,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$41.70,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 83718,HDL cholesterol level,$41.70,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 83020,Hemoglobin Measurement,$69.50,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$83.41,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$97.30,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 83520,IgE (immune system protein) level,"$2,724.60",MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$41.70,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$41.70,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 83540,Iron level,$16.69,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$11.12,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$41.70,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$22.25,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$5.55,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$41.70,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$69.50,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 83735,Magnesium Level,$16.69,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$83.41,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$41.70,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$41.70,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 83918,Organic acid level,$347.53,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 83945,Oxalate level,$41.70,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 83970,Parathormone,$41.70,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$41.70,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$27.80,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$69.50,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$55.61,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$69.50,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$13.89,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$41.70,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$41.70,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement",$41.70,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$69.50,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$41.70,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$5.55,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$27.80,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 84478,Triglycerides level,$5.55,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$69.50,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 84560,Uric acid level,$27.80,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$5.55,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 82340,Urine calcium level,$27.80,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 82436,Urine chloride level,$27.80,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$41.70,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$27.80,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$97.30,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 84133,Urine potassium level,$27.80,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 84300,Urine sodium level,$27.80,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 84591,Vitamin B-6 level,$139.01,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$41.70,MD
+The Johns Hopkins Hospital,Chemistry,HCPCS 84630,Zinc level,$69.50,MD
+The Johns Hopkins Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$69.50,MD
+The Johns Hopkins Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$41.70,MD
+The Johns Hopkins Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$69.50,MD
+The Johns Hopkins Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$69.50,MD
+The Johns Hopkins Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$69.50,MD
+The Johns Hopkins Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$86.19,MD
+The Johns Hopkins Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$55.61,MD
+The Johns Hopkins Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$55.61,MD
+The Johns Hopkins Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$69.50,MD
+The Johns Hopkins Hospital,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$111.21,MD
+The Johns Hopkins Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$41.70,MD
+The Johns Hopkins Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$41.70,MD
+The Johns Hopkins Hospital,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$69.50,MD
+The Johns Hopkins Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$55.61,MD
+The Johns Hopkins Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$61.18,MD
+The Johns Hopkins Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$27.80,MD
+The Johns Hopkins Hospital,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$41.70,MD
+The Johns Hopkins Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$22.25,MD
+The Johns Hopkins Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$22.25,MD
+The Johns Hopkins Hospital,Immunology,HCPCS 86361,T cell count and ratio,$139.01,MD
+The Johns Hopkins Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$278.03,MD
+The Johns Hopkins Hospital,Immunology,HCPCS 86359,"T cells count, total",$139.01,MD
+The Johns Hopkins Hospital,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$69.50,MD
+The Johns Hopkins Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$55.61,MD
+The Johns Hopkins Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$111.21,MD
+The Johns Hopkins Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$55.61,MD
+The Johns Hopkins Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$125.12,MD
+The Johns Hopkins Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$100.00,MD
+The Johns Hopkins Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$333.63,MD
+The Johns Hopkins Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$444.83,MD
+The Johns Hopkins Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$69.50,MD
+The Johns Hopkins Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$444.83,MD
+The Johns Hopkins Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$125.12,MD
+The Johns Hopkins Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$444.83,MD
+The Johns Hopkins Hospital,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$69.50,MD
+The Johns Hopkins Hospital,Microbiology,HCPCS 87624,HPV Detection,$333.63,MD
+The Johns Hopkins Hospital,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$83.41,MD
+The Johns Hopkins Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$55.61,MD
+The Johns Hopkins Hospital,Microbiology,HCPCS 86747,Parvovirus antibody test,$83.41,MD
+The Johns Hopkins Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$41.70,MD
+The Johns Hopkins Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$55.61,MD
+The Johns Hopkins Hospital,Microbiology,HCPCS 87207,Smear for infectious agents,$41.70,MD
+The Johns Hopkins Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$111.21,MD
+The Johns Hopkins Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$55.61,MD
+The Johns Hopkins Hospital,Microbiology,HCPCS 87045,Stool Culture,$83.41,MD
+The Johns Hopkins Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$69.50,MD
+The Johns Hopkins Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$47.26,MD
+The Johns Hopkins Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$55.61,MD
+The Johns Hopkins Hospital,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$166.81,MD
+The Johns Hopkins Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$250.22,MD
+The Johns Hopkins Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$30.59,MD
+The Johns Hopkins Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$41.70,MD
+The Johns Hopkins Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$52.81,MD
+The Johns Hopkins Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$33.37,MD
+The Johns Hopkins Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$30.59,MD
+The Johns Hopkins Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$41.70,MD
+The Johns Hopkins Hospital,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$69.50,MD
+The Johns Hopkins Hospital,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$55.61,MD
+The Johns Hopkins Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$41.70,MD
+The Johns Hopkins Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$83.41,MD
+The Johns Hopkins Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$41.70,MD
+The Johns Hopkins Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$41.70,MD
+The Johns Hopkins Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$41.70,MD
+The Johns Hopkins Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$41.70,MD
+The Johns Hopkins Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$83.41,MD
+The Johns Hopkins Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$41.70,MD
+The Johns Hopkins Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$41.70,MD
+The Johns Hopkins Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$11.12,MD
+The Johns Hopkins Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$11.12,MD
+The Johns Hopkins Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$27.80,MD
+The Johns Hopkins Hospital,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$222.41,MD
+The Johns Hopkins Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$22.25,MD
+The Johns Hopkins Hospital,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$83.41,MD
+The Johns Hopkins Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$33.37,MD
+The Johns Hopkins Hospital,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$11.12,MD
+The Johns Hopkins Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$11.12,MD
+The Johns Hopkins Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$25.02,MD
+The Johns Hopkins Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$28.00,MD
+The Johns Hopkins Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$315.29,MD
+The Johns Hopkins Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$126.12,MD
+The Johns Hopkins Hospital,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$52.57,MD
+The Johns Hopkins Hospital,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$525.49,MD
+The Johns Hopkins Hospital,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),$630.62,MD
+The Johns Hopkins Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$2,366.14",MD
+The Johns Hopkins Hospital,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$68.02,MD
+The Johns Hopkins Hospital,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$1,632.37",MD
+The Johns Hopkins Hospital,Pulmonary,HCPCS 94618,Pulmonary stress test,$322.46,MD
+The Johns Hopkins Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$85.03,MD
+The Johns Hopkins Hospital,Sleep,HCPCS 95810,Sleep study,"$1,121.93",MD
+The Johns Hopkins Hospital,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$262.91,MD
+The Johns Hopkins Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$976.51,MD
+The Johns Hopkins Hospital,Breast,HCPCS 77067,Mammogram Screening,"$1,051.63",MD
+The Johns Hopkins Hospital,Breast,HCPCS 77066,Mammography of both breasts,"$1,276.97",MD
+The Johns Hopkins Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,$534.86,MD
+The Johns Hopkins Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$226.64,MD
+The Johns Hopkins Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$190.37,MD
+The Johns Hopkins Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$244.78,MD
+The Johns Hopkins Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,$643.65,MD
+The Johns Hopkins Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,$562.06,MD
+The Johns Hopkins Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$290.10,MD
+The Johns Hopkins Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$426.08,MD
+The Johns Hopkins Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,$489.55,MD
+The Johns Hopkins Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$426.08,MD
+The Johns Hopkins Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$326.36,MD
+The Johns Hopkins Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$426.08,MD
+The Johns Hopkins Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$426.08,MD
+The Johns Hopkins Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,548.59",MD
+The Johns Hopkins Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,$699.38,MD
+The Johns Hopkins Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$699.38,MD
+The Johns Hopkins Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$1,232.22",MD
+The Johns Hopkins Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,$699.38,MD
+The Johns Hopkins Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$1,232.22",MD
+The Johns Hopkins Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,848.32",MD
+The Johns Hopkins Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$782.62,MD
+The Johns Hopkins Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,232.22",MD
+The Johns Hopkins Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$732.67,MD
+The Johns Hopkins Hospital,MRI,HCPCS 73721,MRI scan of leg joint,$782.62,MD
+The Johns Hopkins Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$771.87,MD
+The Johns Hopkins Hospital,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$901.39,MD
+The Johns Hopkins Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$826.26,MD
+The Johns Hopkins Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$938.95,MD
+The Johns Hopkins Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$863.84,MD
+The Johns Hopkins Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$676.05,MD
+The Johns Hopkins Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$207.81,MD
+The Johns Hopkins Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$623.44,MD
+The Johns Hopkins Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$742.19,MD
+The Johns Hopkins Hospital,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$938.95,MD
+The Johns Hopkins Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$338.01,MD
+The Johns Hopkins Hospital,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$375.58,MD
+The Johns Hopkins Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$187.79,MD
+The Johns Hopkins Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$150.24,MD
+The Johns Hopkins Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$225.32,MD
+The Johns Hopkins Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$300.47,MD
+The Johns Hopkins Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$262.91,MD
+The Johns Hopkins Hospital,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$638.49,MD
+The Johns Hopkins Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$262.91,MD
+The Johns Hopkins Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$187.79,MD
+The Johns Hopkins Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$225.32,MD
+The Johns Hopkins Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$300.47,MD
+The Johns Hopkins Hospital,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$338.01,MD
+The Johns Hopkins Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$300.47,MD
+The Johns Hopkins Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$225.32,MD
+The Johns Hopkins Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$262.91,MD
+The Johns Hopkins Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$225.32,MD
+The Johns Hopkins Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$225.32,MD
+The Johns Hopkins Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$300.47,MD
+The Johns Hopkins Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$225.32,MD
+The Johns Hopkins Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$262.91,MD
+The Johns Hopkins Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$225.32,MD
+The Johns Hopkins Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$187.79,MD
+The Johns Hopkins Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$187.79,MD
+The Johns Hopkins Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$225.32,MD
+The Johns Hopkins Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$300.47,MD
+The Johns Hopkins Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$225.32,MD
+The Johns Hopkins Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$338.01,MD
+The Johns Hopkins Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$262.91,MD
+The Johns Hopkins Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$413.14,MD
+The Johns Hopkins Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$225.32,MD
+The Johns Hopkins Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$225.32,MD
+The Johns Hopkins Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$262.91,MD
+The Johns Hopkins Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$187.79,MD
+The Johns Hopkins Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$225.32,MD
+The Johns Hopkins Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$187.79,MD
+The Johns Hopkins Hospital,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$187.79,MD
+The Johns Hopkins Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$225.32,MD
+The Johns Hopkins Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$262.91,MD
+The Johns Hopkins Hospital,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$105.12,MD
+The Johns Hopkins Hospital,Head,HCPCS 67028,Injection of drug into the eye,$246.11,MD
+The Johns Hopkins Hospital,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$76.73,MD
+The Johns Hopkins Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$153.47,MD
+The Johns Hopkins Hospital,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$215.19,MD
+The Johns Hopkins Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$430.38,MD

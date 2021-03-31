@@ -1,0 +1,266 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+USA Health University Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$2,307.73",AL
+USA Health University Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$694.16,AL
+USA Health University Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$694.16,AL
+USA Health University Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$694.16,AL
+USA Health University Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$694.16,AL
+USA Health University Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$694.16,AL
+USA Health University Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$259.15,AL
+USA Health University Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$259.15,AL
+USA Health University Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$259.15,AL
+USA Health University Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$259.15,AL
+USA Health University Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$6.82,AL
+USA Health University Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$6.82,AL
+USA Health University Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$36.58,AL
+USA Health University Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$30.61,AL
+USA Health University Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$30.90,AL
+USA Health University Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$36.91,AL
+USA Health University Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$36.91,AL
+USA Health University Hospital,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$77.29,AL
+USA Health University Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$22.94,AL
+USA Health University Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$161.82,AL
+USA Health University Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$55.05,AL
+USA Health University Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$66.34,AL
+USA Health University Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$78.12,AL
+USA Health University Hospital,Chemistry,HCPCS 82140,Ammonia level,$52.08,AL
+USA Health University Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$47.02,AL
+USA Health University Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$72.54,AL
+USA Health University Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$83.08,AL
+USA Health University Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$59.20,AL
+USA Health University Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$87.67,AL
+USA Health University Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$22.94,AL
+USA Health University Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$13.09,AL
+USA Health University Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$3.75,AL
+USA Health University Hospital,Chemistry,HCPCS 84132,Blood potassium level,$25.17,AL
+USA Health University Hospital,Chemistry,HCPCS 84295,Blood sodium level,$16.41,AL
+USA Health University Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$82.90,AL
+USA Health University Hospital,Chemistry,HCPCS 82310,Calcium level,$24.39,AL
+USA Health University Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$84.57,AL
+USA Health University Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$58.28,AL
+USA Health University Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$24.01,AL
+USA Health University Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$38.97,AL
+USA Health University Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$213.90,AL
+USA Health University Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$66.30,AL
+USA Health University Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$74.16,AL
+USA Health University Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$35.76,AL
+USA Health University Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$12.40,AL
+USA Health University Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$46.47,AL
+USA Health University Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$19.22,AL
+USA Health University Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$19.22,AL
+USA Health University Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$55.80,AL
+USA Health University Hospital,Chemistry,HCPCS 83020,Hemoglobin Measurement,$36.77,AL
+USA Health University Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$44.02,AL
+USA Health University Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$57.66,AL
+USA Health University Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$294.71,AL
+USA Health University Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$50.22,AL
+USA Health University Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$24.39,AL
+USA Health University Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$53.94,AL
+USA Health University Hospital,Chemistry,HCPCS 83540,Iron level,$55.80,AL
+USA Health University Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$19.80,AL
+USA Health University Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$40.82,AL
+USA Health University Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$9.92,AL
+USA Health University Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$25.03,AL
+USA Health University Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$36.77,AL
+USA Health University Hospital,Chemistry,HCPCS 83735,Magnesium Level,$14.82,AL
+USA Health University Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$117.18,AL
+USA Health University Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$89.28,AL
+USA Health University Hospital,Chemistry,HCPCS 83970,Parathormone,$155.00,AL
+USA Health University Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$26.38,AL
+USA Health University Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$294.71,AL
+USA Health University Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$20.00,AL
+USA Health University Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$26.38,AL
+USA Health University Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$31.17,AL
+USA Health University Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$59.20,AL
+USA Health University Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$26.38,AL
+USA Health University Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$26.38,AL
+USA Health University Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$37.01,AL
+USA Health University Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$55.05,AL
+USA Health University Hospital,Chemistry,HCPCS 84133,Urine potassium level,$25.17,AL
+USA Health University Hospital,Chemistry,HCPCS 84300,Urine sodium level,$16.41,AL
+USA Health University Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$34.35,AL
+USA Health University Hospital,Chemistry,HCPCS 84630,Zinc level,$50.22,AL
+USA Health University Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$127.10,AL
+USA Health University Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$76.11,AL
+USA Health University Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$38.12,AL
+USA Health University Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$33.08,AL
+USA Health University Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$33.08,AL
+USA Health University Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$33.08,AL
+USA Health University Hospital,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$29.16,AL
+USA Health University Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$26.64,AL
+USA Health University Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$11.04,AL
+USA Health University Hospital,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$110.24,AL
+USA Health University Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$33.08,AL
+USA Health University Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$25.89,AL
+USA Health University Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$36.64,AL
+USA Health University Hospital,Immunology,HCPCS 86580,Skin test for tuberculosis,$8.37,AL
+USA Health University Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$25.70,AL
+USA Health University Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$53.07,AL
+USA Health University Hospital,Immunology,HCPCS 86359,"T cells count, total",$53.07,AL
+USA Health University Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$61.87,AL
+USA Health University Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$81.00,AL
+USA Health University Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$55.80,AL
+USA Health University Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$24.18,AL
+USA Health University Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$210.18,AL
+USA Health University Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$33.08,AL
+USA Health University Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$123.79,AL
+USA Health University Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$65.84,AL
+USA Health University Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$131.31,AL
+USA Health University Hospital,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$38.12,AL
+USA Health University Hospital,Microbiology,HCPCS 87624,HPV Detection,$67.50,AL
+USA Health University Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$17.36,AL
+USA Health University Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$47.12,AL
+USA Health University Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$19.22,AL
+USA Health University Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$22.94,AL
+USA Health University Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$19.06,AL
+USA Health University Hospital,Microbiology,HCPCS 87045,Stool Culture,$23.56,AL
+USA Health University Hospital,Microbiology,HCPCS 87880,Strep Test,$55.71,AL
+USA Health University Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$37.29,AL
+USA Health University Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$29.76,AL
+USA Health University Hospital,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$375.10,AL
+USA Health University Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$81.84,AL
+USA Health University Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$73.63,AL
+USA Health University Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$138.89,AL
+USA Health University Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$57.01,AL
+USA Health University Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$87.36,AL
+USA Health University Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$75.02,AL
+USA Health University Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$165.81,AL
+USA Health University Hospital,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$39.68,AL
+USA Health University Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$67.58,AL
+USA Health University Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$42.34,AL
+USA Health University Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$42.78,AL
+USA Health University Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$118.15,AL
+USA Health University Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$76.82,AL
+USA Health University Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$83.70,AL
+USA Health University Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$86.04,AL
+USA Health University Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$86.04,AL
+USA Health University Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$175.28,AL
+USA Health University Hospital,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$86.18,AL
+USA Health University Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$77.71,AL
+USA Health University Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$77.71,AL
+USA Health University Hospital,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$11.28,AL
+USA Health University Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$26.03,AL
+USA Health University Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$26.03,AL
+USA Health University Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$44.04,AL
+USA Health University Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$800.46,AL
+USA Health University Hospital,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$58.71,AL
+USA Health University Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$58.71,AL
+USA Health University Hospital,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),$646.35,AL
+USA Health University Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,$467.21,AL
+USA Health University Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,$366.79,AL
+USA Health University Hospital,Pulmonary,HCPCS 94618,Pulmonary stress test,$284.20,AL
+USA Health University Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$178.97,AL
+USA Health University Hospital,Breast,HCPCS 77067,Mammogram Screening,$181.72,AL
+USA Health University Hospital,Breast,HCPCS 77066,Mammography of both breasts,$178.97,AL
+USA Health University Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,$933.05,AL
+USA Health University Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$480.58,AL
+USA Health University Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$482.98,AL
+USA Health University Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,316.60",AL
+USA Health University Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,316.60",AL
+USA Health University Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$876.79,AL
+USA Health University Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$727.89,AL
+USA Health University Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,$727.89,AL
+USA Health University Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$643.09,AL
+USA Health University Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$464.42,AL
+USA Health University Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$642.98,AL
+USA Health University Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$673.89,AL
+USA Health University Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)",$866.58,AL
+USA Health University Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,$851.55,AL
+USA Health University Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$851.55,AL
+USA Health University Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,064.07",AL
+USA Health University Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,$851.55,AL
+USA Health University Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,648.98",AL
+USA Health University Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$851.88,AL
+USA Health University Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,923.43",AL
+USA Health University Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$865.58,AL
+USA Health University Hospital,MRI,HCPCS 73721,MRI scan of leg joint,$850.51,AL
+USA Health University Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$205.10,AL
+USA Health University Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$166.18,AL
+USA Health University Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$166.78,AL
+USA Health University Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$209.03,AL
+USA Health University Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$209.03,AL
+USA Health University Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$162.54,AL
+USA Health University Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$162.54,AL
+USA Health University Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$146.94,AL
+USA Health University Hospital,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$171.22,AL
+USA Health University Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$96.22,AL
+USA Health University Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$96.22,AL
+USA Health University Hospital,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$577.96,AL
+USA Health University Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$74.17,AL
+USA Health University Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$70.87,AL
+USA Health University Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$78.39,AL
+USA Health University Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$78.39,AL
+USA Health University Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$61.89,AL
+USA Health University Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$64.14,AL
+USA Health University Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$78.39,AL
+USA Health University Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$61.89,AL
+USA Health University Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$88.27,AL
+USA Health University Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$80.97,AL
+USA Health University Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$80.97,AL
+USA Health University Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$71.30,AL
+USA Health University Hospital,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$58.28,AL
+USA Health University Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$61.67,AL
+USA Health University Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$61.67,AL
+USA Health University Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$104.72,AL
+USA Health University Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$61.67,AL
+USA Health University Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$61.67,AL
+USA Health University Hospital,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$2,717.81",AL
+USA Health University Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$6,670.22",AL
+USA Health University Hospital,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$6,670.22",AL
+USA Health University Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$5,459.05",AL
+USA Health University Hospital,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$3,205.41",AL
+USA Health University Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$4,495.58",AL
+USA Health University Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$183.74,AL
+USA Health University Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$183.74,AL
+USA Health University Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$16,804.02",AL
+USA Health University Hospital,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$6,472.61",AL
+USA Health University Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$6,709.16",AL
+USA Health University Hospital,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$6,709.16",AL
+USA Health University Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$4,418.34",AL
+USA Health University Hospital,Breast,HCPCS 19325,Breast enlargement using prosthetic implant,$304.64,AL
+USA Health University Hospital,Breast,HCPCS 19301,Partial removal of breast,"$3,292.83",AL
+USA Health University Hospital,Breast,HCPCS 19318,Reduction mammaplasty,"$7,875.62",AL
+USA Health University Hospital,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),"$158,039.61",AL
+USA Health University Hospital,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$40,529.48",AL
+USA Health University Hospital,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$40,529.48",AL
+USA Health University Hospital,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$4,784.95",AL
+USA Health University Hospital,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$4,784.95",AL
+USA Health University Hospital,Cardiac,MSDRG 247,Implant drug-eluting stent,"$26,666.79",AL
+USA Health University Hospital,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$18,770.90",AL
+USA Health University Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,195.76",AL
+USA Health University Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,312.22",AL
+USA Health University Hospital,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,301.04",AL
+USA Health University Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,301.04",AL
+USA Health University Hospital,Digestive,HCPCS 43235,EGD,"$1,538.55",AL
+USA Health University Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$1,482.44",AL
+USA Health University Hospital,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$4,668.13",AL
+USA Health University Hospital,Digestive,HCPCS 45391,Ultrasound of lower large bowel using an endoscope,"$1,195.76",AL
+USA Health University Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$13,237.89",AL
+USA Health University Hospital,General,HCPCS 55700,Biopsy of prostate gland,"$5,184.63",AL
+USA Health University Hospital,General,HCPCS 10060,Drainage of Abscess,$942.09,AL
+USA Health University Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple","$2,238.09",AL
+USA Health University Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$670.38,AL
+USA Health University Hospital,General,HCPCS 60240,Removal of thyroid,"$6,928.03",AL
+USA Health University Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$1,571.98",AL
+USA Health University Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$1,571.98",AL
+USA Health University Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$1,571.98",AL
+USA Health University Hospital,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$33,395.67",AL
+USA Health University Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$897.23,AL
+USA Health University Hospital,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,$897.23,AL
+USA Health University Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$973.55,AL
+USA Health University Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$1,265.60",AL
+USA Health University Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$14,461.72",AL
+USA Health University Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$4,581.93",AL
+USA Health University Hospital,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$4,581.93",AL
+USA Health University Hospital,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,"$30,031.54",AL
+USA Health University Hospital,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$2,971.92",AL
+USA Health University Hospital,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$27,401.14",AL
+USA Health University Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$33,395.67",AL
+USA Health University Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$2,512.73",AL
+USA Health University Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$8,383.07",AL
+USA Health University Hospital,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$4,910.82",AL
+USA Health University Hospital,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$4,190.20",AL
+USA Health University Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$12,175.66",AL
+USA Health University Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$156.12,AL
+USA Health University Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$3,530.91",AL
+USA Health University Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,442.12",AL
+USA Health University Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,497.89",AL

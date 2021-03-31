@@ -1,0 +1,171 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Radys Childrens Hospital of San Diego,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min","$1,055.00",CA
+Radys Childrens Hospital of San Diego,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min","$1,628.00",CA
+Radys Childrens Hospital of San Diego,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$549.00,CA
+Radys Childrens Hospital of San Diego,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$520.00,CA
+Radys Childrens Hospital of San Diego,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$770.00,CA
+Radys Childrens Hospital of San Diego,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$350.00,CA
+Radys Childrens Hospital of San Diego,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$350.00,CA
+Radys Childrens Hospital of San Diego,Psychology,HCPCS 90853,Group psychotherapy,$318.00,CA
+Radys Childrens Hospital of San Diego,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$232.00,CA
+Radys Childrens Hospital of San Diego,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$350.00,CA
+Radys Childrens Hospital of San Diego,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$240.00,CA
+Radys Childrens Hospital of San Diego,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$678.00,CA
+Radys Childrens Hospital of San Diego,Speech,HCPCS 92507,Speech Therapy,$320.00,CA
+Radys Childrens Hospital of San Diego,Speech,HCPCS 92610,Swallow Evaluation,$452.00,CA
+Radys Childrens Hospital of San Diego,Speech,HCPCS 92526,Swallow Treatment,$320.00,CA
+Radys Childrens Hospital of San Diego,Blood,HCPCS 85018,"Blood count, hemoglobin",$62.00,CA
+Radys Childrens Hospital of San Diego,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$61.00,CA
+Radys Childrens Hospital of San Diego,Blood,HCPCS 85610,"Blood test, clotting time",$115.00,CA
+Radys Childrens Hospital of San Diego,Blood,HCPCS 85730,Coagulation assessment blood test,$150.00,CA
+Radys Childrens Hospital of San Diego,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$175.00,CA
+Radys Childrens Hospital of San Diego,Blood,HCPCS 85027,"Complete blood count, automated",$140.00,CA
+Radys Childrens Hospital of San Diego,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$58.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 82040,Albumin (protein) level,$94.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$80.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 82140,Ammonia level,$176.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 82150,Amylase (enzyme) level,$131.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$206.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 84439,Assay of free thyroxine,$80.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 82248,Bilirubin level (Direct),$96.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 82247,Bilirubin level (Total),$96.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 82565,Blood creatinine level,$59.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$88.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 84132,Blood potassium level,$75.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 84295,Blood sodium level,$56.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$81.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$190.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 82310,Calcium level,$84.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 82465,Cholesterol level,$78.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 82533,Cortisol Measurement,$96.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 84681,C-peptide (protein) level,$50.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$121.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$80.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$194.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 82746,Folic acid; serum,$80.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$113.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$116.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$138.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$25.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$25.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",-,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$220.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 83525,Insulin Measurement; Total,$70.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 82330,Ionized Calcium,$221.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 83550,Iron Binding Capacity,$90.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 83540,Iron level,$118.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$125.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$131.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$81.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 83021,Liver function blood test panel,$78.92,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 83735,Magnesium Level,$90.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 82542,Mass spectrometry,$239.25,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 83970,Parathormone,$206.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 84157,Prealbumin (protein) level,$78.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$680.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$67.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$95.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$78.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 84550,"Uric acid level, blood",$111.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$105.00,CA
+Radys Childrens Hospital of San Diego,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$88.00,CA
+Radys Childrens Hospital of San Diego,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$82.00,CA
+Radys Childrens Hospital of San Diego,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$111.00,CA
+Radys Childrens Hospital of San Diego,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$111.00,CA
+Radys Childrens Hospital of San Diego,Immunology,HCPCS 86140,Measurement C-reactive protein,$115.00,CA
+Radys Childrens Hospital of San Diego,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$32.00,CA
+Radys Childrens Hospital of San Diego,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$80.00,CA
+Radys Childrens Hospital of San Diego,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$115.00,CA
+Radys Childrens Hospital of San Diego,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$20.59,CA
+Radys Childrens Hospital of San Diego,Immunology,HCPCS 86359,"T cells count, total",$19.30,CA
+Radys Childrens Hospital of San Diego,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$80.00,CA
+Radys Childrens Hospital of San Diego,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$72.00,CA
+Radys Childrens Hospital of San Diego,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$177.00,CA
+Radys Childrens Hospital of San Diego,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$115.00,CA
+Radys Childrens Hospital of San Diego,Microbiology,HCPCS 87491,Chlamydia Test,$175.00,CA
+Radys Childrens Hospital of San Diego,Microbiology,HCPCS 87635,Covid-19 current infection test,$204.00,CA
+Radys Childrens Hospital of San Diego,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$158.00,CA
+Radys Childrens Hospital of San Diego,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$181.00,CA
+Radys Childrens Hospital of San Diego,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$111.00,CA
+Radys Childrens Hospital of San Diego,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$166.00,CA
+Radys Childrens Hospital of San Diego,Microbiology,HCPCS 87045,Stool Culture,$145.00,CA
+Radys Childrens Hospital of San Diego,Microbiology,HCPCS 87880,Strep Test,$113.00,CA
+Radys Childrens Hospital of San Diego,Microbiology,HCPCS 87804,Test for Influenza Virus,$150.00,CA
+Radys Childrens Hospital of San Diego,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$210.00,CA
+Radys Childrens Hospital of San Diego,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$285.00,CA
+Radys Childrens Hospital of San Diego,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$400.00,CA
+Radys Childrens Hospital of San Diego,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$225.00,CA
+Radys Childrens Hospital of San Diego,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$292.00,CA
+Radys Childrens Hospital of San Diego,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$240.00,CA
+Radys Childrens Hospital of San Diego,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$185.00,CA
+Radys Childrens Hospital of San Diego,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$120.00,CA
+Radys Childrens Hospital of San Diego,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$625.00,CA
+Radys Childrens Hospital of San Diego,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$226.00,CA
+Radys Childrens Hospital of San Diego,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$189.00,CA
+Radys Childrens Hospital of San Diego,Transfusion,HCPCS 86900,"Blood Typing, ABO",$65.56,CA
+Radys Childrens Hospital of San Diego,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$69.13,CA
+Radys Childrens Hospital of San Diego,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$91.00,CA
+Radys Childrens Hospital of San Diego,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$105.00,CA
+Radys Childrens Hospital of San Diego,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$118.00,CA
+Radys Childrens Hospital of San Diego,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$49.00,CA
+Radys Childrens Hospital of San Diego,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$50.00,CA
+Radys Childrens Hospital of San Diego,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$115.00,CA
+Radys Childrens Hospital of San Diego,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$83.00,CA
+Radys Childrens Hospital of San Diego,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$1,440.00",CA
+Radys Childrens Hospital of San Diego,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$389.00,CA
+Radys Childrens Hospital of San Diego,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$600.00,CA
+Radys Childrens Hospital of San Diego,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$898.00,CA
+Radys Childrens Hospital of San Diego,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,563.00",CA
+Radys Childrens Hospital of San Diego,Pulmonary,HCPCS 94640,Aerosol Treatment,$343.00,CA
+Radys Childrens Hospital of San Diego,Pulmonary,HCPCS 94010,Spirometry - breathing test,$467.00,CA
+Radys Childrens Hospital of San Diego,Sleep,HCPCS 95810,Sleep study,"$4,444.00",CA
+Radys Childrens Hospital of San Diego,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$2,900.00",CA
+Radys Childrens Hospital of San Diego,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,105.00",CA
+Radys Childrens Hospital of San Diego,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$5,390.00",CA
+Radys Childrens Hospital of San Diego,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$2,678.00",CA
+Radys Childrens Hospital of San Diego,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$3,250.00",CA
+Radys Childrens Hospital of San Diego,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$5,460.00",CA
+Radys Childrens Hospital of San Diego,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$5,985.00",CA
+Radys Childrens Hospital of San Diego,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$8,142.00",CA
+Radys Childrens Hospital of San Diego,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$4,620.00",CA
+Radys Childrens Hospital of San Diego,MRI,HCPCS 73721,MRI scan of leg joint,"$4,620.00",CA
+Radys Childrens Hospital of San Diego,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$698.00,CA
+Radys Childrens Hospital of San Diego,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$831.00,CA
+Radys Childrens Hospital of San Diego,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$755.00,CA
+Radys Childrens Hospital of San Diego,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,600.00",CA
+Radys Childrens Hospital of San Diego,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$864.00,CA
+Radys Childrens Hospital of San Diego,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$900.00,CA
+Radys Childrens Hospital of San Diego,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$405.00,CA
+Radys Childrens Hospital of San Diego,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$905.00,CA
+Radys Childrens Hospital of San Diego,Chest,HCPCS 71046,X-ray of chest; 2 Views,$575.00,CA
+Radys Childrens Hospital of San Diego,Chest,HCPCS 71045,X-ray of chest; Single View,$357.00,CA
+Radys Childrens Hospital of San Diego,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$440.00,CA
+Radys Childrens Hospital of San Diego,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$550.00,CA
+Radys Childrens Hospital of San Diego,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$421.00,CA
+Radys Childrens Hospital of San Diego,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$423.00,CA
+Radys Childrens Hospital of San Diego,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$502.00,CA
+Radys Childrens Hospital of San Diego,Lower Limbs,HCPCS 73630,X-ray exam of foot,$505.00,CA
+Radys Childrens Hospital of San Diego,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views","$1,069.00",CA
+Radys Childrens Hospital of San Diego,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$420.00,CA
+Radys Childrens Hospital of San Diego,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views","$1,095.00",CA
+Radys Childrens Hospital of San Diego,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views","$1,355.00",CA
+Radys Childrens Hospital of San Diego,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$423.00,CA
+Radys Childrens Hospital of San Diego,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$892.00,CA
+Radys Childrens Hospital of San Diego,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$501.00,CA
+Radys Childrens Hospital of San Diego,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$495.00,CA
+Radys Childrens Hospital of San Diego,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$498.00,CA
+Radys Childrens Hospital of San Diego,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$372.00,CA
+Radys Childrens Hospital of San Diego,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$861.00,CA
+Radys Childrens Hospital of San Diego,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$769.00,CA
+Radys Childrens Hospital of San Diego,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$455.00,CA
+Radys Childrens Hospital of San Diego,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$505.00,CA
+Radys Childrens Hospital of San Diego,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$436.00,CA
+Radys Childrens Hospital of San Diego,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$524.00,CA
+Radys Childrens Hospital of San Diego,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$255.00,CA
+Radys Childrens Hospital of San Diego,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$13,910.00",CA
+Radys Childrens Hospital of San Diego,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers","$1,070.00",CA
+Radys Childrens Hospital of San Diego,Digestive,HCPCS 43235,EGD,$703.00,CA
+Radys Childrens Hospital of San Diego,Digestive,HCPCS 43239,EGD and biopsy,$977.00,CA
+Radys Childrens Hospital of San Diego,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$474.00,CA
+Radys Childrens Hospital of San Diego,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$415.00,CA
+Radys Childrens Hospital of San Diego,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$404.00,CA

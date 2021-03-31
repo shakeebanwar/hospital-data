@@ -1,0 +1,119 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Brookwood Baptist Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$44,620.48",AL
+Brookwood Baptist Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$33,502.34",AL
+Brookwood Baptist Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$545.25,AL
+Brookwood Baptist Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$2,881.93",AL
+Brookwood Baptist Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$7,034.39",AL
+Brookwood Baptist Medical Center,Hospital,HCPCS 99218,Hospital Observation per Hour,"$35,853.20",AL
+Brookwood Baptist Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min","$8,661.91",AL
+Brookwood Baptist Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$69,549.75",AL
+Brookwood Baptist Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$148.03,AL
+Brookwood Baptist Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$70.57,AL
+Brookwood Baptist Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$124.41,AL
+Brookwood Baptist Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$199.07,AL
+Brookwood Baptist Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$741.10,AL
+Brookwood Baptist Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$88.35,AL
+Brookwood Baptist Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$19,802.69",AL
+Brookwood Baptist Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$360.40,AL
+Brookwood Baptist Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$192.50,AL
+Brookwood Baptist Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$271.51,AL
+Brookwood Baptist Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$124.18,AL
+Brookwood Baptist Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$198.77,AL
+Brookwood Baptist Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$172.52,AL
+Brookwood Baptist Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$172.92,AL
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$478.99,AL
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$90.01,AL
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83540,Iron level,$140.28,AL
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$106.19,AL
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$305.91,AL
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$140.39,AL
+Brookwood Baptist Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$72.80,AL
+Brookwood Baptist Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$222.78,AL
+Brookwood Baptist Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$316.50,AL
+Brookwood Baptist Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$158.27,AL
+Brookwood Baptist Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$302.27,AL
+Brookwood Baptist Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$192.07,AL
+Brookwood Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$322.87,AL
+Brookwood Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$463.52,AL
+Brookwood Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$428.34,AL
+Brookwood Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$321.90,AL
+Brookwood Baptist Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$205.33,AL
+Brookwood Baptist Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$207.56,AL
+Brookwood Baptist Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$143.31,AL
+Brookwood Baptist Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$149.48,AL
+Brookwood Baptist Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$194.66,AL
+Brookwood Baptist Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$451.07,AL
+Brookwood Baptist Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$15,287.04",AL
+Brookwood Baptist Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$72,750.46",AL
+Brookwood Baptist Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,007.26",AL
+Brookwood Baptist Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$90,089.89",AL
+Brookwood Baptist Medical Center,Sleep,HCPCS 95810,Sleep study,"$9,333.38",AL
+Brookwood Baptist Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$3,277.49",AL
+Brookwood Baptist Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$5,420.39",AL
+Brookwood Baptist Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$3,695.33",AL
+Brookwood Baptist Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$10,280.42",AL
+Brookwood Baptist Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$8,303.45",AL
+Brookwood Baptist Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,273.73",AL
+Brookwood Baptist Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$3,625.46",AL
+Brookwood Baptist Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$6,342.29",AL
+Brookwood Baptist Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$6,857.76",AL
+Brookwood Baptist Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$5,515.14",AL
+Brookwood Baptist Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$6,835.34",AL
+Brookwood Baptist Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$6,313.75",AL
+Brookwood Baptist Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$3,198.32",AL
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$922.48,AL
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$850.32,AL
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$1,967.69",AL
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$2,693.91",AL
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,112.56",AL
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,320.98",AL
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,650.10",AL
+Brookwood Baptist Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$979.90,AL
+Brookwood Baptist Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$595.79,AL
+Brookwood Baptist Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$763.04,AL
+Brookwood Baptist Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views","$1,288.00",AL
+Brookwood Baptist Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,"$1,114.70",AL
+Brookwood Baptist Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$739.88,AL
+Brookwood Baptist Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views","$1,241.54",AL
+Brookwood Baptist Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views","$1,136.50",AL
+Brookwood Baptist Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,990.61",AL
+Brookwood Baptist Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views","$1,187.40",AL
+Brookwood Baptist Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views","$1,010.03",AL
+Brookwood Baptist Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views","$1,072.82",AL
+Brookwood Baptist Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views","$1,362.89",AL
+Brookwood Baptist Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views","$1,016.91",AL
+Brookwood Baptist Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views","$1,038.67",AL
+Brookwood Baptist Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$41,634.63",AL
+Brookwood Baptist Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$57,936.46",AL
+Brookwood Baptist Medical Center,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$36,154.75",AL
+Brookwood Baptist Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$40,484.99",AL
+Brookwood Baptist Medical Center,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$17,035.28",AL
+Brookwood Baptist Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$37,829.72",AL
+Brookwood Baptist Medical Center,Breast,HCPCS 19301,Partial removal of breast,"$45,735.50",AL
+Brookwood Baptist Medical Center,Cardiac,MSDRG 216,Cardiac valve procedure,"$512,801.11",AL
+Brookwood Baptist Medical Center,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$39,709.85",AL
+Brookwood Baptist Medical Center,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers","$24,920.30",AL
+Brookwood Baptist Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$8,738.07",AL
+Brookwood Baptist Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$9,874.88",AL
+Brookwood Baptist Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$9,627.70",AL
+Brookwood Baptist Medical Center,Digestive,HCPCS 43235,EGD,"$11,459.66",AL
+Brookwood Baptist Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$9,940.96",AL
+Brookwood Baptist Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$52,373.59",AL
+Brookwood Baptist Medical Center,General,HCPCS 55700,Biopsy of prostate gland,"$27,499.77",AL
+Brookwood Baptist Medical Center,General,HCPCS 55866,Prostatectomy,"$104,600.28",AL
+Brookwood Baptist Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$4,681.72",AL
+Brookwood Baptist Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$110,430.05",AL
+Brookwood Baptist Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$39,548.27",AL
+Brookwood Baptist Medical Center,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$50,144.21",AL
+Brookwood Baptist Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$52,263.98",AL
+Brookwood Baptist Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$136,267.24",AL
+Brookwood Baptist Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$131,741.71",AL
+Brookwood Baptist Medical Center,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$46,322.57",AL
+Brookwood Baptist Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$27,620.22",AL
+Brookwood Baptist Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$42,361.60",AL
+Brookwood Baptist Medical Center,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$42,039.89",AL
+Brookwood Baptist Medical Center,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$36,758.15",AL
+Brookwood Baptist Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$29,673.89",AL
+Brookwood Baptist Medical Center,Ocular,HCPCS 66984,Cataract removal,"$27,592.44",AL
+Brookwood Baptist Medical Center,Ocular,HCPCS 66821,Laser cataract removal,"$5,345.65",AL
+Brookwood Baptist Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$26,756.51",AL

@@ -1,0 +1,131 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+San Ramon Regional Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$35,270.15",CA
+San Ramon Regional Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$36,608.47",CA
+San Ramon Regional Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,"$2,142.38",CA
+San Ramon Regional Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$4,054.14",CA
+San Ramon Regional Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$12,163.57",CA
+San Ramon Regional Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$14,387.26",CA
+San Ramon Regional Medical Center,Hospital,HCPCS 99218,Hospital Observation per Hour,"$38,473.37",CA
+San Ramon Regional Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min","$1,751.50",CA
+San Ramon Regional Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min","$2,948.03",CA
+San Ramon Regional Medical Center,Speech,HCPCS 92507,Speech Therapy,"$5,021.31",CA
+San Ramon Regional Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$3,215.33",CA
+San Ramon Regional Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$76.82,CA
+San Ramon Regional Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$66.15,CA
+San Ramon Regional Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$189.29,CA
+San Ramon Regional Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$226.64,CA
+San Ramon Regional Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$214.46,CA
+San Ramon Regional Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$153.14,CA
+San Ramon Regional Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$29.81,CA
+San Ramon Regional Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$245.72,CA
+San Ramon Regional Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$562.87,CA
+San Ramon Regional Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$29.78,CA
+San Ramon Regional Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$71.66,CA
+San Ramon Regional Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$51.85,CA
+San Ramon Regional Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$27.55,CA
+San Ramon Regional Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$212.16,CA
+San Ramon Regional Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$526.38,CA
+San Ramon Regional Medical Center,Chemistry,HCPCS 82310,Calcium level,$28.44,CA
+San Ramon Regional Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$326.86,CA
+San Ramon Regional Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$357.21,CA
+San Ramon Regional Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$431.73,CA
+San Ramon Regional Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$7.33,CA
+San Ramon Regional Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$337.61,CA
+San Ramon Regional Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$205.22,CA
+San Ramon Regional Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$1.64,CA
+San Ramon Regional Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$251.69,CA
+San Ramon Regional Medical Center,Chemistry,HCPCS 83540,Iron level,$180.53,CA
+San Ramon Regional Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$61.56,CA
+San Ramon Regional Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$422.13,CA
+San Ramon Regional Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$51.87,CA
+San Ramon Regional Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$262.58,CA
+San Ramon Regional Medical Center,Chemistry,HCPCS 83970,Parathormone,$3.60,CA
+San Ramon Regional Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$500.90,CA
+San Ramon Regional Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$2.49,CA
+San Ramon Regional Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$2.45,CA
+San Ramon Regional Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$17.69,CA
+San Ramon Regional Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$53.36,CA
+San Ramon Regional Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$61.75,CA
+San Ramon Regional Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$178.04,CA
+San Ramon Regional Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$402.29,CA
+San Ramon Regional Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$358.55,CA
+San Ramon Regional Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$418.96,CA
+San Ramon Regional Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$467.15,CA
+San Ramon Regional Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$9.23,CA
+San Ramon Regional Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$8.41,CA
+San Ramon Regional Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$116.67,CA
+San Ramon Regional Medical Center,Microbiology,HCPCS 87045,Stool Culture,$665.58,CA
+San Ramon Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$434.73,CA
+San Ramon Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$797.49,CA
+San Ramon Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$357.35,CA
+San Ramon Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$544.21,CA
+San Ramon Regional Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$745.78,CA
+San Ramon Regional Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$166.43,CA
+San Ramon Regional Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$164.39,CA
+San Ramon Regional Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$256.22,CA
+San Ramon Regional Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$151.13,CA
+San Ramon Regional Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$12,919.83",CA
+San Ramon Regional Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$17,889.66",CA
+San Ramon Regional Medical Center,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,"$3,415.28",CA
+San Ramon Regional Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$58,444.02",CA
+San Ramon Regional Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$80.98,CA
+San Ramon Regional Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$550.50,CA
+San Ramon Regional Medical Center,Breast,HCPCS 77067,Mammogram Screening,$412.66,CA
+San Ramon Regional Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$757.95,CA
+San Ramon Regional Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$9,178.40",CA
+San Ramon Regional Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$5,668.99",CA
+San Ramon Regional Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$6,547.88",CA
+San Ramon Regional Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$9,388.64",CA
+San Ramon Regional Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$8,076.41",CA
+San Ramon Regional Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$9,418.94",CA
+San Ramon Regional Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$5,832.13",CA
+San Ramon Regional Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$6,713.57",CA
+San Ramon Regional Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$6,813.75",CA
+San Ramon Regional Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$7,018.50",CA
+San Ramon Regional Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$11,664.00",CA
+San Ramon Regional Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$9,271.76",CA
+San Ramon Regional Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$2,442.35",CA
+San Ramon Regional Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$2,698.79",CA
+San Ramon Regional Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,978.24",CA
+San Ramon Regional Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$2,560.37",CA
+San Ramon Regional Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$2,793.04",CA
+San Ramon Regional Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$2,274.23",CA
+San Ramon Regional Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,482.41",CA
+San Ramon Regional Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$905.01,CA
+San Ramon Regional Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$721.73,CA
+San Ramon Regional Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views","$1,062.18",CA
+San Ramon Regional Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views","$1,007.21",CA
+San Ramon Regional Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views","$1,173.95",CA
+San Ramon Regional Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,"$1,135.01",CA
+San Ramon Regional Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views","$1,527.54",CA
+San Ramon Regional Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$865.08,CA
+San Ramon Regional Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views","$1,348.33",CA
+San Ramon Regional Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views","$1,298.96",CA
+San Ramon Regional Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,679.93",CA
+San Ramon Regional Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views","$1,054.80",CA
+San Ramon Regional Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views","$1,170.42",CA
+San Ramon Regional Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views","$1,380.10",CA
+San Ramon Regional Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views","$1,040.30",CA
+San Ramon Regional Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views","$1,341.32",CA
+San Ramon Regional Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views","$1,415.82",CA
+San Ramon Regional Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views","$1,086.90",CA
+San Ramon Regional Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views","$1,468.07",CA
+San Ramon Regional Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$45,532.79",CA
+San Ramon Regional Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$36,081.92",CA
+San Ramon Regional Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$35,118.38",CA
+San Ramon Regional Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$22,183.14",CA
+San Ramon Regional Medical Center,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$58,469.92",CA
+San Ramon Regional Medical Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$37,626.54",CA
+San Ramon Regional Medical Center,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$28,402.28",CA
+San Ramon Regional Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$24,306.89",CA
+San Ramon Regional Medical Center,Cardiac,MSDRG 216,Cardiac valve procedure,"$510,877.50",CA
+San Ramon Regional Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$6,572.93",CA
+San Ramon Regional Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$8,219.30",CA
+San Ramon Regional Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$8,907.63",CA
+San Ramon Regional Medical Center,Digestive,HCPCS 43235,EGD,"$9,269.77",CA
+San Ramon Regional Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$23,032.43",CA
+San Ramon Regional Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$70,643.25",CA
+San Ramon Regional Medical Center,General,HCPCS 55700,Biopsy of prostate gland,"$14,187.98",CA
+San Ramon Regional Medical Center,General,HCPCS 55866,Prostatectomy,"$100,501.43",CA
+San Ramon Regional Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$4,129.52",CA
+San Ramon Regional Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$3,910.76",CA

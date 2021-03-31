@@ -1,0 +1,351 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Flagstaff Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$499.88,AZ
+Flagstaff Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,730.75",AZ
+Flagstaff Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$177.38,AZ
+Flagstaff Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$316.59,AZ
+Flagstaff Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$499.88,AZ
+Flagstaff Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,$752.50,AZ
+Flagstaff Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,236.25",AZ
+Flagstaff Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$113.46,AZ
+Flagstaff Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$136.50,AZ
+Flagstaff Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$128.32,AZ
+Flagstaff Medical Center,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$98.00,AZ
+Flagstaff Medical Center,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$164.50,AZ
+Flagstaff Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$385.46,AZ
+Flagstaff Medical Center,Speech,HCPCS 92507,Speech Therapy,$214.48,AZ
+Flagstaff Medical Center,Speech,HCPCS 92610,Swallow Evaluation,$228.50,AZ
+Flagstaff Medical Center,Speech,HCPCS 92526,Swallow Treatment,$232.60,AZ
+Flagstaff Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$24.98,AZ
+Flagstaff Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$26.80,AZ
+Flagstaff Medical Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$95.96,AZ
+Flagstaff Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$41.52,AZ
+Flagstaff Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$76.48,AZ
+Flagstaff Medical Center,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$30.78,AZ
+Flagstaff Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$80.78,AZ
+Flagstaff Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$67.78,AZ
+Flagstaff Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$233.82,AZ
+Flagstaff Medical Center,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$30.64,AZ
+Flagstaff Medical Center,Blood,HCPCS 85660,Red blood cell sickling measurement,$21.50,AZ
+Flagstaff Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$193.73,AZ
+Flagstaff Medical Center,Blood,HCPCS 85041,"Red blood count, automated test",$40.50,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$132.60,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$165.46,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$53.48,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$14.18,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$142.36,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82140,Ammonia level,$104.39,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$73.65,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$16.47,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$204.25,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$101.94,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$174.42,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$54.10,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$54.24,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$57.11,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$46.03,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$7.26,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 84132,Blood potassium level,$25.25,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$21.66,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$58.48,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$177.41,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82310,Calcium level,$55.58,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$52.73,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$204.40,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82465,Cholesterol level,$46.98,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82525,Copper level,$63.13,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$104.44,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$110.77,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$70.30,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$159.22,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$272.42,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$84.38,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$146.82,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$157.03,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$53.15,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$77.61,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$102.60,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$11.88,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$11.61,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$135.52,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 83718,HDL cholesterol level,$88.25,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 83020,Hemoglobin Measurement,$136.09,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$31.80,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$308.25,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$140.00,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$12.96,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$152.00,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$39.91,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 83540,Iron level,$68.50,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$67.00,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 83721,LDL cholesterol level,$102.75,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$75.73,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$57.19,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$95.00,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 83021,Liver function blood test panel,$32.52,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$74.55,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82542,Mass spectrometry,$207.50,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$40.70,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$79.05,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 83945,Oxalate level,$143.25,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 83970,Parathormone,$191.00,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$50.05,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$142.36,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$13.54,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$119.45,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$34.98,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$55.89,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$60.47,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$38.65,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$537.37,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$76.50,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$38.72,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$39.23,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$21.25,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 84560,Uric acid level,$64.12,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$47.78,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$65.12,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82436,Urine chloride level,$57.10,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$61.37,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$72.11,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$73.58,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$52.91,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$50.30,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 84591,Vitamin B-6 level,$86.70,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$75.28,AZ
+Flagstaff Medical Center,Chemistry,HCPCS 84630,Zinc level,$108.30,AZ
+Flagstaff Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$64.60,AZ
+Flagstaff Medical Center,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$108.73,AZ
+Flagstaff Medical Center,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$42.40,AZ
+Flagstaff Medical Center,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$58.28,AZ
+Flagstaff Medical Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$50.58,AZ
+Flagstaff Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$15.05,AZ
+Flagstaff Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$58.00,AZ
+Flagstaff Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$127.44,AZ
+Flagstaff Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$113.58,AZ
+Flagstaff Medical Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$37.00,AZ
+Flagstaff Medical Center,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$104.88,AZ
+Flagstaff Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$38.50,AZ
+Flagstaff Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$49.88,AZ
+Flagstaff Medical Center,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$69.34,AZ
+Flagstaff Medical Center,Immunology,HCPCS 86161,Measurement of complement (immune system proteins),$31.59,AZ
+Flagstaff Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$131.06,AZ
+Flagstaff Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$142.36,AZ
+Flagstaff Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$45.41,AZ
+Flagstaff Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$54.62,AZ
+Flagstaff Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$32.64,AZ
+Flagstaff Medical Center,Immunology,HCPCS 86361,T cell count and ratio,$39.55,AZ
+Flagstaff Medical Center,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$103.28,AZ
+Flagstaff Medical Center,Immunology,HCPCS 86359,"T cells count, total",$103.28,AZ
+Flagstaff Medical Center,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$13.60,AZ
+Flagstaff Medical Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$22.00,AZ
+Flagstaff Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$93.07,AZ
+Flagstaff Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$22.14,AZ
+Flagstaff Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$112.53,AZ
+Flagstaff Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$115.41,AZ
+Flagstaff Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$92.20,AZ
+Flagstaff Medical Center,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$82.26,AZ
+Flagstaff Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$6.70,AZ
+Flagstaff Medical Center,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$121.70,AZ
+Flagstaff Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$38.70,AZ
+Flagstaff Medical Center,Microbiology,HCPCS 87517,Hepatitis B Detection,$273.03,AZ
+Flagstaff Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$103.50,AZ
+Flagstaff Medical Center,Microbiology,HCPCS 87624,HPV Detection,$96.75,AZ
+Flagstaff Medical Center,Microbiology,HCPCS 86735,Mumps virus antibody test,$145.10,AZ
+Flagstaff Medical Center,Microbiology,HCPCS 86747,Parvovirus antibody test,$58.28,AZ
+Flagstaff Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$91.80,AZ
+Flagstaff Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$45.35,AZ
+Flagstaff Medical Center,Microbiology,HCPCS 87207,Smear for infectious agents,$23.01,AZ
+Flagstaff Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$15.95,AZ
+Flagstaff Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$53.16,AZ
+Flagstaff Medical Center,Microbiology,HCPCS 87045,Stool Culture,$93.29,AZ
+Flagstaff Medical Center,Microbiology,HCPCS 87880,Strep Test,$64.72,AZ
+Flagstaff Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$51.77,AZ
+Flagstaff Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$136.13,AZ
+Flagstaff Medical Center,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$222.07,AZ
+Flagstaff Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$480.27,AZ
+Flagstaff Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$102.08,AZ
+Flagstaff Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$138.10,AZ
+Flagstaff Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$141.50,AZ
+Flagstaff Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$102.10,AZ
+Flagstaff Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$99.05,AZ
+Flagstaff Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$80.30,AZ
+Flagstaff Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$20.64,AZ
+Flagstaff Medical Center,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$129.68,AZ
+Flagstaff Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$143.12,AZ
+Flagstaff Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$32.35,AZ
+Flagstaff Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$36.88,AZ
+Flagstaff Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$74.89,AZ
+Flagstaff Medical Center,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$166.16,AZ
+Flagstaff Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$140.18,AZ
+Flagstaff Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$131.34,AZ
+Flagstaff Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$128.53,AZ
+Flagstaff Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$126.02,AZ
+Flagstaff Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$34.74,AZ
+Flagstaff Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$31.05,AZ
+Flagstaff Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$94.06,AZ
+Flagstaff Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$66.25,AZ
+Flagstaff Medical Center,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$73.44,AZ
+Flagstaff Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$41.87,AZ
+Flagstaff Medical Center,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$15.40,AZ
+Flagstaff Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$15.40,AZ
+Flagstaff Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$55.20,AZ
+Flagstaff Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$78.16,AZ
+Flagstaff Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$314.22,AZ
+Flagstaff Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$116.76,AZ
+Flagstaff Medical Center,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$216.47,AZ
+Flagstaff Medical Center,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),$786.66,AZ
+Flagstaff Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,$535.49,AZ
+Flagstaff Medical Center,Pulmonary,HCPCS 94640,Aerosol Treatment,$157.40,AZ
+Flagstaff Medical Center,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$302.88,AZ
+Flagstaff Medical Center,Pulmonary,HCPCS 94618,Pulmonary stress test,$168.38,AZ
+Flagstaff Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$283.73,AZ
+Flagstaff Medical Center,Sleep,HCPCS 95810,Sleep study,"$1,603.84",AZ
+Flagstaff Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$7.50,AZ
+Flagstaff Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$75.50,AZ
+Flagstaff Medical Center,Breast,HCPCS 77067,Mammogram Screening,$78.52,AZ
+Flagstaff Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$79.00,AZ
+Flagstaff Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,600.20",AZ
+Flagstaff Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,423.43",AZ
+Flagstaff Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,182.83",AZ
+Flagstaff Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,123.68",AZ
+Flagstaff Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,369.55",AZ
+Flagstaff Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$3,169.95",AZ
+Flagstaff Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,996.18",AZ
+Flagstaff Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,505.72",AZ
+Flagstaff Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,684.28",AZ
+Flagstaff Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,591.80",AZ
+Flagstaff Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,437.40",AZ
+Flagstaff Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,505.72",AZ
+Flagstaff Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,512.21",AZ
+Flagstaff Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,232.45",AZ
+Flagstaff Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,068.32",AZ
+Flagstaff Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,177.18",AZ
+Flagstaff Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,408.97",AZ
+Flagstaff Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,068.32",AZ
+Flagstaff Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$2,408.97",AZ
+Flagstaff Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,296.24",AZ
+Flagstaff Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,680.79",AZ
+Flagstaff Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,535.75",AZ
+Flagstaff Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,769.25",AZ
+Flagstaff Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$1,680.79",AZ
+Flagstaff Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$468.20,AZ
+Flagstaff Medical Center,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$357.00,AZ
+Flagstaff Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$373.56,AZ
+Flagstaff Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$356.11,AZ
+Flagstaff Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$398.44,AZ
+Flagstaff Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$488.27,AZ
+Flagstaff Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$382.54,AZ
+Flagstaff Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$220.50,AZ
+Flagstaff Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$382.54,AZ
+Flagstaff Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$593.50,AZ
+Flagstaff Medical Center,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$373.56,AZ
+Flagstaff Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$297.62,AZ
+Flagstaff Medical Center,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$366.50,AZ
+Flagstaff Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$182.69,AZ
+Flagstaff Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$167.97,AZ
+Flagstaff Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$186.43,AZ
+Flagstaff Medical Center,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$219.73,AZ
+Flagstaff Medical Center,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$193.72,AZ
+Flagstaff Medical Center,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$254.62,AZ
+Flagstaff Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$301.93,AZ
+Flagstaff Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$172.94,AZ
+Flagstaff Medical Center,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$181.04,AZ
+Flagstaff Medical Center,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$384.82,AZ
+Flagstaff Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$524.89,AZ
+Flagstaff Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$330.87,AZ
+Flagstaff Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$165.03,AZ
+Flagstaff Medical Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$202.99,AZ
+Flagstaff Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$161.60,AZ
+Flagstaff Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$211.98,AZ
+Flagstaff Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$131.40,AZ
+Flagstaff Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$182.86,AZ
+Flagstaff Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$211.37,AZ
+Flagstaff Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$228.38,AZ
+Flagstaff Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$129.54,AZ
+Flagstaff Medical Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$172.94,AZ
+Flagstaff Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$151.68,AZ
+Flagstaff Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$274.31,AZ
+Flagstaff Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$151.68,AZ
+Flagstaff Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$342.64,AZ
+Flagstaff Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$249.40,AZ
+Flagstaff Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$274.83,AZ
+Flagstaff Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$193.32,AZ
+Flagstaff Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$192.36,AZ
+Flagstaff Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$119.07,AZ
+Flagstaff Medical Center,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$119.07,AZ
+Flagstaff Medical Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$156.78,AZ
+Flagstaff Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$182.86,AZ
+Flagstaff Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$188.14,AZ
+Flagstaff Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$158.16,AZ
+Flagstaff Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$192.94,AZ
+Flagstaff Medical Center,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$20,671.72",AZ
+Flagstaff Medical Center,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$1,581.43",AZ
+Flagstaff Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$2,706.93",AZ
+Flagstaff Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$3,122.66",AZ
+Flagstaff Medical Center,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,"$1,906.88",AZ
+Flagstaff Medical Center,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$2,483.31",AZ
+Flagstaff Medical Center,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$1,073.12",AZ
+Flagstaff Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$2,174.02",AZ
+Flagstaff Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$343.14,AZ
+Flagstaff Medical Center,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$26,508.82",AZ
+Flagstaff Medical Center,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,"$2,722.02",AZ
+Flagstaff Medical Center,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$2,635.27",AZ
+Flagstaff Medical Center,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$2,569.38",AZ
+Flagstaff Medical Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$3,142.87",AZ
+Flagstaff Medical Center,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$1,892.22",AZ
+Flagstaff Medical Center,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$2,219.99",AZ
+Flagstaff Medical Center,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$2,749.15",AZ
+Flagstaff Medical Center,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$1,685.18",AZ
+Flagstaff Medical Center,Breast,HCPCS 19101,Biopsy of breast,"$1,127.81",AZ
+Flagstaff Medical Center,Breast,HCPCS 19125,Excision of breast lesion,"$2,943.72",AZ
+Flagstaff Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$1,653.99",AZ
+Flagstaff Medical Center,Breast,HCPCS 19301,Partial removal of breast,"$1,833.19",AZ
+Flagstaff Medical Center,Breast,HCPCS 19318,Reduction mammaplasty,"$2,651.30",AZ
+Flagstaff Medical Center,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$2,425.47",AZ
+Flagstaff Medical Center,Breast,HCPCS 19303,Total removal of breast,"$2,435.50",AZ
+Flagstaff Medical Center,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,"$114,505.04",AZ
+Flagstaff Medical Center,Cardiac,HCPCS 33249,Defibrillator complete system,"$3,173.97",AZ
+Flagstaff Medical Center,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$4,942.23",AZ
+Flagstaff Medical Center,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$572.92,AZ
+Flagstaff Medical Center,Cardiac,MSDRG 247,Implant drug-eluting stent,"$45,184.99",AZ
+Flagstaff Medical Center,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$41,930.45",AZ
+Flagstaff Medical Center,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$1,632.90",AZ
+Flagstaff Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,422.84",AZ
+Flagstaff Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,324.67",AZ
+Flagstaff Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal",$928.38,AZ
+Flagstaff Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)",$844.06,AZ
+Flagstaff Medical Center,Digestive,HCPCS 43235,EGD,"$1,107.21",AZ
+Flagstaff Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$1,071.17",AZ
+Flagstaff Medical Center,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$1,595.18",AZ
+Flagstaff Medical Center,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$1,789.54",AZ
+Flagstaff Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$18,375.53",AZ
+Flagstaff Medical Center,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$2,673.68",AZ
+Flagstaff Medical Center,General,HCPCS 55700,Biopsy of prostate gland,"$1,159.85",AZ
+Flagstaff Medical Center,General,HCPCS 10060,Drainage of Abscess,$308.75,AZ
+Flagstaff Medical Center,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple","$1,958.22",AZ
+Flagstaff Medical Center,General,HCPCS 69200,Removal of foreign body from ear canal,$186.51,AZ
+Flagstaff Medical Center,General,HCPCS 60240,Removal of thyroid,"$3,828.43",AZ
+Flagstaff Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$456.47,AZ
+Flagstaff Medical Center,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$456.14,AZ
+Flagstaff Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$456.41,AZ
+Flagstaff Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$500.00,AZ
+Flagstaff Medical Center,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$298.97,AZ
+Flagstaff Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$1,971.38",AZ
+Flagstaff Medical Center,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$1,729.00",AZ
+Flagstaff Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$330.04,AZ
+Flagstaff Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$32,064.94",AZ
+Flagstaff Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,$784.68,AZ
+Flagstaff Medical Center,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,$500.00,AZ
+Flagstaff Medical Center,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,$922.49,AZ
+Flagstaff Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,$890.95,AZ
+Flagstaff Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$172.43,AZ
+Flagstaff Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$1,689.34",AZ
+Flagstaff Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$12,926.73",AZ
+Flagstaff Medical Center,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$1,298.15",AZ
+Flagstaff Medical Center,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$1,606.18",AZ
+Flagstaff Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$6,716.67",AZ
+Flagstaff Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$232.56,AZ
+Flagstaff Medical Center,Soft Tissue,HCPCS 97602,Non-selective debridement,$216.60,AZ
+Flagstaff Medical Center,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,011.79",AZ
+Flagstaff Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$857.85,AZ
+Flagstaff Medical Center,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,$146.30,AZ

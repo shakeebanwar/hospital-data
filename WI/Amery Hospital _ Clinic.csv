@@ -1,0 +1,350 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Amery Hospital & Clinic,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$426.00,WI
+Amery Hospital & Clinic,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$2,472.00",WI
+Amery Hospital & Clinic,Emergency Care,HCPCS 99281,Emergency Level 1,$145.00,WI
+Amery Hospital & Clinic,Emergency Care,HCPCS 99282,Emergency Level 2,$297.00,WI
+Amery Hospital & Clinic,Emergency Care,HCPCS 99283,Emergency Level 3,$454.00,WI
+Amery Hospital & Clinic,Emergency Care,HCPCS 99284,Emergency Level 4,$939.00,WI
+Amery Hospital & Clinic,Emergency Care,HCPCS 99285,Emergency Level 5,"$2,024.00",WI
+Amery Hospital & Clinic,Hospital,HCPCS 99234,Hospital observation care discharge,$416.00,WI
+Amery Hospital & Clinic,Hospital,HCPCS 99219,Hospital observation care typically 30 minutes,$412.00,WI
+Amery Hospital & Clinic,Hospital,HCPCS 99235,"Hospital observation or inpatient care moderate severity, 50 minutes per day",$527.00,WI
+Amery Hospital & Clinic,Hospital,HCPCS 99218,Hospital Observation per Hour,$303.00,WI
+Amery Hospital & Clinic,Hospital,HCPCS 99224,"Subsequent observation care, typically 25 minutes per day",$119.00,WI
+Amery Hospital & Clinic,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$264.00,WI
+Amery Hospital & Clinic,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$305.00,WI
+Amery Hospital & Clinic,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$254.00,WI
+Amery Hospital & Clinic,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$324.00,WI
+Amery Hospital & Clinic,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$151.00,WI
+Amery Hospital & Clinic,Psychology,HCPCS 90853,Group psychotherapy,$315.00,WI
+Amery Hospital & Clinic,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$325.00,WI
+Amery Hospital & Clinic,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$153.00,WI
+Amery Hospital & Clinic,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$216.00,WI
+Amery Hospital & Clinic,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$300.00,WI
+Amery Hospital & Clinic,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$539.00,WI
+Amery Hospital & Clinic,Speech,HCPCS 92507,Speech Therapy,$312.00,WI
+Amery Hospital & Clinic,Speech,HCPCS 92610,Swallow Evaluation,$313.00,WI
+Amery Hospital & Clinic,Speech,HCPCS 92526,Swallow Treatment,$210.00,WI
+Amery Hospital & Clinic,Blood,HCPCS 85018,"Blood count, hemoglobin",$32.00,WI
+Amery Hospital & Clinic,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$30.00,WI
+Amery Hospital & Clinic,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$49.00,WI
+Amery Hospital & Clinic,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$98.00,WI
+Amery Hospital & Clinic,Blood,HCPCS 85610,"Blood test, clotting time",$37.00,WI
+Amery Hospital & Clinic,Blood,HCPCS 85730,Coagulation assessment blood test,$65.00,WI
+Amery Hospital & Clinic,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$27.00,WI
+Amery Hospital & Clinic,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$81.00,WI
+Amery Hospital & Clinic,Blood,HCPCS 85027,"Complete blood count, automated",$67.00,WI
+Amery Hospital & Clinic,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$337.00,WI
+Amery Hospital & Clinic,Blood,HCPCS 85660,Red blood cell sickling measurement,$59.00,WI
+Amery Hospital & Clinic,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$511.00,WI
+Amery Hospital & Clinic,Blood,HCPCS 85041,"Red blood count, automated test",$35.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$181.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$267.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 82040,Albumin (protein) level,$35.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$98.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$140.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 82140,Ammonia level,$83.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 82150,Amylase (enzyme) level,$56.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$119.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$150.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 84439,Assay of free thyroxine,$96.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$119.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 82248,Bilirubin level (Direct),$37.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 82247,Bilirubin level (Total),$45.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 82565,Blood creatinine level,$54.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$37.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 84295,Blood sodium level,$35.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$64.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$37.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$140.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 82310,Calcium level,$47.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$43.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$143.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 82465,Cholesterol level,$39.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 82525,Copper level,$87.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 82533,Cortisol Measurement,$113.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 84681,C-peptide (protein) level,$107.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$62.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$113.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$236.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$186.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$113.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 82746,Folic acid; serum,$107.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$38.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$68.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$94.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$145.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$145.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$101.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 83718,HDL cholesterol level,$76.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 83020,Hemoglobin Measurement,$10.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$101.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$177.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$108.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 83525,Insulin Measurement; Total,$94.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 82330,Ionized Calcium,$116.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 83550,Iron Binding Capacity,$50.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 83540,Iron level,$43.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$59.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 83721,LDL cholesterol level,$81.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$77.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$54.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$83.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 83021,Liver function blood test panel,$123.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 83735,Magnesium Level,$59.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 82542,Mass spectrometry,$499.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$43.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$139.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 83918,Organic acid level,$311.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 83945,Oxalate level,$43.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 83970,Parathormone,$113.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 84157,Prealbumin (protein) level,$73.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$127.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$145.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$99.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS A9270,Selenium (vitamin) level,$4.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 84403,Testosterone (hormone) level,$151.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 84402,Testosterone Level; Free,$211.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$62.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$315.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$68.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 84155,"Total protein level, blood",$37.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$54.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 84166,Troponin (protein) analysis,$110.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 84560,Uric acid level,$47.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 84550,"Uric acid level, blood",$37.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 82340,Urine calcium level,$50.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 82436,Urine chloride level,$50.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$81.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$64.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$174.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 84133,Urine potassium level,$43.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 84300,Urine sodium level,$43.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 84591,Vitamin B-6 level,$97.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$186.00,WI
+Amery Hospital & Clinic,Chemistry,HCPCS 84630,Zinc level,$109.00,WI
+Amery Hospital & Clinic,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$138.00,WI
+Amery Hospital & Clinic,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$91.00,WI
+Amery Hospital & Clinic,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$119.00,WI
+Amery Hospital & Clinic,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$116.00,WI
+Amery Hospital & Clinic,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$103.00,WI
+Amery Hospital & Clinic,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$143.00,WI
+Amery Hospital & Clinic,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$111.00,WI
+Amery Hospital & Clinic,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$116.00,WI
+Amery Hospital & Clinic,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$116.00,WI
+Amery Hospital & Clinic,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$23.00,WI
+Amery Hospital & Clinic,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$145.00,WI
+Amery Hospital & Clinic,Immunology,HCPCS 86140,Measurement C-reactive protein,$69.00,WI
+Amery Hospital & Clinic,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$30.00,WI
+Amery Hospital & Clinic,Immunology,HCPCS 86161,Measurement of complement (immune system proteins),$56.00,WI
+Amery Hospital & Clinic,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$99.00,WI
+Amery Hospital & Clinic,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$111.00,WI
+Amery Hospital & Clinic,Immunology,HCPCS 86431,Rheumatoid factor level,$65.00,WI
+Amery Hospital & Clinic,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$119.00,WI
+Amery Hospital & Clinic,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$64.00,WI
+Amery Hospital & Clinic,Immunology,HCPCS 86592,Syphilis Detection Test,$45.00,WI
+Amery Hospital & Clinic,Immunology,HCPCS 86361,T cell count and ratio,$165.00,WI
+Amery Hospital & Clinic,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$165.00,WI
+Amery Hospital & Clinic,Immunology,HCPCS 86359,"T cells count, total",$136.00,WI
+Amery Hospital & Clinic,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$122.00,WI
+Amery Hospital & Clinic,Immunology,HCPCS 86580,Tuberculosis Test,$45.00,WI
+Amery Hospital & Clinic,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$31.00,WI
+Amery Hospital & Clinic,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$81.00,WI
+Amery Hospital & Clinic,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$67.00,WI
+Amery Hospital & Clinic,Microbiology,HCPCS 87491,Chlamydia Test,$110.00,WI
+Amery Hospital & Clinic,Microbiology,HCPCS 87635,Covid-19 current infection test,$136.00,WI
+Amery Hospital & Clinic,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$121.00,WI
+Amery Hospital & Clinic,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$309.00,WI
+Amery Hospital & Clinic,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$105.00,WI
+Amery Hospital & Clinic,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$214.00,WI
+Amery Hospital & Clinic,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$110.00,WI
+Amery Hospital & Clinic,Microbiology,HCPCS 87517,Hepatitis B Detection,$260.00,WI
+Amery Hospital & Clinic,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$233.00,WI
+Amery Hospital & Clinic,Microbiology,HCPCS 87624,HPV Detection,$127.00,WI
+Amery Hospital & Clinic,Microbiology,HCPCS 86735,Mumps virus antibody test,$87.00,WI
+Amery Hospital & Clinic,Microbiology,HCPCS 86747,Parvovirus antibody test,$98.00,WI
+Amery Hospital & Clinic,Microbiology,HCPCS 86762,Rubella virus antibody test,$83.00,WI
+Amery Hospital & Clinic,Microbiology,HCPCS 86765,Rubeola virus antibody test,$121.00,WI
+Amery Hospital & Clinic,Microbiology,HCPCS 87207,Smear for infectious agents,$88.00,WI
+Amery Hospital & Clinic,Microbiology,HCPCS 87177,Smear for Parasites,$127.00,WI
+Amery Hospital & Clinic,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$54.00,WI
+Amery Hospital & Clinic,Microbiology,HCPCS 87045,Stool Culture,$119.00,WI
+Amery Hospital & Clinic,Microbiology,HCPCS 87880,Streptoccus,$64.00,WI
+Amery Hospital & Clinic,Microbiology,HCPCS 87804,Test for Influenza Virus,$59.00,WI
+Amery Hospital & Clinic,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$107.00,WI
+Amery Hospital & Clinic,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$119.00,WI
+Amery Hospital & Clinic,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$272.00,WI
+Amery Hospital & Clinic,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$299.00,WI
+Amery Hospital & Clinic,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$156.00,WI
+Amery Hospital & Clinic,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$298.00,WI
+Amery Hospital & Clinic,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$127.00,WI
+Amery Hospital & Clinic,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$233.00,WI
+Amery Hospital & Clinic,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$156.00,WI
+Amery Hospital & Clinic,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$231.00,WI
+Amery Hospital & Clinic,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$85.00,WI
+Amery Hospital & Clinic,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$127.00,WI
+Amery Hospital & Clinic,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$100.00,WI
+Amery Hospital & Clinic,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$121.00,WI
+Amery Hospital & Clinic,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$119.00,WI
+Amery Hospital & Clinic,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$69.00,WI
+Amery Hospital & Clinic,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$69.00,WI
+Amery Hospital & Clinic,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$94.00,WI
+Amery Hospital & Clinic,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$108.00,WI
+Amery Hospital & Clinic,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$108.00,WI
+Amery Hospital & Clinic,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$83.00,WI
+Amery Hospital & Clinic,Transfusion,HCPCS 86900,"Blood Typing, ABO",$45.00,WI
+Amery Hospital & Clinic,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$45.00,WI
+Amery Hospital & Clinic,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$108.00,WI
+Amery Hospital & Clinic,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$80.00,WI
+Amery Hospital & Clinic,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$99.00,WI
+Amery Hospital & Clinic,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$85.00,WI
+Amery Hospital & Clinic,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$7.00,WI
+Amery Hospital & Clinic,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$31.00,WI
+Amery Hospital & Clinic,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$47.00,WI
+Amery Hospital & Clinic,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$59.00,WI
+Amery Hospital & Clinic,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$68.00,WI
+Amery Hospital & Clinic,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$41.00,WI
+Amery Hospital & Clinic,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$27.00,WI
+Amery Hospital & Clinic,Cardiovascular,HCPCS 93975,Ultrasound Heart,$822.00,WI
+Amery Hospital & Clinic,Pulmonary,HCPCS 94640,Aerosol Treatment,$112.00,WI
+Amery Hospital & Clinic,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$209.00,WI
+Amery Hospital & Clinic,Pulmonary,HCPCS 94618,Pulmonary stress test,$260.00,WI
+Amery Hospital & Clinic,Pulmonary,HCPCS 94010,Spirometry - breathing test,$126.00,WI
+Amery Hospital & Clinic,Sleep,HCPCS 95810,Sleep study,"$4,304.00",WI
+Amery Hospital & Clinic,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$330.00,WI
+Amery Hospital & Clinic,Breast,HCPCS 77067,Mammogram Screening,$388.00,WI
+Amery Hospital & Clinic,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$2,425.00",WI
+Amery Hospital & Clinic,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,757.00",WI
+Amery Hospital & Clinic,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,393.00",WI
+Amery Hospital & Clinic,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,485.00",WI
+Amery Hospital & Clinic,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,211.00",WI
+Amery Hospital & Clinic,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,756.00",WI
+Amery Hospital & Clinic,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,425.00",WI
+Amery Hospital & Clinic,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$2,138.00",WI
+Amery Hospital & Clinic,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$2,483.00",WI
+Amery Hospital & Clinic,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$2,090.00",WI
+Amery Hospital & Clinic,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,636.00",WI
+Amery Hospital & Clinic,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,968.00",WI
+Amery Hospital & Clinic,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,968.00",WI
+Amery Hospital & Clinic,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$3,275.00",WI
+Amery Hospital & Clinic,MRI,HCPCS 72146,MRI chest spine without contrast material,"$3,275.00",WI
+Amery Hospital & Clinic,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$3,275.00",WI
+Amery Hospital & Clinic,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$4,536.00",WI
+Amery Hospital & Clinic,MRI,HCPCS 72141,MRI neck spine without contrast material,"$3,275.00",WI
+Amery Hospital & Clinic,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$3,275.00",WI
+Amery Hospital & Clinic,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$4,536.00",WI
+Amery Hospital & Clinic,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,583.00",WI
+Amery Hospital & Clinic,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$4,924.00",WI
+Amery Hospital & Clinic,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$3,373.00",WI
+Amery Hospital & Clinic,MRI,HCPCS 73721,MRI scan of leg joint,"$2,583.00",WI
+Amery Hospital & Clinic,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$822.00,WI
+Amery Hospital & Clinic,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$774.00,WI
+Amery Hospital & Clinic,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$634.00,WI
+Amery Hospital & Clinic,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$887.00,WI
+Amery Hospital & Clinic,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$737.00,WI
+Amery Hospital & Clinic,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$106.00,WI
+Amery Hospital & Clinic,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$289.00,WI
+Amery Hospital & Clinic,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$688.00,WI
+Amery Hospital & Clinic,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$690.00,WI
+Amery Hospital & Clinic,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$379.00,WI
+Amery Hospital & Clinic,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$278.00,WI
+Amery Hospital & Clinic,Chest,HCPCS 71046,X-ray of chest; 2 Views,$226.00,WI
+Amery Hospital & Clinic,Chest,HCPCS 71045,X-ray of chest; Single View,$166.00,WI
+Amery Hospital & Clinic,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$224.00,WI
+Amery Hospital & Clinic,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$307.00,WI
+Amery Hospital & Clinic,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$252.00,WI
+Amery Hospital & Clinic,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$228.00,WI
+Amery Hospital & Clinic,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$280.00,WI
+Amery Hospital & Clinic,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$196.00,WI
+Amery Hospital & Clinic,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$228.00,WI
+Amery Hospital & Clinic,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$317.00,WI
+Amery Hospital & Clinic,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$327.00,WI
+Amery Hospital & Clinic,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$280.00,WI
+Amery Hospital & Clinic,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$200.00,WI
+Amery Hospital & Clinic,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$235.00,WI
+Amery Hospital & Clinic,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$208.00,WI
+Amery Hospital & Clinic,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$248.00,WI
+Amery Hospital & Clinic,Lower Limbs,HCPCS 73565,X-ray Both Knees,$166.00,WI
+Amery Hospital & Clinic,Lower Limbs,HCPCS 73630,X-ray exam of foot,$238.00,WI
+Amery Hospital & Clinic,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$271.00,WI
+Amery Hospital & Clinic,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$204.00,WI
+Amery Hospital & Clinic,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$204.00,WI
+Amery Hospital & Clinic,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$208.00,WI
+Amery Hospital & Clinic,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$202.00,WI
+Amery Hospital & Clinic,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$314.00,WI
+Amery Hospital & Clinic,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$196.00,WI
+Amery Hospital & Clinic,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$406.00,WI
+Amery Hospital & Clinic,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$299.00,WI
+Amery Hospital & Clinic,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$504.00,WI
+Amery Hospital & Clinic,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$278.00,WI
+Amery Hospital & Clinic,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$263.00,WI
+Amery Hospital & Clinic,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$233.00,WI
+Amery Hospital & Clinic,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$204.00,WI
+Amery Hospital & Clinic,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$241.00,WI
+Amery Hospital & Clinic,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$213.00,WI
+Amery Hospital & Clinic,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$200.00,WI
+Amery Hospital & Clinic,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$229.00,WI
+Amery Hospital & Clinic,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$266.00,WI
+Amery Hospital & Clinic,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$1,400.00",WI
+Amery Hospital & Clinic,Abdomenal,HCPCS 47562,Cholecystectomy,"$1,957.00",WI
+Amery Hospital & Clinic,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$2,388.00",WI
+Amery Hospital & Clinic,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,$321.00,WI
+Amery Hospital & Clinic,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$1,443.00",WI
+Amery Hospital & Clinic,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$116.00,WI
+Amery Hospital & Clinic,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$88.00,WI
+Amery Hospital & Clinic,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$35,933.98",WI
+Amery Hospital & Clinic,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,"$6,207.00",WI
+Amery Hospital & Clinic,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$1,570.00",WI
+Amery Hospital & Clinic,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$2,456.00",WI
+Amery Hospital & Clinic,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$1,671.00",WI
+Amery Hospital & Clinic,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$1,163.00",WI
+Amery Hospital & Clinic,Breast,HCPCS 19101,Biopsy of breast,$540.00,WI
+Amery Hospital & Clinic,Breast,HCPCS 19125,Excision of breast lesion,"$1,902.00",WI
+Amery Hospital & Clinic,Breast,HCPCS 19120,Excision of cyst of breast,"$1,278.00",WI
+Amery Hospital & Clinic,Breast,HCPCS 19301,Partial removal of breast,"$2,291.00",WI
+Amery Hospital & Clinic,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$3,106.00",WI
+Amery Hospital & Clinic,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,114.00",WI
+Amery Hospital & Clinic,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,334.00",WI
+Amery Hospital & Clinic,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,313.00",WI
+Amery Hospital & Clinic,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,498.00",WI
+Amery Hospital & Clinic,Digestive,HCPCS 43235,EGD,$843.00,WI
+Amery Hospital & Clinic,Digestive,HCPCS 43239,EGD and biopsy,$979.00,WI
+Amery Hospital & Clinic,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$1,813.00",WI
+Amery Hospital & Clinic,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$1,668.00",WI
+Amery Hospital & Clinic,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$1,978.00",WI
+Amery Hospital & Clinic,General,HCPCS 55700,Biopsy of prostate gland,$782.00,WI
+Amery Hospital & Clinic,General,HCPCS 10060,Drainage of Abscess,$163.00,WI
+Amery Hospital & Clinic,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$116.00,WI
+Amery Hospital & Clinic,General,HCPCS 69200,Removal of foreign body from ear canal,$125.00,WI
+Amery Hospital & Clinic,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$197.00,WI
+Amery Hospital & Clinic,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$217.00,WI
+Amery Hospital & Clinic,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$198.00,WI
+Amery Hospital & Clinic,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$162.00,WI
+Amery Hospital & Clinic,Head,HCPCS 69436,Create eardrum opening,$460.00,WI
+Amery Hospital & Clinic,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),$719.00,WI
+Amery Hospital & Clinic,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),$827.00,WI
+Amery Hospital & Clinic,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$338.00,WI
+Amery Hospital & Clinic,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$1,324.00",WI
+Amery Hospital & Clinic,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$121.00,WI
+Amery Hospital & Clinic,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$45,034.62",WI
+Amery Hospital & Clinic,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$1,906.00",WI
+Amery Hospital & Clinic,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$2,186.00",WI
+Amery Hospital & Clinic,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$2,363.00",WI
+Amery Hospital & Clinic,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,$609.00,WI
+Amery Hospital & Clinic,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$47.00,WI
+Amery Hospital & Clinic,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,$995.00,WI
+Amery Hospital & Clinic,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$28,057.92",WI
+Amery Hospital & Clinic,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$1,759.00",WI
+Amery Hospital & Clinic,Obstetrics,HCPCS 59400,Routine obstetric care,"$4,800.00",WI
+Amery Hospital & Clinic,Obstetrics,HCPCS 59510,"Routine obstetric care for cesarean delivery, including pre-and postdelivery care","$7,400.00",WI
+Amery Hospital & Clinic,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$13,567.50",WI
+Amery Hospital & Clinic,Ocular,HCPCS 66984,Cataract removal,"$1,394.00",WI
+Amery Hospital & Clinic,Ocular,HCPCS 66982,Cataract removal with insertion of lens,"$2,886.00",WI
+Amery Hospital & Clinic,Ocular,HCPCS 66821,Laser cataract removal,"$1,205.00",WI
+Amery Hospital & Clinic,Soft Tissue,HCPCS 97597,Debridement of open wound,$108.00,WI
+Amery Hospital & Clinic,Soft Tissue,HCPCS 97602,Non-selective debridement,$48.00,WI
+Amery Hospital & Clinic,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$67.00,WI
+Amery Hospital & Clinic,Vascular,HCPCS 36416,Collection of capillary blood specimen,$21.00,WI
+Amery Hospital & Clinic,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),$539.00,WI
+Amery Hospital & Clinic,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$758.00,WI
+Amery Hospital & Clinic,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,$402.00,WI

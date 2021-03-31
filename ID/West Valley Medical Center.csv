@@ -1,0 +1,252 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+West Valley Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$244.90,ID
+West Valley Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$4,924.59",ID
+West Valley Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$95.78,ID
+West Valley Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$732.27,ID
+West Valley Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$1,332.30",ID
+West Valley Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$2,317.22",ID
+West Valley Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$3,088.99",ID
+West Valley Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$338.07,ID
+West Valley Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$474.43,ID
+West Valley Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$233.46,ID
+West Valley Medical Center,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$610.94,ID
+West Valley Medical Center,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$397.55,ID
+West Valley Medical Center,Psychology,HCPCS 90853,Group psychotherapy,$230.76,ID
+West Valley Medical Center,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$549.85,ID
+West Valley Medical Center,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$480.02,ID
+West Valley Medical Center,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$549.85,ID
+West Valley Medical Center,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$610.94,ID
+West Valley Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$45.77,ID
+West Valley Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$45.77,ID
+West Valley Medical Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$113.05,ID
+West Valley Medical Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$180.74,ID
+West Valley Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$131.15,ID
+West Valley Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$142.59,ID
+West Valley Medical Center,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$219.37,ID
+West Valley Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$160.91,ID
+West Valley Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$55.80,ID
+West Valley Medical Center,Blood,HCPCS 85660,Red blood cell sickling measurement,$134.98,ID
+West Valley Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$865.89,ID
+West Valley Medical Center,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$164.55,ID
+West Valley Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$356.74,ID
+West Valley Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$89.19,ID
+West Valley Medical Center,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$114.47,ID
+West Valley Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$270.90,ID
+West Valley Medical Center,Chemistry,HCPCS 82140,Ammonia level,$200.79,ID
+West Valley Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$89.19,ID
+West Valley Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$177.43,ID
+West Valley Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$316.70,ID
+West Valley Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$93.01,ID
+West Valley Medical Center,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$223.21,ID
+West Valley Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$87.75,ID
+West Valley Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$87.75,ID
+West Valley Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$89.19,ID
+West Valley Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$64.39,ID
+West Valley Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$98.74,ID
+West Valley Medical Center,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$89.19,ID
+West Valley Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$62.95,ID
+West Valley Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$97.77,ID
+West Valley Medical Center,Chemistry,HCPCS 82310,Calcium level,$62.02,ID
+West Valley Medical Center,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$89.19,ID
+West Valley Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$255.63,ID
+West Valley Medical Center,Chemistry,HCPCS 82465,Cholesterol level,$46.39,ID
+West Valley Medical Center,Chemistry,HCPCS 82525,Copper level,$169.79,ID
+West Valley Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$142.59,ID
+West Valley Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$200.79,ID
+West Valley Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$98.74,ID
+West Valley Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$200.79,ID
+West Valley Medical Center,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$234.65,ID
+West Valley Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$539.90,ID
+West Valley Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$168.84,ID
+West Valley Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$133.53,ID
+West Valley Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$48.16,ID
+West Valley Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$111.62,ID
+West Valley Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$217.50,ID
+West Valley Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$194.12,ID
+West Valley Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$179.82,ID
+West Valley Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$188.88,ID
+West Valley Medical Center,Chemistry,HCPCS 83718,HDL cholesterol level,$46.24,ID
+West Valley Medical Center,Chemistry,HCPCS 83020,Hemoglobin Measurement,$133.53,ID
+West Valley Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$58.53,ID
+West Valley Medical Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$175.98,ID
+West Valley Medical Center,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$293.80,ID
+West Valley Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$149.28,ID
+West Valley Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$141.66,ID
+West Valley Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$67.74,ID
+West Valley Medical Center,Chemistry,HCPCS 83540,Iron level,$73.45,ID
+West Valley Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$89.19,ID
+West Valley Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$166.94,ID
+West Valley Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$89.19,ID
+West Valley Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$189.34,ID
+West Valley Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$103.50,ID
+West Valley Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$91.56,ID
+West Valley Medical Center,Chemistry,HCPCS 83918,Organic acid level,$707.77,ID
+West Valley Medical Center,Chemistry,HCPCS 83945,Oxalate level,$91.56,ID
+West Valley Medical Center,Chemistry,HCPCS 83970,Parathormone,$310.96,ID
+West Valley Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$89.19,ID
+West Valley Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$201.75,ID
+West Valley Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$175.98,ID
+West Valley Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$215.59,ID
+West Valley Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$65.81,ID
+West Valley Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$289.98,ID
+West Valley Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$86.28,ID
+West Valley Medical Center,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$73.45,ID
+West Valley Medical Center,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$557.06,ID
+West Valley Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$111.62,ID
+West Valley Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$89.19,ID
+West Valley Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$89.19,ID
+West Valley Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$172.17,ID
+West Valley Medical Center,Chemistry,HCPCS 84560,Uric acid level,$89.19,ID
+West Valley Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$89.19,ID
+West Valley Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$102.56,ID
+West Valley Medical Center,Chemistry,HCPCS 82436,Urine chloride level,$89.19,ID
+West Valley Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$207.93,ID
+West Valley Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$100.14,ID
+West Valley Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$72.03,ID
+West Valley Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$98.74,ID
+West Valley Medical Center,Chemistry,HCPCS 84591,Vitamin B-6 level,$111.62,ID
+West Valley Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$317.97,ID
+West Valley Medical Center,Chemistry,HCPCS 84630,Zinc level,$79.17,ID
+West Valley Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$120.67,ID
+West Valley Medical Center,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$70.11,ID
+West Valley Medical Center,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$299.53,ID
+West Valley Medical Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$152.52,ID
+West Valley Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$189.34,ID
+West Valley Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$144.99,ID
+West Valley Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$155.97,ID
+West Valley Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$156.45,ID
+West Valley Medical Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$50.88,ID
+West Valley Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$157.40,ID
+West Valley Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$25.27,ID
+West Valley Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$189.34,ID
+West Valley Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$97.77,ID
+West Valley Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$48.64,ID
+West Valley Medical Center,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$568.51,ID
+West Valley Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$128.77,ID
+West Valley Medical Center,Immunology,HCPCS 86580,Skin test for tuberculosis,$227.02,ID
+West Valley Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$86.33,ID
+West Valley Medical Center,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$455.96,ID
+West Valley Medical Center,Immunology,HCPCS 86359,"T cells count, total",$288.08,ID
+West Valley Medical Center,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$272.81,ID
+West Valley Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$274.48,ID
+West Valley Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$225.12,ID
+West Valley Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$162.65,ID
+West Valley Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$42.90,ID
+West Valley Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$115.83,ID
+West Valley Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$267.63,ID
+West Valley Medical Center,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$881.39,ID
+West Valley Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$280.43,ID
+West Valley Medical Center,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$434.97,ID
+West Valley Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$162.15,ID
+West Valley Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$122.56,ID
+West Valley Medical Center,Microbiology,HCPCS 87624,HPV Detection,$195.06,ID
+West Valley Medical Center,Microbiology,HCPCS 86735,Mumps virus antibody test,$240.37,ID
+West Valley Medical Center,Microbiology,HCPCS 86747,Parvovirus antibody test,$131.63,ID
+West Valley Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$89.19,ID
+West Valley Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$122.56,ID
+West Valley Medical Center,Microbiology,HCPCS 87207,Smear for infectious agents,$95.87,ID
+West Valley Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$128.29,ID
+West Valley Medical Center,Microbiology,HCPCS 87045,Stool Culture,$137.36,ID
+West Valley Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$40.46,ID
+West Valley Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$122.56,ID
+West Valley Medical Center,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$146.93,ID
+West Valley Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$394.91,ID
+West Valley Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$175.51,ID
+West Valley Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$213.36,ID
+West Valley Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$67.25,ID
+West Valley Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$187.43,ID
+West Valley Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$187.43,ID
+West Valley Medical Center,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$244.20,ID
+West Valley Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$220.80,ID
+West Valley Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$134.05,ID
+West Valley Medical Center,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$288.08,ID
+West Valley Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$175.98,ID
+West Valley Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$282.28,ID
+West Valley Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$133.53,ID
+West Valley Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$111.62,ID
+West Valley Medical Center,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$185.05,ID
+West Valley Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$234.65,ID
+West Valley Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$200.79,ID
+West Valley Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$203.18,ID
+West Valley Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$178.38,ID
+West Valley Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$120.98,ID
+West Valley Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$120.98,ID
+West Valley Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$328.14,ID
+West Valley Medical Center,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$228.45,ID
+West Valley Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$201.75,ID
+West Valley Medical Center,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$175.03,ID
+West Valley Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$185.05,ID
+West Valley Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$61.51,ID
+West Valley Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$147.37,ID
+West Valley Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$100.14,ID
+West Valley Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$1,511.90",ID
+West Valley Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$455.28,ID
+West Valley Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,"$1,024.82",ID
+West Valley Medical Center,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$1,586.45",ID
+West Valley Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,058.80",ID
+West Valley Medical Center,Pulmonary,HCPCS 94729,CO Diffusion Capacity,$407.82,ID
+West Valley Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,$224.99,ID
+West Valley Medical Center,Pulmonary,HCPCS 94618,Pulmonary stress test,$319.44,ID
+West Valley Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$367.07,ID
+West Valley Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$412.70,ID
+West Valley Medical Center,Breast,HCPCS 77067,Mammogram Screening,$211.64,ID
+West Valley Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$419.60,ID
+West Valley Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,713.16",ID
+West Valley Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$2,349.29",ID
+West Valley Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,673.66",ID
+West Valley Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,112.74",ID
+West Valley Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$6,576.39",ID
+West Valley Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$5,628.56",ID
+West Valley Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$4,643.47",ID
+West Valley Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$2,814.28",ID
+West Valley Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$3,289.00",ID
+West Valley Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$3,838.25",ID
+West Valley Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,357.40",ID
+West Valley Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$2,814.28",ID
+West Valley Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$3,650.29",ID
+West Valley Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,602.92",ID
+West Valley Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,602.92",ID
+West Valley Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,602.92",ID
+West Valley Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,143.54",ID
+West Valley Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,078.52",ID
+West Valley Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$2,482.26",ID
+West Valley Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,482.26",ID
+West Valley Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,600.30",ID
+West Valley Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,715.86",ID
+West Valley Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$737.24,ID
+West Valley Medical Center,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$817.82,ID
+West Valley Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$926.25,ID
+West Valley Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$569.91,ID
+West Valley Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$656.10,ID
+West Valley Medical Center,Ultrasound,HCPCS 76881,Ultrasound Joint Soft Tissue - Complete,$569.91,ID
+West Valley Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,023.47",ID
+West Valley Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$847.94,ID
+West Valley Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$604.66,ID
+West Valley Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$847.94,ID
+West Valley Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$509.05,ID
+West Valley Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$771.95,ID
+West Valley Medical Center,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$720.64,ID
+West Valley Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$183.08,ID
+West Valley Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$183.08,ID
+West Valley Medical Center,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$878.15,ID
+West Valley Medical Center,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$505.62,ID
+West Valley Medical Center,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,"$1,003.39",ID
+West Valley Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$797.30,ID
+West Valley Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$491.37,ID
+West Valley Medical Center,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$434.43,ID
+West Valley Medical Center,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$933.61,ID
+West Valley Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$333.38,ID
+West Valley Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$492.97,ID
+West Valley Medical Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$741.82,ID
+West Valley Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$412.11,ID
+West Valley Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$878.15,ID
+West Valley Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$586.50,ID
+West Valley Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views","$1,008.11",ID
+West Valley Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$586.50,ID
+West Valley Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$543.04,ID
+West Valley Medical Center,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$764.54,ID
+West Valley Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$780.23,ID
+West Valley Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$496.16,ID
+West Valley Medical Center,Soft Tissue,HCPCS 97602,Non-selective debridement,$565.20,ID
+West Valley Medical Center,Vascular,HCPCS 36416,Collection of capillary blood specimen,$40.07,ID
+West Valley Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,788.88",ID

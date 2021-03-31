@@ -1,0 +1,135 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Los Alamitos Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$29,420.31",CA
+Los Alamitos Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$27,119.38",CA
+Los Alamitos Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,"$1,548.50",CA
+Los Alamitos Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,092.81",CA
+Los Alamitos Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$7,390.95",CA
+Los Alamitos Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$8,154.72",CA
+Los Alamitos Medical Center,Hospital,HCPCS 99218,Hospital Observation per Hour,"$315,624.08",CA
+Los Alamitos Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min","$1,081.27",CA
+Los Alamitos Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$426.13,CA
+Los Alamitos Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min","$2,361.52",CA
+Los Alamitos Medical Center,Speech,HCPCS 92507,Speech Therapy,"$4,159.13",CA
+Los Alamitos Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$44,003.82",CA
+Los Alamitos Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$77.37,CA
+Los Alamitos Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$126.69,CA
+Los Alamitos Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$257.25,CA
+Los Alamitos Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$263.06,CA
+Los Alamitos Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$456.13,CA
+Los Alamitos Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$372.01,CA
+Los Alamitos Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$168.18,CA
+Los Alamitos Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$5,813.69",CA
+Los Alamitos Medical Center,Chemistry,HCPCS 82140,Ammonia level,$302.03,CA
+Los Alamitos Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$319.19,CA
+Los Alamitos Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$114.88,CA
+Los Alamitos Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$262.82,CA
+Los Alamitos Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$292.03,CA
+Los Alamitos Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$247.70,CA
+Los Alamitos Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$461.38,CA
+Los Alamitos Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$256.27,CA
+Los Alamitos Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$273.52,CA
+Los Alamitos Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$356.01,CA
+Los Alamitos Medical Center,Chemistry,HCPCS 83540,Iron level,$247.07,CA
+Los Alamitos Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$82.22,CA
+Los Alamitos Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$374.38,CA
+Los Alamitos Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$292.25,CA
+Los Alamitos Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$134.63,CA
+Los Alamitos Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$243.02,CA
+Los Alamitos Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$7.49,CA
+Los Alamitos Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$2.39,CA
+Los Alamitos Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$289.12,CA
+Los Alamitos Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$433.42,CA
+Los Alamitos Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$353.79,CA
+Los Alamitos Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$269.20,CA
+Los Alamitos Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$269.55,CA
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$856.22,CA
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals","$1,211.59",CA
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$601.64,CA
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$575.97,CA
+Los Alamitos Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$312.80,CA
+Los Alamitos Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$994.20,CA
+Los Alamitos Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$178.71,CA
+Los Alamitos Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$151.96,CA
+Los Alamitos Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$250.13,CA
+Los Alamitos Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$274.74,CA
+Los Alamitos Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$247.30,CA
+Los Alamitos Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$16,633.98",CA
+Los Alamitos Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$14,216.81",CA
+Los Alamitos Medical Center,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,"$3,585.01",CA
+Los Alamitos Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$34,248.77",CA
+Los Alamitos Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$120.04,CA
+Los Alamitos Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$355.57,CA
+Los Alamitos Medical Center,Breast,HCPCS 77067,Mammogram Screening,$426.86,CA
+Los Alamitos Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$440.69,CA
+Los Alamitos Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,553.04",CA
+Los Alamitos Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,488.75",CA
+Los Alamitos Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,314.31",CA
+Los Alamitos Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$6,187.40",CA
+Los Alamitos Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$6,081.73",CA
+Los Alamitos Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,885.85",CA
+Los Alamitos Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,065.26",CA
+Los Alamitos Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$4,154.61",CA
+Los Alamitos Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$4,282.16",CA
+Los Alamitos Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$2,590.15",CA
+Los Alamitos Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$6,834.09",CA
+Los Alamitos Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$6,797.39",CA
+Los Alamitos Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$7,035.04",CA
+Los Alamitos Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$6,555.89",CA
+Los Alamitos Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$1,342.89",CA
+Los Alamitos Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,679.93",CA
+Los Alamitos Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,030.70",CA
+Los Alamitos Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$878.11,CA
+Los Alamitos Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,931.49",CA
+Los Alamitos Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,408.96",CA
+Los Alamitos Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,487.09",CA
+Los Alamitos Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,096.05",CA
+Los Alamitos Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$331.96,CA
+Los Alamitos Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$282.11,CA
+Los Alamitos Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$554.32,CA
+Los Alamitos Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$518.74,CA
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$462.21,CA
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$620.87,CA
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$593.67,CA
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$591.19,CA
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$454.72,CA
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$518.82,CA
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$655.01,CA
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$520.22,CA
+Los Alamitos Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,154.60",CA
+Los Alamitos Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$769.52,CA
+Los Alamitos Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$776.02,CA
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$602.85,CA
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$413.45,CA
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$575.08,CA
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$630.64,CA
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$548.89,CA
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$515.72,CA
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$590.93,CA
+Los Alamitos Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$49,005.26",CA
+Los Alamitos Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$42,180.35",CA
+Los Alamitos Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$8,429.57",CA
+Los Alamitos Medical Center,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$46,527.98",CA
+Los Alamitos Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$48,866.63",CA
+Los Alamitos Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$11,479.08",CA
+Los Alamitos Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$14,283.45",CA
+Los Alamitos Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$13,136.40",CA
+Los Alamitos Medical Center,Digestive,HCPCS 43235,EGD,"$36,034.61",CA
+Los Alamitos Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$13,966.13",CA
+Los Alamitos Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$62,923.74",CA
+Los Alamitos Medical Center,General,HCPCS 10060,Drainage of Abscess,"$4,887.47",CA
+Los Alamitos Medical Center,General,HCPCS 55866,Prostatectomy,"$89,358.26",CA
+Los Alamitos Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$5,326.61",CA
+Los Alamitos Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$6,158.74",CA
+Los Alamitos Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$3,114.86",CA
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$4,215.99",CA
+Los Alamitos Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$110,594.89",CA
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$44,445.69",CA
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$82,834.66",CA
+Los Alamitos Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$95,892.41",CA
+Los Alamitos Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$182,359.91",CA
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$825.39,CA
+Los Alamitos Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$30,003.33",CA
+Los Alamitos Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$28,991.75",CA
+Los Alamitos Medical Center,Ocular,HCPCS 66984,Cataract removal,"$41,243.81",CA
+Los Alamitos Medical Center,Ocular,HCPCS 67108,Repair of detached retina,"$45,441.66",CA
+Los Alamitos Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$9,361.55",CA

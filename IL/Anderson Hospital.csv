@@ -1,0 +1,354 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Anderson Hospital,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$785.90,IL
+Anderson Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,424.85",IL
+Anderson Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$139.70,IL
+Anderson Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$290.60,IL
+Anderson Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$513.15,IL
+Anderson Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$777.20,IL
+Anderson Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,097.75",IL
+Anderson Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$243.45,IL
+Anderson Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$284.45,IL
+Anderson Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$209.50,IL
+Anderson Hospital,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$307.70,IL
+Anderson Hospital,Speech,HCPCS 92507,Speech Therapy,$179.50,IL
+Anderson Hospital,Speech,HCPCS 92610,Swallow Evaluation,$236.85,IL
+Anderson Hospital,Speech,HCPCS 92526,Swallow Treatment,$169.30,IL
+Anderson Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$30.80,IL
+Anderson Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$29.00,IL
+Anderson Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$133.25,IL
+Anderson Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$43.60,IL
+Anderson Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$65.40,IL
+Anderson Hospital,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$139.30,IL
+Anderson Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$79.00,IL
+Anderson Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$63.20,IL
+Anderson Hospital,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$160.25,IL
+Anderson Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$47.20,IL
+Anderson Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$311.30,IL
+Anderson Hospital,Blood,HCPCS 85041,"Red blood count, automated test",$25.05,IL
+Anderson Hospital,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$102.35,IL
+Anderson Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$204.60,IL
+Anderson Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$53.35,IL
+Anderson Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$95.20,IL
+Anderson Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$152.35,IL
+Anderson Hospital,Chemistry,HCPCS 82140,Ammonia level,$123.05,IL
+Anderson Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$73.05,IL
+Anderson Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$96.60,IL
+Anderson Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$165.65,IL
+Anderson Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$92.20,IL
+Anderson Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$141.45,IL
+Anderson Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$57.40,IL
+Anderson Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$59.35,IL
+Anderson Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$53.35,IL
+Anderson Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$43.35,IL
+Anderson Hospital,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$27.85,IL
+Anderson Hospital,Chemistry,HCPCS 84132,Blood potassium level,$39.10,IL
+Anderson Hospital,Chemistry,HCPCS 84295,Blood sodium level,$42.75,IL
+Anderson Hospital,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$50.25,IL
+Anderson Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$106.85,IL
+Anderson Hospital,Chemistry,HCPCS 82310,Calcium level,$52.15,IL
+Anderson Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$43.20,IL
+Anderson Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$113.20,IL
+Anderson Hospital,Chemistry,HCPCS 82465,Cholesterol level,$35.95,IL
+Anderson Hospital,Chemistry,HCPCS 82525,Copper level,$74.25,IL
+Anderson Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$95.85,IL
+Anderson Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$104.50,IL
+Anderson Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$52.40,IL
+Anderson Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$92.05,IL
+Anderson Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$140.40,IL
+Anderson Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$87.75,IL
+Anderson Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$92.20,IL
+Anderson Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$84.90,IL
+Anderson Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$52.15,IL
+Anderson Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$69.15,IL
+Anderson Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$81.60,IL
+Anderson Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$74.00,IL
+Anderson Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$85.20,IL
+Anderson Hospital,Chemistry,HCPCS 83718,HDL cholesterol level,$54.20,IL
+Anderson Hospital,Chemistry,HCPCS 83020,Hemoglobin Measurement,$77.35,IL
+Anderson Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$166.15,IL
+Anderson Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$125.60,IL
+Anderson Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$95.05,IL
+Anderson Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$46.60,IL
+Anderson Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$111.20,IL
+Anderson Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$59.35,IL
+Anderson Hospital,Chemistry,HCPCS 83540,Iron level,$50.05,IL
+Anderson Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$65.40,IL
+Anderson Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$41.05,IL
+Anderson Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$88.30,IL
+Anderson Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$64.95,IL
+Anderson Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$96.30,IL
+Anderson Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$56.20,IL
+Anderson Hospital,Chemistry,HCPCS 83735,Magnesium Level,$58.60,IL
+Anderson Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$194.85,IL
+Anderson Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$116.05,IL
+Anderson Hospital,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$73.85,IL
+Anderson Hospital,Chemistry,HCPCS 83918,Organic acid level,$226.65,IL
+Anderson Hospital,Chemistry,HCPCS 83945,Oxalate level,$82.95,IL
+Anderson Hospital,Chemistry,HCPCS 83970,Parathormone,$113.40,IL
+Anderson Hospital,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$124.10,IL
+Anderson Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$57.05,IL
+Anderson Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$147.00,IL
+Anderson Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$132.60,IL
+Anderson Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$93.70,IL
+Anderson Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$33.75,IL
+Anderson Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$138.40,IL
+Anderson Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$116.25,IL
+Anderson Hospital,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$65.45,IL
+Anderson Hospital,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$244.40,IL
+Anderson Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$86.85,IL
+Anderson Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$37.75,IL
+Anderson Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$59.35,IL
+Anderson Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$101.15,IL
+Anderson Hospital,Chemistry,HCPCS 84560,Uric acid level,$33.90,IL
+Anderson Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$53.20,IL
+Anderson Hospital,Chemistry,HCPCS 82340,Urine calcium level,$49.50,IL
+Anderson Hospital,Chemistry,HCPCS 82436,Urine chloride level,$46.00,IL
+Anderson Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$58.30,IL
+Anderson Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$68.65,IL
+Anderson Hospital,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$129.25,IL
+Anderson Hospital,Chemistry,HCPCS 84133,Urine potassium level,$37.15,IL
+Anderson Hospital,Chemistry,HCPCS 84300,Urine sodium level,$40.45,IL
+Anderson Hospital,Chemistry,HCPCS 84591,Vitamin B-6 level,$112.35,IL
+Anderson Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$135.20,IL
+Anderson Hospital,Chemistry,HCPCS 84630,Zinc level,$74.55,IL
+Anderson Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$97.25,IL
+Anderson Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$82.15,IL
+Anderson Hospital,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$94.10,IL
+Anderson Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$111.70,IL
+Anderson Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$84.00,IL
+Anderson Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$85.45,IL
+Anderson Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$57.60,IL
+Anderson Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$72.10,IL
+Anderson Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$100.70,IL
+Anderson Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$60.00,IL
+Anderson Hospital,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$148.35,IL
+Anderson Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$65.35,IL
+Anderson Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$27.40,IL
+Anderson Hospital,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$124.45,IL
+Anderson Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$58.15,IL
+Anderson Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$93.70,IL
+Anderson Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$40.25,IL
+Anderson Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$67.40,IL
+Anderson Hospital,Immunology,HCPCS 86580,Skin test for tuberculosis,$25.15,IL
+Anderson Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$42.25,IL
+Anderson Hospital,Immunology,HCPCS 86361,T cell count and ratio,$143.65,IL
+Anderson Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$136.65,IL
+Anderson Hospital,Immunology,HCPCS 86359,"T cells count, total",$155.20,IL
+Anderson Hospital,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$69.80,IL
+Anderson Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$40.40,IL
+Anderson Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$65.00,IL
+Anderson Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$72.35,IL
+Anderson Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$160.25,IL
+Anderson Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$125.00,IL
+Anderson Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$120.40,IL
+Anderson Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$98.50,IL
+Anderson Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$250.45,IL
+Anderson Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$60.75,IL
+Anderson Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$385.35,IL
+Anderson Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$136.55,IL
+Anderson Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$275.50,IL
+Anderson Hospital,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$68.25,IL
+Anderson Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$92.75,IL
+Anderson Hospital,Microbiology,HCPCS 86747,Parvovirus antibody test,$79.45,IL
+Anderson Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$93.05,IL
+Anderson Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$144.25,IL
+Anderson Hospital,Microbiology,HCPCS 87207,Smear for infectious agents,$85.05,IL
+Anderson Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$51.00,IL
+Anderson Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$64.60,IL
+Anderson Hospital,Microbiology,HCPCS 87045,Stool Culture,$84.05,IL
+Anderson Hospital,Microbiology,HCPCS 87880,Strep Test,$56.40,IL
+Anderson Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$114.60,IL
+Anderson Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$68.35,IL
+Anderson Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$129.40,IL
+Anderson Hospital,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$524.85,IL
+Anderson Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$250.40,IL
+Anderson Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$143.30,IL
+Anderson Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$145.95,IL
+Anderson Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$97.50,IL
+Anderson Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$134.70,IL
+Anderson Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$144.45,IL
+Anderson Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$142.75,IL
+Anderson Hospital,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$143.10,IL
+Anderson Hospital,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$108.15,IL
+Anderson Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$103.25,IL
+Anderson Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$97.85,IL
+Anderson Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$137.55,IL
+Anderson Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$54.05,IL
+Anderson Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$82.50,IL
+Anderson Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$114.20,IL
+Anderson Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$141.60,IL
+Anderson Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$75.85,IL
+Anderson Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$107.25,IL
+Anderson Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$57.00,IL
+Anderson Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$62.70,IL
+Anderson Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$117.95,IL
+Anderson Hospital,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$135.30,IL
+Anderson Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$49.30,IL
+Anderson Hospital,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$52.55,IL
+Anderson Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$122.45,IL
+Anderson Hospital,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$47.00,IL
+Anderson Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$36.30,IL
+Anderson Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$53.55,IL
+Anderson Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$80.55,IL
+Anderson Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$567.05,IL
+Anderson Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$173.80,IL
+Anderson Hospital,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$312.60,IL
+Anderson Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,$898.05,IL
+Anderson Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,$112.60,IL
+Anderson Hospital,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$197.60,IL
+Anderson Hospital,Pulmonary,HCPCS 94618,Pulmonary stress test,$318.20,IL
+Anderson Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$170.60,IL
+Anderson Hospital,Sleep,HCPCS 95810,Sleep study,"$2,850.20",IL
+Anderson Hospital,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$44.40,IL
+Anderson Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$212.75,IL
+Anderson Hospital,Breast,HCPCS 77067,Mammogram Screening,$167.30,IL
+Anderson Hospital,Breast,HCPCS 77066,Mammography of both breasts,$298.15,IL
+Anderson Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,633.70",IL
+Anderson Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,225.05",IL
+Anderson Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,043.25",IL
+Anderson Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,170.50",IL
+Anderson Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,128.80",IL
+Anderson Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,754.40",IL
+Anderson Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,415.75",IL
+Anderson Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,426.75",IL
+Anderson Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,696.85",IL
+Anderson Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,596.95",IL
+Anderson Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,134.80",IL
+Anderson Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,466.30",IL
+Anderson Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,349.10",IL
+Anderson Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,625.20",IL
+Anderson Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,873.30",IL
+Anderson Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,836.70",IL
+Anderson Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,558.05",IL
+Anderson Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,791.20",IL
+Anderson Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$2,519.25",IL
+Anderson Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,761.30",IL
+Anderson Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,901.60",IL
+Anderson Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,690.45",IL
+Anderson Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,875.60",IL
+Anderson Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$1,901.60",IL
+Anderson Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$571.70,IL
+Anderson Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$740.75,IL
+Anderson Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$489.25,IL
+Anderson Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$600.85,IL
+Anderson Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$843.75,IL
+Anderson Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$586.65,IL
+Anderson Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$484.20,IL
+Anderson Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$632.75,IL
+Anderson Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$341.10,IL
+Anderson Hospital,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$433.90,IL
+Anderson Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$399.50,IL
+Anderson Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$215.65,IL
+Anderson Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$171.20,IL
+Anderson Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$258.55,IL
+Anderson Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$302.90,IL
+Anderson Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$225.20,IL
+Anderson Hospital,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$186.50,IL
+Anderson Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$287.45,IL
+Anderson Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$209.35,IL
+Anderson Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$196.05,IL
+Anderson Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$337.85,IL
+Anderson Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$288.80,IL
+Anderson Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$214.05,IL
+Anderson Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$220.70,IL
+Anderson Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$252.55,IL
+Anderson Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$268.10,IL
+Anderson Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$235.40,IL
+Anderson Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$256.05,IL
+Anderson Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$210.15,IL
+Anderson Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$224.65,IL
+Anderson Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$197.55,IL
+Anderson Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$221.55,IL
+Anderson Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$308.90,IL
+Anderson Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$273.20,IL
+Anderson Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$412.30,IL
+Anderson Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$277.35,IL
+Anderson Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$584.40,IL
+Anderson Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$334.50,IL
+Anderson Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$237.40,IL
+Anderson Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$181.15,IL
+Anderson Hospital,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$213.90,IL
+Anderson Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$244.40,IL
+Anderson Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$255.05,IL
+Anderson Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$252.15,IL
+Anderson Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$244.40,IL
+Anderson Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$255.55,IL
+Anderson Hospital,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$16,875.16",IL
+Anderson Hospital,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$1,618.85",IL
+Anderson Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$4,492.71",IL
+Anderson Hospital,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$5,173.47",IL
+Anderson Hospital,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,"$1,609.43",IL
+Anderson Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$2,437.69",IL
+Anderson Hospital,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$2,491.20",IL
+Anderson Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$4,652.91",IL
+Anderson Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$154.55,IL
+Anderson Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$161.55,IL
+Anderson Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$21,412.68",IL
+Anderson Hospital,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$4,281.49",IL
+Anderson Hospital,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$3,950.23",IL
+Anderson Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$3,931.12",IL
+Anderson Hospital,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$5,152.64",IL
+Anderson Hospital,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$4,435.80",IL
+Anderson Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$2,048.46",IL
+Anderson Hospital,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$4,560.65",IL
+Anderson Hospital,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$3,215.35",IL
+Anderson Hospital,Breast,HCPCS 19101,Biopsy of breast,"$2,385.45",IL
+Anderson Hospital,Breast,HCPCS 19325,Breast enlargement using prosthetic implant,"$2,655.14",IL
+Anderson Hospital,Breast,HCPCS 19125,Excision of breast lesion,"$1,858.67",IL
+Anderson Hospital,Breast,HCPCS 19120,Excision of cyst of breast,"$2,181.05",IL
+Anderson Hospital,Breast,HCPCS 19301,Partial removal of breast,"$2,246.14",IL
+Anderson Hospital,Breast,HCPCS 19318,Reduction mammaplasty,"$5,694.58",IL
+Anderson Hospital,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$5,828.12",IL
+Anderson Hospital,Breast,HCPCS 19303,Total removal of breast,"$3,641.70",IL
+Anderson Hospital,Cardiac,HCPCS 33249,Defibrillator complete system,"$3,115.90",IL
+Anderson Hospital,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$2,745.65",IL
+Anderson Hospital,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$339.15,IL
+Anderson Hospital,Cardiac,MSDRG 247,Implant drug-eluting stent,"$29,683.79",IL
+Anderson Hospital,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$29,302.01",IL
+Anderson Hospital,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$9,338.90",IL
+Anderson Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,261.14",IL
+Anderson Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,088.98",IL
+Anderson Hospital,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,089.43",IL
+Anderson Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,097.38",IL
+Anderson Hospital,Digestive,HCPCS 43235,EGD,$967.39,IL
+Anderson Hospital,Digestive,HCPCS 43239,EGD and biopsy,$360.40,IL
+Anderson Hospital,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$2,230.84",IL
+Anderson Hospital,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$2,463.97",IL
+Anderson Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$11,371.54",IL
+Anderson Hospital,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$1,680.27",IL
+Anderson Hospital,General,HCPCS 55700,Biopsy of prostate gland,"$1,633.80",IL
+Anderson Hospital,General,HCPCS 10060,Drainage of Abscess,$387.45,IL
+Anderson Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$289.15,IL
+Anderson Hospital,General,HCPCS 55866,Prostatectomy,"$4,656.23",IL
+Anderson Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$118.80,IL
+Anderson Hospital,General,HCPCS 60240,Removal of thyroid,"$7,260.25",IL
+Anderson Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$326.85,IL
+Anderson Hospital,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$390.70,IL
+Anderson Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$319.00,IL
+Anderson Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$295.15,IL
+Anderson Hospital,Head,HCPCS 69436,Create eardrum opening,"$1,966.86",IL
+Anderson Hospital,Head,HCPCS 69631,Repair of eardrum,"$2,381.22",IL
+Anderson Hospital,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$2,148.08",IL
+Anderson Hospital,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$1,963.24",IL
+Anderson Hospital,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$250.30,IL
+Anderson Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$430.90,IL
+Anderson Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$20,895.65",IL
+Anderson Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$2,058.23",IL
+Anderson Hospital,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$2,284.68",IL
+Anderson Hospital,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,"$8,578.10",IL
+Anderson Hospital,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$1,713.49",IL
+Anderson Hospital,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$2,049.83",IL
+Anderson Hospital,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$5,017.07",IL
+Anderson Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$2,043.22",IL
+Anderson Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$9,506.38",IL
+Anderson Hospital,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$2,190.08",IL
+Anderson Hospital,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$2,171.60",IL
+Anderson Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$5,356.46",IL
+Anderson Hospital,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries","$4,470.59",IL
+Anderson Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$176.65,IL
+Anderson Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$132.65,IL
+Anderson Hospital,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$82.25,IL
+Anderson Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$13.00,IL
+Anderson Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,363.55",IL
+Anderson Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$515.60,IL
+Anderson Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,933.38",IL

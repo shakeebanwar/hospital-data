@@ -1,0 +1,97 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Martin Luther King Jr Community Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,"$1,357.36",CA
+Martin Luther King Jr Community Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$1,357.36",CA
+Martin Luther King Jr Community Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$1,357.36",CA
+Martin Luther King Jr Community Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,357.36",CA
+Martin Luther King Jr Community Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,357.36",CA
+Martin Luther King Jr Community Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$17.42,CA
+Martin Luther King Jr Community Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$107.60,CA
+Martin Luther King Jr Community Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$74.85,CA
+Martin Luther King Jr Community Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$69.94,CA
+Martin Luther King Jr Community Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$53.03,CA
+Martin Luther King Jr Community Hospital,Chemistry,HCPCS 84132,Blood potassium level,$87.23,CA
+Martin Luther King Jr Community Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$14.42,CA
+Martin Luther King Jr Community Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$19.98,CA
+Martin Luther King Jr Community Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$10.25,CA
+Martin Luther King Jr Community Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$33.45,CA
+Martin Luther King Jr Community Hospital,Chemistry,HCPCS 83540,Iron level,$24.83,CA
+Martin Luther King Jr Community Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$23.92,CA
+Martin Luther King Jr Community Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$103.05,CA
+Martin Luther King Jr Community Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$14.71,CA
+Martin Luther King Jr Community Hospital,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$32.11,CA
+Martin Luther King Jr Community Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$1.95,CA
+Martin Luther King Jr Community Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$23.26,CA
+Martin Luther King Jr Community Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$3.86,CA
+Martin Luther King Jr Community Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$10.50,CA
+Martin Luther King Jr Community Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$7.66,CA
+Martin Luther King Jr Community Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$28.10,CA
+Martin Luther King Jr Community Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$8.97,CA
+Martin Luther King Jr Community Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$10.40,CA
+Martin Luther King Jr Community Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$1.95,CA
+Martin Luther King Jr Community Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$28.54,CA
+Martin Luther King Jr Community Hospital,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$22.88,CA
+Martin Luther King Jr Community Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$1.04,CA
+Martin Luther King Jr Community Hospital,Microbiology,HCPCS 87880,Strep Test,$41.73,CA
+Martin Luther King Jr Community Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$11.38,CA
+Martin Luther King Jr Community Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$93.15,CA
+Martin Luther King Jr Community Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$43.01,CA
+Martin Luther King Jr Community Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$36.64,CA
+Martin Luther King Jr Community Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$94.77,CA
+Martin Luther King Jr Community Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$43.31,CA
+Martin Luther King Jr Community Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$59.02,CA
+Martin Luther King Jr Community Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$46.36,CA
+Martin Luther King Jr Community Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$46.36,CA
+Martin Luther King Jr Community Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$58.50,CA
+Martin Luther King Jr Community Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$162.28,CA
+Martin Luther King Jr Community Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,$833.85,CA
+Martin Luther King Jr Community Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,948.04",CA
+Martin Luther King Jr Community Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,491.10",CA
+Martin Luther King Jr Community Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,492.06",CA
+Martin Luther King Jr Community Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,333.91",CA
+Martin Luther King Jr Community Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,020.24",CA
+Martin Luther King Jr Community Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,924.00",CA
+Martin Luther King Jr Community Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,924.00",CA
+Martin Luther King Jr Community Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$344.24,CA
+Martin Luther King Jr Community Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,646.58",CA
+Martin Luther King Jr Community Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,712.93",CA
+Martin Luther King Jr Community Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,029.04",CA
+Martin Luther King Jr Community Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$430.51,CA
+Martin Luther King Jr Community Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$507.91,CA
+Martin Luther King Jr Community Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$639.45,CA
+Martin Luther King Jr Community Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$639.45,CA
+Martin Luther King Jr Community Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$654.03,CA
+Martin Luther King Jr Community Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$491.35,CA
+Martin Luther King Jr Community Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$238.90,CA
+Martin Luther King Jr Community Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$238.90,CA
+Martin Luther King Jr Community Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$367.77,CA
+Martin Luther King Jr Community Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$183.56,CA
+Martin Luther King Jr Community Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$286.20,CA
+Martin Luther King Jr Community Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$292.37,CA
+Martin Luther King Jr Community Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$292.37,CA
+Martin Luther King Jr Community Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$292.37,CA
+Martin Luther King Jr Community Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$322.12,CA
+Martin Luther King Jr Community Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$292.37,CA
+Martin Luther King Jr Community Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$204.10,CA
+Martin Luther King Jr Community Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$322.12,CA
+Martin Luther King Jr Community Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$322.12,CA
+Martin Luther King Jr Community Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$302.80,CA
+Martin Luther King Jr Community Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$287.80,CA
+Martin Luther King Jr Community Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$258.50,CA
+Martin Luther King Jr Community Hospital,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$222.30,CA
+Martin Luther King Jr Community Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$293.62,CA
+Martin Luther King Jr Community Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$490.83,CA
+Martin Luther King Jr Community Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$26,728.44",CA
+Martin Luther King Jr Community Hospital,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$18,777.97",CA
+Martin Luther King Jr Community Hospital,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$10,980.17",CA
+Martin Luther King Jr Community Hospital,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$10,980.17",CA
+Martin Luther King Jr Community Hospital,General,HCPCS 10060,Drainage of Abscess,"$1,261.52",CA
+Martin Luther King Jr Community Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple","$1,813.45",CA
+Martin Luther King Jr Community Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$1,953.16",CA
+Martin Luther King Jr Community Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$1,953.16",CA
+Martin Luther King Jr Community Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$1,953.16",CA
+Martin Luther King Jr Community Hospital,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,"$2,287.16",CA
+Martin Luther King Jr Community Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$1,852.46",CA
+Martin Luther King Jr Community Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$157,599.77",CA
+Martin Luther King Jr Community Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$7,954.86",CA
+Martin Luther King Jr Community Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$3,976.14",CA
+Martin Luther King Jr Community Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,984.14",CA

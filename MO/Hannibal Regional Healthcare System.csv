@@ -1,0 +1,317 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Hannibal Regional Healthcare System,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$3,392.06",MO
+Hannibal Regional Healthcare System,Emergency Care,HCPCS 99281,Emergency Level 1,"$1,219.43",MO
+Hannibal Regional Healthcare System,Emergency Care,HCPCS 99282,Emergency Level 2,"$1,219.43",MO
+Hannibal Regional Healthcare System,Emergency Care,HCPCS 99283,Emergency Level 3,"$1,219.43",MO
+Hannibal Regional Healthcare System,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,219.43",MO
+Hannibal Regional Healthcare System,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,219.43",MO
+Hannibal Regional Healthcare System,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$104.97,MO
+Hannibal Regional Healthcare System,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$104.97,MO
+Hannibal Regional Healthcare System,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$104.97,MO
+Hannibal Regional Healthcare System,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$104.97,MO
+Hannibal Regional Healthcare System,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$104.97,MO
+Hannibal Regional Healthcare System,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$104.97,MO
+Hannibal Regional Healthcare System,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$144.69,MO
+Hannibal Regional Healthcare System,Speech,HCPCS 92507,Speech Therapy,$135.88,MO
+Hannibal Regional Healthcare System,Speech,HCPCS 92610,Swallow Evaluation,$173.45,MO
+Hannibal Regional Healthcare System,Speech,HCPCS 92526,Swallow Treatment,$70.50,MO
+Hannibal Regional Healthcare System,Blood,HCPCS 85018,"Blood count, hemoglobin",$9.29,MO
+Hannibal Regional Healthcare System,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$8.96,MO
+Hannibal Regional Healthcare System,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$37.68,MO
+Hannibal Regional Healthcare System,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$37.68,MO
+Hannibal Regional Healthcare System,Blood,HCPCS 85610,"Blood test, clotting time",$29.91,MO
+Hannibal Regional Healthcare System,Blood,HCPCS 85730,Coagulation assessment blood test,$50.94,MO
+Hannibal Regional Healthcare System,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$55.86,MO
+Hannibal Regional Healthcare System,Blood,HCPCS 85027,"Complete blood count, automated",$55.86,MO
+Hannibal Regional Healthcare System,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$82.20,MO
+Hannibal Regional Healthcare System,Blood,HCPCS 85041,"Red blood count, automated test",$47.82,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$165.60,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$76.20,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 82040,Albumin (protein) level,$50.23,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$48.60,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$42.12,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 82140,Ammonia level,$42.25,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 82150,Amylase (enzyme) level,$59.92,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$44.48,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$89.93,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 84439,Assay of free thyroxine,$70.21,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$26.40,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 82248,Bilirubin level (Direct),$60.91,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 82247,Bilirubin level (Total),$60.91,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 82565,Blood creatinine level,$62.35,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$14.99,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 84132,Blood potassium level,$12.27,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 84295,Blood sodium level,$12.09,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$21.54,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$91.09,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 82310,Calcium level,$57.84,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$49.68,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 82465,Cholesterol level,$45.44,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 82525,Copper level,$38.73,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 82533,Cortisol Measurement,$72.26,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 84681,C-peptide (protein) level,$43.67,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$57.15,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$47.94,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$55.20,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$35.16,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$90.00,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 82746,Folic acid; serum,$35.97,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$94.65,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$78.79,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$72.00,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$117.81,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$133.83,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$39.60,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 83020,Hemoglobin Measurement,$23.58,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$93.00,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$52.80,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$101.91,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 83525,Insulin Measurement; Total,$105.00,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 82330,Ionized Calcium,$57.84,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 83540,Iron level,$80.91,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$81.38,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 83721,LDL cholesterol level,$15.60,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$119.96,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$78.68,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$99.98,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 83021,Liver function blood test panel,$23.58,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 83735,Magnesium Level,$41.99,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 82542,Mass spectrometry,$82.03,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$84.09,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 83945,Oxalate level,$39.00,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 83970,Parathormone,$195.00,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 84157,Prealbumin (protein) level,$51.31,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$101.91,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$117.00,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$51.31,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 82270,Stool analysis for blood,$3.00,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 84403,Testosterone (hormone) level,$99.20,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 84402,Testosterone Level; Free,$99.20,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$58.50,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$82.56,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$70.21,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 84155,"Total protein level, blood",$51.31,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$51.31,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 84166,Troponin (protein) analysis,$51.31,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 84560,Uric acid level,$72.02,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 84550,"Uric acid level, blood",$72.02,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 82340,Urine calcium level,$57.84,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$50.23,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$21.45,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 84300,Urine sodium level,$12.09,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$89.39,MO
+Hannibal Regional Healthcare System,Chemistry,HCPCS 84630,Zinc level,$33.36,MO
+Hannibal Regional Healthcare System,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$101.25,MO
+Hannibal Regional Healthcare System,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$50.14,MO
+Hannibal Regional Healthcare System,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$21.44,MO
+Hannibal Regional Healthcare System,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$21.44,MO
+Hannibal Regional Healthcare System,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$93.65,MO
+Hannibal Regional Healthcare System,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$44.06,MO
+Hannibal Regional Healthcare System,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$93.65,MO
+Hannibal Regional Healthcare System,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$147.31,MO
+Hannibal Regional Healthcare System,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$57.72,MO
+Hannibal Regional Healthcare System,Immunology,HCPCS 86140,Measurement C-reactive protein,$89.06,MO
+Hannibal Regional Healthcare System,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$28.60,MO
+Hannibal Regional Healthcare System,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$43.65,MO
+Hannibal Regional Healthcare System,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$93.65,MO
+Hannibal Regional Healthcare System,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$40.99,MO
+Hannibal Regional Healthcare System,Immunology,HCPCS 86431,Rheumatoid factor level,$51.30,MO
+Hannibal Regional Healthcare System,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$13.55,MO
+Hannibal Regional Healthcare System,Immunology,HCPCS 86580,Skin test for tuberculosis,$9.00,MO
+Hannibal Regional Healthcare System,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$65.58,MO
+Hannibal Regional Healthcare System,Immunology,HCPCS 86359,"T cells count, total",$65.58,MO
+Hannibal Regional Healthcare System,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$72.68,MO
+Hannibal Regional Healthcare System,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$44.94,MO
+Hannibal Regional Healthcare System,Microbiology,HCPCS 87491,Chlamydia Test,$84.37,MO
+Hannibal Regional Healthcare System,Microbiology,HCPCS 87635,Covid-19 current infection test,$117.41,MO
+Hannibal Regional Healthcare System,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$160.23,MO
+Hannibal Regional Healthcare System,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$91.82,MO
+Hannibal Regional Healthcare System,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$115.25,MO
+Hannibal Regional Healthcare System,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$93.65,MO
+Hannibal Regional Healthcare System,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$52.80,MO
+Hannibal Regional Healthcare System,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$84.32,MO
+Hannibal Regional Healthcare System,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$74.63,MO
+Hannibal Regional Healthcare System,Microbiology,HCPCS 87624,HPV Detection,$56.28,MO
+Hannibal Regional Healthcare System,Microbiology,HCPCS 86735,Mumps virus antibody test,$49.25,MO
+Hannibal Regional Healthcare System,Microbiology,HCPCS 86747,Parvovirus antibody test,$32.25,MO
+Hannibal Regional Healthcare System,Microbiology,HCPCS 86762,Rubella virus antibody test,$82.99,MO
+Hannibal Regional Healthcare System,Microbiology,HCPCS 86765,Rubeola virus antibody test,$28.80,MO
+Hannibal Regional Healthcare System,Microbiology,HCPCS 87177,Smear for Parasites,$141.00,MO
+Hannibal Regional Healthcare System,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$48.92,MO
+Hannibal Regional Healthcare System,Microbiology,HCPCS 87045,Stool Culture,$99.00,MO
+Hannibal Regional Healthcare System,Microbiology,HCPCS 87880,Strep Test,$19.20,MO
+Hannibal Regional Healthcare System,Microbiology,HCPCS 87804,Test for Influenza Virus,$66.75,MO
+Hannibal Regional Healthcare System,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$19.20,MO
+Hannibal Regional Healthcare System,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$28.33,MO
+Hannibal Regional Healthcare System,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$120.54,MO
+Hannibal Regional Healthcare System,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$176.95,MO
+Hannibal Regional Healthcare System,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$83.93,MO
+Hannibal Regional Healthcare System,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$109.69,MO
+Hannibal Regional Healthcare System,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$97.75,MO
+Hannibal Regional Healthcare System,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$39.00,MO
+Hannibal Regional Healthcare System,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$119.42,MO
+Hannibal Regional Healthcare System,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$113.16,MO
+Hannibal Regional Healthcare System,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$39.88,MO
+Hannibal Regional Healthcare System,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$38.69,MO
+Hannibal Regional Healthcare System,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$42.60,MO
+Hannibal Regional Healthcare System,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$21.15,MO
+Hannibal Regional Healthcare System,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$33.24,MO
+Hannibal Regional Healthcare System,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$8.83,MO
+Hannibal Regional Healthcare System,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$55.53,MO
+Hannibal Regional Healthcare System,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$41.75,MO
+Hannibal Regional Healthcare System,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$39.00,MO
+Hannibal Regional Healthcare System,Transfusion,HCPCS 86900,"Blood Typing, ABO",$27.07,MO
+Hannibal Regional Healthcare System,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$27.07,MO
+Hannibal Regional Healthcare System,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$56.84,MO
+Hannibal Regional Healthcare System,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$48.60,MO
+Hannibal Regional Healthcare System,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$115.70,MO
+Hannibal Regional Healthcare System,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$56.86,MO
+Hannibal Regional Healthcare System,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$115.70,MO
+Hannibal Regional Healthcare System,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$9.60,MO
+Hannibal Regional Healthcare System,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$23.20,MO
+Hannibal Regional Healthcare System,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$23.20,MO
+Hannibal Regional Healthcare System,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$18.00,MO
+Hannibal Regional Healthcare System,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$799.11,MO
+Hannibal Regional Healthcare System,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$149.71,MO
+Hannibal Regional Healthcare System,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$149.71,MO
+Hannibal Regional Healthcare System,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$382.28,MO
+Hannibal Regional Healthcare System,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),$849.41,MO
+Hannibal Regional Healthcare System,Cardiovascular,HCPCS 93975,Ultrasound Heart,$544.33,MO
+Hannibal Regional Healthcare System,Pulmonary,HCPCS 94640,Aerosol Treatment,$281.31,MO
+Hannibal Regional Healthcare System,Pulmonary,HCPCS 94618,Pulmonary stress test,$231.87,MO
+Hannibal Regional Healthcare System,Pulmonary,HCPCS 94010,Spirometry - breathing test,$783.60,MO
+Hannibal Regional Healthcare System,Sleep,HCPCS 95810,Sleep study,"$1,969.43",MO
+Hannibal Regional Healthcare System,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$161.08,MO
+Hannibal Regional Healthcare System,Breast,HCPCS 77067,Mammogram Screening,$135.12,MO
+Hannibal Regional Healthcare System,Breast,HCPCS 77066,Mammography of both breasts,$161.08,MO
+Hannibal Regional Healthcare System,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,971.89",MO
+Hannibal Regional Healthcare System,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$939.60,MO
+Hannibal Regional Healthcare System,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$903.37,MO
+Hannibal Regional Healthcare System,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,007.05",MO
+Hannibal Regional Healthcare System,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,625.12",MO
+Hannibal Regional Healthcare System,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$3,625.12",MO
+Hannibal Regional Healthcare System,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,862.04",MO
+Hannibal Regional Healthcare System,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$2,205.15",MO
+Hannibal Regional Healthcare System,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$2,205.15",MO
+Hannibal Regional Healthcare System,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,655.69",MO
+Hannibal Regional Healthcare System,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$883.10,MO
+Hannibal Regional Healthcare System,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$2,154.25",MO
+Hannibal Regional Healthcare System,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,692.63",MO
+Hannibal Regional Healthcare System,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,121.40",MO
+Hannibal Regional Healthcare System,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,502.77",MO
+Hannibal Regional Healthcare System,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,502.77",MO
+Hannibal Regional Healthcare System,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,823.65",MO
+Hannibal Regional Healthcare System,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,502.77",MO
+Hannibal Regional Healthcare System,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,662.88",MO
+Hannibal Regional Healthcare System,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,439.63",MO
+Hannibal Regional Healthcare System,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,585.74",MO
+Hannibal Regional Healthcare System,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,316.40",MO
+Hannibal Regional Healthcare System,MRI,HCPCS 73721,MRI scan of leg joint,"$1,372.41",MO
+Hannibal Regional Healthcare System,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$102.96,MO
+Hannibal Regional Healthcare System,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$427.08,MO
+Hannibal Regional Healthcare System,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$549.43,MO
+Hannibal Regional Healthcare System,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$549.43,MO
+Hannibal Regional Healthcare System,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$370.67,MO
+Hannibal Regional Healthcare System,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$370.67,MO
+Hannibal Regional Healthcare System,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$393.91,MO
+Hannibal Regional Healthcare System,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$236.62,MO
+Hannibal Regional Healthcare System,Chest,HCPCS 71046,X-ray of chest; 2 Views,$127.31,MO
+Hannibal Regional Healthcare System,Chest,HCPCS 71045,X-ray of chest; Single View,$127.31,MO
+Hannibal Regional Healthcare System,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$169.80,MO
+Hannibal Regional Healthcare System,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$210.00,MO
+Hannibal Regional Healthcare System,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$90.00,MO
+Hannibal Regional Healthcare System,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$178.61,MO
+Hannibal Regional Healthcare System,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$187.50,MO
+Hannibal Regional Healthcare System,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$156.53,MO
+Hannibal Regional Healthcare System,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$180.13,MO
+Hannibal Regional Healthcare System,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$191.40,MO
+Hannibal Regional Healthcare System,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$187.21,MO
+Hannibal Regional Healthcare System,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$187.21,MO
+Hannibal Regional Healthcare System,Lower Limbs,HCPCS 73565,X-ray Both Knees,$249.57,MO
+Hannibal Regional Healthcare System,Lower Limbs,HCPCS 73630,X-ray exam of foot,$187.21,MO
+Hannibal Regional Healthcare System,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$249.57,MO
+Hannibal Regional Healthcare System,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$154.20,MO
+Hannibal Regional Healthcare System,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$187.21,MO
+Hannibal Regional Healthcare System,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$151.20,MO
+Hannibal Regional Healthcare System,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$249.57,MO
+Hannibal Regional Healthcare System,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$249.57,MO
+Hannibal Regional Healthcare System,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$176.39,MO
+Hannibal Regional Healthcare System,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$282.90,MO
+Hannibal Regional Healthcare System,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$282.90,MO
+Hannibal Regional Healthcare System,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$343.71,MO
+Hannibal Regional Healthcare System,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$343.71,MO
+Hannibal Regional Healthcare System,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$223.73,MO
+Hannibal Regional Healthcare System,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$184.14,MO
+Hannibal Regional Healthcare System,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$264.74,MO
+Hannibal Regional Healthcare System,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$300.69,MO
+Hannibal Regional Healthcare System,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$300.69,MO
+Hannibal Regional Healthcare System,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$265.68,MO
+Hannibal Regional Healthcare System,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$300.69,MO
+Hannibal Regional Healthcare System,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$300.69,MO
+Hannibal Regional Healthcare System,Abdomenal,HCPCS 47562,Cholecystectomy,"$21,664.62",MO
+Hannibal Regional Healthcare System,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$21,664.62",MO
+Hannibal Regional Healthcare System,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$20,708.34",MO
+Hannibal Regional Healthcare System,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,$266.40,MO
+Hannibal Regional Healthcare System,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$21,932.51",MO
+Hannibal Regional Healthcare System,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$389.50,MO
+Hannibal Regional Healthcare System,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$389.50,MO
+Hannibal Regional Healthcare System,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$42,724.46",MO
+Hannibal Regional Healthcare System,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,"$24,446.72",MO
+Hannibal Regional Healthcare System,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$23,616.86",MO
+Hannibal Regional Healthcare System,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$24,550.82",MO
+Hannibal Regional Healthcare System,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$18,690.60",MO
+Hannibal Regional Healthcare System,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$21,932.51",MO
+Hannibal Regional Healthcare System,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$19,042.30",MO
+Hannibal Regional Healthcare System,Breast,HCPCS 19125,Excision of breast lesion,"$17,121.42",MO
+Hannibal Regional Healthcare System,Breast,HCPCS 19120,Excision of cyst of breast,"$17,121.42",MO
+Hannibal Regional Healthcare System,Breast,HCPCS 19301,Partial removal of breast,"$15,596.74",MO
+Hannibal Regional Healthcare System,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$16,200.22",MO
+Hannibal Regional Healthcare System,Cardiac,MSDRG 247,Implant drug-eluting stent,"$66,334.34",MO
+Hannibal Regional Healthcare System,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$16,561.31",MO
+Hannibal Regional Healthcare System,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$3,776.90",MO
+Hannibal Regional Healthcare System,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$4,299.43",MO
+Hannibal Regional Healthcare System,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$4,003.45",MO
+Hannibal Regional Healthcare System,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$4,003.45",MO
+Hannibal Regional Healthcare System,Digestive,HCPCS 43235,EGD,"$3,062.86",MO
+Hannibal Regional Healthcare System,Digestive,HCPCS 43239,EGD and biopsy,"$3,831.04",MO
+Hannibal Regional Healthcare System,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$13,415.66",MO
+Hannibal Regional Healthcare System,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$40,071.17",MO
+Hannibal Regional Healthcare System,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$21,150.71",MO
+Hannibal Regional Healthcare System,General,HCPCS 10060,Drainage of Abscess,"$2,164.00",MO
+Hannibal Regional Healthcare System,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$593.06,MO
+Hannibal Regional Healthcare System,General,HCPCS 69200,Removal of foreign body from ear canal,"$3,931.20",MO
+Hannibal Regional Healthcare System,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$1,262.60",MO
+Hannibal Regional Healthcare System,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),"$1,262.60",MO
+Hannibal Regional Healthcare System,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$1,262.60",MO
+Hannibal Regional Healthcare System,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$1,262.60",MO
+Hannibal Regional Healthcare System,Head,HCPCS 69436,Create eardrum opening,"$4,640.32",MO
+Hannibal Regional Healthcare System,Head,HCPCS 69631,Repair of eardrum,"$24,629.72",MO
+Hannibal Regional Healthcare System,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$11,884.19",MO
+Hannibal Regional Healthcare System,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$12,691.92",MO
+Hannibal Regional Healthcare System,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$108,419.80",MO
+Hannibal Regional Healthcare System,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,"$1,267.76",MO
+Hannibal Regional Healthcare System,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$3,962.81",MO
+Hannibal Regional Healthcare System,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$3,962.81",MO
+Hannibal Regional Healthcare System,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$3,597.35",MO
+Hannibal Regional Healthcare System,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$3,649.67",MO
+Hannibal Regional Healthcare System,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$43,744.27",MO
+Hannibal Regional Healthcare System,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$17,614.46",MO
+Hannibal Regional Healthcare System,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,"$36,463.04",MO
+Hannibal Regional Healthcare System,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$5,786.92",MO
+Hannibal Regional Healthcare System,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$68,224.67",MO
+Hannibal Regional Healthcare System,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$108,419.80",MO
+Hannibal Regional Healthcare System,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$39,180.89",MO
+Hannibal Regional Healthcare System,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$15,349.00",MO
+Hannibal Regional Healthcare System,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$14,147.92",MO
+Hannibal Regional Healthcare System,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$15,737.12",MO
+Hannibal Regional Healthcare System,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$16,736.98",MO
+Hannibal Regional Healthcare System,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$4,003.35",MO
+Hannibal Regional Healthcare System,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries","$22,731.20",MO
+Hannibal Regional Healthcare System,Ocular,HCPCS 66984,Cataract removal,"$4,732.79",MO
+Hannibal Regional Healthcare System,Ocular,HCPCS 66982,Cataract removal with insertion of lens,"$4,732.79",MO
+Hannibal Regional Healthcare System,Soft Tissue,HCPCS 97597,Debridement of open wound,$139.50,MO
+Hannibal Regional Healthcare System,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$54.13,MO
+Hannibal Regional Healthcare System,Vascular,HCPCS 36416,Collection of capillary blood specimen,$11.17,MO
+Hannibal Regional Healthcare System,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$5,699.87",MO
+Hannibal Regional Healthcare System,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,570.36",MO
+Hannibal Regional Healthcare System,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$10,237.65",MO

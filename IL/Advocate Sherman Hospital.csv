@@ -1,0 +1,103 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Advocate Sherman Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$4,501.00",IL
+Advocate Sherman Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$162.40,IL
+Advocate Sherman Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$226.80,IL
+Advocate Sherman Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$438.90,IL
+Advocate Sherman Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$780.50,IL
+Advocate Sherman Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,582.00",IL
+Advocate Sherman Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$234.50,IL
+Advocate Sherman Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$281.40,IL
+Advocate Sherman Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$182.00,IL
+Advocate Sherman Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$1,047.20",IL
+Advocate Sherman Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$260.40,IL
+Advocate Sherman Hospital,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$595.00,IL
+Advocate Sherman Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,204.70",IL
+Advocate Sherman Hospital,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$245.70,IL
+Advocate Sherman Hospital,Pulmonary,HCPCS 94640,Nebulizer Treatment,$223.30,IL
+Advocate Sherman Hospital,Pulmonary,HCPCS 94618,Pulmonary stress test,$249.20,IL
+Advocate Sherman Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$271.60,IL
+Advocate Sherman Hospital,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$149.10,IL
+Advocate Sherman Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$334.60,IL
+Advocate Sherman Hospital,Breast,HCPCS 77067,Mammogram Screening,$297.50,IL
+Advocate Sherman Hospital,Breast,HCPCS 77066,Mammography of both breasts,$334.60,IL
+Advocate Sherman Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$2,653.00",IL
+Advocate Sherman Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,650.60",IL
+Advocate Sherman Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,650.60",IL
+Advocate Sherman Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,650.60",IL
+Advocate Sherman Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$5,118.40",IL
+Advocate Sherman Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$4,125.80",IL
+Advocate Sherman Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$3,592.40",IL
+Advocate Sherman Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$2,559.20",IL
+Advocate Sherman Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,929.90",IL
+Advocate Sherman Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,808.10",IL
+Advocate Sherman Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$2,963.10",IL
+Advocate Sherman Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,543.80",IL
+Advocate Sherman Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,543.80",IL
+Advocate Sherman Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$3,238.90",IL
+Advocate Sherman Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,543.80",IL
+Advocate Sherman Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$3,238.90",IL
+Advocate Sherman Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,931.30",IL
+Advocate Sherman Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$4,748.10",IL
+Advocate Sherman Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,963.10",IL
+Advocate Sherman Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$2,125.20",IL
+Advocate Sherman Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$784.00,IL
+Advocate Sherman Hospital,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$529.90,IL
+Advocate Sherman Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$732.90,IL
+Advocate Sherman Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$610.40,IL
+Advocate Sherman Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,150.10",IL
+Advocate Sherman Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$752.50,IL
+Advocate Sherman Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$584.50,IL
+Advocate Sherman Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$368.20,IL
+Advocate Sherman Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$417.20,IL
+Advocate Sherman Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$206.50,IL
+Advocate Sherman Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$206.50,IL
+Advocate Sherman Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$387.80,IL
+Advocate Sherman Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$291.20,IL
+Advocate Sherman Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$389.90,IL
+Advocate Sherman Hospital,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$527.10,IL
+Advocate Sherman Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$357.70,IL
+Advocate Sherman Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$287.70,IL
+Advocate Sherman Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$203.00,IL
+Advocate Sherman Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$226.10,IL
+Advocate Sherman Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$163.10,IL
+Advocate Sherman Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$226.10,IL
+Advocate Sherman Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$255.50,IL
+Advocate Sherman Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$357.70,IL
+Advocate Sherman Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$203.00,IL
+Advocate Sherman Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$209.30,IL
+Advocate Sherman Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$223.30,IL
+Advocate Sherman Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$301.00,IL
+Advocate Sherman Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$226.10,IL
+Advocate Sherman Hospital,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$291.20,IL
+Advocate Sherman Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$394.10,IL
+Advocate Sherman Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$494.20,IL
+Advocate Sherman Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$226.10,IL
+Advocate Sherman Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$203.00,IL
+Advocate Sherman Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$203.00,IL
+Advocate Sherman Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$226.10,IL
+Advocate Sherman Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$314.30,IL
+Advocate Sherman Hospital,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$226.10,IL
+Advocate Sherman Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$203.00,IL
+Advocate Sherman Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$226.10,IL
+Advocate Sherman Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$283.50,IL
+Advocate Sherman Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$263.90,IL
+Advocate Sherman Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$14,299.60",IL
+Advocate Sherman Hospital,Cardiac,HCPCS 33249,Defibrillator complete system,"$15,365.70",IL
+Advocate Sherman Hospital,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$4,688.60",IL
+Advocate Sherman Hospital,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$485.80,IL
+Advocate Sherman Hospital,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$7,253.40",IL
+Advocate Sherman Hospital,General,HCPCS 10060,Drainage of Abscess,$279.30,IL
+Advocate Sherman Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$279.30,IL
+Advocate Sherman Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$146.30,IL
+Advocate Sherman Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$509.60,IL
+Advocate Sherman Hospital,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$340.20,IL
+Advocate Sherman Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$509.60,IL
+Advocate Sherman Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$509.60,IL
+Advocate Sherman Hospital,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$262.50,IL
+Advocate Sherman Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$1,069.60",IL
+Advocate Sherman Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$551.60,IL
+Advocate Sherman Hospital,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$178.50,IL
+Advocate Sherman Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$229.60,IL
+Advocate Sherman Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$166.60,IL
+Advocate Sherman Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,324.40",IL
+Advocate Sherman Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,870.40",IL

@@ -1,0 +1,210 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+St. Thomas More Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$3,157.32",CO
+St. Thomas More Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$826.05,CO
+St. Thomas More Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$826.05,CO
+St. Thomas More Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$826.05,CO
+St. Thomas More Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$826.05,CO
+St. Thomas More Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$826.05,CO
+St. Thomas More Hospital,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$127.95,CO
+St. Thomas More Hospital,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$127.95,CO
+St. Thomas More Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$127.95,CO
+St. Thomas More Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$127.95,CO
+St. Thomas More Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$127.95,CO
+St. Thomas More Hospital,Speech,HCPCS 92526,Swallow Treatment,$64.69,CO
+St. Thomas More Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$9.48,CO
+St. Thomas More Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$9.48,CO
+St. Thomas More Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$21.58,CO
+St. Thomas More Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$27.56,CO
+St. Thomas More Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$29.43,CO
+St. Thomas More Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$29.43,CO
+St. Thomas More Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$16.33,CO
+St. Thomas More Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$28.50,CO
+St. Thomas More Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$9.32,CO
+St. Thomas More Hospital,Chemistry,HCPCS 82140,Ammonia level,$74.50,CO
+St. Thomas More Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$78.66,CO
+St. Thomas More Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$43.76,CO
+St. Thomas More Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$21.88,CO
+St. Thomas More Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$21.88,CO
+St. Thomas More Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$24.02,CO
+St. Thomas More Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$16.46,CO
+St. Thomas More Hospital,Chemistry,HCPCS 84132,Blood potassium level,$18.54,CO
+St. Thomas More Hospital,Chemistry,HCPCS 84295,Blood sodium level,$23.46,CO
+St. Thomas More Hospital,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$25.81,CO
+St. Thomas More Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$67.52,CO
+St. Thomas More Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$37.54,CO
+St. Thomas More Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$66.48,CO
+St. Thomas More Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$14.17,CO
+St. Thomas More Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$26.46,CO
+St. Thomas More Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$60.29,CO
+St. Thomas More Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$60.48,CO
+St. Thomas More Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$63.46,CO
+St. Thomas More Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$22.94,CO
+St. Thomas More Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$42.95,CO
+St. Thomas More Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$55.35,CO
+St. Thomas More Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$45.47,CO
+St. Thomas More Hospital,Chemistry,HCPCS 83540,Iron level,$51.61,CO
+St. Thomas More Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$26.64,CO
+St. Thomas More Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$43.98,CO
+St. Thomas More Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$23.22,CO
+St. Thomas More Hospital,Chemistry,HCPCS 83735,Magnesium Level,$33.24,CO
+St. Thomas More Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$21.59,CO
+St. Thomas More Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$21.59,CO
+St. Thomas More Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$19.81,CO
+St. Thomas More Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$30.57,CO
+St. Thomas More Hospital,Chemistry,HCPCS 84300,Urine sodium level,$23.46,CO
+St. Thomas More Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$22.82,CO
+St. Thomas More Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$24.32,CO
+St. Thomas More Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$49.36,CO
+St. Thomas More Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$30.31,CO
+St. Thomas More Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$42.09,CO
+St. Thomas More Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$39.60,CO
+St. Thomas More Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$18.26,CO
+St. Thomas More Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$52.06,CO
+St. Thomas More Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$49.14,CO
+St. Thomas More Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$18.26,CO
+St. Thomas More Hospital,Microbiology,HCPCS 87045,Stool Culture,$46.57,CO
+St. Thomas More Hospital,Microbiology,HCPCS 87880,Strep Test,$33.25,CO
+St. Thomas More Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$45.44,CO
+St. Thomas More Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$53.81,CO
+St. Thomas More Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$50.58,CO
+St. Thomas More Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$74.39,CO
+St. Thomas More Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$52.02,CO
+St. Thomas More Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$56.15,CO
+St. Thomas More Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$542.70,CO
+St. Thomas More Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$43.32,CO
+St. Thomas More Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$11.24,CO
+St. Thomas More Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$35.12,CO
+St. Thomas More Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$61.24,CO
+St. Thomas More Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$34.24,CO
+St. Thomas More Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$34.24,CO
+St. Thomas More Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$361.48,CO
+St. Thomas More Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$203.38,CO
+St. Thomas More Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$203.38,CO
+St. Thomas More Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$27.34,CO
+St. Thomas More Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$27.34,CO
+St. Thomas More Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$44.48,CO
+St. Thomas More Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$387.22,CO
+St. Thomas More Hospital,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$44.10,CO
+St. Thomas More Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$44.10,CO
+St. Thomas More Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,$591.33,CO
+St. Thomas More Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,$203.81,CO
+St. Thomas More Hospital,Pulmonary,HCPCS 94618,Pulmonary stress test,$315.62,CO
+St. Thomas More Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$307.19,CO
+St. Thomas More Hospital,Sleep,HCPCS 95810,Sleep study,"$1,877.34",CO
+St. Thomas More Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$216.51,CO
+St. Thomas More Hospital,Breast,HCPCS 77067,Mammogram Screening,$206.61,CO
+St. Thomas More Hospital,Breast,HCPCS 77066,Mammography of both breasts,$216.51,CO
+St. Thomas More Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,640.63",CO
+St. Thomas More Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$818.81,CO
+St. Thomas More Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$710.69,CO
+St. Thomas More Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$691.25,CO
+St. Thomas More Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,605.33",CO
+St. Thomas More Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,605.33",CO
+St. Thomas More Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,148.43",CO
+St. Thomas More Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,170.96",CO
+St. Thomas More Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,170.96",CO
+St. Thomas More Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,063.45",CO
+St. Thomas More Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$845.15,CO
+St. Thomas More Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$937.43,CO
+St. Thomas More Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,112.71",CO
+St. Thomas More Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)",$897.38,CO
+St. Thomas More Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,$999.26,CO
+St. Thomas More Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$999.26,CO
+St. Thomas More Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,294.78",CO
+St. Thomas More Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,$999.26,CO
+St. Thomas More Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,714.46",CO
+St. Thomas More Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,060.48",CO
+St. Thomas More Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,211.26",CO
+St. Thomas More Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$779.85,CO
+St. Thomas More Hospital,MRI,HCPCS 73721,MRI scan of leg joint,$927.61,CO
+St. Thomas More Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$334.42,CO
+St. Thomas More Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$466.78,CO
+St. Thomas More Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$289.98,CO
+St. Thomas More Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$389.87,CO
+St. Thomas More Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$389.87,CO
+St. Thomas More Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$340.86,CO
+St. Thomas More Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$340.86,CO
+St. Thomas More Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$249.87,CO
+St. Thomas More Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$327.33,CO
+St. Thomas More Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$130.87,CO
+St. Thomas More Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$130.87,CO
+St. Thomas More Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$417.18,CO
+St. Thomas More Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$186.22,CO
+St. Thomas More Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$210.61,CO
+St. Thomas More Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$279.80,CO
+St. Thomas More Hospital,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$283.51,CO
+St. Thomas More Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$214.59,CO
+St. Thomas More Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$174.81,CO
+St. Thomas More Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$229.84,CO
+St. Thomas More Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$174.92,CO
+St. Thomas More Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$174.92,CO
+St. Thomas More Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$166.99,CO
+St. Thomas More Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$174.92,CO
+St. Thomas More Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$166.99,CO
+St. Thomas More Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$206.86,CO
+St. Thomas More Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$174.92,CO
+St. Thomas More Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$165.34,CO
+St. Thomas More Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$166.99,CO
+St. Thomas More Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$166.99,CO
+St. Thomas More Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$181.95,CO
+St. Thomas More Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$239.25,CO
+St. Thomas More Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$239.25,CO
+St. Thomas More Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$271.30,CO
+St. Thomas More Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$271.30,CO
+St. Thomas More Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$196.06,CO
+St. Thomas More Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$154.71,CO
+St. Thomas More Hospital,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$194.87,CO
+St. Thomas More Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$163.75,CO
+St. Thomas More Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$163.75,CO
+St. Thomas More Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$186.14,CO
+St. Thomas More Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$163.75,CO
+St. Thomas More Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$163.75,CO
+St. Thomas More Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$7,457.31",CO
+St. Thomas More Hospital,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$7,457.31",CO
+St. Thomas More Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$10,793.15",CO
+St. Thomas More Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$5,198.85",CO
+St. Thomas More Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$424.57,CO
+St. Thomas More Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$25,234.36",CO
+St. Thomas More Hospital,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,"$7,876.79",CO
+St. Thomas More Hospital,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$9,318.01",CO
+St. Thomas More Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$9,326.55",CO
+St. Thomas More Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$5,340.75",CO
+St. Thomas More Hospital,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$5,198.85",CO
+St. Thomas More Hospital,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$7,273.32",CO
+St. Thomas More Hospital,Breast,HCPCS 19125,Excision of breast lesion,"$4,776.82",CO
+St. Thomas More Hospital,Breast,HCPCS 19120,Excision of cyst of breast,"$4,776.82",CO
+St. Thomas More Hospital,Breast,HCPCS 19301,Partial removal of breast,"$6,514.27",CO
+St. Thomas More Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,625.13",CO
+St. Thomas More Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,981.42",CO
+St. Thomas More Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$2,011.59",CO
+St. Thomas More Hospital,Digestive,HCPCS 43235,EGD,"$1,617.49",CO
+St. Thomas More Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$1,788.06",CO
+St. Thomas More Hospital,Digestive,HCPCS 43775,Gastric Sleeve (Outpatient),"$7,587.24",CO
+St. Thomas More Hospital,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$8,244.94",CO
+St. Thomas More Hospital,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$8,244.94",CO
+St. Thomas More Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$13,805.09",CO
+St. Thomas More Hospital,General,HCPCS 10060,Drainage of Abscess,"$1,060.32",CO
+St. Thomas More Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple","$1,120.56",CO
+St. Thomas More Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$312.03,CO
+St. Thomas More Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$919.61,CO
+St. Thomas More Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$919.61,CO
+St. Thomas More Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$919.61,CO
+St. Thomas More Hospital,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,"$1,331.31",CO
+St. Thomas More Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$550.41,CO
+St. Thomas More Hospital,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,$550.41,CO
+St. Thomas More Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$614.37,CO
+St. Thomas More Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$32,375.46",CO
+St. Thomas More Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$4,361.28",CO
+St. Thomas More Hospital,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$4,361.28",CO
+St. Thomas More Hospital,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$4,053.38",CO
+St. Thomas More Hospital,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,$284.25,CO
+St. Thomas More Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$4,871.23",CO
+St. Thomas More Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$9,579.30",CO
+St. Thomas More Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$4,188.76",CO
+St. Thomas More Hospital,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries","$6,478.85",CO
+St. Thomas More Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$172.03,CO
+St. Thomas More Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$172.03,CO
+St. Thomas More Hospital,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$147.54,CO
+St. Thomas More Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$5,263.55",CO
+St. Thomas More Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,179.97",CO
+St. Thomas More Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,829.95",CO

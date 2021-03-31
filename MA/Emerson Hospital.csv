@@ -1,0 +1,310 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Emerson Hospital,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$178.41,MA
+Emerson Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,394.22",MA
+Emerson Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$162.45,MA
+Emerson Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$223.44,MA
+Emerson Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$333.45,MA
+Emerson Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$482.22,MA
+Emerson Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$686.28,MA
+Emerson Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$203.49,MA
+Emerson Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$203.49,MA
+Emerson Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$203.49,MA
+Emerson Hospital,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$88.35,MA
+Emerson Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$106.02,MA
+Emerson Hospital,Psychology,HCPCS 90853,Group psychotherapy,$229.14,MA
+Emerson Hospital,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$234.27,MA
+Emerson Hospital,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$234.27,MA
+Emerson Hospital,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$423.51,MA
+Emerson Hospital,Speech,HCPCS 92507,Speech Therapy,$164.16,MA
+Emerson Hospital,Speech,HCPCS 92610,Swallow Evaluation,$266.76,MA
+Emerson Hospital,Speech,HCPCS 92526,Swallow Treatment,$160.74,MA
+Emerson Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$19.38,MA
+Emerson Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$15.39,MA
+Emerson Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$45.03,MA
+Emerson Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$152.76,MA
+Emerson Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$12.54,MA
+Emerson Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$34.20,MA
+Emerson Hospital,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$15.39,MA
+Emerson Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$93.48,MA
+Emerson Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$18.24,MA
+Emerson Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$34.77,MA
+Emerson Hospital,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$70.68,MA
+Emerson Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$12.54,MA
+Emerson Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$372.78,MA
+Emerson Hospital,Blood,HCPCS 85041,"Red blood count, automated test",$7.98,MA
+Emerson Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$76.38,MA
+Emerson Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$19.38,MA
+Emerson Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$33.06,MA
+Emerson Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$41.61,MA
+Emerson Hospital,Chemistry,HCPCS 82140,Ammonia level,$32.49,MA
+Emerson Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$34.20,MA
+Emerson Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$34.77,MA
+Emerson Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$63.84,MA
+Emerson Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$36.48,MA
+Emerson Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$32.49,MA
+Emerson Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$32.49,MA
+Emerson Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$23.37,MA
+Emerson Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$25.65,MA
+Emerson Hospital,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$14.25,MA
+Emerson Hospital,Chemistry,HCPCS 84132,Blood potassium level,$14.25,MA
+Emerson Hospital,Chemistry,HCPCS 84295,Blood sodium level,$21.09,MA
+Emerson Hospital,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$90.06,MA
+Emerson Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$91.77,MA
+Emerson Hospital,Chemistry,HCPCS 82310,Calcium level,$47.31,MA
+Emerson Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$21.09,MA
+Emerson Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$83.79,MA
+Emerson Hospital,Chemistry,HCPCS 82465,Cholesterol level,$32.49,MA
+Emerson Hospital,Chemistry,HCPCS 82525,Copper level,$31.35,MA
+Emerson Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$41.61,MA
+Emerson Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$50.73,MA
+Emerson Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$32.49,MA
+Emerson Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$45.60,MA
+Emerson Hospital,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$62.13,MA
+Emerson Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$99.18,MA
+Emerson Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$62.13,MA
+Emerson Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$32.49,MA
+Emerson Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$27.36,MA
+Emerson Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$32.49,MA
+Emerson Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$36.48,MA
+Emerson Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$87.78,MA
+Emerson Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$87.78,MA
+Emerson Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$30.78,MA
+Emerson Hospital,Chemistry,HCPCS 83718,HDL cholesterol level,$90.06,MA
+Emerson Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$113.43,MA
+Emerson Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$53.58,MA
+Emerson Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$43.89,MA
+Emerson Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$28.50,MA
+Emerson Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$27.93,MA
+Emerson Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$57.00,MA
+Emerson Hospital,Chemistry,HCPCS 83540,Iron level,$42.18,MA
+Emerson Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$16.53,MA
+Emerson Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$43.32,MA
+Emerson Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$28.50,MA
+Emerson Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$42.18,MA
+Emerson Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$56.43,MA
+Emerson Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$35.91,MA
+Emerson Hospital,Chemistry,HCPCS 83735,Magnesium Level,$63.84,MA
+Emerson Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$62.70,MA
+Emerson Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$38.19,MA
+Emerson Hospital,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$27.93,MA
+Emerson Hospital,Chemistry,HCPCS 83918,Organic acid level,$369.36,MA
+Emerson Hospital,Chemistry,HCPCS 83945,Oxalate level,$34.20,MA
+Emerson Hospital,Chemistry,HCPCS 83970,Parathormone,$137.37,MA
+Emerson Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$32.49,MA
+Emerson Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$41.04,MA
+Emerson Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$75.24,MA
+Emerson Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$32.49,MA
+Emerson Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$62.70,MA
+Emerson Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$64.41,MA
+Emerson Hospital,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$25.65,MA
+Emerson Hospital,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$124.26,MA
+Emerson Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$39.90,MA
+Emerson Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$32.49,MA
+Emerson Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$29.07,MA
+Emerson Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$45.03,MA
+Emerson Hospital,Chemistry,HCPCS 84560,Uric acid level,$14.25,MA
+Emerson Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$25.65,MA
+Emerson Hospital,Chemistry,HCPCS 82340,Urine calcium level,$21.09,MA
+Emerson Hospital,Chemistry,HCPCS 82436,Urine chloride level,$14.25,MA
+Emerson Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$47.31,MA
+Emerson Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$19.38,MA
+Emerson Hospital,Chemistry,HCPCS 84133,Urine potassium level,$18.24,MA
+Emerson Hospital,Chemistry,HCPCS 84300,Urine sodium level,$18.24,MA
+Emerson Hospital,Chemistry,HCPCS 84591,Vitamin B-6 level,$41.61,MA
+Emerson Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$70.68,MA
+Emerson Hospital,Chemistry,HCPCS 84630,Zinc level,$27.93,MA
+Emerson Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$86.07,MA
+Emerson Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$33.63,MA
+Emerson Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$32.49,MA
+Emerson Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$23.94,MA
+Emerson Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$213.75,MA
+Emerson Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$35.34,MA
+Emerson Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$37.05,MA
+Emerson Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$57.00,MA
+Emerson Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$29.64,MA
+Emerson Hospital,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$61.56,MA
+Emerson Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$145.35,MA
+Emerson Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$22.80,MA
+Emerson Hospital,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$33.63,MA
+Emerson Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$68.97,MA
+Emerson Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$33.63,MA
+Emerson Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$20.52,MA
+Emerson Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$64.41,MA
+Emerson Hospital,Immunology,HCPCS 86580,Skin test for tuberculosis,$19.95,MA
+Emerson Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$11.97,MA
+Emerson Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$107.73,MA
+Emerson Hospital,Immunology,HCPCS 86359,"T cells count, total",$86.64,MA
+Emerson Hospital,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$36.48,MA
+Emerson Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$83.79,MA
+Emerson Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$112.29,MA
+Emerson Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$20.52,MA
+Emerson Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$109.44,MA
+Emerson Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$63.27,MA
+Emerson Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$128.82,MA
+Emerson Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$130.53,MA
+Emerson Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$59.85,MA
+Emerson Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$259.92,MA
+Emerson Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$109.44,MA
+Emerson Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$130.53,MA
+Emerson Hospital,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$74.67,MA
+Emerson Hospital,Microbiology,HCPCS 87624,HPV Detection,$52.44,MA
+Emerson Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$68.97,MA
+Emerson Hospital,Microbiology,HCPCS 86747,Parvovirus antibody test,$31.92,MA
+Emerson Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$72.96,MA
+Emerson Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$64.41,MA
+Emerson Hospital,Microbiology,HCPCS 87207,Smear for infectious agents,$36.48,MA
+Emerson Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$35.91,MA
+Emerson Hospital,Microbiology,HCPCS 87045,Stool Culture,$26.22,MA
+Emerson Hospital,Microbiology,HCPCS 87880,Strep Test,$45.03,MA
+Emerson Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$36.48,MA
+Emerson Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$121.98,MA
+Emerson Hospital,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$149.91,MA
+Emerson Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$204.06,MA
+Emerson Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$51.87,MA
+Emerson Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$91.20,MA
+Emerson Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$134.52,MA
+Emerson Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$43.32,MA
+Emerson Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$112.29,MA
+Emerson Hospital,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$39.90,MA
+Emerson Hospital,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$37.05,MA
+Emerson Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$31.35,MA
+Emerson Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$25.65,MA
+Emerson Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$31.92,MA
+Emerson Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$25.08,MA
+Emerson Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$49.02,MA
+Emerson Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$51.30,MA
+Emerson Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$34.77,MA
+Emerson Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$101.46,MA
+Emerson Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$36.48,MA
+Emerson Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$62.13,MA
+Emerson Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$38.76,MA
+Emerson Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$43.89,MA
+Emerson Hospital,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$36.48,MA
+Emerson Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$106.02,MA
+Emerson Hospital,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$6.84,MA
+Emerson Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$34.20,MA
+Emerson Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$837.90,MA
+Emerson Hospital,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$176.70,MA
+Emerson Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$73.53,MA
+Emerson Hospital,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$64.41,MA
+Emerson Hospital,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$226.29,MA
+Emerson Hospital,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),$825.36,MA
+Emerson Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,$786.60,MA
+Emerson Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,$164.73,MA
+Emerson Hospital,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$112.86,MA
+Emerson Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$198.36,MA
+Emerson Hospital,Sleep,HCPCS 95810,Sleep study,"$1,869.03",MA
+Emerson Hospital,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$83.79,MA
+Emerson Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$410.40,MA
+Emerson Hospital,Breast,HCPCS 77067,Mammogram Screening,$374.49,MA
+Emerson Hospital,Breast,HCPCS 77066,Mammography of both breasts,$410.40,MA
+Emerson Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,088.13",MA
+Emerson Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$621.87,MA
+Emerson Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,086.42",MA
+Emerson Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$929.10,MA
+Emerson Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,493.97",MA
+Emerson Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,251.72",MA
+Emerson Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,019.73",MA
+Emerson Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,961.94",MA
+Emerson Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,228.35",MA
+Emerson Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$816.24,MA
+Emerson Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$532.95,MA
+Emerson Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$2,046.87",MA
+Emerson Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,589.16",MA
+Emerson Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,089.84",MA
+Emerson Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,388.52",MA
+Emerson Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,371.99",MA
+Emerson Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$1,577.76",MA
+Emerson Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,272.81",MA
+Emerson Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$2,151.75",MA
+Emerson Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,582.89",MA
+Emerson Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,180.47",MA
+Emerson Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,035.47",MA
+Emerson Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,255.71",MA
+Emerson Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$1,180.47",MA
+Emerson Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$675.45,MA
+Emerson Hospital,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$702.81,MA
+Emerson Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$318.63,MA
+Emerson Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$430.35,MA
+Emerson Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$231.99,MA
+Emerson Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,096.68",MA
+Emerson Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$247.38,MA
+Emerson Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$182.40,MA
+Emerson Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$587.10,MA
+Emerson Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$430.35,MA
+Emerson Hospital,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$288.99,MA
+Emerson Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$265.05,MA
+Emerson Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$234.27,MA
+Emerson Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$131.67,MA
+Emerson Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$174.99,MA
+Emerson Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$360.24,MA
+Emerson Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$135.66,MA
+Emerson Hospital,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$247.95,MA
+Emerson Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$360.24,MA
+Emerson Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$222.87,MA
+Emerson Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$308.37,MA
+Emerson Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$682.86,MA
+Emerson Hospital,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$471.96,MA
+Emerson Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$142.50,MA
+Emerson Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$244.53,MA
+Emerson Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$293.55,MA
+Emerson Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$186.96,MA
+Emerson Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$266.76,MA
+Emerson Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$167.01,MA
+Emerson Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$266.76,MA
+Emerson Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$306.66,MA
+Emerson Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$285.00,MA
+Emerson Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$120.84,MA
+Emerson Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$266.76,MA
+Emerson Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$225.15,MA
+Emerson Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$463.41,MA
+Emerson Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$266.76,MA
+Emerson Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$360.24,MA
+Emerson Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$360.24,MA
+Emerson Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$588.24,MA
+Emerson Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$213.18,MA
+Emerson Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$266.76,MA
+Emerson Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$271.32,MA
+Emerson Hospital,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$135.66,MA
+Emerson Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$163.59,MA
+Emerson Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$213.18,MA
+Emerson Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$266.76,MA
+Emerson Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$135.66,MA
+Emerson Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$266.76,MA
+Emerson Hospital,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,$933.66,MA
+Emerson Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$347.13,MA
+Emerson Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$347.13,MA
+Emerson Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$18,730.18",MA
+Emerson Hospital,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$189.81,MA
+Emerson Hospital,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$23,912.86",MA
+Emerson Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,108.08",MA
+Emerson Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,108.08",MA
+Emerson Hospital,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,707.72",MA
+Emerson Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,707.72",MA
+Emerson Hospital,Digestive,HCPCS 43235,EGD,$839.04,MA
+Emerson Hospital,Digestive,HCPCS 43239,EGD and biopsy,$858.42,MA
+Emerson Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$16,529.51",MA
+Emerson Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$45.60,MA
+Emerson Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$45.60,MA
+Emerson Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$95.76,MA
+Emerson Hospital,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$114.00,MA
+Emerson Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$997.27,MA
+Emerson Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$80.37,MA
+Emerson Hospital,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$36,410.57",MA
+Emerson Hospital,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$97.47,MA
+Emerson Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$888.06,MA
+Emerson Hospital,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$1,071.60",MA
+Emerson Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$881.79,MA
+Emerson Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$417.24,MA
+Emerson Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$29,789.59",MA
+Emerson Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$40,196.78",MA
+Emerson Hospital,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$347.13,MA
+Emerson Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$8,472.86",MA
+Emerson Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$7,365.70",MA
+Emerson Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$510.72,MA
+Emerson Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$163.59,MA
+Emerson Hospital,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$140.79,MA
+Emerson Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$15.96,MA
+Emerson Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,371.99",MA
+Emerson Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,056.21",MA
+Emerson Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,371.99",MA

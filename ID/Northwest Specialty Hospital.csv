@@ -1,0 +1,332 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Northwest Specialty Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes",$989.31,ID
+Northwest Specialty Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$103.31,ID
+Northwest Specialty Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$189.89,ID
+Northwest Specialty Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$331.43,ID
+Northwest Specialty Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$522.05,ID
+Northwest Specialty Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$748.68,ID
+Northwest Specialty Hospital,Hospital,HCPCS 99219,Hospital observation care typically 30 minutes,-,ID
+Northwest Specialty Hospital,Hospital,HCPCS 99218,Hospital Observation per Hour,-,ID
+Northwest Specialty Hospital,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),-,ID
+Northwest Specialty Hospital,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),-,ID
+Northwest Specialty Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",-,ID
+Northwest Specialty Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",-,ID
+Northwest Specialty Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",-,ID
+Northwest Specialty Hospital,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",-,ID
+Northwest Specialty Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",-,ID
+Northwest Specialty Hospital,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$194.94,ID
+Northwest Specialty Hospital,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$194.94,ID
+Northwest Specialty Hospital,Psychology,HCPCS 90853,Group psychotherapy,$116.55,ID
+Northwest Specialty Hospital,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$194.94,ID
+Northwest Specialty Hospital,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$194.94,ID
+Northwest Specialty Hospital,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$194.94,ID
+Northwest Specialty Hospital,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$194.94,ID
+Northwest Specialty Hospital,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,-,ID
+Northwest Specialty Hospital,Speech,HCPCS 92507,Speech Therapy,-,ID
+Northwest Specialty Hospital,Speech,HCPCS 92610,Swallow Evaluation,-,ID
+Northwest Specialty Hospital,Speech,HCPCS 92526,Swallow Treatment,-,ID
+Northwest Specialty Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$3.56,ID
+Northwest Specialty Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$3.56,ID
+Northwest Specialty Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$7.13,ID
+Northwest Specialty Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$19.31,ID
+Northwest Specialty Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$6.44,ID
+Northwest Specialty Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$9.02,ID
+Northwest Specialty Hospital,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$5.91,ID
+Northwest Specialty Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$11.66,ID
+Northwest Specialty Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$9.71,ID
+Northwest Specialty Hospital,Blood,HCPCS 85008,Microscopic examination for white blood cells,$5.15,ID
+Northwest Specialty Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$5.70,ID
+Northwest Specialty Hospital,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$20.76,ID
+Northwest Specialty Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$8.27,ID
+Northwest Specialty Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$282.53,ID
+Northwest Specialty Hospital,Blood,HCPCS 85041,"Red blood count, automated test",$4.53,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$50.91,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$57.93,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$7.43,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$20.16,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$25.16,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82140,Ammonia level,$21.86,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$9.72,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$21.90,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$39.11,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$13.53,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$24.27,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$7.53,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$7.53,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$7.68,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$5.90,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$7.56,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 84295,Blood sodium level,$7.22,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$8.61,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$7.14,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$25.20,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82310,Calcium level,$7.74,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$7.32,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$28.44,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82465,Cholesterol level,$6.53,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82525,Copper level,$18.62,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$24.45,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$31.22,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$9.77,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$22.62,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$37.91,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$57.75,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$20.45,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$22.05,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$13.95,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$10.80,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$14.57,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$27.87,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$27.78,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$18.87,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 83718,HDL cholesterol level,$12.29,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 83020,Hemoglobin Measurement,$19.31,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$26.88,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$40.76,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 83520,IgE (immune system protein) level,$25.91,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$17.15,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$20.52,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$13.11,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 83540,Iron level,$9.71,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$9.06,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$15.75,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$10.34,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$7.77,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$21.27,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$27.09,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 83735,Magnesium Level,$10.05,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$36.14,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$20.40,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$16.73,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 83918,Organic acid level,$35.40,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 83945,Oxalate level,$21.68,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 83970,Parathormone,$61.92,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$11.46,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$6.00,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$27.60,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$29.07,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$16.11,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$6.57,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$38.72,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$38.21,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 84479,"Thyroid Hormone, T3 Measurement, Free",$9.71,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$76.29,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$10.31,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$5.51,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$5.51,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$26.75,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 84560,Uric acid level,$7.62,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$6.78,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82340,Urine calcium level,$9.05,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82436,Urine chloride level,$8.63,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$8.67,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$10.23,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$22.07,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 84133,Urine potassium level,$7.10,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 84300,Urine sodium level,$7.59,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 84591,Vitamin B-6 level,$25.59,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$44.40,ID
+Northwest Specialty Hospital,Chemistry,HCPCS 84630,Zinc level,$17.09,ID
+Northwest Specialty Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$25.55,ID
+Northwest Specialty Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$21.59,ID
+Northwest Specialty Hospital,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$21.59,ID
+Northwest Specialty Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$19.79,ID
+Northwest Specialty Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$13.34,ID
+Northwest Specialty Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$21.41,ID
+Northwest Specialty Hospital,Immunology,HCPCS 86318,Covid-19 antibody test,$27.14,ID
+Northwest Specialty Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$20.61,ID
+Northwest Specialty Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$18.08,ID
+Northwest Specialty Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$16.11,ID
+Northwest Specialty Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$22.49,ID
+Northwest Specialty Hospital,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$33.51,ID
+Northwest Specialty Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$7.77,ID
+Northwest Specialty Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$7.83,ID
+Northwest Specialty Hospital,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$18.08,ID
+Northwest Specialty Hospital,Immunology,HCPCS 86161,Measurement of complement (immune system proteins),$18.00,ID
+Northwest Specialty Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$18.59,ID
+Northwest Specialty Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$21.83,ID
+Northwest Specialty Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$8.51,ID
+Northwest Specialty Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$7.77,ID
+Northwest Specialty Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$6.41,ID
+Northwest Specialty Hospital,Immunology,HCPCS 86361,T cell count and ratio,$40.17,ID
+Northwest Specialty Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$70.47,ID
+Northwest Specialty Hospital,Immunology,HCPCS 86359,"T cells count, total",$56.60,ID
+Northwest Specialty Hospital,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$23.87,ID
+Northwest Specialty Hospital,Immunology,HCPCS 86580,Tuberculosis Test,$34.12,ID
+Northwest Specialty Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$7.77,ID
+Northwest Specialty Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$12.93,ID
+Northwest Specialty Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$12.11,ID
+Northwest Specialty Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$52.64,ID
+Northwest Specialty Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$55.91,ID
+Northwest Specialty Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$17.97,ID
+Northwest Specialty Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$64.26,ID
+Northwest Specialty Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$15.50,ID
+Northwest Specialty Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$127.65,ID
+Northwest Specialty Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$52.64,ID
+Northwest Specialty Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$64.26,ID
+Northwest Specialty Hospital,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$36.12,ID
+Northwest Specialty Hospital,Microbiology,HCPCS 87624,HPV Detection,$52.64,ID
+Northwest Specialty Hospital,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$29.61,ID
+Northwest Specialty Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$19.58,ID
+Northwest Specialty Hospital,Microbiology,HCPCS 86747,Parvovirus antibody test,$22.55,ID
+Northwest Specialty Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$21.59,ID
+Northwest Specialty Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$19.32,ID
+Northwest Specialty Hospital,Microbiology,HCPCS 87207,Smear for infectious agents,$8.99,ID
+Northwest Specialty Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$13.35,ID
+Northwest Specialty Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$8.09,ID
+Northwest Specialty Hospital,Microbiology,HCPCS 87045,Stool Culture,$14.16,ID
+Northwest Specialty Hospital,Microbiology,HCPCS 87880,Strep Test,$24.80,ID
+Northwest Specialty Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$24.83,ID
+Northwest Specialty Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$19.86,ID
+Northwest Specialty Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$19.32,ID
+Northwest Specialty Hospital,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$98.04,ID
+Northwest Specialty Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$71.45,ID
+Northwest Specialty Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$12.69,ID
+Northwest Specialty Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$15.84,ID
+Northwest Specialty Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$20.09,ID
+Northwest Specialty Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$13.02,ID
+Northwest Specialty Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$12.26,ID
+Northwest Specialty Hospital,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$71.72,ID
+Northwest Specialty Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$73.41,ID
+Northwest Specialty Hospital,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$27.96,ID
+Northwest Specialty Hospital,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$27.08,ID
+Northwest Specialty Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$19.92,ID
+Northwest Specialty Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$93.21,ID
+Northwest Specialty Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$19.88,ID
+Northwest Specialty Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$9.92,ID
+Northwest Specialty Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$22.95,ID
+Northwest Specialty Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$19.88,ID
+Northwest Specialty Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$20.60,ID
+Northwest Specialty Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$20.31,ID
+Northwest Specialty Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$20.31,ID
+Northwest Specialty Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$4.49,ID
+Northwest Specialty Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$4.49,ID
+Northwest Specialty Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$212.95,ID
+Northwest Specialty Hospital,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$49.61,ID
+Northwest Specialty Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$8.09,ID
+Northwest Specialty Hospital,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$11.63,ID
+Northwest Specialty Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$14.66,ID
+Northwest Specialty Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$3.38,ID
+Northwest Specialty Hospital,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$5.22,ID
+Northwest Specialty Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$4.76,ID
+Northwest Specialty Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$12.92,ID
+Northwest Specialty Hospital,Cardiovascular,HCPCS 93015,"Cardiovascular stress test, with interpretation and report",-,ID
+Northwest Specialty Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$375.60,ID
+Northwest Specialty Hospital,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",-,ID
+Northwest Specialty Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$81.63,ID
+Northwest Specialty Hospital,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$81.63,ID
+Northwest Specialty Hospital,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$161.80,ID
+Northwest Specialty Hospital,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,-,ID
+Northwest Specialty Hospital,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),$720.64,ID
+Northwest Specialty Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,$345.83,ID
+Northwest Specialty Hospital,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,-,ID
+Northwest Specialty Hospital,Pulmonary,HCPCS 94640,Nebulizer Treatment,$272.99,ID
+Northwest Specialty Hospital,Pulmonary,HCPCS 94618,Pulmonary stress test,$161.80,ID
+Northwest Specialty Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$205.31,ID
+Northwest Specialty Hospital,Sleep,HCPCS 95810,Sleep study,"$1,348.86",ID
+Northwest Specialty Hospital,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),-,ID
+Northwest Specialty Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",-,ID
+Northwest Specialty Hospital,Breast,HCPCS 77067,Mammogram Screening,-,ID
+Northwest Specialty Hospital,Breast,HCPCS 77066,Mammography of both breasts,-,ID
+Northwest Specialty Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,$270.41,ID
+Northwest Specialty Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$166.32,ID
+Northwest Specialty Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$166.32,ID
+Northwest Specialty Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$166.32,ID
+Northwest Specialty Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,$566.66,ID
+Northwest Specialty Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,$450.00,ID
+Northwest Specialty Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$345.83,ID
+Northwest Specialty Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$270.41,ID
+Northwest Specialty Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,$270.41,ID
+Northwest Specialty Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$270.41,ID
+Northwest Specialty Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$166.32,ID
+Northwest Specialty Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$270.41,ID
+Northwest Specialty Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$270.41,ID
+Northwest Specialty Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)",$345.83,ID
+Northwest Specialty Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,$345.83,ID
+Northwest Specialty Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$345.83,ID
+Northwest Specialty Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,$566.66,ID
+Northwest Specialty Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,$345.83,ID
+Northwest Specialty Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,$566.66,ID
+Northwest Specialty Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,$566.66,ID
+Northwest Specialty Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$345.83,ID
+Northwest Specialty Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,$566.66,ID
+Northwest Specialty Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$345.83,ID
+Northwest Specialty Hospital,MRI,HCPCS 73721,MRI scan of leg joint,$345.83,ID
+Northwest Specialty Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$166.32,ID
+Northwest Specialty Hospital,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$166.32,ID
+Northwest Specialty Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$166.32,ID
+Northwest Specialty Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$166.32,ID
+Northwest Specialty Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,-,ID
+Northwest Specialty Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$166.32,ID
+Northwest Specialty Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$166.32,ID
+Northwest Specialty Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$166.32,ID
+Northwest Specialty Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$166.32,ID
+Northwest Specialty Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$166.32,ID
+Northwest Specialty Hospital,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$155.00,ID
+Northwest Specialty Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$166.32,ID
+Northwest Specialty Hospital,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$166.32,ID
+Northwest Specialty Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$59.33,ID
+Northwest Specialty Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$54.50,ID
+Northwest Specialty Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$118.44,ID
+Northwest Specialty Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$166.32,ID
+Northwest Specialty Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$98.50,ID
+Northwest Specialty Hospital,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$166.32,ID
+Northwest Specialty Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$166.32,ID
+Northwest Specialty Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$88.00,ID
+Northwest Specialty Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$118.44,ID
+Northwest Specialty Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$151.00,ID
+Northwest Specialty Hospital,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$166.32,ID
+Northwest Specialty Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$118.44,ID
+Northwest Specialty Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$166.32,ID
+Northwest Specialty Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$58.00,ID
+Northwest Specialty Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$118.44,ID
+Northwest Specialty Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$118.44,ID
+Northwest Specialty Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$118.44,ID
+Northwest Specialty Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$118.44,ID
+Northwest Specialty Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$118.44,ID
+Northwest Specialty Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$118.44,ID
+Northwest Specialty Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$118.44,ID
+Northwest Specialty Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$118.44,ID
+Northwest Specialty Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$118.44,ID
+Northwest Specialty Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$166.32,ID
+Northwest Specialty Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$118.44,ID
+Northwest Specialty Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$166.32,ID
+Northwest Specialty Hospital,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$56.50,ID
+Northwest Specialty Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$85.50,ID
+Northwest Specialty Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$106.00,ID
+Northwest Specialty Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$118.44,ID
+Northwest Specialty Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$118.44,ID
+Northwest Specialty Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$166.32,ID
+Northwest Specialty Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$118.44,ID
+Northwest Specialty Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$59.50,ID
+Northwest Specialty Hospital,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$118.44,ID
+Northwest Specialty Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$118.44,ID
+Northwest Specialty Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$118.44,ID
+Northwest Specialty Hospital,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$10,516.72",ID
+Northwest Specialty Hospital,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$2,628.94",ID
+Northwest Specialty Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$7,173.13",ID
+Northwest Specialty Hospital,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$7,173.13",ID
+Northwest Specialty Hospital,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,"$6,279.64",ID
+Northwest Specialty Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$6,279.64",ID
+Northwest Specialty Hospital,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,$825.88,ID
+Northwest Specialty Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$4,614.20",ID
+Northwest Specialty Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$161.80,ID
+Northwest Specialty Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$161.80,ID
+Northwest Specialty Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$12,467.63",ID
+Northwest Specialty Hospital,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,"$6,279.64",ID
+Northwest Specialty Hospital,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$7,173.13",ID
+Northwest Specialty Hospital,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$6,279.64",ID
+Northwest Specialty Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$7,173.13",ID
+Northwest Specialty Hospital,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$12,484.89",ID
+Northwest Specialty Hospital,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$7,173.13",ID
+Northwest Specialty Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$4,479.45",ID
+Northwest Specialty Hospital,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$4,614.20",ID
+Northwest Specialty Hospital,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$4,614.20",ID
+Northwest Specialty Hospital,Breast,HCPCS 19101,Biopsy of breast,"$4,495.79",ID
+Northwest Specialty Hospital,Breast,HCPCS 19325,Breast enlargement using prosthetic implant,"$12,073.01",ID
+Northwest Specialty Hospital,Breast,HCPCS 19125,Excision of breast lesion,"$4,495.79",ID
+Northwest Specialty Hospital,Breast,HCPCS 19120,Excision of cyst of breast,"$4,495.79",ID
+Northwest Specialty Hospital,Breast,HCPCS 19301,Partial removal of breast,"$4,495.79",ID
+Northwest Specialty Hospital,Breast,HCPCS 19318,Reduction mammaplasty,"$7,772.03",ID
+Northwest Specialty Hospital,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$7,772.03",ID
+Northwest Specialty Hospital,Breast,HCPCS 19303,Total removal of breast,"$7,772.03",ID

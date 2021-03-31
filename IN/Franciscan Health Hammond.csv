@@ -1,0 +1,318 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Franciscan Health Hammond,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$1,087.56",IN
+Franciscan Health Hammond,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$2,900.16",IN
+Franciscan Health Hammond,Emergency Care,HCPCS 99281,Emergency Level 1,$217.51,IN
+Franciscan Health Hammond,Emergency Care,HCPCS 99282,Emergency Level 2,$435.02,IN
+Franciscan Health Hammond,Emergency Care,HCPCS 99283,Emergency Level 3,"$1,015.06",IN
+Franciscan Health Hammond,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,450.08",IN
+Franciscan Health Hammond,Emergency Care,HCPCS 99285,Emergency Level 5,"$2,175.12",IN
+Franciscan Health Hammond,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$283.18,IN
+Franciscan Health Hammond,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$384.41,IN
+Franciscan Health Hammond,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$246.92,IN
+Franciscan Health Hammond,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$166.90,IN
+Franciscan Health Hammond,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$239.40,IN
+Franciscan Health Hammond,Speech,HCPCS 92507,Speech Therapy,$138.17,IN
+Franciscan Health Hammond,Speech,HCPCS 92610,Swallow Evaluation,$196.31,IN
+Franciscan Health Hammond,Speech,HCPCS 92526,Swallow Treatment,$138.17,IN
+Franciscan Health Hammond,Blood,HCPCS 85018,"Blood count, hemoglobin",$14.36,IN
+Franciscan Health Hammond,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$25.31,IN
+Franciscan Health Hammond,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$72.50,IN
+Franciscan Health Hammond,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$138.17,IN
+Franciscan Health Hammond,Blood,HCPCS 85610,"Blood test, clotting time",$6.84,IN
+Franciscan Health Hammond,Blood,HCPCS 85730,Coagulation assessment blood test,$58.14,IN
+Franciscan Health Hammond,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$33.52,IN
+Franciscan Health Hammond,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$101.92,IN
+Franciscan Health Hammond,Blood,HCPCS 85027,"Complete blood count, automated",$80.03,IN
+Franciscan Health Hammond,Blood,HCPCS 85008,Microscopic examination for white blood cells,$29.41,IN
+Franciscan Health Hammond,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$43.78,IN
+Franciscan Health Hammond,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$210.67,IN
+Franciscan Health Hammond,Blood,HCPCS 85660,Red blood cell sickling measurement,$108.76,IN
+Franciscan Health Hammond,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$551.30,IN
+Franciscan Health Hammond,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$232.56,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$196.31,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82040,Albumin (protein) level,$43.78,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$188.78,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$181.26,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82140,Ammonia level,$80.03,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82150,Amylase (enzyme) level,$108.76,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$145.01,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$116.28,IN
+Franciscan Health Hammond,Chemistry,HCPCS 84439,Assay of free thyroxine,$152.53,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$196.31,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82248,Bilirubin level (Direct),$51.30,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82247,Bilirubin level (Total),$43.78,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82565,Blood creatinine level,$43.78,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$51.30,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$32.15,IN
+Franciscan Health Hammond,Chemistry,HCPCS 84295,Blood sodium level,$43.78,IN
+Franciscan Health Hammond,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$43.78,IN
+Franciscan Health Hammond,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$160.06,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82310,Calcium level,$65.66,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$43.78,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$174.42,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82465,Cholesterol level,$72.50,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82525,Copper level,$123.80,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82533,Cortisol Measurement,$145.01,IN
+Franciscan Health Hammond,Chemistry,HCPCS 84681,C-peptide (protein) level,$101.92,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$80.03,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$160.06,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$225.04,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$166.90,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$116.28,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82746,Folic acid; serum,$138.17,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$101.92,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$87.55,IN
+Franciscan Health Hammond,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$123.80,IN
+Franciscan Health Hammond,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$166.90,IN
+Franciscan Health Hammond,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$160.06,IN
+Franciscan Health Hammond,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$80.03,IN
+Franciscan Health Hammond,Chemistry,HCPCS 83718,HDL cholesterol level,$87.55,IN
+Franciscan Health Hammond,Chemistry,HCPCS 83020,Hemoglobin Measurement,$80.03,IN
+Franciscan Health Hammond,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$160.06,IN
+Franciscan Health Hammond,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$101.92,IN
+Franciscan Health Hammond,Chemistry,HCPCS 83520,IgE (immune system protein) level,$94.39,IN
+Franciscan Health Hammond,Chemistry,HCPCS 83525,Insulin Measurement; Total,$94.39,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82330,Ionized Calcium,$94.39,IN
+Franciscan Health Hammond,Chemistry,HCPCS 83550,Iron Binding Capacity,$87.55,IN
+Franciscan Health Hammond,Chemistry,HCPCS 83540,Iron level,$65.66,IN
+Franciscan Health Hammond,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$80.03,IN
+Franciscan Health Hammond,Chemistry,HCPCS 83721,LDL cholesterol level,$101.92,IN
+Franciscan Health Hammond,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$101.92,IN
+Franciscan Health Hammond,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$87.55,IN
+Franciscan Health Hammond,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$123.80,IN
+Franciscan Health Hammond,Chemistry,HCPCS 83021,Liver function blood test panel,$62.24,IN
+Franciscan Health Hammond,Chemistry,HCPCS 83735,Magnesium Level,$65.66,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82542,Mass spectrometry,$72.50,IN
+Franciscan Health Hammond,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$101.92,IN
+Franciscan Health Hammond,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$87.55,IN
+Franciscan Health Hammond,Chemistry,HCPCS 83918,Organic acid level,$246.92,IN
+Franciscan Health Hammond,Chemistry,HCPCS 83945,Oxalate level,$94.39,IN
+Franciscan Health Hammond,Chemistry,HCPCS 83970,Parathormone,$181.26,IN
+Franciscan Health Hammond,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$138.17,IN
+Franciscan Health Hammond,Chemistry,HCPCS 84157,Prealbumin (protein) level,$72.50,IN
+Franciscan Health Hammond,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$152.53,IN
+Franciscan Health Hammond,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$210.67,IN
+Franciscan Health Hammond,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$130.64,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82270,Stool analysis for blood,$36.25,IN
+Franciscan Health Hammond,Chemistry,HCPCS 84403,Testosterone (hormone) level,$188.78,IN
+Franciscan Health Hammond,Chemistry,HCPCS 84402,Testosterone Level; Free,$181.26,IN
+Franciscan Health Hammond,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement",$123.80,IN
+Franciscan Health Hammond,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$217.51,IN
+Franciscan Health Hammond,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$130.64,IN
+Franciscan Health Hammond,Chemistry,HCPCS 84155,"Total protein level, blood",$72.50,IN
+Franciscan Health Hammond,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$72.50,IN
+Franciscan Health Hammond,Chemistry,HCPCS 84478,Triglycerides level,$101.92,IN
+Franciscan Health Hammond,Chemistry,HCPCS 84166,Troponin (protein) analysis,$87.55,IN
+Franciscan Health Hammond,Chemistry,HCPCS 84560,Uric acid level,$51.30,IN
+Franciscan Health Hammond,Chemistry,HCPCS 84550,"Uric acid level, blood",$58.14,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82340,Urine calcium level,$51.30,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82436,Urine chloride level,$51.30,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$116.28,IN
+Franciscan Health Hammond,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$58.14,IN
+Franciscan Health Hammond,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$232.56,IN
+Franciscan Health Hammond,Chemistry,HCPCS 84133,Urine potassium level,$51.30,IN
+Franciscan Health Hammond,Chemistry,HCPCS 84300,Urine sodium level,$43.78,IN
+Franciscan Health Hammond,Chemistry,HCPCS 84591,Vitamin B-6 level,$116.28,IN
+Franciscan Health Hammond,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$101.92,IN
+Franciscan Health Hammond,Chemistry,HCPCS 84630,Zinc level,$94.39,IN
+Franciscan Health Hammond,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$116.28,IN
+Franciscan Health Hammond,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$138.17,IN
+Franciscan Health Hammond,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$94.39,IN
+Franciscan Health Hammond,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$101.92,IN
+Franciscan Health Hammond,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$123.80,IN
+Franciscan Health Hammond,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$188.78,IN
+Franciscan Health Hammond,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$80.03,IN
+Franciscan Health Hammond,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$123.80,IN
+Franciscan Health Hammond,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$138.17,IN
+Franciscan Health Hammond,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$43.78,IN
+Franciscan Health Hammond,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$188.78,IN
+Franciscan Health Hammond,Immunology,HCPCS 86140,Measurement C-reactive protein,$87.55,IN
+Franciscan Health Hammond,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$22.57,IN
+Franciscan Health Hammond,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$160.06,IN
+Franciscan Health Hammond,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$101.92,IN
+Franciscan Health Hammond,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$130.64,IN
+Franciscan Health Hammond,Immunology,HCPCS 86431,Rheumatoid factor level,$101.92,IN
+Franciscan Health Hammond,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$138.17,IN
+Franciscan Health Hammond,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$65.66,IN
+Franciscan Health Hammond,Immunology,HCPCS 86580,Skin test for tuberculosis,$19.84,IN
+Franciscan Health Hammond,Immunology,HCPCS 86592,Syphilis Detection Test,$58.14,IN
+Franciscan Health Hammond,Immunology,HCPCS 86361,T cell count and ratio,$80.03,IN
+Franciscan Health Hammond,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$138.17,IN
+Franciscan Health Hammond,Immunology,HCPCS 86359,"T cells count, total",$116.28,IN
+Franciscan Health Hammond,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$101.92,IN
+Franciscan Health Hammond,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$20.52,IN
+Franciscan Health Hammond,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$101.92,IN
+Franciscan Health Hammond,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$80.03,IN
+Franciscan Health Hammond,Microbiology,HCPCS 87491,Chlamydia Test,$145.01,IN
+Franciscan Health Hammond,Microbiology,HCPCS 87635,Covid-19 current infection test,$188.10,IN
+Franciscan Health Hammond,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$181.26,IN
+Franciscan Health Hammond,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$87.55,IN
+Franciscan Health Hammond,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$188.78,IN
+Franciscan Health Hammond,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$152.53,IN
+Franciscan Health Hammond,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$290.02,IN
+Franciscan Health Hammond,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$145.01,IN
+Franciscan Health Hammond,Microbiology,HCPCS 87517,Hepatitis B Detection,$130.64,IN
+Franciscan Health Hammond,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$123.80,IN
+Franciscan Health Hammond,Microbiology,HCPCS 87624,HPV Detection,$138.17,IN
+Franciscan Health Hammond,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$43.78,IN
+Franciscan Health Hammond,Microbiology,HCPCS 86735,Mumps virus antibody test,$116.28,IN
+Franciscan Health Hammond,Microbiology,HCPCS 86747,Parvovirus antibody test,$58.14,IN
+Franciscan Health Hammond,Microbiology,HCPCS 86762,Rubella virus antibody test,$130.64,IN
+Franciscan Health Hammond,Microbiology,HCPCS 86765,Rubeola virus antibody test,$108.76,IN
+Franciscan Health Hammond,Microbiology,HCPCS 87207,Smear for infectious agents,$65.66,IN
+Franciscan Health Hammond,Microbiology,HCPCS 87177,Smear for Parasites,$116.28,IN
+Franciscan Health Hammond,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$58.14,IN
+Franciscan Health Hammond,Microbiology,HCPCS 87045,Stool Culture,$87.55,IN
+Franciscan Health Hammond,Microbiology,HCPCS 87804,Test for Influenza Virus,$72.50,IN
+Franciscan Health Hammond,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$94.39,IN
+Franciscan Health Hammond,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$101.92,IN
+Franciscan Health Hammond,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$268.81,IN
+Franciscan Health Hammond,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$428.18,IN
+Franciscan Health Hammond,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$108.76,IN
+Franciscan Health Hammond,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$253.76,IN
+Franciscan Health Hammond,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$196.31,IN
+Franciscan Health Hammond,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$181.26,IN
+Franciscan Health Hammond,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$232.56,IN
+Franciscan Health Hammond,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$471.28,IN
+Franciscan Health Hammond,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$123.80,IN
+Franciscan Health Hammond,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$160.06,IN
+Franciscan Health Hammond,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$174.42,IN
+Franciscan Health Hammond,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$94.39,IN
+Franciscan Health Hammond,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$181.26,IN
+Franciscan Health Hammond,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$116.28,IN
+Franciscan Health Hammond,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$87.55,IN
+Franciscan Health Hammond,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$116.28,IN
+Franciscan Health Hammond,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$123.80,IN
+Franciscan Health Hammond,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$217.51,IN
+Franciscan Health Hammond,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$123.80,IN
+Franciscan Health Hammond,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$130.64,IN
+Franciscan Health Hammond,Transfusion,HCPCS 86900,"Blood Typing, ABO",$94.39,IN
+Franciscan Health Hammond,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$72.50,IN
+Franciscan Health Hammond,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$174.42,IN
+Franciscan Health Hammond,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$87.55,IN
+Franciscan Health Hammond,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$72.50,IN
+Franciscan Health Hammond,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$116.28,IN
+Franciscan Health Hammond,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$80.03,IN
+Franciscan Health Hammond,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$58.14,IN
+Franciscan Health Hammond,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$43.78,IN
+Franciscan Health Hammond,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$58.14,IN
+Franciscan Health Hammond,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$87.55,IN
+Franciscan Health Hammond,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$1,015.06",IN
+Franciscan Health Hammond,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$268.81,IN
+Franciscan Health Hammond,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$565.67,IN
+Franciscan Health Hammond,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$1,450.08",IN
+Franciscan Health Hammond,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,160.06",IN
+Franciscan Health Hammond,Pulmonary,HCPCS 94729,CO Diffusion Capacity,$210.67,IN
+Franciscan Health Hammond,Pulmonary,HCPCS 94640,Nebulizer Treatment,$116.28,IN
+Franciscan Health Hammond,Pulmonary,HCPCS 94618,Pulmonary stress test,$210.67,IN
+Franciscan Health Hammond,Pulmonary,HCPCS 94010,Spirometry - breathing test,$283.18,IN
+Franciscan Health Hammond,Sleep,HCPCS 95810,Sleep study,"$3,625.20",IN
+Franciscan Health Hammond,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$72.50,IN
+Franciscan Health Hammond,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$232.56,IN
+Franciscan Health Hammond,Breast,HCPCS 77067,Mammogram Screening,$290.02,IN
+Franciscan Health Hammond,Breast,HCPCS 77066,Mammography of both breasts,$362.52,IN
+Franciscan Health Hammond,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$2,537.64",IN
+Franciscan Health Hammond,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,450.08",IN
+Franciscan Health Hammond,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,450.08",IN
+Franciscan Health Hammond,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,450.08",IN
+Franciscan Health Hammond,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,262.68",IN
+Franciscan Health Hammond,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,900.16",IN
+Franciscan Health Hammond,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,537.64",IN
+Franciscan Health Hammond,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,740.10",IN
+Franciscan Health Hammond,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$2,030.11",IN
+Franciscan Health Hammond,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,740.10",IN
+Franciscan Health Hammond,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,450.08",IN
+Franciscan Health Hammond,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,740.10",IN
+Franciscan Health Hammond,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,740.10",IN
+Franciscan Health Hammond,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$2,537.64",IN
+Franciscan Health Hammond,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,537.64",IN
+Franciscan Health Hammond,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,537.64",IN
+Franciscan Health Hammond,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$3,262.68",IN
+Franciscan Health Hammond,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,537.64",IN
+Franciscan Health Hammond,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$3,262.68",IN
+Franciscan Health Hammond,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$3,262.68",IN
+Franciscan Health Hammond,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,537.64",IN
+Franciscan Health Hammond,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,262.68",IN
+Franciscan Health Hammond,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,537.64",IN
+Franciscan Health Hammond,MRI,HCPCS 73721,MRI scan of leg joint,"$2,537.64",IN
+Franciscan Health Hammond,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$500.69,IN
+Franciscan Health Hammond,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$507.53,IN
+Franciscan Health Hammond,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$725.04,IN
+Franciscan Health Hammond,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$667.58,IN
+Franciscan Health Hammond,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$609.44,IN
+Franciscan Health Hammond,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,305.07",IN
+Franciscan Health Hammond,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$638.17,IN
+Franciscan Health Hammond,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$500.69,IN
+Franciscan Health Hammond,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$681.95,IN
+Franciscan Health Hammond,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$587.56,IN
+Franciscan Health Hammond,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$667.58,IN
+Franciscan Health Hammond,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$580.03,IN
+Franciscan Health Hammond,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$370.04,IN
+Franciscan Health Hammond,Chest,HCPCS 71046,X-ray of chest; 2 Views,$290.02,IN
+Franciscan Health Hammond,Chest,HCPCS 71045,X-ray of chest; Single View,$188.78,IN
+Franciscan Health Hammond,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$326.27,IN
+Franciscan Health Hammond,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$398.77,IN
+Franciscan Health Hammond,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$355.68,IN
+Franciscan Health Hammond,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$645.70,IN
+Franciscan Health Hammond,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$558.83,IN
+Franciscan Health Hammond,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$232.56,IN
+Franciscan Health Hammond,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$275.65,IN
+Franciscan Health Hammond,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$529.42,IN
+Franciscan Health Hammond,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views","$1,015.06",IN
+Franciscan Health Hammond,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$652.54,IN
+Franciscan Health Hammond,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$261.29,IN
+Franciscan Health Hammond,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$370.04,IN
+Franciscan Health Hammond,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$268.81,IN
+Franciscan Health Hammond,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$311.90,IN
+Franciscan Health Hammond,Lower Limbs,HCPCS 73565,X-ray Both Knees,$290.02,IN
+Franciscan Health Hammond,Lower Limbs,HCPCS 73630,X-ray exam of foot,$333.79,IN
+Franciscan Health Hammond,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$311.90,IN
+Franciscan Health Hammond,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$370.04,IN
+Franciscan Health Hammond,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$261.29,IN
+Franciscan Health Hammond,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$246.92,IN
+Franciscan Health Hammond,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$253.76,IN
+Franciscan Health Hammond,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$398.77,IN
+Franciscan Health Hammond,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$290.02,IN
+Franciscan Health Hammond,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$616.28,IN
+Franciscan Health Hammond,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$305.06,IN
+Franciscan Health Hammond,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$384.41,IN
+Franciscan Health Hammond,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$428.18,IN
+Franciscan Health Hammond,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$348.16,IN
+Franciscan Health Hammond,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$232.56,IN
+Franciscan Health Hammond,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$225.04,IN
+Franciscan Health Hammond,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$311.90,IN
+Franciscan Health Hammond,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$341.32,IN
+Franciscan Health Hammond,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$297.54,IN
+Franciscan Health Hammond,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$311.90,IN
+Franciscan Health Hammond,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$311.90,IN
+Franciscan Health Hammond,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,IN
+Franciscan Health Hammond,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,$942.55,IN
+Franciscan Health Hammond,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$160.06,IN
+Franciscan Health Hammond,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$145.01,IN
+Franciscan Health Hammond,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,IN
+Franciscan Health Hammond,Breast,HCPCS 19101,Biopsy of breast,"$2,030.11",IN
+Franciscan Health Hammond,Breast,HCPCS 19125,Excision of breast lesion,"$3,407.69",IN
+Franciscan Health Hammond,Breast,HCPCS 19120,Excision of cyst of breast,"$3,697.70",IN
+Franciscan Health Hammond,Cardiac,HCPCS 33249,Defibrillator complete system,"$31,176.72",IN
+Franciscan Health Hammond,Cardiac,HCPCS 33240,Defibrillator generator,"$39,877.20",IN
+Franciscan Health Hammond,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$7,975.44",IN
+Franciscan Health Hammond,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$9,425.52",IN
+Franciscan Health Hammond,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$688.79,IN
+Franciscan Health Hammond,Cardiac,MSDRG 247,Implant drug-eluting stent,-,IN
+Franciscan Health Hammond,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,IN
+Franciscan Health Hammond,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$19,576.08",IN
+Franciscan Health Hammond,General,HCPCS 55700,Biopsy of prostate gland,"$3,552.70",IN
+Franciscan Health Hammond,General,HCPCS 10060,Drainage of Abscess,$253.76,IN
+Franciscan Health Hammond,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$268.81,IN
+Franciscan Health Hammond,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$2,392.63",IN
+Franciscan Health Hammond,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$2,682.65",IN
+Franciscan Health Hammond,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$2,175.12",IN
+Franciscan Health Hammond,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$1,305.07",IN
+Franciscan Health Hammond,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,IN
+Franciscan Health Hammond,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,IN
+Franciscan Health Hammond,Soft Tissue,HCPCS 97597,Debridement of open wound,$377.57,IN
+Franciscan Health Hammond,Soft Tissue,HCPCS 97602,Non-selective debridement,$160.06,IN
+Franciscan Health Hammond,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$138.17,IN
+Franciscan Health Hammond,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,667.59",IN
+Franciscan Health Hammond,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$507.53,IN
+Franciscan Health Hammond,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$3,697.70",IN

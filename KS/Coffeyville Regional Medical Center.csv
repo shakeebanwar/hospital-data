@@ -1,0 +1,140 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Coffeyville Regional Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$2,319.24",KS
+Coffeyville Regional Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,918.56",KS
+Coffeyville Regional Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,-,KS
+Coffeyville Regional Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$525.00,KS
+Coffeyville Regional Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,$883.68,KS
+Coffeyville Regional Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,303.68",KS
+Coffeyville Regional Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",-,KS
+Coffeyville Regional Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",-,KS
+Coffeyville Regional Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min","$1,957.20",KS
+Coffeyville Regional Medical Center,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",-,KS
+Coffeyville Regional Medical Center,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",-,KS
+Coffeyville Regional Medical Center,Speech,HCPCS 92507,Speech Therapy,-,KS
+Coffeyville Regional Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$37.80,KS
+Coffeyville Regional Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$34.44,KS
+Coffeyville Regional Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",-,KS
+Coffeyville Regional Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$30.24,KS
+Coffeyville Regional Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$69.72,KS
+Coffeyville Regional Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$312.48,KS
+Coffeyville Regional Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$33.60,KS
+Coffeyville Regional Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$501.48,KS
+Coffeyville Regional Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$73.92,KS
+Coffeyville Regional Medical Center,Chemistry,HCPCS 82140,Ammonia level,$131.88,KS
+Coffeyville Regional Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$477.12,KS
+Coffeyville Regional Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$41.16,KS
+Coffeyville Regional Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,-,KS
+Coffeyville Regional Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$571.20,KS
+Coffeyville Regional Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,-,KS
+Coffeyville Regional Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,-,KS
+Coffeyville Regional Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$75.60,KS
+Coffeyville Regional Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$137.76,KS
+Coffeyville Regional Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$141.12,KS
+Coffeyville Regional Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$81.48,KS
+Coffeyville Regional Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,-,KS
+Coffeyville Regional Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,-,KS
+Coffeyville Regional Medical Center,Chemistry,HCPCS 83540,Iron level,-,KS
+Coffeyville Regional Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,-,KS
+Coffeyville Regional Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$77.28,KS
+Coffeyville Regional Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$74.76,KS
+Coffeyville Regional Medical Center,Chemistry,HCPCS 83970,Parathormone,$512.40,KS
+Coffeyville Regional Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$52.92,KS
+Coffeyville Regional Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$137.76,KS
+Coffeyville Regional Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$88.20,KS
+Coffeyville Regional Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",-,KS
+Coffeyville Regional Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",-,KS
+Coffeyville Regional Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$51.24,KS
+Coffeyville Regional Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$659.11,KS
+Coffeyville Regional Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$56.28,KS
+Coffeyville Regional Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",-,KS
+Coffeyville Regional Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$75.60,KS
+Coffeyville Regional Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,-,KS
+Coffeyville Regional Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,-,KS
+Coffeyville Regional Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$547.96,KS
+Coffeyville Regional Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,-,KS
+Coffeyville Regional Medical Center,Microbiology,HCPCS 87045,Stool Culture,-,KS
+Coffeyville Regional Medical Center,Microbiology,HCPCS 87880,Strep Test,$57.02,KS
+Coffeyville Regional Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$73.08,KS
+Coffeyville Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$512.40,KS
+Coffeyville Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",-,KS
+Coffeyville Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",-,KS
+Coffeyville Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,-,KS
+Coffeyville Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,-,KS
+Coffeyville Regional Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$137.76,KS
+Coffeyville Regional Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,-,KS
+Coffeyville Regional Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,"$10,773.20",KS
+Coffeyville Regional Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$122.64,KS
+Coffeyville Regional Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$85.68,KS
+Coffeyville Regional Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$81.48,KS
+Coffeyville Regional Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$28.56,KS
+Coffeyville Regional Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$420.84,KS
+Coffeyville Regional Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,-,KS
+Coffeyville Regional Medical Center,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",-,KS
+Coffeyville Regional Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",-,KS
+Coffeyville Regional Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",-,KS
+Coffeyville Regional Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$73.08,KS
+Coffeyville Regional Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$529.90,KS
+Coffeyville Regional Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$207.48,KS
+Coffeyville Regional Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,$70.56,KS
+Coffeyville Regional Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$52.50,KS
+Coffeyville Regional Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral","$2,064.72",KS
+Coffeyville Regional Medical Center,Breast,HCPCS 77067,Mammogram Screening,-,KS
+Coffeyville Regional Medical Center,Breast,HCPCS 77066,Mammography of both breasts,-,KS
+Coffeyville Regional Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,479.24",KS
+Coffeyville Regional Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,037.40",KS
+Coffeyville Regional Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,009.68",KS
+Coffeyville Regional Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,-,KS
+Coffeyville Regional Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,-,KS
+Coffeyville Regional Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,-,KS
+Coffeyville Regional Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$7,291.20",KS
+Coffeyville Regional Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,391.88",KS
+Coffeyville Regional Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,307.88",KS
+Coffeyville Regional Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,160.04",KS
+Coffeyville Regional Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,842.12",KS
+Coffeyville Regional Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,-,KS
+Coffeyville Regional Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,-,KS
+Coffeyville Regional Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$3,285.24",KS
+Coffeyville Regional Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,-,KS
+Coffeyville Regional Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,-,KS
+Coffeyville Regional Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$1,644.72",KS
+Coffeyville Regional Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",-,KS
+Coffeyville Regional Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",-,KS
+Coffeyville Regional Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$599.76,KS
+Coffeyville Regional Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$2,595.60",KS
+Coffeyville Regional Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",-,KS
+Coffeyville Regional Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$439.32,KS
+Coffeyville Regional Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",-,KS
+Coffeyville Regional Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,-,KS
+Coffeyville Regional Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,-,KS
+Coffeyville Regional Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$176.40,KS
+Coffeyville Regional Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$152.88,KS
+Coffeyville Regional Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",-,KS
+Coffeyville Regional Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,-,KS
+Coffeyville Regional Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",-,KS
+Coffeyville Regional Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$273.00,KS
+Coffeyville Regional Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views","$1,778.28",KS
+Coffeyville Regional Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",-,KS
+Coffeyville Regional Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",-,KS
+Coffeyville Regional Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",-,KS
+Coffeyville Regional Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$168.00,KS
+Coffeyville Regional Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",-,KS
+Coffeyville Regional Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",-,KS
+Coffeyville Regional Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$326.76,KS
+Coffeyville Regional Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views","$1,631.28",KS
+Coffeyville Regional Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",-,KS
+Coffeyville Regional Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",-,KS
+Coffeyville Regional Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$132.72,KS
+Coffeyville Regional Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$7,376.40",KS
+Coffeyville Regional Medical Center,General,HCPCS 10060,Drainage of Abscess,$725.76,KS
+Coffeyville Regional Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,-,KS
+Coffeyville Regional Medical Center,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$8,739.78",KS
+Coffeyville Regional Medical Center,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,-,KS
+Coffeyville Regional Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$458.64,KS
+Coffeyville Regional Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$18,242.86",KS
+Coffeyville Regional Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$11,656.79",KS
+Coffeyville Regional Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$29,383.63",KS
+Coffeyville Regional Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$364.56,KS
+Coffeyville Regional Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$6,309.19",KS
+Coffeyville Regional Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$4,300.93",KS
+Coffeyville Regional Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$370.30,KS
+Coffeyville Regional Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,-,KS

@@ -1,0 +1,130 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Gritman Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,505.35",ID
+Gritman Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$39.10,ID
+Gritman Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$73.95,ID
+Gritman Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$110.50,ID
+Gritman Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,004.70",ID
+Gritman Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,559.75",ID
+Gritman Medical Center,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$95.20,ID
+Gritman Medical Center,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$110.84,ID
+Gritman Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$481.95,ID
+Gritman Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$161.69,ID
+Gritman Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$363.80,ID
+Gritman Medical Center,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$167.59,ID
+Gritman Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$12.75,ID
+Gritman Medical Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$19.74,ID
+Gritman Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$20.40,ID
+Gritman Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$31.45,ID
+Gritman Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$39.95,ID
+Gritman Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$25.54,ID
+Gritman Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$17.85,ID
+Gritman Medical Center,Chemistry,HCPCS 82140,Ammonia level,$74.80,ID
+Gritman Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$33.15,ID
+Gritman Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$201.61,ID
+Gritman Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$46.75,ID
+Gritman Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$25.50,ID
+Gritman Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$21.29,ID
+Gritman Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$80.75,ID
+Gritman Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$64.17,ID
+Gritman Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$77.35,ID
+Gritman Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$70.55,ID
+Gritman Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$70.55,ID
+Gritman Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$69.70,ID
+Gritman Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$36.55,ID
+Gritman Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$42.80,ID
+Gritman Medical Center,Chemistry,HCPCS 83540,Iron level,$26.92,ID
+Gritman Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$77.95,ID
+Gritman Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$72.25,ID
+Gritman Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$34.85,ID
+Gritman Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$47.60,ID
+Gritman Medical Center,Chemistry,HCPCS 83970,Parathormone,$212.50,ID
+Gritman Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$69.70,ID
+Gritman Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$99.45,ID
+Gritman Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$55.25,ID
+Gritman Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$120.70,ID
+Gritman Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$12.22,ID
+Gritman Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$15.22,ID
+Gritman Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$18.77,ID
+Gritman Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$24.02,ID
+Gritman Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$152.15,ID
+Gritman Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$73.95,ID
+Gritman Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$59.50,ID
+Gritman Medical Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$32.73,ID
+Gritman Medical Center,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$114.75,ID
+Gritman Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$26.35,ID
+Gritman Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$21.25,ID
+Gritman Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$74.80,ID
+Gritman Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$35.78,ID
+Gritman Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$109.49,ID
+Gritman Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$42.90,ID
+Gritman Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$181.05,ID
+Gritman Medical Center,Microbiology,HCPCS 87880,Strep Test,$48.42,ID
+Gritman Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$60.35,ID
+Gritman Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$42.50,ID
+Gritman Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$63.75,ID
+Gritman Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$47.12,ID
+Gritman Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$36.07,ID
+Gritman Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$33.93,ID
+Gritman Medical Center,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$342.38,ID
+Gritman Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$41.65,ID
+Gritman Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$42.50,ID
+Gritman Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$68.00,ID
+Gritman Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$68.00,ID
+Gritman Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$26.15,ID
+Gritman Medical Center,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$10.62,ID
+Gritman Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$53.55,ID
+Gritman Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$33.15,ID
+Gritman Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$835.55,ID
+Gritman Medical Center,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$15.95,ID
+Gritman Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$238.12,ID
+Gritman Medical Center,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$182.75,ID
+Gritman Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$296.35,ID
+Gritman Medical Center,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$8.18,ID
+Gritman Medical Center,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$126.78,ID
+Gritman Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,$16.75,ID
+Gritman Medical Center,Sleep,HCPCS 95810,Sleep study,"$3,298.40",ID
+Gritman Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$39.19,ID
+Gritman Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$221.85,ID
+Gritman Medical Center,Breast,HCPCS 77067,Mammogram Screening,$242.25,ID
+Gritman Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$273.70,ID
+Gritman Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$2,054.14",ID
+Gritman Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$764.15,ID
+Gritman Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,151.16",ID
+Gritman Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,122.45",ID
+Gritman Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$3,054.47",ID
+Gritman Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,978.83",ID
+Gritman Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,679.01",ID
+Gritman Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,114.35",ID
+Gritman Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,269.05",ID
+Gritman Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,554.75",ID
+Gritman Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,056.66",ID
+Gritman Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,059.55",ID
+Gritman Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,090.56",ID
+Gritman Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$1,275.00",ID
+Gritman Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$460.70,ID
+Gritman Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$705.50,ID
+Gritman Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$557.60,ID
+Gritman Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$460.70,ID
+Gritman Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$578.85,ID
+Gritman Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$401.20,ID
+Gritman Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$460.70,ID
+Gritman Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$317.05,ID
+Gritman Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$247.78,ID
+Gritman Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$185.30,ID
+Gritman Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$364.65,ID
+Gritman Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$363.80,ID
+Gritman Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$225.32,ID
+Gritman Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$364.65,ID
+Gritman Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$538.90,ID
+Gritman Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$433.50,ID
+Gritman Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$216.54,ID
+Gritman Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$288.15,ID
+Gritman Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$384.20,ID
+Gritman Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$288.15,ID
+Gritman Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$14,472.95",ID
+Gritman Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$257.29,ID
+Gritman Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$1,781.49",ID
+Gritman Medical Center,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$1,781.49",ID
+Gritman Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$45,369.50",ID
+Gritman Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$504.05,ID
+Gritman Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,251.20",ID

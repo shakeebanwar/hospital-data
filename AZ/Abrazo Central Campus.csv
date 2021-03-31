@@ -1,0 +1,145 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Abrazo Central Campus,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$25,495.77",AZ
+Abrazo Central Campus,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$28,219.25",AZ
+Abrazo Central Campus,Emergency Care,HCPCS 99281,Emergency Level 1,$460.94,AZ
+Abrazo Central Campus,Emergency Care,HCPCS 99282,Emergency Level 2,"$1,052.69",AZ
+Abrazo Central Campus,Emergency Care,HCPCS 99283,Emergency Level 3,"$2,209.59",AZ
+Abrazo Central Campus,Emergency Care,HCPCS 99284,Emergency Level 4,"$8,126.66",AZ
+Abrazo Central Campus,Emergency Care,HCPCS 99285,Emergency Level 5,"$14,598.75",AZ
+Abrazo Central Campus,Hospital,HCPCS 99218,Hospital Observation per Hour,"$22,271.95",AZ
+Abrazo Central Campus,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min","$18,905.25",AZ
+Abrazo Central Campus,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min","$2,328.60",AZ
+Abrazo Central Campus,Speech,HCPCS 92610,Swallow Evaluation,"$32,958.41",AZ
+Abrazo Central Campus,Blood,HCPCS 85018,"Blood count, hemoglobin",$61.40,AZ
+Abrazo Central Campus,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$71.66,AZ
+Abrazo Central Campus,Blood,HCPCS 85610,"Blood test, clotting time",$190.34,AZ
+Abrazo Central Campus,Blood,HCPCS 85730,Coagulation assessment blood test,$297.61,AZ
+Abrazo Central Campus,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$276.76,AZ
+Abrazo Central Campus,Blood,HCPCS 85027,"Complete blood count, automated",$202.19,AZ
+Abrazo Central Campus,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$105.75,AZ
+Abrazo Central Campus,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$28,580.42",AZ
+Abrazo Central Campus,Chemistry,HCPCS 82140,Ammonia level,$200.19,AZ
+Abrazo Central Campus,Chemistry,HCPCS 82150,Amylase (enzyme) level,$262.75,AZ
+Abrazo Central Campus,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$366.34,AZ
+Abrazo Central Campus,Chemistry,HCPCS 84439,Assay of free thyroxine,$258.15,AZ
+Abrazo Central Campus,Chemistry,HCPCS 82565,Blood creatinine level,$170.12,AZ
+Abrazo Central Campus,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$98.22,AZ
+Abrazo Central Campus,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$311.36,AZ
+Abrazo Central Campus,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$263.24,AZ
+Abrazo Central Campus,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$271.49,AZ
+Abrazo Central Campus,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$207.49,AZ
+Abrazo Central Campus,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$239.42,AZ
+Abrazo Central Campus,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$267.55,AZ
+Abrazo Central Campus,Chemistry,HCPCS 83550,Iron Binding Capacity,$113.72,AZ
+Abrazo Central Campus,Chemistry,HCPCS 83540,Iron level,$90.33,AZ
+Abrazo Central Campus,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$212.67,AZ
+Abrazo Central Campus,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$364.46,AZ
+Abrazo Central Campus,Chemistry,HCPCS 83735,Magnesium Level,$156.93,AZ
+Abrazo Central Campus,Chemistry,HCPCS 82270,Stool analysis for blood,$47.06,AZ
+Abrazo Central Campus,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$159.77,AZ
+Abrazo Central Campus,Chemistry,HCPCS 84550,"Uric acid level, blood",$219.29,AZ
+Abrazo Central Campus,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$172.75,AZ
+Abrazo Central Campus,Immunology,HCPCS 86140,Measurement C-reactive protein,$99.86,AZ
+Abrazo Central Campus,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$71.50,AZ
+Abrazo Central Campus,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$113.98,AZ
+Abrazo Central Campus,Microbiology,HCPCS 87491,Chlamydia Test,$109.94,AZ
+Abrazo Central Campus,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$110.73,AZ
+Abrazo Central Campus,Microbiology,HCPCS 87880,Streptoccus,$189.00,AZ
+Abrazo Central Campus,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$588.56,AZ
+Abrazo Central Campus,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$805.86,AZ
+Abrazo Central Campus,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$562.73,AZ
+Abrazo Central Campus,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$214.34,AZ
+Abrazo Central Campus,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$641.25,AZ
+Abrazo Central Campus,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$332.92,AZ
+Abrazo Central Campus,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,"$1,091.58",AZ
+Abrazo Central Campus,Transfusion,HCPCS 86900,"Blood Typing, ABO",$144.56,AZ
+Abrazo Central Campus,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$142.94,AZ
+Abrazo Central Campus,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$261.17,AZ
+Abrazo Central Campus,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$114.73,AZ
+Abrazo Central Campus,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$168.80,AZ
+Abrazo Central Campus,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$247.87,AZ
+Abrazo Central Campus,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$18,670.98",AZ
+Abrazo Central Campus,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$20,787.02",AZ
+Abrazo Central Campus,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$2,521.97",AZ
+Abrazo Central Campus,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$21,386.70",AZ
+Abrazo Central Campus,Sleep,HCPCS 95810,Sleep study,"$4,689.86",AZ
+Abrazo Central Campus,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$106.01,AZ
+Abrazo Central Campus,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$995.75,AZ
+Abrazo Central Campus,Breast,HCPCS 77067,Mammogram Screening,$911.47,AZ
+Abrazo Central Campus,Breast,HCPCS 77066,Mammography of both breasts,"$1,177.76",AZ
+Abrazo Central Campus,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,156.28",AZ
+Abrazo Central Campus,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,819.59",AZ
+Abrazo Central Campus,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$3,521.66",AZ
+Abrazo Central Campus,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$10,421.12",AZ
+Abrazo Central Campus,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$8,538.44",AZ
+Abrazo Central Campus,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$3,415.05",AZ
+Abrazo Central Campus,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$3,440.88",AZ
+Abrazo Central Campus,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$3,813.76",AZ
+Abrazo Central Campus,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$7,035.15",AZ
+Abrazo Central Campus,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$8,935.10",AZ
+Abrazo Central Campus,MRI,HCPCS 72141,MRI neck spine without contrast material,"$6,172.96",AZ
+Abrazo Central Campus,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$5,402.06",AZ
+Abrazo Central Campus,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$5,693.80",AZ
+Abrazo Central Campus,MRI,HCPCS 73721,MRI scan of leg joint,"$5,079.65",AZ
+Abrazo Central Campus,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$1,380.95",AZ
+Abrazo Central Campus,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,254.00",AZ
+Abrazo Central Campus,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,881.46",AZ
+Abrazo Central Campus,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$1,511.36",AZ
+Abrazo Central Campus,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,998.38",AZ
+Abrazo Central Campus,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,515.76",AZ
+Abrazo Central Campus,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$2,453.58",AZ
+Abrazo Central Campus,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,690.68",AZ
+Abrazo Central Campus,Chest,HCPCS 71046,X-ray of chest; 2 Views,$692.23,AZ
+Abrazo Central Campus,Chest,HCPCS 71045,X-ray of chest; Single View,$474.75,AZ
+Abrazo Central Campus,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$726.26,AZ
+Abrazo Central Campus,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$552.31,AZ
+Abrazo Central Campus,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$745.61,AZ
+Abrazo Central Campus,Lower Limbs,HCPCS 73630,X-ray exam of foot,$841.16,AZ
+Abrazo Central Campus,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$996.00,AZ
+Abrazo Central Campus,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$568.66,AZ
+Abrazo Central Campus,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$593.21,AZ
+Abrazo Central Campus,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$935.75,AZ
+Abrazo Central Campus,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views","$1,226.51",AZ
+Abrazo Central Campus,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$724.59,AZ
+Abrazo Central Campus,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,628.76",AZ
+Abrazo Central Campus,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$909.46,AZ
+Abrazo Central Campus,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views","$1,339.11",AZ
+Abrazo Central Campus,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views","$1,031.69",AZ
+Abrazo Central Campus,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$854.90,AZ
+Abrazo Central Campus,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$634.54,AZ
+Abrazo Central Campus,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$922.68,AZ
+Abrazo Central Campus,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$724.85,AZ
+Abrazo Central Campus,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$812.44,AZ
+Abrazo Central Campus,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$726.01,AZ
+Abrazo Central Campus,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$973.05,AZ
+Abrazo Central Campus,Abdomenal,HCPCS 47562,Cholecystectomy,"$27,621.99",AZ
+Abrazo Central Campus,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$33,115.11",AZ
+Abrazo Central Campus,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$28,415.25",AZ
+Abrazo Central Campus,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$22,586.72",AZ
+Abrazo Central Campus,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$20,288.23",AZ
+Abrazo Central Campus,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$49,237.29",AZ
+Abrazo Central Campus,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$39,236.59",AZ
+Abrazo Central Campus,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$19,727.65",AZ
+Abrazo Central Campus,Breast,HCPCS 19125,Excision of breast lesion,"$28,610.33",AZ
+Abrazo Central Campus,Breast,HCPCS 19120,Excision of cyst of breast,"$21,431.94",AZ
+Abrazo Central Campus,Breast,HCPCS 19301,Partial removal of breast,"$37,183.22",AZ
+Abrazo Central Campus,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$10,637.96",AZ
+Abrazo Central Campus,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$13,050.19",AZ
+Abrazo Central Campus,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$12,421.73",AZ
+Abrazo Central Campus,Digestive,HCPCS 43235,EGD,"$15,453.81",AZ
+Abrazo Central Campus,Digestive,HCPCS 43239,EGD and biopsy,"$13,458.56",AZ
+Abrazo Central Campus,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$49,139.86",AZ
+Abrazo Central Campus,General,HCPCS 55700,Biopsy of prostate gland,"$22,321.95",AZ
+Abrazo Central Campus,General,HCPCS 10060,Drainage of Abscess,"$4,268.41",AZ
+Abrazo Central Campus,General,HCPCS 55866,Prostatectomy,"$112,182.62",AZ
+Abrazo Central Campus,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$6,257.63",AZ
+Abrazo Central Campus,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$9,144.11",AZ
+Abrazo Central Campus,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$4,736.06",AZ
+Abrazo Central Campus,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$3,341.78",AZ
+Abrazo Central Campus,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$3,179.97",AZ
+Abrazo Central Campus,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$94,925.27",AZ
+Abrazo Central Campus,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$20,695.27",AZ
+Abrazo Central Campus,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$55,185.94",AZ
+Abrazo Central Campus,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$96,165.62",AZ
+Abrazo Central Campus,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot","$6,804.92",AZ
+Abrazo Central Campus,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$22,678.49",AZ

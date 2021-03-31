@@ -1,0 +1,113 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Dardanelle Hospital,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$141.87,AR
+Dardanelle Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes",$512.87,AR
+Dardanelle Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$183.42,AR
+Dardanelle Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$262.96,AR
+Dardanelle Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$419.08,AR
+Dardanelle Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$410.77,AR
+Dardanelle Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$869.03,AR
+Dardanelle Hospital,Hospital,HCPCS 99218,Hospital Observation per Hour,$77.17,AR
+Dardanelle Hospital,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$156.71,AR
+Dardanelle Hospital,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$182.83,AR
+Dardanelle Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$419.08,AR
+Dardanelle Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$680.86,AR
+Dardanelle Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$419.08,AR
+Dardanelle Hospital,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$14.84,AR
+Dardanelle Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$204.79,AR
+Dardanelle Hospital,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$444.61,AR
+Dardanelle Hospital,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$105.66,AR
+Dardanelle Hospital,Psychology,HCPCS 90853,Group psychotherapy,$36.21,AR
+Dardanelle Hospital,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$253.47,AR
+Dardanelle Hospital,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$371.00,AR
+Dardanelle Hospital,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$147.81,AR
+Dardanelle Hospital,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$263.56,AR
+Dardanelle Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$43.33,AR
+Dardanelle Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$50.46,AR
+Dardanelle Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$76.57,AR
+Dardanelle Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$62.92,AR
+Dardanelle Hospital,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$49.27,AR
+Dardanelle Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$91.41,AR
+Dardanelle Hospital,Chemistry,HCPCS 82465,Cholesterol level,$7.12,AR
+Dardanelle Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$34.43,AR
+Dardanelle Hospital,Microbiology,HCPCS 87045,Stool Culture,$68.26,AR
+Dardanelle Hospital,Microbiology,HCPCS 87880,Strep Test,$47.49,AR
+Dardanelle Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$332.42,AR
+Dardanelle Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$562.73,AR
+Dardanelle Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$158.49,AR
+Dardanelle Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$47.49,AR
+Dardanelle Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$227.94,AR
+Dardanelle Hospital,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$204.79,AR
+Dardanelle Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$98.54,AR
+Dardanelle Hospital,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$51.64,AR
+Dardanelle Hospital,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$16.03,AR
+Dardanelle Hospital,Pulmonary,HCPCS 94640,Nebulizer Treatment,$110.41,AR
+Dardanelle Hospital,Sleep,HCPCS 95810,Sleep study,"$1,990.93",AR
+Dardanelle Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,578.98",AR
+Dardanelle Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$942.64,AR
+Dardanelle Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,435.24",AR
+Dardanelle Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,446.60",AR
+Dardanelle Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,583.56",AR
+Dardanelle Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$3,048.55",AR
+Dardanelle Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,707.41",AR
+Dardanelle Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,955.32",AR
+Dardanelle Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,220.44",AR
+Dardanelle Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,542.77",AR
+Dardanelle Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,380.71",AR
+Dardanelle Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,786.97",AR
+Dardanelle Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,521.40",AR
+Dardanelle Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,529.71",AR
+Dardanelle Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,980.84",AR
+Dardanelle Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,189.04",AR
+Dardanelle Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$3,090.88",AR
+Dardanelle Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,969.56",AR
+Dardanelle Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$1,843.72",AR
+Dardanelle Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,447.41",AR
+Dardanelle Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,018.83",AR
+Dardanelle Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,410.98",AR
+Dardanelle Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,529.71",AR
+Dardanelle Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$2,182.75",AR
+Dardanelle Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$168.63,AR
+Dardanelle Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$431.55,AR
+Dardanelle Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$666.97,AR
+Dardanelle Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$460.63,AR
+Dardanelle Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$516.43,AR
+Dardanelle Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$433.53,AR
+Dardanelle Hospital,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$331.23,AR
+Dardanelle Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$246.94,AR
+Dardanelle Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$216.66,AR
+Dardanelle Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$224.97,AR
+Dardanelle Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$175.11,AR
+Dardanelle Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$151.96,AR
+Dardanelle Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$150.77,AR
+Dardanelle Hospital,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$176.89,AR
+Dardanelle Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$122.28,AR
+Dardanelle Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$90.23,AR
+Dardanelle Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$276.62,AR
+Dardanelle Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$227.94,AR
+Dardanelle Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$233.28,AR
+Dardanelle Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$214.88,AR
+Dardanelle Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$150.18,AR
+Dardanelle Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$223.79,AR
+Dardanelle Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,642.25",AR
+Dardanelle Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$242.19,AR
+Dardanelle Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$113.38,AR
+Dardanelle Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$216.07,AR
+Dardanelle Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$191.73,AR
+Dardanelle Hospital,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$213.70,AR
+Dardanelle Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$219.04,AR
+Dardanelle Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$134.75,AR
+Dardanelle Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$119.31,AR
+Dardanelle Hospital,General,HCPCS 10060,Drainage of Abscess,$415.52,AR
+Dardanelle Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$238.03,AR
+Dardanelle Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$110.41,AR
+Dardanelle Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$255.25,AR
+Dardanelle Hospital,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$252.87,AR
+Dardanelle Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$188.76,AR
+Dardanelle Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$255.25,AR
+Dardanelle Hospital,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$319.95,AR
+Dardanelle Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$845.88,AR
+Dardanelle Hospital,Musculoskeletal,HCPCS 27200,Insertion of Breathing Tube Using an Endoscope,$319.95,AR
+Dardanelle Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$352.00,AR
+Dardanelle Hospital,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$184.02,AR
+Dardanelle Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,423.45",AR
+Dardanelle Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$649.99,AR

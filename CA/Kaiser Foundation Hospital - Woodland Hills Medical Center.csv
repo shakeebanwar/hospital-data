@@ -1,0 +1,96 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$448.00,CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$448.00,CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Psychology,HCPCS 90853,Group psychotherapy,$371.00,CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$272.00,CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$448.00,CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$448.00,CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$126.00,CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$176.00,CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$189.00,CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$161.00,CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$96.00,CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$75.00,CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$90.00,CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$109.00,CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$212.00,CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Chemistry,HCPCS 82310,Calcium level,$85.00,CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$36.00,CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$390.00,CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$490.00,CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$203.00,CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$212.00,CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$353.00,CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$415.00,CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$220.00,CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$105.00,CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$95.00,CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$88.00,CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$2,665.34",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$478.00,CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Breast,HCPCS 77067,Mammogram Screening,$609.00,CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$693.00,CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,777.00",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$6,830.00",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,641.00",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$4,043.00",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$3,855.00",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$5,376.00",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$3,524.00",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$1,161.00",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,737.00",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,355.00",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$992.00,CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$589.00,CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$528.00,CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,041.00",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$42,584.39",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$21,158.19",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$36,583.89",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$40,092.90",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$19,660.99",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$9,941.62",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$14,055.79",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$57,444.46",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,"$27,209.67",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$43,291.14",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$22,763.32",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$33,672.91",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$23,406.89",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$36,954.69",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$16,375.44",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$25,720.83",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$12,299.81",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Breast,HCPCS 19125,Excision of breast lesion,"$13,542.25",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$10,563.02",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Breast,HCPCS 19301,Partial removal of breast,"$14,498.69",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Breast,HCPCS 19318,Reduction mammaplasty,"$37,312.12",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$39,719.67",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Breast,HCPCS 19303,Total removal of breast,"$42,460.48",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,"$106,538.61",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Cardiac,MSDRG 216,Cardiac valve procedure,"$403,793.74",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$251,340.13",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$205,557.93",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Cardiac,HCPCS 33249,Defibrillator complete system,"$45,178.73",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$16,976.75",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$12,023.87",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Cardiac,MSDRG 247,Implant drug-eluting stent,"$73,358.57",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$54,574.45",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$21,568.83",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$3,322.41",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$4,019.30",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$4,077.13",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$4,207.46",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Digestive,HCPCS 43235,EGD,"$3,035.14",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$4,533.96",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$13,801.11",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$16,284.17",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Digestive,HCPCS 45391,Ultrasound of lower large bowel using an endoscope,"$3,796.00",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$58,110.31",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$18,181.92",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,General,HCPCS 55700,Biopsy of prostate gland,"$15,780.25",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,General,HCPCS 55866,Prostatectomy,"$69,280.32",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,General,HCPCS 60240,Removal of thyroid,"$38,133.90",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Head,HCPCS 69436,Create eardrum opening,"$9,571.83",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Head,HCPCS 69930,Implantation of cochlear device,"$64,956.70",CA
+Kaiser Foundation Hospital - Woodland Hills Medical Center,Head,HCPCS 69631,Repair of eardrum,"$29,349.93",CA

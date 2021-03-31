@@ -1,0 +1,203 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Pen Bay Medical Center,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$212.50,ME
+Pen Bay Medical Center,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$212.50,ME
+Pen Bay Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$212.50,ME
+Pen Bay Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$212.50,ME
+Pen Bay Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$212.50,ME
+Pen Bay Medical Center,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$212.50,ME
+Pen Bay Medical Center,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$212.50,ME
+Pen Bay Medical Center,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$279.55,ME
+Pen Bay Medical Center,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$279.55,ME
+Pen Bay Medical Center,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$279.55,ME
+Pen Bay Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$37.30,ME
+Pen Bay Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$37.30,ME
+Pen Bay Medical Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$106.95,ME
+Pen Bay Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$79.70,ME
+Pen Bay Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$102.80,ME
+Pen Bay Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$84.45,ME
+Pen Bay Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$84.45,ME
+Pen Bay Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$48.65,ME
+Pen Bay Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$52.35,ME
+Pen Bay Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$63.05,ME
+Pen Bay Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$97.95,ME
+Pen Bay Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$94.30,ME
+Pen Bay Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$62.45,ME
+Pen Bay Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$62.45,ME
+Pen Bay Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$50.05,ME
+Pen Bay Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$35.95,ME
+Pen Bay Medical Center,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$35.95,ME
+Pen Bay Medical Center,Chemistry,HCPCS 84132,Blood potassium level,$63.15,ME
+Pen Bay Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$94.20,ME
+Pen Bay Medical Center,Chemistry,HCPCS 82310,Calcium level,$57.20,ME
+Pen Bay Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$157.55,ME
+Pen Bay Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$153.70,ME
+Pen Bay Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$168.95,ME
+Pen Bay Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$72.40,ME
+Pen Bay Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$116.30,ME
+Pen Bay Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$180.90,ME
+Pen Bay Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$137.80,ME
+Pen Bay Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$40.80,ME
+Pen Bay Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$120.70,ME
+Pen Bay Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$103.50,ME
+Pen Bay Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$137.90,ME
+Pen Bay Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$69.45,ME
+Pen Bay Medical Center,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$248.30,ME
+Pen Bay Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$57.20,ME
+Pen Bay Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$60.35,ME
+Pen Bay Medical Center,Chemistry,HCPCS 83540,Iron level,$60.35,ME
+Pen Bay Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$38.95,ME
+Pen Bay Medical Center,Chemistry,HCPCS 83721,LDL cholesterol level,$113.00,ME
+Pen Bay Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$47.20,ME
+Pen Bay Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$61.45,ME
+Pen Bay Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$199.90,ME
+Pen Bay Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$86.55,ME
+Pen Bay Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$162.10,ME
+Pen Bay Medical Center,Chemistry,HCPCS 83970,Parathormone,$106.70,ME
+Pen Bay Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$97.00,ME
+Pen Bay Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$248.30,ME
+Pen Bay Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$118.50,ME
+Pen Bay Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$97.00,ME
+Pen Bay Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$70.70,ME
+Pen Bay Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$70.70,ME
+Pen Bay Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$94.30,ME
+Pen Bay Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$97.00,ME
+Pen Bay Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$97.00,ME
+Pen Bay Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$97.00,ME
+Pen Bay Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$28.75,ME
+Pen Bay Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$57.20,ME
+Pen Bay Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$52.35,ME
+Pen Bay Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$264.40,ME
+Pen Bay Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$197.65,ME
+Pen Bay Medical Center,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$140.05,ME
+Pen Bay Medical Center,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$140.05,ME
+Pen Bay Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$183.05,ME
+Pen Bay Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$183.05,ME
+Pen Bay Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$183.05,ME
+Pen Bay Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$28.50,ME
+Pen Bay Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$76.75,ME
+Pen Bay Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$110.80,ME
+Pen Bay Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$63.65,ME
+Pen Bay Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$74.60,ME
+Pen Bay Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$171.15,ME
+Pen Bay Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$75.00,ME
+Pen Bay Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$188.75,ME
+Pen Bay Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$183.05,ME
+Pen Bay Medical Center,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$649.55,ME
+Pen Bay Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$118.50,ME
+Pen Bay Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$118.30,ME
+Pen Bay Medical Center,Microbiology,HCPCS 87624,HPV Detection,$141.55,ME
+Pen Bay Medical Center,Microbiology,HCPCS 86735,Mumps virus antibody test,$46.10,ME
+Pen Bay Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$95.80,ME
+Pen Bay Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$159.10,ME
+Pen Bay Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$44.25,ME
+Pen Bay Medical Center,Microbiology,HCPCS 87045,Stool Culture,$113.05,ME
+Pen Bay Medical Center,Microbiology,HCPCS 87880,Strep Test,$79.75,ME
+Pen Bay Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$34.15,ME
+Pen Bay Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$156.65,ME
+Pen Bay Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$126.20,ME
+Pen Bay Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$118.50,ME
+Pen Bay Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$139.35,ME
+Pen Bay Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$49.15,ME
+Pen Bay Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$24.15,ME
+Pen Bay Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$139.35,ME
+Pen Bay Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$186.55,ME
+Pen Bay Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$174.55,ME
+Pen Bay Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$29.90,ME
+Pen Bay Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$139.35,ME
+Pen Bay Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$205.20,ME
+Pen Bay Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$116.30,ME
+Pen Bay Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$116.30,ME
+Pen Bay Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$81.20,ME
+Pen Bay Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$81.20,ME
+Pen Bay Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$257.50,ME
+Pen Bay Medical Center,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$13.70,ME
+Pen Bay Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$67.45,ME
+Pen Bay Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$67.45,ME
+Pen Bay Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$77.35,ME
+Pen Bay Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$537.65,ME
+Pen Bay Medical Center,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$335.75,ME
+Pen Bay Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$335.75,ME
+Pen Bay Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$328.10,ME
+Pen Bay Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,$477.85,ME
+Pen Bay Medical Center,Pulmonary,HCPCS 94618,Pulmonary stress test,$245.80,ME
+Pen Bay Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$345.55,ME
+Pen Bay Medical Center,Sleep,HCPCS 95810,Sleep study,"$4,955.90",ME
+Pen Bay Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$629.25,ME
+Pen Bay Medical Center,Breast,HCPCS 77067,Mammogram Screening,$706.65,ME
+Pen Bay Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$629.25,ME
+Pen Bay Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,800.45",ME
+Pen Bay Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,490.65",ME
+Pen Bay Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,561.40",ME
+Pen Bay Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,738.90",ME
+Pen Bay Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$3,738.90",ME
+Pen Bay Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,991.10",ME
+Pen Bay Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$2,138.00",ME
+Pen Bay Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$2,138.00",ME
+Pen Bay Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,561.40",ME
+Pen Bay Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$925.00,ME
+Pen Bay Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$2,138.00",ME
+Pen Bay Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,038.00",ME
+Pen Bay Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,038.00",ME
+Pen Bay Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$1,580.90",ME
+Pen Bay Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,038.00",ME
+Pen Bay Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,418.30",ME
+Pen Bay Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,473.05",ME
+Pen Bay Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,608.05",ME
+Pen Bay Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,053.35",ME
+Pen Bay Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$1,474.15",ME
+Pen Bay Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$1,094.70",ME
+Pen Bay Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$718.70,ME
+Pen Bay Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$825.15,ME
+Pen Bay Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,018.25",ME
+Pen Bay Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,018.25",ME
+Pen Bay Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$862.45,ME
+Pen Bay Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$862.45,ME
+Pen Bay Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$785.65,ME
+Pen Bay Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$664.55,ME
+Pen Bay Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$664.55,ME
+Pen Bay Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$579.90,ME
+Pen Bay Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$428.30,ME
+Pen Bay Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$268.45,ME
+Pen Bay Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$544.75,ME
+Pen Bay Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$398.30,ME
+Pen Bay Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$398.30,ME
+Pen Bay Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$414.20,ME
+Pen Bay Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$398.30,ME
+Pen Bay Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$414.20,ME
+Pen Bay Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$327.50,ME
+Pen Bay Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$398.30,ME
+Pen Bay Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$414.20,ME
+Pen Bay Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$414.20,ME
+Pen Bay Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$355.50,ME
+Pen Bay Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$934.60,ME
+Pen Bay Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$934.60,ME
+Pen Bay Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$577.15,ME
+Pen Bay Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$337.95,ME
+Pen Bay Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$223.85,ME
+Pen Bay Medical Center,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$271.00,ME
+Pen Bay Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$365.95,ME
+Pen Bay Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$307.25,ME
+Pen Bay Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$365.95,ME
+Pen Bay Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$365.95,ME
+Pen Bay Medical Center,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,$776.36,ME
+Pen Bay Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$17,519.30",ME
+Pen Bay Medical Center,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$14,022.00",ME
+Pen Bay Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$1,084.00",ME
+Pen Bay Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$3,068.00",ME
+Pen Bay Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$3,999.00",ME
+Pen Bay Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$3,982.00",ME
+Pen Bay Medical Center,Digestive,HCPCS 43235,EGD,"$3,660.00",ME
+Pen Bay Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$4,742.00",ME
+Pen Bay Medical Center,General,HCPCS 55700,Biopsy of prostate gland,"$1,245.00",ME
+Pen Bay Medical Center,General,HCPCS 10060,Drainage of Abscess,$447.91,ME
+Pen Bay Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$786.42,ME
+Pen Bay Medical Center,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,$786.42,ME
+Pen Bay Medical Center,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$1,583.00",ME
+Pen Bay Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$383.04,ME
+Pen Bay Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$45,975.00",ME
+Pen Bay Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$15,612.00",ME
+Pen Bay Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$29,552.25",ME
+Pen Bay Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$16,844.00",ME
+Pen Bay Medical Center,Ocular,HCPCS 66984,Cataract removal,"$12,648.00",ME
+Pen Bay Medical Center,Ocular,HCPCS 66982,Cataract removal with insertion of lens,"$12,648.00",ME
+Pen Bay Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$261.40,ME

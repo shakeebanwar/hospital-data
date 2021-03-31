@@ -1,0 +1,312 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Bristol Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$5,297.57",CT
+Bristol Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,"$1,529.42",CT
+Bristol Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$1,529.42",CT
+Bristol Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$1,529.42",CT
+Bristol Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,529.42",CT
+Bristol Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,529.42",CT
+Bristol Hospital,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$352.92,CT
+Bristol Hospital,Psychology,HCPCS 90853,Group psychotherapy,$158.99,CT
+Bristol Hospital,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$402.04,CT
+Bristol Hospital,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$268.33,CT
+Bristol Hospital,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$268.33,CT
+Bristol Hospital,Speech,HCPCS 92507,Speech Therapy,$269.50,CT
+Bristol Hospital,Speech,HCPCS 92526,Swallow Treatment,$346.50,CT
+Bristol Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$29.70,CT
+Bristol Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$29.70,CT
+Bristol Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$87.45,CT
+Bristol Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$87.45,CT
+Bristol Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$39.60,CT
+Bristol Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$38.50,CT
+Bristol Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$45.08,CT
+Bristol Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$45.08,CT
+Bristol Hospital,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$127.87,CT
+Bristol Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$48.40,CT
+Bristol Hospital,Blood,HCPCS 85041,"Red blood count, automated test",$46.00,CT
+Bristol Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$262.08,CT
+Bristol Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$142.64,CT
+Bristol Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$123.43,CT
+Bristol Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$118.32,CT
+Bristol Hospital,Chemistry,HCPCS 82140,Ammonia level,$129.71,CT
+Bristol Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$68.20,CT
+Bristol Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$110.19,CT
+Bristol Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$140.53,CT
+Bristol Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$104.20,CT
+Bristol Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$163.63,CT
+Bristol Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$56.10,CT
+Bristol Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$56.10,CT
+Bristol Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$66.92,CT
+Bristol Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$19.74,CT
+Bristol Hospital,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$19.74,CT
+Bristol Hospital,Chemistry,HCPCS 84132,Blood potassium level,$45.10,CT
+Bristol Hospital,Chemistry,HCPCS 84295,Blood sodium level,$39.04,CT
+Bristol Hospital,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$59.40,CT
+Bristol Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$71.47,CT
+Bristol Hospital,Chemistry,HCPCS 82310,Calcium level,$82.87,CT
+Bristol Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$72.60,CT
+Bristol Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$214.50,CT
+Bristol Hospital,Chemistry,HCPCS 82465,Cholesterol level,$49.50,CT
+Bristol Hospital,Chemistry,HCPCS 82525,Copper level,$111.38,CT
+Bristol Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$107.58,CT
+Bristol Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$183.98,CT
+Bristol Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$55.01,CT
+Bristol Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$123.15,CT
+Bristol Hospital,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$242.47,CT
+Bristol Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$149.60,CT
+Bristol Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$132.00,CT
+Bristol Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$123.09,CT
+Bristol Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$142.61,CT
+Bristol Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$75.90,CT
+Bristol Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$38.50,CT
+Bristol Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$144.10,CT
+Bristol Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$146.30,CT
+Bristol Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$71.78,CT
+Bristol Hospital,Chemistry,HCPCS 83718,HDL cholesterol level,$74.80,CT
+Bristol Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$223.58,CT
+Bristol Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$248.05,CT
+Bristol Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$110.77,CT
+Bristol Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$93.50,CT
+Bristol Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$82.87,CT
+Bristol Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$79.20,CT
+Bristol Hospital,Chemistry,HCPCS 83540,Iron level,$102.30,CT
+Bristol Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$39.64,CT
+Bristol Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$52.80,CT
+Bristol Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$68.15,CT
+Bristol Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$52.80,CT
+Bristol Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$157.02,CT
+Bristol Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$70.34,CT
+Bristol Hospital,Chemistry,HCPCS 83735,Magnesium Level,$60.54,CT
+Bristol Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$107.27,CT
+Bristol Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$111.30,CT
+Bristol Hospital,Chemistry,HCPCS 83918,Organic acid level,$50.40,CT
+Bristol Hospital,Chemistry,HCPCS 83945,Oxalate level,$172.43,CT
+Bristol Hospital,Chemistry,HCPCS 83970,Parathormone,$214.50,CT
+Bristol Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$66.36,CT
+Bristol Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$110.77,CT
+Bristol Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$146.30,CT
+Bristol Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$66.36,CT
+Bristol Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$135.91,CT
+Bristol Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$135.91,CT
+Bristol Hospital,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$88.00,CT
+Bristol Hospital,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$314.49,CT
+Bristol Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$104.20,CT
+Bristol Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$66.36,CT
+Bristol Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$66.36,CT
+Bristol Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$66.36,CT
+Bristol Hospital,Chemistry,HCPCS 84560,Uric acid level,$56.92,CT
+Bristol Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$56.92,CT
+Bristol Hospital,Chemistry,HCPCS 82340,Urine calcium level,$82.87,CT
+Bristol Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$142.64,CT
+Bristol Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$75.90,CT
+Bristol Hospital,Chemistry,HCPCS 84300,Urine sodium level,$39.04,CT
+Bristol Hospital,Chemistry,HCPCS 84591,Vitamin B-6 level,$75.00,CT
+Bristol Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$247.94,CT
+Bristol Hospital,Chemistry,HCPCS 84630,Zinc level,$81.95,CT
+Bristol Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$112.41,CT
+Bristol Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$66.00,CT
+Bristol Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$67.24,CT
+Bristol Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$137.97,CT
+Bristol Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$111.11,CT
+Bristol Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$54.85,CT
+Bristol Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$111.11,CT
+Bristol Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$111.11,CT
+Bristol Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$58.71,CT
+Bristol Hospital,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$246.33,CT
+Bristol Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$79.48,CT
+Bristol Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$41.44,CT
+Bristol Hospital,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$108.18,CT
+Bristol Hospital,Immunology,HCPCS 86161,Measurement of complement (immune system proteins),$149.07,CT
+Bristol Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$111.11,CT
+Bristol Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$260.31,CT
+Bristol Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$113.85,CT
+Bristol Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$96.80,CT
+Bristol Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$82.77,CT
+Bristol Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$239.26,CT
+Bristol Hospital,Immunology,HCPCS 86359,"T cells count, total",$239.26,CT
+Bristol Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$47.33,CT
+Bristol Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$31.34,CT
+Bristol Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$30.13,CT
+Bristol Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$137.43,CT
+Bristol Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$187.96,CT
+Bristol Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$137.50,CT
+Bristol Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$99.00,CT
+Bristol Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$162.06,CT
+Bristol Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$111.11,CT
+Bristol Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$323.36,CT
+Bristol Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$137.50,CT
+Bristol Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$427.55,CT
+Bristol Hospital,Microbiology,HCPCS 87624,HPV Detection,$142.93,CT
+Bristol Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$124.58,CT
+Bristol Hospital,Microbiology,HCPCS 86747,Parvovirus antibody test,$86.35,CT
+Bristol Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$78.38,CT
+Bristol Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$111.38,CT
+Bristol Hospital,Microbiology,HCPCS 87207,Smear for infectious agents,$50.14,CT
+Bristol Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$159.50,CT
+Bristol Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$50.14,CT
+Bristol Hospital,Microbiology,HCPCS 87045,Stool Culture,$31.80,CT
+Bristol Hospital,Microbiology,HCPCS 87880,Strep Test,$99.14,CT
+Bristol Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$111.10,CT
+Bristol Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$82.77,CT
+Bristol Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$77.83,CT
+Bristol Hospital,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$110.00,CT
+Bristol Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$145.20,CT
+Bristol Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$65.99,CT
+Bristol Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$71.46,CT
+Bristol Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$151.72,CT
+Bristol Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$140.80,CT
+Bristol Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$79.20,CT
+Bristol Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$259.44,CT
+Bristol Hospital,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$155.10,CT
+Bristol Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$132.00,CT
+Bristol Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$223.43,CT
+Bristol Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$71.50,CT
+Bristol Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$80.30,CT
+Bristol Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$160.60,CT
+Bristol Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$132.00,CT
+Bristol Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$91.48,CT
+Bristol Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$166.10,CT
+Bristol Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$79.20,CT
+Bristol Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$46.28,CT
+Bristol Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$46.28,CT
+Bristol Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$323.79,CT
+Bristol Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$88.72,CT
+Bristol Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$88.72,CT
+Bristol Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$58.16,CT
+Bristol Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$58.16,CT
+Bristol Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$2,069.38",CT
+Bristol Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$149.60,CT
+Bristol Hospital,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$539.29,CT
+Bristol Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,127.19",CT
+Bristol Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,$281.84,CT
+Bristol Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$700.87,CT
+Bristol Hospital,Sleep,HCPCS 95810,Sleep study,"$2,453.00",CT
+Bristol Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$439.67,CT
+Bristol Hospital,Breast,HCPCS 77067,Mammogram Screening,$460.11,CT
+Bristol Hospital,Breast,HCPCS 77066,Mammography of both breasts,$439.67,CT
+Bristol Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$2,392.13",CT
+Bristol Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,294.70",CT
+Bristol Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,576.50",CT
+Bristol Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,984.40",CT
+Bristol Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$2,756.99",CT
+Bristol Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,756.99",CT
+Bristol Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,216.50",CT
+Bristol Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$2,532.96",CT
+Bristol Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$2,532.96",CT
+Bristol Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,852.11",CT
+Bristol Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,212.98",CT
+Bristol Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$2,426.15",CT
+Bristol Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$2,643.21",CT
+Bristol Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$2,112.00",CT
+Bristol Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,451.81",CT
+Bristol Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,451.81",CT
+Bristol Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$5,274.96",CT
+Bristol Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,451.81",CT
+Bristol Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$3,315.17",CT
+Bristol Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,919.50",CT
+Bristol Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,643.22",CT
+Bristol Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,112.00",CT
+Bristol Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$2,262.70",CT
+Bristol Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$630.60,CT
+Bristol Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$744.70,CT
+Bristol Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$944.80,CT
+Bristol Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$944.80,CT
+Bristol Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$910.12,CT
+Bristol Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$910.80,CT
+Bristol Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$373.53,CT
+Bristol Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$373.53,CT
+Bristol Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$406.56,CT
+Bristol Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$711.48,CT
+Bristol Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$486.64,CT
+Bristol Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$754.60,CT
+Bristol Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$408.10,CT
+Bristol Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$795.67,CT
+Bristol Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$742.28,CT
+Bristol Hospital,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views","$1,143.24",CT
+Bristol Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$568.26,CT
+Bristol Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$463.54,CT
+Bristol Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$571.34,CT
+Bristol Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$653.88,CT
+Bristol Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$653.88,CT
+Bristol Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$653.88,CT
+Bristol Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$698.22,CT
+Bristol Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$708.40,CT
+Bristol Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$629.86,CT
+Bristol Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$698.22,CT
+Bristol Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$698.22,CT
+Bristol Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$682.22,CT
+Bristol Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$574.03,CT
+Bristol Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$574.03,CT
+Bristol Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$780.57,CT
+Bristol Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$780.57,CT
+Bristol Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$641.33,CT
+Bristol Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$492.80,CT
+Bristol Hospital,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$629.30,CT
+Bristol Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$742.62,CT
+Bristol Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$688.64,CT
+Bristol Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$742.62,CT
+Bristol Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$742.62,CT
+Bristol Hospital,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$6,000.11",CT
+Bristol Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$21,294.31",CT
+Bristol Hospital,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$21,294.31",CT
+Bristol Hospital,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,"$13,088.89",CT
+Bristol Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$13,088.89",CT
+Bristol Hospital,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$5,709.06",CT
+Bristol Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$14,098.38",CT
+Bristol Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$350.92,CT
+Bristol Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$350.92,CT
+Bristol Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$53,766.68",CT
+Bristol Hospital,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$19,326.49",CT
+Bristol Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$29,513.82",CT
+Bristol Hospital,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$29,513.82",CT
+Bristol Hospital,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$29,513.82",CT
+Bristol Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$13,608.49",CT
+Bristol Hospital,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$14,098.38",CT
+Bristol Hospital,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$14,098.38",CT
+Bristol Hospital,Breast,HCPCS 19125,Excision of breast lesion,"$10,630.91",CT
+Bristol Hospital,Breast,HCPCS 19120,Excision of cyst of breast,"$10,630.91",CT
+Bristol Hospital,Breast,HCPCS 19301,Partial removal of breast,"$13,345.61",CT
+Bristol Hospital,Breast,HCPCS 19318,Reduction mammaplasty,"$41,192.47",CT
+Bristol Hospital,Breast,HCPCS 19303,Total removal of breast,"$14,746.53",CT
+Bristol Hospital,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$13,175.91",CT
+Bristol Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$3,188.54",CT
+Bristol Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$3,632.50",CT
+Bristol Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$3,847.49",CT
+Bristol Hospital,Digestive,HCPCS 43235,EGD,"$3,425.84",CT
+Bristol Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$3,855.51",CT
+Bristol Hospital,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$14,624.98",CT
+Bristol Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$40,910.57",CT
+Bristol Hospital,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$16,987.33",CT
+Bristol Hospital,General,HCPCS 55700,Biopsy of prostate gland,"$8,980.51",CT
+Bristol Hospital,General,HCPCS 10060,Drainage of Abscess,"$1,215.44",CT
+Bristol Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple","$1,816.91",CT
+Bristol Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$643.13,CT
+Bristol Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$2,047.82",CT
+Bristol Hospital,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),"$2,047.82",CT
+Bristol Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$2,047.82",CT
+Bristol Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$2,047.82",CT
+Bristol Hospital,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$93,114.92",CT
+Bristol Hospital,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,"$4,351.33",CT
+Bristol Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$2,320.50",CT
+Bristol Hospital,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$2,320.50",CT
+Bristol Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$2,923.14",CT
+Bristol Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$1,900.81",CT
+Bristol Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$38,132.88",CT
+Bristol Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$7,751.57",CT
+Bristol Hospital,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$5,226.28",CT
+Bristol Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$93,114.92",CT
+Bristol Hospital,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$449.76,CT
+Bristol Hospital,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$36,446.81",CT
+Bristol Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$7,958.05",CT
+Bristol Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$21,434.75",CT
+Bristol Hospital,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$15,808.24",CT
+Bristol Hospital,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$12,708.86",CT
+Bristol Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$11,733.32",CT
+Bristol Hospital,Ocular,HCPCS 66984,Cataract removal,"$9,141.26",CT
+Bristol Hospital,Ocular,HCPCS 66982,Cataract removal with insertion of lens,"$9,141.26",CT
+Bristol Hospital,Ocular,HCPCS 66821,Laser cataract removal,"$3,054.29",CT
+Bristol Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,"$1,085.61",CT
+Bristol Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,"$1,085.61",CT
+Bristol Hospital,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$165.00,CT
+Bristol Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$7,890.51",CT
+Bristol Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,812.65",CT
+Bristol Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$4,622.58",CT

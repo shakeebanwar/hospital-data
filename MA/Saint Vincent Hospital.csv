@@ -1,0 +1,141 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Saint Vincent Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$17,404.77",MA
+Saint Vincent Hospital,Hospital,HCPCS 99218,Hospital Observation per Hour,"$32,692.25",MA
+Saint Vincent Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min","$9,911.97",MA
+Saint Vincent Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min","$6,963.55",MA
+Saint Vincent Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min","$1,122.53",MA
+Saint Vincent Hospital,Speech,HCPCS 92507,Speech Therapy,"$4,582.45",MA
+Saint Vincent Hospital,Speech,HCPCS 92610,Swallow Evaluation,"$7,763.63",MA
+Saint Vincent Hospital,Speech,HCPCS 92526,Swallow Treatment,"$2,912.95",MA
+Saint Vincent Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$50.81,MA
+Saint Vincent Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$46.46,MA
+Saint Vincent Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$44.87,MA
+Saint Vincent Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$74.32,MA
+Saint Vincent Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$69.81,MA
+Saint Vincent Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$168.38,MA
+Saint Vincent Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$67.45,MA
+Saint Vincent Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$3,467.62",MA
+Saint Vincent Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$58.94,MA
+Saint Vincent Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$184.46,MA
+Saint Vincent Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$339.88,MA
+Saint Vincent Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$122.90,MA
+Saint Vincent Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$119.92,MA
+Saint Vincent Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$62.39,MA
+Saint Vincent Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$68.61,MA
+Saint Vincent Hospital,Chemistry,HCPCS 84295,Blood sodium level,$52.35,MA
+Saint Vincent Hospital,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$54.10,MA
+Saint Vincent Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$254.09,MA
+Saint Vincent Hospital,Chemistry,HCPCS 82310,Calcium level,$61.26,MA
+Saint Vincent Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$65.16,MA
+Saint Vincent Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$71.18,MA
+Saint Vincent Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$285.56,MA
+Saint Vincent Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$225.03,MA
+Saint Vincent Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$193.98,MA
+Saint Vincent Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$132.79,MA
+Saint Vincent Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$69.38,MA
+Saint Vincent Hospital,Chemistry,HCPCS 83540,Iron level,$175.40,MA
+Saint Vincent Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$188.16,MA
+Saint Vincent Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$55.34,MA
+Saint Vincent Hospital,Chemistry,HCPCS 83735,Magnesium Level,$69.14,MA
+Saint Vincent Hospital,Chemistry,HCPCS 83970,Parathormone,$443.40,MA
+Saint Vincent Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$48.59,MA
+Saint Vincent Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$76.21,MA
+Saint Vincent Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$118.16,MA
+Saint Vincent Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$694.09,MA
+Saint Vincent Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$43.04,MA
+Saint Vincent Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$119.86,MA
+Saint Vincent Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$292.88,MA
+Saint Vincent Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$292.88,MA
+Saint Vincent Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$99.30,MA
+Saint Vincent Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$74.39,MA
+Saint Vincent Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$88.94,MA
+Saint Vincent Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$115.97,MA
+Saint Vincent Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$64.39,MA
+Saint Vincent Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$79.97,MA
+Saint Vincent Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$305.17,MA
+Saint Vincent Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$336.97,MA
+Saint Vincent Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$82.31,MA
+Saint Vincent Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$82.49,MA
+Saint Vincent Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$197.52,MA
+Saint Vincent Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$103.16,MA
+Saint Vincent Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$59.87,MA
+Saint Vincent Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$367.46,MA
+Saint Vincent Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$6,936.16",MA
+Saint Vincent Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$18,421.30",MA
+Saint Vincent Hospital,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,"$1,400.63",MA
+Saint Vincent Hospital,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$50,197.61",MA
+Saint Vincent Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,"$1,298.96",MA
+Saint Vincent Hospital,Sleep,HCPCS 95810,Sleep study,"$8,448.97",MA
+Saint Vincent Hospital,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$330.66,MA
+Saint Vincent Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$500.10,MA
+Saint Vincent Hospital,Breast,HCPCS 77067,Mammogram Screening,$552.29,MA
+Saint Vincent Hospital,Breast,HCPCS 77066,Mammography of both breasts,$606.65,MA
+Saint Vincent Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$2,486.54",MA
+Saint Vincent Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,712.70",MA
+Saint Vincent Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,199.29",MA
+Saint Vincent Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$5,773.40",MA
+Saint Vincent Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$3,345.37",MA
+Saint Vincent Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$2,419.55",MA
+Saint Vincent Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,022.04",MA
+Saint Vincent Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,495.37",MA
+Saint Vincent Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$4,992.93",MA
+Saint Vincent Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$8,886.47",MA
+Saint Vincent Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$3,427.34",MA
+Saint Vincent Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$4,445.54",MA
+Saint Vincent Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$3,772.50",MA
+Saint Vincent Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$4,155.17",MA
+Saint Vincent Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$1,484.11",MA
+Saint Vincent Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,535.82",MA
+Saint Vincent Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$877.46,MA
+Saint Vincent Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$1,462.71",MA
+Saint Vincent Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,779.83",MA
+Saint Vincent Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,634.36",MA
+Saint Vincent Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,840.91",MA
+Saint Vincent Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,341.71",MA
+Saint Vincent Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$269.81,MA
+Saint Vincent Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$267.17,MA
+Saint Vincent Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$470.85,MA
+Saint Vincent Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$297.12,MA
+Saint Vincent Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$586.91,MA
+Saint Vincent Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$784.56,MA
+Saint Vincent Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$719.90,MA
+Saint Vincent Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$653.33,MA
+Saint Vincent Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$454.33,MA
+Saint Vincent Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$409.83,MA
+Saint Vincent Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$684.72,MA
+Saint Vincent Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$670.59,MA
+Saint Vincent Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$838.82,MA
+Saint Vincent Hospital,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$956.80,MA
+Saint Vincent Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views","$1,077.26",MA
+Saint Vincent Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$673.49,MA
+Saint Vincent Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$468.51,MA
+Saint Vincent Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$770.08,MA
+Saint Vincent Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$743.66,MA
+Saint Vincent Hospital,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$631.49,MA
+Saint Vincent Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$540.29,MA
+Saint Vincent Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$663.10,MA
+Saint Vincent Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$15,455.83",MA
+Saint Vincent Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$12,475.63",MA
+Saint Vincent Hospital,Breast,HCPCS 19120,Excision of cyst of breast,"$13,210.85",MA
+Saint Vincent Hospital,Cardiac,MSDRG 216,Cardiac valve procedure,"$209,528.72",MA
+Saint Vincent Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$4,074.75",MA
+Saint Vincent Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$5,486.60",MA
+Saint Vincent Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$5,647.78",MA
+Saint Vincent Hospital,Digestive,HCPCS 43235,EGD,"$3,618.03",MA
+Saint Vincent Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$5,624.19",MA
+Saint Vincent Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$30,583.94",MA
+Saint Vincent Hospital,General,HCPCS 55700,Biopsy of prostate gland,"$11,470.46",MA
+Saint Vincent Hospital,General,HCPCS 55866,Prostatectomy,"$30,864.32",MA
+Saint Vincent Hospital,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$7,752.37",MA
+Saint Vincent Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$4,177.32",MA
+Saint Vincent Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$6,362.90",MA
+Saint Vincent Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$3,376.75",MA
+Saint Vincent Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$77,535.47",MA
+Saint Vincent Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$11,022.12",MA
+Saint Vincent Hospital,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$18,762.72",MA
+Saint Vincent Hospital,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$43,150.96",MA
+Saint Vincent Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$80,405.58",MA
+Saint Vincent Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$13,748.42",MA
+Saint Vincent Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$14,081.00",MA
+Saint Vincent Hospital,Ocular,HCPCS 66984,Cataract removal,"$8,954.06",MA
+Saint Vincent Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$3,804.75",MA

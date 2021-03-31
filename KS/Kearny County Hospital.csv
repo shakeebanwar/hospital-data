@@ -1,0 +1,89 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Kearny County Hospital,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$308.00,KS
+Kearny County Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes",$569.00,KS
+Kearny County Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$86.00,KS
+Kearny County Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$160.00,KS
+Kearny County Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$266.00,KS
+Kearny County Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$425.00,KS
+Kearny County Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$691.00,KS
+Kearny County Hospital,Hospital,HCPCS 99234,Hospital observation care discharge,$266.00,KS
+Kearny County Hospital,Hospital,HCPCS 99219,Hospital observation care typically 30 minutes,$217.00,KS
+Kearny County Hospital,Hospital,HCPCS 99235,"Hospital observation or inpatient care moderate severity, 50 minutes per day",$372.00,KS
+Kearny County Hospital,Hospital,HCPCS 99218,Hospital Observation per Hour,$50.45,KS
+Kearny County Hospital,Hospital,HCPCS 99224,"Subsequent observation care, typically 25 minutes per day",$78.00,KS
+Kearny County Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$114.00,KS
+Kearny County Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$32.00,KS
+Kearny County Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$70.00,KS
+Kearny County Hospital,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$25.00,KS
+Kearny County Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$145.00,KS
+Kearny County Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$54.00,KS
+Kearny County Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$127.75,KS
+Kearny County Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$44.00,KS
+Kearny County Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$60.00,KS
+Kearny County Hospital,Chemistry,HCPCS A9270,Selenium (vitamin) level,$20.48,KS
+Kearny County Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$44.00,KS
+Kearny County Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$114.00,KS
+Kearny County Hospital,Chemistry,HCPCS 84133,Urine potassium level,$52.00,KS
+Kearny County Hospital,Chemistry,HCPCS 84300,Urine sodium level,$60.00,KS
+Kearny County Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$106.00,KS
+Kearny County Hospital,Immunology,HCPCS 86580,Tuberculosis Test,$265.71,KS
+Kearny County Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$85.00,KS
+Kearny County Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$85.00,KS
+Kearny County Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$70.00,KS
+Kearny County Hospital,Microbiology,HCPCS 87045,Stool Culture,$68.00,KS
+Kearny County Hospital,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$417.00,KS
+Kearny County Hospital,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$29.00,KS
+Kearny County Hospital,Pulmonary,HCPCS 94640,Nebulizer Treatment,$183.96,KS
+Kearny County Hospital,Pulmonary,HCPCS 94618,Pulmonary stress test,$180.00,KS
+Kearny County Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$540.00,KS
+Kearny County Hospital,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$3,575.00",KS
+Kearny County Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$6,809.00",KS
+Kearny County Hospital,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$6,809.00",KS
+Kearny County Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$4,717.00",KS
+Kearny County Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$111.00,KS
+Kearny County Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$111.00,KS
+Kearny County Hospital,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$6,492.00",KS
+Kearny County Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$8,905.00",KS
+Kearny County Hospital,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$11,035.00",KS
+Kearny County Hospital,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$4,850.00",KS
+Kearny County Hospital,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$3,268.00",KS
+Kearny County Hospital,Breast,HCPCS 19120,Excision of cyst of breast,"$3,029.55",KS
+Kearny County Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",$822.00,KS
+Kearny County Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy",$929.00,KS
+Kearny County Hospital,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,022.00",KS
+Kearny County Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,126.00",KS
+Kearny County Hospital,Digestive,HCPCS 43235,EGD,$938.00,KS
+Kearny County Hospital,Digestive,HCPCS 43239,EGD and biopsy,$747.00,KS
+Kearny County Hospital,General,HCPCS 10060,Drainage of Abscess,$269.00,KS
+Kearny County Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple","$1,371.00",KS
+Kearny County Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$307.00,KS
+Kearny County Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$383.00,KS
+Kearny County Hospital,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$601.00,KS
+Kearny County Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$370.00,KS
+Kearny County Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$319.00,KS
+Kearny County Hospital,Head,HCPCS 69436,Create eardrum opening,"$1,312.00",KS
+Kearny County Hospital,Head,HCPCS 69631,Repair of eardrum,"$3,253.00",KS
+Kearny County Hospital,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$2,672.00",KS
+Kearny County Hospital,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$4,850.53",KS
+Kearny County Hospital,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,"$1,155.00",KS
+Kearny County Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$750.00,KS
+Kearny County Hospital,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,$800.00,KS
+Kearny County Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$812.05,KS
+Kearny County Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$195.00,KS
+Kearny County Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$5,253.00",KS
+Kearny County Hospital,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$5,253.00",KS
+Kearny County Hospital,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$4,609.00",KS
+Kearny County Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$3,377.00",KS
+Kearny County Hospital,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$6,693.00",KS
+Kearny County Hospital,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$6,693.00",KS
+Kearny County Hospital,Obstetrics,HCPCS 59400,Routine obstetric care,"$5,422.00",KS
+Kearny County Hospital,Obstetrics,HCPCS 59510,"Routine obstetric care for cesarean delivery, including pre-and postdelivery care","$7,904.00",KS
+Kearny County Hospital,Obstetrics,HCPCS 59610,Routine obstetric care for vaginal delivery after prior cesarean delivery including pre-and post-delivery care,"$5,708.00",KS
+Kearny County Hospital,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries","$7,485.00",KS
+Kearny County Hospital,Ocular,HCPCS 66984,Cataract removal,"$3,349.00",KS
+Kearny County Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$443.00,KS
+Kearny County Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$174.73,KS
+Kearny County Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$25.00,KS
+Kearny County Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$3,300.00",KS
+Kearny County Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$668.00,KS
+Kearny County Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$2,062.00",KS

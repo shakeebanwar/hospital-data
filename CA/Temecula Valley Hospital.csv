@@ -1,0 +1,192 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Temecula Valley Hospital,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$383.35,CA
+Temecula Valley Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$4,074.80",CA
+Temecula Valley Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$342.10,CA
+Temecula Valley Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$599.56,CA
+Temecula Valley Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$833.08,CA
+Temecula Valley Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,749.55",CA
+Temecula Valley Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$2,019.98",CA
+Temecula Valley Hospital,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$244.64,CA
+Temecula Valley Hospital,Speech,HCPCS 92610,Swallow Evaluation,$394.52,CA
+Temecula Valley Hospital,Speech,HCPCS 92526,Swallow Treatment,$313.94,CA
+Temecula Valley Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$15.53,CA
+Temecula Valley Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$23.03,CA
+Temecula Valley Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$38.09,CA
+Temecula Valley Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$72.90,CA
+Temecula Valley Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$83.13,CA
+Temecula Valley Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$55.52,CA
+Temecula Valley Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$271.63,CA
+Temecula Valley Hospital,Chemistry,HCPCS 82140,Ammonia level,$152.61,CA
+Temecula Valley Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$86.13,CA
+Temecula Valley Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$174.68,CA
+Temecula Valley Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$41.41,CA
+Temecula Valley Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$27.26,CA
+Temecula Valley Hospital,Chemistry,HCPCS 84132,Blood potassium level,$86.96,CA
+Temecula Valley Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$86.76,CA
+Temecula Valley Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$123.47,CA
+Temecula Valley Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$7.26,CA
+Temecula Valley Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$8.80,CA
+Temecula Valley Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$5.99,CA
+Temecula Valley Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$4.12,CA
+Temecula Valley Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$41.47,CA
+Temecula Valley Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$1.67,CA
+Temecula Valley Hospital,Chemistry,HCPCS 83001,"Gonadotropin, chorionic (reproductive hormone) level",$2.62,CA
+Temecula Valley Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$85.57,CA
+Temecula Valley Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$39.82,CA
+Temecula Valley Hospital,Chemistry,HCPCS 83540,Iron level,$48.25,CA
+Temecula Valley Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$28.32,CA
+Temecula Valley Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$81.64,CA
+Temecula Valley Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$92.53,CA
+Temecula Valley Hospital,Chemistry,HCPCS 83735,Magnesium Level,$87.73,CA
+Temecula Valley Hospital,Chemistry,HCPCS 83970,Parathormone,$296.70,CA
+Temecula Valley Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$71.84,CA
+Temecula Valley Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$2.05,CA
+Temecula Valley Hospital,Chemistry,HCPCS A9270,Selenium (vitamin) level,$15.12,CA
+Temecula Valley Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$11.70,CA
+Temecula Valley Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$4.80,CA
+Temecula Valley Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$40.15,CA
+Temecula Valley Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$28.76,CA
+Temecula Valley Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$31.60,CA
+Temecula Valley Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$2.95,CA
+Temecula Valley Hospital,Chemistry,HCPCS 84300,Urine sodium level,$91.18,CA
+Temecula Valley Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$10.38,CA
+Temecula Valley Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$16.80,CA
+Temecula Valley Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$66.00,CA
+Temecula Valley Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$27.71,CA
+Temecula Valley Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$28.36,CA
+Temecula Valley Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$34.52,CA
+Temecula Valley Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$0.99,CA
+Temecula Valley Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$72.19,CA
+Temecula Valley Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$48.52,CA
+Temecula Valley Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$126.82,CA
+Temecula Valley Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$12.17,CA
+Temecula Valley Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$31.66,CA
+Temecula Valley Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$61.07,CA
+Temecula Valley Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$30.87,CA
+Temecula Valley Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$10.92,CA
+Temecula Valley Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$3.52,CA
+Temecula Valley Hospital,Microbiology,HCPCS 87045,Stool Culture,$50.16,CA
+Temecula Valley Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$4.80,CA
+Temecula Valley Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$206.71,CA
+Temecula Valley Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$65.29,CA
+Temecula Valley Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$77.72,CA
+Temecula Valley Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$60.99,CA
+Temecula Valley Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$178.98,CA
+Temecula Valley Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$166.10,CA
+Temecula Valley Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$329.62,CA
+Temecula Valley Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$43.70,CA
+Temecula Valley Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$62.40,CA
+Temecula Valley Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$171.90,CA
+Temecula Valley Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$63.10,CA
+Temecula Valley Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$44.26,CA
+Temecula Valley Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$86.37,CA
+Temecula Valley Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$67.56,CA
+Temecula Valley Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$86.92,CA
+Temecula Valley Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$95.44,CA
+Temecula Valley Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$684.04,CA
+Temecula Valley Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$261.81,CA
+Temecula Valley Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,186.57",CA
+Temecula Valley Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,$191.26,CA
+Temecula Valley Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$144.28,CA
+Temecula Valley Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$2,289.57",CA
+Temecula Valley Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,651.02",CA
+Temecula Valley Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,432.30",CA
+Temecula Valley Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,961.37",CA
+Temecula Valley Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,508.94",CA
+Temecula Valley Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,056.22",CA
+Temecula Valley Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,662.85",CA
+Temecula Valley Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,525.76",CA
+Temecula Valley Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,502.27",CA
+Temecula Valley Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,365.93",CA
+Temecula Valley Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$2,136.78",CA
+Temecula Valley Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,338.44",CA
+Temecula Valley Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,376.00",CA
+Temecula Valley Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$3,185.46",CA
+Temecula Valley Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,157.14",CA
+Temecula Valley Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$3,175.50",CA
+Temecula Valley Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,602.41",CA
+Temecula Valley Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,941.48",CA
+Temecula Valley Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$2,118.50",CA
+Temecula Valley Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$618.96,CA
+Temecula Valley Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$566.55,CA
+Temecula Valley Hospital,Ultrasound,HCPCS 76881,Ultrasound Joint Soft Tissue - Complete,$546.04,CA
+Temecula Valley Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$722.43,CA
+Temecula Valley Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$563.49,CA
+Temecula Valley Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$574.07,CA
+Temecula Valley Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$480.55,CA
+Temecula Valley Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$363.97,CA
+Temecula Valley Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$286.06,CA
+Temecula Valley Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$237.86,CA
+Temecula Valley Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$309.02,CA
+Temecula Valley Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$149.62,CA
+Temecula Valley Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$211.82,CA
+Temecula Valley Hospital,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$333.88,CA
+Temecula Valley Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$316.29,CA
+Temecula Valley Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$216.44,CA
+Temecula Valley Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$199.87,CA
+Temecula Valley Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$252.96,CA
+Temecula Valley Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$238.33,CA
+Temecula Valley Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$242.78,CA
+Temecula Valley Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$308.92,CA
+Temecula Valley Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$185.91,CA
+Temecula Valley Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$191.56,CA
+Temecula Valley Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$225.33,CA
+Temecula Valley Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$315.33,CA
+Temecula Valley Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$213.21,CA
+Temecula Valley Hospital,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$300.98,CA
+Temecula Valley Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$282.47,CA
+Temecula Valley Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$262.13,CA
+Temecula Valley Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$165.38,CA
+Temecula Valley Hospital,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$212.10,CA
+Temecula Valley Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$181.37,CA
+Temecula Valley Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$230.09,CA
+Temecula Valley Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$266.83,CA
+Temecula Valley Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$222.07,CA
+Temecula Valley Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$240.11,CA
+Temecula Valley Hospital,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$31,308.80",CA
+Temecula Valley Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$3,848.62",CA
+Temecula Valley Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$5,100.60",CA
+Temecula Valley Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$3,523.70",CA
+Temecula Valley Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$220.96,CA
+Temecula Valley Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$186.10,CA
+Temecula Valley Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$22,496.94",CA
+Temecula Valley Hospital,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$3,311.14",CA
+Temecula Valley Hospital,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$3,959.43",CA
+Temecula Valley Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$4,744.50",CA
+Temecula Valley Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$4,413.12",CA
+Temecula Valley Hospital,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$2,978.12",CA
+Temecula Valley Hospital,Breast,HCPCS 19301,Partial removal of breast,"$2,715.78",CA
+Temecula Valley Hospital,Breast,HCPCS 19303,Total removal of breast,"$2,879.58",CA
+Temecula Valley Hospital,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,"$19,697.46",CA
+Temecula Valley Hospital,Cardiac,MSDRG 216,Cardiac valve procedure,"$147,954.46",CA
+Temecula Valley Hospital,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$18,394.70",CA
+Temecula Valley Hospital,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$74,040.87",CA
+Temecula Valley Hospital,Cardiac,HCPCS 33249,Defibrillator complete system,"$21,036.88",CA
+Temecula Valley Hospital,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$439.00,CA
+Temecula Valley Hospital,Cardiac,MSDRG 247,Implant drug-eluting stent,"$16,395.52",CA
+Temecula Valley Hospital,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$20,192.92",CA
+Temecula Valley Hospital,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$3,707.62",CA
+Temecula Valley Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,434.50",CA
+Temecula Valley Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,168.54",CA
+Temecula Valley Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,022.82",CA
+Temecula Valley Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$1,010.80",CA
+Temecula Valley Hospital,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$2,523.43",CA
+Temecula Valley Hospital,General,HCPCS 10060,Drainage of Abscess,$953.19,CA
+Temecula Valley Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$998.62,CA
+Temecula Valley Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$84.05,CA
+Temecula Valley Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$302.24,CA
+Temecula Valley Hospital,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$520.00,CA
+Temecula Valley Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$215.18,CA
+Temecula Valley Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$220.06,CA
+Temecula Valley Hospital,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$2,206.98",CA
+Temecula Valley Hospital,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$55,348.40",CA
+Temecula Valley Hospital,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$299.78,CA
+Temecula Valley Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$351.49,CA
+Temecula Valley Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$15,308.00",CA
+Temecula Valley Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$3,288.64",CA
+Temecula Valley Hospital,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$2,207.16",CA
+Temecula Valley Hospital,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$2,815.69",CA
+Temecula Valley Hospital,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$47,992.63",CA
+Temecula Valley Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$74,294.18",CA
+Temecula Valley Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$658.61,CA
+Temecula Valley Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,800.82",CA

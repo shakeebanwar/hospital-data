@@ -1,0 +1,119 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Boone Hospital Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$2,239.80",MO
+Boone Hospital Center,Emergency Care,HCPCS 99281,Emergency Level 1,$208.20,MO
+Boone Hospital Center,Emergency Care,HCPCS 99282,Emergency Level 2,$345.00,MO
+Boone Hospital Center,Emergency Care,HCPCS 99283,Emergency Level 3,$609.60,MO
+Boone Hospital Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,078.20",MO
+Boone Hospital Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$178.80,MO
+Boone Hospital Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$274.20,MO
+Boone Hospital Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$165.60,MO
+Boone Hospital Center,Speech,HCPCS 92507,Speech Therapy,$138.60,MO
+Boone Hospital Center,Blood,HCPCS 85610,"Blood test, clotting time",$14.40,MO
+Boone Hospital Center,Blood,HCPCS 85730,Coagulation assessment blood test,$27.00,MO
+Boone Hospital Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$27.00,MO
+Boone Hospital Center,Blood,HCPCS 85027,"Complete blood count, automated",$22.80,MO
+Boone Hospital Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$48.00,MO
+Boone Hospital Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$83.40,MO
+Boone Hospital Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$110.40,MO
+Boone Hospital Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$44.40,MO
+Boone Hospital Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$31.80,MO
+Boone Hospital Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$32.40,MO
+Boone Hospital Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$97.80,MO
+Boone Hospital Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$57.00,MO
+Boone Hospital Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$53.40,MO
+Boone Hospital Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$16.20,MO
+Boone Hospital Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$28.20,MO
+Boone Hospital Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$3,202.38",MO
+Boone Hospital Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$3,153.60",MO
+Boone Hospital Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,$798.60,MO
+Boone Hospital Center,Pulmonary,HCPCS 94618,Pulmonary stress test,$193.20,MO
+Boone Hospital Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$304.80,MO
+Boone Hospital Center,Sleep,HCPCS 95810,Sleep study,"$2,370.60",MO
+Boone Hospital Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$30.00,MO
+Boone Hospital Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$110.40,MO
+Boone Hospital Center,Breast,HCPCS 77067,Mammogram Screening,$105.00,MO
+Boone Hospital Center,Breast,HCPCS 77066,Mammography of both breasts,$137.40,MO
+Boone Hospital Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,095.00",MO
+Boone Hospital Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$624.00,MO
+Boone Hospital Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$691.80,MO
+Boone Hospital Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$826.20,MO
+Boone Hospital Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,257.60",MO
+Boone Hospital Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,$940.20,MO
+Boone Hospital Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$688.20,MO
+Boone Hospital Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$790.80,MO
+Boone Hospital Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,198.80",MO
+Boone Hospital Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$775.80,MO
+Boone Hospital Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$615.60,MO
+Boone Hospital Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$888.00,MO
+Boone Hospital Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$725.40,MO
+Boone Hospital Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)",$564.60,MO
+Boone Hospital Center,MRI,HCPCS 72146,MRI chest spine without contrast material,$988.80,MO
+Boone Hospital Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,093.20",MO
+Boone Hospital Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$1,308.00",MO
+Boone Hospital Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,093.20",MO
+Boone Hospital Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$1,308.00",MO
+Boone Hospital Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,226.40",MO
+Boone Hospital Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,056.60",MO
+Boone Hospital Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,308.00",MO
+Boone Hospital Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$921.00,MO
+Boone Hospital Center,MRI,HCPCS 73721,MRI scan of leg joint,$918.60,MO
+Boone Hospital Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$361.80,MO
+Boone Hospital Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$388.20,MO
+Boone Hospital Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$404.40,MO
+Boone Hospital Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$612.00,MO
+Boone Hospital Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$351.00,MO
+Boone Hospital Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$161.40,MO
+Boone Hospital Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$405.60,MO
+Boone Hospital Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$404.40,MO
+Boone Hospital Center,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$403.80,MO
+Boone Hospital Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$151.20,MO
+Boone Hospital Center,Chest,HCPCS 71045,X-ray of chest; Single View,$144.60,MO
+Boone Hospital Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$220.80,MO
+Boone Hospital Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$169.20,MO
+Boone Hospital Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$170.40,MO
+Boone Hospital Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$162.00,MO
+Boone Hospital Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$83.40,MO
+Boone Hospital Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$180.60,MO
+Boone Hospital Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$271.20,MO
+Boone Hospital Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$194.40,MO
+Boone Hospital Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$313.80,MO
+Boone Hospital Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$193.20,MO
+Boone Hospital Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$138.60,MO
+Boone Hospital Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$189.60,MO
+Boone Hospital Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$169.20,MO
+Boone Hospital Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$160.20,MO
+Boone Hospital Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$8,425.75",MO
+Boone Hospital Center,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$10,718.72",MO
+Boone Hospital Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$7,014.24",MO
+Boone Hospital Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$124.14,MO
+Boone Hospital Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$10,118.38",MO
+Boone Hospital Center,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$7,682.35",MO
+Boone Hospital Center,Breast,HCPCS 19120,Excision of cyst of breast,"$6,004.30",MO
+Boone Hospital Center,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),"$128,144.82",MO
+Boone Hospital Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",$636.87,MO
+Boone Hospital Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,135.65",MO
+Boone Hospital Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,359.29",MO
+Boone Hospital Center,Digestive,HCPCS 43235,EGD,$778.86,MO
+Boone Hospital Center,Digestive,HCPCS 43239,EGD and biopsy,"$1,796.70",MO
+Boone Hospital Center,Digestive,HCPCS 45391,Ultrasound of lower large bowel using an endoscope,"$1,538.55",MO
+Boone Hospital Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$12,780.99",MO
+Boone Hospital Center,General,HCPCS 55700,Biopsy of prostate gland,"$3,661.72",MO
+Boone Hospital Center,General,HCPCS 10060,Drainage of Abscess,"$1,328.85",MO
+Boone Hospital Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$1,246.98",MO
+Boone Hospital Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$1,323.60",MO
+Boone Hospital Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$948.80,MO
+Boone Hospital Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$1,120.48",MO
+Boone Hospital Center,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$1,182.32",MO
+Boone Hospital Center,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$2,126.29",MO
+Boone Hospital Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$1,146.69",MO
+Boone Hospital Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$19,875.25",MO
+Boone Hospital Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$6,142.73",MO
+Boone Hospital Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$14,258.73",MO
+Boone Hospital Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$32,383.35",MO
+Boone Hospital Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$50,810.64",MO
+Boone Hospital Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$660.00,MO
+Boone Hospital Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$6,364.96",MO
+Boone Hospital Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$6,417.10",MO
+Boone Hospital Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$4,145.96",MO
+Boone Hospital Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$321.00,MO
+Boone Hospital Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$420.60,MO

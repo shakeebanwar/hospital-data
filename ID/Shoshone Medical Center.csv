@@ -1,0 +1,192 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Shoshone Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,440.64",ID
+Shoshone Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$549.99,ID
+Shoshone Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$549.99,ID
+Shoshone Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$549.99,ID
+Shoshone Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,$549.99,ID
+Shoshone Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,$549.99,ID
+Shoshone Medical Center,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$90.68,ID
+Shoshone Medical Center,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$90.68,ID
+Shoshone Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$90.68,ID
+Shoshone Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$90.68,ID
+Shoshone Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$90.68,ID
+Shoshone Medical Center,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$140.71,ID
+Shoshone Medical Center,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$93.27,ID
+Shoshone Medical Center,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$93.27,ID
+Shoshone Medical Center,Speech,HCPCS 92507,Speech Therapy,$228.75,ID
+Shoshone Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$28.42,ID
+Shoshone Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$29.40,ID
+Shoshone Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$26.95,ID
+Shoshone Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$65.90,ID
+Shoshone Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$41.19,ID
+Shoshone Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$41.19,ID
+Shoshone Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$21.73,ID
+Shoshone Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$53.95,ID
+Shoshone Medical Center,Chemistry,HCPCS 82140,Ammonia level,$109.13,ID
+Shoshone Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$75.35,ID
+Shoshone Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$84.75,ID
+Shoshone Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$179.99,ID
+Shoshone Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$82.84,ID
+Shoshone Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$45.12,ID
+Shoshone Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$45.12,ID
+Shoshone Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$35.97,ID
+Shoshone Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$35.50,ID
+Shoshone Medical Center,Chemistry,HCPCS 84132,Blood potassium level,$42.75,ID
+Shoshone Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$74.43,ID
+Shoshone Medical Center,Chemistry,HCPCS 82310,Calcium level,$62.80,ID
+Shoshone Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$129.58,ID
+Shoshone Medical Center,Chemistry,HCPCS 82465,Cholesterol level,$38.38,ID
+Shoshone Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$97.50,ID
+Shoshone Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$48.18,ID
+Shoshone Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$97.24,ID
+Shoshone Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$97.30,ID
+Shoshone Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$95.54,ID
+Shoshone Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$56.06,ID
+Shoshone Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$45.07,ID
+Shoshone Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$112.88,ID
+Shoshone Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$114.86,ID
+Shoshone Medical Center,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$105.64,ID
+Shoshone Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$62.80,ID
+Shoshone Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$63.72,ID
+Shoshone Medical Center,Chemistry,HCPCS 83540,Iron level,$53.68,ID
+Shoshone Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$53.12,ID
+Shoshone Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$47.68,ID
+Shoshone Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$43.11,ID
+Shoshone Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$99.93,ID
+Shoshone Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$63.63,ID
+Shoshone Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$80.07,ID
+Shoshone Medical Center,Chemistry,HCPCS 83970,Parathormone,$191.31,ID
+Shoshone Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$57.15,ID
+Shoshone Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$126.75,ID
+Shoshone Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$57.15,ID
+Shoshone Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$30.53,ID
+Shoshone Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$122.46,ID
+Shoshone Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$122.46,ID
+Shoshone Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$82.84,ID
+Shoshone Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$57.15,ID
+Shoshone Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$45.51,ID
+Shoshone Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$62.80,ID
+Shoshone Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$53.95,ID
+Shoshone Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$42.75,ID
+Shoshone Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$46.75,ID
+Shoshone Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$140.17,ID
+Shoshone Medical Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$105.46,ID
+Shoshone Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$85.33,ID
+Shoshone Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$85.33,ID
+Shoshone Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$85.33,ID
+Shoshone Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$60.83,ID
+Shoshone Medical Center,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$107.76,ID
+Shoshone Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$85.33,ID
+Shoshone Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$79.37,ID
+Shoshone Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$58.03,ID
+Shoshone Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$64.16,ID
+Shoshone Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$52.51,ID
+Shoshone Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$98.25,ID
+Shoshone Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$47.77,ID
+Shoshone Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$49.17,ID
+Shoshone Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$89.00,ID
+Shoshone Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$85.33,ID
+Shoshone Medical Center,Microbiology,HCPCS 87517,Hepatitis B Detection,$255.54,ID
+Shoshone Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$105.46,ID
+Shoshone Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$66.20,ID
+Shoshone Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$49.93,ID
+Shoshone Medical Center,Microbiology,HCPCS 87880,Strep Test,$61.67,ID
+Shoshone Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$65.81,ID
+Shoshone Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$52.51,ID
+Shoshone Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$69.00,ID
+Shoshone Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$277.61,ID
+Shoshone Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$60.95,ID
+Shoshone Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$79.62,ID
+Shoshone Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$67.78,ID
+Shoshone Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$109.81,ID
+Shoshone Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$112.41,ID
+Shoshone Medical Center,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$118.77,ID
+Shoshone Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$54.83,ID
+Shoshone Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$54.83,ID
+Shoshone Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$130.54,ID
+Shoshone Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$93.47,ID
+Shoshone Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$93.47,ID
+Shoshone Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$25.06,ID
+Shoshone Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$25.06,ID
+Shoshone Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$63.55,ID
+Shoshone Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$99.56,ID
+Shoshone Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,$460.38,ID
+Shoshone Medical Center,Pulmonary,HCPCS 94640,Aerosol Treatment,$273.61,ID
+Shoshone Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$607.31,ID
+Shoshone Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$248.04,ID
+Shoshone Medical Center,Breast,HCPCS 77067,Mammogram Screening,$312.06,ID
+Shoshone Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$248.04,ID
+Shoshone Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,696.47",ID
+Shoshone Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,006.31",ID
+Shoshone Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$942.52,ID
+Shoshone Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$925.28,ID
+Shoshone Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$2,203.58",ID
+Shoshone Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,203.58",ID
+Shoshone Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,545.87",ID
+Shoshone Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,475.84",ID
+Shoshone Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,475.84",ID
+Shoshone Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,307.38",ID
+Shoshone Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$930.79,ID
+Shoshone Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,426.83",ID
+Shoshone Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,230.23",ID
+Shoshone Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,361.06",ID
+Shoshone Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,361.06",ID
+Shoshone Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,361.06",ID
+Shoshone Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,341.48",ID
+Shoshone Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,462.28",ID
+Shoshone Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,330.04",ID
+Shoshone Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,373.37",ID
+Shoshone Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$1,310.78",ID
+Shoshone Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$377.93,ID
+Shoshone Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$428.22,ID
+Shoshone Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$394.20,ID
+Shoshone Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$494.50,ID
+Shoshone Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$494.50,ID
+Shoshone Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$410.95,ID
+Shoshone Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$410.95,ID
+Shoshone Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$402.73,ID
+Shoshone Medical Center,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$456.38,ID
+Shoshone Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$364.58,ID
+Shoshone Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$189.12,ID
+Shoshone Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$189.12,ID
+Shoshone Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$335.58,ID
+Shoshone Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$320.06,ID
+Shoshone Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$250.74,ID
+Shoshone Medical Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$300.74,ID
+Shoshone Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$221.72,ID
+Shoshone Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$221.72,ID
+Shoshone Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$221.84,ID
+Shoshone Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$221.72,ID
+Shoshone Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$221.84,ID
+Shoshone Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$245.64,ID
+Shoshone Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$221.72,ID
+Shoshone Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$221.84,ID
+Shoshone Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$221.84,ID
+Shoshone Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$265.08,ID
+Shoshone Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$398.89,ID
+Shoshone Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$398.89,ID
+Shoshone Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$394.06,ID
+Shoshone Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$394.06,ID
+Shoshone Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$292.68,ID
+Shoshone Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$226.50,ID
+Shoshone Medical Center,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$263.59,ID
+Shoshone Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$215.44,ID
+Shoshone Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$226.84,ID
+Shoshone Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$215.44,ID
+Shoshone Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$215.44,ID
+Shoshone Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$325.43,ID
+Shoshone Medical Center,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$325.43,ID
+Shoshone Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,836.29",ID
+Shoshone Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$2,119.87",ID
+Shoshone Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,994.00",ID
+Shoshone Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,994.00",ID
+Shoshone Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$1,813.97",ID
+Shoshone Medical Center,General,HCPCS 10060,Drainage of Abscess,$348.70,ID
+Shoshone Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$504.86,ID
+Shoshone Medical Center,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$504.86,ID
+Shoshone Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$504.86,ID
+Shoshone Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$504.86,ID
+Shoshone Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$117.00,ID
+Shoshone Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$264.07,ID
+Shoshone Medical Center,Vascular,HCPCS 36416,Collection of capillary blood specimen,$17.11,ID
+Shoshone Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,820.59",ID

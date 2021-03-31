@@ -1,0 +1,325 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Cabinet Peaks Medical Center ,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$511.00,MT
+Cabinet Peaks Medical Center ,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,194.61",MT
+Cabinet Peaks Medical Center ,Emergency Care,HCPCS 99281,Emergency Level 1,$115.52,MT
+Cabinet Peaks Medical Center ,Emergency Care,HCPCS 99282,Emergency Level 2,$79.42,MT
+Cabinet Peaks Medical Center ,Emergency Care,HCPCS 99283,Emergency Level 3,$118.71,MT
+Cabinet Peaks Medical Center ,Emergency Care,HCPCS 99284,Emergency Level 4,$218.67,MT
+Cabinet Peaks Medical Center ,Emergency Care,HCPCS 99285,Emergency Level 5,$317.79,MT
+Cabinet Peaks Medical Center ,Hospital,HCPCS 99234,Hospital observation care discharge,$189.00,MT
+Cabinet Peaks Medical Center ,Hospital,HCPCS 99219,Hospital observation care typically 30 minutes,$334.43,MT
+Cabinet Peaks Medical Center ,Hospital,HCPCS 99235,"Hospital observation or inpatient care moderate severity, 50 minutes per day",$429.25,MT
+Cabinet Peaks Medical Center ,Hospital,HCPCS 99218,Hospital Observation per Hour,$254.37,MT
+Cabinet Peaks Medical Center ,Hospital,HCPCS 99224,"Subsequent observation care, typically 25 minutes per day",$56.45,MT
+Cabinet Peaks Medical Center ,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$193.12,MT
+Cabinet Peaks Medical Center ,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$223.26,MT
+Cabinet Peaks Medical Center ,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$245.33,MT
+Cabinet Peaks Medical Center ,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$308.25,MT
+Cabinet Peaks Medical Center ,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$161.26,MT
+Cabinet Peaks Medical Center ,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$204.14,MT
+Cabinet Peaks Medical Center ,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$283.89,MT
+Cabinet Peaks Medical Center ,Psychology,HCPCS 90853,Group psychotherapy,$48.72,MT
+Cabinet Peaks Medical Center ,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$251.90,MT
+Cabinet Peaks Medical Center ,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$121.82,MT
+Cabinet Peaks Medical Center ,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$162.35,MT
+Cabinet Peaks Medical Center ,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$244.04,MT
+Cabinet Peaks Medical Center ,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$283.89,MT
+Cabinet Peaks Medical Center ,Speech,HCPCS 92507,Speech Therapy,$199.37,MT
+Cabinet Peaks Medical Center ,Speech,HCPCS 92610,Swallow Evaluation,$284.65,MT
+Cabinet Peaks Medical Center ,Speech,HCPCS 92526,Swallow Treatment,$216.53,MT
+Cabinet Peaks Medical Center ,Blood,HCPCS 85018,"Blood count, hemoglobin",$13.27,MT
+Cabinet Peaks Medical Center ,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$15.23,MT
+Cabinet Peaks Medical Center ,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$30.58,MT
+Cabinet Peaks Medical Center ,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$82.82,MT
+Cabinet Peaks Medical Center ,Blood,HCPCS 85610,"Blood test, clotting time",$16.30,MT
+Cabinet Peaks Medical Center ,Blood,HCPCS 85730,Coagulation assessment blood test,$38.61,MT
+Cabinet Peaks Medical Center ,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$53.75,MT
+Cabinet Peaks Medical Center ,Blood,HCPCS 85027,"Complete blood count, automated",$34.07,MT
+Cabinet Peaks Medical Center ,Blood,HCPCS 85008,Microscopic examination for white blood cells,$22.13,MT
+Cabinet Peaks Medical Center ,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$29.72,MT
+Cabinet Peaks Medical Center ,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$89.00,MT
+Cabinet Peaks Medical Center ,Blood,HCPCS 85660,Red blood cell sickling measurement,$35.49,MT
+Cabinet Peaks Medical Center ,Blood,HCPCS 85041,"Red blood count, automated test",$19.41,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$218.39,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$248.52,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 82040,Albumin (protein) level,$26.89,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$86.46,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$107.93,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 82140,Ammonia level,$84.55,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 82150,Amylase (enzyme) level,$45.61,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$93.93,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$139.30,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 84439,Assay of free thyroxine,$58.02,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$104.08,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 82248,Bilirubin level (Direct),$32.25,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 82247,Bilirubin level (Total),$32.25,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 82565,Blood creatinine level,$32.98,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$13.60,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 84295,Blood sodium level,$30.98,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$37.04,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$29.58,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$59.05,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 82310,Calcium level,$33.16,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$31.49,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$122.07,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 82465,Cholesterol level,$27.98,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 82525,Copper level,$79.85,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 82533,Cortisol Measurement,$104.93,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 84681,C-peptide (protein) level,$104.80,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$41.94,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$97.00,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$162.59,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$112.04,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$87.67,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 82746,Folic acid; serum,$94.58,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$58.57,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$46.33,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$54.51,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$119.55,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$119.16,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$80.95,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 83718,HDL cholesterol level,$52.69,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$108.54,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$174.78,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 83520,IgE (immune system protein) level,$83.31,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 83525,Insulin Measurement; Total,$73.56,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 82330,Ionized Calcium,$87.94,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 83550,Iron Binding Capacity,$34.88,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 83540,Iron level,$27.89,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$38.86,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 83721,LDL cholesterol level,$61.38,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$43.06,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$33.31,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$91.21,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 83021,Liver function blood test panel,$116.16,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 83735,Magnesium Level,$141.34,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 82542,Mass spectrometry,$116.16,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$87.46,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$64.20,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 83918,Organic acid level,$105.90,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 83945,Oxalate level,$82.82,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 83970,Parathormone,$128.70,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 84157,Prealbumin (protein) level,$86.69,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$86.94,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$124.71,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$69.10,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 82270,Stool analysis for blood,$20.95,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 84403,Testosterone (hormone) level,$83.36,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 84402,Testosterone Level; Free,$163.86,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 84479,"Thyroid Hormone, T3 Measurement, Free",$41.66,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$44.21,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 84155,"Total protein level, blood",$23.59,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$23.59,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 84166,Troponin (protein) analysis,$114.74,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 84560,Uric acid level,$30.58,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 84550,"Uric acid level, blood",$29.07,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 82340,Urine calcium level,$38.79,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 82436,Urine chloride level,$32.35,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$37.22,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$43.85,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$94.63,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 84133,Urine potassium level,$27.68,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 84300,Urine sodium level,$31.31,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 84591,Vitamin B-6 level,$211.88,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$102.20,MT
+Cabinet Peaks Medical Center ,Chemistry,HCPCS 84630,Zinc level,$73.23,MT
+Cabinet Peaks Medical Center ,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$111.47,MT
+Cabinet Peaks Medical Center ,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$58.67,MT
+Cabinet Peaks Medical Center ,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$72.67,MT
+Cabinet Peaks Medical Center ,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$84.85,MT
+Cabinet Peaks Medical Center ,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$47.39,MT
+Cabinet Peaks Medical Center ,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$91.85,MT
+Cabinet Peaks Medical Center ,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$88.37,MT
+Cabinet Peaks Medical Center ,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$77.55,MT
+Cabinet Peaks Medical Center ,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$58.57,MT
+Cabinet Peaks Medical Center ,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$105.66,MT
+Cabinet Peaks Medical Center ,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$143.72,MT
+Cabinet Peaks Medical Center ,Immunology,HCPCS 86140,Measurement C-reactive protein,$50.34,MT
+Cabinet Peaks Medical Center ,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$43.16,MT
+Cabinet Peaks Medical Center ,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$77.55,MT
+Cabinet Peaks Medical Center ,Immunology,HCPCS 86161,Measurement of complement (immune system proteins),$77.28,MT
+Cabinet Peaks Medical Center ,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$79.74,MT
+Cabinet Peaks Medical Center ,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$93.63,MT
+Cabinet Peaks Medical Center ,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$23.52,MT
+Cabinet Peaks Medical Center ,Immunology,HCPCS 86580,Skin test for tuberculosis,$11.29,MT
+Cabinet Peaks Medical Center ,Immunology,HCPCS 86592,Syphilis Detection Test,$27.50,MT
+Cabinet Peaks Medical Center ,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$302.31,MT
+Cabinet Peaks Medical Center ,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$102.35,MT
+Cabinet Peaks Medical Center ,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$69.08,MT
+Cabinet Peaks Medical Center ,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$53.94,MT
+Cabinet Peaks Medical Center ,Microbiology,HCPCS 87491,Chlamydia Test,$68.47,MT
+Cabinet Peaks Medical Center ,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$116.97,MT
+Cabinet Peaks Medical Center ,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$275.60,MT
+Cabinet Peaks Medical Center ,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$62.29,MT
+Cabinet Peaks Medical Center ,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$547.44,MT
+Cabinet Peaks Medical Center ,Microbiology,HCPCS 87517,Hepatitis B Detection,$275.60,MT
+Cabinet Peaks Medical Center ,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$26.88,MT
+Cabinet Peaks Medical Center ,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$127.00,MT
+Cabinet Peaks Medical Center ,Microbiology,HCPCS 86735,Mumps virus antibody test,$84.01,MT
+Cabinet Peaks Medical Center ,Microbiology,HCPCS 86747,Parvovirus antibody test,$93.88,MT
+Cabinet Peaks Medical Center ,Microbiology,HCPCS 86762,Rubella virus antibody test,$72.67,MT
+Cabinet Peaks Medical Center ,Microbiology,HCPCS 86765,Rubeola virus antibody test,$82.92,MT
+Cabinet Peaks Medical Center ,Microbiology,HCPCS 87207,Smear for infectious agents,$89.33,MT
+Cabinet Peaks Medical Center ,Microbiology,HCPCS 87177,Smear for Parasites,$57.23,MT
+Cabinet Peaks Medical Center ,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$34.58,MT
+Cabinet Peaks Medical Center ,Microbiology,HCPCS 87045,Stool Culture,$60.69,MT
+Cabinet Peaks Medical Center ,Microbiology,HCPCS 87880,Strep Test,$22.33,MT
+Cabinet Peaks Medical Center ,Microbiology,HCPCS 87804,Test for Influenza Virus,$21.34,MT
+Cabinet Peaks Medical Center ,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$85.18,MT
+Cabinet Peaks Medical Center ,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$82.92,MT
+Cabinet Peaks Medical Center ,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$59.53,MT
+Cabinet Peaks Medical Center ,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$227.12,MT
+Cabinet Peaks Medical Center ,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$53.00,MT
+Cabinet Peaks Medical Center ,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$68.01,MT
+Cabinet Peaks Medical Center ,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$62.83,MT
+Cabinet Peaks Medical Center ,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$55.87,MT
+Cabinet Peaks Medical Center ,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$53.18,MT
+Cabinet Peaks Medical Center ,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$329.01,MT
+Cabinet Peaks Medical Center ,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$228.63,MT
+Cabinet Peaks Medical Center ,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$116.16,MT
+Cabinet Peaks Medical Center ,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$85.39,MT
+Cabinet Peaks Medical Center ,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$227.12,MT
+Cabinet Peaks Medical Center ,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$42.52,MT
+Cabinet Peaks Medical Center ,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$73.68,MT
+Cabinet Peaks Medical Center ,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$85.27,MT
+Cabinet Peaks Medical Center ,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$113.94,MT
+Cabinet Peaks Medical Center ,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$87.19,MT
+Cabinet Peaks Medical Center ,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$90.85,MT
+Cabinet Peaks Medical Center ,Transfusion,HCPCS 86900,"Blood Typing, ABO",$30.67,MT
+Cabinet Peaks Medical Center ,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$33.31,MT
+Cabinet Peaks Medical Center ,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$112.80,MT
+Cabinet Peaks Medical Center ,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$38.61,MT
+Cabinet Peaks Medical Center ,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$58.67,MT
+Cabinet Peaks Medical Center ,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$15.44,MT
+Cabinet Peaks Medical Center ,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$27.30,MT
+Cabinet Peaks Medical Center ,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$29.34,MT
+Cabinet Peaks Medical Center ,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$40.60,MT
+Cabinet Peaks Medical Center ,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$243.40,MT
+Cabinet Peaks Medical Center ,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$122.64,MT
+Cabinet Peaks Medical Center ,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$85.85,MT
+Cabinet Peaks Medical Center ,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$113.56,MT
+Cabinet Peaks Medical Center ,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$36.79,MT
+Cabinet Peaks Medical Center ,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$265.73,MT
+Cabinet Peaks Medical Center ,Pulmonary,HCPCS 94640,Nebulizer Treatment,$26.69,MT
+Cabinet Peaks Medical Center ,Pulmonary,HCPCS 94618,Pulmonary stress test,$61.74,MT
+Cabinet Peaks Medical Center ,Pulmonary,HCPCS 94010,Spirometry - breathing test,$161.70,MT
+Cabinet Peaks Medical Center ,Sleep,HCPCS 95810,Sleep study,"$1,275.78",MT
+Cabinet Peaks Medical Center ,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$42.00,MT
+Cabinet Peaks Medical Center ,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$180.56,MT
+Cabinet Peaks Medical Center ,Breast,HCPCS 77067,Mammogram Screening,$185.10,MT
+Cabinet Peaks Medical Center ,Breast,HCPCS 77066,Mammography of both breasts,$227.49,MT
+Cabinet Peaks Medical Center ,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,243.52",MT
+Cabinet Peaks Medical Center ,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$760.31,MT
+Cabinet Peaks Medical Center ,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$791.95,MT
+Cabinet Peaks Medical Center ,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$435.95,MT
+Cabinet Peaks Medical Center ,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,945.73",MT
+Cabinet Peaks Medical Center ,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,768.15",MT
+Cabinet Peaks Medical Center ,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,496.67",MT
+Cabinet Peaks Medical Center ,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$887.30,MT
+Cabinet Peaks Medical Center ,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,$912.28,MT
+Cabinet Peaks Medical Center ,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,003.09",MT
+Cabinet Peaks Medical Center ,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,022.40",MT
+Cabinet Peaks Medical Center ,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$880.85,MT
+Cabinet Peaks Medical Center ,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$874.60,MT
+Cabinet Peaks Medical Center ,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,545.67",MT
+Cabinet Peaks Medical Center ,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,090.15",MT
+Cabinet Peaks Medical Center ,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,172.44",MT
+Cabinet Peaks Medical Center ,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$1,771.50",MT
+Cabinet Peaks Medical Center ,MRI,HCPCS 72141,MRI neck spine without contrast material,$995.52,MT
+Cabinet Peaks Medical Center ,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$1,693.67",MT
+Cabinet Peaks Medical Center ,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,813.36",MT
+Cabinet Peaks Medical Center ,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$927.39,MT
+Cabinet Peaks Medical Center ,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,938.05",MT
+Cabinet Peaks Medical Center ,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,249.14",MT
+Cabinet Peaks Medical Center ,MRI,HCPCS 73721,MRI scan of leg joint,$814.67,MT
+Cabinet Peaks Medical Center ,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$204.62,MT
+Cabinet Peaks Medical Center ,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$353.70,MT
+Cabinet Peaks Medical Center ,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$347.63,MT
+Cabinet Peaks Medical Center ,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$85.68,MT
+Cabinet Peaks Medical Center ,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$389.88,MT
+Cabinet Peaks Medical Center ,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$291.92,MT
+Cabinet Peaks Medical Center ,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$69.55,MT
+Cabinet Peaks Medical Center ,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$334.31,MT
+Cabinet Peaks Medical Center ,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$175.39,MT
+Cabinet Peaks Medical Center ,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$333.10,MT
+Cabinet Peaks Medical Center ,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$235.07,MT
+Cabinet Peaks Medical Center ,Chest,HCPCS 71046,X-ray of chest; 2 Views,$143.84,MT
+Cabinet Peaks Medical Center ,Chest,HCPCS 71045,X-ray of chest; Single View,$118.59,MT
+Cabinet Peaks Medical Center ,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$134.90,MT
+Cabinet Peaks Medical Center ,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$188.05,MT
+Cabinet Peaks Medical Center ,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$157.40,MT
+Cabinet Peaks Medical Center ,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$171.70,MT
+Cabinet Peaks Medical Center ,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$122.64,MT
+Cabinet Peaks Medical Center ,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$141.04,MT
+Cabinet Peaks Medical Center ,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$190.10,MT
+Cabinet Peaks Medical Center ,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$177.84,MT
+Cabinet Peaks Medical Center ,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$147.62,MT
+Cabinet Peaks Medical Center ,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$159.43,MT
+Cabinet Peaks Medical Center ,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$130.82,MT
+Cabinet Peaks Medical Center ,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$157.40,MT
+Cabinet Peaks Medical Center ,Lower Limbs,HCPCS 73565,X-ray Both Knees,$165.57,MT
+Cabinet Peaks Medical Center ,Lower Limbs,HCPCS 73630,X-ray exam of foot,$147.17,MT
+Cabinet Peaks Medical Center ,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$175.78,MT
+Cabinet Peaks Medical Center ,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$178.68,MT
+Cabinet Peaks Medical Center ,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$126.73,MT
+Cabinet Peaks Medical Center ,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$130.82,MT
+Cabinet Peaks Medical Center ,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$136.96,MT
+Cabinet Peaks Medical Center ,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$146.11,MT
+Cabinet Peaks Medical Center ,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$120.60,MT
+Cabinet Peaks Medical Center ,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$230.90,MT
+Cabinet Peaks Medical Center ,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$157.40,MT
+Cabinet Peaks Medical Center ,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$153.31,MT
+Cabinet Peaks Medical Center ,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$275.95,MT
+Cabinet Peaks Medical Center ,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$157.40,MT
+Cabinet Peaks Medical Center ,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$169.66,MT
+Cabinet Peaks Medical Center ,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$122.64,MT
+Cabinet Peaks Medical Center ,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$151.26,MT
+Cabinet Peaks Medical Center ,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$228.62,MT
+Cabinet Peaks Medical Center ,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$124.69,MT
+Cabinet Peaks Medical Center ,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$145.13,MT
+Cabinet Peaks Medical Center ,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$147.62,MT
+Cabinet Peaks Medical Center ,Abdomenal,HCPCS 47562,Cholecystectomy,$840.00,MT
+Cabinet Peaks Medical Center ,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$1,288.00",MT
+Cabinet Peaks Medical Center ,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),$981.81,MT
+Cabinet Peaks Medical Center ,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$90.36,MT
+Cabinet Peaks Medical Center ,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$70.08,MT
+Cabinet Peaks Medical Center ,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$1,147.23",MT
+Cabinet Peaks Medical Center ,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$1,214.26",MT
+Cabinet Peaks Medical Center ,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),$837.87,MT
+Cabinet Peaks Medical Center ,Breast,HCPCS 19125,Excision of breast lesion,$563.50,MT
+Cabinet Peaks Medical Center ,Breast,HCPCS 19120,Excision of cyst of breast,$704.20,MT
+Cabinet Peaks Medical Center ,Breast,HCPCS 19301,Partial removal of breast,$950.60,MT
+Cabinet Peaks Medical Center ,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$1,744.40",MT
+Cabinet Peaks Medical Center ,Breast,HCPCS 19303,Total removal of breast,"$1,395.80",MT
+Cabinet Peaks Medical Center ,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",$359.80,MT
+Cabinet Peaks Medical Center ,Digestive,HCPCS 45380,"Colonoscopy, with biopsy",$653.80,MT
+Cabinet Peaks Medical Center ,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal",$655.90,MT
+Cabinet Peaks Medical Center ,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)",$738.50,MT
+Cabinet Peaks Medical Center ,Digestive,HCPCS 43235,EGD,$338.10,MT
+Cabinet Peaks Medical Center ,Digestive,HCPCS 43239,EGD and biopsy,$567.00,MT
+Cabinet Peaks Medical Center ,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,$686.09,MT
+Cabinet Peaks Medical Center ,General,HCPCS 10060,Drainage of Abscess,$175.01,MT
+Cabinet Peaks Medical Center ,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$228.40,MT
+Cabinet Peaks Medical Center ,General,HCPCS 69200,Removal of foreign body from ear canal,$120.95,MT
+Cabinet Peaks Medical Center ,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$163.38,MT
+Cabinet Peaks Medical Center ,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$599.96,MT
+Cabinet Peaks Medical Center ,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$163.91,MT
+Cabinet Peaks Medical Center ,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$133.78,MT
+Cabinet Peaks Medical Center ,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$400.90,MT
+Cabinet Peaks Medical Center ,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$199.10,MT
+Cabinet Peaks Medical Center ,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$377.01,MT
+Cabinet Peaks Medical Center ,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$90.41,MT
+Cabinet Peaks Medical Center ,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,$437.98,MT
+Cabinet Peaks Medical Center ,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$1,340.56",MT
+Cabinet Peaks Medical Center ,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$1,225.70",MT
+Cabinet Peaks Medical Center ,Obstetrics,HCPCS 59400,Routine obstetric care,"$3,019.97",MT
+Cabinet Peaks Medical Center ,Obstetrics,HCPCS 59510,"Routine obstetric care for cesarean delivery, including pre-and postdelivery care","$3,349.58",MT
+Cabinet Peaks Medical Center ,Obstetrics,HCPCS 59610,Routine obstetric care for vaginal delivery after prior cesarean delivery including pre-and post-delivery care,"$3,179.23",MT
+Cabinet Peaks Medical Center ,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries","$1,308.89",MT
+Cabinet Peaks Medical Center ,Soft Tissue,HCPCS 97597,Debridement of open wound,$239.37,MT
+Cabinet Peaks Medical Center ,Soft Tissue,HCPCS 97602,Non-selective debridement,$88.51,MT
+Cabinet Peaks Medical Center ,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$67.46,MT
+Cabinet Peaks Medical Center ,Vascular,HCPCS 36416,Collection of capillary blood specimen,$13.63,MT
+Cabinet Peaks Medical Center ,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),$331.21,MT
+Cabinet Peaks Medical Center ,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$84.94,MT
+Cabinet Peaks Medical Center ,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,$295.40,MT

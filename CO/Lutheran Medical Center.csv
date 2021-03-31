@@ -1,0 +1,329 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Lutheran Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$285.79,CO
+Lutheran Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$3,298.38",CO
+Lutheran Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$149.87,CO
+Lutheran Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$337.02,CO
+Lutheran Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$709.25,CO
+Lutheran Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,169.13",CO
+Lutheran Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,840.49",CO
+Lutheran Medical Center,Hospital,HCPCS 99219,Hospital observation care typically 30 minutes,$149.28,CO
+Lutheran Medical Center,Hospital,HCPCS 99218,Hospital Observation per Hour,$109.92,CO
+Lutheran Medical Center,Hospital,HCPCS 99224,"Subsequent observation care, typically 35 minutes per day",$43.68,CO
+Lutheran Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$123.20,CO
+Lutheran Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$134.37,CO
+Lutheran Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$111.99,CO
+Lutheran Medical Center,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$171.84,CO
+Lutheran Medical Center,Psychology,HCPCS 90853,Group psychotherapy,$98.11,CO
+Lutheran Medical Center,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$240.15,CO
+Lutheran Medical Center,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$69.05,CO
+Lutheran Medical Center,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$150.67,CO
+Lutheran Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$352.04,CO
+Lutheran Medical Center,Speech,HCPCS 92507,Speech Therapy,$139.41,CO
+Lutheran Medical Center,Speech,HCPCS 92610,Swallow Evaluation,$129.27,CO
+Lutheran Medical Center,Speech,HCPCS 92526,Swallow Treatment,$152.70,CO
+Lutheran Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$35.70,CO
+Lutheran Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$24.10,CO
+Lutheran Medical Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$73.60,CO
+Lutheran Medical Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$23.83,CO
+Lutheran Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$53.64,CO
+Lutheran Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$42.99,CO
+Lutheran Medical Center,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$12.06,CO
+Lutheran Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$85.84,CO
+Lutheran Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$56.31,CO
+Lutheran Medical Center,Blood,HCPCS 85008,Microscopic examination for white blood cells,$32.55,CO
+Lutheran Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$31.61,CO
+Lutheran Medical Center,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$226.94,CO
+Lutheran Medical Center,Blood,HCPCS 85660,Red blood cell sickling measurement,$42.85,CO
+Lutheran Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$296.07,CO
+Lutheran Medical Center,Blood,HCPCS 85041,"Red blood count, automated test",$22.03,CO
+Lutheran Medical Center,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$148.15,CO
+Lutheran Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$261.22,CO
+Lutheran Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$33.22,CO
+Lutheran Medical Center,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$83.30,CO
+Lutheran Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$88.83,CO
+Lutheran Medical Center,Chemistry,HCPCS 82140,Ammonia level,$131.83,CO
+Lutheran Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$58.68,CO
+Lutheran Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$98.71,CO
+Lutheran Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$97.51,CO
+Lutheran Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$74.58,CO
+Lutheran Medical Center,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$82.73,CO
+Lutheran Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$45.56,CO
+Lutheran Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$8.38,CO
+Lutheran Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$43.47,CO
+Lutheran Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$60.69,CO
+Lutheran Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$31.65,CO
+Lutheran Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$33.22,CO
+Lutheran Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$107.21,CO
+Lutheran Medical Center,Chemistry,HCPCS 82310,Calcium level,$248.63,CO
+Lutheran Medical Center,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$45.56,CO
+Lutheran Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$91.98,CO
+Lutheran Medical Center,Chemistry,HCPCS 82465,Cholesterol level,$45.56,CO
+Lutheran Medical Center,Chemistry,HCPCS 82525,Copper level,$45.01,CO
+Lutheran Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$58.68,CO
+Lutheran Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$92.45,CO
+Lutheran Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$45.56,CO
+Lutheran Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$59.23,CO
+Lutheran Medical Center,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$125.10,CO
+Lutheran Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$204.74,CO
+Lutheran Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$83.72,CO
+Lutheran Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$62.88,CO
+Lutheran Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$72.46,CO
+Lutheran Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$45.56,CO
+Lutheran Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$11.69,CO
+Lutheran Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$86.39,CO
+Lutheran Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$92.45,CO
+Lutheran Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$53.61,CO
+Lutheran Medical Center,Chemistry,HCPCS 83718,HDL cholesterol level,$90.88,CO
+Lutheran Medical Center,Chemistry,HCPCS 83020,Hemoglobin Measurement,$73.01,CO
+Lutheran Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$21.84,CO
+Lutheran Medical Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$41.40,CO
+Lutheran Medical Center,Chemistry,HCPCS 83520,IgE (immune system protein) level,$232.53,CO
+Lutheran Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$84.82,CO
+Lutheran Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$82.73,CO
+Lutheran Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$44.34,CO
+Lutheran Medical Center,Chemistry,HCPCS 83540,Iron level,$32.65,CO
+Lutheran Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$13.46,CO
+Lutheran Medical Center,Chemistry,HCPCS 83721,LDL cholesterol level,$75.02,CO
+Lutheran Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$103.81,CO
+Lutheran Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$46.14,CO
+Lutheran Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$75.88,CO
+Lutheran Medical Center,Chemistry,HCPCS 83021,Liver function blood test panel,$305.13,CO
+Lutheran Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$43.47,CO
+Lutheran Medical Center,Chemistry,HCPCS 82542,Mass spectrometry,$56.93,CO
+Lutheran Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$169.12,CO
+Lutheran Medical Center,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$15.78,CO
+Lutheran Medical Center,Chemistry,HCPCS 83918,Organic acid level,$176.17,CO
+Lutheran Medical Center,Chemistry,HCPCS 83945,Oxalate level,$86.39,CO
+Lutheran Medical Center,Chemistry,HCPCS 83970,Parathormone,$276.13,CO
+Lutheran Medical Center,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$45.01,CO
+Lutheran Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$27.15,CO
+Lutheran Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$142.08,CO
+Lutheran Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$114.95,CO
+Lutheran Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$87.81,CO
+Lutheran Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$18.72,CO
+Lutheran Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$125.10,CO
+Lutheran Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$155.33,CO
+Lutheran Medical Center,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement",$58.25,CO
+Lutheran Medical Center,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$295.19,CO
+Lutheran Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$76.12,CO
+Lutheran Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$33.22,CO
+Lutheran Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$45.56,CO
+Lutheran Medical Center,Chemistry,HCPCS 84478,Triglycerides level,$39.83,CO
+Lutheran Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$91.98,CO
+Lutheran Medical Center,Chemistry,HCPCS 84560,Uric acid level,$47.66,CO
+Lutheran Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$45.56,CO
+Lutheran Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$47.66,CO
+Lutheran Medical Center,Chemistry,HCPCS 82436,Urine chloride level,$33.22,CO
+Lutheran Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$77.64,CO
+Lutheran Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$57.80,CO
+Lutheran Medical Center,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$134.37,CO
+Lutheran Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$33.22,CO
+Lutheran Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$46.01,CO
+Lutheran Medical Center,Chemistry,HCPCS 84591,Vitamin B-6 level,$116.72,CO
+Lutheran Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$137.44,CO
+Lutheran Medical Center,Chemistry,HCPCS 84630,Zinc level,$89.45,CO
+Lutheran Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$125.62,CO
+Lutheran Medical Center,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$97.80,CO
+Lutheran Medical Center,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$43.15,CO
+Lutheran Medical Center,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$45.22,CO
+Lutheran Medical Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$57.45,CO
+Lutheran Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$98.21,CO
+Lutheran Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$43.15,CO
+Lutheran Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$18.30,CO
+Lutheran Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$90.76,CO
+Lutheran Medical Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$15.63,CO
+Lutheran Medical Center,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$32.11,CO
+Lutheran Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$63.76,CO
+Lutheran Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$99.16,CO
+Lutheran Medical Center,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$78.56,CO
+Lutheran Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$18.72,CO
+Lutheran Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$63.76,CO
+Lutheran Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$72.18,CO
+Lutheran Medical Center,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$112.83,CO
+Lutheran Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$87.42,CO
+Lutheran Medical Center,Immunology,HCPCS 86580,Skin test for tuberculosis,$40.93,CO
+Lutheran Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$36.84,CO
+Lutheran Medical Center,Immunology,HCPCS 86361,T cell count and ratio,$27.64,CO
+Lutheran Medical Center,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$63.03,CO
+Lutheran Medical Center,Immunology,HCPCS 86359,"T cells count, total",$30.53,CO
+Lutheran Medical Center,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$67.58,CO
+Lutheran Medical Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$34.10,CO
+Lutheran Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$28.69,CO
+Lutheran Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$106.88,CO
+Lutheran Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$37.51,CO
+Lutheran Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$33.40,CO
+Lutheran Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$82.25,CO
+Lutheran Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$154.96,CO
+Lutheran Medical Center,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$276.60,CO
+Lutheran Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$58.20,CO
+Lutheran Medical Center,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$551.18,CO
+Lutheran Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$37.51,CO
+Lutheran Medical Center,Microbiology,HCPCS 87517,Hepatitis B Detection,$88.51,CO
+Lutheran Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$37.73,CO
+Lutheran Medical Center,Microbiology,HCPCS 87624,HPV Detection,$48.81,CO
+Lutheran Medical Center,Microbiology,HCPCS 86735,Mumps virus antibody test,$129.48,CO
+Lutheran Medical Center,Microbiology,HCPCS 86747,Parvovirus antibody test,$102.97,CO
+Lutheran Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$15.00,CO
+Lutheran Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$132.03,CO
+Lutheran Medical Center,Microbiology,HCPCS 87207,Smear for infectious agents,$140.43,CO
+Lutheran Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$91.92,CO
+Lutheran Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$48.28,CO
+Lutheran Medical Center,Microbiology,HCPCS 87045,Stool Culture,$121.14,CO
+Lutheran Medical Center,Microbiology,HCPCS 87880,Streptoccus,$20.29,CO
+Lutheran Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$104.49,CO
+Lutheran Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$27.40,CO
+Lutheran Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$66.39,CO
+Lutheran Medical Center,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$130.39,CO
+Lutheran Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$336.37,CO
+Lutheran Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$93.89,CO
+Lutheran Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$101.65,CO
+Lutheran Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$125.53,CO
+Lutheran Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$89.51,CO
+Lutheran Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$89.51,CO
+Lutheran Medical Center,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$388.16,CO
+Lutheran Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$94.07,CO
+Lutheran Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$74.32,CO
+Lutheran Medical Center,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$100.60,CO
+Lutheran Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$78.56,CO
+Lutheran Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$113.08,CO
+Lutheran Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$28.86,CO
+Lutheran Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$74.73,CO
+Lutheran Medical Center,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$33.55,CO
+Lutheran Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$13.04,CO
+Lutheran Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$126.99,CO
+Lutheran Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$107.85,CO
+Lutheran Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$82.90,CO
+Lutheran Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$45.12,CO
+Lutheran Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$38.68,CO
+Lutheran Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$95.34,CO
+Lutheran Medical Center,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$73.31,CO
+Lutheran Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$142.82,CO
+Lutheran Medical Center,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$75.75,CO
+Lutheran Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$84.85,CO
+Lutheran Medical Center,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$20.96,CO
+Lutheran Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$35.82,CO
+Lutheran Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$57.73,CO
+Lutheran Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$102.72,CO
+Lutheran Medical Center,Cardiovascular,HCPCS 93015,"Cardiovascular stress test, with interpretation and report",$78.00,CO
+Lutheran Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$797.41,CO
+Lutheran Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$159.49,CO
+Lutheran Medical Center,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$83.92,CO
+Lutheran Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$153.89,CO
+Lutheran Medical Center,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$9.36,CO
+Lutheran Medical Center,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$1,181.61",CO
+Lutheran Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,$435.27,CO
+Lutheran Medical Center,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$297.74,CO
+Lutheran Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,$84.79,CO
+Lutheran Medical Center,Pulmonary,HCPCS 94618,Pulmonary stress test,$157.48,CO
+Lutheran Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$216.45,CO
+Lutheran Medical Center,Sleep,HCPCS 95810,Sleep study,"$2,439.60",CO
+Lutheran Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$12.19,CO
+Lutheran Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$131.51,CO
+Lutheran Medical Center,Breast,HCPCS 77067,Mammogram Screening,$113.98,CO
+Lutheran Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$174.65,CO
+Lutheran Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,388.42",CO
+Lutheran Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,164.12",CO
+Lutheran Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,013.17",CO
+Lutheran Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,013.17",CO
+Lutheran Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,876.25",CO
+Lutheran Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,576.05",CO
+Lutheran Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,501.00",CO
+Lutheran Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,388.42",CO
+Lutheran Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,463.47",CO
+Lutheran Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,388.42",CO
+Lutheran Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,164.12",CO
+Lutheran Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,388.42",CO
+Lutheran Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,388.42",CO
+Lutheran Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,088.22",CO
+Lutheran Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,088.22",CO
+Lutheran Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,088.22",CO
+Lutheran Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$1,605.55",CO
+Lutheran Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,088.22",CO
+Lutheran Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$1,605.55",CO
+Lutheran Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,605.55",CO
+Lutheran Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,088.22",CO
+Lutheran Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,605.55",CO
+Lutheran Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,088.22",CO
+Lutheran Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$1,088.22",CO
+Lutheran Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$399.75,CO
+Lutheran Medical Center,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$323.71,CO
+Lutheran Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$388.29,CO
+Lutheran Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$187.39,CO
+Lutheran Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$460.55,CO
+Lutheran Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$173.45,CO
+Lutheran Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$173.45,CO
+Lutheran Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$264.90,CO
+Lutheran Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$399.75,CO
+Lutheran Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$197.38,CO
+Lutheran Medical Center,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$173.45,CO
+Lutheran Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$508.73,CO
+Lutheran Medical Center,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$232.11,CO
+Lutheran Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$207.33,CO
+Lutheran Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$197.43,CO
+Lutheran Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$91.85,CO
+Lutheran Medical Center,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$183.33,CO
+Lutheran Medical Center,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$122.31,CO
+Lutheran Medical Center,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$366.50,CO
+Lutheran Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$183.33,CO
+Lutheran Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$133.85,CO
+Lutheran Medical Center,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$122.31,CO
+Lutheran Medical Center,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$183.33,CO
+Lutheran Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$221.07,CO
+Lutheran Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$207.35,CO
+Lutheran Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$89.70,CO
+Lutheran Medical Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$305.19,CO
+Lutheran Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$173.88,CO
+Lutheran Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$214.16,CO
+Lutheran Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$563.98,CO
+Lutheran Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$218.22,CO
+Lutheran Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$189.28,CO
+Lutheran Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$159.20,CO
+Lutheran Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$125.32,CO
+Lutheran Medical Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$136.69,CO
+Lutheran Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$127.35,CO
+Lutheran Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$225.27,CO
+Lutheran Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$182.25,CO
+Lutheran Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$279.11,CO
+Lutheran Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$159.64,CO
+Lutheran Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$144.56,CO
+Lutheran Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$275.13,CO
+Lutheran Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$157.36,CO
+Lutheran Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$162.86,CO
+Lutheran Medical Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$126.29,CO
+Lutheran Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$195.97,CO
+Lutheran Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$157.36,CO
+Lutheran Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$149.00,CO
+Lutheran Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$162.86,CO
+Lutheran Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$182.25,CO
+Lutheran Medical Center,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$10,901.74",CO
+Lutheran Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$188.43,CO
+Lutheran Medical Center,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$14,310.50",CO
+Lutheran Medical Center,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,"$53,304.72",CO
+Lutheran Medical Center,Cardiac,MSDRG 216,Cardiac valve procedure,"$123,975.13",CO
+Lutheran Medical Center,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$84,361.14",CO
+Lutheran Medical Center,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$63,262.84",CO
+Lutheran Medical Center,Cardiac,HCPCS 33249,Defibrillator complete system,"$13,884.21",CO
+Lutheran Medical Center,Cardiac,HCPCS 33240,Defibrillator generator,"$9,357.01",CO
+Lutheran Medical Center,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$3,499.55",CO
+Lutheran Medical Center,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$3,499.55",CO
+Lutheran Medical Center,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$314.09,CO
+Lutheran Medical Center,Cardiac,MSDRG 247,Implant drug-eluting stent,"$35,112.17",CO
+Lutheran Medical Center,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$25,660.00",CO
+Lutheran Medical Center,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$8,427.09",CO
+Lutheran Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$14,682.75",CO
+Lutheran Medical Center,General,HCPCS 55700,Biopsy of prostate gland,$854.84,CO
+Lutheran Medical Center,General,HCPCS 10060,Drainage of Abscess,$270.12,CO
+Lutheran Medical Center,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$484.75,CO
+Lutheran Medical Center,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$80,162.10",CO
+Lutheran Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$493.67,CO
+Lutheran Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$29,067.48",CO
+Lutheran Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$46,010.51",CO
+Lutheran Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$93,966.92",CO
+Lutheran Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$10,469.37",CO
+Lutheran Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$6,028.87",CO
+Lutheran Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$68.07,CO
+Lutheran Medical Center,Soft Tissue,HCPCS 97602,Non-selective debridement,$118.62,CO
+Lutheran Medical Center,Vascular,HCPCS 36416,Collection of capillary blood specimen,$16.37,CO
+Lutheran Medical Center,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,087.10",CO
+Lutheran Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$857.26,CO
+Lutheran Medical Center,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,087.10",CO

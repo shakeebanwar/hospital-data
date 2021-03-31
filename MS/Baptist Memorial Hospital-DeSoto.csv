@@ -1,0 +1,333 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Baptist Memorial Hospital-DeSoto,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$484.89,MS
+Baptist Memorial Hospital-DeSoto,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes",$578.55,MS
+Baptist Memorial Hospital-DeSoto,Emergency Care,HCPCS 99281,Emergency Level 1,$90.93,MS
+Baptist Memorial Hospital-DeSoto,Emergency Care,HCPCS 99282,Emergency Level 2,$117.81,MS
+Baptist Memorial Hospital-DeSoto,Emergency Care,HCPCS 99283,Emergency Level 3,$193.20,MS
+Baptist Memorial Hospital-DeSoto,Emergency Care,HCPCS 99284,Emergency Level 4,$261.24,MS
+Baptist Memorial Hospital-DeSoto,Emergency Care,HCPCS 99285,Emergency Level 5,$536.76,MS
+Baptist Memorial Hospital-DeSoto,Hospital,HCPCS 99234,Hospital observation care discharge,$38.85,MS
+Baptist Memorial Hospital-DeSoto,Hospital,HCPCS 99219,Hospital observation care typically 30 minutes,$38.64,MS
+Baptist Memorial Hospital-DeSoto,Hospital,HCPCS 99235,"Hospital observation or inpatient care moderate severity, 50 minutes per day",$48.51,MS
+Baptist Memorial Hospital-DeSoto,Hospital,HCPCS 99218,Hospital Observation per Hour,$27.93,MS
+Baptist Memorial Hospital-DeSoto,Hospital,HCPCS 99224,"Subsequent observation care, typically 35 minutes per day",$11.55,MS
+Baptist Memorial Hospital-DeSoto,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$87.78,MS
+Baptist Memorial Hospital-DeSoto,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$107.52,MS
+Baptist Memorial Hospital-DeSoto,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$72.03,MS
+Baptist Memorial Hospital-DeSoto,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$76.44,MS
+Baptist Memorial Hospital-DeSoto,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$106.05,MS
+Baptist Memorial Hospital-DeSoto,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$107.94,MS
+Baptist Memorial Hospital-DeSoto,Speech,HCPCS 92507,Speech Therapy,$141.33,MS
+Baptist Memorial Hospital-DeSoto,Speech,HCPCS 92610,Swallow Evaluation,$102.69,MS
+Baptist Memorial Hospital-DeSoto,Speech,HCPCS 92526,Swallow Treatment,$141.33,MS
+Baptist Memorial Hospital-DeSoto,Blood,HCPCS 85018,"Blood count, hemoglobin",$21.21,MS
+Baptist Memorial Hospital-DeSoto,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$25.41,MS
+Baptist Memorial Hospital-DeSoto,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$31.08,MS
+Baptist Memorial Hospital-DeSoto,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$69.51,MS
+Baptist Memorial Hospital-DeSoto,Blood,HCPCS 85610,"Blood test, clotting time",$37.38,MS
+Baptist Memorial Hospital-DeSoto,Blood,HCPCS 85730,Coagulation assessment blood test,$29.61,MS
+Baptist Memorial Hospital-DeSoto,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$37.38,MS
+Baptist Memorial Hospital-DeSoto,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$30.66,MS
+Baptist Memorial Hospital-DeSoto,Blood,HCPCS 85027,"Complete blood count, automated",$26.46,MS
+Baptist Memorial Hospital-DeSoto,Blood,HCPCS 85008,Microscopic examination for white blood cells,$5.25,MS
+Baptist Memorial Hospital-DeSoto,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$28.56,MS
+Baptist Memorial Hospital-DeSoto,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$147.84,MS
+Baptist Memorial Hospital-DeSoto,Blood,HCPCS 85660,Red blood cell sickling measurement,$40.32,MS
+Baptist Memorial Hospital-DeSoto,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$492.03,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$93.45,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$116.97,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 82040,Albumin (protein) level,$36.54,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$44.73,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$94.29,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 82140,Ammonia level,$72.66,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 82150,Amylase (enzyme) level,$51.45,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$54.18,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$76.02,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 84439,Assay of free thyroxine,$37.17,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$93.45,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 82248,Bilirubin level (Direct),$28.35,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 82247,Bilirubin level (Total),$36.33,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 82565,Blood creatinine level,$39.69,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$42.42,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 84295,Blood sodium level,$33.60,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$23.52,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$39.69,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 82310,Calcium level,$23.52,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$28.35,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$99.54,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 82465,Cholesterol level,$42.00,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 82525,Copper level,$94.29,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 82533,Cortisol Measurement,$70.35,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 84681,C-peptide (protein) level,$66.57,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$45.57,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$57.75,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$171.15,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$142.80,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$53.76,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 82746,Folic acid; serum,$57.75,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$74.34,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$56.91,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$49.56,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$57.75,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$57.75,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$85.05,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 83718,HDL cholesterol level,$31.08,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 83020,Hemoglobin Measurement,$59.85,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$66.15,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$114.03,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 83520,IgE (immune system protein) level,$120.33,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 83525,Insulin Measurement; Total,$47.04,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 82330,Ionized Calcium,$66.36,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 83550,Iron Binding Capacity,$21.21,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 83540,Iron level,$28.56,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$42.42,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 83721,LDL cholesterol level,$27.09,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$64.26,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$47.04,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$42.00,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 83021,Liver function blood test panel,$5.88,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 83735,Magnesium Level,$49.35,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 82542,Mass spectrometry,$138.18,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$16.38,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 83918,Organic acid level,$142.80,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 83945,Oxalate level,$20.16,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 83970,Parathormone,$83.16,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$59.85,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 84157,Prealbumin (protein) level,$43.68,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$69.51,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$87.57,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$43.68,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 82270,Stool analysis for blood,$16.80,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 84403,Testosterone (hormone) level,$116.97,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 84402,Testosterone Level; Free,$143.64,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement",$21.21,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$25.83,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$39.69,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 84155,"Total protein level, blood",$36.33,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$42.00,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 84478,Triglycerides level,$78.75,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 84166,Troponin (protein) analysis,$23.31,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 84560,Uric acid level,$42.00,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 84550,"Uric acid level, blood",$43.68,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 82340,Urine calcium level,$42.42,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 82436,Urine chloride level,$28.56,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$39.27,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$33.60,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$152.25,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 84133,Urine potassium level,$35.91,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 84300,Urine sodium level,$36.33,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 84591,Vitamin B-6 level,$7.77,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$159.39,MS
+Baptist Memorial Hospital-DeSoto,Chemistry,HCPCS 84630,Zinc level,$94.29,MS
+Baptist Memorial Hospital-DeSoto,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$11.55,MS
+Baptist Memorial Hospital-DeSoto,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$72.66,MS
+Baptist Memorial Hospital-DeSoto,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$95.76,MS
+Baptist Memorial Hospital-DeSoto,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$35.91,MS
+Baptist Memorial Hospital-DeSoto,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$13.86,MS
+Baptist Memorial Hospital-DeSoto,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$94.29,MS
+Baptist Memorial Hospital-DeSoto,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$72.24,MS
+Baptist Memorial Hospital-DeSoto,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$170.73,MS
+Baptist Memorial Hospital-DeSoto,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$5.25,MS
+Baptist Memorial Hospital-DeSoto,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$171.57,MS
+Baptist Memorial Hospital-DeSoto,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$60.06,MS
+Baptist Memorial Hospital-DeSoto,Immunology,HCPCS 86140,Measurement C-reactive protein,$25.41,MS
+Baptist Memorial Hospital-DeSoto,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$4.62,MS
+Baptist Memorial Hospital-DeSoto,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$123.90,MS
+Baptist Memorial Hospital-DeSoto,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$83.16,MS
+Baptist Memorial Hospital-DeSoto,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$123.27,MS
+Baptist Memorial Hospital-DeSoto,Immunology,HCPCS 86431,Rheumatoid factor level,$53.13,MS
+Baptist Memorial Hospital-DeSoto,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$165.48,MS
+Baptist Memorial Hospital-DeSoto,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$45.15,MS
+Baptist Memorial Hospital-DeSoto,Immunology,HCPCS 86592,Syphilis Detection Test,$28.14,MS
+Baptist Memorial Hospital-DeSoto,Immunology,HCPCS 86361,T cell count and ratio,$33.60,MS
+Baptist Memorial Hospital-DeSoto,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$231.84,MS
+Baptist Memorial Hospital-DeSoto,Immunology,HCPCS 86359,"T cells count, total",$186.27,MS
+Baptist Memorial Hospital-DeSoto,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$59.85,MS
+Baptist Memorial Hospital-DeSoto,Immunology,HCPCS 86580,Tuberculosis Test,$11.13,MS
+Baptist Memorial Hospital-DeSoto,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$6.93,MS
+Baptist Memorial Hospital-DeSoto,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$107.10,MS
+Baptist Memorial Hospital-DeSoto,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$52.92,MS
+Baptist Memorial Hospital-DeSoto,Microbiology,HCPCS 87491,Chlamydia Test,$42.21,MS
+Baptist Memorial Hospital-DeSoto,Microbiology,HCPCS 87635,Covid-19 current infection test,$33.39,MS
+Baptist Memorial Hospital-DeSoto,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$78.54,MS
+Baptist Memorial Hospital-DeSoto,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$94.71,MS
+Baptist Memorial Hospital-DeSoto,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$148.47,MS
+Baptist Memorial Hospital-DeSoto,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$110.46,MS
+Baptist Memorial Hospital-DeSoto,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$167.79,MS
+Baptist Memorial Hospital-DeSoto,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$42.21,MS
+Baptist Memorial Hospital-DeSoto,Microbiology,HCPCS 87517,Hepatitis B Detection,$282.87,MS
+Baptist Memorial Hospital-DeSoto,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$18.48,MS
+Baptist Memorial Hospital-DeSoto,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$94.71,MS
+Baptist Memorial Hospital-DeSoto,Microbiology,HCPCS 86735,Mumps virus antibody test,$66.15,MS
+Baptist Memorial Hospital-DeSoto,Microbiology,HCPCS 86747,Parvovirus antibody test,$119.07,MS
+Baptist Memorial Hospital-DeSoto,Microbiology,HCPCS 86762,Rubella virus antibody test,$45.15,MS
+Baptist Memorial Hospital-DeSoto,Microbiology,HCPCS 86765,Rubeola virus antibody test,$69.72,MS
+Baptist Memorial Hospital-DeSoto,Microbiology,HCPCS 87207,Smear for infectious agents,$28.35,MS
+Baptist Memorial Hospital-DeSoto,Microbiology,HCPCS 87177,Smear for Parasites,$38.01,MS
+Baptist Memorial Hospital-DeSoto,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$28.35,MS
+Baptist Memorial Hospital-DeSoto,Microbiology,HCPCS 87045,Stool Culture,$135.66,MS
+Baptist Memorial Hospital-DeSoto,Microbiology,HCPCS 87880,Strep Test,$45.15,MS
+Baptist Memorial Hospital-DeSoto,Microbiology,HCPCS 87804,Test for Influenza Virus,$21.21,MS
+Baptist Memorial Hospital-DeSoto,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$7.56,MS
+Baptist Memorial Hospital-DeSoto,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$72.66,MS
+Baptist Memorial Hospital-DeSoto,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$281.82,MS
+Baptist Memorial Hospital-DeSoto,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$379.26,MS
+Baptist Memorial Hospital-DeSoto,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$116.97,MS
+Baptist Memorial Hospital-DeSoto,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$155.19,MS
+Baptist Memorial Hospital-DeSoto,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$60.06,MS
+Baptist Memorial Hospital-DeSoto,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$97.65,MS
+Baptist Memorial Hospital-DeSoto,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$135.45,MS
+Baptist Memorial Hospital-DeSoto,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$11.55,MS
+Baptist Memorial Hospital-DeSoto,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$60.90,MS
+Baptist Memorial Hospital-DeSoto,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$157.50,MS
+Baptist Memorial Hospital-DeSoto,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$70.35,MS
+Baptist Memorial Hospital-DeSoto,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$53.13,MS
+Baptist Memorial Hospital-DeSoto,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$70.35,MS
+Baptist Memorial Hospital-DeSoto,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$39.27,MS
+Baptist Memorial Hospital-DeSoto,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$69.51,MS
+Baptist Memorial Hospital-DeSoto,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$70.35,MS
+Baptist Memorial Hospital-DeSoto,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$171.15,MS
+Baptist Memorial Hospital-DeSoto,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$72.66,MS
+Baptist Memorial Hospital-DeSoto,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$99.54,MS
+Baptist Memorial Hospital-DeSoto,Transfusion,HCPCS 86900,"Blood Typing, ABO",$59.22,MS
+Baptist Memorial Hospital-DeSoto,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$56.91,MS
+Baptist Memorial Hospital-DeSoto,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$101.64,MS
+Baptist Memorial Hospital-DeSoto,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$56.91,MS
+Baptist Memorial Hospital-DeSoto,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$64.05,MS
+Baptist Memorial Hospital-DeSoto,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$63.42,MS
+Baptist Memorial Hospital-DeSoto,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$6.30,MS
+Baptist Memorial Hospital-DeSoto,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$36.33,MS
+Baptist Memorial Hospital-DeSoto,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$34.23,MS
+Baptist Memorial Hospital-DeSoto,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$59.85,MS
+Baptist Memorial Hospital-DeSoto,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$263.55,MS
+Baptist Memorial Hospital-DeSoto,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$75.18,MS
+Baptist Memorial Hospital-DeSoto,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$13.23,MS
+Baptist Memorial Hospital-DeSoto,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),$332.01,MS
+Baptist Memorial Hospital-DeSoto,Cardiovascular,HCPCS 93975,Ultrasound Heart,$302.40,MS
+Baptist Memorial Hospital-DeSoto,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$120.33,MS
+Baptist Memorial Hospital-DeSoto,Pulmonary,HCPCS 94640,Nebulizer Treatment,$44.94,MS
+Baptist Memorial Hospital-DeSoto,Pulmonary,HCPCS 94618,Pulmonary stress test,$40.11,MS
+Baptist Memorial Hospital-DeSoto,Pulmonary,HCPCS 94010,Spirometry - breathing test,$151.20,MS
+Baptist Memorial Hospital-DeSoto,Sleep,HCPCS 95810,Sleep study,"$1,140.72",MS
+Baptist Memorial Hospital-DeSoto,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$18.69,MS
+Baptist Memorial Hospital-DeSoto,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$128.73,MS
+Baptist Memorial Hospital-DeSoto,Breast,HCPCS 77067,Mammogram Screening,$104.58,MS
+Baptist Memorial Hospital-DeSoto,Breast,HCPCS 77066,Mammography of both breasts,$160.86,MS
+Baptist Memorial Hospital-DeSoto,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,$786.03,MS
+Baptist Memorial Hospital-DeSoto,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$550.41,MS
+Baptist Memorial Hospital-DeSoto,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$550.41,MS
+Baptist Memorial Hospital-DeSoto,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$694.47,MS
+Baptist Memorial Hospital-DeSoto,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,923.39",MS
+Baptist Memorial Hospital-DeSoto,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,611.12",MS
+Baptist Memorial Hospital-DeSoto,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,099.35",MS
+Baptist Memorial Hospital-DeSoto,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$644.28,MS
+Baptist Memorial Hospital-DeSoto,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,$769.02,MS
+Baptist Memorial Hospital-DeSoto,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$656.88,MS
+Baptist Memorial Hospital-DeSoto,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$550.41,MS
+Baptist Memorial Hospital-DeSoto,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$644.28,MS
+Baptist Memorial Hospital-DeSoto,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$580.86,MS
+Baptist Memorial Hospital-DeSoto,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)",$672.21,MS
+Baptist Memorial Hospital-DeSoto,MRI,HCPCS 72146,MRI chest spine without contrast material,$672.21,MS
+Baptist Memorial Hospital-DeSoto,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$672.21,MS
+Baptist Memorial Hospital-DeSoto,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$1,084.02",MS
+Baptist Memorial Hospital-DeSoto,MRI,HCPCS 72141,MRI neck spine without contrast material,$672.21,MS
+Baptist Memorial Hospital-DeSoto,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$1,084.02",MS
+Baptist Memorial Hospital-DeSoto,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,084.02",MS
+Baptist Memorial Hospital-DeSoto,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$672.21,MS
+Baptist Memorial Hospital-DeSoto,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,084.02",MS
+Baptist Memorial Hospital-DeSoto,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$672.21,MS
+Baptist Memorial Hospital-DeSoto,MRI,HCPCS 73721,MRI scan of leg joint,$672.21,MS
+Baptist Memorial Hospital-DeSoto,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$285.18,MS
+Baptist Memorial Hospital-DeSoto,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$131.67,MS
+Baptist Memorial Hospital-DeSoto,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$160.86,MS
+Baptist Memorial Hospital-DeSoto,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$140.28,MS
+Baptist Memorial Hospital-DeSoto,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$175.35,MS
+Baptist Memorial Hospital-DeSoto,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$273.42,MS
+Baptist Memorial Hospital-DeSoto,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$123.27,MS
+Baptist Memorial Hospital-DeSoto,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$114.24,MS
+Baptist Memorial Hospital-DeSoto,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$228.27,MS
+Baptist Memorial Hospital-DeSoto,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$185.01,MS
+Baptist Memorial Hospital-DeSoto,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$138.18,MS
+Baptist Memorial Hospital-DeSoto,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$92.19,MS
+Baptist Memorial Hospital-DeSoto,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$112.14,MS
+Baptist Memorial Hospital-DeSoto,Chest,HCPCS 71046,X-ray of chest; 2 Views,$82.11,MS
+Baptist Memorial Hospital-DeSoto,Chest,HCPCS 71045,X-ray of chest; Single View,$71.82,MS
+Baptist Memorial Hospital-DeSoto,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$59.22,MS
+Baptist Memorial Hospital-DeSoto,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$74.97,MS
+Baptist Memorial Hospital-DeSoto,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$58.17,MS
+Baptist Memorial Hospital-DeSoto,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$66.36,MS
+Baptist Memorial Hospital-DeSoto,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$81.48,MS
+Baptist Memorial Hospital-DeSoto,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$83.58,MS
+Baptist Memorial Hospital-DeSoto,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$50.82,MS
+Baptist Memorial Hospital-DeSoto,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$93.87,MS
+Baptist Memorial Hospital-DeSoto,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$102.27,MS
+Baptist Memorial Hospital-DeSoto,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$92.19,MS
+Baptist Memorial Hospital-DeSoto,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$68.67,MS
+Baptist Memorial Hospital-DeSoto,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$64.05,MS
+Baptist Memorial Hospital-DeSoto,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$45.15,MS
+Baptist Memorial Hospital-DeSoto,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$69.30,MS
+Baptist Memorial Hospital-DeSoto,Lower Limbs,HCPCS 73565,X-ray Both Knees,$53.13,MS
+Baptist Memorial Hospital-DeSoto,Lower Limbs,HCPCS 73630,X-ray exam of foot,$64.05,MS
+Baptist Memorial Hospital-DeSoto,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$64.05,MS
+Baptist Memorial Hospital-DeSoto,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$76.44,MS
+Baptist Memorial Hospital-DeSoto,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$48.09,MS
+Baptist Memorial Hospital-DeSoto,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$34.65,MS
+Baptist Memorial Hospital-DeSoto,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$66.36,MS
+Baptist Memorial Hospital-DeSoto,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$76.44,MS
+Baptist Memorial Hospital-DeSoto,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$78.75,MS
+Baptist Memorial Hospital-DeSoto,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$124.11,MS
+Baptist Memorial Hospital-DeSoto,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$101.64,MS
+Baptist Memorial Hospital-DeSoto,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$124.11,MS
+Baptist Memorial Hospital-DeSoto,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$64.05,MS
+Baptist Memorial Hospital-DeSoto,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$66.36,MS
+Baptist Memorial Hospital-DeSoto,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$45.57,MS
+Baptist Memorial Hospital-DeSoto,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$34.23,MS
+Baptist Memorial Hospital-DeSoto,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$69.30,MS
+Baptist Memorial Hospital-DeSoto,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$69.30,MS
+Baptist Memorial Hospital-DeSoto,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$34.23,MS
+Baptist Memorial Hospital-DeSoto,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$50.82,MS
+Baptist Memorial Hospital-DeSoto,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$69.30,MS
+Baptist Memorial Hospital-DeSoto,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$5,554.15",MS
+Baptist Memorial Hospital-DeSoto,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,$288.54,MS
+Baptist Memorial Hospital-DeSoto,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$31.08,MS
+Baptist Memorial Hospital-DeSoto,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$34.65,MS
+Baptist Memorial Hospital-DeSoto,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$7,904.00",MS
+Baptist Memorial Hospital-DeSoto,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,"$27,242.11",MS
+Baptist Memorial Hospital-DeSoto,Cardiac,MSDRG 216,Cardiac valve procedure,"$139,960.45",MS
+Baptist Memorial Hospital-DeSoto,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$34,617.92",MS
+Baptist Memorial Hospital-DeSoto,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$23,544.70",MS
+Baptist Memorial Hospital-DeSoto,Cardiac,HCPCS 33249,Defibrillator complete system,"$15,310.89",MS
+Baptist Memorial Hospital-DeSoto,Cardiac,HCPCS 33240,Defibrillator generator,"$13,032.39",MS
+Baptist Memorial Hospital-DeSoto,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$2,350.74",MS
+Baptist Memorial Hospital-DeSoto,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$2,903.67",MS
+Baptist Memorial Hospital-DeSoto,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$149.10,MS
+Baptist Memorial Hospital-DeSoto,Cardiac,MSDRG 247,Implant drug-eluting stent,"$19,740.10",MS
+Baptist Memorial Hospital-DeSoto,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$17,794.34",MS
+Baptist Memorial Hospital-DeSoto,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$8,387.19",MS
+Baptist Memorial Hospital-DeSoto,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$5,280.66",MS
+Baptist Memorial Hospital-DeSoto,General,HCPCS 10060,Drainage of Abscess,$219.24,MS
+Baptist Memorial Hospital-DeSoto,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$74.55,MS
+Baptist Memorial Hospital-DeSoto,General,HCPCS 69200,Removal of foreign body from ear canal,$34.65,MS
+Baptist Memorial Hospital-DeSoto,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$44.73,MS
+Baptist Memorial Hospital-DeSoto,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$92.61,MS
+Baptist Memorial Hospital-DeSoto,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$43.05,MS
+Baptist Memorial Hospital-DeSoto,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$43.05,MS
+Baptist Memorial Hospital-DeSoto,Head,HCPCS 67028,Injection of drug into the eye,$92.40,MS
+Baptist Memorial Hospital-DeSoto,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$20,635.91",MS
+Baptist Memorial Hospital-DeSoto,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$63.42,MS
+Baptist Memorial Hospital-DeSoto,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$353.01,MS
+Baptist Memorial Hospital-DeSoto,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$378.84,MS
+Baptist Memorial Hospital-DeSoto,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$216.72,MS
+Baptist Memorial Hospital-DeSoto,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$12,534.65",MS
+Baptist Memorial Hospital-DeSoto,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$16,045.47",MS
+Baptist Memorial Hospital-DeSoto,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$25,776.28",MS
+Baptist Memorial Hospital-DeSoto,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$40.74,MS
+Baptist Memorial Hospital-DeSoto,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$4,238.04",MS
+Baptist Memorial Hospital-DeSoto,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$2,708.65",MS
+Baptist Memorial Hospital-DeSoto,Soft Tissue,HCPCS 97597,Debridement of open wound,$85.89,MS
+Baptist Memorial Hospital-DeSoto,Soft Tissue,HCPCS 97602,Non-selective debridement,$38.22,MS
+Baptist Memorial Hospital-DeSoto,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$32.13,MS
+Baptist Memorial Hospital-DeSoto,Vascular,HCPCS 36416,Collection of capillary blood specimen,$7.14,MS
+Baptist Memorial Hospital-DeSoto,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),$389.76,MS
+Baptist Memorial Hospital-DeSoto,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$208.74,MS
+Baptist Memorial Hospital-DeSoto,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,$518.49,MS

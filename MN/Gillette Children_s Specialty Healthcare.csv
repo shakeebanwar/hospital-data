@@ -1,0 +1,51 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Gillette Children's Specialty Healthcare,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$349.80,MN
+Gillette Children's Specialty Healthcare,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$373.80,MN
+Gillette Children's Specialty Healthcare,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$314.40,MN
+Gillette Children's Specialty Healthcare,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$154.80,MN
+Gillette Children's Specialty Healthcare,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$154.80,MN
+Gillette Children's Specialty Healthcare,Psychology,HCPCS 90853,Group psychotherapy,$215.40,MN
+Gillette Children's Specialty Healthcare,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$96.60,MN
+Gillette Children's Specialty Healthcare,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$88.20,MN
+Gillette Children's Specialty Healthcare,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$110.40,MN
+Gillette Children's Specialty Healthcare,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$132.00,MN
+Gillette Children's Specialty Healthcare,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$457.80,MN
+Gillette Children's Specialty Healthcare,Speech,HCPCS 92507,Speech Therapy,$234.60,MN
+Gillette Children's Specialty Healthcare,Speech,HCPCS 92610,Swallow Evaluation,$457.80,MN
+Gillette Children's Specialty Healthcare,Speech,HCPCS 92526,Swallow Treatment,$234.60,MN
+Gillette Children's Specialty Healthcare,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$341.40,MN
+Gillette Children's Specialty Healthcare,Pulmonary,HCPCS 94640,Nebulizer Treatment,$477.00,MN
+Gillette Children's Specialty Healthcare,Pulmonary,HCPCS 94010,Spirometry - breathing test,$199.20,MN
+Gillette Children's Specialty Healthcare,Sleep,HCPCS 95810,Sleep study,"$2,824.80",MN
+Gillette Children's Specialty Healthcare,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,257.00",MN
+Gillette Children's Specialty Healthcare,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,832.00",MN
+Gillette Children's Specialty Healthcare,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,858.20",MN
+Gillette Children's Specialty Healthcare,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,232.00",MN
+Gillette Children's Specialty Healthcare,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,232.00",MN
+Gillette Children's Specialty Healthcare,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,310.00",MN
+Gillette Children's Specialty Healthcare,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$6,064.80",MN
+Gillette Children's Specialty Healthcare,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,509.00",MN
+Gillette Children's Specialty Healthcare,MRI,HCPCS 73721,MRI scan of leg joint,"$4,222.80",MN
+Gillette Children's Specialty Healthcare,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$952.20,MN
+Gillette Children's Specialty Healthcare,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$825.00,MN
+Gillette Children's Specialty Healthcare,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$750.60,MN
+Gillette Children's Specialty Healthcare,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$823.20,MN
+Gillette Children's Specialty Healthcare,Chest,HCPCS 71046,X-ray of chest; 2 Views,$233.40,MN
+Gillette Children's Specialty Healthcare,Chest,HCPCS 71045,X-ray of chest; Single View,$177.60,MN
+Gillette Children's Specialty Healthcare,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$258.60,MN
+Gillette Children's Specialty Healthcare,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$185.40,MN
+Gillette Children's Specialty Healthcare,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$295.80,MN
+Gillette Children's Specialty Healthcare,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$448.80,MN
+Gillette Children's Specialty Healthcare,Lower Limbs,HCPCS 73630,X-ray exam of foot,$457.20,MN
+Gillette Children's Specialty Healthcare,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$490.80,MN
+Gillette Children's Specialty Healthcare,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$295.80,MN
+Gillette Children's Specialty Healthcare,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$394.80,MN
+Gillette Children's Specialty Healthcare,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$490.80,MN
+Gillette Children's Specialty Healthcare,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$373.20,MN
+Gillette Children's Specialty Healthcare,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$267.00,MN
+Gillette Children's Specialty Healthcare,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$262.20,MN
+Gillette Children's Specialty Healthcare,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$448.80,MN
+Gillette Children's Specialty Healthcare,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$204.00,MN
+Gillette Children's Specialty Healthcare,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$490.80,MN
+Gillette Children's Specialty Healthcare,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$295.80,MN
+Gillette Children's Specialty Healthcare,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$1,263.00",MN

@@ -1,0 +1,244 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Pioneers Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$626.40,CO
+Pioneers Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,716.80",CO
+Pioneers Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$232.00,CO
+Pioneers Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$421.60,CO
+Pioneers Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$576.80,CO
+Pioneers Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$2,949.60",CO
+Pioneers Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$3,209.60",CO
+Pioneers Medical Center,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$194.40,CO
+Pioneers Medical Center,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$208.00,CO
+Pioneers Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$255.20,CO
+Pioneers Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$348.00,CO
+Pioneers Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$156.00,CO
+Pioneers Medical Center,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$137.60,CO
+Pioneers Medical Center,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$186.40,CO
+Pioneers Medical Center,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$304.00,CO
+Pioneers Medical Center,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$196.80,CO
+Pioneers Medical Center,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$295.20,CO
+Pioneers Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$27.20,CO
+Pioneers Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$27.20,CO
+Pioneers Medical Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$98.40,CO
+Pioneers Medical Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$192.00,CO
+Pioneers Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$57.60,CO
+Pioneers Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$64.00,CO
+Pioneers Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$80.00,CO
+Pioneers Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$79.20,CO
+Pioneers Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$61.60,CO
+Pioneers Medical Center,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$88.80,CO
+Pioneers Medical Center,Blood,HCPCS 85660,Red blood cell sickling measurement,$98.40,CO
+Pioneers Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$348.00,CO
+Pioneers Medical Center,Blood,HCPCS 85041,"Red blood count, automated test",$83.20,CO
+Pioneers Medical Center,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$224.80,CO
+Pioneers Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$180.00,CO
+Pioneers Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$149.60,CO
+Pioneers Medical Center,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$99.20,CO
+Pioneers Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$39.20,CO
+Pioneers Medical Center,Chemistry,HCPCS 82140,Ammonia level,$133.60,CO
+Pioneers Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$83.20,CO
+Pioneers Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$80.00,CO
+Pioneers Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$229.60,CO
+Pioneers Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$59.20,CO
+Pioneers Medical Center,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$23.20,CO
+Pioneers Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$25.60,CO
+Pioneers Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$62.40,CO
+Pioneers Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$68.00,CO
+Pioneers Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$24.00,CO
+Pioneers Medical Center,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$28.80,CO
+Pioneers Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$28.80,CO
+Pioneers Medical Center,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$64.00,CO
+Pioneers Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$28.00,CO
+Pioneers Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$136.00,CO
+Pioneers Medical Center,Chemistry,HCPCS 82310,Calcium level,$31.20,CO
+Pioneers Medical Center,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$68.00,CO
+Pioneers Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$148.00,CO
+Pioneers Medical Center,Chemistry,HCPCS 82465,Cholesterol level,$88.80,CO
+Pioneers Medical Center,Chemistry,HCPCS 82525,Copper level,$96.00,CO
+Pioneers Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$148.00,CO
+Pioneers Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$153.60,CO
+Pioneers Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$61.60,CO
+Pioneers Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$138.40,CO
+Pioneers Medical Center,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$158.40,CO
+Pioneers Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$59.20,CO
+Pioneers Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$39.20,CO
+Pioneers Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$108.80,CO
+Pioneers Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$104.00,CO
+Pioneers Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$64.00,CO
+Pioneers Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$63.20,CO
+Pioneers Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$123.20,CO
+Pioneers Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$126.40,CO
+Pioneers Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$68.00,CO
+Pioneers Medical Center,Chemistry,HCPCS 83718,HDL cholesterol level,$123.20,CO
+Pioneers Medical Center,Chemistry,HCPCS 83020,Hemoglobin Measurement,$123.20,CO
+Pioneers Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$281.60,CO
+Pioneers Medical Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$83.20,CO
+Pioneers Medical Center,Chemistry,HCPCS 83520,IgE (immune system protein) level,$133.60,CO
+Pioneers Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$44.80,CO
+Pioneers Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$113.60,CO
+Pioneers Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$39.20,CO
+Pioneers Medical Center,Chemistry,HCPCS 83540,Iron level,$39.20,CO
+Pioneers Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$64.00,CO
+Pioneers Medical Center,Chemistry,HCPCS 83721,LDL cholesterol level,$55.20,CO
+Pioneers Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$95.20,CO
+Pioneers Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$64.00,CO
+Pioneers Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$36.80,CO
+Pioneers Medical Center,Chemistry,HCPCS 83021,Liver function blood test panel,$100.80,CO
+Pioneers Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$68.00,CO
+Pioneers Medical Center,Chemistry,HCPCS 82542,Mass spectrometry,$127.20,CO
+Pioneers Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$246.40,CO
+Pioneers Medical Center,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$68.00,CO
+Pioneers Medical Center,Chemistry,HCPCS 83945,Oxalate level,$68.80,CO
+Pioneers Medical Center,Chemistry,HCPCS 83970,Parathormone,$232.00,CO
+Pioneers Medical Center,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$107.20,CO
+Pioneers Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$63.20,CO
+Pioneers Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$168.80,CO
+Pioneers Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$158.40,CO
+Pioneers Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$117.60,CO
+Pioneers Medical Center,Chemistry,HCPCS A9270,Selenium (vitamin) level,$25.40,CO
+Pioneers Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$34.40,CO
+Pioneers Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$128.80,CO
+Pioneers Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$33.60,CO
+Pioneers Medical Center,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$36.80,CO
+Pioneers Medical Center,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$360.00,CO
+Pioneers Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$38.40,CO
+Pioneers Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$22.40,CO
+Pioneers Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$44.80,CO
+Pioneers Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$143.20,CO
+Pioneers Medical Center,Chemistry,HCPCS 84560,Uric acid level,$64.00,CO
+Pioneers Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$75.20,CO
+Pioneers Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$148.00,CO
+Pioneers Medical Center,Chemistry,HCPCS 82436,Urine chloride level,$64.00,CO
+Pioneers Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$64.00,CO
+Pioneers Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$144.80,CO
+Pioneers Medical Center,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$113.60,CO
+Pioneers Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$68.80,CO
+Pioneers Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$48.80,CO
+Pioneers Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$59.20,CO
+Pioneers Medical Center,Chemistry,HCPCS 84630,Zinc level,$120.00,CO
+Pioneers Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$214.40,CO
+Pioneers Medical Center,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$124.00,CO
+Pioneers Medical Center,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$115.20,CO
+Pioneers Medical Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$160.00,CO
+Pioneers Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$29.60,CO
+Pioneers Medical Center,Immunology,HCPCS 86318,Covid-19 antibody test,$98.40,CO
+Pioneers Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$143.20,CO
+Pioneers Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$29.60,CO
+Pioneers Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$29.60,CO
+Pioneers Medical Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$96.80,CO
+Pioneers Medical Center,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$249.60,CO
+Pioneers Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$63.20,CO
+Pioneers Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$160.80,CO
+Pioneers Medical Center,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$74.40,CO
+Pioneers Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$29.60,CO
+Pioneers Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$124.80,CO
+Pioneers Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$43.20,CO
+Pioneers Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$66.40,CO
+Pioneers Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$63.20,CO
+Pioneers Medical Center,Immunology,HCPCS 86361,T cell count and ratio,$148.00,CO
+Pioneers Medical Center,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$152.00,CO
+Pioneers Medical Center,Immunology,HCPCS 86580,Tuberculosis Test,$25.60,CO
+Pioneers Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$119.20,CO
+Pioneers Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$119.20,CO
+Pioneers Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$118.40,CO
+Pioneers Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$88.80,CO
+Pioneers Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$37.60,CO
+Pioneers Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$29.60,CO
+Pioneers Medical Center,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$295.20,CO
+Pioneers Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$118.40,CO
+Pioneers Medical Center,Microbiology,HCPCS 87517,Hepatitis B Detection,$332.80,CO
+Pioneers Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$118.40,CO
+Pioneers Medical Center,Microbiology,HCPCS 86735,Mumps virus antibody test,$29.60,CO
+Pioneers Medical Center,Microbiology,HCPCS 86747,Parvovirus antibody test,$80.00,CO
+Pioneers Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$29.60,CO
+Pioneers Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$29.60,CO
+Pioneers Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$28.00,CO
+Pioneers Medical Center,Microbiology,HCPCS 87045,Stool Culture,$99.20,CO
+Pioneers Medical Center,Microbiology,HCPCS 87880,Streptoccus,$44.80,CO
+Pioneers Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$79.20,CO
+Pioneers Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$84.80,CO
+Pioneers Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$39.20,CO
+Pioneers Medical Center,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$211.20,CO
+Pioneers Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$256.80,CO
+Pioneers Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$159.20,CO
+Pioneers Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$208.80,CO
+Pioneers Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$100.80,CO
+Pioneers Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$163.20,CO
+Pioneers Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$166.40,CO
+Pioneers Medical Center,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$320.00,CO
+Pioneers Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$51.20,CO
+Pioneers Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$34.40,CO
+Pioneers Medical Center,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$168.80,CO
+Pioneers Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$98.40,CO
+Pioneers Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$75.20,CO
+Pioneers Medical Center,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$139.20,CO
+Pioneers Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$123.20,CO
+Pioneers Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$148.00,CO
+Pioneers Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$127.20,CO
+Pioneers Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$246.40,CO
+Pioneers Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$104.00,CO
+Pioneers Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$34.40,CO
+Pioneers Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$133.60,CO
+Pioneers Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$64.00,CO
+Pioneers Medical Center,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$304.00,CO
+Pioneers Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$104.80,CO
+Pioneers Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$12.80,CO
+Pioneers Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$64.80,CO
+Pioneers Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$59.20,CO
+Pioneers Medical Center,Cardiovascular,HCPCS 93015,"Cardiovascular stress test, with interpretation and report",$168.80,CO
+Pioneers Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$76.00,CO
+Pioneers Medical Center,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$428.80,CO
+Pioneers Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$222.40,CO
+Pioneers Medical Center,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$120.00,CO
+Pioneers Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$597.60,CO
+Pioneers Medical Center,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$17.60,CO
+Pioneers Medical Center,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$249.60,CO
+Pioneers Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,$20.00,CO
+Pioneers Medical Center,Pulmonary,HCPCS 94618,Pulmonary stress test,$376.80,CO
+Pioneers Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$46.40,CO
+Pioneers Medical Center,Sleep,HCPCS 95810,Sleep study,"$3,411.20",CO
+Pioneers Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$1,955.20",CO
+Pioneers Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$1,852.00",CO
+Pioneers Medical Center,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,$436.00,CO
+Pioneers Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),$972.80,CO
+Pioneers Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$141.60,CO
+Pioneers Medical Center,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$109.60,CO
+Pioneers Medical Center,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$1,713.60",CO
+Pioneers Medical Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$1,111.20",CO
+Pioneers Medical Center,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),$854.40,CO
+Pioneers Medical Center,Breast,HCPCS 19101,Biopsy of breast,$858.40,CO
+Pioneers Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$1,267.20",CO
+Pioneers Medical Center,Breast,HCPCS 19301,Partial removal of breast,"$1,606.40",CO
+Pioneers Medical Center,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$2,072.80",CO
+Pioneers Medical Center,Breast,HCPCS 19303,Total removal of breast,"$2,608.80",CO
+Pioneers Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,000.00",CO
+Pioneers Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,192.00",CO
+Pioneers Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,345.60",CO
+Pioneers Medical Center,Digestive,HCPCS 43235,EGD,$369.60,CO
+Pioneers Medical Center,Digestive,HCPCS 43239,EGD and biopsy,$384.00,CO
+Pioneers Medical Center,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$1,198.40",CO
+Pioneers Medical Center,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$1,233.60",CO
+Pioneers Medical Center,General,HCPCS 10060,Drainage of Abscess,$216.00,CO
+Pioneers Medical Center,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$280.00,CO
+Pioneers Medical Center,General,HCPCS 69200,Removal of foreign body from ear canal,$244.00,CO
+Pioneers Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$212.80,CO
+Pioneers Medical Center,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$321.60,CO
+Pioneers Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$214.40,CO
+Pioneers Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$158.40,CO
+Pioneers Medical Center,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),$636.80,CO
+Pioneers Medical Center,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$587.20,CO
+Pioneers Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$246.40,CO
+Pioneers Medical Center,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,$255.20,CO
+Pioneers Medical Center,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$516.00,CO
+Pioneers Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$148.80,CO
+Pioneers Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$1,292.80",CO
+Pioneers Medical Center,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$1,484.00",CO
+Pioneers Medical Center,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$1,592.00",CO
+Pioneers Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,$415.20,CO
+Pioneers Medical Center,Musculoskeletal,HCPCS 22612,Spine arthrodesis,"$3,448.80",CO
+Pioneers Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$137.60,CO
+Pioneers Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$196.80,CO
+Pioneers Medical Center,Soft Tissue,HCPCS 97602,Non-selective debridement,$132.80,CO
+Pioneers Medical Center,Vascular,HCPCS 36416,Collection of capillary blood specimen,$6.40,CO
+Pioneers Medical Center,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),$340.00,CO
+Pioneers Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$747.20,CO
+Pioneers Medical Center,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,$563.20,CO

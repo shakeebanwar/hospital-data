@@ -1,0 +1,319 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Bronson Battle Creek,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$3,230.59",MI
+Bronson Battle Creek,Emergency Care,HCPCS 99281,Emergency Level 1,"$1,118.30",MI
+Bronson Battle Creek,Emergency Care,HCPCS 99282,Emergency Level 2,"$1,118.30",MI
+Bronson Battle Creek,Emergency Care,HCPCS 99283,Emergency Level 3,"$1,118.30",MI
+Bronson Battle Creek,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,118.30",MI
+Bronson Battle Creek,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,118.30",MI
+Bronson Battle Creek,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$211.20,MI
+Bronson Battle Creek,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$211.20,MI
+Bronson Battle Creek,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$136.80,MI
+Bronson Battle Creek,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$102.31,MI
+Bronson Battle Creek,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$102.31,MI
+Bronson Battle Creek,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$207.36,MI
+Bronson Battle Creek,Speech,HCPCS 92507,Speech Therapy,$166.40,MI
+Bronson Battle Creek,Speech,HCPCS 92610,Swallow Evaluation,$213.60,MI
+Bronson Battle Creek,Speech,HCPCS 92526,Swallow Treatment,$168.00,MI
+Bronson Battle Creek,Blood,HCPCS 85018,"Blood count, hemoglobin",$24.80,MI
+Bronson Battle Creek,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$18.72,MI
+Bronson Battle Creek,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$42.94,MI
+Bronson Battle Creek,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$42.94,MI
+Bronson Battle Creek,Blood,HCPCS 85610,"Blood test, clotting time",$22.22,MI
+Bronson Battle Creek,Blood,HCPCS 85730,Coagulation assessment blood test,$20.00,MI
+Bronson Battle Creek,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$21.88,MI
+Bronson Battle Creek,Blood,HCPCS 85027,"Complete blood count, automated",$21.88,MI
+Bronson Battle Creek,Blood,HCPCS 85008,Microscopic examination for white blood cells,$18.76,MI
+Bronson Battle Creek,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$50.41,MI
+Bronson Battle Creek,Blood,HCPCS 85660,Red blood cell sickling measurement,$37.49,MI
+Bronson Battle Creek,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$88.00,MI
+Bronson Battle Creek,Chemistry,HCPCS 82040,Albumin (protein) level,$59.59,MI
+Bronson Battle Creek,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$31.54,MI
+Bronson Battle Creek,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$48.08,MI
+Bronson Battle Creek,Chemistry,HCPCS 82140,Ammonia level,$38.40,MI
+Bronson Battle Creek,Chemistry,HCPCS 82150,Amylase (enzyme) level,$24.00,MI
+Bronson Battle Creek,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$31.48,MI
+Bronson Battle Creek,Chemistry,HCPCS 84439,Assay of free thyroxine,$90.33,MI
+Bronson Battle Creek,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$32.80,MI
+Bronson Battle Creek,Chemistry,HCPCS 82248,Bilirubin level (Direct),$16.00,MI
+Bronson Battle Creek,Chemistry,HCPCS 82247,Bilirubin level (Total),$16.00,MI
+Bronson Battle Creek,Chemistry,HCPCS 82565,Blood creatinine level,$27.01,MI
+Bronson Battle Creek,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$15.94,MI
+Bronson Battle Creek,Chemistry,HCPCS 84132,Blood potassium level,$16.00,MI
+Bronson Battle Creek,Chemistry,HCPCS 84295,Blood sodium level,$21.20,MI
+Bronson Battle Creek,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$16.62,MI
+Bronson Battle Creek,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$36.00,MI
+Bronson Battle Creek,Chemistry,HCPCS 82310,Calcium level,$41.07,MI
+Bronson Battle Creek,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$33.88,MI
+Bronson Battle Creek,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$102.56,MI
+Bronson Battle Creek,Chemistry,HCPCS 82465,Cholesterol level,$15.95,MI
+Bronson Battle Creek,Chemistry,HCPCS 82525,Copper level,$35.20,MI
+Bronson Battle Creek,Chemistry,HCPCS 82533,Cortisol Measurement,$50.85,MI
+Bronson Battle Creek,Chemistry,HCPCS 84681,C-peptide (protein) level,$28.80,MI
+Bronson Battle Creek,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$40.96,MI
+Bronson Battle Creek,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$48.00,MI
+Bronson Battle Creek,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$43.04,MI
+Bronson Battle Creek,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$72.00,MI
+Bronson Battle Creek,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$48.00,MI
+Bronson Battle Creek,Chemistry,HCPCS 82746,Folic acid; serum,$48.00,MI
+Bronson Battle Creek,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$55.21,MI
+Bronson Battle Creek,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$54.40,MI
+Bronson Battle Creek,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$27.94,MI
+Bronson Battle Creek,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$50.40,MI
+Bronson Battle Creek,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$60.00,MI
+Bronson Battle Creek,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$66.40,MI
+Bronson Battle Creek,Chemistry,HCPCS 83718,HDL cholesterol level,$23.95,MI
+Bronson Battle Creek,Chemistry,HCPCS 83020,Hemoglobin Measurement,$75.57,MI
+Bronson Battle Creek,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$40.00,MI
+Bronson Battle Creek,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$32.80,MI
+Bronson Battle Creek,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$64.21,MI
+Bronson Battle Creek,Chemistry,HCPCS 83525,Insulin Measurement; Total,$78.08,MI
+Bronson Battle Creek,Chemistry,HCPCS 82330,Ionized Calcium,$41.07,MI
+Bronson Battle Creek,Chemistry,HCPCS 83540,Iron level,$20.00,MI
+Bronson Battle Creek,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$17.06,MI
+Bronson Battle Creek,Chemistry,HCPCS 83721,LDL cholesterol level,$46.88,MI
+Bronson Battle Creek,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$23.99,MI
+Bronson Battle Creek,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$14.97,MI
+Bronson Battle Creek,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$93.17,MI
+Bronson Battle Creek,Chemistry,HCPCS 83021,Liver function blood test panel,$75.57,MI
+Bronson Battle Creek,Chemistry,HCPCS 83735,Magnesium Level,$20.00,MI
+Bronson Battle Creek,Chemistry,HCPCS 82542,Mass spectrometry,$137.98,MI
+Bronson Battle Creek,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$60.38,MI
+Bronson Battle Creek,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$165.07,MI
+Bronson Battle Creek,Chemistry,HCPCS 83918,Organic acid level,$59.20,MI
+Bronson Battle Creek,Chemistry,HCPCS 83945,Oxalate level,$35.20,MI
+Bronson Battle Creek,Chemistry,HCPCS 83970,Parathormone,$180.96,MI
+Bronson Battle Creek,Chemistry,HCPCS 84157,Prealbumin (protein) level,$34.44,MI
+Bronson Battle Creek,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$64.21,MI
+Bronson Battle Creek,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$56.80,MI
+Bronson Battle Creek,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$34.44,MI
+Bronson Battle Creek,Chemistry,HCPCS 84403,Testosterone (hormone) level,$58.08,MI
+Bronson Battle Creek,Chemistry,HCPCS 84402,Testosterone Level; Free,$58.08,MI
+Bronson Battle Creek,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$36.40,MI
+Bronson Battle Creek,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$58.40,MI
+Bronson Battle Creek,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$90.33,MI
+Bronson Battle Creek,Chemistry,HCPCS 84155,"Total protein level, blood",$34.44,MI
+Bronson Battle Creek,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$34.44,MI
+Bronson Battle Creek,Chemistry,HCPCS 84550,"Uric acid level, blood",$16.00,MI
+Bronson Battle Creek,Chemistry,HCPCS 82340,Urine calcium level,$41.07,MI
+Bronson Battle Creek,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$59.59,MI
+Bronson Battle Creek,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$42.24,MI
+Bronson Battle Creek,Chemistry,HCPCS 84300,Urine sodium level,$21.20,MI
+Bronson Battle Creek,Chemistry,HCPCS 84591,Vitamin B-6 level,$96.80,MI
+Bronson Battle Creek,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$60.00,MI
+Bronson Battle Creek,Chemistry,HCPCS 84630,Zinc level,$39.20,MI
+Bronson Battle Creek,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$34.61,MI
+Bronson Battle Creek,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$32.00,MI
+Bronson Battle Creek,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$46.54,MI
+Bronson Battle Creek,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$46.54,MI
+Bronson Battle Creek,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$34.39,MI
+Bronson Battle Creek,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$21.84,MI
+Bronson Battle Creek,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$34.39,MI
+Bronson Battle Creek,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$34.39,MI
+Bronson Battle Creek,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$61.34,MI
+Bronson Battle Creek,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$132.64,MI
+Bronson Battle Creek,Immunology,HCPCS 86140,Measurement C-reactive protein,$48.28,MI
+Bronson Battle Creek,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$21.41,MI
+Bronson Battle Creek,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$50.50,MI
+Bronson Battle Creek,Immunology,HCPCS 86161,Measurement of complement (immune system proteins),$84.38,MI
+Bronson Battle Creek,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$34.39,MI
+Bronson Battle Creek,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$66.53,MI
+Bronson Battle Creek,Immunology,HCPCS 86431,Rheumatoid factor level,$20.00,MI
+Bronson Battle Creek,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$20.00,MI
+Bronson Battle Creek,Immunology,HCPCS 86580,Skin test for tuberculosis,$13.33,MI
+Bronson Battle Creek,Immunology,HCPCS 86592,Syphilis Detection Test,$16.21,MI
+Bronson Battle Creek,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$48.36,MI
+Bronson Battle Creek,Immunology,HCPCS 86359,"T cells count, total",$48.36,MI
+Bronson Battle Creek,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$44.89,MI
+Bronson Battle Creek,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$30.81,MI
+Bronson Battle Creek,Microbiology,HCPCS 87491,Chlamydia Test,$51.66,MI
+Bronson Battle Creek,Microbiology,HCPCS 87635,Covid-19 current infection test,$116.00,MI
+Bronson Battle Creek,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$108.16,MI
+Bronson Battle Creek,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$136.00,MI
+Bronson Battle Creek,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$34.39,MI
+Bronson Battle Creek,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$126.19,MI
+Bronson Battle Creek,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$51.99,MI
+Bronson Battle Creek,Microbiology,HCPCS 87517,Hepatitis B Detection,$119.28,MI
+Bronson Battle Creek,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$38.40,MI
+Bronson Battle Creek,Microbiology,HCPCS 87624,HPV Detection,$76.18,MI
+Bronson Battle Creek,Microbiology,HCPCS 86735,Mumps virus antibody test,$63.20,MI
+Bronson Battle Creek,Microbiology,HCPCS 86747,Parvovirus antibody test,$16.80,MI
+Bronson Battle Creek,Microbiology,HCPCS 86762,Rubella virus antibody test,$31.95,MI
+Bronson Battle Creek,Microbiology,HCPCS 86765,Rubeola virus antibody test,$68.26,MI
+Bronson Battle Creek,Microbiology,HCPCS 87177,Smear for Parasites,$68.88,MI
+Bronson Battle Creek,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$21.19,MI
+Bronson Battle Creek,Microbiology,HCPCS 87045,Stool Culture,$18.80,MI
+Bronson Battle Creek,Microbiology,HCPCS 87880,Strep Test,$47.58,MI
+Bronson Battle Creek,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$16.21,MI
+Bronson Battle Creek,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$34.71,MI
+Bronson Battle Creek,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$204.00,MI
+Bronson Battle Creek,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$239.76,MI
+Bronson Battle Creek,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$24.48,MI
+Bronson Battle Creek,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$30.12,MI
+Bronson Battle Creek,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$40.00,MI
+Bronson Battle Creek,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$27.20,MI
+Bronson Battle Creek,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$32.00,MI
+Bronson Battle Creek,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$98.85,MI
+Bronson Battle Creek,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$32.00,MI
+Bronson Battle Creek,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$70.64,MI
+Bronson Battle Creek,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$129.81,MI
+Bronson Battle Creek,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$59.04,MI
+Bronson Battle Creek,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$42.24,MI
+Bronson Battle Creek,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$56.54,MI
+Bronson Battle Creek,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$28.00,MI
+Bronson Battle Creek,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$50.40,MI
+Bronson Battle Creek,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$84.32,MI
+Bronson Battle Creek,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$108.56,MI
+Bronson Battle Creek,Transfusion,HCPCS 86900,"Blood Typing, ABO",$17.12,MI
+Bronson Battle Creek,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$17.12,MI
+Bronson Battle Creek,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$29.58,MI
+Bronson Battle Creek,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$29.58,MI
+Bronson Battle Creek,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$9.60,MI
+Bronson Battle Creek,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$15.94,MI
+Bronson Battle Creek,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$15.94,MI
+Bronson Battle Creek,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$19.98,MI
+Bronson Battle Creek,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$1,207.39",MI
+Bronson Battle Creek,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$166.14,MI
+Bronson Battle Creek,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$651.75,MI
+Bronson Battle Creek,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),$815.11,MI
+Bronson Battle Creek,Cardiovascular,HCPCS 93975,Ultrasound Heart,$998.44,MI
+Bronson Battle Creek,Pulmonary,HCPCS 94640,Aerosol Treatment,$263.08,MI
+Bronson Battle Creek,Pulmonary,HCPCS 94618,Pulmonary stress test,$300.46,MI
+Bronson Battle Creek,Pulmonary,HCPCS 94010,Spirometry - breathing test,$432.54,MI
+Bronson Battle Creek,Sleep,HCPCS 95810,Sleep study,"$2,425.33",MI
+Bronson Battle Creek,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$307.84,MI
+Bronson Battle Creek,Breast,HCPCS 77067,Mammogram Screening,$324.74,MI
+Bronson Battle Creek,Breast,HCPCS 77066,Mammography of both breasts,$307.84,MI
+Bronson Battle Creek,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,738.50",MI
+Bronson Battle Creek,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,235.60",MI
+Bronson Battle Creek,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,184.73",MI
+Bronson Battle Creek,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,084.88",MI
+Bronson Battle Creek,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,129.78",MI
+Bronson Battle Creek,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$3,129.78",MI
+Bronson Battle Creek,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,924.08",MI
+Bronson Battle Creek,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,770.65",MI
+Bronson Battle Creek,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,770.65",MI
+Bronson Battle Creek,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,474.77",MI
+Bronson Battle Creek,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,187.52",MI
+Bronson Battle Creek,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,619.86",MI
+Bronson Battle Creek,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,361.27",MI
+Bronson Battle Creek,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,412.65",MI
+Bronson Battle Creek,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,733.45",MI
+Bronson Battle Creek,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,733.45",MI
+Bronson Battle Creek,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,697.07",MI
+Bronson Battle Creek,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,733.45",MI
+Bronson Battle Creek,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,478.43",MI
+Bronson Battle Creek,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,566.03",MI
+Bronson Battle Creek,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,592.17",MI
+Bronson Battle Creek,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,593.92",MI
+Bronson Battle Creek,MRI,HCPCS 73721,MRI scan of leg joint,"$1,597.22",MI
+Bronson Battle Creek,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$428.10,MI
+Bronson Battle Creek,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$635.41,MI
+Bronson Battle Creek,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$587.67,MI
+Bronson Battle Creek,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$604.23,MI
+Bronson Battle Creek,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$666.97,MI
+Bronson Battle Creek,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$666.97,MI
+Bronson Battle Creek,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$684.02,MI
+Bronson Battle Creek,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$684.02,MI
+Bronson Battle Creek,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$290.47,MI
+Bronson Battle Creek,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$528.04,MI
+Bronson Battle Creek,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$314.91,MI
+Bronson Battle Creek,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$79.00,MI
+Bronson Battle Creek,Chest,HCPCS 71046,X-ray of chest; 2 Views,$224.02,MI
+Bronson Battle Creek,Chest,HCPCS 71045,X-ray of chest; Single View,$224.02,MI
+Bronson Battle Creek,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$296.11,MI
+Bronson Battle Creek,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$194.01,MI
+Bronson Battle Creek,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$152.87,MI
+Bronson Battle Creek,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$445.62,MI
+Bronson Battle Creek,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$353.37,MI
+Bronson Battle Creek,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$238.78,MI
+Bronson Battle Creek,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$260.25,MI
+Bronson Battle Creek,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$300.37,MI
+Bronson Battle Creek,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$330.71,MI
+Bronson Battle Creek,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$228.82,MI
+Bronson Battle Creek,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$226.44,MI
+Bronson Battle Creek,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$242.08,MI
+Bronson Battle Creek,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$271.59,MI
+Bronson Battle Creek,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$271.59,MI
+Bronson Battle Creek,Lower Limbs,HCPCS 73565,X-ray Both Knees,$285.07,MI
+Bronson Battle Creek,Lower Limbs,HCPCS 73630,X-ray exam of foot,$271.59,MI
+Bronson Battle Creek,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$285.07,MI
+Bronson Battle Creek,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$273.14,MI
+Bronson Battle Creek,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$271.59,MI
+Bronson Battle Creek,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$234.45,MI
+Bronson Battle Creek,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$285.07,MI
+Bronson Battle Creek,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$285.07,MI
+Bronson Battle Creek,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$273.65,MI
+Bronson Battle Creek,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$311.16,MI
+Bronson Battle Creek,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$311.16,MI
+Bronson Battle Creek,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$311.50,MI
+Bronson Battle Creek,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$311.50,MI
+Bronson Battle Creek,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$274.82,MI
+Bronson Battle Creek,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$148.78,MI
+Bronson Battle Creek,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$235.13,MI
+Bronson Battle Creek,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$308.49,MI
+Bronson Battle Creek,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$308.49,MI
+Bronson Battle Creek,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$310.85,MI
+Bronson Battle Creek,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$308.49,MI
+Bronson Battle Creek,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$308.49,MI
+Bronson Battle Creek,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$4,230.89",MI
+Bronson Battle Creek,Abdomenal,HCPCS 47562,Cholecystectomy,"$12,481.28",MI
+Bronson Battle Creek,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$12,481.28",MI
+Bronson Battle Creek,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,"$9,336.74",MI
+Bronson Battle Creek,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$9,336.74",MI
+Bronson Battle Creek,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,$881.41,MI
+Bronson Battle Creek,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$7,567.29",MI
+Bronson Battle Creek,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$280.17,MI
+Bronson Battle Creek,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$280.17,MI
+Bronson Battle Creek,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$32,675.19",MI
+Bronson Battle Creek,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$13,170.44",MI
+Bronson Battle Creek,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$16,982.77",MI
+Bronson Battle Creek,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$16,982.77",MI
+Bronson Battle Creek,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$16,982.77",MI
+Bronson Battle Creek,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$7,930.63",MI
+Bronson Battle Creek,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$7,567.29",MI
+Bronson Battle Creek,Breast,HCPCS 19125,Excision of breast lesion,"$5,398.26",MI
+Bronson Battle Creek,Breast,HCPCS 19120,Excision of cyst of breast,"$5,398.26",MI
+Bronson Battle Creek,Breast,HCPCS 19301,Partial removal of breast,"$5,032.89",MI
+Bronson Battle Creek,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$11,314.32",MI
+Bronson Battle Creek,Breast,HCPCS 19303,Total removal of breast,"$11,314.32",MI
+Bronson Battle Creek,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,814.39",MI
+Bronson Battle Creek,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$2,177.00",MI
+Bronson Battle Creek,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$2,080.15",MI
+Bronson Battle Creek,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$2,080.15",MI
+Bronson Battle Creek,Digestive,HCPCS 43235,EGD,"$2,144.25",MI
+Bronson Battle Creek,Digestive,HCPCS 43239,EGD and biopsy,"$1,969.63",MI
+Bronson Battle Creek,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$5,706.13",MI
+Bronson Battle Creek,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$5,706.13",MI
+Bronson Battle Creek,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$23,463.25",MI
+Bronson Battle Creek,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$6,408.16",MI
+Bronson Battle Creek,General,HCPCS 55700,Biopsy of prostate gland,"$2,294.41",MI
+Bronson Battle Creek,General,HCPCS 10060,Drainage of Abscess,"$1,057.69",MI
+Bronson Battle Creek,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple","$2,242.84",MI
+Bronson Battle Creek,General,HCPCS 69200,Removal of foreign body from ear canal,$632.57,MI
+Bronson Battle Creek,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$1,585.36",MI
+Bronson Battle Creek,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),"$1,585.36",MI
+Bronson Battle Creek,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$1,585.36",MI
+Bronson Battle Creek,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$1,585.36",MI
+Bronson Battle Creek,Head,HCPCS 69436,Create eardrum opening,"$3,091.03",MI
+Bronson Battle Creek,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$4,835.73",MI
+Bronson Battle Creek,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$5,070.16",MI
+Bronson Battle Creek,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,"$2,171.19",MI
+Bronson Battle Creek,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$641.65,MI
+Bronson Battle Creek,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$29,115.01",MI
+Bronson Battle Creek,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$5,946.73",MI
+Bronson Battle Creek,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$5,946.73",MI
+Bronson Battle Creek,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$3,929.31",MI
+Bronson Battle Creek,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$523.03,MI
+Bronson Battle Creek,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$17,604.48",MI
+Bronson Battle Creek,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$3,870.05",MI
+Bronson Battle Creek,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$12,818.13",MI
+Bronson Battle Creek,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$5,529.61",MI
+Bronson Battle Creek,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$6,734.81",MI
+Bronson Battle Creek,Obstetrics,HCPCS 58545,Removal of uterine fibroid tumors using an endoscope,"$2,952.77",MI
+Bronson Battle Creek,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$10,685.24",MI
+Bronson Battle Creek,Soft Tissue,HCPCS 97597,Debridement of open wound,$540.32,MI
+Bronson Battle Creek,Soft Tissue,HCPCS 97602,Non-selective debridement,$540.32,MI
+Bronson Battle Creek,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$127.28,MI
+Bronson Battle Creek,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$4,063.38",MI
+Bronson Battle Creek,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,513.42",MI
+Bronson Battle Creek,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,620.88",MI

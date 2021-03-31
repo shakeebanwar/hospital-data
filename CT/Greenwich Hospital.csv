@@ -1,0 +1,342 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Greenwich Hospital,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$787.51,CT
+Greenwich Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$2,473.14",CT
+Greenwich Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$235.07,CT
+Greenwich Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$447.09,CT
+Greenwich Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$961.99,CT
+Greenwich Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,236.57",CT
+Greenwich Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,717.90",CT
+Greenwich Hospital,Hospital,HCPCS 99234,Hospital observation care discharge,"$1,996.42",CT
+Greenwich Hospital,Hospital,HCPCS 99219,Hospital observation care typically 30 minutes,$304.21,CT
+Greenwich Hospital,Hospital,HCPCS 99218,Hospital Observation per Hour,$138.93,CT
+Greenwich Hospital,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$113.26,CT
+Greenwich Hospital,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$121.82,CT
+Greenwich Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$458.94,CT
+Greenwich Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$597.87,CT
+Greenwich Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$271.94,CT
+Greenwich Hospital,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$301.57,CT
+Greenwich Hospital,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$301.57,CT
+Greenwich Hospital,Psychology,HCPCS 90853,Group psychotherapy,$167.91,CT
+Greenwich Hospital,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$301.57,CT
+Greenwich Hospital,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$167.91,CT
+Greenwich Hospital,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$301.57,CT
+Greenwich Hospital,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$301.57,CT
+Greenwich Hospital,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$849.40,CT
+Greenwich Hospital,Speech,HCPCS 92507,Speech Therapy,$310.13,CT
+Greenwich Hospital,Speech,HCPCS 92610,Swallow Evaluation,$589.97,CT
+Greenwich Hospital,Speech,HCPCS 92526,Swallow Treatment,$510.30,CT
+Greenwich Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$15.60,CT
+Greenwich Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$15.60,CT
+Greenwich Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$31.85,CT
+Greenwich Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$85.80,CT
+Greenwich Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$26.00,CT
+Greenwich Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$40.30,CT
+Greenwich Hospital,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$26.65,CT
+Greenwich Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$52.00,CT
+Greenwich Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$43.55,CT
+Greenwich Hospital,Blood,HCPCS 85008,Microscopic examination for white blood cells,$20.80,CT
+Greenwich Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$22.75,CT
+Greenwich Hospital,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$92.30,CT
+Greenwich Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$35.10,CT
+Greenwich Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$565.79,CT
+Greenwich Hospital,Blood,HCPCS 85041,"Red blood count, automated test",$19.50,CT
+Greenwich Hospital,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$226.85,CT
+Greenwich Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$258.05,CT
+Greenwich Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$30.55,CT
+Greenwich Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$89.70,CT
+Greenwich Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$112.45,CT
+Greenwich Hospital,Chemistry,HCPCS 82140,Ammonia level,$97.50,CT
+Greenwich Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$43.55,CT
+Greenwich Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$97.50,CT
+Greenwich Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$129.35,CT
+Greenwich Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$60.45,CT
+Greenwich Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$107.90,CT
+Greenwich Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$33.80,CT
+Greenwich Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$33.80,CT
+Greenwich Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$34.45,CT
+Greenwich Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$26.00,CT
+Greenwich Hospital,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$21.45,CT
+Greenwich Hospital,Chemistry,HCPCS 84295,Blood sodium level,$32.50,CT
+Greenwich Hospital,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$30.55,CT
+Greenwich Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$112.45,CT
+Greenwich Hospital,Chemistry,HCPCS 82310,Calcium level,$34.45,CT
+Greenwich Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$32.50,CT
+Greenwich Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$126.75,CT
+Greenwich Hospital,Chemistry,HCPCS 82465,Cholesterol level,$29.25,CT
+Greenwich Hospital,Chemistry,HCPCS 82525,Copper level,$83.20,CT
+Greenwich Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$109.20,CT
+Greenwich Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$139.10,CT
+Greenwich Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$43.55,CT
+Greenwich Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$100.75,CT
+Greenwich Hospital,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$169.00,CT
+Greenwich Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$257.40,CT
+Greenwich Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$91.00,CT
+Greenwich Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$98.15,CT
+Greenwich Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$62.40,CT
+Greenwich Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$46.80,CT
+Greenwich Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$65.00,CT
+Greenwich Hospital,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$124.15,CT
+Greenwich Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$124.15,CT
+Greenwich Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$83.85,CT
+Greenwich Hospital,Chemistry,HCPCS 83718,HDL cholesterol level,$54.60,CT
+Greenwich Hospital,Chemistry,HCPCS 83020,Hemoglobin Measurement,$85.80,CT
+Greenwich Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$113.10,CT
+Greenwich Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$182.00,CT
+Greenwich Hospital,Chemistry,HCPCS 83520,IgE (immune system protein) level,$86.45,CT
+Greenwich Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$76.70,CT
+Greenwich Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$78.00,CT
+Greenwich Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$58.50,CT
+Greenwich Hospital,Chemistry,HCPCS 83540,Iron level,$43.55,CT
+Greenwich Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$40.30,CT
+Greenwich Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$63.70,CT
+Greenwich Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$46.15,CT
+Greenwich Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$34.45,CT
+Greenwich Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$94.90,CT
+Greenwich Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$120.90,CT
+Greenwich Hospital,Chemistry,HCPCS 83735,Magnesium Level,$44.85,CT
+Greenwich Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$120.90,CT
+Greenwich Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$91.00,CT
+Greenwich Hospital,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$74.75,CT
+Greenwich Hospital,Chemistry,HCPCS 83918,Organic acid level,$109.85,CT
+Greenwich Hospital,Chemistry,HCPCS 83945,Oxalate level,$85.80,CT
+Greenwich Hospital,Chemistry,HCPCS 83970,Parathormone,$276.25,CT
+Greenwich Hospital,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$49.40,CT
+Greenwich Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$24.70,CT
+Greenwich Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$78.65,CT
+Greenwich Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$129.35,CT
+Greenwich Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$71.50,CT
+Greenwich Hospital,Chemistry,HCPCS A9270,Selenium (vitamin) level,$390.00,CT
+Greenwich Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$21.45,CT
+Greenwich Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$172.90,CT
+Greenwich Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$170.30,CT
+Greenwich Hospital,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement",$43.55,CT
+Greenwich Hospital,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$339.95,CT
+Greenwich Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$46.15,CT
+Greenwich Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$24.70,CT
+Greenwich Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$24.70,CT
+Greenwich Hospital,Chemistry,HCPCS 84478,Triglycerides level,$38.35,CT
+Greenwich Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$118.95,CT
+Greenwich Hospital,Chemistry,HCPCS 84560,Uric acid level,$31.85,CT
+Greenwich Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$30.55,CT
+Greenwich Hospital,Chemistry,HCPCS 82340,Urine calcium level,$40.30,CT
+Greenwich Hospital,Chemistry,HCPCS 82436,Urine chloride level,$33.80,CT
+Greenwich Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$38.35,CT
+Greenwich Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$45.50,CT
+Greenwich Hospital,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$98.15,CT
+Greenwich Hospital,Chemistry,HCPCS 84133,Urine potassium level,$28.60,CT
+Greenwich Hospital,Chemistry,HCPCS 84300,Urine sodium level,$32.50,CT
+Greenwich Hospital,Chemistry,HCPCS 84591,Vitamin B-6 level,$72.15,CT
+Greenwich Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$198.25,CT
+Greenwich Hospital,Chemistry,HCPCS 84630,Zinc level,$76.05,CT
+Greenwich Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$113.75,CT
+Greenwich Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$96.20,CT
+Greenwich Hospital,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$96.20,CT
+Greenwich Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$88.40,CT
+Greenwich Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$59.15,CT
+Greenwich Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$95.55,CT
+Greenwich Hospital,Immunology,HCPCS 86318,Covid-19 antibody test,$86.45,CT
+Greenwich Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$91.65,CT
+Greenwich Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$80.60,CT
+Greenwich Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$71.50,CT
+Greenwich Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$100.10,CT
+Greenwich Hospital,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$149.50,CT
+Greenwich Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$34.45,CT
+Greenwich Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$35.10,CT
+Greenwich Hospital,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$79.95,CT
+Greenwich Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$82.55,CT
+Greenwich Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$83.85,CT
+Greenwich Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$37.70,CT
+Greenwich Hospital,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$80.60,CT
+Greenwich Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$34.45,CT
+Greenwich Hospital,Immunology,HCPCS 86580,Skin test for tuberculosis,$29.90,CT
+Greenwich Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$28.60,CT
+Greenwich Hospital,Immunology,HCPCS 86361,T cell count and ratio,$168.35,CT
+Greenwich Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$313.95,CT
+Greenwich Hospital,Immunology,HCPCS 86359,"T cells count, total",$135.20,CT
+Greenwich Hospital,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$96.85,CT
+Greenwich Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$34.45,CT
+Greenwich Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$50.05,CT
+Greenwich Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$53.95,CT
+Greenwich Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$234.65,CT
+Greenwich Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$200.11,CT
+Greenwich Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$234.65,CT
+Greenwich Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$79.95,CT
+Greenwich Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$286.65,CT
+Greenwich Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$68.90,CT
+Greenwich Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$568.75,CT
+Greenwich Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$234.65,CT
+Greenwich Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$286.65,CT
+Greenwich Hospital,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$107.90,CT
+Greenwich Hospital,Microbiology,HCPCS 87624,HPV Detection,$234.65,CT
+Greenwich Hospital,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$131.95,CT
+Greenwich Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$87.10,CT
+Greenwich Hospital,Microbiology,HCPCS 86747,Parvovirus antibody test,$100.75,CT
+Greenwich Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$96.20,CT
+Greenwich Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$86.45,CT
+Greenwich Hospital,Microbiology,HCPCS 87207,Smear for infectious agents,$27.30,CT
+Greenwich Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$59.80,CT
+Greenwich Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$35.75,CT
+Greenwich Hospital,Microbiology,HCPCS 87045,Stool Culture,$63.05,CT
+Greenwich Hospital,Microbiology,HCPCS 87880,Streptoccus,$79.95,CT
+Greenwich Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$79.95,CT
+Greenwich Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$88.40,CT
+Greenwich Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$86.45,CT
+Greenwich Hospital,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$436.80,CT
+Greenwich Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$318.50,CT
+Greenwich Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$56.55,CT
+Greenwich Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$70.85,CT
+Greenwich Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$89.70,CT
+Greenwich Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$57.85,CT
+Greenwich Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$54.60,CT
+Greenwich Hospital,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$319.80,CT
+Greenwich Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$143.65,CT
+Greenwich Hospital,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$91.65,CT
+Greenwich Hospital,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$120.90,CT
+Greenwich Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$89.05,CT
+Greenwich Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$280.15,CT
+Greenwich Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$88.40,CT
+Greenwich Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$44.20,CT
+Greenwich Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$76.70,CT
+Greenwich Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$88.40,CT
+Greenwich Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$91.65,CT
+Greenwich Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$90.35,CT
+Greenwich Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$90.35,CT
+Greenwich Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$16.19,CT
+Greenwich Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$50.05,CT
+Greenwich Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$225.55,CT
+Greenwich Hospital,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$66.95,CT
+Greenwich Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$66.95,CT
+Greenwich Hospital,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$66.95,CT
+Greenwich Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$93.60,CT
+Greenwich Hospital,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$16.90,CT
+Greenwich Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$14.95,CT
+Greenwich Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$21.45,CT
+Greenwich Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$42.25,CT
+Greenwich Hospital,Cardiovascular,HCPCS 93015,"Cardiovascular stress test, with interpretation and report","$2,409.27",CT
+Greenwich Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$555.07,CT
+Greenwich Hospital,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$536.64,CT
+Greenwich Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$130.37,CT
+Greenwich Hospital,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$130.37,CT
+Greenwich Hospital,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$239.02,CT
+Greenwich Hospital,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$41.52,CT
+Greenwich Hospital,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),$992.94,CT
+Greenwich Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,$539.93,CT
+Greenwich Hospital,Pulmonary,HCPCS 94729,CO Diffusion Capacity,$471.45,CT
+Greenwich Hospital,Pulmonary,HCPCS 94640,Nebulizer Treatment,$171.85,CT
+Greenwich Hospital,Pulmonary,HCPCS 94618,Pulmonary stress test,$239.02,CT
+Greenwich Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$303.54,CT
+Greenwich Hospital,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$88.89,CT
+Greenwich Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$302.89,CT
+Greenwich Hospital,Breast,HCPCS 77066,Mammography of both breasts,$378.61,CT
+Greenwich Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,006.11",CT
+Greenwich Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$514.91,CT
+Greenwich Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$514.91,CT
+Greenwich Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$514.91,CT
+Greenwich Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,430.81",CT
+Greenwich Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,430.81",CT
+Greenwich Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$907.34,CT
+Greenwich Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$881.00,CT
+Greenwich Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,$976.48,CT
+Greenwich Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$881.00,CT
+Greenwich Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$514.91,CT
+Greenwich Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$881.00,CT
+Greenwich Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$881.00,CT
+Greenwich Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,003.48",CT
+Greenwich Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$1,629.00",CT
+Greenwich Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$1,629.00",CT
+Greenwich Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,629.00",CT
+Greenwich Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,629.00",CT
+Greenwich Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,003.48",CT
+Greenwich Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$294.98,CT
+Greenwich Hospital,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$269.31,CT
+Greenwich Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$294.98,CT
+Greenwich Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$294.98,CT
+Greenwich Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$139.59,CT
+Greenwich Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$294.98,CT
+Greenwich Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$294.98,CT
+Greenwich Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$294.98,CT
+Greenwich Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$294.98,CT
+Greenwich Hospital,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$294.98,CT
+Greenwich Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$269.31,CT
+Greenwich Hospital,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$269.31,CT
+Greenwich Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$142.88,CT
+Greenwich Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$142.88,CT
+Greenwich Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$142.88,CT
+Greenwich Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$269.31,CT
+Greenwich Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$142.88,CT
+Greenwich Hospital,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$269.31,CT
+Greenwich Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$269.31,CT
+Greenwich Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$142.88,CT
+Greenwich Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$142.88,CT
+Greenwich Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$269.31,CT
+Greenwich Hospital,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$298.94,CT
+Greenwich Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$181.08,CT
+Greenwich Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$269.31,CT
+Greenwich Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$269.31,CT
+Greenwich Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$178.61,CT
+Greenwich Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$178.61,CT
+Greenwich Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$142.88,CT
+Greenwich Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$178.61,CT
+Greenwich Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$178.61,CT
+Greenwich Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$181.08,CT
+Greenwich Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$178.61,CT
+Greenwich Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$178.61,CT
+Greenwich Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$178.61,CT
+Greenwich Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$336.64,CT
+Greenwich Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$178.61,CT
+Greenwich Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$269.31,CT
+Greenwich Hospital,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$142.88,CT
+Greenwich Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$269.31,CT
+Greenwich Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$269.31,CT
+Greenwich Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$178.61,CT
+Greenwich Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$178.61,CT
+Greenwich Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$336.64,CT
+Greenwich Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$178.61,CT
+Greenwich Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$178.61,CT
+Greenwich Hospital,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$178.61,CT
+Greenwich Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$178.61,CT
+Greenwich Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$178.61,CT
+Greenwich Hospital,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$2,965.66",CT
+Greenwich Hospital,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$1,308.34",CT
+Greenwich Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$239.02,CT
+Greenwich Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$231.78,CT
+Greenwich Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$7,965.93",CT
+Greenwich Hospital,Breast,HCPCS 19101,Biopsy of breast,"$5,399.95",CT
+Greenwich Hospital,Breast,HCPCS 19120,Excision of cyst of breast,"$4,175.89",CT
+Greenwich Hospital,Cardiac,HCPCS 33249,Defibrillator complete system,"$15,839.67",CT
+Greenwich Hospital,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$5,953.71",CT
+Greenwich Hospital,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$5,953.71",CT
+Greenwich Hospital,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$181.73,CT
+Greenwich Hospital,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$7,822.39",CT
+Greenwich Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,595.43",CT
+Greenwich Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$2,091.90",CT
+Greenwich Hospital,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$2,091.90",CT
+Greenwich Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$2,091.90",CT
+Greenwich Hospital,Digestive,HCPCS 43235,EGD,"$1,639.54",CT
+Greenwich Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$1,639.54",CT
+Greenwich Hospital,Digestive,HCPCS 45391,Ultrasound of lower large bowel using an endoscope,"$2,091.90",CT
+Greenwich Hospital,General,HCPCS 55700,Biopsy of prostate gland,"$3,710.37",CT
+Greenwich Hospital,General,HCPCS 10060,Drainage of Abscess,$366.10,CT
+Greenwich Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$699.28,CT
+Greenwich Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$239.02,CT
+Greenwich Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$366.10,CT
+Greenwich Hospital,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$699.28,CT
+Greenwich Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$366.10,CT
+Greenwich Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$366.10,CT
+Greenwich Hospital,Head,HCPCS 69436,Create eardrum opening,"$2,436.27",CT
+Greenwich Hospital,Head,HCPCS 67028,Injection of drug into the eye,$667.67,CT
+Greenwich Hospital,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$476.72,CT
+Greenwich Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$1,212.20",CT
+Greenwich Hospital,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$1,212.20",CT
+Greenwich Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$1,525.63",CT
+Greenwich Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$551.78,CT
+Greenwich Hospital,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$373.67,CT
+Greenwich Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$4,132.43",CT
+Greenwich Hospital,Ocular,HCPCS 66821,Laser cataract removal,"$1,122.66",CT
+Greenwich Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$366.10,CT
+Greenwich Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$306.18,CT
+Greenwich Hospital,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$219.05,CT
+Greenwich Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$7.90,CT
+Greenwich Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,486.12",CT
+Greenwich Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$847.42,CT
+Greenwich Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,486.12",CT

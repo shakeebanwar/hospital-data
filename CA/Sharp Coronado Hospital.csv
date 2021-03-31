@@ -1,0 +1,83 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Sharp Coronado Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$8,973.00",CA
+Sharp Coronado Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$265.50,CA
+Sharp Coronado Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$899.25,CA
+Sharp Coronado Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$1,630.50",CA
+Sharp Coronado Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$2,559.00",CA
+Sharp Coronado Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$4,023.75",CA
+Sharp Coronado Hospital,Hospital,HCPCS 99219,Hospital observation care typically 70 minutes per day,$311.25,CA
+Sharp Coronado Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$20.25,CA
+Sharp Coronado Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$73.50,CA
+Sharp Coronado Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$189.75,CA
+Sharp Coronado Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$84.75,CA
+Sharp Coronado Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$201.75,CA
+Sharp Coronado Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$122.25,CA
+Sharp Coronado Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$78.00,CA
+Sharp Coronado Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$94.50,CA
+Sharp Coronado Hospital,Chemistry,HCPCS 83970,Parathormone,$279.00,CA
+Sharp Coronado Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$43.50,CA
+Sharp Coronado Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$48.75,CA
+Sharp Coronado Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$112.50,CA
+Sharp Coronado Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$59.25,CA
+Sharp Coronado Hospital,Microbiology,HCPCS 87880,Streptoccus,$190.50,CA
+Sharp Coronado Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$104.25,CA
+Sharp Coronado Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$318.00,CA
+Sharp Coronado Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$96.75,CA
+Sharp Coronado Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$231.00,CA
+Sharp Coronado Hospital,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$246.00,CA
+Sharp Coronado Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$258.75,CA
+Sharp Coronado Hospital,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$15.75,CA
+Sharp Coronado Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$1,541.25",CA
+Sharp Coronado Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$456.75,CA
+Sharp Coronado Hospital,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$399.00,CA
+Sharp Coronado Hospital,Pulmonary,HCPCS 94640,Nebulizer Treatment,$459.00,CA
+Sharp Coronado Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$386.25,CA
+Sharp Coronado Hospital,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$189.75,CA
+Sharp Coronado Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$330.75,CA
+Sharp Coronado Hospital,Breast,HCPCS 77067,Mammogram Screening,$342.00,CA
+Sharp Coronado Hospital,Breast,HCPCS 77066,Mammography of both breasts,$413.25,CA
+Sharp Coronado Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$3,390.75",CA
+Sharp Coronado Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$5,226.75",CA
+Sharp Coronado Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$4,997.25",CA
+Sharp Coronado Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$3,339.00",CA
+Sharp Coronado Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$2,071.50",CA
+Sharp Coronado Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,721.00",CA
+Sharp Coronado Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,721.00",CA
+Sharp Coronado Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$4,397.25",CA
+Sharp Coronado Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$3,178.50",CA
+Sharp Coronado Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$4,517.25",CA
+Sharp Coronado Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$3,054.75",CA
+Sharp Coronado Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,764.00",CA
+Sharp Coronado Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,951.75",CA
+Sharp Coronado Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,577.75",CA
+Sharp Coronado Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$2,585.25",CA
+Sharp Coronado Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$898.50,CA
+Sharp Coronado Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$621.00,CA
+Sharp Coronado Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$843.00,CA
+Sharp Coronado Hospital,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$585.00,CA
+Sharp Coronado Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$285.75,CA
+Sharp Coronado Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$417.75,CA
+Sharp Coronado Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$400.50,CA
+Sharp Coronado Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$257.25,CA
+Sharp Coronado Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$364.50,CA
+Sharp Coronado Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$273.00,CA
+Sharp Coronado Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$2,306.25",CA
+Sharp Coronado Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$2,496.00",CA
+Sharp Coronado Hospital,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$2,844.75",CA
+Sharp Coronado Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$3,168.75",CA
+Sharp Coronado Hospital,Digestive,HCPCS 43235,EGD,"$2,119.50",CA
+Sharp Coronado Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$2,388.75",CA
+Sharp Coronado Hospital,General,HCPCS 10060,Drainage of Abscess,$951.00,CA
+Sharp Coronado Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple","$1,324.50",CA
+Sharp Coronado Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$506.25,CA
+Sharp Coronado Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$941.25,CA
+Sharp Coronado Hospital,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),"$1,228.50",CA
+Sharp Coronado Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$996.00,CA
+Sharp Coronado Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$895.50,CA
+Sharp Coronado Hospital,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,"$1,272.75",CA
+Sharp Coronado Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$963.75,CA
+Sharp Coronado Hospital,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$277.50,CA
+Sharp Coronado Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$467.25,CA
+Sharp Coronado Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$250.50,CA
+Sharp Coronado Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$2,764.50",CA
+Sharp Coronado Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,472.25",CA

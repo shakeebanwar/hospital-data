@@ -1,0 +1,287 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Gateway Regional,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",-,IL
+Gateway Regional,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes",-,IL
+Gateway Regional,Emergency Care,HCPCS 99281,Emergency Level 1,-,IL
+Gateway Regional,Emergency Care,HCPCS 99282,Emergency Level 2,-,IL
+Gateway Regional,Emergency Care,HCPCS 99283,Emergency Level 3,-,IL
+Gateway Regional,Emergency Care,HCPCS 99284,Emergency Level 4,-,IL
+Gateway Regional,Emergency Care,HCPCS 99285,Emergency Level 5,-,IL
+Gateway Regional,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",-,IL
+Gateway Regional,Psychology,HCPCS 90853,Group psychotherapy,-,IL
+Gateway Regional,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,-,IL
+Gateway Regional,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",-,IL
+Gateway Regional,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",-,IL
+Gateway Regional,Psychology,HCPCS 90837,"Psychotherapy, 60 min",-,IL
+Gateway Regional,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,-,IL
+Gateway Regional,Speech,HCPCS 92507,Speech Therapy,-,IL
+Gateway Regional,Speech,HCPCS 92610,Swallow Evaluation,-,IL
+Gateway Regional,Speech,HCPCS 92526,Swallow Treatment,-,IL
+Gateway Regional,Blood,HCPCS 85018,"Blood count, hemoglobin",-,IL
+Gateway Regional,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",-,IL
+Gateway Regional,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,-,IL
+Gateway Regional,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,-,IL
+Gateway Regional,Blood,HCPCS 85610,"Blood test, clotting time",-,IL
+Gateway Regional,Blood,HCPCS 85730,Coagulation assessment blood test,-,IL
+Gateway Regional,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,-,IL
+Gateway Regional,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",-,IL
+Gateway Regional,Blood,HCPCS 85027,"Complete blood count, automated",-,IL
+Gateway Regional,Blood,HCPCS 85008,Microscopic examination for white blood cells,-,IL
+Gateway Regional,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,-,IL
+Gateway Regional,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,-,IL
+Gateway Regional,Blood,HCPCS 85660,Red blood cell sickling measurement,-,IL
+Gateway Regional,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",-,IL
+Gateway Regional,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,-,IL
+Gateway Regional,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,-,IL
+Gateway Regional,Chemistry,HCPCS 82040,Albumin (protein) level,-,IL
+Gateway Regional,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,-,IL
+Gateway Regional,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",-,IL
+Gateway Regional,Chemistry,HCPCS 82140,Ammonia level,-,IL
+Gateway Regional,Chemistry,HCPCS 82150,Amylase (enzyme) level,-,IL
+Gateway Regional,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,-,IL
+Gateway Regional,Chemistry,HCPCS 84439,Assay of free thyroxine,-,IL
+Gateway Regional,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,-,IL
+Gateway Regional,Chemistry,HCPCS 82248,Bilirubin level (Direct),-,IL
+Gateway Regional,Chemistry,HCPCS 82247,Bilirubin level (Total),-,IL
+Gateway Regional,Chemistry,HCPCS 82565,Blood creatinine level,-,IL
+Gateway Regional,Chemistry,HCPCS 82947,Blood glucose (sugar) level,-,IL
+Gateway Regional,Chemistry,HCPCS 84132,Blood potassium level,-,IL
+Gateway Regional,Chemistry,HCPCS 84295,Blood sodium level,-,IL
+Gateway Regional,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",-,IL
+Gateway Regional,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",-,IL
+Gateway Regional,Chemistry,HCPCS 82310,Calcium level,-,IL
+Gateway Regional,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,-,IL
+Gateway Regional,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,-,IL
+Gateway Regional,Chemistry,HCPCS 82465,Cholesterol level,-,IL
+Gateway Regional,Chemistry,HCPCS 82525,Copper level,-,IL
+Gateway Regional,Chemistry,HCPCS 82533,Cortisol Measurement,-,IL
+Gateway Regional,Chemistry,HCPCS 84681,C-peptide (protein) level,-,IL
+Gateway Regional,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,-,IL
+Gateway Regional,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,-,IL
+Gateway Regional,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,-,IL
+Gateway Regional,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",-,IL
+Gateway Regional,Chemistry,HCPCS 82728,Ferritin (blood protein) level,-,IL
+Gateway Regional,Chemistry,HCPCS 82746,Folic acid; serum,-,IL
+Gateway Regional,Chemistry,HCPCS 82784,Gammaglobulin Measurement,-,IL
+Gateway Regional,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,-,IL
+Gateway Regional,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,-,IL
+Gateway Regional,Chemistry,HCPCS 83001,"Gonadotropin, chorionic (reproductive hormone) level",-,IL
+Gateway Regional,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,-,IL
+Gateway Regional,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,-,IL
+Gateway Regional,Chemistry,HCPCS 83718,HDL cholesterol level,-,IL
+Gateway Regional,Chemistry,HCPCS 83020,Hemoglobin Measurement,-,IL
+Gateway Regional,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,-,IL
+Gateway Regional,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",-,IL
+Gateway Regional,Chemistry,HCPCS 83520,IgE (immune system protein) level,-,IL
+Gateway Regional,Chemistry,HCPCS 83525,Insulin Measurement; Total,-,IL
+Gateway Regional,Chemistry,HCPCS 82330,Ionized Calcium,-,IL
+Gateway Regional,Chemistry,HCPCS 83550,Iron Binding Capacity,-,IL
+Gateway Regional,Chemistry,HCPCS 83540,Iron level,-,IL
+Gateway Regional,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,-,IL
+Gateway Regional,Chemistry,HCPCS 83721,LDL cholesterol level,-,IL
+Gateway Regional,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,-,IL
+Gateway Regional,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",-,IL
+Gateway Regional,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",-,IL
+Gateway Regional,Chemistry,HCPCS 83021,Liver function blood test panel,-,IL
+Gateway Regional,Chemistry,HCPCS 83735,Magnesium Level,-,IL
+Gateway Regional,Chemistry,HCPCS 82542,Mass spectrometry,-,IL
+Gateway Regional,Chemistry,HCPCS 83883,"Nephelometry, test method using light",-,IL
+Gateway Regional,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,-,IL
+Gateway Regional,Chemistry,HCPCS 83945,Oxalate level,-,IL
+Gateway Regional,Chemistry,HCPCS 83970,Parathormone,-,IL
+Gateway Regional,Chemistry,HCPCS 84157,Prealbumin (protein) level,-,IL
+Gateway Regional,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,-,IL
+Gateway Regional,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,-,IL
+Gateway Regional,Chemistry,HCPCS 84165,"Protein Measurement, Serum",-,IL
+Gateway Regional,Chemistry,HCPCS 82270,Stool analysis for blood,-,IL
+Gateway Regional,Chemistry,HCPCS 84403,Testosterone (hormone) level,-,IL
+Gateway Regional,Chemistry,HCPCS 84402,Testosterone Level; Free,-,IL
+Gateway Regional,Chemistry,HCPCS 84479,"Thyroid Hormone, T3 Measurement, Free",-,IL
+Gateway Regional,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,-,IL
+Gateway Regional,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,-,IL
+Gateway Regional,Chemistry,HCPCS 84155,"Total protein level, blood",-,IL
+Gateway Regional,Chemistry,HCPCS 84156,"Total Protein Level, Urine",-,IL
+Gateway Regional,Chemistry,HCPCS 84166,Troponin (protein) analysis,-,IL
+Gateway Regional,Chemistry,HCPCS 84560,Uric acid level,-,IL
+Gateway Regional,Chemistry,HCPCS 84550,"Uric acid level, blood",-,IL
+Gateway Regional,Chemistry,HCPCS 82340,Urine calcium level,-,IL
+Gateway Regional,Chemistry,HCPCS 82436,Urine chloride level,-,IL
+Gateway Regional,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,-,IL
+Gateway Regional,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,-,IL
+Gateway Regional,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,-,IL
+Gateway Regional,Chemistry,HCPCS 84133,Urine potassium level,-,IL
+Gateway Regional,Chemistry,HCPCS 84300,Urine sodium level,-,IL
+Gateway Regional,Chemistry,HCPCS 84591,Vitamin B-6 level,-,IL
+Gateway Regional,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,-,IL
+Gateway Regional,Chemistry,HCPCS 84630,Zinc level,-,IL
+Gateway Regional,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),-,IL
+Gateway Regional,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),-,IL
+Gateway Regional,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,-,IL
+Gateway Regional,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",-,IL
+Gateway Regional,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,-,IL
+Gateway Regional,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,-,IL
+Gateway Regional,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,-,IL
+Gateway Regional,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,-,IL
+Gateway Regional,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,-,IL
+Gateway Regional,Immunology,HCPCS 86140,Measurement C-reactive protein,-,IL
+Gateway Regional,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,-,IL
+Gateway Regional,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,-,IL
+Gateway Regional,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),-,IL
+Gateway Regional,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),-,IL
+Gateway Regional,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,-,IL
+Gateway Regional,Immunology,HCPCS 86431,Rheumatoid factor level,-,IL
+Gateway Regional,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),-,IL
+Gateway Regional,Immunology,HCPCS 86592,Syphilis Detection Test,-,IL
+Gateway Regional,Immunology,HCPCS 86361,T cell count and ratio,-,IL
+Gateway Regional,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",-,IL
+Gateway Regional,Immunology,HCPCS 86359,"T cells count, total",-,IL
+Gateway Regional,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,-,IL
+Gateway Regional,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),-,IL
+Gateway Regional,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",-,IL
+Gateway Regional,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,-,IL
+Gateway Regional,Microbiology,HCPCS 87491,Chlamydia Test,-,IL
+Gateway Regional,Microbiology,HCPCS 87493,Detection test for clostridium difficile,-,IL
+Gateway Regional,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),-,IL
+Gateway Regional,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",-,IL
+Gateway Regional,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,-,IL
+Gateway Regional,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",-,IL
+Gateway Regional,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,-,IL
+Gateway Regional,Microbiology,HCPCS 87517,Hepatitis B Detection,-,IL
+Gateway Regional,Microbiology,HCPCS 87624,HPV Detection,-,IL
+Gateway Regional,Microbiology,HCPCS 86735,Mumps virus antibody test,-,IL
+Gateway Regional,Microbiology,HCPCS 86747,Parvovirus antibody test,-,IL
+Gateway Regional,Microbiology,HCPCS 86762,Rubella virus antibody test,-,IL
+Gateway Regional,Microbiology,HCPCS 86765,Rubeola virus antibody test,-,IL
+Gateway Regional,Microbiology,HCPCS 87207,Smear for infectious agents,-,IL
+Gateway Regional,Microbiology,HCPCS 87177,Smear for Parasites,-,IL
+Gateway Regional,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,-,IL
+Gateway Regional,Microbiology,HCPCS 87045,Stool Culture,-,IL
+Gateway Regional,Microbiology,HCPCS 87880,Streptoccus,-,IL
+Gateway Regional,Microbiology,HCPCS 87804,Test for Influenza Virus,-,IL
+Gateway Regional,Microbiology,HCPCS 86780,Treponema pallidum antibody test,-,IL
+Gateway Regional,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,-,IL
+Gateway Regional,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,-,IL
+Gateway Regional,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,-,IL
+Gateway Regional,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,-,IL
+Gateway Regional,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",-,IL
+Gateway Regional,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",-,IL
+Gateway Regional,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,-,IL
+Gateway Regional,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,-,IL
+Gateway Regional,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,-,IL
+Gateway Regional,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,-,IL
+Gateway Regional,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,-,IL
+Gateway Regional,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,-,IL
+Gateway Regional,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,-,IL
+Gateway Regional,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,-,IL
+Gateway Regional,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,-,IL
+Gateway Regional,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,-,IL
+Gateway Regional,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,-,IL
+Gateway Regional,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,-,IL
+Gateway Regional,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,-,IL
+Gateway Regional,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,-,IL
+Gateway Regional,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,-,IL
+Gateway Regional,Transfusion,HCPCS 86900,"Blood Typing, ABO",-,IL
+Gateway Regional,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",-,IL
+Gateway Regional,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,-,IL
+Gateway Regional,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,-,IL
+Gateway Regional,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,-,IL
+Gateway Regional,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",-,IL
+Gateway Regional,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",-,IL
+Gateway Regional,Urinalysis,HCPCS 81025,Urine Pregnancy Test,-,IL
+Gateway Regional,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",-,IL
+Gateway Regional,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",-,IL
+Gateway Regional,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,-,IL
+Gateway Regional,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,-,IL
+Gateway Regional,Cardiovascular,HCPCS 93975,Ultrasound Heart,-,IL
+Gateway Regional,Pulmonary,HCPCS 94640,Aerosol Treatment,-,IL
+Gateway Regional,Pulmonary,HCPCS 94729,CO Diffusion Capacity,-,IL
+Gateway Regional,Pulmonary,HCPCS 94618,Pulmonary stress test,-,IL
+Gateway Regional,Pulmonary,HCPCS 94010,Spirometry - breathing test,-,IL
+Gateway Regional,Sleep,HCPCS 95810,Sleep study,-,IL
+Gateway Regional,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),-,IL
+Gateway Regional,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",-,IL
+Gateway Regional,Breast,HCPCS 77067,Mammogram Screening,-,IL
+Gateway Regional,Breast,HCPCS 77066,Mammography of both breasts,-,IL
+Gateway Regional,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,-,IL
+Gateway Regional,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,-,IL
+Gateway Regional,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",-,IL
+Gateway Regional,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",-,IL
+Gateway Regional,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,-,IL
+Gateway Regional,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,-,IL
+Gateway Regional,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,-,IL
+Gateway Regional,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,-,IL
+Gateway Regional,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,-,IL
+Gateway Regional,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",-,IL
+Gateway Regional,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",-,IL
+Gateway Regional,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",-,IL
+Gateway Regional,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",-,IL
+Gateway Regional,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)",-,IL
+Gateway Regional,MRI,HCPCS 72146,MRI chest spine without contrast material,-,IL
+Gateway Regional,MRI,HCPCS 72148,MRI lumbar spine without contrast material,-,IL
+Gateway Regional,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,-,IL
+Gateway Regional,MRI,HCPCS 72141,MRI neck spine without contrast material,-,IL
+Gateway Regional,MRI,HCPCS 72156,MRI neck spine without & with contrast material,-,IL
+Gateway Regional,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,-,IL
+Gateway Regional,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,-,IL
+Gateway Regional,MRI,HCPCS 70553,MRI scan of brain before and after contrast,-,IL
+Gateway Regional,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,-,IL
+Gateway Regional,MRI,HCPCS 73721,MRI scan of leg joint,-,IL
+Gateway Regional,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",-,IL
+Gateway Regional,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",-,IL
+Gateway Regional,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,-,IL
+Gateway Regional,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,-,IL
+Gateway Regional,Ultrasound,HCPCS 76881,Ultrasound Joint Soft Tissue - Complete,-,IL
+Gateway Regional,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",-,IL
+Gateway Regional,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",-,IL
+Gateway Regional,Ultrasound,HCPCS 76857,Ultrasound of pelvis,-,IL
+Gateway Regional,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",-,IL
+Gateway Regional,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",-,IL
+Gateway Regional,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",-,IL
+Gateway Regional,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",-,IL
+Gateway Regional,Chest,HCPCS 71046,X-ray of chest; 2 Views,-,IL
+Gateway Regional,Chest,HCPCS 71045,X-ray of chest; Single View,-,IL
+Gateway Regional,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",-,IL
+Gateway Regional,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",-,IL
+Gateway Regional,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",-,IL
+Gateway Regional,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,-,IL
+Gateway Regional,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",-,IL
+Gateway Regional,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,-,IL
+Gateway Regional,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",-,IL
+Gateway Regional,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",-,IL
+Gateway Regional,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",-,IL
+Gateway Regional,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",-,IL
+Gateway Regional,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",-,IL
+Gateway Regional,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",-,IL
+Gateway Regional,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",-,IL
+Gateway Regional,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",-,IL
+Gateway Regional,Lower Limbs,HCPCS 73565,X-ray Both Knees,-,IL
+Gateway Regional,Lower Limbs,HCPCS 73630,X-ray exam of foot,-,IL
+Gateway Regional,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",-,IL
+Gateway Regional,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",-,IL
+Gateway Regional,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",-,IL
+Gateway Regional,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",-,IL
+Gateway Regional,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",-,IL
+Gateway Regional,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",-,IL
+Gateway Regional,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",-,IL
+Gateway Regional,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",-,IL
+Gateway Regional,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",-,IL
+Gateway Regional,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",-,IL
+Gateway Regional,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",-,IL
+Gateway Regional,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",-,IL
+Gateway Regional,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",-,IL
+Gateway Regional,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",-,IL
+Gateway Regional,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",-,IL
+Gateway Regional,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",-,IL
+Gateway Regional,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",-,IL
+Gateway Regional,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",-,IL
+Gateway Regional,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",-,IL
+Gateway Regional,Cardiac,HCPCS 93452,Diagnostic heart catheterization,-,IL
+Gateway Regional,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),-,IL
+Gateway Regional,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",-,IL
+Gateway Regional,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,-,IL
+Gateway Regional,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",-,IL
+Gateway Regional,Soft Tissue,HCPCS 97597,Debridement of open wound,-,IL
+Gateway Regional,Soft Tissue,HCPCS 97602,Non-selective debridement,-,IL
+Gateway Regional,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,-,IL
+Gateway Regional,Vascular,HCPCS 36416,Collection of capillary blood specimen,-,IL
+Gateway Regional,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),-,IL
+Gateway Regional,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,-,IL

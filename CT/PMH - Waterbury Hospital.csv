@@ -1,0 +1,330 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+PMH - Waterbury Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$3,431.81",CT
+PMH - Waterbury Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,"$1,412.97",CT
+PMH - Waterbury Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$1,412.97",CT
+PMH - Waterbury Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$1,412.97",CT
+PMH - Waterbury Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,412.97",CT
+PMH - Waterbury Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,412.97",CT
+PMH - Waterbury Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$331.71,CT
+PMH - Waterbury Hospital,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$331.71,CT
+PMH - Waterbury Hospital,Psychology,HCPCS 90853,Group psychotherapy,$293.43,CT
+PMH - Waterbury Hospital,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$455.00,CT
+PMH - Waterbury Hospital,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$227.11,CT
+PMH - Waterbury Hospital,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$227.11,CT
+PMH - Waterbury Hospital,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$227.11,CT
+PMH - Waterbury Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$55.63,CT
+PMH - Waterbury Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$118.48,CT
+PMH - Waterbury Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$39.92,CT
+PMH - Waterbury Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$39.92,CT
+PMH - Waterbury Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$70.04,CT
+PMH - Waterbury Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$67.25,CT
+PMH - Waterbury Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$67.25,CT
+PMH - Waterbury Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$67.25,CT
+PMH - Waterbury Hospital,Blood,HCPCS 85008,Microscopic examination for white blood cells,$46.77,CT
+PMH - Waterbury Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$46.77,CT
+PMH - Waterbury Hospital,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$70.72,CT
+PMH - Waterbury Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$11.22,CT
+PMH - Waterbury Hospital,Blood,HCPCS 85041,"Red blood count, automated test",$74.93,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$45.00,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$56.59,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$28.92,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$27.39,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82140,Ammonia level,$93.82,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$52.54,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$31.15,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$116.55,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$86.45,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$30.00,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$24.24,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$24.24,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$44.27,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$20.76,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$20.76,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 84132,Blood potassium level,$39.09,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 84295,Blood sodium level,$37.54,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$49.84,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$135.17,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82310,Calcium level,$41.22,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$31.46,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$55.02,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82465,Cholesterol level,$49.34,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82525,Copper level,$50.51,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$74.00,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$35.58,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$47.60,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$69.96,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$40.60,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$51.00,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$71.79,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$77.39,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$25.66,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$48.93,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$106.55,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$120.56,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$134.54,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$47.78,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 83718,HDL cholesterol level,$80.71,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$36.74,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$55.17,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$232.43,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$26.46,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$41.22,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$47.37,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 83540,Iron level,$53.67,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$43.93,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$62.18,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$55.54,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$33.13,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$95.35,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$283.54,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 83735,Magnesium Level,$52.72,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$139.65,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$223.36,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 83970,Parathormone,$57.17,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$126.76,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$232.43,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$144.37,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$126.76,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$72.18,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$51.75,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$51.75,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$27.00,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$108.00,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$86.45,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$126.76,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$126.76,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$126.76,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$29.10,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82340,Urine calcium level,$41.22,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82436,Urine chloride level,$24.48,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$56.59,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$43.87,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$137.59,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 84133,Urine potassium level,$39.09,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 84300,Urine sodium level,$37.54,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$130.00,CT
+PMH - Waterbury Hospital,Chemistry,HCPCS 84630,Zinc level,$35.93,CT
+PMH - Waterbury Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$112.61,CT
+PMH - Waterbury Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$28.87,CT
+PMH - Waterbury Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$30.09,CT
+PMH - Waterbury Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$84.32,CT
+PMH - Waterbury Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$85.25,CT
+PMH - Waterbury Hospital,Immunology,HCPCS 86318,Covid-19 antibody test,$93.92,CT
+PMH - Waterbury Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$23.72,CT
+PMH - Waterbury Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$85.25,CT
+PMH - Waterbury Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$85.25,CT
+PMH - Waterbury Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$93.92,CT
+PMH - Waterbury Hospital,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$153.95,CT
+PMH - Waterbury Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$56.85,CT
+PMH - Waterbury Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$40.06,CT
+PMH - Waterbury Hospital,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$96.53,CT
+PMH - Waterbury Hospital,Immunology,HCPCS 86161,Measurement of complement (immune system proteins),$117.28,CT
+PMH - Waterbury Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$85.25,CT
+PMH - Waterbury Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$49.71,CT
+PMH - Waterbury Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$54.65,CT
+PMH - Waterbury Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$60.61,CT
+PMH - Waterbury Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$75.88,CT
+PMH - Waterbury Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$143.99,CT
+PMH - Waterbury Hospital,Immunology,HCPCS 86359,"T cells count, total",$143.99,CT
+PMH - Waterbury Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$60.98,CT
+PMH - Waterbury Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$70.64,CT
+PMH - Waterbury Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$146.35,CT
+PMH - Waterbury Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$208.62,CT
+PMH - Waterbury Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$215.74,CT
+PMH - Waterbury Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$187.50,CT
+PMH - Waterbury Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$85.25,CT
+PMH - Waterbury Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$249.03,CT
+PMH - Waterbury Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$141.89,CT
+PMH - Waterbury Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$208.11,CT
+PMH - Waterbury Hospital,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$84.32,CT
+PMH - Waterbury Hospital,Microbiology,HCPCS 87624,HPV Detection,$124.63,CT
+PMH - Waterbury Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$18.12,CT
+PMH - Waterbury Hospital,Microbiology,HCPCS 86747,Parvovirus antibody test,$62.96,CT
+PMH - Waterbury Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$85.41,CT
+PMH - Waterbury Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$162.06,CT
+PMH - Waterbury Hospital,Microbiology,HCPCS 87207,Smear for infectious agents,$43.91,CT
+PMH - Waterbury Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$86.58,CT
+PMH - Waterbury Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$43.91,CT
+PMH - Waterbury Hospital,Microbiology,HCPCS 87045,Stool Culture,$41.10,CT
+PMH - Waterbury Hospital,Microbiology,HCPCS 87880,Strep Test,$68.75,CT
+PMH - Waterbury Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$70.79,CT
+PMH - Waterbury Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$75.88,CT
+PMH - Waterbury Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$31.31,CT
+PMH - Waterbury Hospital,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,"$1,040.31",CT
+PMH - Waterbury Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$307.69,CT
+PMH - Waterbury Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$154.43,CT
+PMH - Waterbury Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$247.98,CT
+PMH - Waterbury Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$147.95,CT
+PMH - Waterbury Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$226.20,CT
+PMH - Waterbury Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$111.04,CT
+PMH - Waterbury Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$228.33,CT
+PMH - Waterbury Hospital,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$201.18,CT
+PMH - Waterbury Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$82.41,CT
+PMH - Waterbury Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$485.49,CT
+PMH - Waterbury Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$132.38,CT
+PMH - Waterbury Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$44.69,CT
+PMH - Waterbury Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$23.12,CT
+PMH - Waterbury Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$98.14,CT
+PMH - Waterbury Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$27.87,CT
+PMH - Waterbury Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$104.31,CT
+PMH - Waterbury Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$122.42,CT
+PMH - Waterbury Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$95.03,CT
+PMH - Waterbury Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$95.03,CT
+PMH - Waterbury Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$180.68,CT
+PMH - Waterbury Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$130.55,CT
+PMH - Waterbury Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$130.55,CT
+PMH - Waterbury Hospital,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$22.24,CT
+PMH - Waterbury Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$73.97,CT
+PMH - Waterbury Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$73.97,CT
+PMH - Waterbury Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$48.08,CT
+PMH - Waterbury Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$1,824.65",CT
+PMH - Waterbury Hospital,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$202.23,CT
+PMH - Waterbury Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$202.23,CT
+PMH - Waterbury Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,016.31",CT
+PMH - Waterbury Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,$780.56,CT
+PMH - Waterbury Hospital,Pulmonary,HCPCS 94618,Pulmonary stress test,$618.44,CT
+PMH - Waterbury Hospital,Sleep,HCPCS 95810,Sleep study,"$7,444.50",CT
+PMH - Waterbury Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$455.63,CT
+PMH - Waterbury Hospital,Breast,HCPCS 77067,Mammogram Screening,$493.64,CT
+PMH - Waterbury Hospital,Breast,HCPCS 77066,Mammography of both breasts,$455.63,CT
+PMH - Waterbury Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$2,446.40",CT
+PMH - Waterbury Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$2,071.55",CT
+PMH - Waterbury Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,592.96",CT
+PMH - Waterbury Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,294.34",CT
+PMH - Waterbury Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,933.12",CT
+PMH - Waterbury Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,933.12",CT
+PMH - Waterbury Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$934.95,CT
+PMH - Waterbury Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,908.66",CT
+PMH - Waterbury Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,908.66",CT
+PMH - Waterbury Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,696.61",CT
+PMH - Waterbury Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$3,180.54",CT
+PMH - Waterbury Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,705.82",CT
+PMH - Waterbury Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$3,575.30",CT
+PMH - Waterbury Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,572.79",CT
+PMH - Waterbury Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,939.31",CT
+PMH - Waterbury Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,939.31",CT
+PMH - Waterbury Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,939.31",CT
+PMH - Waterbury Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$4,325.53",CT
+PMH - Waterbury Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$4,860.30",CT
+PMH - Waterbury Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,921.84",CT
+PMH - Waterbury Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$2,271.02",CT
+PMH - Waterbury Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$1,472.99",CT
+PMH - Waterbury Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,882.60",CT
+PMH - Waterbury Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$811.04,CT
+PMH - Waterbury Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,121.52",CT
+PMH - Waterbury Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,121.52",CT
+PMH - Waterbury Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,"$1,637.47",CT
+PMH - Waterbury Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,637.47",CT
+PMH - Waterbury Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$512.16,CT
+PMH - Waterbury Hospital,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$407.59,CT
+PMH - Waterbury Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$571.10,CT
+PMH - Waterbury Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$525.98,CT
+PMH - Waterbury Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$525.98,CT
+PMH - Waterbury Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$529.07,CT
+PMH - Waterbury Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$997.84,CT
+PMH - Waterbury Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$433.74,CT
+PMH - Waterbury Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views","$1,040.89",CT
+PMH - Waterbury Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$403.52,CT
+PMH - Waterbury Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$684.40,CT
+PMH - Waterbury Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$192.66,CT
+PMH - Waterbury Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$583.29,CT
+PMH - Waterbury Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$681.79,CT
+PMH - Waterbury Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$545.96,CT
+PMH - Waterbury Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$545.96,CT
+PMH - Waterbury Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$387.89,CT
+PMH - Waterbury Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$545.96,CT
+PMH - Waterbury Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$387.89,CT
+PMH - Waterbury Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$455.40,CT
+PMH - Waterbury Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$545.96,CT
+PMH - Waterbury Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$423.65,CT
+PMH - Waterbury Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$387.89,CT
+PMH - Waterbury Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$387.89,CT
+PMH - Waterbury Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$478.52,CT
+PMH - Waterbury Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$580.05,CT
+PMH - Waterbury Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$580.05,CT
+PMH - Waterbury Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$575.05,CT
+PMH - Waterbury Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$575.05,CT
+PMH - Waterbury Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$455.74,CT
+PMH - Waterbury Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$415.40,CT
+PMH - Waterbury Hospital,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$415.54,CT
+PMH - Waterbury Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$522.22,CT
+PMH - Waterbury Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$522.22,CT
+PMH - Waterbury Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$193.16,CT
+PMH - Waterbury Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$522.22,CT
+PMH - Waterbury Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$522.22,CT
+PMH - Waterbury Hospital,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$12,587.47",CT
+PMH - Waterbury Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$34,574.45",CT
+PMH - Waterbury Hospital,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$34,574.45",CT
+PMH - Waterbury Hospital,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,"$24,973.79",CT
+PMH - Waterbury Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$24,973.79",CT
+PMH - Waterbury Hospital,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$13,554.40",CT
+PMH - Waterbury Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$29,853.25",CT
+PMH - Waterbury Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$405.35,CT
+PMH - Waterbury Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$405.35,CT
+PMH - Waterbury Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$66,315.55",CT
+PMH - Waterbury Hospital,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,"$29,138.32",CT
+PMH - Waterbury Hospital,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$36,260.13",CT
+PMH - Waterbury Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$40,334.48",CT
+PMH - Waterbury Hospital,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$40,334.48",CT
+PMH - Waterbury Hospital,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$40,334.48",CT
+PMH - Waterbury Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$26,592.80",CT
+PMH - Waterbury Hospital,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$29,853.25",CT
+PMH - Waterbury Hospital,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$29,853.25",CT
+PMH - Waterbury Hospital,Breast,HCPCS 19325,Breast enlargement using prosthetic implant,"$21,615.40",CT
+PMH - Waterbury Hospital,Breast,HCPCS 19125,Excision of breast lesion,"$26,056.55",CT
+PMH - Waterbury Hospital,Breast,HCPCS 19120,Excision of cyst of breast,"$26,056.55",CT
+PMH - Waterbury Hospital,Breast,HCPCS 19301,Partial removal of breast,"$27,907.19",CT
+PMH - Waterbury Hospital,Breast,HCPCS 19318,Reduction mammaplasty,"$43,496.59",CT
+PMH - Waterbury Hospital,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),"$287,661.10",CT
+PMH - Waterbury Hospital,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$170,777.80",CT
+PMH - Waterbury Hospital,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$170,777.80",CT
+PMH - Waterbury Hospital,Cardiac,HCPCS 33249,Defibrillator complete system,"$159,149.33",CT
+PMH - Waterbury Hospital,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$31,513.70",CT
+PMH - Waterbury Hospital,Cardiac,MSDRG 247,Implant drug-eluting stent,"$113,145.24",CT
+PMH - Waterbury Hospital,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$55,345.76",CT
+PMH - Waterbury Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$4,156.73",CT
+PMH - Waterbury Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$4,866.92",CT
+PMH - Waterbury Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$5,293.89",CT
+PMH - Waterbury Hospital,Digestive,HCPCS 43235,EGD,"$4,186.37",CT
+PMH - Waterbury Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$4,690.95",CT
+PMH - Waterbury Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$90,962.42",CT
+PMH - Waterbury Hospital,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$16,824.03",CT
+PMH - Waterbury Hospital,General,HCPCS 55700,Biopsy of prostate gland,"$17,023.42",CT
+PMH - Waterbury Hospital,General,HCPCS 10060,Drainage of Abscess,"$1,531.63",CT
+PMH - Waterbury Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple","$3,113.62",CT
+PMH - Waterbury Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$869.44,CT
+PMH - Waterbury Hospital,General,HCPCS 60240,Removal of thyroid,"$59,767.55",CT
+PMH - Waterbury Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$2,394.97",CT
+PMH - Waterbury Hospital,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),"$2,394.97",CT
+PMH - Waterbury Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$2,394.97",CT
+PMH - Waterbury Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$2,394.97",CT
+PMH - Waterbury Hospital,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$19,232.26",CT
+PMH - Waterbury Hospital,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$149,807.46",CT
+PMH - Waterbury Hospital,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,"$3,862.91",CT
+PMH - Waterbury Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$1,850.90",CT
+PMH - Waterbury Hospital,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$1,850.90",CT
+PMH - Waterbury Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$2,443.89",CT
+PMH - Waterbury Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$1,863.89",CT
+PMH - Waterbury Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$78,277.23",CT
+PMH - Waterbury Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$21,095.07",CT
+PMH - Waterbury Hospital,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$21,095.07",CT
+PMH - Waterbury Hospital,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,"$82,068.45",CT
+PMH - Waterbury Hospital,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$6,967.08",CT
+PMH - Waterbury Hospital,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$108,818.00",CT
+PMH - Waterbury Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$149,807.46",CT
+PMH - Waterbury Hospital,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$484.98,CT
+PMH - Waterbury Hospital,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$51,101.90",CT
+PMH - Waterbury Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$19,158.76",CT
+PMH - Waterbury Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$16,881.68",CT
+PMH - Waterbury Hospital,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$26,044.42",CT
+PMH - Waterbury Hospital,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$27,753.70",CT
+PMH - Waterbury Hospital,Obstetrics,HCPCS 58545,Removal of uterine fibroid tumors using an endoscope,"$16,809.88",CT
+PMH - Waterbury Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$12,588.02",CT
+PMH - Waterbury Hospital,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries","$9,995.86",CT
+PMH - Waterbury Hospital,Ocular,HCPCS 67108,Repair of detached retina,"$7,653.78",CT
+PMH - Waterbury Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$758.74,CT
+PMH - Waterbury Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$758.74,CT
+PMH - Waterbury Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$36.11,CT
+PMH - Waterbury Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$6,814.01",CT
+PMH - Waterbury Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$2,480.78",CT
+PMH - Waterbury Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$2,768.23",CT

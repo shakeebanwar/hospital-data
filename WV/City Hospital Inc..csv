@@ -1,0 +1,302 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+City Hospital Inc.,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$263.00,WV
+City Hospital Inc.,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes",$555.50,WV
+City Hospital Inc.,Emergency Care,HCPCS 99281,Emergency Level 1,$85.00,WV
+City Hospital Inc.,Emergency Care,HCPCS 99282,Emergency Level 2,$104.50,WV
+City Hospital Inc.,Emergency Care,HCPCS 99283,Emergency Level 3,$141.50,WV
+City Hospital Inc.,Emergency Care,HCPCS 99284,Emergency Level 4,$230.00,WV
+City Hospital Inc.,Emergency Care,HCPCS 99285,Emergency Level 5,$349.50,WV
+City Hospital Inc.,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$211.50,WV
+City Hospital Inc.,Speech,HCPCS 92507,Speech Therapy,$101.00,WV
+City Hospital Inc.,Speech,HCPCS 92610,Swallow Evaluation,$225.50,WV
+City Hospital Inc.,Speech,HCPCS 92526,Swallow Treatment,$119.00,WV
+City Hospital Inc.,Blood,HCPCS 85018,"Blood count, hemoglobin",$43.50,WV
+City Hospital Inc.,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$15.00,WV
+City Hospital Inc.,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$30.00,WV
+City Hospital Inc.,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$83.00,WV
+City Hospital Inc.,Blood,HCPCS 85610,"Blood test, clotting time",$39.00,WV
+City Hospital Inc.,Blood,HCPCS 85730,Coagulation assessment blood test,$48.50,WV
+City Hospital Inc.,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$22.00,WV
+City Hospital Inc.,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$46.50,WV
+City Hospital Inc.,Blood,HCPCS 85027,"Complete blood count, automated",$58.00,WV
+City Hospital Inc.,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$22.00,WV
+City Hospital Inc.,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$129.00,WV
+City Hospital Inc.,Blood,HCPCS 85660,Red blood cell sickling measurement,$31.50,WV
+City Hospital Inc.,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$132.00,WV
+City Hospital Inc.,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$94.50,WV
+City Hospital Inc.,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$218.50,WV
+City Hospital Inc.,Chemistry,HCPCS 82040,Albumin (protein) level,$31.50,WV
+City Hospital Inc.,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$76.00,WV
+City Hospital Inc.,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$94.50,WV
+City Hospital Inc.,Chemistry,HCPCS 82140,Ammonia level,$102.00,WV
+City Hospital Inc.,Chemistry,HCPCS 82150,Amylase (enzyme) level,$49.50,WV
+City Hospital Inc.,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$40.50,WV
+City Hospital Inc.,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$103.50,WV
+City Hospital Inc.,Chemistry,HCPCS 84439,Assay of free thyroxine,$112.50,WV
+City Hospital Inc.,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$82.50,WV
+City Hospital Inc.,Chemistry,HCPCS 82248,Bilirubin level (Direct),$57.00,WV
+City Hospital Inc.,Chemistry,HCPCS 82247,Bilirubin level (Total),$25.50,WV
+City Hospital Inc.,Chemistry,HCPCS 82565,Blood creatinine level,$42.50,WV
+City Hospital Inc.,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$18.50,WV
+City Hospital Inc.,Chemistry,HCPCS 84295,Blood sodium level,$44.50,WV
+City Hospital Inc.,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$29.50,WV
+City Hospital Inc.,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$63.00,WV
+City Hospital Inc.,Chemistry,HCPCS 82310,Calcium level,$33.00,WV
+City Hospital Inc.,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$31.00,WV
+City Hospital Inc.,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$140.50,WV
+City Hospital Inc.,Chemistry,HCPCS 82465,Cholesterol level,$18.50,WV
+City Hospital Inc.,Chemistry,HCPCS 82525,Copper level,$34.50,WV
+City Hospital Inc.,Chemistry,HCPCS 82533,Cortisol Measurement,$103.50,WV
+City Hospital Inc.,Chemistry,HCPCS 84681,C-peptide (protein) level,$117.50,WV
+City Hospital Inc.,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$55.50,WV
+City Hospital Inc.,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$95.50,WV
+City Hospital Inc.,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$70.50,WV
+City Hospital Inc.,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$107.00,WV
+City Hospital Inc.,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$106.50,WV
+City Hospital Inc.,Chemistry,HCPCS 82746,Folic acid; serum,$93.00,WV
+City Hospital Inc.,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$56.00,WV
+City Hospital Inc.,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$22.50,WV
+City Hospital Inc.,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$54.50,WV
+City Hospital Inc.,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$81.50,WV
+City Hospital Inc.,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$69.50,WV
+City Hospital Inc.,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$71.50,WV
+City Hospital Inc.,Chemistry,HCPCS 83718,HDL cholesterol level,$36.00,WV
+City Hospital Inc.,Chemistry,HCPCS 83020,Hemoglobin Measurement,$36.00,WV
+City Hospital Inc.,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$17.50,WV
+City Hospital Inc.,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$75.50,WV
+City Hospital Inc.,Chemistry,HCPCS 83520,IgE (immune system protein) level,$70.00,WV
+City Hospital Inc.,Chemistry,HCPCS 83525,Insulin Measurement; Total,$59.00,WV
+City Hospital Inc.,Chemistry,HCPCS 82330,Ionized Calcium,$21.00,WV
+City Hospital Inc.,Chemistry,HCPCS 83550,Iron Binding Capacity,$50.00,WV
+City Hospital Inc.,Chemistry,HCPCS 83540,Iron level,$55.50,WV
+City Hospital Inc.,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$36.50,WV
+City Hospital Inc.,Chemistry,HCPCS 83721,LDL cholesterol level,$18.00,WV
+City Hospital Inc.,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$43.50,WV
+City Hospital Inc.,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$50.00,WV
+City Hospital Inc.,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$90.00,WV
+City Hospital Inc.,Chemistry,HCPCS 83021,Liver function blood test panel,$12.50,WV
+City Hospital Inc.,Chemistry,HCPCS 83735,Magnesium Level,$42.50,WV
+City Hospital Inc.,Chemistry,HCPCS 82542,Mass spectrometry,$92.50,WV
+City Hospital Inc.,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$77.00,WV
+City Hospital Inc.,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$59.00,WV
+City Hospital Inc.,Chemistry,HCPCS 83918,Organic acid level,$89.00,WV
+City Hospital Inc.,Chemistry,HCPCS 83945,Oxalate level,$36.00,WV
+City Hospital Inc.,Chemistry,HCPCS 83970,Parathormone,$117.00,WV
+City Hospital Inc.,Chemistry,HCPCS 84157,Prealbumin (protein) level,$22.00,WV
+City Hospital Inc.,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$37.50,WV
+City Hospital Inc.,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$69.00,WV
+City Hospital Inc.,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$61.50,WV
+City Hospital Inc.,Chemistry,HCPCS 82270,Stool analysis for blood,$21.00,WV
+City Hospital Inc.,Chemistry,HCPCS 84403,Testosterone (hormone) level,$50.50,WV
+City Hospital Inc.,Chemistry,HCPCS 84402,Testosterone Level; Free,$63.50,WV
+City Hospital Inc.,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement",$85.50,WV
+City Hospital Inc.,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$156.00,WV
+City Hospital Inc.,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$79.00,WV
+City Hospital Inc.,Chemistry,HCPCS 84155,"Total protein level, blood",$39.00,WV
+City Hospital Inc.,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$65.00,WV
+City Hospital Inc.,Chemistry,HCPCS 84478,Triglycerides level,$17.50,WV
+City Hospital Inc.,Chemistry,HCPCS 84166,Troponin (protein) analysis,$62.00,WV
+City Hospital Inc.,Chemistry,HCPCS 84560,Uric acid level,$30.00,WV
+City Hospital Inc.,Chemistry,HCPCS 84550,"Uric acid level, blood",$44.00,WV
+City Hospital Inc.,Chemistry,HCPCS 82340,Urine calcium level,$38.50,WV
+City Hospital Inc.,Chemistry,HCPCS 82436,Urine chloride level,$32.00,WV
+City Hospital Inc.,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$55.00,WV
+City Hospital Inc.,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$34.00,WV
+City Hospital Inc.,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$75.50,WV
+City Hospital Inc.,Chemistry,HCPCS 84133,Urine potassium level,$27.50,WV
+City Hospital Inc.,Chemistry,HCPCS 84300,Urine sodium level,$31.00,WV
+City Hospital Inc.,Chemistry,HCPCS 84591,Vitamin B-6 level,$59.50,WV
+City Hospital Inc.,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$167.00,WV
+City Hospital Inc.,Chemistry,HCPCS 84630,Zinc level,$31.50,WV
+City Hospital Inc.,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$47.50,WV
+City Hospital Inc.,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$42.00,WV
+City Hospital Inc.,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$42.00,WV
+City Hospital Inc.,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$119.00,WV
+City Hospital Inc.,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$56.00,WV
+City Hospital Inc.,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$83.00,WV
+City Hospital Inc.,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$40.50,WV
+City Hospital Inc.,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$65.00,WV
+City Hospital Inc.,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$54.50,WV
+City Hospital Inc.,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$54.00,WV
+City Hospital Inc.,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$126.50,WV
+City Hospital Inc.,Immunology,HCPCS 86140,Measurement C-reactive protein,$39.00,WV
+City Hospital Inc.,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$13.00,WV
+City Hospital Inc.,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$23.00,WV
+City Hospital Inc.,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$74.50,WV
+City Hospital Inc.,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$79.00,WV
+City Hospital Inc.,Immunology,HCPCS 86431,Rheumatoid factor level,$35.50,WV
+City Hospital Inc.,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$40.50,WV
+City Hospital Inc.,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$33.00,WV
+City Hospital Inc.,Immunology,HCPCS 86592,Syphilis Detection Test,$27.50,WV
+City Hospital Inc.,Immunology,HCPCS 86361,T cell count and ratio,$253.00,WV
+City Hospital Inc.,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$253.00,WV
+City Hospital Inc.,Immunology,HCPCS 86359,"T cells count, total",$194.00,WV
+City Hospital Inc.,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$86.00,WV
+City Hospital Inc.,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$28.00,WV
+City Hospital Inc.,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$54.50,WV
+City Hospital Inc.,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$49.00,WV
+City Hospital Inc.,Microbiology,HCPCS 87491,Chlamydia Test,$49.00,WV
+City Hospital Inc.,Microbiology,HCPCS 87635,Covid-19 current infection test,$125.00,WV
+City Hospital Inc.,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$116.50,WV
+City Hospital Inc.,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$72.00,WV
+City Hospital Inc.,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$109.00,WV
+City Hospital Inc.,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$58.00,WV
+City Hospital Inc.,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$396.00,WV
+City Hospital Inc.,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$48.00,WV
+City Hospital Inc.,Microbiology,HCPCS 87517,Hepatitis B Detection,$131.50,WV
+City Hospital Inc.,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$99.00,WV
+City Hospital Inc.,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$112.00,WV
+City Hospital Inc.,Microbiology,HCPCS 86735,Mumps virus antibody test,$36.50,WV
+City Hospital Inc.,Microbiology,HCPCS 86747,Parvovirus antibody test,$42.00,WV
+City Hospital Inc.,Microbiology,HCPCS 86762,Rubella virus antibody test,$77.50,WV
+City Hospital Inc.,Microbiology,HCPCS 86765,Rubeola virus antibody test,$36.00,WV
+City Hospital Inc.,Microbiology,HCPCS 87207,Smear for infectious agents,$19.50,WV
+City Hospital Inc.,Microbiology,HCPCS 87177,Smear for Parasites,$56.00,WV
+City Hospital Inc.,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$31.00,WV
+City Hospital Inc.,Microbiology,HCPCS 87045,Stool Culture,$59.50,WV
+City Hospital Inc.,Microbiology,HCPCS 87880,Streptoccus,$69.50,WV
+City Hospital Inc.,Microbiology,HCPCS 87804,Test for Influenza Virus,$73.00,WV
+City Hospital Inc.,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$37.00,WV
+City Hospital Inc.,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$39.50,WV
+City Hospital Inc.,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$200.50,WV
+City Hospital Inc.,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$185.00,WV
+City Hospital Inc.,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$65.00,WV
+City Hospital Inc.,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$62.00,WV
+City Hospital Inc.,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$72.50,WV
+City Hospital Inc.,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$73.50,WV
+City Hospital Inc.,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$64.00,WV
+City Hospital Inc.,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$287.50,WV
+City Hospital Inc.,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$51.50,WV
+City Hospital Inc.,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$191.00,WV
+City Hospital Inc.,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$102.00,WV
+City Hospital Inc.,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$84.00,WV
+City Hospital Inc.,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$79.00,WV
+City Hospital Inc.,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$60.50,WV
+City Hospital Inc.,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$42.00,WV
+City Hospital Inc.,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$55.50,WV
+City Hospital Inc.,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$84.00,WV
+City Hospital Inc.,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$97.00,WV
+City Hospital Inc.,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$55.50,WV
+City Hospital Inc.,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$55.50,WV
+City Hospital Inc.,Transfusion,HCPCS 86900,"Blood Typing, ABO",$20.00,WV
+City Hospital Inc.,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$41.00,WV
+City Hospital Inc.,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$70.00,WV
+City Hospital Inc.,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$34.50,WV
+City Hospital Inc.,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$49.50,WV
+City Hospital Inc.,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$63.50,WV
+City Hospital Inc.,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$15.00,WV
+City Hospital Inc.,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$14.00,WV
+City Hospital Inc.,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$29.50,WV
+City Hospital Inc.,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$38.50,WV
+City Hospital Inc.,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$428.00,WV
+City Hospital Inc.,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$102.50,WV
+City Hospital Inc.,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$102.50,WV
+City Hospital Inc.,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$275.00,WV
+City Hospital Inc.,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),$368.50,WV
+City Hospital Inc.,Cardiovascular,HCPCS 93975,Ultrasound Heart,$586.50,WV
+City Hospital Inc.,Pulmonary,HCPCS 94729,CO Diffusion Capacity,$109.00,WV
+City Hospital Inc.,Pulmonary,HCPCS 94640,Nebulizer Treatment,$117.50,WV
+City Hospital Inc.,Pulmonary,HCPCS 94618,Pulmonary stress test,$225.00,WV
+City Hospital Inc.,Pulmonary,HCPCS 94010,Spirometry - breathing test,$134.00,WV
+City Hospital Inc.,Sleep,HCPCS 95810,Sleep study,"$2,239.50",WV
+City Hospital Inc.,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$63.50,WV
+City Hospital Inc.,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$142.50,WV
+City Hospital Inc.,Breast,HCPCS 77067,Mammogram Screening,$258.50,WV
+City Hospital Inc.,Breast,HCPCS 77066,Mammography of both breasts,$258.50,WV
+City Hospital Inc.,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,$978.00,WV
+City Hospital Inc.,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$522.50,WV
+City Hospital Inc.,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$523.00,WV
+City Hospital Inc.,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$522.50,WV
+City Hospital Inc.,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,600.50",WV
+City Hospital Inc.,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,374.00",WV
+City Hospital Inc.,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$994.00,WV
+City Hospital Inc.,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$723.00,WV
+City Hospital Inc.,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,$841.50,WV
+City Hospital Inc.,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$722.50,WV
+City Hospital Inc.,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$522.50,WV
+City Hospital Inc.,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$722.50,WV
+City Hospital Inc.,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$722.50,WV
+City Hospital Inc.,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,060.50",WV
+City Hospital Inc.,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,060.50",WV
+City Hospital Inc.,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,060.50",WV
+City Hospital Inc.,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$1,632.00",WV
+City Hospital Inc.,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,060.50",WV
+City Hospital Inc.,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$1,632.00",WV
+City Hospital Inc.,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,631.50",WV
+City Hospital Inc.,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,060.50",WV
+City Hospital Inc.,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,657.50",WV
+City Hospital Inc.,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,060.50",WV
+City Hospital Inc.,MRI,HCPCS 73721,MRI scan of leg joint,"$1,062.00",WV
+City Hospital Inc.,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$388.00,WV
+City Hospital Inc.,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$388.00,WV
+City Hospital Inc.,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$388.00,WV
+City Hospital Inc.,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$388.00,WV
+City Hospital Inc.,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$362.50,WV
+City Hospital Inc.,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$388.00,WV
+City Hospital Inc.,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$387.50,WV
+City Hospital Inc.,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$240.50,WV
+City Hospital Inc.,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$388.00,WV
+City Hospital Inc.,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$388.00,WV
+City Hospital Inc.,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$382.00,WV
+City Hospital Inc.,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$264.00,WV
+City Hospital Inc.,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$152.50,WV
+City Hospital Inc.,Chest,HCPCS 71046,X-ray of chest; 2 Views,$152.50,WV
+City Hospital Inc.,Chest,HCPCS 71045,X-ray of chest; Single View,$152.50,WV
+City Hospital Inc.,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$152.50,WV
+City Hospital Inc.,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$152.50,WV
+City Hospital Inc.,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$152.50,WV
+City Hospital Inc.,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$264.00,WV
+City Hospital Inc.,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$152.50,WV
+City Hospital Inc.,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$152.50,WV
+City Hospital Inc.,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$152.50,WV
+City Hospital Inc.,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$264.00,WV
+City Hospital Inc.,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$163.50,WV
+City Hospital Inc.,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$163.50,WV
+City Hospital Inc.,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$152.50,WV
+City Hospital Inc.,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$152.50,WV
+City Hospital Inc.,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$152.50,WV
+City Hospital Inc.,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$152.50,WV
+City Hospital Inc.,Lower Limbs,HCPCS 73565,X-ray Both Knees,$152.50,WV
+City Hospital Inc.,Lower Limbs,HCPCS 73630,X-ray exam of foot,$152.50,WV
+City Hospital Inc.,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$152.50,WV
+City Hospital Inc.,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$158.00,WV
+City Hospital Inc.,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$152.50,WV
+City Hospital Inc.,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$152.50,WV
+City Hospital Inc.,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$152.50,WV
+City Hospital Inc.,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$152.50,WV
+City Hospital Inc.,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$152.50,WV
+City Hospital Inc.,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$264.00,WV
+City Hospital Inc.,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$152.50,WV
+City Hospital Inc.,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$152.50,WV
+City Hospital Inc.,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$264.00,WV
+City Hospital Inc.,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$152.50,WV
+City Hospital Inc.,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$152.50,WV
+City Hospital Inc.,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$152.50,WV
+City Hospital Inc.,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$152.50,WV
+City Hospital Inc.,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$152.50,WV
+City Hospital Inc.,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$152.50,WV
+City Hospital Inc.,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$152.50,WV
+City Hospital Inc.,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$152.50,WV
+City Hospital Inc.,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$159.50,WV
+City Hospital Inc.,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$152.50,WV
+City Hospital Inc.,Cardiac,HCPCS 33249,Defibrillator complete system,"$10,973.00",WV
+City Hospital Inc.,Cardiac,HCPCS 33240,Defibrillator generator,"$8,744.00",WV
+City Hospital Inc.,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$3,843.50",WV
+City Hospital Inc.,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$3,058.50",WV
+City Hospital Inc.,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$557.50,WV
+City Hospital Inc.,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$3,741.50",WV
+City Hospital Inc.,General,HCPCS 10060,Drainage of Abscess,$190.00,WV
+City Hospital Inc.,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$238.00,WV
+City Hospital Inc.,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$1,660.50",WV
+City Hospital Inc.,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$1,660.50",WV
+City Hospital Inc.,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$1,013.00",WV
+City Hospital Inc.,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$356.50,WV
+City Hospital Inc.,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,"$23,804.50",WV
+City Hospital Inc.,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$92.50,WV
+City Hospital Inc.,Soft Tissue,HCPCS 97597,Debridement of open wound,$149.50,WV
+City Hospital Inc.,Soft Tissue,HCPCS 97602,Non-selective debridement,$129.50,WV
+City Hospital Inc.,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$131.00,WV
+City Hospital Inc.,Vascular,HCPCS 36416,Collection of capillary blood specimen,$10.00,WV
+City Hospital Inc.,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),$692.00,WV
+City Hospital Inc.,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$447.50,WV
+City Hospital Inc.,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,939.50",WV

@@ -1,0 +1,260 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Presbyterian St. Lukes Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$19,563.32",CO
+Presbyterian St. Lukes Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$839.85,CO
+Presbyterian St. Lukes Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,"$2,280.28",CO
+Presbyterian St. Lukes Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$5,194.67",CO
+Presbyterian St. Lukes Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$8,704.47",CO
+Presbyterian St. Lukes Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$8,992.23",CO
+Presbyterian St. Lukes Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$515.52,CO
+Presbyterian St. Lukes Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$553.11,CO
+Presbyterian St. Lukes Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$462.99,CO
+Presbyterian St. Lukes Medical Center,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,"$3,648.75",CO
+Presbyterian St. Lukes Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$188.10,CO
+Presbyterian St. Lukes Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$188.10,CO
+Presbyterian St. Lukes Medical Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$565.68,CO
+Presbyterian St. Lukes Medical Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,"$1,119.80",CO
+Presbyterian St. Lukes Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$450.18,CO
+Presbyterian St. Lukes Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$450.18,CO
+Presbyterian St. Lukes Medical Center,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$902.55,CO
+Presbyterian St. Lukes Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$450.18,CO
+Presbyterian St. Lukes Medical Center,Blood,HCPCS 85008,Microscopic examination for white blood cells,$210.93,CO
+Presbyterian St. Lukes Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$450.18,CO
+Presbyterian St. Lukes Medical Center,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,"$2,072.95",CO
+Presbyterian St. Lukes Medical Center,Blood,HCPCS 85660,Red blood cell sickling measurement,$450.18,CO
+Presbyterian St. Lukes Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$1,438.92",CO
+Presbyterian St. Lukes Medical Center,Blood,HCPCS 85041,"Red blood count, automated test",$362.45,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,"$2,476.10",CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$42.90,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$682.55,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,"$1,332.10",CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum","$1,198.18",CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 82140,Ammonia level,$890.18,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$144.10,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$935.55,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,"$1,300.20",CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$890.18,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$745.53,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$682.55,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$289.58,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$188.10,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$188.10,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$188.10,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$188.10,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$188.10,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$890.18,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 82310,Calcium level,$188.10,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$188.10,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$82.50,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 82465,Cholesterol level,$188.10,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 82525,Copper level,"$1,491.60",CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$890.18,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$843.70,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$755.43,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$890.18,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,"$1,228.15",CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level","$2,142.25",CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$13.20,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$935.55,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,"$1,041.15",CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$188.10,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$17.88,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level","$1,060.95",CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,"$1,135.48",CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$693.83,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 83718,HDL cholesterol level,$450.18,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 83020,Hemoglobin Measurement,$142.45,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,"$1,047.20",CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$102.58,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$148.50,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,"$1,279.58",CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$890.18,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$680.63,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 83540,Iron level,$666.88,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$682.55,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$595.38,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$188.10,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$8.25,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 83021,Liver function blood test panel,"$1,850.48",CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$188.10,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 82542,Mass spectrometry,$570.00,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$630.85,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$674.03,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 83918,Organic acid level,"$1,542.20",CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 83945,Oxalate level,"$1,178.65",CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 83970,Parathormone,$29.70,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$450.18,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$682.55,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$148.50,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,"$1,873.58",CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$834.08,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$286.00,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,"$1,863.40",CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,"$2,079.00",CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$890.18,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,"$1,230.90",CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$890.18,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$188.10,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$493.35,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$81.40,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 84560,Uric acid level,$682.55,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$188.10,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$682.55,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 82436,Urine chloride level,$493.35,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$356.13,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$450.18,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,"$1,047.20",CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$493.35,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$493.35,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 84591,Vitamin B-6 level,$562.10,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$44.55,CO
+Presbyterian St. Lukes Medical Center,Chemistry,HCPCS 84630,Zinc level,$164.34,CO
+Presbyterian St. Lukes Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$73.98,CO
+Presbyterian St. Lukes Medical Center,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$767.00,CO
+Presbyterian St. Lukes Medical Center,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$810.98,CO
+Presbyterian St. Lukes Medical Center,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$68.48,CO
+Presbyterian St. Lukes Medical Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,"$1,800.98",CO
+Presbyterian St. Lukes Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,"$1,204.50",CO
+Presbyterian St. Lukes Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$57.75,CO
+Presbyterian St. Lukes Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$680.63,CO
+Presbyterian St. Lukes Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$680.63,CO
+Presbyterian St. Lukes Medical Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$40.10,CO
+Presbyterian St. Lukes Medical Center,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$450.00,CO
+Presbyterian St. Lukes Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$132.00,CO
+Presbyterian St. Lukes Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$270.33,CO
+Presbyterian St. Lukes Medical Center,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$211.83,CO
+Presbyterian St. Lukes Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$696.85,CO
+Presbyterian St. Lukes Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$768.63,CO
+Presbyterian St. Lukes Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$336.05,CO
+Presbyterian St. Lukes Medical Center,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,"$1,460.25",CO
+Presbyterian St. Lukes Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$470.53,CO
+Presbyterian St. Lukes Medical Center,Immunology,HCPCS 86580,Skin test for tuberculosis,$124.58,CO
+Presbyterian St. Lukes Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$14.03,CO
+Presbyterian St. Lukes Medical Center,Immunology,HCPCS 86361,T cell count and ratio,$620.95,CO
+Presbyterian St. Lukes Medical Center,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$180.13,CO
+Presbyterian St. Lukes Medical Center,Immunology,HCPCS 86359,"T cells count, total",$180.13,CO
+Presbyterian St. Lukes Medical Center,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,"$1,007.60",CO
+Presbyterian St. Lukes Medical Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$96.25,CO
+Presbyterian St. Lukes Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$14.30,CO
+Presbyterian St. Lukes Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$188.10,CO
+Presbyterian St. Lukes Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$519.75,CO
+Presbyterian St. Lukes Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$125.40,CO
+Presbyterian St. Lukes Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$543.13,CO
+Presbyterian St. Lukes Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$542.03,CO
+Presbyterian St. Lukes Medical Center,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification","$1,204.50",CO
+Presbyterian St. Lukes Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$810.98,CO
+Presbyterian St. Lukes Medical Center,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification","$1,613.98",CO
+Presbyterian St. Lukes Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$519.75,CO
+Presbyterian St. Lukes Medical Center,Microbiology,HCPCS 87517,Hepatitis B Detection,$462.00,CO
+Presbyterian St. Lukes Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$775.78,CO
+Presbyterian St. Lukes Medical Center,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$863.50,CO
+Presbyterian St. Lukes Medical Center,Microbiology,HCPCS 86735,Mumps virus antibody test,$663.30,CO
+Presbyterian St. Lukes Medical Center,Microbiology,HCPCS 86747,Parvovirus antibody test,$729.30,CO
+Presbyterian St. Lukes Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$755.43,CO
+Presbyterian St. Lukes Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$890.18,CO
+Presbyterian St. Lukes Medical Center,Microbiology,HCPCS 87207,Smear for infectious agents,$745.53,CO
+Presbyterian St. Lukes Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$18.12,CO
+Presbyterian St. Lukes Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$595.38,CO
+Presbyterian St. Lukes Medical Center,Microbiology,HCPCS 87045,Stool Culture,"$1,129.15",CO
+Presbyterian St. Lukes Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,"$1,976.70",CO
+Presbyterian St. Lukes Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,"$1,440.73",CO
+Presbyterian St. Lukes Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$964.98,CO
+Presbyterian St. Lukes Medical Center,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,"$4,830.93",CO
+Presbyterian St. Lukes Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,"$2,889.15",CO
+Presbyterian St. Lukes Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,"$1,233.93",CO
+Presbyterian St. Lukes Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals","$1,440.73",CO
+Presbyterian St. Lukes Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$9.90,CO
+Presbyterian St. Lukes Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,"$1,761.38",CO
+Presbyterian St. Lukes Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,"$1,584.83",CO
+Presbyterian St. Lukes Medical Center,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,"$1,263.63",CO
+Presbyterian St. Lukes Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,"$1,188.28",CO
+Presbyterian St. Lukes Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,"$1,650.00",CO
+Presbyterian St. Lukes Medical Center,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$890.18,CO
+Presbyterian St. Lukes Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$890.18,CO
+Presbyterian St. Lukes Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$904.20,CO
+Presbyterian St. Lukes Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$92.40,CO
+Presbyterian St. Lukes Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$798.88,CO
+Presbyterian St. Lukes Medical Center,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$588.78,CO
+Presbyterian St. Lukes Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$608.30,CO
+Presbyterian St. Lukes Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$982.03,CO
+Presbyterian St. Lukes Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$890.18,CO
+Presbyterian St. Lukes Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$890.18,CO
+Presbyterian St. Lukes Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$316.25,CO
+Presbyterian St. Lukes Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$233.48,CO
+Presbyterian St. Lukes Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$229.90,CO
+Presbyterian St. Lukes Medical Center,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$385.28,CO
+Presbyterian St. Lukes Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$284.48,CO
+Presbyterian St. Lukes Medical Center,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$951.16,CO
+Presbyterian St. Lukes Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$514.53,CO
+Presbyterian St. Lukes Medical Center,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$240.90,CO
+Presbyterian St. Lukes Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$215.05,CO
+Presbyterian St. Lukes Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$761.20,CO
+Presbyterian St. Lukes Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$450.18,CO
+Presbyterian St. Lukes Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$2,863.56",CO
+Presbyterian St. Lukes Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$707.87,CO
+Presbyterian St. Lukes Medical Center,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$494.92,CO
+Presbyterian St. Lukes Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$382.39,CO
+Presbyterian St. Lukes Medical Center,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$4,440.52",CO
+Presbyterian St. Lukes Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,598.56",CO
+Presbyterian St. Lukes Medical Center,Pulmonary,HCPCS 94729,CO Diffusion Capacity,"$3,497.48",CO
+Presbyterian St. Lukes Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,$531.16,CO
+Presbyterian St. Lukes Medical Center,Pulmonary,HCPCS 94618,Pulmonary stress test,$388.58,CO
+Presbyterian St. Lukes Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,"$2,530.28",CO
+Presbyterian St. Lukes Medical Center,Sleep,HCPCS 95810,Sleep study,"$6,613.37",CO
+Presbyterian St. Lukes Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$7,411.56",CO
+Presbyterian St. Lukes Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$3,160.82",CO
+Presbyterian St. Lukes Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$4,214.34",CO
+Presbyterian St. Lukes Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$3,160.82",CO
+Presbyterian St. Lukes Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$8,785.66",CO
+Presbyterian St. Lukes Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$8,785.66",CO
+Presbyterian St. Lukes Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,572.84",CO
+Presbyterian St. Lukes Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$4,327.96",CO
+Presbyterian St. Lukes Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$5,995.60",CO
+Presbyterian St. Lukes Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$5,410.60",CO
+Presbyterian St. Lukes Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$3,160.82",CO
+Presbyterian St. Lukes Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$5,410.60",CO
+Presbyterian St. Lukes Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$5,410.60",CO
+Presbyterian St. Lukes Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$7,082.08",CO
+Presbyterian St. Lukes Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$8,852.53",CO
+Presbyterian St. Lukes Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$8,852.53",CO
+Presbyterian St. Lukes Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$11,495.00",CO
+Presbyterian St. Lukes Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$8,852.53",CO
+Presbyterian St. Lukes Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$14,369.30",CO
+Presbyterian St. Lukes Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$14,369.30",CO
+Presbyterian St. Lukes Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$14,369.85",CO
+Presbyterian St. Lukes Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$8,852.53",CO
+Presbyterian St. Lukes Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$2,074.94",CO
+Presbyterian St. Lukes Medical Center,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,"$1,964.98",CO
+Presbyterian St. Lukes Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,980.18",CO
+Presbyterian St. Lukes Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,730.14",CO
+Presbyterian St. Lukes Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$1,908.59",CO
+Presbyterian St. Lukes Medical Center,Ultrasound,HCPCS 76881,Ultrasound Joint Soft Tissue - Complete,"$1,119.61",CO
+Presbyterian St. Lukes Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$2,519.12",CO
+Presbyterian St. Lukes Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,218.23",CO
+Presbyterian St. Lukes Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,"$1,012.75",CO
+Presbyterian St. Lukes Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,821.04",CO
+Presbyterian St. Lukes Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$977.99,CO
+Presbyterian St. Lukes Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views","$1,630.46",CO
+Presbyterian St. Lukes Medical Center,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views","$1,250.08",CO
+Presbyterian St. Lukes Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$877.50,CO
+Presbyterian St. Lukes Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$823.16,CO
+Presbyterian St. Lukes Medical Center,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views","$1,242.80",CO
+Presbyterian St. Lukes Medical Center,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$981.76,CO
+Presbyterian St. Lukes Medical Center,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,"$1,489.54",CO
+Presbyterian St. Lukes Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$720.98,CO
+Presbyterian St. Lukes Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,"$1,086.28",CO
+Presbyterian St. Lukes Medical Center,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$690.04,CO
+Presbyterian St. Lukes Medical Center,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views","$1,290.64",CO
+Presbyterian St. Lukes Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$368.16,CO
+Presbyterian St. Lukes Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$222.30,CO
+Presbyterian St. Lukes Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$657.02,CO
+Presbyterian St. Lukes Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$222.30,CO
+Presbyterian St. Lukes Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$965.38,CO
+Presbyterian St. Lukes Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$906.88,CO
+Presbyterian St. Lukes Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views","$1,658.02",CO
+Presbyterian St. Lukes Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views","$1,158.82",CO
+Presbyterian St. Lukes Medical Center,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers","$1,541.68",CO
+Presbyterian St. Lukes Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$918.68,CO
+Presbyterian St. Lukes Medical Center,Soft Tissue,HCPCS 97602,Non-selective debridement,$449.08,CO
+Presbyterian St. Lukes Medical Center,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$364.07,CO
+Presbyterian St. Lukes Medical Center,Vascular,HCPCS 36416,Collection of capillary blood specimen,$74.25,CO
+Presbyterian St. Lukes Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$5,449.92",CO

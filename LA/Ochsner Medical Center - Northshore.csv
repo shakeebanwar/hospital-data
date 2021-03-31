@@ -1,0 +1,333 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Ochsner Medical Center - Northshore,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$531.30,LA
+Ochsner Medical Center - Northshore,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,143.78",LA
+Ochsner Medical Center - Northshore,Emergency Care,HCPCS 99281,Emergency Level 1,$66.00,LA
+Ochsner Medical Center - Northshore,Emergency Care,HCPCS 99282,Emergency Level 2,$138.16,LA
+Ochsner Medical Center - Northshore,Emergency Care,HCPCS 99283,Emergency Level 3,$209.00,LA
+Ochsner Medical Center - Northshore,Emergency Care,HCPCS 99284,Emergency Level 4,$335.06,LA
+Ochsner Medical Center - Northshore,Emergency Care,HCPCS 99285,Emergency Level 5,$527.12,LA
+Ochsner Medical Center - Northshore,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$87.34,LA
+Ochsner Medical Center - Northshore,Speech,HCPCS 92507,Speech Therapy,$62.70,LA
+Ochsner Medical Center - Northshore,Speech,HCPCS 92610,Swallow Evaluation,$132.66,LA
+Ochsner Medical Center - Northshore,Speech,HCPCS 92526,Swallow Treatment,$44.22,LA
+Ochsner Medical Center - Northshore,Blood,HCPCS 85018,"Blood count, hemoglobin",$26.84,LA
+Ochsner Medical Center - Northshore,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$26.84,LA
+Ochsner Medical Center - Northshore,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$38.50,LA
+Ochsner Medical Center - Northshore,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$29.92,LA
+Ochsner Medical Center - Northshore,Blood,HCPCS 85610,"Blood test, clotting time",$43.34,LA
+Ochsner Medical Center - Northshore,Blood,HCPCS 85730,Coagulation assessment blood test,$43.34,LA
+Ochsner Medical Center - Northshore,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$13.42,LA
+Ochsner Medical Center - Northshore,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$93.72,LA
+Ochsner Medical Center - Northshore,Blood,HCPCS 85027,"Complete blood count, automated",$22.44,LA
+Ochsner Medical Center - Northshore,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$27.06,LA
+Ochsner Medical Center - Northshore,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$105.38,LA
+Ochsner Medical Center - Northshore,Blood,HCPCS 85660,Red blood cell sickling measurement,$38.06,LA
+Ochsner Medical Center - Northshore,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$3.52,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$43.56,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$205.70,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 82040,Albumin (protein) level,$14.30,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$25.96,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$39.82,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 82140,Ammonia level,$149.60,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 82150,Amylase (enzyme) level,$98.56,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$57.86,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$192.28,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 84439,Assay of free thyroxine,$75.46,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$31.90,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 82248,Bilirubin level (Direct),$14.30,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 82247,Bilirubin level (Total),$14.30,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 82565,Blood creatinine level,$15.18,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$14.30,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 84295,Blood sodium level,$14.30,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$14.30,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$152.24,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 82310,Calcium level,$14.30,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$14.30,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$170.28,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 82465,Cholesterol level,$14.30,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 82525,Copper level,$126.94,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 82533,Cortisol Measurement,$225.50,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 84681,C-peptide (protein) level,$96.80,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$49.28,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$78.76,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$159.50,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$16.72,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$147.84,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 82746,Folic acid; serum,$88.66,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$154.22,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$83.60,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$56.54,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$37.18,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$204.82,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$4.84,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 83718,HDL cholesterol level,$40.04,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 83020,Hemoglobin Measurement,$55.00,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$20.46,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$24.64,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 83520,IgE (immune system protein) level,$103.62,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 83525,Insulin Measurement; Total,$95.04,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 82330,Ionized Calcium,$22.66,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 83550,Iron Binding Capacity,$61.60,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 83540,Iron level,$61.60,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$51.70,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 83721,LDL cholesterol level,$14.08,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$57.64,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$14.30,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$29.26,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 83021,Liver function blood test panel,$32.34,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 83735,Magnesium Level,$123.86,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 82542,Mass spectrometry,$23.76,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$10.56,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$5.06,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 83918,Organic acid level,$165.44,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 83945,Oxalate level,$5.50,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 83970,Parathormone,$27.06,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$69.96,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 84157,Prealbumin (protein) level,$67.98,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$28.82,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$135.52,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$33.00,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 82270,Stool analysis for blood,$33.22,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 84403,Testosterone (hormone) level,$58.96,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 84402,Testosterone Level; Free,$4.40,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 84479,"Thyroid Hormone, T3 Measurement, Free",$45.76,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$34.98,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$46.42,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 84155,"Total protein level, blood",$14.30,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$24.86,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 84478,Triglycerides level,$14.30,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 84166,Troponin (protein) analysis,$33.00,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 84560,Uric acid level,$47.74,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 84550,"Uric acid level, blood",$14.30,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 82340,Urine calcium level,$69.96,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 82436,Urine chloride level,$62.92,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$28.60,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$39.16,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$124.08,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 84133,Urine potassium level,$59.84,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 84300,Urine sodium level,$59.62,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 84591,Vitamin B-6 level,$19.80,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$29.04,LA
+Ochsner Medical Center - Northshore,Chemistry,HCPCS 84630,Zinc level,$101.20,LA
+Ochsner Medical Center - Northshore,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$11.22,LA
+Ochsner Medical Center - Northshore,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$19.36,LA
+Ochsner Medical Center - Northshore,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$8.58,LA
+Ochsner Medical Center - Northshore,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$116.38,LA
+Ochsner Medical Center - Northshore,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$116.60,LA
+Ochsner Medical Center - Northshore,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$73.70,LA
+Ochsner Medical Center - Northshore,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$69.96,LA
+Ochsner Medical Center - Northshore,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$20.68,LA
+Ochsner Medical Center - Northshore,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$19.80,LA
+Ochsner Medical Center - Northshore,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$27.72,LA
+Ochsner Medical Center - Northshore,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$53.02,LA
+Ochsner Medical Center - Northshore,Immunology,HCPCS 86140,Measurement C-reactive protein,$14.96,LA
+Ochsner Medical Center - Northshore,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$8.58,LA
+Ochsner Medical Center - Northshore,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$95.70,LA
+Ochsner Medical Center - Northshore,Immunology,HCPCS 86161,Measurement of complement (immune system proteins),$162.14,LA
+Ochsner Medical Center - Northshore,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$23.98,LA
+Ochsner Medical Center - Northshore,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$53.90,LA
+Ochsner Medical Center - Northshore,Immunology,HCPCS 86431,Rheumatoid factor level,$16.28,LA
+Ochsner Medical Center - Northshore,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$56.76,LA
+Ochsner Medical Center - Northshore,Immunology,HCPCS 86580,Skin test for tuberculosis,$20.30,LA
+Ochsner Medical Center - Northshore,Immunology,HCPCS 86592,Syphilis Detection Test,$56.76,LA
+Ochsner Medical Center - Northshore,Immunology,HCPCS 86361,T cell count and ratio,$53.68,LA
+Ochsner Medical Center - Northshore,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$54.12,LA
+Ochsner Medical Center - Northshore,Immunology,HCPCS 86359,"T cells count, total",$75.24,LA
+Ochsner Medical Center - Northshore,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$151.80,LA
+Ochsner Medical Center - Northshore,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$29.26,LA
+Ochsner Medical Center - Northshore,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$23.98,LA
+Ochsner Medical Center - Northshore,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$14.08,LA
+Ochsner Medical Center - Northshore,Microbiology,HCPCS 87491,Chlamydia Test,$56.10,LA
+Ochsner Medical Center - Northshore,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$18.26,LA
+Ochsner Medical Center - Northshore,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$20.24,LA
+Ochsner Medical Center - Northshore,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$80.08,LA
+Ochsner Medical Center - Northshore,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$17.82,LA
+Ochsner Medical Center - Northshore,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$68.20,LA
+Ochsner Medical Center - Northshore,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$14.30,LA
+Ochsner Medical Center - Northshore,Microbiology,HCPCS 87517,Hepatitis B Detection,$81.40,LA
+Ochsner Medical Center - Northshore,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$22.00,LA
+Ochsner Medical Center - Northshore,Microbiology,HCPCS 87624,HPV Detection,$71.72,LA
+Ochsner Medical Center - Northshore,Microbiology,HCPCS 86735,Mumps virus antibody test,$32.12,LA
+Ochsner Medical Center - Northshore,Microbiology,HCPCS 86747,Parvovirus antibody test,$12.54,LA
+Ochsner Medical Center - Northshore,Microbiology,HCPCS 86762,Rubella virus antibody test,$23.98,LA
+Ochsner Medical Center - Northshore,Microbiology,HCPCS 86765,Rubeola virus antibody test,$23.98,LA
+Ochsner Medical Center - Northshore,Microbiology,HCPCS 87207,Smear for infectious agents,$54.12,LA
+Ochsner Medical Center - Northshore,Microbiology,HCPCS 87177,Smear for Parasites,$24.64,LA
+Ochsner Medical Center - Northshore,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$41.14,LA
+Ochsner Medical Center - Northshore,Microbiology,HCPCS 87045,Stool Culture,$73.04,LA
+Ochsner Medical Center - Northshore,Microbiology,HCPCS 87880,Strep Test,$47.30,LA
+Ochsner Medical Center - Northshore,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$66.44,LA
+Ochsner Medical Center - Northshore,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$33.22,LA
+Ochsner Medical Center - Northshore,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$63.14,LA
+Ochsner Medical Center - Northshore,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$113.30,LA
+Ochsner Medical Center - Northshore,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$114.84,LA
+Ochsner Medical Center - Northshore,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$200.86,LA
+Ochsner Medical Center - Northshore,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$68.64,LA
+Ochsner Medical Center - Northshore,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$143.44,LA
+Ochsner Medical Center - Northshore,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$100.32,LA
+Ochsner Medical Center - Northshore,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$41.36,LA
+Ochsner Medical Center - Northshore,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$27.72,LA
+Ochsner Medical Center - Northshore,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$159.50,LA
+Ochsner Medical Center - Northshore,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$90.64,LA
+Ochsner Medical Center - Northshore,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$38.06,LA
+Ochsner Medical Center - Northshore,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$18.70,LA
+Ochsner Medical Center - Northshore,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$60.72,LA
+Ochsner Medical Center - Northshore,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$85.36,LA
+Ochsner Medical Center - Northshore,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$105.38,LA
+Ochsner Medical Center - Northshore,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$76.56,LA
+Ochsner Medical Center - Northshore,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$85.36,LA
+Ochsner Medical Center - Northshore,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$98.56,LA
+Ochsner Medical Center - Northshore,Transfusion,HCPCS 86900,"Blood Typing, ABO",$28.60,LA
+Ochsner Medical Center - Northshore,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$28.60,LA
+Ochsner Medical Center - Northshore,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$180.62,LA
+Ochsner Medical Center - Northshore,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$9.24,LA
+Ochsner Medical Center - Northshore,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$65.34,LA
+Ochsner Medical Center - Northshore,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$145.64,LA
+Ochsner Medical Center - Northshore,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$4.40,LA
+Ochsner Medical Center - Northshore,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$16.72,LA
+Ochsner Medical Center - Northshore,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$45.32,LA
+Ochsner Medical Center - Northshore,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$37.40,LA
+Ochsner Medical Center - Northshore,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$472.34,LA
+Ochsner Medical Center - Northshore,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$17.82,LA
+Ochsner Medical Center - Northshore,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$64.90,LA
+Ochsner Medical Center - Northshore,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$306.02,LA
+Ochsner Medical Center - Northshore,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),$410.08,LA
+Ochsner Medical Center - Northshore,Cardiovascular,HCPCS 93975,Ultrasound Heart,$230.34,LA
+Ochsner Medical Center - Northshore,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$117.92,LA
+Ochsner Medical Center - Northshore,Pulmonary,HCPCS 94640,Nebulizer Treatment,$34.76,LA
+Ochsner Medical Center - Northshore,Pulmonary,HCPCS 94618,Pulmonary stress test,$99.88,LA
+Ochsner Medical Center - Northshore,Pulmonary,HCPCS 94010,Spirometry - breathing test,$78.54,LA
+Ochsner Medical Center - Northshore,Sleep,HCPCS 95810,Sleep study,"$1,289.64",LA
+Ochsner Medical Center - Northshore,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$11.00,LA
+Ochsner Medical Center - Northshore,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$81.40,LA
+Ochsner Medical Center - Northshore,Breast,HCPCS 77067,Mammogram Screening,$78.54,LA
+Ochsner Medical Center - Northshore,Breast,HCPCS 77066,Mammography of both breasts,$93.50,LA
+Ochsner Medical Center - Northshore,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,082.84",LA
+Ochsner Medical Center - Northshore,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$397.10,LA
+Ochsner Medical Center - Northshore,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$400.18,LA
+Ochsner Medical Center - Northshore,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$399.96,LA
+Ochsner Medical Center - Northshore,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,266.76",LA
+Ochsner Medical Center - Northshore,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,023.88",LA
+Ochsner Medical Center - Northshore,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$962.50,LA
+Ochsner Medical Center - Northshore,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$483.78,LA
+Ochsner Medical Center - Northshore,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,$561.44,LA
+Ochsner Medical Center - Northshore,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$478.28,LA
+Ochsner Medical Center - Northshore,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$404.80,LA
+Ochsner Medical Center - Northshore,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$483.78,LA
+Ochsner Medical Center - Northshore,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$522.50,LA
+Ochsner Medical Center - Northshore,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)",$750.20,LA
+Ochsner Medical Center - Northshore,MRI,HCPCS 72146,MRI chest spine without contrast material,$837.32,LA
+Ochsner Medical Center - Northshore,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$837.32,LA
+Ochsner Medical Center - Northshore,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$1,053.14",LA
+Ochsner Medical Center - Northshore,MRI,HCPCS 72141,MRI neck spine without contrast material,$837.32,LA
+Ochsner Medical Center - Northshore,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$1,053.14",LA
+Ochsner Medical Center - Northshore,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,$844.36,LA
+Ochsner Medical Center - Northshore,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$697.84,LA
+Ochsner Medical Center - Northshore,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,067.44",LA
+Ochsner Medical Center - Northshore,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$837.32,LA
+Ochsner Medical Center - Northshore,MRI,HCPCS 73721,MRI scan of leg joint,$697.84,LA
+Ochsner Medical Center - Northshore,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$220.00,LA
+Ochsner Medical Center - Northshore,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$211.64,LA
+Ochsner Medical Center - Northshore,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$335.72,LA
+Ochsner Medical Center - Northshore,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$275.88,LA
+Ochsner Medical Center - Northshore,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$170.50,LA
+Ochsner Medical Center - Northshore,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$285.56,LA
+Ochsner Medical Center - Northshore,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$156.86,LA
+Ochsner Medical Center - Northshore,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$162.36,LA
+Ochsner Medical Center - Northshore,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$216.92,LA
+Ochsner Medical Center - Northshore,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$340.78,LA
+Ochsner Medical Center - Northshore,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$337.92,LA
+Ochsner Medical Center - Northshore,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$55.22,LA
+Ochsner Medical Center - Northshore,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$177.32,LA
+Ochsner Medical Center - Northshore,Chest,HCPCS 71046,X-ray of chest; 2 Views,$37.62,LA
+Ochsner Medical Center - Northshore,Chest,HCPCS 71045,X-ray of chest; Single View,$37.62,LA
+Ochsner Medical Center - Northshore,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$84.48,LA
+Ochsner Medical Center - Northshore,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$103.18,LA
+Ochsner Medical Center - Northshore,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$76.34,LA
+Ochsner Medical Center - Northshore,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$94.82,LA
+Ochsner Medical Center - Northshore,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$81.84,LA
+Ochsner Medical Center - Northshore,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$81.62,LA
+Ochsner Medical Center - Northshore,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$118.80,LA
+Ochsner Medical Center - Northshore,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$60.94,LA
+Ochsner Medical Center - Northshore,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$36.74,LA
+Ochsner Medical Center - Northshore,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$42.02,LA
+Ochsner Medical Center - Northshore,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$111.76,LA
+Ochsner Medical Center - Northshore,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$68.86,LA
+Ochsner Medical Center - Northshore,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$75.46,LA
+Ochsner Medical Center - Northshore,Lower Limbs,HCPCS 73565,X-ray Both Knees,$92.18,LA
+Ochsner Medical Center - Northshore,Lower Limbs,HCPCS 73630,X-ray exam of foot,$81.62,LA
+Ochsner Medical Center - Northshore,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$86.02,LA
+Ochsner Medical Center - Northshore,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$36.74,LA
+Ochsner Medical Center - Northshore,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$70.18,LA
+Ochsner Medical Center - Northshore,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$65.34,LA
+Ochsner Medical Center - Northshore,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$96.58,LA
+Ochsner Medical Center - Northshore,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$113.52,LA
+Ochsner Medical Center - Northshore,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$82.06,LA
+Ochsner Medical Center - Northshore,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$121.66,LA
+Ochsner Medical Center - Northshore,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$74.58,LA
+Ochsner Medical Center - Northshore,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$83.60,LA
+Ochsner Medical Center - Northshore,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$82.50,LA
+Ochsner Medical Center - Northshore,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$79.20,LA
+Ochsner Medical Center - Northshore,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$57.86,LA
+Ochsner Medical Center - Northshore,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$45.32,LA
+Ochsner Medical Center - Northshore,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$70.84,LA
+Ochsner Medical Center - Northshore,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$63.14,LA
+Ochsner Medical Center - Northshore,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$70.84,LA
+Ochsner Medical Center - Northshore,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$71.50,LA
+Ochsner Medical Center - Northshore,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$73.92,LA
+Ochsner Medical Center - Northshore,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,LA
+Ochsner Medical Center - Northshore,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$1,079.54",LA
+Ochsner Medical Center - Northshore,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$1,999.14",LA
+Ochsner Medical Center - Northshore,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,$403.26,LA
+Ochsner Medical Center - Northshore,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$2,009.48",LA
+Ochsner Medical Center - Northshore,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$29.70,LA
+Ochsner Medical Center - Northshore,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$19.58,LA
+Ochsner Medical Center - Northshore,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$7,389.84",LA
+Ochsner Medical Center - Northshore,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$2,703.36",LA
+Ochsner Medical Center - Northshore,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,LA
+Ochsner Medical Center - Northshore,Cardiac,MSDRG 216,Cardiac valve procedure,-,LA
+Ochsner Medical Center - Northshore,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,LA
+Ochsner Medical Center - Northshore,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,LA
+Ochsner Medical Center - Northshore,Cardiac,HCPCS 33249,Defibrillator complete system,"$19,447.78",LA
+Ochsner Medical Center - Northshore,Cardiac,HCPCS 33240,Defibrillator generator,"$15,136.00",LA
+Ochsner Medical Center - Northshore,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$3,121.58",LA
+Ochsner Medical Center - Northshore,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),$721.38,LA
+Ochsner Medical Center - Northshore,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$144.32,LA
+Ochsner Medical Center - Northshore,Cardiac,MSDRG 247,Implant drug-eluting stent,-,LA
+Ochsner Medical Center - Northshore,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,LA
+Ochsner Medical Center - Northshore,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$2,967.80",LA
+Ochsner Medical Center - Northshore,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",$586.08,LA
+Ochsner Medical Center - Northshore,Digestive,HCPCS 45380,"Colonoscopy, with biopsy",$586.08,LA
+Ochsner Medical Center - Northshore,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal",$569.14,LA
+Ochsner Medical Center - Northshore,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)",$678.92,LA
+Ochsner Medical Center - Northshore,Digestive,HCPCS 43235,EGD,$528.88,LA
+Ochsner Medical Center - Northshore,Digestive,HCPCS 43239,EGD and biopsy,$528.88,LA
+Ochsner Medical Center - Northshore,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$12,236.04",LA
+Ochsner Medical Center - Northshore,General,HCPCS 55700,Biopsy of prostate gland,$557.26,LA
+Ochsner Medical Center - Northshore,General,HCPCS 10060,Drainage of Abscess,$68.86,LA
+Ochsner Medical Center - Northshore,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$68.86,LA
+Ochsner Medical Center - Northshore,General,HCPCS 69200,Removal of foreign body from ear canal,$37.18,LA
+Ochsner Medical Center - Northshore,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$141.68,LA
+Ochsner Medical Center - Northshore,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$141.68,LA
+Ochsner Medical Center - Northshore,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$141.68,LA
+Ochsner Medical Center - Northshore,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$141.68,LA
+Ochsner Medical Center - Northshore,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$21,000.83",LA
+Ochsner Medical Center - Northshore,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$126.28,LA
+Ochsner Medical Center - Northshore,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$306.68,LA
+Ochsner Medical Center - Northshore,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,$306.68,LA
+Ochsner Medical Center - Northshore,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$364.54,LA
+Ochsner Medical Center - Northshore,Musculoskeletal,HCPCS 27200,Insertion of Breathing Tube Using an Endoscope,$66.44,LA
+Ochsner Medical Center - Northshore,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$77.00,LA
+Ochsner Medical Center - Northshore,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$13,862.75",LA
+Ochsner Medical Center - Northshore,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$12,674.61",LA
+Ochsner Medical Center - Northshore,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$19,579.79",LA
+Ochsner Medical Center - Northshore,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$66.00,LA
+Ochsner Medical Center - Northshore,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,LA
+Ochsner Medical Center - Northshore,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,LA
+Ochsner Medical Center - Northshore,Soft Tissue,HCPCS 97597,Debridement of open wound,$28.60,LA
+Ochsner Medical Center - Northshore,Soft Tissue,HCPCS 97602,Non-selective debridement,$34.10,LA
+Ochsner Medical Center - Northshore,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$19.80,LA
+Ochsner Medical Center - Northshore,Vascular,HCPCS 36416,Collection of capillary blood specimen,$6.38,LA
+Ochsner Medical Center - Northshore,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),$564.08,LA
+Ochsner Medical Center - Northshore,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$80.96,LA
+Ochsner Medical Center - Northshore,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,$521.84,LA

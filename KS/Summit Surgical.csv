@@ -1,0 +1,81 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Summit Surgical,Emergency Care,HCPCS 99283,Emergency Level 3,$164.80,KS
+Summit Surgical,Emergency Care,HCPCS 99284,Emergency Level 4,$424.80,KS
+Summit Surgical,Emergency Care,HCPCS 99285,Emergency Level 5,$535.20,KS
+Summit Surgical,Blood,HCPCS 85018,"Blood count, hemoglobin",$48.80,KS
+Summit Surgical,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$40.80,KS
+Summit Surgical,Blood,HCPCS 85610,"Blood test, clotting time",$163.20,KS
+Summit Surgical,Blood,HCPCS 85730,Coagulation assessment blood test,$71.20,KS
+Summit Surgical,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$10.98,KS
+Summit Surgical,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$99.20,KS
+Summit Surgical,Blood,HCPCS 85027,"Complete blood count, automated",$53.60,KS
+Summit Surgical,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$380.80,KS
+Summit Surgical,Chemistry,HCPCS 82150,Amylase (enzyme) level,$105.60,KS
+Summit Surgical,Chemistry,HCPCS 84439,Assay of free thyroxine,$42.40,KS
+Summit Surgical,Chemistry,HCPCS 82565,Blood creatinine level,$17.12,KS
+Summit Surgical,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$13.44,KS
+Summit Surgical,Chemistry,HCPCS 84295,Blood sodium level,$13.44,KS
+Summit Surgical,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$62.40,KS
+Summit Surgical,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$85.60,KS
+Summit Surgical,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$97.60,KS
+Summit Surgical,Chemistry,HCPCS 83735,Magnesium Level,$46.40,KS
+Summit Surgical,Chemistry,HCPCS 84550,"Uric acid level, blood",$66.00,KS
+Summit Surgical,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$81.60,KS
+Summit Surgical,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$14.32,KS
+Summit Surgical,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$154.80,KS
+Summit Surgical,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$121.60,KS
+Summit Surgical,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$55.20,KS
+Summit Surgical,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$29.60,KS
+Summit Surgical,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$85.60,KS
+Summit Surgical,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$164.80,KS
+Summit Surgical,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$136.80,KS
+Summit Surgical,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$133.60,KS
+Summit Surgical,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$84.80,KS
+Summit Surgical,Transfusion,HCPCS 86900,"Blood Typing, ABO",$83.20,KS
+Summit Surgical,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$75.60,KS
+Summit Surgical,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$53.60,KS
+Summit Surgical,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$106.40,KS
+Summit Surgical,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$68.00,KS
+Summit Surgical,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$14.64,KS
+Summit Surgical,Pulmonary,HCPCS 94640,Nebulizer Treatment,$23.45,KS
+Summit Surgical,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$696.80,KS
+Summit Surgical,Lower Limbs,HCPCS 73565,X-ray Both Knees,$87.20,KS
+Summit Surgical,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$111.21,KS
+Summit Surgical,Breast,HCPCS 19101,Biopsy of breast,"$2,370.06",KS
+Summit Surgical,Breast,HCPCS 19325,Breast enlargement using prosthetic implant,"$6,297.64",KS
+Summit Surgical,Breast,HCPCS 19125,Excision of breast lesion,"$2,370.06",KS
+Summit Surgical,Breast,HCPCS 19120,Excision of cyst of breast,"$2,370.06",KS
+Summit Surgical,Breast,HCPCS 19301,Partial removal of breast,"$2,370.06",KS
+Summit Surgical,Breast,HCPCS 19318,Reduction mammaplasty,"$4,548.48",KS
+Summit Surgical,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$4,655.48",KS
+Summit Surgical,Breast,HCPCS 19303,Total removal of breast,"$3,444.24",KS
+Summit Surgical,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",$800.00,KS
+Summit Surgical,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,680.00",KS
+Summit Surgical,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,077.98",KS
+Summit Surgical,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,077.98",KS
+Summit Surgical,Digestive,HCPCS 43235,EGD,"$1,680.00",KS
+Summit Surgical,Digestive,HCPCS 43239,EGD and biopsy,"$1,680.00",KS
+Summit Surgical,Digestive,HCPCS 45391,Ultrasound of lower large bowel using an endoscope,$800.00,KS
+Summit Surgical,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$3,471.08",KS
+Summit Surgical,General,HCPCS 10060,Drainage of Abscess,$176.92,KS
+Summit Surgical,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$176.92,KS
+Summit Surgical,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$182.48,KS
+Summit Surgical,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$182.48,KS
+Summit Surgical,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$182.48,KS
+Summit Surgical,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$182.48,KS
+Summit Surgical,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$207.24,KS
+Summit Surgical,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$781.90,KS
+Summit Surgical,Musculoskeletal,HCPCS 27200,Insertion of Breathing Tube Using an Endoscope,$207.24,KS
+Summit Surgical,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$278.00,KS
+Summit Surgical,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$3,518.98",KS
+Summit Surgical,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$3,518.98",KS
+Summit Surgical,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,"$22,328.24",KS
+Summit Surgical,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$3,518.98",KS
+Summit Surgical,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$5,593.92",KS
+Summit Surgical,Musculoskeletal,HCPCS 22612,Spine arthrodesis,"$5,427.48",KS
+Summit Surgical,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$2,625.74",KS
+Summit Surgical,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$5,353.72",KS
+Summit Surgical,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$5,353.72",KS
+Summit Surgical,Obstetrics,HCPCS 58545,Removal of uterine fibroid tumors using an endoscope,"$3,949.20",KS
+Summit Surgical,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries","$3,504.84",KS
+Summit Surgical,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$300.00,KS

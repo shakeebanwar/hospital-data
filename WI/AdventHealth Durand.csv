@@ -1,0 +1,404 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+AdventHealth Durand,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$438.39,WI
+AdventHealth Durand,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,311.30",WI
+AdventHealth Durand,Emergency Care,HCPCS 99281,Emergency Level 1,$111.16,WI
+AdventHealth Durand,Emergency Care,HCPCS 99282,Emergency Level 2,$193.14,WI
+AdventHealth Durand,Emergency Care,HCPCS 99283,Emergency Level 3,$296.55,WI
+AdventHealth Durand,Emergency Care,HCPCS 99284,Emergency Level 4,$449.36,WI
+AdventHealth Durand,Emergency Care,HCPCS 99285,Emergency Level 5,$717.15,WI
+AdventHealth Durand,Hospital,HCPCS 99234,Hospital observation care discharge,$138.00,WI
+AdventHealth Durand,Hospital,HCPCS 99219,Hospital observation care typically 30 minutes,$139.00,WI
+AdventHealth Durand,Hospital,HCPCS 99235,"Hospital observation or inpatient care moderate severity, 50 minutes per day",$173.00,WI
+AdventHealth Durand,Hospital,HCPCS 99218,Hospital Observation per Hour,$103.00,WI
+AdventHealth Durand,Hospital,HCPCS 99224,"Subsequent observation care, typically 25 minutes per day",$41.00,WI
+AdventHealth Durand,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$135.00,WI
+AdventHealth Durand,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$156.00,WI
+AdventHealth Durand,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$46.88,WI
+AdventHealth Durand,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$58.45,WI
+AdventHealth Durand,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$30.67,WI
+AdventHealth Durand,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$125.00,WI
+AdventHealth Durand,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$187.00,WI
+AdventHealth Durand,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$107.00,WI
+AdventHealth Durand,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$103.00,WI
+AdventHealth Durand,Psychology,HCPCS 90853,Group psychotherapy,$28.00,WI
+AdventHealth Durand,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$144.00,WI
+AdventHealth Durand,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$71.00,WI
+AdventHealth Durand,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$94.00,WI
+AdventHealth Durand,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$140.00,WI
+AdventHealth Durand,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$221.29,WI
+AdventHealth Durand,Speech,HCPCS 92507,Speech Therapy,$168.00,WI
+AdventHealth Durand,Speech,HCPCS 92610,Swallow Evaluation,$210.00,WI
+AdventHealth Durand,Speech,HCPCS 92526,Swallow Treatment,$168.00,WI
+AdventHealth Durand,Blood,HCPCS 85018,"Blood count, hemoglobin",$61.77,WI
+AdventHealth Durand,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$57.73,WI
+AdventHealth Durand,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$81.21,WI
+AdventHealth Durand,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$89.95,WI
+AdventHealth Durand,Blood,HCPCS 85610,"Blood test, clotting time",$54.62,WI
+AdventHealth Durand,Blood,HCPCS 85730,Coagulation assessment blood test,$57.87,WI
+AdventHealth Durand,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$62.93,WI
+AdventHealth Durand,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$92.34,WI
+AdventHealth Durand,Blood,HCPCS 85027,"Complete blood count, automated",$78.03,WI
+AdventHealth Durand,Blood,HCPCS 85008,Microscopic examination for white blood cells,$4.00,WI
+AdventHealth Durand,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$50.27,WI
+AdventHealth Durand,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$101.70,WI
+AdventHealth Durand,Blood,HCPCS 85660,Red blood cell sickling measurement,$75.15,WI
+AdventHealth Durand,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$445.45,WI
+AdventHealth Durand,Blood,HCPCS 85041,"Red blood count, automated test",$58.53,WI
+AdventHealth Durand,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$186.63,WI
+AdventHealth Durand,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$142.10,WI
+AdventHealth Durand,Chemistry,HCPCS 82040,Albumin (protein) level,$61.77,WI
+AdventHealth Durand,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$65.32,WI
+AdventHealth Durand,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$99.57,WI
+AdventHealth Durand,Chemistry,HCPCS 82140,Ammonia level,$91.69,WI
+AdventHealth Durand,Chemistry,HCPCS 82150,Amylase (enzyme) level,$85.84,WI
+AdventHealth Durand,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$97.55,WI
+AdventHealth Durand,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$150.07,WI
+AdventHealth Durand,Chemistry,HCPCS 84439,Assay of free thyroxine,$95.59,WI
+AdventHealth Durand,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$91.63,WI
+AdventHealth Durand,Chemistry,HCPCS 82248,Bilirubin level (Direct),$74.78,WI
+AdventHealth Durand,Chemistry,HCPCS 82247,Bilirubin level (Total),$74.78,WI
+AdventHealth Durand,Chemistry,HCPCS 82565,Blood creatinine level,$65.03,WI
+AdventHealth Durand,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$65.03,WI
+AdventHealth Durand,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$6.00,WI
+AdventHealth Durand,Chemistry,HCPCS 84132,Blood potassium level,$81.93,WI
+AdventHealth Durand,Chemistry,HCPCS 84295,Blood sodium level,$84.54,WI
+AdventHealth Durand,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$68.28,WI
+AdventHealth Durand,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$130.46,WI
+AdventHealth Durand,Chemistry,HCPCS 82310,Calcium level,$74.78,WI
+AdventHealth Durand,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$26.40,WI
+AdventHealth Durand,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$135.14,WI
+AdventHealth Durand,Chemistry,HCPCS 82465,Cholesterol level,$65.03,WI
+AdventHealth Durand,Chemistry,HCPCS 82525,Copper level,$83.90,WI
+AdventHealth Durand,Chemistry,HCPCS 82533,Cortisol Measurement,$148.37,WI
+AdventHealth Durand,Chemistry,HCPCS 84681,C-peptide (protein) level,$115.44,WI
+AdventHealth Durand,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$102.74,WI
+AdventHealth Durand,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$116.95,WI
+AdventHealth Durand,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$194.61,WI
+AdventHealth Durand,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$181.79,WI
+AdventHealth Durand,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$96.62,WI
+AdventHealth Durand,Chemistry,HCPCS 82746,Folic acid; serum,$109.83,WI
+AdventHealth Durand,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$68.72,WI
+AdventHealth Durand,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$81.93,WI
+AdventHealth Durand,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$81.93,WI
+AdventHealth Durand,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$134.27,WI
+AdventHealth Durand,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$127.87,WI
+AdventHealth Durand,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$85.86,WI
+AdventHealth Durand,Chemistry,HCPCS 83718,HDL cholesterol level,$91.04,WI
+AdventHealth Durand,Chemistry,HCPCS 83020,Hemoglobin Measurement,$15.00,WI
+AdventHealth Durand,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$110.55,WI
+AdventHealth Durand,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$124.54,WI
+AdventHealth Durand,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$130.06,WI
+AdventHealth Durand,Chemistry,HCPCS 83525,Insulin Measurement; Total,$57.25,WI
+AdventHealth Durand,Chemistry,HCPCS 82330,Ionized Calcium,$112.70,WI
+AdventHealth Durand,Chemistry,HCPCS 83550,Iron Binding Capacity,$62.63,WI
+AdventHealth Durand,Chemistry,HCPCS 83540,Iron level,$59.26,WI
+AdventHealth Durand,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$102.74,WI
+AdventHealth Durand,Chemistry,HCPCS 83721,LDL cholesterol level,$126.64,WI
+AdventHealth Durand,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$74.78,WI
+AdventHealth Durand,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$74.78,WI
+AdventHealth Durand,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$77.20,WI
+AdventHealth Durand,Chemistry,HCPCS 83021,Liver function blood test panel,$62.92,WI
+AdventHealth Durand,Chemistry,HCPCS 83735,Magnesium Level,$74.78,WI
+AdventHealth Durand,Chemistry,HCPCS 82542,Mass spectrometry,$226.08,WI
+AdventHealth Durand,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$80.40,WI
+AdventHealth Durand,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$77.49,WI
+AdventHealth Durand,Chemistry,HCPCS 83918,Organic acid level,$486.53,WI
+AdventHealth Durand,Chemistry,HCPCS 83945,Oxalate level,$69.01,WI
+AdventHealth Durand,Chemistry,HCPCS 83970,Parathormone,$197.52,WI
+AdventHealth Durand,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$71.61,WI
+AdventHealth Durand,Chemistry,HCPCS 84157,Prealbumin (protein) level,$45.15,WI
+AdventHealth Durand,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$139.83,WI
+AdventHealth Durand,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$151.51,WI
+AdventHealth Durand,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$103.90,WI
+AdventHealth Durand,Chemistry,HCPCS A9270,Selenium (vitamin) level,$84.00,WI
+AdventHealth Durand,Chemistry,HCPCS 82270,Stool analysis for blood,$85.19,WI
+AdventHealth Durand,Chemistry,HCPCS 84403,Testosterone (hormone) level,$154.98,WI
+AdventHealth Durand,Chemistry,HCPCS 84402,Testosterone Level; Free,$161.98,WI
+AdventHealth Durand,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$37.54,WI
+AdventHealth Durand,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$126.64,WI
+AdventHealth Durand,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$41.78,WI
+AdventHealth Durand,Chemistry,HCPCS 84155,"Total protein level, blood",$97.65,WI
+AdventHealth Durand,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$59.96,WI
+AdventHealth Durand,Chemistry,HCPCS 84166,Troponin (protein) analysis,$95.25,WI
+AdventHealth Durand,Chemistry,HCPCS 84560,Uric acid level,$49.95,WI
+AdventHealth Durand,Chemistry,HCPCS 84550,"Uric acid level, blood",$81.93,WI
+AdventHealth Durand,Chemistry,HCPCS 82340,Urine calcium level,$60.09,WI
+AdventHealth Durand,Chemistry,HCPCS 82436,Urine chloride level,$64.35,WI
+AdventHealth Durand,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$79.95,WI
+AdventHealth Durand,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$46.99,WI
+AdventHealth Durand,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$17.00,WI
+AdventHealth Durand,Chemistry,HCPCS 84133,Urine potassium level,$42.44,WI
+AdventHealth Durand,Chemistry,HCPCS 84300,Urine sodium level,$46.81,WI
+AdventHealth Durand,Chemistry,HCPCS 84591,Vitamin B-6 level,$92.64,WI
+AdventHealth Durand,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$142.49,WI
+AdventHealth Durand,Chemistry,HCPCS 84630,Zinc level,$54.79,WI
+AdventHealth Durand,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$117.86,WI
+AdventHealth Durand,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$78.03,WI
+AdventHealth Durand,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$111.75,WI
+AdventHealth Durand,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$68.28,WI
+AdventHealth Durand,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$10.00,WI
+AdventHealth Durand,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$108.04,WI
+AdventHealth Durand,Immunology,HCPCS 86318,Covid-19 antibody test,$19.00,WI
+AdventHealth Durand,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$104.43,WI
+AdventHealth Durand,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$75.33,WI
+AdventHealth Durand,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$70.58,WI
+AdventHealth Durand,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$122.57,WI
+AdventHealth Durand,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$136.77,WI
+AdventHealth Durand,Immunology,HCPCS 86140,Measurement C-reactive protein,$71.53,WI
+AdventHealth Durand,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$27.13,WI
+AdventHealth Durand,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$121.53,WI
+AdventHealth Durand,Immunology,HCPCS 86161,Measurement of complement (immune system proteins),$114.20,WI
+AdventHealth Durand,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$54.62,WI
+AdventHealth Durand,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$133.31,WI
+AdventHealth Durand,Immunology,HCPCS 86431,Rheumatoid factor level,$57.87,WI
+AdventHealth Durand,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$78.03,WI
+AdventHealth Durand,Immunology,HCPCS 86580,Skin test for tuberculosis,$10.00,WI
+AdventHealth Durand,Immunology,HCPCS 86592,Syphilis Detection Test,$44.70,WI
+AdventHealth Durand,Immunology,HCPCS 86361,T cell count and ratio,$30.00,WI
+AdventHealth Durand,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$117.93,WI
+AdventHealth Durand,Immunology,HCPCS 86359,"T cells count, total",$42.00,WI
+AdventHealth Durand,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$78.03,WI
+AdventHealth Durand,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$35.76,WI
+AdventHealth Durand,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$87.78,WI
+AdventHealth Durand,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$91.04,WI
+AdventHealth Durand,Microbiology,HCPCS 87491,Chlamydia Test,$136.04,WI
+AdventHealth Durand,Microbiology,HCPCS 87635,Covid-19 current infection test,$52.00,WI
+AdventHealth Durand,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$182.01,WI
+AdventHealth Durand,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$90.83,WI
+AdventHealth Durand,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$276.36,WI
+AdventHealth Durand,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$72.95,WI
+AdventHealth Durand,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$215.05,WI
+AdventHealth Durand,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$135.35,WI
+AdventHealth Durand,Microbiology,HCPCS 87517,Hepatitis B Detection,$48.00,WI
+AdventHealth Durand,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$42.00,WI
+AdventHealth Durand,Microbiology,HCPCS 87624,HPV Detection,$83.26,WI
+AdventHealth Durand,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$105.63,WI
+AdventHealth Durand,Microbiology,HCPCS 86735,Mumps virus antibody test,$116.59,WI
+AdventHealth Durand,Microbiology,HCPCS 86747,Parvovirus antibody test,$43.32,WI
+AdventHealth Durand,Microbiology,HCPCS 86762,Rubella virus antibody test,$142.33,WI
+AdventHealth Durand,Microbiology,HCPCS 86765,Rubeola virus antibody test,$39.33,WI
+AdventHealth Durand,Microbiology,HCPCS 87207,Smear for infectious agents,$111.26,WI
+AdventHealth Durand,Microbiology,HCPCS 87177,Smear for Parasites,$85.08,WI
+AdventHealth Durand,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$40.30,WI
+AdventHealth Durand,Microbiology,HCPCS 87045,Stool Culture,$169.08,WI
+AdventHealth Durand,Microbiology,HCPCS 87880,Strep Test,$68.28,WI
+AdventHealth Durand,Microbiology,HCPCS 87804,Test for Influenza Virus,$57.51,WI
+AdventHealth Durand,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$151.52,WI
+AdventHealth Durand,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$93.63,WI
+AdventHealth Durand,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$267.28,WI
+AdventHealth Durand,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$289.38,WI
+AdventHealth Durand,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$123.55,WI
+AdventHealth Durand,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$152.48,WI
+AdventHealth Durand,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$131.72,WI
+AdventHealth Durand,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$119.26,WI
+AdventHealth Durand,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$122.90,WI
+AdventHealth Durand,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$299.95,WI
+AdventHealth Durand,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$143.78,WI
+AdventHealth Durand,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$77.52,WI
+AdventHealth Durand,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$129.99,WI
+AdventHealth Durand,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$117.05,WI
+AdventHealth Durand,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$450.67,WI
+AdventHealth Durand,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$94.29,WI
+AdventHealth Durand,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$57.22,WI
+AdventHealth Durand,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$64.17,WI
+AdventHealth Durand,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$89.73,WI
+AdventHealth Durand,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$124.82,WI
+AdventHealth Durand,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$101.10,WI
+AdventHealth Durand,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$109.61,WI
+AdventHealth Durand,Transfusion,HCPCS 86900,"Blood Typing, ABO",$43.90,WI
+AdventHealth Durand,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$52.02,WI
+AdventHealth Durand,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$109.25,WI
+AdventHealth Durand,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$52.85,WI
+AdventHealth Durand,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$9.00,WI
+AdventHealth Durand,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$93.63,WI
+AdventHealth Durand,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$4.00,WI
+AdventHealth Durand,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$54.73,WI
+AdventHealth Durand,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$49.01,WI
+AdventHealth Durand,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$109.45,WI
+AdventHealth Durand,Cardiovascular,HCPCS 93015,"Cardiovascular stress test, with interpretation and report",$70.00,WI
+AdventHealth Durand,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$460.15,WI
+AdventHealth Durand,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$17.00,WI
+AdventHealth Durand,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$104.04,WI
+AdventHealth Durand,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$6.00,WI
+AdventHealth Durand,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$397.84,WI
+AdventHealth Durand,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$9.00,WI
+AdventHealth Durand,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),$158.00,WI
+AdventHealth Durand,Cardiovascular,HCPCS 93975,Ultrasound Heart,$793.35,WI
+AdventHealth Durand,Pulmonary,HCPCS 94640,Aerosol Treatment,$71.72,WI
+AdventHealth Durand,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$55.00,WI
+AdventHealth Durand,Pulmonary,HCPCS 94618,Pulmonary stress test,$34.00,WI
+AdventHealth Durand,Pulmonary,HCPCS 94010,Spirometry - breathing test,$129.41,WI
+AdventHealth Durand,Sleep,HCPCS 95810,Sleep study,"$1,970.28",WI
+AdventHealth Durand,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$55.00,WI
+AdventHealth Durand,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$169.73,WI
+AdventHealth Durand,Breast,HCPCS 77067,Mammogram Screening,$174.10,WI
+AdventHealth Durand,Breast,HCPCS 77066,Mammography of both breasts,$240.30,WI
+AdventHealth Durand,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$2,601.18",WI
+AdventHealth Durand,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,170.53",WI
+AdventHealth Durand,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,170.53",WI
+AdventHealth Durand,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,170.53",WI
+AdventHealth Durand,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$2,639.95",WI
+AdventHealth Durand,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,296.67",WI
+AdventHealth Durand,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,983.40",WI
+AdventHealth Durand,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,338.78",WI
+AdventHealth Durand,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,641.66",WI
+AdventHealth Durand,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,377.11",WI
+AdventHealth Durand,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,170.53",WI
+AdventHealth Durand,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,306.47",WI
+AdventHealth Durand,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,300.59",WI
+AdventHealth Durand,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$2,080.94",WI
+AdventHealth Durand,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,117.56",WI
+AdventHealth Durand,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,080.94",WI
+AdventHealth Durand,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,749.90",WI
+AdventHealth Durand,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,080.94",WI
+AdventHealth Durand,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$3,015.00",WI
+AdventHealth Durand,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,861.59",WI
+AdventHealth Durand,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,080.94",WI
+AdventHealth Durand,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,077.04",WI
+AdventHealth Durand,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,080.94",WI
+AdventHealth Durand,MRI,HCPCS 73721,MRI scan of leg joint,"$2,601.18",WI
+AdventHealth Durand,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$305.63,WI
+AdventHealth Durand,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$113.00,WI
+AdventHealth Durand,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$615.01,WI
+AdventHealth Durand,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$362.49,WI
+AdventHealth Durand,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$492.92,WI
+AdventHealth Durand,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$494.22,WI
+AdventHealth Durand,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$438.94,WI
+AdventHealth Durand,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$317.84,WI
+AdventHealth Durand,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$407.20,WI
+AdventHealth Durand,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$390.62,WI
+AdventHealth Durand,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$316.16,WI
+AdventHealth Durand,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$390.18,WI
+AdventHealth Durand,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$59.00,WI
+AdventHealth Durand,Chest,HCPCS 71046,X-ray of chest; 2 Views,$195.09,WI
+AdventHealth Durand,Chest,HCPCS 71045,X-ray of chest; Single View,$162.57,WI
+AdventHealth Durand,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$162.57,WI
+AdventHealth Durand,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$195.09,WI
+AdventHealth Durand,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$195.09,WI
+AdventHealth Durand,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$100.67,WI
+AdventHealth Durand,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$316.61,WI
+AdventHealth Durand,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$162.57,WI
+AdventHealth Durand,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$162.57,WI
+AdventHealth Durand,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$308.88,WI
+AdventHealth Durand,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$51.00,WI
+AdventHealth Durand,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$271.24,WI
+AdventHealth Durand,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$140.79,WI
+AdventHealth Durand,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$195.09,WI
+AdventHealth Durand,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$162.57,WI
+AdventHealth Durand,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$195.09,WI
+AdventHealth Durand,Lower Limbs,HCPCS 73565,X-ray Both Knees,$38.00,WI
+AdventHealth Durand,Lower Limbs,HCPCS 73630,X-ray exam of foot,$195.09,WI
+AdventHealth Durand,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$195.09,WI
+AdventHealth Durand,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$162.57,WI
+AdventHealth Durand,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$162.57,WI
+AdventHealth Durand,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$162.57,WI
+AdventHealth Durand,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$131.21,WI
+AdventHealth Durand,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$260.11,WI
+AdventHealth Durand,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$162.57,WI
+AdventHealth Durand,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$308.88,WI
+AdventHealth Durand,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$186.34,WI
+AdventHealth Durand,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$455.20,WI
+AdventHealth Durand,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$308.88,WI
+AdventHealth Durand,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$195.09,WI
+AdventHealth Durand,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$162.57,WI
+AdventHealth Durand,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$162.57,WI
+AdventHealth Durand,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$162.57,WI
+AdventHealth Durand,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$162.57,WI
+AdventHealth Durand,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$162.57,WI
+AdventHealth Durand,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$162.57,WI
+AdventHealth Durand,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$195.09,WI
+AdventHealth Durand,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,$384.00,WI
+AdventHealth Durand,Abdomenal,HCPCS 47562,Cholecystectomy,$711.00,WI
+AdventHealth Durand,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,$774.00,WI
+AdventHealth Durand,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,$411.00,WI
+AdventHealth Durand,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,$435.00,WI
+AdventHealth Durand,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,$210.00,WI
+AdventHealth Durand,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),$560.00,WI
+AdventHealth Durand,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$163.87,WI
+AdventHealth Durand,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$46.00,WI
+AdventHealth Durand,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,"$1,673.00",WI
+AdventHealth Durand,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),$647.00,WI
+AdventHealth Durand,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,$762.00,WI
+AdventHealth Durand,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,$461.00,WI
+AdventHealth Durand,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,$914.00,WI
+AdventHealth Durand,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$1,004.00",WI
+AdventHealth Durand,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$7,534.41",WI
+AdventHealth Durand,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),$631.00,WI
+AdventHealth Durand,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),$477.00,WI
+AdventHealth Durand,Breast,HCPCS 19101,Biopsy of breast,$345.00,WI
+AdventHealth Durand,Breast,HCPCS 19325,Breast enlargement using prosthetic implant,$675.00,WI
+AdventHealth Durand,Breast,HCPCS 19125,Excision of breast lesion,$584.00,WI
+AdventHealth Durand,Breast,HCPCS 19120,Excision of cyst of breast,$527.00,WI
+AdventHealth Durand,Breast,HCPCS 19301,Partial removal of breast,$705.00,WI
+AdventHealth Durand,Breast,HCPCS 19318,Reduction mammaplasty,"$1,153.00",WI
+AdventHealth Durand,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$1,291.00",WI
+AdventHealth Durand,Breast,HCPCS 19303,Total removal of breast,"$1,030.00",WI
+AdventHealth Durand,Cardiac,HCPCS 33249,Defibrillator complete system,$984.00,WI
+AdventHealth Durand,Cardiac,HCPCS 33240,Defibrillator generator,$391.00,WI
+AdventHealth Durand,Cardiac,HCPCS 93452,Diagnostic heart catheterization,$905.00,WI
+AdventHealth Durand,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),$829.00,WI
+AdventHealth Durand,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$376.57,WI
+AdventHealth Durand,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,$379.00,WI
+AdventHealth Durand,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",$333.00,WI
+AdventHealth Durand,Digestive,HCPCS 45380,"Colonoscopy, with biopsy",$426.00,WI
+AdventHealth Durand,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal",$477.00,WI
+AdventHealth Durand,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)",$448.00,WI
+AdventHealth Durand,Digestive,HCPCS 43235,EGD,$280.00,WI
+AdventHealth Durand,Digestive,HCPCS 43239,EGD and biopsy,$371.00,WI
+AdventHealth Durand,Digestive,HCPCS 43775,Gastric Sleeve (Outpatient),"$1,220.00",WI
+AdventHealth Durand,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,$531.00,WI
+AdventHealth Durand,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,$504.00,WI
+AdventHealth Durand,Digestive,HCPCS 45391,Ultrasound of lower large bowel using an endoscope,$269.00,WI
+AdventHealth Durand,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,$918.00,WI
+AdventHealth Durand,General,HCPCS 55700,Biopsy of prostate gland,"$1,170.53",WI
+AdventHealth Durand,General,HCPCS 10060,Drainage of Abscess,$122.00,WI
+AdventHealth Durand,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$151.00,WI
+AdventHealth Durand,General,HCPCS 55866,Prostatectomy,"$1,512.00",WI
+AdventHealth Durand,General,HCPCS 69200,Removal of foreign body from ear canal,$82.00,WI
+AdventHealth Durand,General,HCPCS 60240,Removal of thyroid,$975.00,WI
+AdventHealth Durand,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$114.00,WI
+AdventHealth Durand,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$176.00,WI
+AdventHealth Durand,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$113.00,WI
+AdventHealth Durand,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$92.00,WI
+AdventHealth Durand,Head,HCPCS 69436,Create eardrum opening,$161.00,WI
+AdventHealth Durand,Head,HCPCS 69930,Implantation of cochlear device,"$1,251.00",WI
+AdventHealth Durand,Head,HCPCS 67028,Injection of drug into the eye,$102.00,WI
+AdventHealth Durand,Head,HCPCS 69631,Repair of eardrum,$893.00,WI
+AdventHealth Durand,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),$259.00,WI
+AdventHealth Durand,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),$298.00,WI
+AdventHealth Durand,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$291.00,WI
+AdventHealth Durand,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$1,550.10",WI
+AdventHealth Durand,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,$258.00,WI
+AdventHealth Durand,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$1,241.49",WI
+AdventHealth Durand,Musculoskeletal,HCPCS 27200,Insertion of Breathing Tube Using an Endoscope,$194.00,WI
+AdventHealth Durand,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$276.51,WI
+AdventHealth Durand,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,$565.00,WI
+AdventHealth Durand,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,$650.00,WI
+AdventHealth Durand,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,$379.00,WI
+AdventHealth Durand,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,$705.00,WI
+AdventHealth Durand,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,$186.00,WI
+AdventHealth Durand,Musculoskeletal,HCPCS 22612,Spine arthrodesis,"$1,706.00",WI
+AdventHealth Durand,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$64.00,WI
+AdventHealth Durand,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,$945.00,WI
+AdventHealth Durand,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$1,369.00",WI
+AdventHealth Durand,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,$754.00,WI
+AdventHealth Durand,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,$690.00,WI
+AdventHealth Durand,Obstetrics,HCPCS 58545,Removal of uterine fibroid tumors using an endoscope,$953.00,WI
+AdventHealth Durand,Obstetrics,HCPCS 59400,Routine obstetric care,"$2,296.00",WI
+AdventHealth Durand,Obstetrics,HCPCS 59510,"Routine obstetric care for cesarean delivery, including pre-and postdelivery care","$2,539.00",WI
+AdventHealth Durand,Obstetrics,HCPCS 59610,Routine obstetric care for vaginal delivery after prior cesarean delivery including pre-and post-delivery care,"$2,410.00",WI
+AdventHealth Durand,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries",$981.00,WI
+AdventHealth Durand,Ocular,HCPCS 66984,Cataract removal,$547.00,WI
+AdventHealth Durand,Ocular,HCPCS 66982,Cataract removal with insertion of lens,$751.00,WI
+AdventHealth Durand,Ocular,HCPCS 66821,Laser cataract removal,$330.00,WI
+AdventHealth Durand,Ocular,HCPCS 67311,Realignment of the eye with repair of eye muscle,$597.00,WI
+AdventHealth Durand,Ocular,HCPCS 65426,Removal or relocation of corneal conjunctiva,$659.00,WI
+AdventHealth Durand,Ocular,HCPCS 67108,Repair of detached retina,"$1,201.00",WI
+AdventHealth Durand,Ocular,HCPCS 65756,Transplant of outer layer of corneal tissue,"$1,186.00",WI
+AdventHealth Durand,Soft Tissue,HCPCS 97597,Debridement of open wound,$96.00,WI
+AdventHealth Durand,Soft Tissue,HCPCS 97602,Non-selective debridement,$42.00,WI
+AdventHealth Durand,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$28.00,WI
+AdventHealth Durand,Vascular,HCPCS 36416,Collection of capillary blood specimen,$31.88,WI
+AdventHealth Durand,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),$214.00,WI
+AdventHealth Durand,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$955.94,WI
+AdventHealth Durand,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,$232.00,WI

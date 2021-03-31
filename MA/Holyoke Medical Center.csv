@@ -1,0 +1,158 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Holyoke Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$300.00,MA
+Holyoke Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$350.00,MA
+Holyoke Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$250.00,MA
+Holyoke Medical Center,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$280.00,MA
+Holyoke Medical Center,Psychology,HCPCS 90853,Group psychotherapy,$187.00,MA
+Holyoke Medical Center,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$250.00,MA
+Holyoke Medical Center,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$280.00,MA
+Holyoke Medical Center,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$310.00,MA
+Holyoke Medical Center,Speech,HCPCS 92526,Swallow Treatment,$288.00,MA
+Holyoke Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$12.00,MA
+Holyoke Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$12.00,MA
+Holyoke Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$19.00,MA
+Holyoke Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$29.00,MA
+Holyoke Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$40.00,MA
+Holyoke Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$30.00,MA
+Holyoke Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$17.00,MA
+Holyoke Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$22.00,MA
+Holyoke Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$21.00,MA
+Holyoke Medical Center,Chemistry,HCPCS 82140,Ammonia level,$63.00,MA
+Holyoke Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$84.00,MA
+Holyoke Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$41.00,MA
+Holyoke Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$22.00,MA
+Holyoke Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$25.00,MA
+Holyoke Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$25.00,MA
+Holyoke Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$72.00,MA
+Holyoke Medical Center,Chemistry,HCPCS 82310,Calcium level,$22.00,MA
+Holyoke Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$20.00,MA
+Holyoke Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$30.00,MA
+Holyoke Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$51.00,MA
+Holyoke Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$60.00,MA
+Holyoke Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$58.00,MA
+Holyoke Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$30.00,MA
+Holyoke Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$43.00,MA
+Holyoke Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$51.00,MA
+Holyoke Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$26.00,MA
+Holyoke Medical Center,Chemistry,HCPCS 83540,Iron level,$20.00,MA
+Holyoke Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$37.00,MA
+Holyoke Medical Center,Chemistry,HCPCS 83721,LDL cholesterol level,$17.00,MA
+Holyoke Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$32.00,MA
+Holyoke Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$25.00,MA
+Holyoke Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$31.00,MA
+Holyoke Medical Center,Chemistry,HCPCS 83970,Parathormone,$137.00,MA
+Holyoke Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$19.00,MA
+Holyoke Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$80.00,MA
+Holyoke Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$95.00,MA
+Holyoke Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$32.00,MA
+Holyoke Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$29.00,MA
+Holyoke Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$20.00,MA
+Holyoke Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$32.00,MA
+Holyoke Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$147.00,MA
+Holyoke Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$122.00,MA
+Holyoke Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$66.00,MA
+Holyoke Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$55.00,MA
+Holyoke Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$40.00,MA
+Holyoke Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$25.00,MA
+Holyoke Medical Center,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$44.00,MA
+Holyoke Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$44.00,MA
+Holyoke Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$45.00,MA
+Holyoke Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$31.00,MA
+Holyoke Medical Center,Immunology,HCPCS 86580,Skin test for tuberculosis,$16.00,MA
+Holyoke Medical Center,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$17.00,MA
+Holyoke Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$400.00,MA
+Holyoke Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$106.00,MA
+Holyoke Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$54.00,MA
+Holyoke Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$70.00,MA
+Holyoke Medical Center,Microbiology,HCPCS 87624,HPV Detection,$56.00,MA
+Holyoke Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$19.00,MA
+Holyoke Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$40.00,MA
+Holyoke Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$67.00,MA
+Holyoke Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$86.00,MA
+Holyoke Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$58.00,MA
+Holyoke Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$281.00,MA
+Holyoke Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$14.00,MA
+Holyoke Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$26.00,MA
+Holyoke Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$73.00,MA
+Holyoke Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$36.00,MA
+Holyoke Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$17.00,MA
+Holyoke Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$32.00,MA
+Holyoke Medical Center,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$120.00,MA
+Holyoke Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$132.00,MA
+Holyoke Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,$96.00,MA
+Holyoke Medical Center,Sleep,HCPCS 95810,Sleep study,"$2,294.00",MA
+Holyoke Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$275.00,MA
+Holyoke Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$442.00,MA
+Holyoke Medical Center,Breast,HCPCS 77067,Mammogram Screening,$489.00,MA
+Holyoke Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$523.00,MA
+Holyoke Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,586.00",MA
+Holyoke Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,070.00",MA
+Holyoke Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$917.00,MA
+Holyoke Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$2,959.00",MA
+Holyoke Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,731.00",MA
+Holyoke Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,034.00",MA
+Holyoke Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,328.00",MA
+Holyoke Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,447.00",MA
+Holyoke Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,151.00",MA
+Holyoke Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$968.00,MA
+Holyoke Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,271.00",MA
+Holyoke Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,740.00",MA
+Holyoke Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,735.00",MA
+Holyoke Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$3,074.00",MA
+Holyoke Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,862.00",MA
+Holyoke Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$2,825.00",MA
+Holyoke Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,770.00",MA
+Holyoke Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,134.00",MA
+Holyoke Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,768.00",MA
+Holyoke Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$1,856.00",MA
+Holyoke Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$594.00,MA
+Holyoke Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$453.00,MA
+Holyoke Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$347.00,MA
+Holyoke Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$641.00,MA
+Holyoke Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$579.00,MA
+Holyoke Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$372.00,MA
+Holyoke Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$482.00,MA
+Holyoke Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$253.00,MA
+Holyoke Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$192.00,MA
+Holyoke Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$195.00,MA
+Holyoke Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$443.00,MA
+Holyoke Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$100.00,MA
+Holyoke Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$215.00,MA
+Holyoke Medical Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$218.00,MA
+Holyoke Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$176.00,MA
+Holyoke Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$227.00,MA
+Holyoke Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$107.00,MA
+Holyoke Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$224.00,MA
+Holyoke Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$272.00,MA
+Holyoke Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$100.00,MA
+Holyoke Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$216.00,MA
+Holyoke Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$286.00,MA
+Holyoke Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$222.00,MA
+Holyoke Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$340.00,MA
+Holyoke Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$239.00,MA
+Holyoke Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$285.00,MA
+Holyoke Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$224.00,MA
+Holyoke Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$183.00,MA
+Holyoke Medical Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$186.00,MA
+Holyoke Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$222.00,MA
+Holyoke Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$222.00,MA
+Holyoke Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$216.00,MA
+Holyoke Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$188.00,MA
+Holyoke Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$222.00,MA
+Holyoke Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$3,608.07",MA
+Holyoke Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$3,065.45",MA
+Holyoke Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$4,672.00",MA
+Holyoke Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,877.40",MA
+Holyoke Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,644.01",MA
+Holyoke Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,423.78",MA
+Holyoke Medical Center,Digestive,HCPCS 43235,EGD,"$1,534.73",MA
+Holyoke Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$1,269.21",MA
+Holyoke Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$12,573.07",MA
+Holyoke Medical Center,General,HCPCS 55700,Biopsy of prostate gland,"$3,655.00",MA
+Holyoke Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$960.00,MA
+Holyoke Medical Center,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$776.00,MA
+Holyoke Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$31,901.19",MA
+Holyoke Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$2,334.98",MA
+Holyoke Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$2,160.45",MA
+Holyoke Medical Center,Ocular,HCPCS 66984,Cataract removal,"$1,502.59",MA
+Holyoke Medical Center,Ocular,HCPCS 66821,Laser cataract removal,$454.80,MA

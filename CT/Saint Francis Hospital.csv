@@ -1,0 +1,143 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Saint Francis Hospital,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$468.00,CT
+Saint Francis Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$213.58,CT
+Saint Francis Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$263.75,CT
+Saint Francis Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$191.15,CT
+Saint Francis Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$19.00,CT
+Saint Francis Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$16.40,CT
+Saint Francis Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$22.00,CT
+Saint Francis Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$46.00,CT
+Saint Francis Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$51.00,CT
+Saint Francis Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$36.00,CT
+Saint Francis Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$5.90,CT
+Saint Francis Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$15.55,CT
+Saint Francis Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$14.42,CT
+Saint Francis Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$6.30,CT
+Saint Francis Hospital,Chemistry,HCPCS 84132,Blood potassium level,$7.61,CT
+Saint Francis Hospital,Chemistry,HCPCS 84295,Blood sodium level,$7.25,CT
+Saint Francis Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$130.00,CT
+Saint Francis Hospital,Chemistry,HCPCS 82310,Calcium level,$7.29,CT
+Saint Francis Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$5.11,CT
+Saint Francis Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$59.00,CT
+Saint Francis Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$253.07,CT
+Saint Francis Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$17.17,CT
+Saint Francis Hospital,Chemistry,HCPCS 83735,Magnesium Level,$44.00,CT
+Saint Francis Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$19.00,CT
+Saint Francis Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$166.00,CT
+Saint Francis Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$5.17,CT
+Saint Francis Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$30.00,CT
+Saint Francis Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$35.00,CT
+Saint Francis Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$50.00,CT
+Saint Francis Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$158.00,CT
+Saint Francis Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$47.00,CT
+Saint Francis Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$44.00,CT
+Saint Francis Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$149.00,CT
+Saint Francis Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$197.62,CT
+Saint Francis Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$149.00,CT
+Saint Francis Hospital,Microbiology,HCPCS 87624,HPV Detection,$169.00,CT
+Saint Francis Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$111.00,CT
+Saint Francis Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$65.00,CT
+Saint Francis Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$72.00,CT
+Saint Francis Hospital,Microbiology,HCPCS 87045,Stool Culture,$59.00,CT
+Saint Francis Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$55.00,CT
+Saint Francis Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$68.00,CT
+Saint Francis Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$84.00,CT
+Saint Francis Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$44.00,CT
+Saint Francis Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$99.92,CT
+Saint Francis Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$39.00,CT
+Saint Francis Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$39.00,CT
+Saint Francis Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$71.00,CT
+Saint Francis Hospital,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$31.00,CT
+Saint Francis Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$17.00,CT
+Saint Francis Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$1,433.00",CT
+Saint Francis Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$220.00,CT
+Saint Francis Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,541.00",CT
+Saint Francis Hospital,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$510.00,CT
+Saint Francis Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$510.00,CT
+Saint Francis Hospital,Sleep,HCPCS 95810,Sleep study,"$5,214.00",CT
+Saint Francis Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$619.94,CT
+Saint Francis Hospital,Breast,HCPCS 77067,Mammogram Screening,$810.54,CT
+Saint Francis Hospital,Breast,HCPCS 77066,Mammography of both breasts,$991.57,CT
+Saint Francis Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$2,637.00",CT
+Saint Francis Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,116.00",CT
+Saint Francis Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,282.00",CT
+Saint Francis Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$2,608.00",CT
+Saint Francis Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,420.00",CT
+Saint Francis Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,083.00",CT
+Saint Francis Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,768.00",CT
+Saint Francis Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,945.00",CT
+Saint Francis Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$2,198.00",CT
+Saint Francis Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,095.00",CT
+Saint Francis Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,640.00",CT
+Saint Francis Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,616.00",CT
+Saint Francis Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,872.00",CT
+Saint Francis Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,192.00",CT
+Saint Francis Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,192.00",CT
+Saint Francis Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,845.00",CT
+Saint Francis Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,192.00",CT
+Saint Francis Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$2,793.00",CT
+Saint Francis Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,927.00",CT
+Saint Francis Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,436.00",CT
+Saint Francis Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$4,004.00",CT
+Saint Francis Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,935.00",CT
+Saint Francis Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$1,973.43",CT
+Saint Francis Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$833.00,CT
+Saint Francis Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$775.00,CT
+Saint Francis Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$872.00,CT
+Saint Francis Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$772.00,CT
+Saint Francis Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$787.12,CT
+Saint Francis Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,268.00",CT
+Saint Francis Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,156.00",CT
+Saint Francis Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$580.00,CT
+Saint Francis Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$569.00,CT
+Saint Francis Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$418.00,CT
+Saint Francis Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$380.00,CT
+Saint Francis Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$485.06,CT
+Saint Francis Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$432.68,CT
+Saint Francis Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$446.04,CT
+Saint Francis Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$395.75,CT
+Saint Francis Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$616.71,CT
+Saint Francis Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$388.66,CT
+Saint Francis Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$649.00,CT
+Saint Francis Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$418.00,CT
+Saint Francis Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$464.00,CT
+Saint Francis Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$433.71,CT
+Saint Francis Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$380.00,CT
+Saint Francis Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$485.27,CT
+Saint Francis Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$439.30,CT
+Saint Francis Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$442.44,CT
+Saint Francis Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$22,143.93",CT
+Saint Francis Hospital,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$22,012.59",CT
+Saint Francis Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$20,841.45",CT
+Saint Francis Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$53,204.00",CT
+Saint Francis Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$19,967.26",CT
+Saint Francis Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$11,387.34",CT
+Saint Francis Hospital,Breast,HCPCS 19120,Excision of cyst of breast,"$15,503.90",CT
+Saint Francis Hospital,Breast,HCPCS 19301,Partial removal of breast,"$15,057.51",CT
+Saint Francis Hospital,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,"$110,147.00",CT
+Saint Francis Hospital,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$181,230.00",CT
+Saint Francis Hospital,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$136,498.00",CT
+Saint Francis Hospital,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$13,211.00",CT
+Saint Francis Hospital,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$794.00,CT
+Saint Francis Hospital,Cardiac,MSDRG 247,Implant drug-eluting stent,"$66,523.00",CT
+Saint Francis Hospital,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$64,672.00",CT
+Saint Francis Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$7,409.23",CT
+Saint Francis Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$6,825.23",CT
+Saint Francis Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$6,463.15",CT
+Saint Francis Hospital,Digestive,HCPCS 43235,EGD,"$7,670.28",CT
+Saint Francis Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$6,130.10",CT
+Saint Francis Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$53,630.00",CT
+Saint Francis Hospital,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$93,282.00",CT
+Saint Francis Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$3,380.32",CT
+Saint Francis Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$7,607.38",CT
+Saint Francis Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$2,607.66",CT
+Saint Francis Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$45,130.00",CT
+Saint Francis Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$14,132.51",CT
+Saint Francis Hospital,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$8,627.33",CT
+Saint Francis Hospital,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$56,517.00",CT
+Saint Francis Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$65,377.00",CT
+Saint Francis Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$15,114.12",CT
+Saint Francis Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$32,009.00",CT
+Saint Francis Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$26,200.00",CT
+Saint Francis Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$821.27,CT
+Saint Francis Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$2,117.00",CT

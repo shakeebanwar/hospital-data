@@ -1,0 +1,271 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+The Medical Center Of Aurora,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$20,601.19",CO
+The Medical Center Of Aurora,Emergency Care,HCPCS 99281,Emergency Level 1,$949.26,CO
+The Medical Center Of Aurora,Emergency Care,HCPCS 99282,Emergency Level 2,"$2,307.97",CO
+The Medical Center Of Aurora,Emergency Care,HCPCS 99283,Emergency Level 3,"$5,242.16",CO
+The Medical Center Of Aurora,Emergency Care,HCPCS 99284,Emergency Level 4,"$8,784.16",CO
+The Medical Center Of Aurora,Emergency Care,HCPCS 99285,Emergency Level 5,"$17,578.24",CO
+The Medical Center Of Aurora,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$979.99,CO
+The Medical Center Of Aurora,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min","$1,108.12",CO
+The Medical Center Of Aurora,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$809.75,CO
+The Medical Center Of Aurora,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$649.72,CO
+The Medical Center Of Aurora,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$649.72,CO
+The Medical Center Of Aurora,Psychology,HCPCS 90853,Group psychotherapy,$307.41,CO
+The Medical Center Of Aurora,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$534.05,CO
+The Medical Center Of Aurora,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$419.91,CO
+The Medical Center Of Aurora,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$558.24,CO
+The Medical Center Of Aurora,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$558.24,CO
+The Medical Center Of Aurora,Blood,HCPCS 85018,"Blood count, hemoglobin",$151.84,CO
+The Medical Center Of Aurora,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$151.84,CO
+The Medical Center Of Aurora,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$273.49,CO
+The Medical Center Of Aurora,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$812.85,CO
+The Medical Center Of Aurora,Blood,HCPCS 85610,"Blood test, clotting time",$237.63,CO
+The Medical Center Of Aurora,Blood,HCPCS 85730,Coagulation assessment blood test,$402.61,CO
+The Medical Center Of Aurora,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$349.83,CO
+The Medical Center Of Aurora,Blood,HCPCS 85027,"Complete blood count, automated",$625.58,CO
+The Medical Center Of Aurora,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$740.19,CO
+The Medical Center Of Aurora,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,"$1,222.07",CO
+The Medical Center Of Aurora,Blood,HCPCS 85660,Red blood cell sickling measurement,$661.90,CO
+The Medical Center Of Aurora,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$1,460.72",CO
+The Medical Center Of Aurora,Blood,HCPCS 85041,"Red blood count, automated test",$14.89,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,"$2,478.94",CO
+The Medical Center Of Aurora,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,"$1,502.08",CO
+The Medical Center Of Aurora,Chemistry,HCPCS 82040,Albumin (protein) level,$553.48,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$591.21,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$740.19,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 82140,Ammonia level,$991.99,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 82150,Amylase (enzyme) level,$777.02,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$848.64,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,"$1,228.63",CO
+The Medical Center Of Aurora,Chemistry,HCPCS 84439,Assay of free thyroxine,$711.93,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$862.76,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 82248,Bilirubin level (Direct),$481.82,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 82247,Bilirubin level (Total),$481.82,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 82565,Blood creatinine level,$626.14,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$266.87,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 84295,Blood sodium level,$338.51,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$561.04,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$338.51,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)","$1,136.21",CO
+The Medical Center Of Aurora,Chemistry,HCPCS 82310,Calcium level,$561.04,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$338.51,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,"$1,114.54",CO
+The Medical Center Of Aurora,Chemistry,HCPCS 82465,Cholesterol level,$561.04,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 82525,Copper level,$862.76,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 82533,Cortisol Measurement,$711.93,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 84681,C-peptide (protein) level,"$1,041.98",CO
+The Medical Center Of Aurora,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,"$1,200.36",CO
+The Medical Center Of Aurora,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$787.14,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,"$1,136.21",CO
+The Medical Center Of Aurora,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level","$1,222.07",CO
+The Medical Center Of Aurora,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$640.22,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 82746,Folic acid; serum,"$1,207.89",CO
+The Medical Center Of Aurora,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$590.32,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$561.04,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$777.02,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level","$1,301.26",CO
+The Medical Center Of Aurora,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,"$1,265.40",CO
+The Medical Center Of Aurora,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$848.64,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 83718,HDL cholesterol level,$806.18,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 83020,Hemoglobin Measurement,$82.03,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$726.98,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$236.16,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$780.45,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 83525,Insulin Measurement; Total,"$1,164.52",CO
+The Medical Center Of Aurora,Chemistry,HCPCS 82330,Ionized Calcium,$705.32,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 83550,Iron Binding Capacity,$626.14,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 83540,Iron level,$517.67,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$777.02,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$855.24,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$561.04,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$740.19,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 83021,Liver function blood test panel,"$1,739.69",CO
+The Medical Center Of Aurora,Chemistry,HCPCS 83735,Magnesium Level,$377.19,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 82542,Mass spectrometry,$848.33,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$589.35,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$777.02,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 83918,Organic acid level,"$2,740.13",CO
+The Medical Center Of Aurora,Chemistry,HCPCS 83945,Oxalate level,"$1,954.71",CO
+The Medical Center Of Aurora,Chemistry,HCPCS 83970,Parathormone,"$1,222.07",CO
+The Medical Center Of Aurora,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$855.24,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 84157,Prealbumin (protein) level,$777.02,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$997.66,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,"$1,523.80",CO
+The Medical Center Of Aurora,Chemistry,HCPCS 84165,"Protein Measurement, Serum","$1,272.00",CO
+The Medical Center Of Aurora,Chemistry,HCPCS 82270,Stool analysis for blood,$195.17,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 84403,Testosterone (hormone) level,"$1,660.51",CO
+The Medical Center Of Aurora,Chemistry,HCPCS 84402,Testosterone Level; Free,"$1,191.86",CO
+The Medical Center Of Aurora,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$726.98,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,"$1,134.36",CO
+The Medical Center Of Aurora,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$898.63,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 84155,"Total protein level, blood",$561.04,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$711.93,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 84166,Troponin (protein) analysis,"$1,272.00",CO
+The Medical Center Of Aurora,Chemistry,HCPCS 84560,Uric acid level,"$1,028.73",CO
+The Medical Center Of Aurora,Chemistry,HCPCS 84550,"Uric acid level, blood",$941.97,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 82340,Urine calcium level,$561.04,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 82436,Urine chloride level,"$1,200.36",CO
+The Medical Center Of Aurora,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$604.42,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$862.76,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,"$1,128.70",CO
+The Medical Center Of Aurora,Chemistry,HCPCS 84133,Urine potassium level,$784.51,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 84300,Urine sodium level,$553.48,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 84591,Vitamin B-6 level,$758.15,CO
+The Medical Center Of Aurora,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,"$1,114.54",CO
+The Medical Center Of Aurora,Chemistry,HCPCS 84630,Zinc level,"$1,480.42",CO
+The Medical Center Of Aurora,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),"$1,096.62",CO
+The Medical Center Of Aurora,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$848.64,CO
+The Medical Center Of Aurora,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$292.28,CO
+The Medical Center Of Aurora,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$204.60,CO
+The Medical Center Of Aurora,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$661.90,CO
+The Medical Center Of Aurora,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$590.32,CO
+The Medical Center Of Aurora,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,"$1,128.70",CO
+The Medical Center Of Aurora,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$511.09,CO
+The Medical Center Of Aurora,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$511.09,CO
+The Medical Center Of Aurora,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$133.31,CO
+The Medical Center Of Aurora,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$674.19,CO
+The Medical Center Of Aurora,Immunology,HCPCS 86140,Measurement C-reactive protein,$719.48,CO
+The Medical Center Of Aurora,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$169.75,CO
+The Medical Center Of Aurora,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$511.13,CO
+The Medical Center Of Aurora,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$281.06,CO
+The Medical Center Of Aurora,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,"$1,107.02",CO
+The Medical Center Of Aurora,Immunology,HCPCS 86431,Rheumatoid factor level,$769.45,CO
+The Medical Center Of Aurora,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$474.44,CO
+The Medical Center Of Aurora,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$453.54,CO
+The Medical Center Of Aurora,Immunology,HCPCS 86580,Skin test for tuberculosis,$346.47,CO
+The Medical Center Of Aurora,Immunology,HCPCS 86592,Syphilis Detection Test,$475.24,CO
+The Medical Center Of Aurora,Immunology,HCPCS 86361,T cell count and ratio,"$1,288.05",CO
+The Medical Center Of Aurora,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio","$1,013.68",CO
+The Medical Center Of Aurora,Immunology,HCPCS 86359,"T cells count, total",$619.52,CO
+The Medical Center Of Aurora,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,"$1,279.59",CO
+The Medical Center Of Aurora,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$96.25,CO
+The Medical Center Of Aurora,Microbiology,HCPCS 87070,"Bacterial Culture, any source ","$1,128.70",CO
+The Medical Center Of Aurora,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$777.02,CO
+The Medical Center Of Aurora,Microbiology,HCPCS 87491,Chlamydia Test,"$1,121.13",CO
+The Medical Center Of Aurora,Microbiology,HCPCS 87635,Covid-19 current infection test,$125.40,CO
+The Medical Center Of Aurora,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$870.35,CO
+The Medical Center Of Aurora,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$870.35,CO
+The Medical Center Of Aurora,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification","$1,739.69",CO
+The Medical Center Of Aurora,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$590.32,CO
+The Medical Center Of Aurora,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification","$2,797.63",CO
+The Medical Center Of Aurora,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,"$1,121.13",CO
+The Medical Center Of Aurora,Microbiology,HCPCS 87517,Hepatitis B Detection,"$1,170.18",CO
+The Medical Center Of Aurora,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,"$1,065.88",CO
+The Medical Center Of Aurora,Microbiology,HCPCS 87624,HPV Detection,$187.92,CO
+The Medical Center Of Aurora,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,"$6,223.32",CO
+The Medical Center Of Aurora,Microbiology,HCPCS 86735,Mumps virus antibody test,$320.60,CO
+The Medical Center Of Aurora,Microbiology,HCPCS 86747,Parvovirus antibody test,$941.97,CO
+The Medical Center Of Aurora,Microbiology,HCPCS 86762,Rubella virus antibody test,$676.10,CO
+The Medical Center Of Aurora,Microbiology,HCPCS 86765,Rubeola virus antibody test,$769.45,CO
+The Medical Center Of Aurora,Microbiology,HCPCS 87207,Smear for infectious agents,$546.92,CO
+The Medical Center Of Aurora,Microbiology,HCPCS 87177,Smear for Parasites,$892.03,CO
+The Medical Center Of Aurora,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,"$1,007.08",CO
+The Medical Center Of Aurora,Microbiology,HCPCS 87045,Stool Culture,$840.20,CO
+The Medical Center Of Aurora,Microbiology,HCPCS 87880,Strep Test,$590.32,CO
+The Medical Center Of Aurora,Microbiology,HCPCS 87804,Test for Influenza Virus,$496.00,CO
+The Medical Center Of Aurora,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$532.77,CO
+The Medical Center Of Aurora,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$784.51,CO
+The Medical Center Of Aurora,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,"$3,010.77",CO
+The Medical Center Of Aurora,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,"$2,407.27",CO
+The Medical Center Of Aurora,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,"$1,078.74",CO
+The Medical Center Of Aurora,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals","$1,322.92",CO
+The Medical Center Of Aurora,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)","$1,444.59",CO
+The Medical Center Of Aurora,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,"$1,380.47",CO
+The Medical Center Of Aurora,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,"$1,114.54",CO
+The Medical Center Of Aurora,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,"$1,060.82",CO
+The Medical Center Of Aurora,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$933.50,CO
+The Medical Center Of Aurora,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,"$1,242.77",CO
+The Medical Center Of Aurora,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$632.72,CO
+The Medical Center Of Aurora,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,"$2,375.18",CO
+The Medical Center Of Aurora,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$599.74,CO
+The Medical Center Of Aurora,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$806.18,CO
+The Medical Center Of Aurora,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$819.38,CO
+The Medical Center Of Aurora,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$876.95,CO
+The Medical Center Of Aurora,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,"$1,523.80",CO
+The Medical Center Of Aurora,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,"$1,265.40",CO
+The Medical Center Of Aurora,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,"$1,128.70",CO
+The Medical Center Of Aurora,Transfusion,HCPCS 86900,"Blood Typing, ABO",$338.89,CO
+The Medical Center Of Aurora,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$338.89,CO
+The Medical Center Of Aurora,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$857.18,CO
+The Medical Center Of Aurora,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$584.84,CO
+The Medical Center Of Aurora,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$633.05,CO
+The Medical Center Of Aurora,Transfusion,HCPCS 86906,Screening test for compatible blood unit,"$1,742.86",CO
+The Medical Center Of Aurora,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$590.95,CO
+The Medical Center Of Aurora,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$231.02,CO
+The Medical Center Of Aurora,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$231.02,CO
+The Medical Center Of Aurora,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$733.63,CO
+The Medical Center Of Aurora,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$467.71,CO
+The Medical Center Of Aurora,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$5,099.82",CO
+The Medical Center Of Aurora,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$823.93,CO
+The Medical Center Of Aurora,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,"$2,423.31",CO
+The Medical Center Of Aurora,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$2,389.97",CO
+The Medical Center Of Aurora,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$3,841.61",CO
+The Medical Center Of Aurora,Pulmonary,HCPCS 94729,CO Diffusion Capacity,"$2,155.22",CO
+The Medical Center Of Aurora,Pulmonary,HCPCS 94640,Nebulizer Treatment,$474.32,CO
+The Medical Center Of Aurora,Pulmonary,HCPCS 94618,Pulmonary stress test,$352.93,CO
+The Medical Center Of Aurora,Pulmonary,HCPCS 94010,Spirometry - breathing test,$727.64,CO
+The Medical Center Of Aurora,Sleep,HCPCS 95810,Sleep study,"$13,057.63",CO
+The Medical Center Of Aurora,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$56.45,CO
+The Medical Center Of Aurora,Breast,HCPCS 77067,Mammogram Screening,"$1,060.90",CO
+The Medical Center Of Aurora,Breast,HCPCS 77066,Mammography of both breasts,"$1,294.59",CO
+The Medical Center Of Aurora,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$11,226.40",CO
+The Medical Center Of Aurora,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$8,471.41",CO
+The Medical Center Of Aurora,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$8,471.41",CO
+The Medical Center Of Aurora,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$8,471.41",CO
+The Medical Center Of Aurora,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$16,719.91",CO
+The Medical Center Of Aurora,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$14,490.59",CO
+The Medical Center Of Aurora,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$11,146.62",CO
+The Medical Center Of Aurora,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$11,815.41",CO
+The Medical Center Of Aurora,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$16,719.91",CO
+The Medical Center Of Aurora,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$11,815.41",CO
+The Medical Center Of Aurora,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$8,471.41",CO
+The Medical Center Of Aurora,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$11,815.41",CO
+The Medical Center Of Aurora,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$11,815.41",CO
+The Medical Center Of Aurora,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$5,606.19",CO
+The Medical Center Of Aurora,MRI,HCPCS 72146,MRI chest spine without contrast material,"$8,187.03",CO
+The Medical Center Of Aurora,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$8,187.03",CO
+The Medical Center Of Aurora,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$10,183.87",CO
+The Medical Center Of Aurora,MRI,HCPCS 72141,MRI neck spine without contrast material,"$8,187.03",CO
+The Medical Center Of Aurora,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$10,183.87",CO
+The Medical Center Of Aurora,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$10,183.87",CO
+The Medical Center Of Aurora,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$10,183.87",CO
+The Medical Center Of Aurora,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$8,190.26",CO
+The Medical Center Of Aurora,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$2,117.18",CO
+The Medical Center Of Aurora,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,"$1,516.44",CO
+The Medical Center Of Aurora,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$2,918.79",CO
+The Medical Center Of Aurora,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$2,689.66",CO
+The Medical Center Of Aurora,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$3,433.68",CO
+The Medical Center Of Aurora,Ultrasound,HCPCS 76881,Ultrasound Joint Soft Tissue - Complete,"$2,088.89",CO
+The Medical Center Of Aurora,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$3,362.49",CO
+The Medical Center Of Aurora,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$2,603.82",CO
+The Medical Center Of Aurora,Ultrasound,HCPCS 76857,Ultrasound of pelvis,"$1,044.43",CO
+The Medical Center Of Aurora,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$4,112.93",CO
+The Medical Center Of Aurora,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,411.47",CO
+The Medical Center Of Aurora,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views","$4,509.16",CO
+The Medical Center Of Aurora,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views","$3,324.77",CO
+The Medical Center Of Aurora,Chest,HCPCS 71046,X-ray of chest; 2 Views,"$1,636.07",CO
+The Medical Center Of Aurora,Chest,HCPCS 71045,X-ray of chest; Single View,"$1,055.64",CO
+The Medical Center Of Aurora,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views","$2,377.52",CO
+The Medical Center Of Aurora,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views","$1,895.54",CO
+The Medical Center Of Aurora,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,"$3,791.14",CO
+The Medical Center Of Aurora,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views","$2,613.58",CO
+The Medical Center Of Aurora,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,"$1,566.81",CO
+The Medical Center Of Aurora,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$864.37,CO
+The Medical Center Of Aurora,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views","$2,850.71",CO
+The Medical Center Of Aurora,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views","$5,701.38",CO
+The Medical Center Of Aurora,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views","$2,822.38",CO
+The Medical Center Of Aurora,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views","$1,430.24",CO
+The Medical Center Of Aurora,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views","$1,895.54",CO
+The Medical Center Of Aurora,Lower Limbs,HCPCS 73565,X-ray Both Knees,"$1,239.00",CO
+The Medical Center Of Aurora,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views","$2,522.88",CO
+The Medical Center Of Aurora,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$4,738.42",CO
+The Medical Center Of Aurora,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views","$2,850.71",CO
+The Medical Center Of Aurora,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views","$3,470.15",CO
+The Medical Center Of Aurora,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views","$1,873.10",CO
+The Medical Center Of Aurora,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views","$1,155.11",CO
+The Medical Center Of Aurora,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers","$1,336.70",CO
+The Medical Center Of Aurora,Soft Tissue,HCPCS 97597,Debridement of open wound,$623.11,CO
+The Medical Center Of Aurora,Soft Tissue,HCPCS 97602,Non-selective debridement,$399.76,CO
+The Medical Center Of Aurora,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$432.04,CO
+The Medical Center Of Aurora,Vascular,HCPCS 36416,Collection of capillary blood specimen,$78.30,CO
+The Medical Center Of Aurora,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$4,600.62",CO

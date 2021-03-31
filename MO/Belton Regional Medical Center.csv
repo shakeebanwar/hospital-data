@@ -1,0 +1,256 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Belton Regional Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$9,193.90",MO
+Belton Regional Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$540.63,MO
+Belton Regional Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$880.12,MO
+Belton Regional Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$1,514.08",MO
+Belton Regional Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$3,563.97",MO
+Belton Regional Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$6,264.70",MO
+Belton Regional Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$977.16,MO
+Belton Regional Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min","$1,244.88",MO
+Belton Regional Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$779.56,MO
+Belton Regional Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$116.77,MO
+Belton Regional Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$116.77,MO
+Belton Regional Medical Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$595.99,MO
+Belton Regional Medical Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$629.74,MO
+Belton Regional Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$69.08,MO
+Belton Regional Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$307.11,MO
+Belton Regional Medical Center,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$304.00,MO
+Belton Regional Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$412.00,MO
+Belton Regional Medical Center,Blood,HCPCS 85008,Microscopic examination for white blood cells,$361.11,MO
+Belton Regional Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$182.91,MO
+Belton Regional Medical Center,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$254.00,MO
+Belton Regional Medical Center,Blood,HCPCS 85660,Red blood cell sickling measurement,$304.00,MO
+Belton Regional Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$512.00,MO
+Belton Regional Medical Center,Blood,HCPCS 85041,"Red blood count, automated test",$160.00,MO
+Belton Regional Medical Center,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$371.91,MO
+Belton Regional Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$517.00,MO
+Belton Regional Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$167.00,MO
+Belton Regional Medical Center,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$659.44,MO
+Belton Regional Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$361.11,MO
+Belton Regional Medical Center,Chemistry,HCPCS 82140,Ammonia level,$282.00,MO
+Belton Regional Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$343.56,MO
+Belton Regional Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$518.00,MO
+Belton Regional Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$965.00,MO
+Belton Regional Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$444.00,MO
+Belton Regional Medical Center,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$711.00,MO
+Belton Regional Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$307.11,MO
+Belton Regional Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$307.11,MO
+Belton Regional Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$218.01,MO
+Belton Regional Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$218.01,MO
+Belton Regional Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$147.81,MO
+Belton Regional Medical Center,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$385.40,MO
+Belton Regional Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$307.11,MO
+Belton Regional Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$556.00,MO
+Belton Regional Medical Center,Chemistry,HCPCS 82310,Calcium level,$270.66,MO
+Belton Regional Medical Center,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$160.00,MO
+Belton Regional Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$705.34,MO
+Belton Regional Medical Center,Chemistry,HCPCS 82465,Cholesterol level,$292.26,MO
+Belton Regional Medical Center,Chemistry,HCPCS 82525,Copper level,$932.12,MO
+Belton Regional Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$178.00,MO
+Belton Regional Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$741.79,MO
+Belton Regional Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$358.40,MO
+Belton Regional Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$270.66,MO
+Belton Regional Medical Center,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$863.00,MO
+Belton Regional Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$603.00,MO
+Belton Regional Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$282.00,MO
+Belton Regional Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$270.66,MO
+Belton Regional Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$521.75,MO
+Belton Regional Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$341.00,MO
+Belton Regional Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$292.26,MO
+Belton Regional Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$510.95,MO
+Belton Regional Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$482.00,MO
+Belton Regional Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$236.91,MO
+Belton Regional Medical Center,Chemistry,HCPCS 83718,HDL cholesterol level,$458.00,MO
+Belton Regional Medical Center,Chemistry,HCPCS 83020,Hemoglobin Measurement,$182.00,MO
+Belton Regional Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$556.00,MO
+Belton Regional Medical Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$832.00,MO
+Belton Regional Medical Center,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,"$1,203.46",MO
+Belton Regional Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$891.00,MO
+Belton Regional Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$296.31,MO
+Belton Regional Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$385.40,MO
+Belton Regional Medical Center,Chemistry,HCPCS 83540,Iron level,$341.00,MO
+Belton Regional Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$311.00,MO
+Belton Regional Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$327.36,MO
+Belton Regional Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$292.26,MO
+Belton Regional Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$451.00,MO
+Belton Regional Medical Center,Chemistry,HCPCS 83021,Liver function blood test panel,$95.17,MO
+Belton Regional Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$218.01,MO
+Belton Regional Medical Center,Chemistry,HCPCS 82542,Mass spectrometry,$197.00,MO
+Belton Regional Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$152.00,MO
+Belton Regional Medical Center,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$343.56,MO
+Belton Regional Medical Center,Chemistry,HCPCS 83918,Organic acid level,"$1,034.72",MO
+Belton Regional Medical Center,Chemistry,HCPCS 83945,Oxalate level,$444.00,MO
+Belton Regional Medical Center,Chemistry,HCPCS 83970,Parathormone,"$1,256.00",MO
+Belton Regional Medical Center,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$236.91,MO
+Belton Regional Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$327.36,MO
+Belton Regional Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$434.01,MO
+Belton Regional Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$603.00,MO
+Belton Regional Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$818.73,MO
+Belton Regional Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$137.00,MO
+Belton Regional Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$825.48,MO
+Belton Regional Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$825.48,MO
+Belton Regional Medical Center,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$304.00,MO
+Belton Regional Medical Center,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$682.38,MO
+Belton Regional Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$307.11,MO
+Belton Regional Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$282.00,MO
+Belton Regional Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$292.26,MO
+Belton Regional Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$485.00,MO
+Belton Regional Medical Center,Chemistry,HCPCS 84560,Uric acid level,$218.01,MO
+Belton Regional Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$304.00,MO
+Belton Regional Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$371.91,MO
+Belton Regional Medical Center,Chemistry,HCPCS 82436,Urine chloride level,$257.16,MO
+Belton Regional Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$236.91,MO
+Belton Regional Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$292.26,MO
+Belton Regional Medical Center,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$770.13,MO
+Belton Regional Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$307.11,MO
+Belton Regional Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$172.11,MO
+Belton Regional Medical Center,Chemistry,HCPCS 84591,Vitamin B-6 level,$394.85,MO
+Belton Regional Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$659.44,MO
+Belton Regional Medical Center,Chemistry,HCPCS 84630,Zinc level,$361.11,MO
+Belton Regional Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$398.00,MO
+Belton Regional Medical Center,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$158.00,MO
+Belton Regional Medical Center,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$517.00,MO
+Belton Regional Medical Center,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$398.00,MO
+Belton Regional Medical Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$98.00,MO
+Belton Regional Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$220.71,MO
+Belton Regional Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$257.16,MO
+Belton Regional Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$440.75,MO
+Belton Regional Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$547.40,MO
+Belton Regional Medical Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$638.00,MO
+Belton Regional Medical Center,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$69.00,MO
+Belton Regional Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$521.75,MO
+Belton Regional Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$69.00,MO
+Belton Regional Medical Center,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$296.31,MO
+Belton Regional Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$547.40,MO
+Belton Regional Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$592.00,MO
+Belton Regional Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$311.00,MO
+Belton Regional Medical Center,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$316.00,MO
+Belton Regional Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$270.66,MO
+Belton Regional Medical Center,Immunology,HCPCS 86580,Skin test for tuberculosis,$123.81,MO
+Belton Regional Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$292.26,MO
+Belton Regional Medical Center,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$367.85,MO
+Belton Regional Medical Center,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$592.00,MO
+Belton Regional Medical Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$257.16,MO
+Belton Regional Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$203.00,MO
+Belton Regional Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$595.99,MO
+Belton Regional Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$905.13,MO
+Belton Regional Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$146.00,MO
+Belton Regional Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$482.00,MO
+Belton Regional Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$547.40,MO
+Belton Regional Medical Center,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification","$1,173.00",MO
+Belton Regional Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$905.13,MO
+Belton Regional Medical Center,Microbiology,HCPCS 87517,Hepatitis B Detection,$280.11,MO
+Belton Regional Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,"$1,587.00",MO
+Belton Regional Medical Center,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$343.56,MO
+Belton Regional Medical Center,Microbiology,HCPCS 86735,Mumps virus antibody test,$998.00,MO
+Belton Regional Medical Center,Microbiology,HCPCS 86747,Parvovirus antibody test,$434.01,MO
+Belton Regional Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$517.00,MO
+Belton Regional Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$517.00,MO
+Belton Regional Medical Center,Microbiology,HCPCS 87207,Smear for infectious agents,$192.36,MO
+Belton Regional Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$521.75,MO
+Belton Regional Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$343.56,MO
+Belton Regional Medical Center,Microbiology,HCPCS 87045,Stool Culture,$595.99,MO
+Belton Regional Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,"$1,304.00",MO
+Belton Regional Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$124.87,MO
+Belton Regional Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$909.00,MO
+Belton Regional Medical Center,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$318.00,MO
+Belton Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,"$1,955.00",MO
+Belton Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$741.79,MO
+Belton Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals","$1,256.00",MO
+Belton Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)","$1,122.00",MO
+Belton Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,"$1,000.97",MO
+Belton Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$848.43,MO
+Belton Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,"$2,720.78",MO
+Belton Regional Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$371.91,MO
+Belton Regional Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$501.00,MO
+Belton Regional Medical Center,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,"$1,131.00",MO
+Belton Regional Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$434.01,MO
+Belton Regional Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,"$1,342.91",MO
+Belton Regional Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$56.00,MO
+Belton Regional Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$307.11,MO
+Belton Regional Medical Center,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$653.00,MO
+Belton Regional Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$402.00,MO
+Belton Regional Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$482.00,MO
+Belton Regional Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$653.00,MO
+Belton Regional Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$458.00,MO
+Belton Regional Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$167.00,MO
+Belton Regional Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$223.42,MO
+Belton Regional Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$311.00,MO
+Belton Regional Medical Center,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$119.00,MO
+Belton Regional Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$83.00,MO
+Belton Regional Medical Center,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$217.00,MO
+Belton Regional Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$324.00,MO
+Belton Regional Medical Center,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$230.16,MO
+Belton Regional Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$175.00,MO
+Belton Regional Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$319.26,MO
+Belton Regional Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$304.00,MO
+Belton Regional Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$4,001.46",MO
+Belton Regional Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$1,240.85",MO
+Belton Regional Medical Center,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$714.73,MO
+Belton Regional Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,"$4,557.84",MO
+Belton Regional Medical Center,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$1,522.38",MO
+Belton Regional Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$3,565.06",MO
+Belton Regional Medical Center,Pulmonary,HCPCS 94729,CO Diffusion Capacity,$241.13,MO
+Belton Regional Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,$136.00,MO
+Belton Regional Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$385.22,MO
+Belton Regional Medical Center,Sleep,HCPCS 95810,Sleep study,"$10,874.45",MO
+Belton Regional Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$44.90,MO
+Belton Regional Medical Center,Breast,HCPCS 77067,Mammogram Screening,$880.19,MO
+Belton Regional Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$951.29,MO
+Belton Regional Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$13,171.20",MO
+Belton Regional Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$8,629.45",MO
+Belton Regional Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$6,724.68",MO
+Belton Regional Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$8,599.90",MO
+Belton Regional Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$17,351.16",MO
+Belton Regional Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$13,755.68",MO
+Belton Regional Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$13,755.68",MO
+Belton Regional Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$8,629.45",MO
+Belton Regional Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$10,639.45",MO
+Belton Regional Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$9,777.50",MO
+Belton Regional Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$9,777.50",MO
+Belton Regional Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$6,363.63",MO
+Belton Regional Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$7,103.05",MO
+Belton Regional Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$12,630.20",MO
+Belton Regional Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$9,706.82",MO
+Belton Regional Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$9,706.82",MO
+Belton Regional Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$14,716.00",MO
+Belton Regional Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$9,706.82",MO
+Belton Regional Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$14,569.67",MO
+Belton Regional Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$12,046.18",MO
+Belton Regional Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$14,716.00",MO
+Belton Regional Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$7,602.80",MO
+Belton Regional Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$1,866.68",MO
+Belton Regional Medical Center,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,"$2,907.04",MO
+Belton Regional Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$2,670.51",MO
+Belton Regional Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$2,173.55",MO
+Belton Regional Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$2,313.12",MO
+Belton Regional Medical Center,Ultrasound,HCPCS 76881,Ultrasound Joint Soft Tissue - Complete,$575.95,MO
+Belton Regional Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$4,768.46",MO
+Belton Regional Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$2,345.68",MO
+Belton Regional Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,"$2,173.55",MO
+Belton Regional Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$4,561.89",MO
+Belton Regional Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$735.75,MO
+Belton Regional Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views","$2,829.21",MO
+Belton Regional Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,"$2,365.90",MO
+Belton Regional Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,"$1,398.13",MO
+Belton Regional Medical Center,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views","$1,931.78",MO
+Belton Regional Medical Center,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views","$1,526.12",MO
+Belton Regional Medical Center,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,"$3,317.19",MO
+Belton Regional Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views","$2,130.13",MO
+Belton Regional Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$688.58,MO
+Belton Regional Medical Center,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views","$1,038.12",MO
+Belton Regional Medical Center,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views","$2,976.64",MO
+Belton Regional Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$452.18,MO
+Belton Regional Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$273.04,MO
+Belton Regional Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views","$1,568.02",MO
+Belton Regional Medical Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views","$2,460.20",MO
+Belton Regional Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,"$1,398.13",MO
+Belton Regional Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$273.04,MO
+Belton Regional Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$3,411.51",MO
+Belton Regional Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views","$2,233.00",MO
+Belton Regional Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views","$3,424.98",MO
+Belton Regional Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views","$1,514.15",MO
+Belton Regional Medical Center,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$950.41,MO
+Belton Regional Medical Center,Soft Tissue,HCPCS 97602,Non-selective debridement,$385.74,MO
+Belton Regional Medical Center,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$149.64,MO
+Belton Regional Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,764.00",MO

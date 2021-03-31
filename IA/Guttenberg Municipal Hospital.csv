@@ -1,0 +1,238 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Guttenberg Municipal Hospital,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$1,140.00",IA
+Guttenberg Municipal Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,588.00",IA
+Guttenberg Municipal Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$141.00,IA
+Guttenberg Municipal Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$168.00,IA
+Guttenberg Municipal Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$291.00,IA
+Guttenberg Municipal Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$506.00,IA
+Guttenberg Municipal Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$726.00,IA
+Guttenberg Municipal Hospital,Hospital,HCPCS 99219,Hospital observation care typically 30 minutes,$305.00,IA
+Guttenberg Municipal Hospital,Hospital,HCPCS 99235,"Hospital observation or inpatient care moderate severity, 50 minutes per day",$398.00,IA
+Guttenberg Municipal Hospital,Hospital,HCPCS 99218,Hospital Observation per Hour,$186.00,IA
+Guttenberg Municipal Hospital,Hospital,HCPCS 99224,"Subsequent observation care, typically 25 minutes per day",$126.00,IA
+Guttenberg Municipal Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$230.00,IA
+Guttenberg Municipal Hospital,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$203.00,IA
+Guttenberg Municipal Hospital,Speech,HCPCS 92507,Speech Therapy,$158.00,IA
+Guttenberg Municipal Hospital,Speech,HCPCS 92610,Swallow Evaluation,$265.00,IA
+Guttenberg Municipal Hospital,Speech,HCPCS 92526,Swallow Treatment,$154.00,IA
+Guttenberg Municipal Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$36.00,IA
+Guttenberg Municipal Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$36.00,IA
+Guttenberg Municipal Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$34.00,IA
+Guttenberg Municipal Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$66.00,IA
+Guttenberg Municipal Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$37.00,IA
+Guttenberg Municipal Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$39.00,IA
+Guttenberg Municipal Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$69.00,IA
+Guttenberg Municipal Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$58.00,IA
+Guttenberg Municipal Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$26.00,IA
+Guttenberg Municipal Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$764.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$176.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$31.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$128.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 82140,Ammonia level,$79.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$52.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$73.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$62.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$39.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$36.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$42.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$31.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$14.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 84132,Blood potassium level,$45.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 84295,Blood sodium level,$45.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$108.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 82310,Calcium level,$39.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$42.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$121.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 82465,Cholesterol level,$34.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$104.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$97.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$69.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$96.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$234.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$87.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$94.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$141.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$48.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$72.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$119.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$119.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 83718,HDL cholesterol level,$52.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$59.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$53.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$50.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 83540,Iron level,$41.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$62.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$49.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$47.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$43.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$42.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 83735,Magnesium Level,$45.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 83970,Parathormone,$187.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$124.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$69.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$30.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$165.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$116.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$56.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$56.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$83.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$37.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 82340,Urine calcium level,$40.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$56.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$44.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 84133,Urine potassium level,$44.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 84300,Urine sodium level,$49.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$221.00,IA
+Guttenberg Municipal Hospital,Chemistry,HCPCS 84630,Zinc level,$79.00,IA
+Guttenberg Municipal Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$78.00,IA
+Guttenberg Municipal Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$68.00,IA
+Guttenberg Municipal Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$91.00,IA
+Guttenberg Municipal Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$90.00,IA
+Guttenberg Municipal Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$69.00,IA
+Guttenberg Municipal Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$64.00,IA
+Guttenberg Municipal Hospital,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$123.00,IA
+Guttenberg Municipal Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$93.00,IA
+Guttenberg Municipal Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$52.00,IA
+Guttenberg Municipal Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$42.00,IA
+Guttenberg Municipal Hospital,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$127.00,IA
+Guttenberg Municipal Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$69.00,IA
+Guttenberg Municipal Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$57.00,IA
+Guttenberg Municipal Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$128.00,IA
+Guttenberg Municipal Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$92.00,IA
+Guttenberg Municipal Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$92.00,IA
+Guttenberg Municipal Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$190.00,IA
+Guttenberg Municipal Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$62.00,IA
+Guttenberg Municipal Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$92.00,IA
+Guttenberg Municipal Hospital,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$66.00,IA
+Guttenberg Municipal Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$62.00,IA
+Guttenberg Municipal Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$68.00,IA
+Guttenberg Municipal Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$59.00,IA
+Guttenberg Municipal Hospital,Microbiology,HCPCS 87880,Strep Test,$57.00,IA
+Guttenberg Municipal Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$39.00,IA
+Guttenberg Municipal Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$62.00,IA
+Guttenberg Municipal Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$284.00,IA
+Guttenberg Municipal Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$101.00,IA
+Guttenberg Municipal Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$109.00,IA
+Guttenberg Municipal Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$97.00,IA
+Guttenberg Municipal Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$107.00,IA
+Guttenberg Municipal Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$101.00,IA
+Guttenberg Municipal Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$110.00,IA
+Guttenberg Municipal Hospital,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$144.00,IA
+Guttenberg Municipal Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$87.00,IA
+Guttenberg Municipal Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$63.00,IA
+Guttenberg Municipal Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$171.00,IA
+Guttenberg Municipal Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$61.00,IA
+Guttenberg Municipal Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$74.00,IA
+Guttenberg Municipal Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$85.00,IA
+Guttenberg Municipal Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$156.00,IA
+Guttenberg Municipal Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$87.00,IA
+Guttenberg Municipal Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$119.00,IA
+Guttenberg Municipal Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$23.00,IA
+Guttenberg Municipal Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$23.00,IA
+Guttenberg Municipal Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$63.00,IA
+Guttenberg Municipal Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$84.00,IA
+Guttenberg Municipal Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$18.00,IA
+Guttenberg Municipal Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$37.00,IA
+Guttenberg Municipal Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$40.00,IA
+Guttenberg Municipal Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$540.00,IA
+Guttenberg Municipal Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$168.00,IA
+Guttenberg Municipal Hospital,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$372.00,IA
+Guttenberg Municipal Hospital,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$32.00,IA
+Guttenberg Municipal Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,$164.00,IA
+Guttenberg Municipal Hospital,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$178.00,IA
+Guttenberg Municipal Hospital,Pulmonary,HCPCS 94618,Pulmonary stress test,$168.00,IA
+Guttenberg Municipal Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$172.00,IA
+Guttenberg Municipal Hospital,Sleep,HCPCS 95810,Sleep study,"$2,374.00",IA
+Guttenberg Municipal Hospital,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$40.00,IA
+Guttenberg Municipal Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$312.00,IA
+Guttenberg Municipal Hospital,Breast,HCPCS 77067,Mammogram Screening,$381.00,IA
+Guttenberg Municipal Hospital,Breast,HCPCS 77066,Mammography of both breasts,$416.00,IA
+Guttenberg Municipal Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,851.00",IA
+Guttenberg Municipal Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,450.00",IA
+Guttenberg Municipal Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,430.00",IA
+Guttenberg Municipal Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,710.00",IA
+Guttenberg Municipal Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$3,441.00",IA
+Guttenberg Municipal Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,844.00",IA
+Guttenberg Municipal Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,814.00",IA
+Guttenberg Municipal Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,954.00",IA
+Guttenberg Municipal Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,343.00",IA
+Guttenberg Municipal Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,368.00",IA
+Guttenberg Municipal Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,855.00",IA
+Guttenberg Municipal Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,882.00",IA
+Guttenberg Municipal Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,083.00",IA
+Guttenberg Municipal Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,135.00",IA
+Guttenberg Municipal Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,712.00",IA
+Guttenberg Municipal Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,083.00",IA
+Guttenberg Municipal Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$2,712.00",IA
+Guttenberg Municipal Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$3,365.00",IA
+Guttenberg Municipal Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,006.00",IA
+Guttenberg Municipal Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$4,062.00",IA
+Guttenberg Municipal Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,423.00",IA
+Guttenberg Municipal Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$2,084.00",IA
+Guttenberg Municipal Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$634.00,IA
+Guttenberg Municipal Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$530.00,IA
+Guttenberg Municipal Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$778.00,IA
+Guttenberg Municipal Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$503.00,IA
+Guttenberg Municipal Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$342.00,IA
+Guttenberg Municipal Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$384.00,IA
+Guttenberg Municipal Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$582.00,IA
+Guttenberg Municipal Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$222.00,IA
+Guttenberg Municipal Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$203.00,IA
+Guttenberg Municipal Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$223.00,IA
+Guttenberg Municipal Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$169.00,IA
+Guttenberg Municipal Hospital,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$309.00,IA
+Guttenberg Municipal Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$213.00,IA
+Guttenberg Municipal Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$173.00,IA
+Guttenberg Municipal Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$134.00,IA
+Guttenberg Municipal Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$216.00,IA
+Guttenberg Municipal Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$187.00,IA
+Guttenberg Municipal Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$248.00,IA
+Guttenberg Municipal Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$194.00,IA
+Guttenberg Municipal Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$134.00,IA
+Guttenberg Municipal Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$171.00,IA
+Guttenberg Municipal Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$197.00,IA
+Guttenberg Municipal Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$322.00,IA
+Guttenberg Municipal Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$180.00,IA
+Guttenberg Municipal Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$326.00,IA
+Guttenberg Municipal Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$235.00,IA
+Guttenberg Municipal Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$231.00,IA
+Guttenberg Municipal Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$223.00,IA
+Guttenberg Municipal Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$184.00,IA
+Guttenberg Municipal Hospital,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$210.00,IA
+Guttenberg Municipal Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$213.00,IA
+Guttenberg Municipal Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$234.00,IA
+Guttenberg Municipal Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$182.00,IA
+Guttenberg Municipal Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$215.00,IA
+Guttenberg Municipal Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$8,067.00",IA
+Guttenberg Municipal Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$177.00,IA
+Guttenberg Municipal Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$177.00,IA
+Guttenberg Municipal Hospital,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$11,278.00",IA
+Guttenberg Municipal Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$8,067.00",IA
+Guttenberg Municipal Hospital,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$2,050.00",IA
+Guttenberg Municipal Hospital,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$1,010.00",IA
+Guttenberg Municipal Hospital,Breast,HCPCS 19120,Excision of cyst of breast,"$3,204.00",IA
+Guttenberg Municipal Hospital,Breast,HCPCS 19301,Partial removal of breast,"$5,506.00",IA
+Guttenberg Municipal Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$2,524.00",IA
+Guttenberg Municipal Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$2,524.00",IA
+Guttenberg Municipal Hospital,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$2,524.00",IA
+Guttenberg Municipal Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$2,863.00",IA
+Guttenberg Municipal Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$2,524.00",IA
+Guttenberg Municipal Hospital,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$1,088.00",IA
+Guttenberg Municipal Hospital,General,HCPCS 10060,Drainage of Abscess,$183.00,IA
+Guttenberg Municipal Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$177.00,IA
+Guttenberg Municipal Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$289.00,IA
+Guttenberg Municipal Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$252.00,IA
+Guttenberg Municipal Hospital,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$252.00,IA
+Guttenberg Municipal Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$252.00,IA
+Guttenberg Municipal Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$183.00,IA
+Guttenberg Municipal Hospital,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$410.00,IA
+Guttenberg Municipal Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$1,482.00",IA
+Guttenberg Municipal Hospital,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$1,482.00",IA
+Guttenberg Municipal Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$854.00,IA
+Guttenberg Municipal Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$530.00,IA
+Guttenberg Municipal Hospital,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$1,470.00",IA
+Guttenberg Municipal Hospital,Ocular,HCPCS 66984,Cataract removal,"$2,864.00",IA
+Guttenberg Municipal Hospital,Ocular,HCPCS 66982,Cataract removal with insertion of lens,"$2,864.00",IA
+Guttenberg Municipal Hospital,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$48.00,IA
+Guttenberg Municipal Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$15.00,IA
+Guttenberg Municipal Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$662.00,IA

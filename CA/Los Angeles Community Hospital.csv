@@ -1,0 +1,105 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Los Angeles Community Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$2,865.92",CA
+Los Angeles Community Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,"$3,373.24",CA
+Los Angeles Community Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$3,373.24",CA
+Los Angeles Community Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,373.24",CA
+Los Angeles Community Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$3,373.24",CA
+Los Angeles Community Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$3,373.24",CA
+Los Angeles Community Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$162.01,CA
+Los Angeles Community Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$206.29,CA
+Los Angeles Community Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$230.75,CA
+Los Angeles Community Hospital,Chemistry,HCPCS 82140,Ammonia level,$214.14,CA
+Los Angeles Community Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$184.94,CA
+Los Angeles Community Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$497.50,CA
+Los Angeles Community Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$244.60,CA
+Los Angeles Community Hospital,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$100.61,CA
+Los Angeles Community Hospital,Chemistry,HCPCS 84132,Blood potassium level,$170.76,CA
+Los Angeles Community Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$324.90,CA
+Los Angeles Community Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$205.63,CA
+Los Angeles Community Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$249.21,CA
+Los Angeles Community Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$164.74,CA
+Los Angeles Community Hospital,Chemistry,HCPCS 83735,Magnesium Level,$204.38,CA
+Los Angeles Community Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$79.38,CA
+Los Angeles Community Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$5.09,CA
+Los Angeles Community Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$157.83,CA
+Los Angeles Community Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$121.84,CA
+Los Angeles Community Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$255.30,CA
+Los Angeles Community Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$106.86,CA
+Los Angeles Community Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$246.61,CA
+Los Angeles Community Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$613.66,CA
+Los Angeles Community Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$802.74,CA
+Los Angeles Community Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$260.75,CA
+Los Angeles Community Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$841.22,CA
+Los Angeles Community Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$153.09,CA
+Los Angeles Community Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$467.27,CA
+Los Angeles Community Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$43.51,CA
+Los Angeles Community Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$171.77,CA
+Los Angeles Community Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$100.26,CA
+Los Angeles Community Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$100.26,CA
+Los Angeles Community Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$198.45,CA
+Los Angeles Community Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$128.86,CA
+Los Angeles Community Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$128.86,CA
+Los Angeles Community Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$190.90,CA
+Los Angeles Community Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$1,956.98",CA
+Los Angeles Community Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$393.58,CA
+Los Angeles Community Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,"$2,188.53",CA
+Los Angeles Community Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$9,400.98",CA
+Los Angeles Community Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,391.80",CA
+Los Angeles Community Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$3,510.63",CA
+Los Angeles Community Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$8,842.97",CA
+Los Angeles Community Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,329.22",CA
+Los Angeles Community Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$3,927.37",CA
+Los Angeles Community Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$5,157.68",CA
+Los Angeles Community Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,621.78",CA
+Los Angeles Community Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$10,240.43",CA
+Los Angeles Community Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$4,407.33",CA
+Los Angeles Community Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$1,035.30",CA
+Los Angeles Community Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,260.82",CA
+Los Angeles Community Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,010.22",CA
+Los Angeles Community Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,603.25",CA
+Los Angeles Community Hospital,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,"$1,306.05",CA
+Los Angeles Community Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$400.99,CA
+Los Angeles Community Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$400.99,CA
+Los Angeles Community Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$363.85,CA
+Los Angeles Community Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$720.68,CA
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$554.29,CA
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$554.29,CA
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$554.29,CA
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$696.25,CA
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$554.29,CA
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$696.25,CA
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$696.25,CA
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$615.41,CA
+Los Angeles Community Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$725.85,CA
+Los Angeles Community Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$725.85,CA
+Los Angeles Community Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$839.24,CA
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$562.57,CA
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$350.74,CA
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$383.51,CA
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$439.42,CA
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$439.42,CA
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$647.33,CA
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$439.42,CA
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$439.42,CA
+Los Angeles Community Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$35,932.97",CA
+Los Angeles Community Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$27,504.87",CA
+Los Angeles Community Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$1,344.64",CA
+Los Angeles Community Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$53,031.27",CA
+Los Angeles Community Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$36,691.03",CA
+Los Angeles Community Hospital,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$27,504.87",CA
+Los Angeles Community Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$7,781.67",CA
+Los Angeles Community Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$7,804.39",CA
+Los Angeles Community Hospital,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$6,938.72",CA
+Los Angeles Community Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$6,938.72",CA
+Los Angeles Community Hospital,Digestive,HCPCS 43235,EGD,"$7,221.75",CA
+Los Angeles Community Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$8,195.26",CA
+Los Angeles Community Hospital,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$18,899.25",CA
+Los Angeles Community Hospital,General,HCPCS 55700,Biopsy of prostate gland,"$13,468.42",CA
+Los Angeles Community Hospital,General,HCPCS 10060,Drainage of Abscess,"$7,641.42",CA
+Los Angeles Community Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$3,681.85",CA
+Los Angeles Community Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$3,681.85",CA
+Los Angeles Community Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$120,717.64",CA
+Los Angeles Community Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$13,343.58",CA
+Los Angeles Community Hospital,Ocular,HCPCS 66984,Cataract removal,"$11,327.81",CA
+Los Angeles Community Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$56.27,CA
+Los Angeles Community Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$8,247.01",CA

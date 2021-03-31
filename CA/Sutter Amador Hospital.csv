@@ -1,0 +1,155 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Sutter Amador Hospital,Psychology,HCPCS 90853,Group psychotherapy,$86.40,CA
+Sutter Amador Hospital,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$297.60,CA
+Sutter Amador Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$36.80,CA
+Sutter Amador Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$61.60,CA
+Sutter Amador Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$127.20,CA
+Sutter Amador Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$97.60,CA
+Sutter Amador Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$90.40,CA
+Sutter Amador Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$99.20,CA
+Sutter Amador Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$115.20,CA
+Sutter Amador Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$96.80,CA
+Sutter Amador Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$66.40,CA
+Sutter Amador Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$62.40,CA
+Sutter Amador Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$48.80,CA
+Sutter Amador Hospital,Chemistry,HCPCS 84132,Blood potassium level,$60.00,CA
+Sutter Amador Hospital,Chemistry,HCPCS 84295,Blood sodium level,$60.00,CA
+Sutter Amador Hospital,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$69.60,CA
+Sutter Amador Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$148.00,CA
+Sutter Amador Hospital,Chemistry,HCPCS 82310,Calcium level,$59.20,CA
+Sutter Amador Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$167.20,CA
+Sutter Amador Hospital,Chemistry,HCPCS 82465,Cholesterol level,$68.80,CA
+Sutter Amador Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$146.40,CA
+Sutter Amador Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$104.00,CA
+Sutter Amador Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$120.80,CA
+Sutter Amador Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$115.20,CA
+Sutter Amador Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$118.40,CA
+Sutter Amador Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$75.20,CA
+Sutter Amador Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$98.40,CA
+Sutter Amador Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$103.20,CA
+Sutter Amador Hospital,Chemistry,HCPCS 83540,Iron level,$69.60,CA
+Sutter Amador Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$81.60,CA
+Sutter Amador Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$77.60,CA
+Sutter Amador Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$112.00,CA
+Sutter Amador Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$56.80,CA
+Sutter Amador Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$104.80,CA
+Sutter Amador Hospital,Chemistry,HCPCS 83735,Magnesium Level,$95.20,CA
+Sutter Amador Hospital,Chemistry,HCPCS 83970,Parathormone,$151.20,CA
+Sutter Amador Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$143.20,CA
+Sutter Amador Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$63.20,CA
+Sutter Amador Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$44.00,CA
+Sutter Amador Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$79.20,CA
+Sutter Amador Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$65.60,CA
+Sutter Amador Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$64.80,CA
+Sutter Amador Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$53.60,CA
+Sutter Amador Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$12.80,CA
+Sutter Amador Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$98.40,CA
+Sutter Amador Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$83.20,CA
+Sutter Amador Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$71.20,CA
+Sutter Amador Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$28.00,CA
+Sutter Amador Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$62.40,CA
+Sutter Amador Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$47.20,CA
+Sutter Amador Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$60.00,CA
+Sutter Amador Hospital,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$71.20,CA
+Sutter Amador Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$116.80,CA
+Sutter Amador Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$96.80,CA
+Sutter Amador Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$164.80,CA
+Sutter Amador Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$88.00,CA
+Sutter Amador Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$164.00,CA
+Sutter Amador Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$79.20,CA
+Sutter Amador Hospital,Microbiology,HCPCS 87045,Stool Culture,$108.00,CA
+Sutter Amador Hospital,Microbiology,HCPCS 87880,Strep Test,$109.60,CA
+Sutter Amador Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$46.40,CA
+Sutter Amador Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$233.60,CA
+Sutter Amador Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$136.00,CA
+Sutter Amador Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$158.40,CA
+Sutter Amador Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$179.20,CA
+Sutter Amador Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$106.40,CA
+Sutter Amador Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$124.80,CA
+Sutter Amador Hospital,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$211.20,CA
+Sutter Amador Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$51.20,CA
+Sutter Amador Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$60.00,CA
+Sutter Amador Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$51.20,CA
+Sutter Amador Hospital,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$24.80,CA
+Sutter Amador Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$52.80,CA
+Sutter Amador Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$71.20,CA
+Sutter Amador Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$851.20,CA
+Sutter Amador Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$195.20,CA
+Sutter Amador Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,$372.80,CA
+Sutter Amador Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$364.00,CA
+Sutter Amador Hospital,Sleep,HCPCS 95810,Sleep study,"$3,364.00",CA
+Sutter Amador Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$382.40,CA
+Sutter Amador Hospital,Breast,HCPCS 77067,Mammogram Screening,$387.20,CA
+Sutter Amador Hospital,Breast,HCPCS 77066,Mammography of both breasts,$529.60,CA
+Sutter Amador Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,407.20",CA
+Sutter Amador Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$2,380.80",CA
+Sutter Amador Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$2,460.00",CA
+Sutter Amador Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,515.20",CA
+Sutter Amador Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$5,283.20",CA
+Sutter Amador Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$5,096.00",CA
+Sutter Amador Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,884.00",CA
+Sutter Amador Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$3,052.80",CA
+Sutter Amador Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$3,595.20",CA
+Sutter Amador Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$3,264.00",CA
+Sutter Amador Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,480.80",CA
+Sutter Amador Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$3,303.20",CA
+Sutter Amador Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$3,462.40",CA
+Sutter Amador Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$3,322.40",CA
+Sutter Amador Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$3,240.00",CA
+Sutter Amador Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$4,892.80",CA
+Sutter Amador Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$3,181.60",CA
+Sutter Amador Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$4,892.80",CA
+Sutter Amador Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,745.60",CA
+Sutter Amador Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$5,100.80",CA
+Sutter Amador Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$3,420.00",CA
+Sutter Amador Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$3,062.40",CA
+Sutter Amador Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$1,035.20",CA
+Sutter Amador Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$824.80,CA
+Sutter Amador Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,070.40",CA
+Sutter Amador Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$842.40,CA
+Sutter Amador Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$560.00,CA
+Sutter Amador Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$925.60,CA
+Sutter Amador Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$761.60,CA
+Sutter Amador Hospital,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$535.20,CA
+Sutter Amador Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$408.80,CA
+Sutter Amador Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$344.00,CA
+Sutter Amador Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$540.00,CA
+Sutter Amador Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$439.20,CA
+Sutter Amador Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$400.80,CA
+Sutter Amador Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$420.80,CA
+Sutter Amador Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$507.20,CA
+Sutter Amador Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$296.80,CA
+Sutter Amador Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$462.40,CA
+Sutter Amador Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$480.80,CA
+Sutter Amador Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$492.80,CA
+Sutter Amador Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$407.20,CA
+Sutter Amador Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$364.00,CA
+Sutter Amador Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$375.20,CA
+Sutter Amador Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$518.40,CA
+Sutter Amador Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$669.60,CA
+Sutter Amador Hospital,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$486.40,CA
+Sutter Amador Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$492.80,CA
+Sutter Amador Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$731.20,CA
+Sutter Amador Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$507.20,CA
+Sutter Amador Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$392.00,CA
+Sutter Amador Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$393.60,CA
+Sutter Amador Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$486.40,CA
+Sutter Amador Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$427.20,CA
+Sutter Amador Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$376.00,CA
+Sutter Amador Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$499.20,CA
+Sutter Amador Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$18,599.38",CA
+Sutter Amador Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$13,953.26",CA
+Sutter Amador Hospital,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$520.00,CA
+Sutter Amador Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$4,652.49",CA
+Sutter Amador Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$6,017.94",CA
+Sutter Amador Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$15,490.19",CA
+Sutter Amador Hospital,Digestive,HCPCS 43235,EGD,"$4,856.64",CA
+Sutter Amador Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$6,017.82",CA
+Sutter Amador Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$32,164.49",CA
+Sutter Amador Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$2,954.89",CA
+Sutter Amador Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$4,831.45",CA
+Sutter Amador Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$63,537.11",CA
+Sutter Amador Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$11,633.32",CA
+Sutter Amador Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$27,406.02",CA
+Sutter Amador Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$13,019.98",CA
+Sutter Amador Hospital,Ocular,HCPCS 66984,Cataract removal,"$10,058.40",CA

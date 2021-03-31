@@ -1,0 +1,325 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Pagosa Springs Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$529.72,CO
+Pagosa Springs Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$2,157.22",CO
+Pagosa Springs Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$301.16,CO
+Pagosa Springs Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$420.24,CO
+Pagosa Springs Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$660.11,CO
+Pagosa Springs Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,020.00",CO
+Pagosa Springs Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,437.61",CO
+Pagosa Springs Medical Center,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$230.27,CO
+Pagosa Springs Medical Center,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$230.27,CO
+Pagosa Springs Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$221.51,CO
+Pagosa Springs Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$275.83,CO
+Pagosa Springs Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$182.07,CO
+Pagosa Springs Medical Center,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$203.15,CO
+Pagosa Springs Medical Center,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$181.22,CO
+Pagosa Springs Medical Center,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$271.41,CO
+Pagosa Springs Medical Center,Psychology,HCPCS 90853,Group psychotherapy,$188.28,CO
+Pagosa Springs Medical Center,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$306.43,CO
+Pagosa Springs Medical Center,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$109.48,CO
+Pagosa Springs Medical Center,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$168.13,CO
+Pagosa Springs Medical Center,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$195.25,CO
+Pagosa Springs Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$371.45,CO
+Pagosa Springs Medical Center,Speech,HCPCS 92507,Speech Therapy,$411.40,CO
+Pagosa Springs Medical Center,Speech,HCPCS 92610,Swallow Evaluation,$310.25,CO
+Pagosa Springs Medical Center,Speech,HCPCS 92526,Swallow Treatment,$556.84,CO
+Pagosa Springs Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$30.60,CO
+Pagosa Springs Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$31.45,CO
+Pagosa Springs Medical Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$31.45,CO
+Pagosa Springs Medical Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$106.25,CO
+Pagosa Springs Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$48.45,CO
+Pagosa Springs Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$57.80,CO
+Pagosa Springs Medical Center,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$54.40,CO
+Pagosa Springs Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$72.25,CO
+Pagosa Springs Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$72.25,CO
+Pagosa Springs Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$28.05,CO
+Pagosa Springs Medical Center,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$142.80,CO
+Pagosa Springs Medical Center,Blood,HCPCS 85660,Red blood cell sickling measurement,$68.00,CO
+Pagosa Springs Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$731.85,CO
+Pagosa Springs Medical Center,Blood,HCPCS 85041,"Red blood count, automated test",$29.75,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$243.10,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$224.40,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$48.45,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$104.55,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$111.35,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 82140,Ammonia level,$119.85,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$48.45,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$86.70,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$116.45,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$106.25,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$114.75,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$48.45,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$48.45,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$32.30,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$48.45,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$20.40,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$48.45,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$48.45,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$48.45,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$100.30,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 82310,Calcium level,$48.45,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$48.45,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$117.30,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 82465,Cholesterol level,$48.45,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 82525,Copper level,$74.80,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$126.65,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$124.95,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$61.20,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$103.70,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$170.00,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$266.90,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$85.00,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$104.55,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$70.55,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$63.75,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$68.00,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$114.75,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$118.15,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$119.00,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 83718,HDL cholesterol level,$49.30,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$100.30,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$158.95,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 83520,IgE (immune system protein) level,$646.00,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$91.80,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$133.45,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$68.00,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 83540,Iron level,$56.95,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$48.45,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 83721,LDL cholesterol level,$56.95,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$47.60,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$48.45,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$110.50,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 83021,Liver function blood test panel,$29.75,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$68.85,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 82542,Mass spectrometry,$478.13,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$37.40,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 83945,Oxalate level,$88.40,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 83970,Parathormone,$241.40,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$48.45,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$181.90,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$136.00,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$51.00,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$24.65,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$141.95,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$212.50,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 84479,"Thyroid Hormone, T3 Measurement, Free",$58.65,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$295.80,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$68.00,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$41.65,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$51.00,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$101.15,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 84560,Uric acid level,$66.30,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$48.45,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$47.60,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$61.20,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$60.35,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$106.25,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$66.30,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$73.10,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 84591,Vitamin B-6 level,$327.25,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$212.50,CO
+Pagosa Springs Medical Center,Chemistry,HCPCS 84630,Zinc level,$83.30,CO
+Pagosa Springs Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$99.45,CO
+Pagosa Springs Medical Center,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$84.15,CO
+Pagosa Springs Medical Center,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$85.00,CO
+Pagosa Springs Medical Center,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$66.30,CO
+Pagosa Springs Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$102.00,CO
+Pagosa Springs Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$110.50,CO
+Pagosa Springs Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$85.85,CO
+Pagosa Springs Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$86.70,CO
+Pagosa Springs Medical Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$79.05,CO
+Pagosa Springs Medical Center,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$136.00,CO
+Pagosa Springs Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$79.90,CO
+Pagosa Springs Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$28.90,CO
+Pagosa Springs Medical Center,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$103.70,CO
+Pagosa Springs Medical Center,Immunology,HCPCS 86161,Measurement of complement (immune system proteins),$90.10,CO
+Pagosa Springs Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$96.90,CO
+Pagosa Springs Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$84.15,CO
+Pagosa Springs Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$57.80,CO
+Pagosa Springs Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$56.10,CO
+Pagosa Springs Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$87.55,CO
+Pagosa Springs Medical Center,Immunology,HCPCS 86361,T cell count and ratio,$150.45,CO
+Pagosa Springs Medical Center,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$94.35,CO
+Pagosa Springs Medical Center,Immunology,HCPCS 86580,Tuberculosis Test,$17.00,CO
+Pagosa Springs Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$62.90,CO
+Pagosa Springs Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$62.05,CO
+Pagosa Springs Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$72.25,CO
+Pagosa Springs Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$52.70,CO
+Pagosa Springs Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$211.65,CO
+Pagosa Springs Medical Center,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$357.00,CO
+Pagosa Springs Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$79.05,CO
+Pagosa Springs Medical Center,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$493.85,CO
+Pagosa Springs Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$130.90,CO
+Pagosa Springs Medical Center,Microbiology,HCPCS 87517,Hepatitis B Detection,$573.75,CO
+Pagosa Springs Medical Center,Microbiology,HCPCS 87624,HPV Detection,$127.50,CO
+Pagosa Springs Medical Center,Microbiology,HCPCS 86735,Mumps virus antibody test,$91.80,CO
+Pagosa Springs Medical Center,Microbiology,HCPCS 86747,Parvovirus antibody test,$79.90,CO
+Pagosa Springs Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$89.25,CO
+Pagosa Springs Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$110.50,CO
+Pagosa Springs Medical Center,Microbiology,HCPCS 87207,Smear for infectious agents,$199.75,CO
+Pagosa Springs Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$74.80,CO
+Pagosa Springs Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$62.05,CO
+Pagosa Springs Medical Center,Microbiology,HCPCS 87045,Stool Culture,$73.95,CO
+Pagosa Springs Medical Center,Microbiology,HCPCS 87880,Strep Test,$48.45,CO
+Pagosa Springs Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$90.10,CO
+Pagosa Springs Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$41.65,CO
+Pagosa Springs Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$96.90,CO
+Pagosa Springs Medical Center,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$297.50,CO
+Pagosa Springs Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$297.50,CO
+Pagosa Springs Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$79.90,CO
+Pagosa Springs Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$105.40,CO
+Pagosa Springs Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$113.90,CO
+Pagosa Springs Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$51.00,CO
+Pagosa Springs Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$134.30,CO
+Pagosa Springs Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$185.30,CO
+Pagosa Springs Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$246.50,CO
+Pagosa Springs Medical Center,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$154.70,CO
+Pagosa Springs Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$90.95,CO
+Pagosa Springs Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$89.25,CO
+Pagosa Springs Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$153.85,CO
+Pagosa Springs Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$64.60,CO
+Pagosa Springs Medical Center,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$102.00,CO
+Pagosa Springs Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$90.95,CO
+Pagosa Springs Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$181.90,CO
+Pagosa Springs Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$129.20,CO
+Pagosa Springs Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$102.00,CO
+Pagosa Springs Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$51.85,CO
+Pagosa Springs Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$53.55,CO
+Pagosa Springs Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$181.90,CO
+Pagosa Springs Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$40.80,CO
+Pagosa Springs Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$86.70,CO
+Pagosa Springs Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$28.05,CO
+Pagosa Springs Medical Center,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$28.05,CO
+Pagosa Springs Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$59.50,CO
+Pagosa Springs Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$96.90,CO
+Pagosa Springs Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$634.78,CO
+Pagosa Springs Medical Center,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$51.68,CO
+Pagosa Springs Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$147.05,CO
+Pagosa Springs Medical Center,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$144.50,CO
+Pagosa Springs Medical Center,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$19.30,CO
+Pagosa Springs Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,331.95",CO
+Pagosa Springs Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,$69.19,CO
+Pagosa Springs Medical Center,Pulmonary,HCPCS 94618,Pulmonary stress test,$267.75,CO
+Pagosa Springs Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$214.20,CO
+Pagosa Springs Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$26.35,CO
+Pagosa Springs Medical Center,Breast,HCPCS 77067,Mammogram Screening,$289.85,CO
+Pagosa Springs Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$350.20,CO
+Pagosa Springs Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$2,204.90",CO
+Pagosa Springs Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,072.70",CO
+Pagosa Springs Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,014.05",CO
+Pagosa Springs Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,072.70",CO
+Pagosa Springs Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,277.55",CO
+Pagosa Springs Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,277.55",CO
+Pagosa Springs Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$701.25,CO
+Pagosa Springs Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,277.55",CO
+Pagosa Springs Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,501.95",CO
+Pagosa Springs Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,277.55",CO
+Pagosa Springs Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,297.95",CO
+Pagosa Springs Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,286.05",CO
+Pagosa Springs Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,170.45",CO
+Pagosa Springs Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,813.90",CO
+Pagosa Springs Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,813.90",CO
+Pagosa Springs Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,813.90",CO
+Pagosa Springs Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,321.35",CO
+Pagosa Springs Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,813.90",CO
+Pagosa Springs Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$2,321.35",CO
+Pagosa Springs Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,321.35",CO
+Pagosa Springs Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,813.90",CO
+Pagosa Springs Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,321.35",CO
+Pagosa Springs Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,813.90",CO
+Pagosa Springs Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$1,813.90",CO
+Pagosa Springs Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$502.35,CO
+Pagosa Springs Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$447.10,CO
+Pagosa Springs Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$257.55,CO
+Pagosa Springs Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$170.85,CO
+Pagosa Springs Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$471.75,CO
+Pagosa Springs Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$365.50,CO
+Pagosa Springs Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$289.00,CO
+Pagosa Springs Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$426.70,CO
+Pagosa Springs Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$426.70,CO
+Pagosa Springs Medical Center,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$442.85,CO
+Pagosa Springs Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$344.25,CO
+Pagosa Springs Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$229.50,CO
+Pagosa Springs Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$204.00,CO
+Pagosa Springs Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$204.00,CO
+Pagosa Springs Medical Center,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$262.65,CO
+Pagosa Springs Medical Center,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$204.00,CO
+Pagosa Springs Medical Center,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$436.90,CO
+Pagosa Springs Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$215.90,CO
+Pagosa Springs Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$204.00,CO
+Pagosa Springs Medical Center,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$204.00,CO
+Pagosa Springs Medical Center,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$339.15,CO
+Pagosa Springs Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$204.00,CO
+Pagosa Springs Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$204.00,CO
+Pagosa Springs Medical Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$227.80,CO
+Pagosa Springs Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$204.00,CO
+Pagosa Springs Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$215.90,CO
+Pagosa Springs Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$204.00,CO
+Pagosa Springs Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$215.90,CO
+Pagosa Springs Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$158.10,CO
+Pagosa Springs Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$204.00,CO
+Pagosa Springs Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$204.00,CO
+Pagosa Springs Medical Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$204.00,CO
+Pagosa Springs Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$158.10,CO
+Pagosa Springs Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$227.80,CO
+Pagosa Springs Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$204.00,CO
+Pagosa Springs Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$352.75,CO
+Pagosa Springs Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$221.85,CO
+Pagosa Springs Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$221.85,CO
+Pagosa Springs Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$344.25,CO
+Pagosa Springs Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$215.90,CO
+Pagosa Springs Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$204.00,CO
+Pagosa Springs Medical Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$204.00,CO
+Pagosa Springs Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$215.90,CO
+Pagosa Springs Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$215.90,CO
+Pagosa Springs Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$204.00,CO
+Pagosa Springs Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$204.00,CO
+Pagosa Springs Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$215.90,CO
+Pagosa Springs Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$1,750.15",CO
+Pagosa Springs Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$1,052.39",CO
+Pagosa Springs Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$1,213.46",CO
+Pagosa Springs Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$262.65,CO
+Pagosa Springs Medical Center,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$58.65,CO
+Pagosa Springs Medical Center,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$1,404.29",CO
+Pagosa Springs Medical Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,$994.59,CO
+Pagosa Springs Medical Center,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$1,994.36",CO
+Pagosa Springs Medical Center,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$2,487.07",CO
+Pagosa Springs Medical Center,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$1,499.74",CO
+Pagosa Springs Medical Center,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$1,320.22",CO
+Pagosa Springs Medical Center,Breast,HCPCS 19101,Biopsy of breast,$475.41,CO
+Pagosa Springs Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$1,180.14",CO
+Pagosa Springs Medical Center,Breast,HCPCS 19301,Partial removal of breast,"$1,499.74",CO
+Pagosa Springs Medical Center,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$2,768.37",CO
+Pagosa Springs Medical Center,Breast,HCPCS 19303,Total removal of breast,"$2,321.86",CO
+Pagosa Springs Medical Center,Cardiac,MSDRG 216,Cardiac valve procedure,$109.65,CO
+Pagosa Springs Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",$850.00,CO
+Pagosa Springs Medical Center,Digestive,HCPCS 43235,EGD,$360.74,CO
+Pagosa Springs Medical Center,Digestive,HCPCS 43239,EGD and biopsy,$690.80,CO
+Pagosa Springs Medical Center,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,$815.07,CO
+Pagosa Springs Medical Center,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$1,083.84",CO
+Pagosa Springs Medical Center,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$1,371.90",CO
+Pagosa Springs Medical Center,General,HCPCS 10060,Drainage of Abscess,$239.87,CO
+Pagosa Springs Medical Center,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$768.66,CO
+Pagosa Springs Medical Center,General,HCPCS 69200,Removal of foreign body from ear canal,$288.92,CO
+Pagosa Springs Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$401.88,CO
+Pagosa Springs Medical Center,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$360.74,CO
+Pagosa Springs Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$238.17,CO
+Pagosa Springs Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$461.38,CO
+Pagosa Springs Medical Center,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$581.74,CO
+Pagosa Springs Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$701.25,CO
+Pagosa Springs Medical Center,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,$701.25,CO
+Pagosa Springs Medical Center,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$307.28,CO
+Pagosa Springs Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$606.73,CO
+Pagosa Springs Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),$109.65,CO
+Pagosa Springs Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$1,409.56",CO
+Pagosa Springs Medical Center,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$1,700.26",CO
+Pagosa Springs Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,$339.66,CO
+Pagosa Springs Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$285.43,CO
+Pagosa Springs Medical Center,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$1,990.87",CO
+Pagosa Springs Medical Center,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$2,658.89",CO
+Pagosa Springs Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$430.95,CO
+Pagosa Springs Medical Center,Soft Tissue,HCPCS 97602,Non-selective debridement,$430.95,CO
+Pagosa Springs Medical Center,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$275.83,CO
+Pagosa Springs Medical Center,Vascular,HCPCS 36416,Collection of capillary blood specimen,$21.93,CO
+Pagosa Springs Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,005.72",CO
+Pagosa Springs Medical Center,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,$548.08,CO

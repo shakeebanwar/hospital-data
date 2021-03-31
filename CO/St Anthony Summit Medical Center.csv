@@ -1,0 +1,189 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+St Anthony Summit Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$5,057.91",CO
+St Anthony Summit Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,"$1,618.63",CO
+St Anthony Summit Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,"$1,618.63",CO
+St Anthony Summit Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$1,618.63",CO
+St Anthony Summit Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,618.63",CO
+St Anthony Summit Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,618.63",CO
+St Anthony Summit Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$95.72,CO
+St Anthony Summit Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$9.31,CO
+St Anthony Summit Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$9.31,CO
+St Anthony Summit Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$16.31,CO
+St Anthony Summit Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$25.57,CO
+St Anthony Summit Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$28.47,CO
+St Anthony Summit Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$28.47,CO
+St Anthony Summit Medical Center,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$32.13,CO
+St Anthony Summit Medical Center,Blood,HCPCS 85660,Red blood cell sickling measurement,$23.76,CO
+St Anthony Summit Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$19.60,CO
+St Anthony Summit Medical Center,Chemistry,HCPCS 82140,Ammonia level,$57.72,CO
+St Anthony Summit Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$75.87,CO
+St Anthony Summit Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$33.82,CO
+St Anthony Summit Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$11.78,CO
+St Anthony Summit Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$11.78,CO
+St Anthony Summit Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$20.31,CO
+St Anthony Summit Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$67.85,CO
+St Anthony Summit Medical Center,Chemistry,HCPCS 82310,Calcium level,$44.06,CO
+St Anthony Summit Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$85.82,CO
+St Anthony Summit Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$28.10,CO
+St Anthony Summit Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$59.41,CO
+St Anthony Summit Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$62.55,CO
+St Anthony Summit Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$22.88,CO
+St Anthony Summit Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$37.85,CO
+St Anthony Summit Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$67.27,CO
+St Anthony Summit Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$44.06,CO
+St Anthony Summit Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$23.86,CO
+St Anthony Summit Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$27.83,CO
+St Anthony Summit Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$13.80,CO
+St Anthony Summit Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$29.73,CO
+St Anthony Summit Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$19.35,CO
+St Anthony Summit Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$19.35,CO
+St Anthony Summit Medical Center,Chemistry,HCPCS 84560,Uric acid level,$22.01,CO
+St Anthony Summit Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$22.01,CO
+St Anthony Summit Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$68.72,CO
+St Anthony Summit Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$46.19,CO
+St Anthony Summit Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$21.24,CO
+St Anthony Summit Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$7.30,CO
+St Anthony Summit Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$21.08,CO
+St Anthony Summit Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$13.53,CO
+St Anthony Summit Medical Center,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$85.95,CO
+St Anthony Summit Medical Center,Immunology,HCPCS 86359,"T cells count, total",$85.95,CO
+St Anthony Summit Medical Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$20.85,CO
+St Anthony Summit Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$41.03,CO
+St Anthony Summit Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$34.37,CO
+St Anthony Summit Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$20.92,CO
+St Anthony Summit Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$53.72,CO
+St Anthony Summit Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$56.58,CO
+St Anthony Summit Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$46.19,CO
+St Anthony Summit Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$20.92,CO
+St Anthony Summit Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$42.63,CO
+St Anthony Summit Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$57.02,CO
+St Anthony Summit Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$35.24,CO
+St Anthony Summit Medical Center,Microbiology,HCPCS 87045,Stool Culture,$38.50,CO
+St Anthony Summit Medical Center,Microbiology,HCPCS 87880,Strep Test,$48.38,CO
+St Anthony Summit Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$60.37,CO
+St Anthony Summit Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$13.53,CO
+St Anthony Summit Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$11.85,CO
+St Anthony Summit Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$186.94,CO
+St Anthony Summit Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$38.23,CO
+St Anthony Summit Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$52.75,CO
+St Anthony Summit Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$111.90,CO
+St Anthony Summit Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$37.22,CO
+St Anthony Summit Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$47.66,CO
+St Anthony Summit Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$9.26,CO
+St Anthony Summit Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$26.19,CO
+St Anthony Summit Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$56.05,CO
+St Anthony Summit Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$53.68,CO
+St Anthony Summit Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$60.50,CO
+St Anthony Summit Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$60.50,CO
+St Anthony Summit Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$95.16,CO
+St Anthony Summit Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$10.69,CO
+St Anthony Summit Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$10.69,CO
+St Anthony Summit Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$26.52,CO
+St Anthony Summit Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$575.70,CO
+St Anthony Summit Medical Center,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$70.18,CO
+St Anthony Summit Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$70.18,CO
+St Anthony Summit Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,$396.00,CO
+St Anthony Summit Medical Center,Pulmonary,HCPCS 94640,Aerosol Treatment,$158.20,CO
+St Anthony Summit Medical Center,Pulmonary,HCPCS 94618,Pulmonary stress test,$202.33,CO
+St Anthony Summit Medical Center,Sleep,HCPCS 95810,Sleep study,"$2,181.49",CO
+St Anthony Summit Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$183.95,CO
+St Anthony Summit Medical Center,Breast,HCPCS 77067,Mammogram Screening,$185.44,CO
+St Anthony Summit Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$183.95,CO
+St Anthony Summit Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,802.68",CO
+St Anthony Summit Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$472.11,CO
+St Anthony Summit Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$772.85,CO
+St Anthony Summit Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$704.94,CO
+St Anthony Summit Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,769.11",CO
+St Anthony Summit Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,769.11",CO
+St Anthony Summit Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$876.80,CO
+St Anthony Summit Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$505.46,CO
+St Anthony Summit Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,$505.46,CO
+St Anthony Summit Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,460.87",CO
+St Anthony Summit Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$466.29,CO
+St Anthony Summit Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,545.15",CO
+St Anthony Summit Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$878.08,CO
+St Anthony Summit Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)",$884.34,CO
+St Anthony Summit Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,$899.31,CO
+St Anthony Summit Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$899.31,CO
+St Anthony Summit Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,$590.29,CO
+St Anthony Summit Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,$899.31,CO
+St Anthony Summit Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,$694.36,CO
+St Anthony Summit Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$422.44,CO
+St Anthony Summit Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,$621.41,CO
+St Anthony Summit Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,569.81",CO
+St Anthony Summit Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,$424.45,CO
+St Anthony Summit Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$280.61,CO
+St Anthony Summit Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$174.65,CO
+St Anthony Summit Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$146.51,CO
+St Anthony Summit Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$230.95,CO
+St Anthony Summit Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$230.95,CO
+St Anthony Summit Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$229.71,CO
+St Anthony Summit Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$229.71,CO
+St Anthony Summit Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$194.21,CO
+St Anthony Summit Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$168.01,CO
+St Anthony Summit Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$168.01,CO
+St Anthony Summit Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$119.22,CO
+St Anthony Summit Medical Center,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$132.59,CO
+St Anthony Summit Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$211.19,CO
+St Anthony Summit Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$172.75,CO
+St Anthony Summit Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$153.65,CO
+St Anthony Summit Medical Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$103.95,CO
+St Anthony Summit Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$146.34,CO
+St Anthony Summit Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$146.34,CO
+St Anthony Summit Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$243.82,CO
+St Anthony Summit Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$146.34,CO
+St Anthony Summit Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$243.82,CO
+St Anthony Summit Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$149.39,CO
+St Anthony Summit Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$146.34,CO
+St Anthony Summit Medical Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$124.30,CO
+St Anthony Summit Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$243.82,CO
+St Anthony Summit Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$243.82,CO
+St Anthony Summit Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$156.96,CO
+St Anthony Summit Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$146.66,CO
+St Anthony Summit Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$146.66,CO
+St Anthony Summit Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$121.48,CO
+St Anthony Summit Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$121.48,CO
+St Anthony Summit Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$151.75,CO
+St Anthony Summit Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$144.80,CO
+St Anthony Summit Medical Center,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$167.15,CO
+St Anthony Summit Medical Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$150.18,CO
+St Anthony Summit Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$150.18,CO
+St Anthony Summit Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$151.28,CO
+St Anthony Summit Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$150.18,CO
+St Anthony Summit Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$150.18,CO
+St Anthony Summit Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$13,221.89",CO
+St Anthony Summit Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$13,221.89",CO
+St Anthony Summit Medical Center,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,"$6,173.31",CO
+St Anthony Summit Medical Center,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$6,173.31",CO
+St Anthony Summit Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$461.40,CO
+St Anthony Summit Medical Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$10,983.06",CO
+St Anthony Summit Medical Center,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$8,632.04",CO
+St Anthony Summit Medical Center,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$5,490.39",CO
+St Anthony Summit Medical Center,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$5,211.96",CO
+St Anthony Summit Medical Center,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$5,211.96",CO
+St Anthony Summit Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$25,069.16",CO
+St Anthony Summit Medical Center,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$12,678.52",CO
+St Anthony Summit Medical Center,General,HCPCS 55700,Biopsy of prostate gland,"$4,415.91",CO
+St Anthony Summit Medical Center,General,HCPCS 10060,Drainage of Abscess,$836.94,CO
+St Anthony Summit Medical Center,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple","$1,657.81",CO
+St Anthony Summit Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$993.40,CO
+St Anthony Summit Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$993.40,CO
+St Anthony Summit Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$993.40,CO
+St Anthony Summit Medical Center,Head,HCPCS 69436,Create eardrum opening,"$2,593.51",CO
+St Anthony Summit Medical Center,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$2,500.44",CO
+St Anthony Summit Medical Center,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$80,724.05",CO
+St Anthony Summit Medical Center,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$594.76,CO
+St Anthony Summit Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$3,090.13",CO
+St Anthony Summit Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$7,932.82",CO
+St Anthony Summit Medical Center,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$7,932.82",CO
+St Anthony Summit Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$80,724.05",CO
+St Anthony Summit Medical Center,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$20,799.71",CO
+St Anthony Summit Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$5,880.75",CO
+St Anthony Summit Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$12,193.16",CO
+St Anthony Summit Medical Center,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$7,804.34",CO
+St Anthony Summit Medical Center,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$9,732.86",CO
+St Anthony Summit Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$6,493.09",CO
+St Anthony Summit Medical Center,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries","$4,246.71",CO
+St Anthony Summit Medical Center,Ocular,HCPCS 66984,Cataract removal,"$3,667.24",CO
+St Anthony Summit Medical Center,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$213.50,CO
+St Anthony Summit Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$736.79,CO

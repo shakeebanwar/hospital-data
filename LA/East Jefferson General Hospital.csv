@@ -1,0 +1,390 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+East Jefferson General Hospital,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$391.00,LA
+East Jefferson General Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,117.00",LA
+East Jefferson General Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$163.50,LA
+East Jefferson General Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$279.50,LA
+East Jefferson General Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$486.00,LA
+East Jefferson General Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$614.50,LA
+East Jefferson General Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$838.00,LA
+East Jefferson General Hospital,Hospital,HCPCS 99234,Hospital observation care discharge,$199.00,LA
+East Jefferson General Hospital,Hospital,HCPCS 99219,Hospital observation care typically 30 minutes,$162.50,LA
+East Jefferson General Hospital,Hospital,HCPCS 99235,"Hospital observation or inpatient care moderate severity, 50 minutes per day",$261.00,LA
+East Jefferson General Hospital,Hospital,HCPCS 99218,Hospital Observation per Hour,$97.50,LA
+East Jefferson General Hospital,Hospital,HCPCS 99224,"Subsequent observation care, typically 25 minutes per day",$42.00,LA
+East Jefferson General Hospital,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$198.00,LA
+East Jefferson General Hospital,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$228.50,LA
+East Jefferson General Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$119.50,LA
+East Jefferson General Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$144.00,LA
+East Jefferson General Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$88.50,LA
+East Jefferson General Hospital,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$188.50,LA
+East Jefferson General Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$278.50,LA
+East Jefferson General Hospital,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$192.50,LA
+East Jefferson General Hospital,Psychology,HCPCS 90853,Group psychotherapy,$76.00,LA
+East Jefferson General Hospital,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$101.50,LA
+East Jefferson General Hospital,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$132.00,LA
+East Jefferson General Hospital,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$286.00,LA
+East Jefferson General Hospital,Speech,HCPCS 92507,Speech Therapy,$165.00,LA
+East Jefferson General Hospital,Speech,HCPCS 92610,Swallow Evaluation,$187.00,LA
+East Jefferson General Hospital,Speech,HCPCS 92526,Swallow Treatment,$116.50,LA
+East Jefferson General Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$18.00,LA
+East Jefferson General Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$15.00,LA
+East Jefferson General Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$38.00,LA
+East Jefferson General Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$69.50,LA
+East Jefferson General Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$23.50,LA
+East Jefferson General Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$42.50,LA
+East Jefferson General Hospital,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$43.00,LA
+East Jefferson General Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$45.50,LA
+East Jefferson General Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$38.00,LA
+East Jefferson General Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$11.50,LA
+East Jefferson General Hospital,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$145.00,LA
+East Jefferson General Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$27.50,LA
+East Jefferson General Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$309.50,LA
+East Jefferson General Hospital,Blood,HCPCS 85041,"Red blood count, automated test",$19.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$163.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$36.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$80.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$77.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 82140,Ammonia level,$87.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$63.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$99.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$112.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$69.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$105.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$25.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$25.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$38.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$31.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 84132,Blood potassium level,$27.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 84295,Blood sodium level,$28.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$46.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$105.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 82310,Calcium level,$32.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$30.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$133.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 82465,Cholesterol level,$15.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 82525,Copper level,$78.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$102.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$124.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$41.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$97.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$125.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$88.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$101.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$62.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$45.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$72.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$147.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$132.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$79.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 83718,HDL cholesterol level,$53.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$108.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$170.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$86.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$48.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$101.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 83540,Iron level,$33.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$41.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$84.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$63.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$36.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$62.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$105.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 83735,Magnesium Level,$40.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$131.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$86.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$68.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 83918,Organic acid level,$121.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 83945,Oxalate level,$41.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 83970,Parathormone,$106.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$45.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$31.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$89.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$129.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$40.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$161.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$157.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$61.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$36.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$17.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$31.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$113.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 84560,Uric acid level,$19.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$34.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 82340,Urine calcium level,$20.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 82436,Urine chloride level,$16.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$46.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$40.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$88.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 84133,Urine potassium level,$25.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 84300,Urine sodium level,$29.00,LA
+East Jefferson General Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$125.50,LA
+East Jefferson General Hospital,Chemistry,HCPCS 84630,Zinc level,$64.00,LA
+East Jefferson General Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$56.00,LA
+East Jefferson General Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$90.50,LA
+East Jefferson General Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$99.50,LA
+East Jefferson General Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$80.50,LA
+East Jefferson General Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$65.50,LA
+East Jefferson General Hospital,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$145.00,LA
+East Jefferson General Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$78.00,LA
+East Jefferson General Hospital,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$97.50,LA
+East Jefferson General Hospital,Immunology,HCPCS 86161,Measurement of complement (immune system proteins),$28.50,LA
+East Jefferson General Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$78.50,LA
+East Jefferson General Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$90.00,LA
+East Jefferson General Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$45.50,LA
+East Jefferson General Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$27.50,LA
+East Jefferson General Hospital,Immunology,HCPCS 86580,Skin test for tuberculosis,$18.00,LA
+East Jefferson General Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$18.00,LA
+East Jefferson General Hospital,Immunology,HCPCS 86361,T cell count and ratio,$128.00,LA
+East Jefferson General Hospital,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$56.00,LA
+East Jefferson General Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$12.50,LA
+East Jefferson General Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$59.00,LA
+East Jefferson General Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$42.50,LA
+East Jefferson General Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$78.50,LA
+East Jefferson General Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$75.50,LA
+East Jefferson General Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$110.50,LA
+East Jefferson General Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$20.50,LA
+East Jefferson General Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$276.00,LA
+East Jefferson General Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$82.50,LA
+East Jefferson General Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$549.00,LA
+East Jefferson General Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$72.50,LA
+East Jefferson General Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$313.00,LA
+East Jefferson General Hospital,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$80.50,LA
+East Jefferson General Hospital,Microbiology,HCPCS 87624,HPV Detection,$132.00,LA
+East Jefferson General Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$82.00,LA
+East Jefferson General Hospital,Microbiology,HCPCS 86747,Parvovirus antibody test,$45.00,LA
+East Jefferson General Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$90.00,LA
+East Jefferson General Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$81.50,LA
+East Jefferson General Hospital,Microbiology,HCPCS 87207,Smear for infectious agents,$17.50,LA
+East Jefferson General Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$59.50,LA
+East Jefferson General Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$37.00,LA
+East Jefferson General Hospital,Microbiology,HCPCS 87045,Stool Culture,$49.50,LA
+East Jefferson General Hospital,Microbiology,HCPCS 87880,Strep Test,$28.00,LA
+East Jefferson General Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$60.50,LA
+East Jefferson General Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$73.50,LA
+East Jefferson General Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$70.50,LA
+East Jefferson General Hospital,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$246.50,LA
+East Jefferson General Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$320.00,LA
+East Jefferson General Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$61.00,LA
+East Jefferson General Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$76.50,LA
+East Jefferson General Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$93.00,LA
+East Jefferson General Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$55.00,LA
+East Jefferson General Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$64.00,LA
+East Jefferson General Hospital,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$145.00,LA
+East Jefferson General Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$111.50,LA
+East Jefferson General Hospital,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$82.00,LA
+East Jefferson General Hospital,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$107.50,LA
+East Jefferson General Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$43.00,LA
+East Jefferson General Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$12.00,LA
+East Jefferson General Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$82.00,LA
+East Jefferson General Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$26.00,LA
+East Jefferson General Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$82.50,LA
+East Jefferson General Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$95.00,LA
+East Jefferson General Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$102.50,LA
+East Jefferson General Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$81.00,LA
+East Jefferson General Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$81.00,LA
+East Jefferson General Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$119.50,LA
+East Jefferson General Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$117.50,LA
+East Jefferson General Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$84.00,LA
+East Jefferson General Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$192.50,LA
+East Jefferson General Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$118.00,LA
+East Jefferson General Hospital,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$18.00,LA
+East Jefferson General Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$14.00,LA
+East Jefferson General Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$22.50,LA
+East Jefferson General Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$66.00,LA
+East Jefferson General Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$352.50,LA
+East Jefferson General Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$126.50,LA
+East Jefferson General Hospital,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$63.00,LA
+East Jefferson General Hospital,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$202.00,LA
+East Jefferson General Hospital,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),$989.00,LA
+East Jefferson General Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,$337.50,LA
+East Jefferson General Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,$267.50,LA
+East Jefferson General Hospital,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$222.00,LA
+East Jefferson General Hospital,Pulmonary,HCPCS 94618,Pulmonary stress test,$166.50,LA
+East Jefferson General Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$195.00,LA
+East Jefferson General Hospital,Sleep,HCPCS 95810,Sleep study,"$2,273.50",LA
+East Jefferson General Hospital,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$228.00,LA
+East Jefferson General Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$154.50,LA
+East Jefferson General Hospital,Breast,HCPCS 77067,Mammogram Screening,$130.50,LA
+East Jefferson General Hospital,Breast,HCPCS 77066,Mammography of both breasts,$307.50,LA
+East Jefferson General Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,$756.50,LA
+East Jefferson General Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$752.50,LA
+East Jefferson General Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$604.00,LA
+East Jefferson General Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,119.50",LA
+East Jefferson General Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$2,346.00",LA
+East Jefferson General Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,969.50",LA
+East Jefferson General Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,504.50",LA
+East Jefferson General Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$984.50,LA
+East Jefferson General Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,173.00",LA
+East Jefferson General Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$600.50,LA
+East Jefferson General Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$459.00,LA
+East Jefferson General Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$751.00,LA
+East Jefferson General Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$600.50,LA
+East Jefferson General Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)",$659.50,LA
+East Jefferson General Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,520.50",LA
+East Jefferson General Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,577.00",LA
+East Jefferson General Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,565.00",LA
+East Jefferson General Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,621.50",LA
+East Jefferson General Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$2,667.50",LA
+East Jefferson General Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,519.00",LA
+East Jefferson General Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$3,429.50",LA
+East Jefferson General Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,$924.00,LA
+East Jefferson General Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$659.50,LA
+East Jefferson General Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$3,421.50",LA
+East Jefferson General Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$507.00,LA
+East Jefferson General Hospital,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$341.50,LA
+East Jefferson General Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$421.00,LA
+East Jefferson General Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$429.00,LA
+East Jefferson General Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$456.50,LA
+East Jefferson General Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$576.50,LA
+East Jefferson General Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$419.50,LA
+East Jefferson General Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$392.00,LA
+East Jefferson General Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$501.50,LA
+East Jefferson General Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$423.50,LA
+East Jefferson General Hospital,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$698.00,LA
+East Jefferson General Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$404.00,LA
+East Jefferson General Hospital,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$105.00,LA
+East Jefferson General Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$215.00,LA
+East Jefferson General Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$107.50,LA
+East Jefferson General Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$235.00,LA
+East Jefferson General Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$273.50,LA
+East Jefferson General Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$213.00,LA
+East Jefferson General Hospital,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$176.50,LA
+East Jefferson General Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$217.50,LA
+East Jefferson General Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$183.50,LA
+East Jefferson General Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$151.50,LA
+East Jefferson General Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$226.00,LA
+East Jefferson General Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$161.00,LA
+East Jefferson General Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$102.50,LA
+East Jefferson General Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$128.00,LA
+East Jefferson General Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$379.00,LA
+East Jefferson General Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$460.00,LA
+East Jefferson General Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$131.50,LA
+East Jefferson General Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$463.50,LA
+East Jefferson General Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$473.50,LA
+East Jefferson General Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$297.00,LA
+East Jefferson General Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$380.50,LA
+East Jefferson General Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$212.00,LA
+East Jefferson General Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$393.50,LA
+East Jefferson General Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$574.00,LA
+East Jefferson General Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$423.50,LA
+East Jefferson General Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$384.50,LA
+East Jefferson General Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$262.00,LA
+East Jefferson General Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$405.50,LA
+East Jefferson General Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$257.00,LA
+East Jefferson General Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$462.00,LA
+East Jefferson General Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$342.50,LA
+East Jefferson General Hospital,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$422.50,LA
+East Jefferson General Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$209.00,LA
+East Jefferson General Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$415.00,LA
+East Jefferson General Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$245.00,LA
+East Jefferson General Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$365.00,LA
+East Jefferson General Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$445.00,LA
+East Jefferson General Hospital,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$9,288.72",LA
+East Jefferson General Hospital,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$2,018.00",LA
+East Jefferson General Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$4,128.00",LA
+East Jefferson General Hospital,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$4,128.00",LA
+East Jefferson General Hospital,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,"$3,315.50",LA
+East Jefferson General Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$5,233.00",LA
+East Jefferson General Hospital,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,$737.50,LA
+East Jefferson General Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$2,641.50",LA
+East Jefferson General Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$147.50,LA
+East Jefferson General Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$147.50,LA
+East Jefferson General Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$16,005.30",LA
+East Jefferson General Hospital,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,"$3,690.50",LA
+East Jefferson General Hospital,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$3,703.00",LA
+East Jefferson General Hospital,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$3,315.50",LA
+East Jefferson General Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$4,128.00",LA
+East Jefferson General Hospital,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$5,768.00",LA
+East Jefferson General Hospital,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$5,768.00",LA
+East Jefferson General Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$4,527.50",LA
+East Jefferson General Hospital,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$2,641.50",LA
+East Jefferson General Hospital,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$2,641.50",LA
+East Jefferson General Hospital,Breast,HCPCS 19101,Biopsy of breast,"$1,957.00",LA
+East Jefferson General Hospital,Breast,HCPCS 19325,Breast enlargement using prosthetic implant,"$4,652.00",LA
+East Jefferson General Hospital,Breast,HCPCS 19125,Excision of breast lesion,"$2,309.50",LA
+East Jefferson General Hospital,Breast,HCPCS 19120,Excision of cyst of breast,"$2,006.00",LA
+East Jefferson General Hospital,Breast,HCPCS 19301,Partial removal of breast,"$1,957.00",LA
+East Jefferson General Hospital,Breast,HCPCS 19318,Reduction mammaplasty,"$3,859.00",LA
+East Jefferson General Hospital,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$3,852.50",LA
+East Jefferson General Hospital,Breast,HCPCS 19303,Total removal of breast,"$5,911.00",LA
+East Jefferson General Hospital,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,"$72,236.12",LA
+East Jefferson General Hospital,Cardiac,MSDRG 216,Cardiac valve procedure,"$100,470.38",LA
+East Jefferson General Hospital,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$68,489.61",LA
+East Jefferson General Hospital,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$58,364.16",LA
+East Jefferson General Hospital,Cardiac,HCPCS 33249,Defibrillator complete system,"$32,855.00",LA
+East Jefferson General Hospital,Cardiac,HCPCS 33240,Defibrillator generator,"$36,145.00",LA
+East Jefferson General Hospital,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$5,726.00",LA
+East Jefferson General Hospital,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$5,726.00",LA
+East Jefferson General Hospital,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$293.00,LA
+East Jefferson General Hospital,Cardiac,MSDRG 247,Implant drug-eluting stent,"$35,201.71",LA
+East Jefferson General Hospital,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$29,462.62",LA
+East Jefferson General Hospital,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$11,539.50",LA
+East Jefferson General Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,429.00",LA
+East Jefferson General Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,942.00",LA
+East Jefferson General Hospital,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,694.50",LA
+East Jefferson General Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,959.00",LA
+East Jefferson General Hospital,Digestive,HCPCS 43235,EGD,$925.50,LA
+East Jefferson General Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$1,431.50",LA
+East Jefferson General Hospital,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$2,180.50",LA
+East Jefferson General Hospital,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$2,180.50",LA
+East Jefferson General Hospital,Digestive,HCPCS 45391,Ultrasound of lower large bowel using an endoscope,"$1,061.50",LA
+East Jefferson General Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$10,949.42",LA
+East Jefferson General Hospital,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$2,494.50",LA
+East Jefferson General Hospital,General,HCPCS 55700,Biopsy of prostate gland,"$2,476.50",LA
+East Jefferson General Hospital,General,HCPCS 10060,Drainage of Abscess,$251.50,LA
+East Jefferson General Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$331.50,LA
+East Jefferson General Hospital,General,HCPCS 55866,Prostatectomy,"$2,489.50",LA
+East Jefferson General Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$124.00,LA
+East Jefferson General Hospital,General,HCPCS 60240,Removal of thyroid,"$3,854.50",LA
+East Jefferson General Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$281.50,LA
+East Jefferson General Hospital,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$308.00,LA
+East Jefferson General Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$258.50,LA
+East Jefferson General Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$254.50,LA
+East Jefferson General Hospital,Head,HCPCS 69436,Create eardrum opening,"$1,483.00",LA
+East Jefferson General Hospital,Head,HCPCS 69930,Implantation of cochlear device,"$47,812.00",LA
+East Jefferson General Hospital,Head,HCPCS 67028,Injection of drug into the eye,$522.50,LA
+East Jefferson General Hospital,Head,HCPCS 69631,Repair of eardrum,"$3,494.00",LA
+East Jefferson General Hospital,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$2,040.00",LA
+East Jefferson General Hospital,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$2,040.00",LA
+East Jefferson General Hospital,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$61,912.14",LA
+East Jefferson General Hospital,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$366.00,LA
+East Jefferson General Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$1,011.00",LA
+East Jefferson General Hospital,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$1,011.00",LA
+East Jefferson General Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$2,209.00",LA
+East Jefferson General Hospital,Musculoskeletal,HCPCS 27200,Insertion of Breathing Tube Using an Endoscope,$282.50,LA
+East Jefferson General Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$737.00,LA
+East Jefferson General Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$19,595.80",LA
+East Jefferson General Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$2,682.00",LA
+East Jefferson General Hospital,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$2,682.00",LA
+East Jefferson General Hospital,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,"$18,236.00",LA
+East Jefferson General Hospital,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$2,682.00",LA
+East Jefferson General Hospital,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$4,207.00",LA
+East Jefferson General Hospital,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$27,925.04",LA
+East Jefferson General Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$47,873.57",LA
+East Jefferson General Hospital,Musculoskeletal,HCPCS 22612,Spine arthrodesis,"$3,947.50",LA
+East Jefferson General Hospital,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$214.50,LA
+East Jefferson General Hospital,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$5,002.50",LA
+East Jefferson General Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$1,957.00",LA
+East Jefferson General Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$7,783.78",LA
+East Jefferson General Hospital,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$4,128.00",LA
+East Jefferson General Hospital,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$4,128.00",LA
+East Jefferson General Hospital,Obstetrics,HCPCS 58545,Removal of uterine fibroid tumors using an endoscope,"$3,127.50",LA
+East Jefferson General Hospital,Obstetrics,HCPCS 59400,Routine obstetric care,"$1,004.50",LA
+East Jefferson General Hospital,Obstetrics,HCPCS 59510,"Routine obstetric care for cesarean delivery, including pre-and postdelivery care","$1,070.50",LA
+East Jefferson General Hospital,Obstetrics,HCPCS 59610,Routine obstetric care for vaginal delivery after prior cesarean delivery including pre-and post-delivery care,"$1,004.50",LA
+East Jefferson General Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$6,330.44",LA
+East Jefferson General Hospital,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries","$2,607.50",LA
+East Jefferson General Hospital,Ocular,HCPCS 66984,Cataract removal,"$2,739.50",LA
+East Jefferson General Hospital,Ocular,HCPCS 66982,Cataract removal with insertion of lens,"$2,739.50",LA
+East Jefferson General Hospital,Ocular,HCPCS 66821,Laser cataract removal,$587.50,LA
+East Jefferson General Hospital,Ocular,HCPCS 67311,Realignment of the eye with repair of eye muscle,"$2,050.00",LA
+East Jefferson General Hospital,Ocular,HCPCS 65426,Removal or relocation of corneal conjunctiva,"$2,097.50",LA
+East Jefferson General Hospital,Ocular,HCPCS 67108,Repair of detached retina,"$3,892.50",LA
+East Jefferson General Hospital,Ocular,HCPCS 65756,Transplant of outer layer of corneal tissue,"$5,342.50",LA
+East Jefferson General Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$367.00,LA
+East Jefferson General Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$206.50,LA
+East Jefferson General Hospital,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$63.00,LA
+East Jefferson General Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$6.00,LA
+East Jefferson General Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,251.00",LA
+East Jefferson General Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$491.00,LA
+East Jefferson General Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,$905.00,LA

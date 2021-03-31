@@ -1,0 +1,334 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Charlotte Hungerford Hospital,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$1,624.00",CT
+Charlotte Hungerford Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$3,781.00",CT
+Charlotte Hungerford Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$550.00,CT
+Charlotte Hungerford Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$675.00,CT
+Charlotte Hungerford Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$1,390.00",CT
+Charlotte Hungerford Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$2,236.00",CT
+Charlotte Hungerford Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$2,982.00",CT
+Charlotte Hungerford Hospital,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$145.55,CT
+Charlotte Hungerford Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$188.35,CT
+Charlotte Hungerford Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$188.35,CT
+Charlotte Hungerford Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$188.35,CT
+Charlotte Hungerford Hospital,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$183.00,CT
+Charlotte Hungerford Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$236.65,CT
+Charlotte Hungerford Hospital,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$216.55,CT
+Charlotte Hungerford Hospital,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$216.55,CT
+Charlotte Hungerford Hospital,Psychology,HCPCS 90853,Group psychotherapy,$109.55,CT
+Charlotte Hungerford Hospital,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$210.60,CT
+Charlotte Hungerford Hospital,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$140.05,CT
+Charlotte Hungerford Hospital,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$190.50,CT
+Charlotte Hungerford Hospital,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$280.40,CT
+Charlotte Hungerford Hospital,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$652.50,CT
+Charlotte Hungerford Hospital,Speech,HCPCS 92507,Speech Therapy,$220.00,CT
+Charlotte Hungerford Hospital,Speech,HCPCS 92610,Swallow Evaluation,$485.50,CT
+Charlotte Hungerford Hospital,Speech,HCPCS 92526,Swallow Treatment,$224.55,CT
+Charlotte Hungerford Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$23.15,CT
+Charlotte Hungerford Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$19.73,CT
+Charlotte Hungerford Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$38.40,CT
+Charlotte Hungerford Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$78.25,CT
+Charlotte Hungerford Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$22.80,CT
+Charlotte Hungerford Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$57.50,CT
+Charlotte Hungerford Hospital,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$21.65,CT
+Charlotte Hungerford Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$44.70,CT
+Charlotte Hungerford Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$44.70,CT
+Charlotte Hungerford Hospital,Blood,HCPCS 85008,Microscopic examination for white blood cells,$15.65,CT
+Charlotte Hungerford Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$26.50,CT
+Charlotte Hungerford Hospital,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$184.45,CT
+Charlotte Hungerford Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$420.00,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$88.15,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$21.75,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$60.10,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$53.90,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82140,Ammonia level,$45.55,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$44.40,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$121.65,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$169.20,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$67.85,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$57.40,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$41.10,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$41.10,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$40.15,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$35.00,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$46.25,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 84295,Blood sodium level,$36.80,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$23.50,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$33.45,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$50.55,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82310,Calcium level,$27.75,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$40.10,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$82.25,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82465,Cholesterol level,$38.60,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82525,Copper level,$63.20,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$68.85,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$68.50,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$18.15,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$46.00,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$68.70,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$88.00,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$76.80,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$40.70,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$60.80,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$44.35,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$65.75,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$76.00,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$76.00,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$55.00,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 83718,HDL cholesterol level,$33.60,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 83020,Hemoglobin Measurement,$46.70,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$62.65,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$62.40,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$172.70,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$55.00,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$41.10,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$31.30,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 83540,Iron level,$23.45,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$44.00,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$48.75,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$44.35,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$42.70,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$33.00,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$125.00,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 83735,Magnesium Level,$17.55,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$408.15,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$52.50,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$97.70,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 83970,Parathormone,$119.35,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$21.40,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$153.51,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$57.90,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$17.90,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$26.35,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$73.30,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$31.65,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$115.75,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$21.20,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$14.90,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$21.40,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$50.75,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 84560,Uric acid level,$35.10,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$23.95,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82340,Urine calcium level,$45.55,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82436,Urine chloride level,$26.95,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$54.40,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$20.60,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 84133,Urine potassium level,$13.00,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 84300,Urine sodium level,$17.95,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 84591,Vitamin B-6 level,$140.00,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$68.35,CT
+Charlotte Hungerford Hospital,Chemistry,HCPCS 84630,Zinc level,$70.80,CT
+Charlotte Hungerford Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$101.75,CT
+Charlotte Hungerford Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$52.00,CT
+Charlotte Hungerford Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$46.90,CT
+Charlotte Hungerford Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$66.95,CT
+Charlotte Hungerford Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$56.15,CT
+Charlotte Hungerford Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$51.00,CT
+Charlotte Hungerford Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$85.50,CT
+Charlotte Hungerford Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$34.00,CT
+Charlotte Hungerford Hospital,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$55.00,CT
+Charlotte Hungerford Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$85.45,CT
+Charlotte Hungerford Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$14.00,CT
+Charlotte Hungerford Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$54.85,CT
+Charlotte Hungerford Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$90.65,CT
+Charlotte Hungerford Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$44.05,CT
+Charlotte Hungerford Hospital,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$71.95,CT
+Charlotte Hungerford Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$41.30,CT
+Charlotte Hungerford Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$70.80,CT
+Charlotte Hungerford Hospital,Immunology,HCPCS 86361,T cell count and ratio,$199.85,CT
+Charlotte Hungerford Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$125.95,CT
+Charlotte Hungerford Hospital,Immunology,HCPCS 86359,"T cells count, total",$58.00,CT
+Charlotte Hungerford Hospital,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$55.25,CT
+Charlotte Hungerford Hospital,Immunology,HCPCS 86580,Tuberculosis Test,$45.10,CT
+Charlotte Hungerford Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$51.30,CT
+Charlotte Hungerford Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$39.45,CT
+Charlotte Hungerford Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$42.10,CT
+Charlotte Hungerford Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$80.00,CT
+Charlotte Hungerford Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$123.00,CT
+Charlotte Hungerford Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$192.00,CT
+Charlotte Hungerford Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$73.95,CT
+Charlotte Hungerford Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$102.65,CT
+Charlotte Hungerford Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$77.25,CT
+Charlotte Hungerford Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$352.94,CT
+Charlotte Hungerford Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$80.00,CT
+Charlotte Hungerford Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$280.00,CT
+Charlotte Hungerford Hospital,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$76.40,CT
+Charlotte Hungerford Hospital,Microbiology,HCPCS 87624,HPV Detection,$80.00,CT
+Charlotte Hungerford Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$88.90,CT
+Charlotte Hungerford Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$86.45,CT
+Charlotte Hungerford Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$106.80,CT
+Charlotte Hungerford Hospital,Microbiology,HCPCS 87207,Smear for infectious agents,$75.00,CT
+Charlotte Hungerford Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$27.90,CT
+Charlotte Hungerford Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$73.65,CT
+Charlotte Hungerford Hospital,Microbiology,HCPCS 87045,Stool Culture,$54.30,CT
+Charlotte Hungerford Hospital,Microbiology,HCPCS 87880,Streptoccus,$49.15,CT
+Charlotte Hungerford Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$92.75,CT
+Charlotte Hungerford Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$79.75,CT
+Charlotte Hungerford Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$283.90,CT
+Charlotte Hungerford Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$38.95,CT
+Charlotte Hungerford Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$44.55,CT
+Charlotte Hungerford Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$39.10,CT
+Charlotte Hungerford Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$43.95,CT
+Charlotte Hungerford Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$52.10,CT
+Charlotte Hungerford Hospital,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$167.05,CT
+Charlotte Hungerford Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$163.20,CT
+Charlotte Hungerford Hospital,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$104.35,CT
+Charlotte Hungerford Hospital,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$74.80,CT
+Charlotte Hungerford Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$33.90,CT
+Charlotte Hungerford Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$101.20,CT
+Charlotte Hungerford Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$63.00,CT
+Charlotte Hungerford Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$27.10,CT
+Charlotte Hungerford Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$55.00,CT
+Charlotte Hungerford Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$33.90,CT
+Charlotte Hungerford Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$180.95,CT
+Charlotte Hungerford Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$63.05,CT
+Charlotte Hungerford Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$46.05,CT
+Charlotte Hungerford Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$25.90,CT
+Charlotte Hungerford Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$19.20,CT
+Charlotte Hungerford Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$37.60,CT
+Charlotte Hungerford Hospital,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$128.50,CT
+Charlotte Hungerford Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$14.75,CT
+Charlotte Hungerford Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$97.25,CT
+Charlotte Hungerford Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$34.95,CT
+Charlotte Hungerford Hospital,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$38.40,CT
+Charlotte Hungerford Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$45.50,CT
+Charlotte Hungerford Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$39.50,CT
+Charlotte Hungerford Hospital,Cardiovascular,HCPCS 93015,"Cardiovascular stress test, with interpretation and report",$267.00,CT
+Charlotte Hungerford Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$892.90,CT
+Charlotte Hungerford Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$131.35,CT
+Charlotte Hungerford Hospital,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$103.45,CT
+Charlotte Hungerford Hospital,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$709.80,CT
+Charlotte Hungerford Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,$599.70,CT
+Charlotte Hungerford Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,$151.00,CT
+Charlotte Hungerford Hospital,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$299.60,CT
+Charlotte Hungerford Hospital,Pulmonary,HCPCS 94618,Pulmonary stress test,$219.95,CT
+Charlotte Hungerford Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$260.80,CT
+Charlotte Hungerford Hospital,Sleep,HCPCS 95810,Sleep study,"$5,622.85",CT
+Charlotte Hungerford Hospital,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$103.35,CT
+Charlotte Hungerford Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$449.30,CT
+Charlotte Hungerford Hospital,Breast,HCPCS 77067,Mammogram Screening,$482.10,CT
+Charlotte Hungerford Hospital,Breast,HCPCS 77066,Mammography of both breasts,$593.95,CT
+Charlotte Hungerford Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,584.25",CT
+Charlotte Hungerford Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$771.30,CT
+Charlotte Hungerford Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$457.25,CT
+Charlotte Hungerford Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$541.10,CT
+Charlotte Hungerford Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$2,673.10",CT
+Charlotte Hungerford Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,120.05",CT
+Charlotte Hungerford Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,610.25",CT
+Charlotte Hungerford Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,035.80",CT
+Charlotte Hungerford Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,508.95",CT
+Charlotte Hungerford Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$709.40,CT
+Charlotte Hungerford Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$570.35,CT
+Charlotte Hungerford Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,084.55",CT
+Charlotte Hungerford Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$637.00,CT
+Charlotte Hungerford Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,153.45",CT
+Charlotte Hungerford Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,198.30",CT
+Charlotte Hungerford Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,198.30",CT
+Charlotte Hungerford Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,399.80",CT
+Charlotte Hungerford Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,198.30",CT
+Charlotte Hungerford Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$2,399.80",CT
+Charlotte Hungerford Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,426.95",CT
+Charlotte Hungerford Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,063.60",CT
+Charlotte Hungerford Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,399.80",CT
+Charlotte Hungerford Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,079.45",CT
+Charlotte Hungerford Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$1,063.60",CT
+Charlotte Hungerford Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$482.40,CT
+Charlotte Hungerford Hospital,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$326.40,CT
+Charlotte Hungerford Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$541.35,CT
+Charlotte Hungerford Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$454.85,CT
+Charlotte Hungerford Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$719.65,CT
+Charlotte Hungerford Hospital,Ultrasound,HCPCS 76881,Ultrasound Joint Soft Tissue - Complete,$569.45,CT
+Charlotte Hungerford Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$502.40,CT
+Charlotte Hungerford Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$310.65,CT
+Charlotte Hungerford Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$320.90,CT
+Charlotte Hungerford Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$499.80,CT
+Charlotte Hungerford Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$432.15,CT
+Charlotte Hungerford Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$783.50,CT
+Charlotte Hungerford Hospital,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$286.40,CT
+Charlotte Hungerford Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$482.45,CT
+Charlotte Hungerford Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$175.40,CT
+Charlotte Hungerford Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$484.75,CT
+Charlotte Hungerford Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$694.85,CT
+Charlotte Hungerford Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$644.70,CT
+Charlotte Hungerford Hospital,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$635.40,CT
+Charlotte Hungerford Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$727.00,CT
+Charlotte Hungerford Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$416.35,CT
+Charlotte Hungerford Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$735.95,CT
+Charlotte Hungerford Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$709.05,CT
+Charlotte Hungerford Hospital,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$574.40,CT
+Charlotte Hungerford Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$574.40,CT
+Charlotte Hungerford Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$338.25,CT
+Charlotte Hungerford Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$614.60,CT
+Charlotte Hungerford Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$376.95,CT
+Charlotte Hungerford Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$418.85,CT
+Charlotte Hungerford Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$169.85,CT
+Charlotte Hungerford Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$413.90,CT
+Charlotte Hungerford Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$460.40,CT
+Charlotte Hungerford Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$539.70,CT
+Charlotte Hungerford Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$372.55,CT
+Charlotte Hungerford Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$377.20,CT
+Charlotte Hungerford Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$379.05,CT
+Charlotte Hungerford Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$544.60,CT
+Charlotte Hungerford Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$454.50,CT
+Charlotte Hungerford Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$765.20,CT
+Charlotte Hungerford Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$577.85,CT
+Charlotte Hungerford Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$941.70,CT
+Charlotte Hungerford Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$598.70,CT
+Charlotte Hungerford Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$370.95,CT
+Charlotte Hungerford Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$318.80,CT
+Charlotte Hungerford Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$353.20,CT
+Charlotte Hungerford Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$418.40,CT
+Charlotte Hungerford Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$421.45,CT
+Charlotte Hungerford Hospital,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$372.95,CT
+Charlotte Hungerford Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$364.60,CT
+Charlotte Hungerford Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$404.85,CT
+Charlotte Hungerford Hospital,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$21,646.69",CT
+Charlotte Hungerford Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$6,961.50",CT
+Charlotte Hungerford Hospital,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,$943.90,CT
+Charlotte Hungerford Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$209.40,CT
+Charlotte Hungerford Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$84.65,CT
+Charlotte Hungerford Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$26,860.66",CT
+Charlotte Hungerford Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$12,555.50",CT
+Charlotte Hungerford Hospital,Breast,HCPCS 19101,Biopsy of breast,"$3,127.60",CT
+Charlotte Hungerford Hospital,Breast,HCPCS 19120,Excision of cyst of breast,"$4,058.35",CT
+Charlotte Hungerford Hospital,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,"$120,458.24",CT
+Charlotte Hungerford Hospital,Cardiac,MSDRG 216,Cardiac valve procedure,"$272,130.65",CT
+Charlotte Hungerford Hospital,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$136,651.16",CT
+Charlotte Hungerford Hospital,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$86,674.14",CT
+Charlotte Hungerford Hospital,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$489.85,CT
+Charlotte Hungerford Hospital,Cardiac,MSDRG 247,Implant drug-eluting stent,"$65,638.90",CT
+Charlotte Hungerford Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$2,714.85",CT
+Charlotte Hungerford Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$2,714.85",CT
+Charlotte Hungerford Hospital,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$2,714.85",CT
+Charlotte Hungerford Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$2,714.85",CT
+Charlotte Hungerford Hospital,Digestive,HCPCS 43235,EGD,"$2,714.85",CT
+Charlotte Hungerford Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$2,714.85",CT
+Charlotte Hungerford Hospital,General,HCPCS 55700,Biopsy of prostate gland,"$1,689.75",CT
+Charlotte Hungerford Hospital,General,HCPCS 10060,Drainage of Abscess,$217.50,CT
+Charlotte Hungerford Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$471.75,CT
+Charlotte Hungerford Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$234.05,CT
+Charlotte Hungerford Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$195.80,CT
+Charlotte Hungerford Hospital,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$195.80,CT
+Charlotte Hungerford Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$176.55,CT
+Charlotte Hungerford Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$195.80,CT
+Charlotte Hungerford Hospital,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$67,730.42",CT
+Charlotte Hungerford Hospital,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$270.00,CT
+Charlotte Hungerford Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$3,137.60",CT
+Charlotte Hungerford Hospital,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$3,137.60",CT
+Charlotte Hungerford Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$2,749.05",CT
+Charlotte Hungerford Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$350.50,CT
+Charlotte Hungerford Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$36,741.19",CT
+Charlotte Hungerford Hospital,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$53,198.78",CT
+Charlotte Hungerford Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$64,617.39",CT
+Charlotte Hungerford Hospital,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$248.80,CT
+Charlotte Hungerford Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$14,225.29",CT
+Charlotte Hungerford Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$9,964.12",CT
+Charlotte Hungerford Hospital,Ocular,HCPCS 66984,Cataract removal,"$4,621.03",CT
+Charlotte Hungerford Hospital,Ocular,HCPCS 66982,Cataract removal with insertion of lens,"$4,621.03",CT
+Charlotte Hungerford Hospital,Ocular,HCPCS 66821,Laser cataract removal,"$3,358.30",CT
+Charlotte Hungerford Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$353.30,CT
+Charlotte Hungerford Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$180.10,CT
+Charlotte Hungerford Hospital,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$138.30,CT
+Charlotte Hungerford Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$23.85,CT
+Charlotte Hungerford Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,631.55",CT
+Charlotte Hungerford Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$589.25,CT
+Charlotte Hungerford Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,153.40",CT

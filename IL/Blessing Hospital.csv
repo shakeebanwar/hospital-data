@@ -1,0 +1,329 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Blessing Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes",$779.61,IL
+Blessing Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$650.75,IL
+Blessing Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$650.75,IL
+Blessing Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$650.75,IL
+Blessing Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$650.75,IL
+Blessing Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$650.75,IL
+Blessing Hospital,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$223.25,IL
+Blessing Hospital,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$223.25,IL
+Blessing Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$223.25,IL
+Blessing Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$223.25,IL
+Blessing Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$223.25,IL
+Blessing Hospital,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$223.25,IL
+Blessing Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$223.25,IL
+Blessing Hospital,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$183.04,IL
+Blessing Hospital,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$183.04,IL
+Blessing Hospital,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$183.04,IL
+Blessing Hospital,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$199.48,IL
+Blessing Hospital,Speech,HCPCS 92507,Speech Therapy,$126.35,IL
+Blessing Hospital,Speech,HCPCS 92610,Swallow Evaluation,$293.33,IL
+Blessing Hospital,Speech,HCPCS 92526,Swallow Treatment,$134.95,IL
+Blessing Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$25.84,IL
+Blessing Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$28.91,IL
+Blessing Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$124.49,IL
+Blessing Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$124.49,IL
+Blessing Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$50.36,IL
+Blessing Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$88.84,IL
+Blessing Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$78.82,IL
+Blessing Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$78.82,IL
+Blessing Hospital,Blood,HCPCS 85008,Microscopic examination for white blood cells,$21.84,IL
+Blessing Hospital,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$205.85,IL
+Blessing Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$75.61,IL
+Blessing Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$241.65,IL
+Blessing Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$85.74,IL
+Blessing Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$165.88,IL
+Blessing Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$188.97,IL
+Blessing Hospital,Chemistry,HCPCS 82140,Ammonia level,$121.92,IL
+Blessing Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$107.77,IL
+Blessing Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$90.08,IL
+Blessing Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$106.70,IL
+Blessing Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$262.70,IL
+Blessing Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$57.86,IL
+Blessing Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$57.86,IL
+Blessing Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$71.81,IL
+Blessing Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$33.17,IL
+Blessing Hospital,Chemistry,HCPCS 84132,Blood potassium level,$62.24,IL
+Blessing Hospital,Chemistry,HCPCS 84295,Blood sodium level,$60.95,IL
+Blessing Hospital,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$68.55,IL
+Blessing Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$162.45,IL
+Blessing Hospital,Chemistry,HCPCS 82310,Calcium level,$188.72,IL
+Blessing Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$204.41,IL
+Blessing Hospital,Chemistry,HCPCS 82465,Cholesterol level,$44.45,IL
+Blessing Hospital,Chemistry,HCPCS 82525,Copper level,$139.52,IL
+Blessing Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$210.37,IL
+Blessing Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$140.00,IL
+Blessing Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$90.21,IL
+Blessing Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$111.58,IL
+Blessing Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$177.00,IL
+Blessing Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$126.83,IL
+Blessing Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$143.87,IL
+Blessing Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$114.77,IL
+Blessing Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$82.84,IL
+Blessing Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$94.31,IL
+Blessing Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$255.72,IL
+Blessing Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$274.93,IL
+Blessing Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$166.60,IL
+Blessing Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$515.85,IL
+Blessing Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$176.72,IL
+Blessing Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$245.69,IL
+Blessing Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$177.87,IL
+Blessing Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$188.72,IL
+Blessing Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$89.46,IL
+Blessing Hospital,Chemistry,HCPCS 83540,Iron level,$83.42,IL
+Blessing Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$78.30,IL
+Blessing Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$89.68,IL
+Blessing Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$152.14,IL
+Blessing Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$79.05,IL
+Blessing Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$242.33,IL
+Blessing Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$187.90,IL
+Blessing Hospital,Chemistry,HCPCS 83735,Magnesium Level,$76.04,IL
+Blessing Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$191.13,IL
+Blessing Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$256.30,IL
+Blessing Hospital,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$70.07,IL
+Blessing Hospital,Chemistry,HCPCS 83945,Oxalate level,$45.41,IL
+Blessing Hospital,Chemistry,HCPCS 83970,Parathormone,$239.56,IL
+Blessing Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$76.74,IL
+Blessing Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$245.69,IL
+Blessing Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$287.89,IL
+Blessing Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$76.74,IL
+Blessing Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$30.48,IL
+Blessing Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$239.07,IL
+Blessing Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$239.07,IL
+Blessing Hospital,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$399.56,IL
+Blessing Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$106.70,IL
+Blessing Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$76.74,IL
+Blessing Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$76.74,IL
+Blessing Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$76.74,IL
+Blessing Hospital,Chemistry,HCPCS 84560,Uric acid level,$74.06,IL
+Blessing Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$74.06,IL
+Blessing Hospital,Chemistry,HCPCS 82340,Urine calcium level,$188.72,IL
+Blessing Hospital,Chemistry,HCPCS 82436,Urine chloride level,$68.44,IL
+Blessing Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$85.74,IL
+Blessing Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$114.02,IL
+Blessing Hospital,Chemistry,HCPCS 84133,Urine potassium level,$62.24,IL
+Blessing Hospital,Chemistry,HCPCS 84300,Urine sodium level,$60.95,IL
+Blessing Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$220.18,IL
+Blessing Hospital,Chemistry,HCPCS 84630,Zinc level,$94.14,IL
+Blessing Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$112.23,IL
+Blessing Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$97.91,IL
+Blessing Hospital,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$114.02,IL
+Blessing Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$114.02,IL
+Blessing Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$151.89,IL
+Blessing Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$94.36,IL
+Blessing Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$381.71,IL
+Blessing Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$94.36,IL
+Blessing Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$94.36,IL
+Blessing Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$100.06,IL
+Blessing Hospital,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$208.01,IL
+Blessing Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$63.79,IL
+Blessing Hospital,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$345.19,IL
+Blessing Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$94.36,IL
+Blessing Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$261.19,IL
+Blessing Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$235.74,IL
+Blessing Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$52.19,IL
+Blessing Hospital,Immunology,HCPCS 86580,Skin test for tuberculosis,$24.00,IL
+Blessing Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$81.27,IL
+Blessing Hospital,Immunology,HCPCS 86361,T cell count and ratio,$159.10,IL
+Blessing Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$159.10,IL
+Blessing Hospital,Immunology,HCPCS 86359,"T cells count, total",$159.10,IL
+Blessing Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$40.37,IL
+Blessing Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$153.44,IL
+Blessing Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$80.08,IL
+Blessing Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$140.36,IL
+Blessing Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$33.08,IL
+Blessing Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$168.00,IL
+Blessing Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$715.87,IL
+Blessing Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$94.36,IL
+Blessing Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$406.43,IL
+Blessing Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$136.05,IL
+Blessing Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$522.64,IL
+Blessing Hospital,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$151.89,IL
+Blessing Hospital,Microbiology,HCPCS 87624,HPV Detection,$120.03,IL
+Blessing Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$132.08,IL
+Blessing Hospital,Microbiology,HCPCS 86747,Parvovirus antibody test,$119.65,IL
+Blessing Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$93.07,IL
+Blessing Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$120.66,IL
+Blessing Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$144.48,IL
+Blessing Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$63.07,IL
+Blessing Hospital,Microbiology,HCPCS 87045,Stool Culture,$117.60,IL
+Blessing Hospital,Microbiology,HCPCS 87880,Strep Test,$75.61,IL
+Blessing Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$181.51,IL
+Blessing Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$81.27,IL
+Blessing Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$43.56,IL
+Blessing Hospital,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$940.22,IL
+Blessing Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$402.25,IL
+Blessing Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$107.57,IL
+Blessing Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$146.40,IL
+Blessing Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$151.21,IL
+Blessing Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$96.76,IL
+Blessing Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$133.42,IL
+Blessing Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$165.43,IL
+Blessing Hospital,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$183.75,IL
+Blessing Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$110.63,IL
+Blessing Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$64.84,IL
+Blessing Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$45.83,IL
+Blessing Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$85.05,IL
+Blessing Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$122.76,IL
+Blessing Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$242.13,IL
+Blessing Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$147.40,IL
+Blessing Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$162.75,IL
+Blessing Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$104.24,IL
+Blessing Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$104.24,IL
+Blessing Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$106.41,IL
+Blessing Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$115.58,IL
+Blessing Hospital,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$281.52,IL
+Blessing Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$115.58,IL
+Blessing Hospital,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$24.79,IL
+Blessing Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$39.74,IL
+Blessing Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$39.74,IL
+Blessing Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$91.64,IL
+Blessing Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$1,984.31",IL
+Blessing Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$224.77,IL
+Blessing Hospital,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$224.77,IL
+Blessing Hospital,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$733.73,IL
+Blessing Hospital,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$3,833.14",IL
+Blessing Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,$483.80,IL
+Blessing Hospital,Pulmonary,HCPCS 94618,Pulmonary stress test,$282.14,IL
+Blessing Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$701.68,IL
+Blessing Hospital,Sleep,HCPCS 95810,Sleep study,"$3,028.23",IL
+Blessing Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$221.72,IL
+Blessing Hospital,Breast,HCPCS 77067,Mammogram Screening,$177.25,IL
+Blessing Hospital,Breast,HCPCS 77066,Mammography of both breasts,$221.72,IL
+Blessing Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$2,832.85",IL
+Blessing Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$2,045.07",IL
+Blessing Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,482.17",IL
+Blessing Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,874.16",IL
+Blessing Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$4,926.67",IL
+Blessing Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$4,926.67",IL
+Blessing Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$3,642.43",IL
+Blessing Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$2,992.31",IL
+Blessing Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$2,992.31",IL
+Blessing Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$2,433.61",IL
+Blessing Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,457.33",IL
+Blessing Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$2,357.28",IL
+Blessing Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$2,728.99",IL
+Blessing Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,747.73",IL
+Blessing Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,730.85",IL
+Blessing Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,730.85",IL
+Blessing Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$5,098.19",IL
+Blessing Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,730.85",IL
+Blessing Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$4,291.02",IL
+Blessing Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,016.14",IL
+Blessing Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$4,902.42",IL
+Blessing Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,311.38",IL
+Blessing Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$2,038.81",IL
+Blessing Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$452.19,IL
+Blessing Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$837.06,IL
+Blessing Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$623.75,IL
+Blessing Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$781.46,IL
+Blessing Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$781.46,IL
+Blessing Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$947.13,IL
+Blessing Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$947.13,IL
+Blessing Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$692.68,IL
+Blessing Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$213.91,IL
+Blessing Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$213.91,IL
+Blessing Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$253.54,IL
+Blessing Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$513.10,IL
+Blessing Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$334.55,IL
+Blessing Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$198.09,IL
+Blessing Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$378.73,IL
+Blessing Hospital,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$469.23,IL
+Blessing Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$247.43,IL
+Blessing Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$275.26,IL
+Blessing Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$181.04,IL
+Blessing Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$215.05,IL
+Blessing Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$215.05,IL
+Blessing Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$374.37,IL
+Blessing Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$215.05,IL
+Blessing Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$374.37,IL
+Blessing Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$222.22,IL
+Blessing Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$215.05,IL
+Blessing Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$222.57,IL
+Blessing Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$374.37,IL
+Blessing Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$374.37,IL
+Blessing Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$225.27,IL
+Blessing Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$356.01,IL
+Blessing Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$356.01,IL
+Blessing Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$413.60,IL
+Blessing Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$413.60,IL
+Blessing Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$213.11,IL
+Blessing Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$156.45,IL
+Blessing Hospital,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$282.86,IL
+Blessing Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$201.77,IL
+Blessing Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$201.77,IL
+Blessing Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$209.81,IL
+Blessing Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$201.77,IL
+Blessing Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$201.77,IL
+Blessing Hospital,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$7,798.92",IL
+Blessing Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$14,321.95",IL
+Blessing Hospital,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$14,321.95",IL
+Blessing Hospital,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,"$13,290.66",IL
+Blessing Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$13,290.66",IL
+Blessing Hospital,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$6,687.31",IL
+Blessing Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$11,386.84",IL
+Blessing Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$462.46,IL
+Blessing Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$462.46,IL
+Blessing Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$43,414.18",IL
+Blessing Hospital,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,"$10,492.18",IL
+Blessing Hospital,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$21,745.00",IL
+Blessing Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$18,818.59",IL
+Blessing Hospital,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$18,818.59",IL
+Blessing Hospital,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$18,818.59",IL
+Blessing Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$9,541.56",IL
+Blessing Hospital,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$11,386.84",IL
+Blessing Hospital,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$9,522.02",IL
+Blessing Hospital,Breast,HCPCS 19125,Excision of breast lesion,"$9,432.10",IL
+Blessing Hospital,Breast,HCPCS 19120,Excision of cyst of breast,"$9,432.10",IL
+Blessing Hospital,Breast,HCPCS 19301,Partial removal of breast,"$13,425.08",IL
+Blessing Hospital,Breast,HCPCS 19318,Reduction mammaplasty,"$16,115.64",IL
+Blessing Hospital,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),"$216,645.65",IL
+Blessing Hospital,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$128,789.06",IL
+Blessing Hospital,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$128,789.06",IL
+Blessing Hospital,Cardiac,HCPCS 33249,Defibrillator complete system,"$73,438.16",IL
+Blessing Hospital,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$15,951.03",IL
+Blessing Hospital,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$15,951.03",IL
+Blessing Hospital,Cardiac,MSDRG 247,Implant drug-eluting stent,"$96,230.92",IL
+Blessing Hospital,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$48,546.67",IL
+Blessing Hospital,General,HCPCS 55700,Biopsy of prostate gland,"$7,917.41",IL
+Blessing Hospital,General,HCPCS 10060,Drainage of Abscess,$832.55,IL
+Blessing Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple","$1,808.93",IL
+Blessing Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$527.54,IL
+Blessing Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$987.81,IL
+Blessing Hospital,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$987.81,IL
+Blessing Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$987.81,IL
+Blessing Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$987.81,IL
+Blessing Hospital,Head,HCPCS 69436,Create eardrum opening,"$3,201.30",IL
+Blessing Hospital,Head,HCPCS 69631,Repair of eardrum,"$16,430.52",IL
+Blessing Hospital,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$6,629.56",IL
+Blessing Hospital,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$7,233.44",IL
+Blessing Hospital,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$106,555.11",IL
+Blessing Hospital,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$929.73,IL
+Blessing Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$1,563.23",IL
+Blessing Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$1,887.51",IL
+Blessing Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$1,626.22",IL
+Blessing Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$8,890.05",IL
+Blessing Hospital,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$8,890.05",IL
+Blessing Hospital,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,"$73,726.37",IL
+Blessing Hospital,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$14,566.37",IL
+Blessing Hospital,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$12,735.60",IL
+Blessing Hospital,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$100,996.56",IL
+Blessing Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$106,555.11",IL
+Blessing Hospital,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$502.43,IL
+Blessing Hospital,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$21,549.16",IL
+Blessing Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$8,989.71",IL
+Blessing Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$17,769.75",IL
+Blessing Hospital,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$12,991.20",IL
+Blessing Hospital,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$13,579.98",IL
+Blessing Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$7,912.97",IL
+Blessing Hospital,Ocular,HCPCS 66984,Cataract removal,"$4,866.04",IL
+Blessing Hospital,Ocular,HCPCS 66982,Cataract removal with insertion of lens,"$4,866.04",IL
+Blessing Hospital,Ocular,HCPCS 65426,Removal or relocation of corneal conjunctiva,"$4,622.07",IL
+Blessing Hospital,Ocular,HCPCS 67108,Repair of detached retina,"$14,756.05",IL
+Blessing Hospital,Ocular,HCPCS 65756,Transplant of outer layer of corneal tissue,"$19,359.01",IL
+Blessing Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$376.89,IL
+Blessing Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$376.89,IL
+Blessing Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$21.57,IL
+Blessing Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$4,084.50",IL
+Blessing Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$2,436.44",IL
+Blessing Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$2,594.31",IL

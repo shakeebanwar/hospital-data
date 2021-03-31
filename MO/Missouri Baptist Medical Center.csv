@@ -1,0 +1,131 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Missouri Baptist Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$238.80,MO
+Missouri Baptist Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$329.40,MO
+Missouri Baptist Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$228.60,MO
+Missouri Baptist Medical Center,Psychology,HCPCS 90853,Group psychotherapy,$195.60,MO
+Missouri Baptist Medical Center,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$355.80,MO
+Missouri Baptist Medical Center,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$161.40,MO
+Missouri Baptist Medical Center,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$177.60,MO
+Missouri Baptist Medical Center,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$202.20,MO
+Missouri Baptist Medical Center,Speech,HCPCS 92507,Speech Therapy,$208.20,MO
+Missouri Baptist Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$30.60,MO
+Missouri Baptist Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$51.60,MO
+Missouri Baptist Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$59.40,MO
+Missouri Baptist Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$51.60,MO
+Missouri Baptist Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$43.31,MO
+Missouri Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$93.00,MO
+Missouri Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$141.60,MO
+Missouri Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$34.54,MO
+Missouri Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$80.40,MO
+Missouri Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$118.80,MO
+Missouri Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$180.60,MO
+Missouri Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$120.00,MO
+Missouri Baptist Medical Center,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$37.20,MO
+Missouri Baptist Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$34.80,MO
+Missouri Baptist Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$42.00,MO
+Missouri Baptist Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$3,968.52",MO
+Missouri Baptist Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$2,653.44",MO
+Missouri Baptist Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,156.80",MO
+Missouri Baptist Medical Center,Pulmonary,HCPCS 94640,Aerosol Treatment,$121.80,MO
+Missouri Baptist Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$250.80,MO
+Missouri Baptist Medical Center,Sleep,HCPCS 95810,Sleep study,"$3,762.00",MO
+Missouri Baptist Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$30.00,MO
+Missouri Baptist Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$234.00,MO
+Missouri Baptist Medical Center,Breast,HCPCS 77067,Mammogram Screening,$239.40,MO
+Missouri Baptist Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$303.00,MO
+Missouri Baptist Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,212.00",MO
+Missouri Baptist Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$984.00,MO
+Missouri Baptist Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$853.80,MO
+Missouri Baptist Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$946.20,MO
+Missouri Baptist Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$2,596.80",MO
+Missouri Baptist Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,043.60",MO
+Missouri Baptist Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,804.80",MO
+Missouri Baptist Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,119.60",MO
+Missouri Baptist Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,312.80",MO
+Missouri Baptist Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,020.00",MO
+Missouri Baptist Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$886.80,MO
+Missouri Baptist Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,105.20",MO
+Missouri Baptist Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,050.60",MO
+Missouri Baptist Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)",$992.40,MO
+Missouri Baptist Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,152.60",MO
+Missouri Baptist Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,459.80",MO
+Missouri Baptist Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,094.00",MO
+Missouri Baptist Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,576.20",MO
+Missouri Baptist Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$2,118.60",MO
+Missouri Baptist Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,960.80",MO
+Missouri Baptist Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,323.60",MO
+Missouri Baptist Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,020.20",MO
+Missouri Baptist Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,381.80",MO
+Missouri Baptist Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$1,399.20",MO
+Missouri Baptist Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$489.60,MO
+Missouri Baptist Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$482.40,MO
+Missouri Baptist Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$397.80,MO
+Missouri Baptist Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$558.00,MO
+Missouri Baptist Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$458.40,MO
+Missouri Baptist Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$505.20,MO
+Missouri Baptist Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$442.20,MO
+Missouri Baptist Medical Center,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$191.40,MO
+Missouri Baptist Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$205.80,MO
+Missouri Baptist Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$156.60,MO
+Missouri Baptist Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$188.40,MO
+Missouri Baptist Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$348.60,MO
+Missouri Baptist Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$312.00,MO
+Missouri Baptist Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$163.20,MO
+Missouri Baptist Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$224.40,MO
+Missouri Baptist Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$235.20,MO
+Missouri Baptist Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$198.60,MO
+Missouri Baptist Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$154.20,MO
+Missouri Baptist Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$141.00,MO
+Missouri Baptist Medical Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$135.00,MO
+Missouri Baptist Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$163.20,MO
+Missouri Baptist Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$245.40,MO
+Missouri Baptist Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$242.40,MO
+Missouri Baptist Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$323.40,MO
+Missouri Baptist Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$217.20,MO
+Missouri Baptist Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$441.60,MO
+Missouri Baptist Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$241.80,MO
+Missouri Baptist Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$240.60,MO
+Missouri Baptist Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$146.40,MO
+Missouri Baptist Medical Center,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$154.80,MO
+Missouri Baptist Medical Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$165.60,MO
+Missouri Baptist Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$183.60,MO
+Missouri Baptist Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$249.00,MO
+Missouri Baptist Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$157.80,MO
+Missouri Baptist Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$236.40,MO
+Missouri Baptist Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$11,225.59",MO
+Missouri Baptist Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$8,611.67",MO
+Missouri Baptist Medical Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$13,043.00",MO
+Missouri Baptist Medical Center,Breast,HCPCS 19125,Excision of breast lesion,"$7,335.91",MO
+Missouri Baptist Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$6,154.65",MO
+Missouri Baptist Medical Center,Breast,HCPCS 19301,Partial removal of breast,"$10,627.45",MO
+Missouri Baptist Medical Center,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),"$143,150.68",MO
+Missouri Baptist Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,136.03",MO
+Missouri Baptist Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$2,438.79",MO
+Missouri Baptist Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,773.26",MO
+Missouri Baptist Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$2,851.68",MO
+Missouri Baptist Medical Center,Digestive,HCPCS 43235,EGD,"$1,932.69",MO
+Missouri Baptist Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$2,735.40",MO
+Missouri Baptist Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$15,534.48",MO
+Missouri Baptist Medical Center,General,HCPCS 55700,Biopsy of prostate gland,"$6,593.24",MO
+Missouri Baptist Medical Center,General,HCPCS 10060,Drainage of Abscess,"$1,372.38",MO
+Missouri Baptist Medical Center,General,HCPCS 55866,Prostatectomy,"$22,010.81",MO
+Missouri Baptist Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$1,293.39",MO
+Missouri Baptist Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$1,076.07",MO
+Missouri Baptist Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$1,203.27",MO
+Missouri Baptist Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$1,136.50",MO
+Missouri Baptist Medical Center,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$1,227.46",MO
+Missouri Baptist Medical Center,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$1,642.27",MO
+Missouri Baptist Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$1,119.16",MO
+Missouri Baptist Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$22,614.78",MO
+Missouri Baptist Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$7,426.99",MO
+Missouri Baptist Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$15,453.15",MO
+Missouri Baptist Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$34,044.28",MO
+Missouri Baptist Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$50,260.40",MO
+Missouri Baptist Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$393.60,MO
+Missouri Baptist Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$5,922.31",MO
+Missouri Baptist Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$6,719.92",MO
+Missouri Baptist Medical Center,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$10,148.15",MO
+Missouri Baptist Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$4,042.41",MO
+Missouri Baptist Medical Center,Ocular,HCPCS 66984,Cataract removal,"$5,309.68",MO
+Missouri Baptist Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$289.80,MO
+Missouri Baptist Medical Center,Soft Tissue,HCPCS 97602,Non-selective debridement,$201.00,MO

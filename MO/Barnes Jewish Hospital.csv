@@ -1,0 +1,123 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Barnes Jewish Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$2,627.40",MO
+Barnes Jewish Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$243.00,MO
+Barnes Jewish Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$430.80,MO
+Barnes Jewish Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$699.60,MO
+Barnes Jewish Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,140.00",MO
+Barnes Jewish Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,815.60",MO
+Barnes Jewish Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$282.60,MO
+Barnes Jewish Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$27.60,MO
+Barnes Jewish Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$53.40,MO
+Barnes Jewish Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$85.20,MO
+Barnes Jewish Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$55.20,MO
+Barnes Jewish Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$74.40,MO
+Barnes Jewish Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$133.80,MO
+Barnes Jewish Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$196.80,MO
+Barnes Jewish Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$66.60,MO
+Barnes Jewish Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$85.20,MO
+Barnes Jewish Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$186.60,MO
+Barnes Jewish Hospital,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$217.80,MO
+Barnes Jewish Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$120.00,MO
+Barnes Jewish Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$139.80,MO
+Barnes Jewish Hospital,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$32.40,MO
+Barnes Jewish Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$33.00,MO
+Barnes Jewish Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$43.80,MO
+Barnes Jewish Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$4,996.80",MO
+Barnes Jewish Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$3,232.80",MO
+Barnes Jewish Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,006.20",MO
+Barnes Jewish Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,$96.60,MO
+Barnes Jewish Hospital,Sleep,HCPCS 95810,Sleep study,"$3,548.34",MO
+Barnes Jewish Hospital,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$30.00,MO
+Barnes Jewish Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$219.60,MO
+Barnes Jewish Hospital,Breast,HCPCS 77067,Mammogram Screening,$166.20,MO
+Barnes Jewish Hospital,Breast,HCPCS 77066,Mammography of both breasts,$230.40,MO
+Barnes Jewish Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,239.60",MO
+Barnes Jewish Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$939.60,MO
+Barnes Jewish Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,135.20",MO
+Barnes Jewish Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,427.40",MO
+Barnes Jewish Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$2,478.60",MO
+Barnes Jewish Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,342.40",MO
+Barnes Jewish Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,690.20",MO
+Barnes Jewish Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,137.00",MO
+Barnes Jewish Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,602.60",MO
+Barnes Jewish Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,229.40",MO
+Barnes Jewish Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$957.00,MO
+Barnes Jewish Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,281.60",MO
+Barnes Jewish Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,000.80",MO
+Barnes Jewish Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,318.20",MO
+Barnes Jewish Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,557.60",MO
+Barnes Jewish Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,318.80",MO
+Barnes Jewish Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,230.80",MO
+Barnes Jewish Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,530.60",MO
+Barnes Jewish Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$2,744.40",MO
+Barnes Jewish Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$3,090.60",MO
+Barnes Jewish Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,597.20",MO
+Barnes Jewish Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,300.40",MO
+Barnes Jewish Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,329.60",MO
+Barnes Jewish Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$1,452.00",MO
+Barnes Jewish Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$472.20,MO
+Barnes Jewish Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$471.00,MO
+Barnes Jewish Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$410.40,MO
+Barnes Jewish Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$495.60,MO
+Barnes Jewish Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$425.40,MO
+Barnes Jewish Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$490.80,MO
+Barnes Jewish Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$440.40,MO
+Barnes Jewish Hospital,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$339.00,MO
+Barnes Jewish Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$228.60,MO
+Barnes Jewish Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$144.00,MO
+Barnes Jewish Hospital,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$403.20,MO
+Barnes Jewish Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$360.60,MO
+Barnes Jewish Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$221.40,MO
+Barnes Jewish Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$209.40,MO
+Barnes Jewish Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$276.60,MO
+Barnes Jewish Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$219.00,MO
+Barnes Jewish Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$214.20,MO
+Barnes Jewish Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$213.00,MO
+Barnes Jewish Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$165.00,MO
+Barnes Jewish Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$178.80,MO
+Barnes Jewish Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$243.00,MO
+Barnes Jewish Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$183.60,MO
+Barnes Jewish Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$241.80,MO
+Barnes Jewish Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$246.00,MO
+Barnes Jewish Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$379.20,MO
+Barnes Jewish Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$272.40,MO
+Barnes Jewish Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$690.00,MO
+Barnes Jewish Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$318.00,MO
+Barnes Jewish Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$316.20,MO
+Barnes Jewish Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$183.00,MO
+Barnes Jewish Hospital,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$244.80,MO
+Barnes Jewish Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$179.40,MO
+Barnes Jewish Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$267.00,MO
+Barnes Jewish Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$220.20,MO
+Barnes Jewish Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$175.20,MO
+Barnes Jewish Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$268.20,MO
+Barnes Jewish Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$13,725.55",MO
+Barnes Jewish Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$12,664.23",MO
+Barnes Jewish Hospital,Breast,HCPCS 19120,Excision of cyst of breast,"$7,329.77",MO
+Barnes Jewish Hospital,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),"$209,450.56",MO
+Barnes Jewish Hospital,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers","$4,996.80",MO
+Barnes Jewish Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$2,232.84",MO
+Barnes Jewish Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$3,407.67",MO
+Barnes Jewish Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$4,222.59",MO
+Barnes Jewish Hospital,Digestive,HCPCS 43235,EGD,"$2,344.89",MO
+Barnes Jewish Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$3,654.01",MO
+Barnes Jewish Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$24,318.43",MO
+Barnes Jewish Hospital,General,HCPCS 55700,Biopsy of prostate gland,"$8,864.00",MO
+Barnes Jewish Hospital,General,HCPCS 55866,Prostatectomy,"$21,975.49",MO
+Barnes Jewish Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$1,678.87",MO
+Barnes Jewish Hospital,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$1,947.56",MO
+Barnes Jewish Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$2,169.80",MO
+Barnes Jewish Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$1,284.83",MO
+Barnes Jewish Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$25,157.62",MO
+Barnes Jewish Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$6,245.47",MO
+Barnes Jewish Hospital,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$12,907.69",MO
+Barnes Jewish Hospital,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$44,716.51",MO
+Barnes Jewish Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$84,297.22",MO
+Barnes Jewish Hospital,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$490.20,MO
+Barnes Jewish Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$7,153.05",MO
+Barnes Jewish Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$4,716.72",MO
+Barnes Jewish Hospital,Ocular,HCPCS 66984,Cataract removal,"$5,725.96",MO
+Barnes Jewish Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$205.20,MO
+Barnes Jewish Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,675.20",MO
+Barnes Jewish Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,545.60",MO
+Barnes Jewish Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$2,022.00",MO

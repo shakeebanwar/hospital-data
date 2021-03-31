@@ -1,0 +1,165 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+St Mary's Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$1,780.35",CO
+St Mary's Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$4,394.11",CO
+St Mary's Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$358.26,CO
+St Mary's Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$560.25,CO
+St Mary's Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$905.03,CO
+St Mary's Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,418.76",CO
+St Mary's Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$2,091.53",CO
+St Mary's Medical Center,Hospital,HCPCS 99219,Hospital observation care typically 30 minutes,$149.28,CO
+St Mary's Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$253.37,CO
+St Mary's Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$276.36,CO
+St Mary's Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$230.30,CO
+St Mary's Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$491.37,CO
+St Mary's Medical Center,Speech,HCPCS 92507,Speech Therapy,$314.37,CO
+St Mary's Medical Center,Speech,HCPCS 92610,Swallow Evaluation,$523.29,CO
+St Mary's Medical Center,Speech,HCPCS 92526,Swallow Treatment,$314.37,CO
+St Mary's Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$12.50,CO
+St Mary's Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$12.50,CO
+St Mary's Medical Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$40.29,CO
+St Mary's Medical Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$83.86,CO
+St Mary's Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$25.03,CO
+St Mary's Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$58.28,CO
+St Mary's Medical Center,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$54.29,CO
+St Mary's Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$38.99,CO
+St Mary's Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$29.51,CO
+St Mary's Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$25.20,CO
+St Mary's Medical Center,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$214.59,CO
+St Mary's Medical Center,Blood,HCPCS 85660,Red blood cell sickling measurement,$79.91,CO
+St Mary's Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$938.42,CO
+St Mary's Medical Center,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$400.16,CO
+St Mary's Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$172.80,CO
+St Mary's Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$26.01,CO
+St Mary's Medical Center,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$131.64,CO
+St Mary's Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$96.01,CO
+St Mary's Medical Center,Chemistry,HCPCS 82140,Ammonia level,$82.29,CO
+St Mary's Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$49.25,CO
+St Mary's Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$144.87,CO
+St Mary's Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$146.30,CO
+St Mary's Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$91.84,CO
+St Mary's Medical Center,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$80.57,CO
+St Mary's Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$21.70,CO
+St Mary's Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$21.70,CO
+St Mary's Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$34.93,CO
+St Mary's Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$25.03,CO
+St Mary's Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$24.99,CO
+St Mary's Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$22.16,CO
+St Mary's Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$53.97,CO
+St Mary's Medical Center,Chemistry,HCPCS 82310,Calcium level,$45.29,CO
+St Mary's Medical Center,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$39.76,CO
+St Mary's Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$196.11,CO
+St Mary's Medical Center,Chemistry,HCPCS 82465,Cholesterol level,$31.99,CO
+St Mary's Medical Center,Chemistry,HCPCS 82525,Copper level,$102.45,CO
+St Mary's Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$160.51,CO
+St Mary's Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$214.59,CO
+St Mary's Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$40.36,CO
+St Mary's Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$136.64,CO
+St Mary's Medical Center,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$247.00,CO
+St Mary's Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$232.23,CO
+St Mary's Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$134.40,CO
+St Mary's Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$148.93,CO
+St Mary's Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$99.79,CO
+St Mary's Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$34.06,CO
+St Mary's Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$84.32,CO
+St Mary's Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$154.88,CO
+St Mary's Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$154.88,CO
+St Mary's Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$96.29,CO
+St Mary's Medical Center,Chemistry,HCPCS 83718,HDL cholesterol level,$55.62,CO
+St Mary's Medical Center,Chemistry,HCPCS 83020,Hemoglobin Measurement,$245.14,CO
+St Mary's Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$229.64,CO
+St Mary's Medical Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$190.33,CO
+St Mary's Medical Center,Chemistry,HCPCS 83520,IgE (immune system protein) level,$161.84,CO
+St Mary's Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$141.44,CO
+St Mary's Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$95.76,CO
+St Mary's Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$78.51,CO
+St Mary's Medical Center,Chemistry,HCPCS 83540,Iron level,$50.75,CO
+St Mary's Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$44.63,CO
+St Mary's Medical Center,Chemistry,HCPCS 83721,LDL cholesterol level,$58.52,CO
+St Mary's Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$75.29,CO
+St Mary's Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$36.44,CO
+St Mary's Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$116.41,CO
+St Mary's Medical Center,Chemistry,HCPCS 83021,Liver function blood test panel,$140.53,CO
+St Mary's Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$54.67,CO
+St Mary's Medical Center,Chemistry,HCPCS 82542,Mass spectrometry,$170.73,CO
+St Mary's Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$80.43,CO
+St Mary's Medical Center,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$159.25,CO
+St Mary's Medical Center,Chemistry,HCPCS 83918,Organic acid level,$148.33,CO
+St Mary's Medical Center,Chemistry,HCPCS 83945,Oxalate level,$64.89,CO
+St Mary's Medical Center,Chemistry,HCPCS 83970,Parathormone,$233.94,CO
+St Mary's Medical Center,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$105.70,CO
+St Mary's Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$47.15,CO
+St Mary's Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$131.64,CO
+St Mary's Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$160.06,CO
+St Mary's Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$115.26,CO
+St Mary's Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$44.87,CO
+St Mary's Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$214.73,CO
+St Mary's Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$163.03,CO
+St Mary's Medical Center,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement",$56.35,CO
+St Mary's Medical Center,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$396.59,CO
+St Mary's Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$49.95,CO
+St Mary's Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$56.88,CO
+St Mary's Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$47.15,CO
+St Mary's Medical Center,Chemistry,HCPCS 84478,Triglycerides level,$44.87,CO
+St Mary's Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$65.59,CO
+St Mary's Medical Center,Chemistry,HCPCS 84560,Uric acid level,$45.26,CO
+St Mary's Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$44.31,CO
+St Mary's Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$60.34,CO
+St Mary's Medical Center,Chemistry,HCPCS 82436,Urine chloride level,$41.55,CO
+St Mary's Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$30.73,CO
+St Mary's Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$84.91,CO
+St Mary's Medical Center,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$101.64,CO
+St Mary's Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$41.65,CO
+St Mary's Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$44.80,CO
+St Mary's Medical Center,Chemistry,HCPCS 84591,Vitamin B-6 level,$42.60,CO
+St Mary's Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$282.84,CO
+St Mary's Medical Center,Chemistry,HCPCS 84630,Zinc level,$107.38,CO
+St Mary's Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$177.45,CO
+St Mary's Medical Center,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$163.31,CO
+St Mary's Medical Center,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$119.56,CO
+St Mary's Medical Center,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$119.56,CO
+St Mary's Medical Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$111.69,CO
+St Mary's Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$142.63,CO
+St Mary's Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$141.58,CO
+St Mary's Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$124.25,CO
+St Mary's Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$110.08,CO
+St Mary's Medical Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$187.95,CO
+St Mary's Medical Center,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$182.60,CO
+St Mary's Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$82.74,CO
+St Mary's Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$31.15,CO
+St Mary's Medical Center,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$144.03,CO
+St Mary's Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$131.36,CO
+St Mary's Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$106.65,CO
+St Mary's Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$67.17,CO
+St Mary's Medical Center,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$186.59,CO
+St Mary's Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$59.82,CO
+St Mary's Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$12.60,CO
+St Mary's Medical Center,Immunology,HCPCS 86361,T cell count and ratio,$172.55,CO
+St Mary's Medical Center,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$174.09,CO
+St Mary's Medical Center,Immunology,HCPCS 86359,"T cells count, total",$147.81,CO
+St Mary's Medical Center,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$113.79,CO
+St Mary's Medical Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$38.75,CO
+St Mary's Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$87.12,CO
+St Mary's Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$63.70,CO
+St Mary's Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$111.23,CO
+St Mary's Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$0.01,CO
+St Mary's Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$176.12,CO
+St Mary's Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$171.29,CO
+St Mary's Medical Center,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$227.78,CO
+St Mary's Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$70.25,CO
+St Mary's Medical Center,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$212.56,CO
+St Mary's Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$153.37,CO
+St Mary's Medical Center,Microbiology,HCPCS 87517,Hepatitis B Detection,$199.61,CO
+St Mary's Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$170.21,CO
+St Mary's Medical Center,Microbiology,HCPCS 87624,HPV Detection,$123.62,CO
+St Mary's Medical Center,Microbiology,HCPCS 86735,Mumps virus antibody test,$105.84,CO
+St Mary's Medical Center,Microbiology,HCPCS 86747,Parvovirus antibody test,$187.95,CO
+St Mary's Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$65.28,CO
+St Mary's Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$110.50,CO
+St Mary's Medical Center,Microbiology,HCPCS 87207,Smear for infectious agents,$105.11,CO
+St Mary's Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$101.82,CO
+St Mary's Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$75.46,CO
+St Mary's Medical Center,Microbiology,HCPCS 87045,Stool Culture,$66.01,CO
+St Mary's Medical Center,Microbiology,HCPCS 87880,Streptoccus,$61.15,CO
+St Mary's Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$34.76,CO
+St Mary's Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$91.18,CO
+St Mary's Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$27.06,CO

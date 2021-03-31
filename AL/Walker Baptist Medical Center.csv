@@ -1,0 +1,138 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Walker Baptist Medical Center,Speech,HCPCS 92507,Speech Therapy,"$3,468.85",AL
+Walker Baptist Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$32.23,AL
+Walker Baptist Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$153.45,AL
+Walker Baptist Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$182.24,AL
+Walker Baptist Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$145.73,AL
+Walker Baptist Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$117.14,AL
+Walker Baptist Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$11,194.04",AL
+Walker Baptist Medical Center,Chemistry,HCPCS 82140,Ammonia level,$167.88,AL
+Walker Baptist Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$168.59,AL
+Walker Baptist Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$166.79,AL
+Walker Baptist Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$92.92,AL
+Walker Baptist Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$108.26,AL
+Walker Baptist Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$32.06,AL
+Walker Baptist Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$33.36,AL
+Walker Baptist Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$45.43,AL
+Walker Baptist Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$180.59,AL
+Walker Baptist Medical Center,Chemistry,HCPCS 82310,Calcium level,$152.25,AL
+Walker Baptist Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$274.01,AL
+Walker Baptist Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$208.73,AL
+Walker Baptist Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$205.42,AL
+Walker Baptist Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$190.28,AL
+Walker Baptist Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$154.93,AL
+Walker Baptist Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$172.26,AL
+Walker Baptist Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$208.15,AL
+Walker Baptist Medical Center,Chemistry,HCPCS 83540,Iron level,$41.06,AL
+Walker Baptist Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$92.74,AL
+Walker Baptist Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$198.94,AL
+Walker Baptist Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$412.50,AL
+Walker Baptist Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$91.22,AL
+Walker Baptist Medical Center,Chemistry,HCPCS 83970,Parathormone,$409.58,AL
+Walker Baptist Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$77.65,AL
+Walker Baptist Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$97.99,AL
+Walker Baptist Medical Center,Chemistry,HCPCS 84478,Triglycerides level,$112.66,AL
+Walker Baptist Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$93.54,AL
+Walker Baptist Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$75.84,AL
+Walker Baptist Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$104.63,AL
+Walker Baptist Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$226.16,AL
+Walker Baptist Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$114.32,AL
+Walker Baptist Medical Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$124.25,AL
+Walker Baptist Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$243.16,AL
+Walker Baptist Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$248.36,AL
+Walker Baptist Medical Center,Microbiology,HCPCS 87045,Stool Culture,$115.04,AL
+Walker Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$313.95,AL
+Walker Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$213.75,AL
+Walker Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$240.72,AL
+Walker Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$158.69,AL
+Walker Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$167.82,AL
+Walker Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$111.88,AL
+Walker Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,"$1,187.15",AL
+Walker Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$116.00,AL
+Walker Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$49.88,AL
+Walker Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$220.60,AL
+Walker Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$155.42,AL
+Walker Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$136.50,AL
+Walker Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$177.58,AL
+Walker Baptist Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$86.06,AL
+Walker Baptist Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$86.06,AL
+Walker Baptist Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$164.23,AL
+Walker Baptist Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$76.04,AL
+Walker Baptist Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$104.42,AL
+Walker Baptist Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$208.57,AL
+Walker Baptist Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$13,183.92",AL
+Walker Baptist Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$12,116.82",AL
+Walker Baptist Medical Center,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,"$2,653.20",AL
+Walker Baptist Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$48,525.43",AL
+Walker Baptist Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$467.65,AL
+Walker Baptist Medical Center,Breast,HCPCS 77067,Mammogram Screening,$525.45,AL
+Walker Baptist Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$595.11,AL
+Walker Baptist Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,182.29",AL
+Walker Baptist Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$2,605.73",AL
+Walker Baptist Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,637.61",AL
+Walker Baptist Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,360.05",AL
+Walker Baptist Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$13,545.64",AL
+Walker Baptist Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$12,456.38",AL
+Walker Baptist Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$6,710.09",AL
+Walker Baptist Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$5,793.38",AL
+Walker Baptist Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$4,516.60",AL
+Walker Baptist Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$5,995.50",AL
+Walker Baptist Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$3,231.75",AL
+Walker Baptist Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$4,788.38",AL
+Walker Baptist Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$4,839.62",AL
+Walker Baptist Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$5,717.45",AL
+Walker Baptist Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$4,703.54",AL
+Walker Baptist Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$4,229.25",AL
+Walker Baptist Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$9,196.31",AL
+Walker Baptist Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$3,687.20",AL
+Walker Baptist Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$4,555.37",AL
+Walker Baptist Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,018.93",AL
+Walker Baptist Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$744.09,AL
+Walker Baptist Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,700.07",AL
+Walker Baptist Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,061.63",AL
+Walker Baptist Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,347.00",AL
+Walker Baptist Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$532.24,AL
+Walker Baptist Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$691.64,AL
+Walker Baptist Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$439.85,AL
+Walker Baptist Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$569.25,AL
+Walker Baptist Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$696.15,AL
+Walker Baptist Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$292.63,AL
+Walker Baptist Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$333.54,AL
+Walker Baptist Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views","$1,102.50",AL
+Walker Baptist Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,050.05",AL
+Walker Baptist Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$469.07,AL
+Walker Baptist Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$826.75,AL
+Walker Baptist Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$515.00,AL
+Walker Baptist Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$800.00,AL
+Walker Baptist Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views","$1,552.50",AL
+Walker Baptist Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$600.00,AL
+Walker Baptist Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$31,383.77",AL
+Walker Baptist Medical Center,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$27,550.13",AL
+Walker Baptist Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$27,192.95",AL
+Walker Baptist Medical Center,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,"$29,796.02",AL
+Walker Baptist Medical Center,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$28,834.36",AL
+Walker Baptist Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$9,371.58",AL
+Walker Baptist Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$11,569.29",AL
+Walker Baptist Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$10,879.23",AL
+Walker Baptist Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$12,675.51",AL
+Walker Baptist Medical Center,Digestive,HCPCS 43235,EGD,"$9,572.81",AL
+Walker Baptist Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$11,406.64",AL
+Walker Baptist Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$60,982.73",AL
+Walker Baptist Medical Center,General,HCPCS 55700,Biopsy of prostate gland,"$14,767.99",AL
+Walker Baptist Medical Center,General,HCPCS 55866,Prostatectomy,"$73,167.59",AL
+Walker Baptist Medical Center,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$15,194.81",AL
+Walker Baptist Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$3,129.72",AL
+Walker Baptist Medical Center,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$2,690.81",AL
+Walker Baptist Medical Center,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$2,557.43",AL
+Walker Baptist Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$11,100.08",AL
+Walker Baptist Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$94,432.84",AL
+Walker Baptist Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$16,782.46",AL
+Walker Baptist Medical Center,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$30,426.77",AL
+Walker Baptist Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$34,928.13",AL
+Walker Baptist Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$67,678.76",AL
+Walker Baptist Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$129,219.19",AL
+Walker Baptist Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$22,315.49",AL
+Walker Baptist Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$15,102.47",AL
+Walker Baptist Medical Center,Ocular,HCPCS 66984,Cataract removal,"$13,722.10",AL
+Walker Baptist Medical Center,Ocular,HCPCS 66982,Cataract removal with insertion of lens,"$14,461.04",AL
+Walker Baptist Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$10,748.18",AL

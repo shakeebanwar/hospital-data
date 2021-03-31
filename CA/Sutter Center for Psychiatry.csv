@@ -1,0 +1,82 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Sutter Center for Psychiatry,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$301.80,CA
+Sutter Center for Psychiatry,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$249.00,CA
+Sutter Center for Psychiatry,Psychology,HCPCS 90853,Group psychotherapy,$173.40,CA
+Sutter Center for Psychiatry,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$264.00,CA
+Sutter Center for Psychiatry,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$133.80,CA
+Sutter Center for Psychiatry,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$190.20,CA
+Sutter Center for Psychiatry,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$264.60,CA
+Sutter Center for Psychiatry,Speech,HCPCS 92610,Swallow Evaluation,$343.80,CA
+Sutter Center for Psychiatry,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$50.40,CA
+Sutter Center for Psychiatry,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$73.20,CA
+Sutter Center for Psychiatry,Blood,HCPCS 85027,"Complete blood count, automated",$81.00,CA
+Sutter Center for Psychiatry,Chemistry,HCPCS 82150,Amylase (enzyme) level,$86.40,CA
+Sutter Center for Psychiatry,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$365.40,CA
+Sutter Center for Psychiatry,Chemistry,HCPCS 84439,Assay of free thyroxine,$72.60,CA
+Sutter Center for Psychiatry,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$111.00,CA
+Sutter Center for Psychiatry,Chemistry,HCPCS 82310,Calcium level,$44.40,CA
+Sutter Center for Psychiatry,Chemistry,HCPCS 82533,Cortisol Measurement,$109.80,CA
+Sutter Center for Psychiatry,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$61.20,CA
+Sutter Center for Psychiatry,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$119.40,CA
+Sutter Center for Psychiatry,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$160.20,CA
+Sutter Center for Psychiatry,Immunology,HCPCS 86592,Syphilis Detection Test,$45.00,CA
+Sutter Center for Psychiatry,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$87.60,CA
+Sutter Center for Psychiatry,Microbiology,HCPCS 87635,Covid-19 current infection test,$41.40,CA
+Sutter Center for Psychiatry,Microbiology,HCPCS 87517,Hepatitis B Detection,$157.20,CA
+Sutter Center for Psychiatry,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$102.00,CA
+Sutter Center for Psychiatry,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$118.80,CA
+Sutter Center for Psychiatry,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$187.20,CA
+Sutter Center for Psychiatry,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$340.20,CA
+Sutter Center for Psychiatry,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$86.40,CA
+Sutter Center for Psychiatry,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$186.60,CA
+Sutter Center for Psychiatry,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$45.00,CA
+Sutter Center for Psychiatry,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$39.60,CA
+Sutter Center for Psychiatry,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$53.40,CA
+Sutter Center for Psychiatry,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$146.40,CA
+Sutter Center for Psychiatry,Pulmonary,HCPCS 94640,Aerosol Treatment,$279.60,CA
+Sutter Center for Psychiatry,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,845.00",CA
+Sutter Center for Psychiatry,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,886.40",CA
+Sutter Center for Psychiatry,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$3,822.00",CA
+Sutter Center for Psychiatry,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$2,448.00",CA
+Sutter Center for Psychiatry,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,430.00",CA
+Sutter Center for Psychiatry,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,825.60",CA
+Sutter Center for Psychiatry,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,565.00",CA
+Sutter Center for Psychiatry,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$723.00,CA
+Sutter Center for Psychiatry,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$618.60,CA
+Sutter Center for Psychiatry,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$802.80,CA
+Sutter Center for Psychiatry,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$631.80,CA
+Sutter Center for Psychiatry,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$694.20,CA
+Sutter Center for Psychiatry,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$549.60,CA
+Sutter Center for Psychiatry,Chest,HCPCS 71046,X-ray of chest; 2 Views,$306.60,CA
+Sutter Center for Psychiatry,Chest,HCPCS 71045,X-ray of chest; Single View,$258.00,CA
+Sutter Center for Psychiatry,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$328.80,CA
+Sutter Center for Psychiatry,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$455.40,CA
+Sutter Center for Psychiatry,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$412.20,CA
+Sutter Center for Psychiatry,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$283.80,CA
+Sutter Center for Psychiatry,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$483.00,CA
+Sutter Center for Psychiatry,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$519.00,CA
+Sutter Center for Psychiatry,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$329.40,CA
+Sutter Center for Psychiatry,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$300.60,CA
+Sutter Center for Psychiatry,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$315.60,CA
+Sutter Center for Psychiatry,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$380.40,CA
+Sutter Center for Psychiatry,Lower Limbs,HCPCS 73565,X-ray Both Knees,$222.60,CA
+Sutter Center for Psychiatry,Lower Limbs,HCPCS 73630,X-ray exam of foot,$520.20,CA
+Sutter Center for Psychiatry,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$360.60,CA
+Sutter Center for Psychiatry,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$554.40,CA
+Sutter Center for Psychiatry,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$305.40,CA
+Sutter Center for Psychiatry,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$273.00,CA
+Sutter Center for Psychiatry,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$281.40,CA
+Sutter Center for Psychiatry,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$388.80,CA
+Sutter Center for Psychiatry,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$534.60,CA
+Sutter Center for Psychiatry,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$502.20,CA
+Sutter Center for Psychiatry,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$364.80,CA
+Sutter Center for Psychiatry,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$369.60,CA
+Sutter Center for Psychiatry,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$380.40,CA
+Sutter Center for Psychiatry,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$294.00,CA
+Sutter Center for Psychiatry,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$391.80,CA
+Sutter Center for Psychiatry,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$295.20,CA
+Sutter Center for Psychiatry,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$364.80,CA
+Sutter Center for Psychiatry,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$320.40,CA
+Sutter Center for Psychiatry,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$282.00,CA
+Sutter Center for Psychiatry,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$374.40,CA
+Sutter Center for Psychiatry,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$390.00,CA

@@ -1,0 +1,321 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Community Hospital North,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$6,204.94",IN
+Community Hospital North,Emergency Care,HCPCS 99282,Emergency Level 2,"$1,892.73",IN
+Community Hospital North,Emergency Care,HCPCS 99283,Emergency Level 3,"$1,892.73",IN
+Community Hospital North,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,892.73",IN
+Community Hospital North,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,892.73",IN
+Community Hospital North,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$231.80,IN
+Community Hospital North,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$231.80,IN
+Community Hospital North,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$231.80,IN
+Community Hospital North,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$91.94,IN
+Community Hospital North,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$91.94,IN
+Community Hospital North,Psychology,HCPCS 90853,Group psychotherapy,$91.27,IN
+Community Hospital North,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$92.37,IN
+Community Hospital North,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$92.39,IN
+Community Hospital North,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$92.39,IN
+Community Hospital North,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$92.39,IN
+Community Hospital North,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$252.38,IN
+Community Hospital North,Speech,HCPCS 92507,Speech Therapy,$156.65,IN
+Community Hospital North,Speech,HCPCS 92610,Swallow Evaluation,$79.30,IN
+Community Hospital North,Speech,HCPCS 92526,Swallow Treatment,$150.15,IN
+Community Hospital North,Blood,HCPCS 85018,"Blood count, hemoglobin",$39.05,IN
+Community Hospital North,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$36.49,IN
+Community Hospital North,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$98.87,IN
+Community Hospital North,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$98.87,IN
+Community Hospital North,Blood,HCPCS 85610,"Blood test, clotting time",$43.81,IN
+Community Hospital North,Blood,HCPCS 85730,Coagulation assessment blood test,$70.82,IN
+Community Hospital North,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$101.76,IN
+Community Hospital North,Blood,HCPCS 85027,"Complete blood count, automated",$101.76,IN
+Community Hospital North,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$266.33,IN
+Community Hospital North,Blood,HCPCS 85660,Red blood cell sickling measurement,$115.70,IN
+Community Hospital North,Blood,HCPCS 85041,"Red blood count, automated test",$72.53,IN
+Community Hospital North,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$318.43,IN
+Community Hospital North,Chemistry,HCPCS 82040,Albumin (protein) level,$96.96,IN
+Community Hospital North,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$175.35,IN
+Community Hospital North,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$242.50,IN
+Community Hospital North,Chemistry,HCPCS 82140,Ammonia level,$158.04,IN
+Community Hospital North,Chemistry,HCPCS 82150,Amylase (enzyme) level,$117.10,IN
+Community Hospital North,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$191.10,IN
+Community Hospital North,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$202.08,IN
+Community Hospital North,Chemistry,HCPCS 84439,Assay of free thyroxine,$187.25,IN
+Community Hospital North,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$190.06,IN
+Community Hospital North,Chemistry,HCPCS 82248,Bilirubin level (Direct),$62.10,IN
+Community Hospital North,Chemistry,HCPCS 82247,Bilirubin level (Total),$62.10,IN
+Community Hospital North,Chemistry,HCPCS 82565,Blood creatinine level,$60.32,IN
+Community Hospital North,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$53.74,IN
+Community Hospital North,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$53.74,IN
+Community Hospital North,Chemistry,HCPCS 84132,Blood potassium level,$44.34,IN
+Community Hospital North,Chemistry,HCPCS 84295,Blood sodium level,$63.52,IN
+Community Hospital North,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$66.54,IN
+Community Hospital North,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$50.19,IN
+Community Hospital North,Chemistry,HCPCS 82310,Calcium level,$98.79,IN
+Community Hospital North,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$24.70,IN
+Community Hospital North,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$273.25,IN
+Community Hospital North,Chemistry,HCPCS 82465,Cholesterol level,$63.81,IN
+Community Hospital North,Chemistry,HCPCS 82525,Copper level,$171.93,IN
+Community Hospital North,Chemistry,HCPCS 82533,Cortisol Measurement,$237.06,IN
+Community Hospital North,Chemistry,HCPCS 84681,C-peptide (protein) level,$225.46,IN
+Community Hospital North,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$86.96,IN
+Community Hospital North,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$83.02,IN
+Community Hospital North,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$247.81,IN
+Community Hospital North,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$274.16,IN
+Community Hospital North,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$157.53,IN
+Community Hospital North,Chemistry,HCPCS 82746,Folic acid; serum,$119.76,IN
+Community Hospital North,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$52.63,IN
+Community Hospital North,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$95.36,IN
+Community Hospital North,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$138.44,IN
+Community Hospital North,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$250.87,IN
+Community Hospital North,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$252.95,IN
+Community Hospital North,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$177.97,IN
+Community Hospital North,Chemistry,HCPCS 83020,Hemoglobin Measurement,$90.09,IN
+Community Hospital North,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$156.22,IN
+Community Hospital North,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$27.95,IN
+Community Hospital North,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$279.56,IN
+Community Hospital North,Chemistry,HCPCS 83525,Insulin Measurement; Total,$126.43,IN
+Community Hospital North,Chemistry,HCPCS 82330,Ionized Calcium,$98.79,IN
+Community Hospital North,Chemistry,HCPCS 83550,Iron Binding Capacity,$114.61,IN
+Community Hospital North,Chemistry,HCPCS 83540,Iron level,$100.35,IN
+Community Hospital North,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$61.00,IN
+Community Hospital North,Chemistry,HCPCS 83721,LDL cholesterol level,$123.18,IN
+Community Hospital North,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$129.04,IN
+Community Hospital North,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$54.99,IN
+Community Hospital North,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$236.38,IN
+Community Hospital North,Chemistry,HCPCS 83021,Liver function blood test panel,$90.09,IN
+Community Hospital North,Chemistry,HCPCS 83735,Magnesium Level,$92.39,IN
+Community Hospital North,Chemistry,HCPCS 82542,Mass spectrometry,$44.60,IN
+Community Hospital North,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$133.52,IN
+Community Hospital North,Chemistry,HCPCS 83970,Parathormone,$205.52,IN
+Community Hospital North,Chemistry,HCPCS 84157,Prealbumin (protein) level,$69.08,IN
+Community Hospital North,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$279.56,IN
+Community Hospital North,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$239.64,IN
+Community Hospital North,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$69.08,IN
+Community Hospital North,Chemistry,HCPCS 82270,Stool analysis for blood,$52.55,IN
+Community Hospital North,Chemistry,HCPCS 84403,Testosterone (hormone) level,$218.53,IN
+Community Hospital North,Chemistry,HCPCS 84402,Testosterone Level; Free,$218.53,IN
+Community Hospital North,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,"$1,887.51",IN
+Community Hospital North,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$187.25,IN
+Community Hospital North,Chemistry,HCPCS 84155,"Total protein level, blood",$69.08,IN
+Community Hospital North,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$69.08,IN
+Community Hospital North,Chemistry,HCPCS 84166,Troponin (protein) analysis,$69.08,IN
+Community Hospital North,Chemistry,HCPCS 84550,"Uric acid level, blood",$64.96,IN
+Community Hospital North,Chemistry,HCPCS 82340,Urine calcium level,$98.79,IN
+Community Hospital North,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$96.96,IN
+Community Hospital North,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$84.87,IN
+Community Hospital North,Chemistry,HCPCS 84300,Urine sodium level,$63.52,IN
+Community Hospital North,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$191.68,IN
+Community Hospital North,Chemistry,HCPCS 84630,Zinc level,$172.62,IN
+Community Hospital North,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$150.68,IN
+Community Hospital North,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$158.17,IN
+Community Hospital North,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$117.19,IN
+Community Hospital North,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$148.28,IN
+Community Hospital North,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$217.48,IN
+Community Hospital North,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$148.28,IN
+Community Hospital North,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$148.28,IN
+Community Hospital North,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$198.23,IN
+Community Hospital North,Immunology,HCPCS 86140,Measurement C-reactive protein,$136.69,IN
+Community Hospital North,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$26.12,IN
+Community Hospital North,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$322.26,IN
+Community Hospital North,Immunology,HCPCS 86161,Measurement of complement (immune system proteins),$157.36,IN
+Community Hospital North,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$148.28,IN
+Community Hospital North,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$131.33,IN
+Community Hospital North,Immunology,HCPCS 86431,Rheumatoid factor level,$135.47,IN
+Community Hospital North,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$94.41,IN
+Community Hospital North,Immunology,HCPCS 86592,Syphilis Detection Test,$74.82,IN
+Community Hospital North,Immunology,HCPCS 86361,T cell count and ratio,$209.22,IN
+Community Hospital North,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$209.22,IN
+Community Hospital North,Immunology,HCPCS 86359,"T cells count, total",$209.22,IN
+Community Hospital North,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$88.53,IN
+Community Hospital North,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$130.51,IN
+Community Hospital North,Microbiology,HCPCS 87491,Chlamydia Test,$75.15,IN
+Community Hospital North,Microbiology,HCPCS 87635,Covid-19 current infection test,$117.00,IN
+Community Hospital North,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$202.60,IN
+Community Hospital North,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$95.60,IN
+Community Hospital North,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$409.11,IN
+Community Hospital North,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$148.28,IN
+Community Hospital North,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$734.50,IN
+Community Hospital North,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$75.10,IN
+Community Hospital North,Microbiology,HCPCS 87517,Hepatitis B Detection,$653.75,IN
+Community Hospital North,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$91.21,IN
+Community Hospital North,Microbiology,HCPCS 86762,Rubella virus antibody test,$79.95,IN
+Community Hospital North,Microbiology,HCPCS 87177,Smear for Parasites,$145.66,IN
+Community Hospital North,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$89.29,IN
+Community Hospital North,Microbiology,HCPCS 87045,Stool Culture,$156.13,IN
+Community Hospital North,Microbiology,HCPCS 87880,Strep Test,$39.58,IN
+Community Hospital North,Microbiology,HCPCS 87804,Test for Influenza Virus,$222.78,IN
+Community Hospital North,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$74.82,IN
+Community Hospital North,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$186.55,IN
+Community Hospital North,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$247.65,IN
+Community Hospital North,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$720.46,IN
+Community Hospital North,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$124.88,IN
+Community Hospital North,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$186.49,IN
+Community Hospital North,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$198.90,IN
+Community Hospital North,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$131.30,IN
+Community Hospital North,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$152.59,IN
+Community Hospital North,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$286.05,IN
+Community Hospital North,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$183.56,IN
+Community Hospital North,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$113.36,IN
+Community Hospital North,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$118.02,IN
+Community Hospital North,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$185.68,IN
+Community Hospital North,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$135.20,IN
+Community Hospital North,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$179.40,IN
+Community Hospital North,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$331.21,IN
+Community Hospital North,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$183.11,IN
+Community Hospital North,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$179.40,IN
+Community Hospital North,Transfusion,HCPCS 86900,"Blood Typing, ABO",$53.65,IN
+Community Hospital North,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$53.65,IN
+Community Hospital North,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$104.23,IN
+Community Hospital North,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$95.51,IN
+Community Hospital North,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$95.51,IN
+Community Hospital North,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$33.79,IN
+Community Hospital North,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$54.07,IN
+Community Hospital North,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$54.07,IN
+Community Hospital North,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$107.87,IN
+Community Hospital North,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$1,448.52",IN
+Community Hospital North,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$169.09,IN
+Community Hospital North,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$645.29,IN
+Community Hospital North,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$1,034.13",IN
+Community Hospital North,Cardiovascular,HCPCS 93975,Ultrasound Heart,$655.12,IN
+Community Hospital North,Pulmonary,HCPCS 94640,Aerosol Treatment,$302.40,IN
+Community Hospital North,Pulmonary,HCPCS 94618,Pulmonary stress test,$311.34,IN
+Community Hospital North,Pulmonary,HCPCS 94010,Spirometry - breathing test,$766.00,IN
+Community Hospital North,Sleep,HCPCS 95810,Sleep study,"$1,902.33",IN
+Community Hospital North,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$267.22,IN
+Community Hospital North,Breast,HCPCS 77067,Mammogram Screening,$235.30,IN
+Community Hospital North,Breast,HCPCS 77066,Mammography of both breasts,$267.22,IN
+Community Hospital North,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$2,089.80",IN
+Community Hospital North,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,035.45",IN
+Community Hospital North,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$958.63,IN
+Community Hospital North,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,193.75",IN
+Community Hospital North,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$2,625.62",IN
+Community Hospital North,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,625.62",IN
+Community Hospital North,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,076.54",IN
+Community Hospital North,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,495.78",IN
+Community Hospital North,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,495.78",IN
+Community Hospital North,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,272.74",IN
+Community Hospital North,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,037.14",IN
+Community Hospital North,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,416.33",IN
+Community Hospital North,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,201.17",IN
+Community Hospital North,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,068.36",IN
+Community Hospital North,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,747.90",IN
+Community Hospital North,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,747.90",IN
+Community Hospital North,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,788.79",IN
+Community Hospital North,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,747.90",IN
+Community Hospital North,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,234.27",IN
+Community Hospital North,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,580.95",IN
+Community Hospital North,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,454.56",IN
+Community Hospital North,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,708.14",IN
+Community Hospital North,MRI,HCPCS 73721,MRI scan of leg joint,"$1,784.63",IN
+Community Hospital North,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$474.18,IN
+Community Hospital North,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$301.15,IN
+Community Hospital North,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$537.78,IN
+Community Hospital North,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$469.07,IN
+Community Hospital North,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$545.33,IN
+Community Hospital North,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$545.33,IN
+Community Hospital North,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$449.36,IN
+Community Hospital North,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$449.36,IN
+Community Hospital North,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$445.54,IN
+Community Hospital North,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$199.93,IN
+Community Hospital North,Chest,HCPCS 71046,X-ray of chest; 2 Views,$172.01,IN
+Community Hospital North,Chest,HCPCS 71045,X-ray of chest; Single View,$172.01,IN
+Community Hospital North,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$196.14,IN
+Community Hospital North,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$254.99,IN
+Community Hospital North,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$192.31,IN
+Community Hospital North,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$306.15,IN
+Community Hospital North,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$252.28,IN
+Community Hospital North,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$167.18,IN
+Community Hospital North,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$256.55,IN
+Community Hospital North,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$208.50,IN
+Community Hospital North,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$161.13,IN
+Community Hospital North,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$213.05,IN
+Community Hospital North,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$196.97,IN
+Community Hospital North,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$196.97,IN
+Community Hospital North,Lower Limbs,HCPCS 73565,X-ray Both Knees,$201.46,IN
+Community Hospital North,Lower Limbs,HCPCS 73630,X-ray exam of foot,$196.97,IN
+Community Hospital North,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$201.46,IN
+Community Hospital North,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$157.84,IN
+Community Hospital North,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$196.97,IN
+Community Hospital North,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$177.39,IN
+Community Hospital North,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$201.46,IN
+Community Hospital North,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$201.46,IN
+Community Hospital North,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$170.53,IN
+Community Hospital North,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$271.73,IN
+Community Hospital North,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$271.73,IN
+Community Hospital North,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$252.96,IN
+Community Hospital North,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$252.96,IN
+Community Hospital North,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$278.03,IN
+Community Hospital North,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$154.77,IN
+Community Hospital North,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$189.09,IN
+Community Hospital North,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$188.61,IN
+Community Hospital North,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$188.61,IN
+Community Hospital North,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$232.25,IN
+Community Hospital North,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$188.61,IN
+Community Hospital North,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$188.61,IN
+Community Hospital North,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$8,180.46",IN
+Community Hospital North,Abdomenal,HCPCS 47562,Cholecystectomy,"$17,441.30",IN
+Community Hospital North,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$17,441.30",IN
+Community Hospital North,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,"$15,083.61",IN
+Community Hospital North,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$15,083.61",IN
+Community Hospital North,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$10,283.03",IN
+Community Hospital North,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$472.57,IN
+Community Hospital North,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$472.57,IN
+Community Hospital North,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$42,752.36",IN
+Community Hospital North,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,"$13,633.13",IN
+Community Hospital North,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$18,734.63",IN
+Community Hospital North,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$26,843.85",IN
+Community Hospital North,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$26,843.85",IN
+Community Hospital North,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$26,843.85",IN
+Community Hospital North,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$7,893.01",IN
+Community Hospital North,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$10,283.03",IN
+Community Hospital North,Breast,HCPCS 19301,Partial removal of breast,"$8,057.87",IN
+Community Hospital North,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),"$128,377.71",IN
+Community Hospital North,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$104,271.17",IN
+Community Hospital North,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$104,271.17",IN
+Community Hospital North,Cardiac,HCPCS 33249,Defibrillator complete system,"$54,093.93",IN
+Community Hospital North,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$21,232.21",IN
+Community Hospital North,Cardiac,MSDRG 247,Implant drug-eluting stent,"$75,743.77",IN
+Community Hospital North,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$29,270.93",IN
+Community Hospital North,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$2,978.74",IN
+Community Hospital North,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$3,044.90",IN
+Community Hospital North,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$3,325.63",IN
+Community Hospital North,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$3,325.63",IN
+Community Hospital North,Digestive,HCPCS 43235,EGD,"$3,688.53",IN
+Community Hospital North,Digestive,HCPCS 43239,EGD and biopsy,"$3,549.32",IN
+Community Hospital North,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$9,156.21",IN
+Community Hospital North,Digestive,HCPCS 45391,Ultrasound of lower large bowel using an endoscope,"$2,978.74",IN
+Community Hospital North,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$35,638.10",IN
+Community Hospital North,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$14,117.98",IN
+Community Hospital North,General,HCPCS 10060,Drainage of Abscess,"$1,251.88",IN
+Community Hospital North,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple","$2,592.93",IN
+Community Hospital North,General,HCPCS 69200,Removal of foreign body from ear canal,$536.70,IN
+Community Hospital North,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$2,175.57",IN
+Community Hospital North,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),"$2,175.57",IN
+Community Hospital North,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$2,175.57",IN
+Community Hospital North,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$2,175.57",IN
+Community Hospital North,Head,HCPCS 69631,Repair of eardrum,"$26,436.51",IN
+Community Hospital North,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$10,169.88",IN
+Community Hospital North,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$95,905.47",IN
+Community Hospital North,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$2,919.73",IN
+Community Hospital North,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$2,919.73",IN
+Community Hospital North,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$3,467.03",IN
+Community Hospital North,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$1,575.06",IN
+Community Hospital North,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$56,287.27",IN
+Community Hospital North,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$11,234.44",IN
+Community Hospital North,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,"$39,524.90",IN
+Community Hospital North,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$9,621.08",IN
+Community Hospital North,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$72,875.92",IN
+Community Hospital North,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$95,905.47",IN
+Community Hospital North,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$620.00,IN
+Community Hospital North,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$24,809.51",IN
+Community Hospital North,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$12,981.83",IN
+Community Hospital North,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$21,043.77",IN
+Community Hospital North,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$16,253.84",IN
+Community Hospital North,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$19,769.76",IN
+Community Hospital North,Obstetrics,HCPCS 58545,Removal of uterine fibroid tumors using an endoscope,"$16,635.24",IN
+Community Hospital North,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$9,085.07",IN
+Community Hospital North,Soft Tissue,HCPCS 97597,Debridement of open wound,$435.66,IN
+Community Hospital North,Soft Tissue,HCPCS 97602,Non-selective debridement,$435.66,IN
+Community Hospital North,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$119.67,IN
+Community Hospital North,Vascular,HCPCS 36416,Collection of capillary blood specimen,$8.96,IN
+Community Hospital North,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$6,573.18",IN
+Community Hospital North,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$2,024.73",IN
+Community Hospital North,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$2,430.66",IN

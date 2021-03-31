@@ -1,0 +1,355 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Georgetown Community Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$181.16,KY
+Georgetown Community Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$299.37,KY
+Georgetown Community Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$478.76,KY
+Georgetown Community Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$765.79,KY
+Georgetown Community Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,235.14",KY
+Georgetown Community Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$315.79,KY
+Georgetown Community Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$447.78,KY
+Georgetown Community Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$249.46,KY
+Georgetown Community Hospital,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$351.67,KY
+Georgetown Community Hospital,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$264.15,KY
+Georgetown Community Hospital,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$351.67,KY
+Georgetown Community Hospital,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$292.38,KY
+Georgetown Community Hospital,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$168.78,KY
+Georgetown Community Hospital,Speech,HCPCS 92507,Speech Therapy,$88.05,KY
+Georgetown Community Hospital,Speech,HCPCS 92610,Swallow Evaluation,$248.24,KY
+Georgetown Community Hospital,Speech,HCPCS 92526,Swallow Treatment,$146.93,KY
+Georgetown Community Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$39.78,KY
+Georgetown Community Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$31.83,KY
+Georgetown Community Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$37.04,KY
+Georgetown Community Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$92.82,KY
+Georgetown Community Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$16.44,KY
+Georgetown Community Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$82.22,KY
+Georgetown Community Hospital,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$18.18,KY
+Georgetown Community Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$101.84,KY
+Georgetown Community Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$116.69,KY
+Georgetown Community Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$86.99,KY
+Georgetown Community Hospital,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$198.91,KY
+Georgetown Community Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$175.04,KY
+Georgetown Community Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$811.55,KY
+Georgetown Community Hospital,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$246.12,KY
+Georgetown Community Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$261.50,KY
+Georgetown Community Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$58.35,KY
+Georgetown Community Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$120.94,KY
+Georgetown Community Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$130.48,KY
+Georgetown Community Hospital,Chemistry,HCPCS 82140,Ammonia level,$82.74,KY
+Georgetown Community Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$102.37,KY
+Georgetown Community Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$167.61,KY
+Georgetown Community Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$235.51,KY
+Georgetown Community Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$212.17,KY
+Georgetown Community Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$92.30,KY
+Georgetown Community Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$63.66,KY
+Georgetown Community Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$63.66,KY
+Georgetown Community Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$63.66,KY
+Georgetown Community Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$92.82,KY
+Georgetown Community Hospital,Chemistry,HCPCS 84295,Blood sodium level,$110.33,KY
+Georgetown Community Hospital,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$51.98,KY
+Georgetown Community Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$176.10,KY
+Georgetown Community Hospital,Chemistry,HCPCS 82310,Calcium level,$68.42,KY
+Georgetown Community Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$79.03,KY
+Georgetown Community Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$199.97,KY
+Georgetown Community Hospital,Chemistry,HCPCS 82465,Cholesterol level,$67.36,KY
+Georgetown Community Hospital,Chemistry,HCPCS 82525,Copper level,$116.16,KY
+Georgetown Community Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$107.68,KY
+Georgetown Community Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$67.36,KY
+Georgetown Community Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$164.44,KY
+Georgetown Community Hospital,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$331.52,KY
+Georgetown Community Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$413.20,KY
+Georgetown Community Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$160.19,KY
+Georgetown Community Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$139.50,KY
+Georgetown Community Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$90.70,KY
+Georgetown Community Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$81.15,KY
+Georgetown Community Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$128.36,KY
+Georgetown Community Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$240.82,KY
+Georgetown Community Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$208.99,KY
+Georgetown Community Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$161.78,KY
+Georgetown Community Hospital,Chemistry,HCPCS 83718,HDL cholesterol level,$141.62,KY
+Georgetown Community Hospital,Chemistry,HCPCS 83020,Hemoglobin Measurement,$186.54,KY
+Georgetown Community Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$157.53,KY
+Georgetown Community Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$196.26,KY
+Georgetown Community Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$143.22,KY
+Georgetown Community Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$116.16,KY
+Georgetown Community Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$158.07,KY
+Georgetown Community Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$93.35,KY
+Georgetown Community Hospital,Chemistry,HCPCS 83540,Iron level,$79.03,KY
+Georgetown Community Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$68.42,KY
+Georgetown Community Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$128.36,KY
+Georgetown Community Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$127.83,KY
+Georgetown Community Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$75.32,KY
+Georgetown Community Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$108.74,KY
+Georgetown Community Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$96.54,KY
+Georgetown Community Hospital,Chemistry,HCPCS 83735,Magnesium Level,$96.01,KY
+Georgetown Community Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$129.95,KY
+Georgetown Community Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$122.53,KY
+Georgetown Community Hospital,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$72.14,KY
+Georgetown Community Hospital,Chemistry,HCPCS 83918,Organic acid level,$34.37,KY
+Georgetown Community Hospital,Chemistry,HCPCS 83945,Oxalate level,$193.60,KY
+Georgetown Community Hospital,Chemistry,HCPCS 83970,Parathormone,$307.64,KY
+Georgetown Community Hospital,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$77.18,KY
+Georgetown Community Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$99.72,KY
+Georgetown Community Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$507.09,KY
+Georgetown Community Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$180.88,KY
+Georgetown Community Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$101.84,KY
+Georgetown Community Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$171.86,KY
+Georgetown Community Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$150.11,KY
+Georgetown Community Hospital,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$127.30,KY
+Georgetown Community Hospital,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$105.56,KY
+Georgetown Community Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$93.35,KY
+Georgetown Community Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$99.72,KY
+Georgetown Community Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$91.23,KY
+Georgetown Community Hospital,Chemistry,HCPCS 84478,Triglycerides level,$97.60,KY
+Georgetown Community Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$101.84,KY
+Georgetown Community Hospital,Chemistry,HCPCS 84560,Uric acid level,$74.79,KY
+Georgetown Community Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$72.14,KY
+Georgetown Community Hospital,Chemistry,HCPCS 82340,Urine calcium level,$108.74,KY
+Georgetown Community Hospital,Chemistry,HCPCS 82436,Urine chloride level,$57.29,KY
+Georgetown Community Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$100.78,KY
+Georgetown Community Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$91.23,KY
+Georgetown Community Hospital,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$276.35,KY
+Georgetown Community Hospital,Chemistry,HCPCS 84133,Urine potassium level,$87.52,KY
+Georgetown Community Hospital,Chemistry,HCPCS 84300,Urine sodium level,$55.16,KY
+Georgetown Community Hospital,Chemistry,HCPCS 84591,Vitamin B-6 level,$264.15,KY
+Georgetown Community Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$201.56,KY
+Georgetown Community Hospital,Chemistry,HCPCS 84630,Zinc level,$155.41,KY
+Georgetown Community Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$110.86,KY
+Georgetown Community Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$84.34,KY
+Georgetown Community Hospital,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$377.66,KY
+Georgetown Community Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$67.90,KY
+Georgetown Community Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$150.03,KY
+Georgetown Community Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$154.88,KY
+Georgetown Community Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$174.51,KY
+Georgetown Community Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$84.86,KY
+Georgetown Community Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$97.60,KY
+Georgetown Community Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$186.70,KY
+Georgetown Community Hospital,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$300.75,KY
+Georgetown Community Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$130.48,KY
+Georgetown Community Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$882.65,KY
+Georgetown Community Hospital,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$239.22,KY
+Georgetown Community Hospital,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$185.12,KY
+Georgetown Community Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$113.51,KY
+Georgetown Community Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$124.65,KY
+Georgetown Community Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$111.39,KY
+Georgetown Community Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$112.45,KY
+Georgetown Community Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$75.32,KY
+Georgetown Community Hospital,Immunology,HCPCS 86361,T cell count and ratio,$170.26,KY
+Georgetown Community Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$198.38,KY
+Georgetown Community Hospital,Immunology,HCPCS 86359,"T cells count, total",$198.38,KY
+Georgetown Community Hospital,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$157.53,KY
+Georgetown Community Hospital,Immunology,HCPCS 86580,Tuberculosis Test,$6.40,KY
+Georgetown Community Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$116.69,KY
+Georgetown Community Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$92.30,KY
+Georgetown Community Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$146.40,KY
+Georgetown Community Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$104.49,KY
+Georgetown Community Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$170.23,KY
+Georgetown Community Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$359.63,KY
+Georgetown Community Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$221.19,KY
+Georgetown Community Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$430.70,KY
+Georgetown Community Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$146.40,KY
+Georgetown Community Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$477.91,KY
+Georgetown Community Hospital,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$88.40,KY
+Georgetown Community Hospital,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$130.48,KY
+Georgetown Community Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$160.19,KY
+Georgetown Community Hospital,Microbiology,HCPCS 86747,Parvovirus antibody test,$157.53,KY
+Georgetown Community Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$130.48,KY
+Georgetown Community Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$127.30,KY
+Georgetown Community Hospital,Microbiology,HCPCS 87207,Smear for infectious agents,$234.17,KY
+Georgetown Community Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$112.45,KY
+Georgetown Community Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$64.18,KY
+Georgetown Community Hospital,Microbiology,HCPCS 87045,Stool Culture,$103.43,KY
+Georgetown Community Hospital,Microbiology,HCPCS 87880,Streptoccus,$55.16,KY
+Georgetown Community Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$80.10,KY
+Georgetown Community Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$116.69,KY
+Georgetown Community Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$73.20,KY
+Georgetown Community Hospital,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$382.97,KY
+Georgetown Community Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$224.90,KY
+Georgetown Community Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$175.04,KY
+Georgetown Community Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$307.12,KY
+Georgetown Community Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$231.26,KY
+Georgetown Community Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$119.88,KY
+Georgetown Community Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$201.56,KY
+Georgetown Community Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$82.74,KY
+Georgetown Community Hospital,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$102.37,KY
+Georgetown Community Hospital,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$211.64,KY
+Georgetown Community Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$102.37,KY
+Georgetown Community Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$100.53,KY
+Georgetown Community Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$143.22,KY
+Georgetown Community Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$101.84,KY
+Georgetown Community Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$127.30,KY
+Georgetown Community Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$125.71,KY
+Georgetown Community Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$194.14,KY
+Georgetown Community Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$102.37,KY
+Georgetown Community Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$101.31,KY
+Georgetown Community Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$58.35,KY
+Georgetown Community Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$58.35,KY
+Georgetown Community Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$407.37,KY
+Georgetown Community Hospital,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$302.97,KY
+Georgetown Community Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$72.14,KY
+Georgetown Community Hospital,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$56.45,KY
+Georgetown Community Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$119.88,KY
+Georgetown Community Hospital,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$58.65,KY
+Georgetown Community Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$70.54,KY
+Georgetown Community Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$79.03,KY
+Georgetown Community Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$101.84,KY
+Georgetown Community Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$673.64,KY
+Georgetown Community Hospital,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$149.06,KY
+Georgetown Community Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$226.49,KY
+Georgetown Community Hospital,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$84.86,KY
+Georgetown Community Hospital,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$353.26,KY
+Georgetown Community Hospital,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),$798.82,KY
+Georgetown Community Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,$593.55,KY
+Georgetown Community Hospital,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$164.96,KY
+Georgetown Community Hospital,Pulmonary,HCPCS 94640,Nebulizer Treatment,$134.31,KY
+Georgetown Community Hospital,Pulmonary,HCPCS 94618,Pulmonary stress test,$162.31,KY
+Georgetown Community Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$297.04,KY
+Georgetown Community Hospital,Sleep,HCPCS 95810,Sleep study,"$3,140.10",KY
+Georgetown Community Hospital,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$30.06,KY
+Georgetown Community Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$224.30,KY
+Georgetown Community Hospital,Breast,HCPCS 77067,Mammogram Screening,$230.19,KY
+Georgetown Community Hospital,Breast,HCPCS 77066,Mammography of both breasts,$271.28,KY
+Georgetown Community Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,263.47",KY
+Georgetown Community Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,307.49",KY
+Georgetown Community Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,136.17",KY
+Georgetown Community Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,009.92",KY
+Georgetown Community Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,319.92",KY
+Georgetown Community Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$3,000.07",KY
+Georgetown Community Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,861.63",KY
+Georgetown Community Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,541.94",KY
+Georgetown Community Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,817.24",KY
+Georgetown Community Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,240.12",KY
+Georgetown Community Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,243.31",KY
+Georgetown Community Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,458.13",KY
+Georgetown Community Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,524.44",KY
+Georgetown Community Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,621.50",KY
+Georgetown Community Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,992.80",KY
+Georgetown Community Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,028.86",KY
+Georgetown Community Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,300.44",KY
+Georgetown Community Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,966.80",KY
+Georgetown Community Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$2,240.51",KY
+Georgetown Community Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,163.07",KY
+Georgetown Community Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,889.90",KY
+Georgetown Community Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,402.82",KY
+Georgetown Community Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,914.30",KY
+Georgetown Community Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$1,762.59",KY
+Georgetown Community Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$190.42,KY
+Georgetown Community Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$610.52,KY
+Georgetown Community Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$648.71,KY
+Georgetown Community Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$634.92,KY
+Georgetown Community Hospital,Ultrasound,HCPCS 76881,Ultrasound Joint Soft Tissue - Complete,$524.06,KY
+Georgetown Community Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$861.94,KY
+Georgetown Community Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$724.56,KY
+Georgetown Community Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$380.85,KY
+Georgetown Community Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$662.50,KY
+Georgetown Community Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$668.86,KY
+Georgetown Community Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$526.18,KY
+Georgetown Community Hospital,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$198.38,KY
+Georgetown Community Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$279.53,KY
+Georgetown Community Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$277.94,KY
+Georgetown Community Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$361.22,KY
+Georgetown Community Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$394.63,KY
+Georgetown Community Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$319.32,KY
+Georgetown Community Hospital,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$401.00,KY
+Georgetown Community Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$393.04,KY
+Georgetown Community Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$242.94,KY
+Georgetown Community Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$155.41,KY
+Georgetown Community Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$490.64,KY
+Georgetown Community Hospital,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$126.87,KY
+Georgetown Community Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$192.36,KY
+Georgetown Community Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$281.13,KY
+Georgetown Community Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$362.81,KY
+Georgetown Community Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$276.35,KY
+Georgetown Community Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$303.93,KY
+Georgetown Community Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$441.31,KY
+Georgetown Community Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$303.93,KY
+Georgetown Community Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$317.72,KY
+Georgetown Community Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$221.34,KY
+Georgetown Community Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$261.50,KY
+Georgetown Community Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$264.15,KY
+Georgetown Community Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$264.15,KY
+Georgetown Community Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$382.44,KY
+Georgetown Community Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$287.50,KY
+Georgetown Community Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$550.04,KY
+Georgetown Community Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$441.31,KY
+Georgetown Community Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$559.07,KY
+Georgetown Community Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$367.06,KY
+Georgetown Community Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$304.46,KY
+Georgetown Community Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$241.34,KY
+Georgetown Community Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$293.86,KY
+Georgetown Community Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$262.03,KY
+Georgetown Community Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$317.20,KY
+Georgetown Community Hospital,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$252.48,KY
+Georgetown Community Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$158.60,KY
+Georgetown Community Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$267.33,KY
+Georgetown Community Hospital,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$17,790.97",KY
+Georgetown Community Hospital,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$6,004.68",KY
+Georgetown Community Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$7,498.53",KY
+Georgetown Community Hospital,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$4,938.60",KY
+Georgetown Community Hospital,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,"$6,737.98",KY
+Georgetown Community Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$7,681.61",KY
+Georgetown Community Hospital,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$4,841.66",KY
+Georgetown Community Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$215.50,KY
+Georgetown Community Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$23,988.55",KY
+Georgetown Community Hospital,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,"$8,585.30",KY
+Georgetown Community Hospital,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$7,019.17",KY
+Georgetown Community Hospital,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$11,248.45",KY
+Georgetown Community Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$8,003.15",KY
+Georgetown Community Hospital,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$8,179.16",KY
+Georgetown Community Hospital,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$5,541.32",KY
+Georgetown Community Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$7,594.70",KY
+Georgetown Community Hospital,Breast,HCPCS 19120,Excision of cyst of breast,"$3,814.24",KY
+Georgetown Community Hospital,Breast,HCPCS 19301,Partial removal of breast,"$7,381.70",KY
+Georgetown Community Hospital,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$619.60,KY
+Georgetown Community Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$3,212.98",KY
+Georgetown Community Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$3,263.17",KY
+Georgetown Community Hospital,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$4,708.12",KY
+Georgetown Community Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$3,107.78",KY
+Georgetown Community Hospital,Digestive,HCPCS 43235,EGD,"$3,263.17",KY
+Georgetown Community Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$3,067.98",KY
+Georgetown Community Hospital,Digestive,HCPCS 43775,Gastric Sleeve (Outpatient),"$6,337.08",KY
+Georgetown Community Hospital,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$6,146.92",KY
+Georgetown Community Hospital,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$6,191.88",KY
+Georgetown Community Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$20,242.30",KY
+Georgetown Community Hospital,General,HCPCS 55700,Biopsy of prostate gland,"$4,135.24",KY
+Georgetown Community Hospital,General,HCPCS 10060,Drainage of Abscess,$301.04,KY
+Georgetown Community Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$568.16,KY
+Georgetown Community Hospital,General,HCPCS 55866,Prostatectomy,"$17,524.59",KY
+Georgetown Community Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$187.42,KY
+Georgetown Community Hospital,General,HCPCS 60240,Removal of thyroid,"$25,183.40",KY
+Georgetown Community Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$302.24,KY
+Georgetown Community Hospital,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$301.04,KY
+Georgetown Community Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$301.34,KY
+Georgetown Community Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$301.04,KY
+Georgetown Community Hospital,Head,HCPCS 69436,Create eardrum opening,"$3,394.62",KY
+Georgetown Community Hospital,Head,HCPCS 69631,Repair of eardrum,"$10,266.54",KY
+Georgetown Community Hospital,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$4,859.35",KY
+Georgetown Community Hospital,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$4,500.04",KY
+Georgetown Community Hospital,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$301.04,KY
+Georgetown Community Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$1,482.02",KY
+Georgetown Community Hospital,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$1,482.02",KY
+Georgetown Community Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$1,461.98",KY
+Georgetown Community Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$1,135.13",KY
+Georgetown Community Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$30,482.07",KY
+Georgetown Community Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$6,304.67",KY
+Georgetown Community Hospital,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$6,116.22",KY
+Georgetown Community Hospital,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,"$5,262.46",KY
+Georgetown Community Hospital,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$3,240.22",KY
+Georgetown Community Hospital,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$3,244.96",KY
+Georgetown Community Hospital,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$31,518.76",KY
+Georgetown Community Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$51,356.37",KY
+Georgetown Community Hospital,Musculoskeletal,HCPCS 22612,Spine arthrodesis,"$4,729.14",KY
+Georgetown Community Hospital,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$40.84,KY
+Georgetown Community Hospital,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$15,708.54",KY
+Georgetown Community Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$4,451.53",KY
+Georgetown Community Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$9,421.64",KY
+Georgetown Community Hospital,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$6,587.45",KY
+Georgetown Community Hospital,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$8,072.20",KY
+Georgetown Community Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$4,896.01",KY
+Georgetown Community Hospital,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries","$14,341.65",KY
+Georgetown Community Hospital,Ocular,HCPCS 66984,Cataract removal,"$3,859.14",KY
+Georgetown Community Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$115.64,KY
+Georgetown Community Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$52.51,KY
+Georgetown Community Hospital,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$36.60,KY
+Georgetown Community Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$77.44,KY
+Georgetown Community Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$6,453.96",KY
+Georgetown Community Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$388.80,KY
+Georgetown Community Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$4,653.13",KY

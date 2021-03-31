@@ -1,0 +1,358 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Beaumont Hospital - Farmington Hills,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$861.00,MI
+Beaumont Hospital - Farmington Hills,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes",$919.00,MI
+Beaumont Hospital - Farmington Hills,Emergency Care,HCPCS 99281,Emergency Level 1,$53.00,MI
+Beaumont Hospital - Farmington Hills,Emergency Care,HCPCS 99282,Emergency Level 2,$145.00,MI
+Beaumont Hospital - Farmington Hills,Emergency Care,HCPCS 99283,Emergency Level 3,$257.00,MI
+Beaumont Hospital - Farmington Hills,Emergency Care,HCPCS 99284,Emergency Level 4,$437.00,MI
+Beaumont Hospital - Farmington Hills,Emergency Care,HCPCS 99285,Emergency Level 5,$585.00,MI
+Beaumont Hospital - Farmington Hills,Hospital,HCPCS 99234,Hospital observation care discharge,$61.00,MI
+Beaumont Hospital - Farmington Hills,Hospital,HCPCS 99219,Hospital observation care typically 30 minutes,$61.00,MI
+Beaumont Hospital - Farmington Hills,Hospital,HCPCS 99235,"Hospital observation or inpatient care moderate severity, 50 minutes per day",$61.00,MI
+Beaumont Hospital - Farmington Hills,Hospital,HCPCS 99218,Hospital Observation per Hour,$61.00,MI
+Beaumont Hospital - Farmington Hills,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$97.00,MI
+Beaumont Hospital - Farmington Hills,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$100.00,MI
+Beaumont Hospital - Farmington Hills,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$142.00,MI
+Beaumont Hospital - Farmington Hills,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$79.00,MI
+Beaumont Hospital - Farmington Hills,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$154.00,MI
+Beaumont Hospital - Farmington Hills,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$129.00,MI
+Beaumont Hospital - Farmington Hills,Psychology,HCPCS 90853,Group psychotherapy,$57.00,MI
+Beaumont Hospital - Farmington Hills,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$111.00,MI
+Beaumont Hospital - Farmington Hills,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$84.00,MI
+Beaumont Hospital - Farmington Hills,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$306.00,MI
+Beaumont Hospital - Farmington Hills,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$95.00,MI
+Beaumont Hospital - Farmington Hills,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$289.00,MI
+Beaumont Hospital - Farmington Hills,Speech,HCPCS 92507,Speech Therapy,$76.00,MI
+Beaumont Hospital - Farmington Hills,Speech,HCPCS 92610,Swallow Evaluation,$107.00,MI
+Beaumont Hospital - Farmington Hills,Speech,HCPCS 92526,Swallow Treatment,$168.00,MI
+Beaumont Hospital - Farmington Hills,Blood,HCPCS 85018,"Blood count, hemoglobin",-,MI
+Beaumont Hospital - Farmington Hills,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",-,MI
+Beaumont Hospital - Farmington Hills,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,-,MI
+Beaumont Hospital - Farmington Hills,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,-,MI
+Beaumont Hospital - Farmington Hills,Blood,HCPCS 85610,"Blood test, clotting time",-,MI
+Beaumont Hospital - Farmington Hills,Blood,HCPCS 85730,Coagulation assessment blood test,-,MI
+Beaumont Hospital - Farmington Hills,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",-,MI
+Beaumont Hospital - Farmington Hills,Blood,HCPCS 85027,"Complete blood count, automated",-,MI
+Beaumont Hospital - Farmington Hills,Blood,HCPCS 85008,Microscopic examination for white blood cells,-,MI
+Beaumont Hospital - Farmington Hills,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,-,MI
+Beaumont Hospital - Farmington Hills,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,-,MI
+Beaumont Hospital - Farmington Hills,Blood,HCPCS 85660,Red blood cell sickling measurement,-,MI
+Beaumont Hospital - Farmington Hills,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$188.00,MI
+Beaumont Hospital - Farmington Hills,Blood,HCPCS 85041,"Red blood count, automated test",-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82040,Albumin (protein) level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82140,Ammonia level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82150,Amylase (enzyme) level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 84439,Assay of free thyroxine,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82248,Bilirubin level (Direct),-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82247,Bilirubin level (Total),-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82565,Blood creatinine level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82947,Blood glucose (sugar) level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 84295,Blood sodium level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82310,Calcium level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82465,Cholesterol level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82525,Copper level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82533,Cortisol Measurement,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 84681,C-peptide (protein) level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82728,Ferritin (blood protein) level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82746,Folic acid; serum,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82784,Gammaglobulin Measurement,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 83718,HDL cholesterol level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 83020,Hemoglobin Measurement,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 83520,IgE (immune system protein) level,$23.00,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 83525,Insulin Measurement; Total,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82330,Ionized Calcium,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 83550,Iron Binding Capacity,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 83540,Iron level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 83721,LDL cholesterol level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 83021,Liver function blood test panel,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 83735,Magnesium Level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82542,Mass spectrometry,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 83883,"Nephelometry, test method using light",-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 83918,Organic acid level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 83945,Oxalate level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 83970,Parathormone,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 84157,Prealbumin (protein) level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 84165,"Protein Measurement, Serum",-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82270,Stool analysis for blood,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 84403,Testosterone (hormone) level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 84402,Testosterone Level; Free,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 84155,"Total protein level, blood",-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 84156,"Total Protein Level, Urine",-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 84478,Triglycerides level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 84166,Troponin (protein) analysis,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 84560,Uric acid level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 84550,"Uric acid level, blood",-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82340,Urine calcium level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82436,Urine chloride level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 84133,Urine potassium level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 84300,Urine sodium level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 84591,Vitamin B-6 level,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,-,MI
+Beaumont Hospital - Farmington Hills,Chemistry,HCPCS 84630,Zinc level,-,MI
+Beaumont Hospital - Farmington Hills,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),-,MI
+Beaumont Hospital - Farmington Hills,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),-,MI
+Beaumont Hospital - Farmington Hills,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,-,MI
+Beaumont Hospital - Farmington Hills,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",-,MI
+Beaumont Hospital - Farmington Hills,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,-,MI
+Beaumont Hospital - Farmington Hills,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,-,MI
+Beaumont Hospital - Farmington Hills,Immunology,HCPCS 86318,Covid-19 antibody test,-,MI
+Beaumont Hospital - Farmington Hills,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,-,MI
+Beaumont Hospital - Farmington Hills,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,-,MI
+Beaumont Hospital - Farmington Hills,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,-,MI
+Beaumont Hospital - Farmington Hills,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,-,MI
+Beaumont Hospital - Farmington Hills,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,-,MI
+Beaumont Hospital - Farmington Hills,Immunology,HCPCS 86140,Measurement C-reactive protein,-,MI
+Beaumont Hospital - Farmington Hills,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,-,MI
+Beaumont Hospital - Farmington Hills,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),-,MI
+Beaumont Hospital - Farmington Hills,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),-,MI
+Beaumont Hospital - Farmington Hills,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,-,MI
+Beaumont Hospital - Farmington Hills,Immunology,HCPCS 86431,Rheumatoid factor level,-,MI
+Beaumont Hospital - Farmington Hills,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,-,MI
+Beaumont Hospital - Farmington Hills,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),-,MI
+Beaumont Hospital - Farmington Hills,Immunology,HCPCS 86580,Skin test for tuberculosis,-,MI
+Beaumont Hospital - Farmington Hills,Immunology,HCPCS 86592,Syphilis Detection Test,-,MI
+Beaumont Hospital - Farmington Hills,Immunology,HCPCS 86361,T cell count and ratio,-,MI
+Beaumont Hospital - Farmington Hills,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",-,MI
+Beaumont Hospital - Farmington Hills,Immunology,HCPCS 86359,"T cells count, total",-,MI
+Beaumont Hospital - Farmington Hills,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,-,MI
+Beaumont Hospital - Farmington Hills,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),-,MI
+Beaumont Hospital - Farmington Hills,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",-,MI
+Beaumont Hospital - Farmington Hills,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,-,MI
+Beaumont Hospital - Farmington Hills,Microbiology,HCPCS 87491,Chlamydia Test,-,MI
+Beaumont Hospital - Farmington Hills,Microbiology,HCPCS 87635,Covid-19 current infection test,-,MI
+Beaumont Hospital - Farmington Hills,Microbiology,HCPCS 87493,Detection test for clostridium difficile,-,MI
+Beaumont Hospital - Farmington Hills,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),-,MI
+Beaumont Hospital - Farmington Hills,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",-,MI
+Beaumont Hospital - Farmington Hills,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,-,MI
+Beaumont Hospital - Farmington Hills,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",-,MI
+Beaumont Hospital - Farmington Hills,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,-,MI
+Beaumont Hospital - Farmington Hills,Microbiology,HCPCS 87517,Hepatitis B Detection,-,MI
+Beaumont Hospital - Farmington Hills,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,-,MI
+Beaumont Hospital - Farmington Hills,Microbiology,HCPCS 87624,HPV Detection,-,MI
+Beaumont Hospital - Farmington Hills,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,-,MI
+Beaumont Hospital - Farmington Hills,Microbiology,HCPCS 86735,Mumps virus antibody test,-,MI
+Beaumont Hospital - Farmington Hills,Microbiology,HCPCS 86747,Parvovirus antibody test,-,MI
+Beaumont Hospital - Farmington Hills,Microbiology,HCPCS 86762,Rubella virus antibody test,-,MI
+Beaumont Hospital - Farmington Hills,Microbiology,HCPCS 86765,Rubeola virus antibody test,-,MI
+Beaumont Hospital - Farmington Hills,Microbiology,HCPCS 87207,Smear for infectious agents,-,MI
+Beaumont Hospital - Farmington Hills,Microbiology,HCPCS 87177,Smear for Parasites,-,MI
+Beaumont Hospital - Farmington Hills,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,-,MI
+Beaumont Hospital - Farmington Hills,Microbiology,HCPCS 87045,Stool Culture,-,MI
+Beaumont Hospital - Farmington Hills,Microbiology,HCPCS 87880,Streptoccus,-,MI
+Beaumont Hospital - Farmington Hills,Microbiology,HCPCS 87804,Test for Influenza Virus,-,MI
+Beaumont Hospital - Farmington Hills,Microbiology,HCPCS 86780,Treponema pallidum antibody test,-,MI
+Beaumont Hospital - Farmington Hills,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,-,MI
+Beaumont Hospital - Farmington Hills,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,-,MI
+Beaumont Hospital - Farmington Hills,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,-,MI
+Beaumont Hospital - Farmington Hills,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,-,MI
+Beaumont Hospital - Farmington Hills,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",-,MI
+Beaumont Hospital - Farmington Hills,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",-,MI
+Beaumont Hospital - Farmington Hills,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,-,MI
+Beaumont Hospital - Farmington Hills,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,-,MI
+Beaumont Hospital - Farmington Hills,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,-,MI
+Beaumont Hospital - Farmington Hills,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,-,MI
+Beaumont Hospital - Farmington Hills,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,-,MI
+Beaumont Hospital - Farmington Hills,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,-,MI
+Beaumont Hospital - Farmington Hills,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,-,MI
+Beaumont Hospital - Farmington Hills,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,-,MI
+Beaumont Hospital - Farmington Hills,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,-,MI
+Beaumont Hospital - Farmington Hills,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,-,MI
+Beaumont Hospital - Farmington Hills,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,-,MI
+Beaumont Hospital - Farmington Hills,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,-,MI
+Beaumont Hospital - Farmington Hills,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,-,MI
+Beaumont Hospital - Farmington Hills,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,-,MI
+Beaumont Hospital - Farmington Hills,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,-,MI
+Beaumont Hospital - Farmington Hills,Transfusion,HCPCS 86900,"Blood Typing, ABO",$4.00,MI
+Beaumont Hospital - Farmington Hills,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$4.00,MI
+Beaumont Hospital - Farmington Hills,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,-,MI
+Beaumont Hospital - Farmington Hills,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",-,MI
+Beaumont Hospital - Farmington Hills,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$7.00,MI
+Beaumont Hospital - Farmington Hills,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$14.00,MI
+Beaumont Hospital - Farmington Hills,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$20.00,MI
+Beaumont Hospital - Farmington Hills,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",-,MI
+Beaumont Hospital - Farmington Hills,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",-,MI
+Beaumont Hospital - Farmington Hills,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",-,MI
+Beaumont Hospital - Farmington Hills,Urinalysis,HCPCS 81025,Urine Pregnancy Test,-,MI
+Beaumont Hospital - Farmington Hills,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$280.00,MI
+Beaumont Hospital - Farmington Hills,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$40.00,MI
+Beaumont Hospital - Farmington Hills,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$15.00,MI
+Beaumont Hospital - Farmington Hills,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$155.00,MI
+Beaumont Hospital - Farmington Hills,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),$427.00,MI
+Beaumont Hospital - Farmington Hills,Cardiovascular,HCPCS 93975,Ultrasound Heart,$481.00,MI
+Beaumont Hospital - Farmington Hills,Pulmonary,HCPCS 94729,CO Diffusion Capacity,$78.00,MI
+Beaumont Hospital - Farmington Hills,Pulmonary,HCPCS 94640,Nebulizer Treatment,$51.00,MI
+Beaumont Hospital - Farmington Hills,Pulmonary,HCPCS 94618,Pulmonary stress test,$129.00,MI
+Beaumont Hospital - Farmington Hills,Pulmonary,HCPCS 94010,Spirometry - breathing test,$100.00,MI
+Beaumont Hospital - Farmington Hills,Sleep,HCPCS 95810,Sleep study,$978.00,MI
+Beaumont Hospital - Farmington Hills,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$76.00,MI
+Beaumont Hospital - Farmington Hills,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$138.00,MI
+Beaumont Hospital - Farmington Hills,Breast,HCPCS 77067,Mammogram Screening,$130.00,MI
+Beaumont Hospital - Farmington Hills,Breast,HCPCS 77066,Mammography of both breasts,$183.00,MI
+Beaumont Hospital - Farmington Hills,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,$792.00,MI
+Beaumont Hospital - Farmington Hills,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$443.00,MI
+Beaumont Hospital - Farmington Hills,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$443.00,MI
+Beaumont Hospital - Farmington Hills,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$462.00,MI
+Beaumont Hospital - Farmington Hills,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,104.00",MI
+Beaumont Hospital - Farmington Hills,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,040.00",MI
+Beaumont Hospital - Farmington Hills,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$764.00,MI
+Beaumont Hospital - Farmington Hills,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$612.00,MI
+Beaumont Hospital - Farmington Hills,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,$651.00,MI
+Beaumont Hospital - Farmington Hills,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$589.00,MI
+Beaumont Hospital - Farmington Hills,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$462.00,MI
+Beaumont Hospital - Farmington Hills,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$550.00,MI
+Beaumont Hospital - Farmington Hills,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$579.00,MI
+Beaumont Hospital - Farmington Hills,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)",$888.00,MI
+Beaumont Hospital - Farmington Hills,MRI,HCPCS 72146,MRI chest spine without contrast material,$860.00,MI
+Beaumont Hospital - Farmington Hills,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$923.00,MI
+Beaumont Hospital - Farmington Hills,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$1,433.00",MI
+Beaumont Hospital - Farmington Hills,MRI,HCPCS 72141,MRI neck spine without contrast material,$888.00,MI
+Beaumont Hospital - Farmington Hills,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$1,406.00",MI
+Beaumont Hospital - Farmington Hills,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,352.00",MI
+Beaumont Hospital - Farmington Hills,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$888.00,MI
+Beaumont Hospital - Farmington Hills,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,406.00",MI
+Beaumont Hospital - Farmington Hills,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$888.00,MI
+Beaumont Hospital - Farmington Hills,MRI,HCPCS 73721,MRI scan of leg joint,$888.00,MI
+Beaumont Hospital - Farmington Hills,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$201.00,MI
+Beaumont Hospital - Farmington Hills,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$120.00,MI
+Beaumont Hospital - Farmington Hills,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$219.00,MI
+Beaumont Hospital - Farmington Hills,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$172.00,MI
+Beaumont Hospital - Farmington Hills,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$173.00,MI
+Beaumont Hospital - Farmington Hills,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$237.00,MI
+Beaumont Hospital - Farmington Hills,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$183.00,MI
+Beaumont Hospital - Farmington Hills,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$143.00,MI
+Beaumont Hospital - Farmington Hills,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$219.00,MI
+Beaumont Hospital - Farmington Hills,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$201.00,MI
+Beaumont Hospital - Farmington Hills,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$267.00,MI
+Beaumont Hospital - Farmington Hills,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$138.00,MI
+Beaumont Hospital - Farmington Hills,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$91.00,MI
+Beaumont Hospital - Farmington Hills,Chest,HCPCS 71046,X-ray of chest; 2 Views,$82.00,MI
+Beaumont Hospital - Farmington Hills,Chest,HCPCS 71045,X-ray of chest; Single View,$65.00,MI
+Beaumont Hospital - Farmington Hills,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$80.00,MI
+Beaumont Hospital - Farmington Hills,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$95.00,MI
+Beaumont Hospital - Farmington Hills,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$76.00,MI
+Beaumont Hospital - Farmington Hills,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$115.00,MI
+Beaumont Hospital - Farmington Hills,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$91.00,MI
+Beaumont Hospital - Farmington Hills,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$63.00,MI
+Beaumont Hospital - Farmington Hills,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$70.00,MI
+Beaumont Hospital - Farmington Hills,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$134.00,MI
+Beaumont Hospital - Farmington Hills,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$57.00,MI
+Beaumont Hospital - Farmington Hills,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$81.00,MI
+Beaumont Hospital - Farmington Hills,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$81.00,MI
+Beaumont Hospital - Farmington Hills,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$26.00,MI
+Beaumont Hospital - Farmington Hills,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$76.00,MI
+Beaumont Hospital - Farmington Hills,Lower Limbs,HCPCS 73565,X-ray Both Knees,$57.00,MI
+Beaumont Hospital - Farmington Hills,Lower Limbs,HCPCS 73630,X-ray exam of foot,$76.00,MI
+Beaumont Hospital - Farmington Hills,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$73.00,MI
+Beaumont Hospital - Farmington Hills,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$57.00,MI
+Beaumont Hospital - Farmington Hills,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$73.00,MI
+Beaumont Hospital - Farmington Hills,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$63.00,MI
+Beaumont Hospital - Farmington Hills,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$70.00,MI
+Beaumont Hospital - Farmington Hills,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$91.00,MI
+Beaumont Hospital - Farmington Hills,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$78.00,MI
+Beaumont Hospital - Farmington Hills,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$125.00,MI
+Beaumont Hospital - Farmington Hills,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$87.00,MI
+Beaumont Hospital - Farmington Hills,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$87.00,MI
+Beaumont Hospital - Farmington Hills,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$36.00,MI
+Beaumont Hospital - Farmington Hills,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$80.00,MI
+Beaumont Hospital - Farmington Hills,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$57.00,MI
+Beaumont Hospital - Farmington Hills,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$81.00,MI
+Beaumont Hospital - Farmington Hills,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$73.00,MI
+Beaumont Hospital - Farmington Hills,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$80.00,MI
+Beaumont Hospital - Farmington Hills,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$73.00,MI
+Beaumont Hospital - Farmington Hills,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$73.00,MI
+Beaumont Hospital - Farmington Hills,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$78.00,MI
+Beaumont Hospital - Farmington Hills,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$7,710.00",MI
+Beaumont Hospital - Farmington Hills,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$1,276.00",MI
+Beaumont Hospital - Farmington Hills,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,$479.00,MI
+Beaumont Hospital - Farmington Hills,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$78.00,MI
+Beaumont Hospital - Farmington Hills,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$78.00,MI
+Beaumont Hospital - Farmington Hills,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$9,848.00",MI
+Beaumont Hospital - Farmington Hills,Breast,HCPCS 19125,Excision of breast lesion,"$1,876.00",MI
+Beaumont Hospital - Farmington Hills,Breast,HCPCS 19120,Excision of cyst of breast,"$2,181.00",MI
+Beaumont Hospital - Farmington Hills,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,"$36,647.00",MI
+Beaumont Hospital - Farmington Hills,Cardiac,MSDRG 216,Cardiac valve procedure,-,MI
+Beaumont Hospital - Farmington Hills,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,MI
+Beaumont Hospital - Farmington Hills,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,MI
+Beaumont Hospital - Farmington Hills,Cardiac,HCPCS 33249,Defibrillator complete system,"$23,244.00",MI
+Beaumont Hospital - Farmington Hills,Cardiac,HCPCS 33240,Defibrillator generator,"$16,353.00",MI
+Beaumont Hospital - Farmington Hills,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$2,482.00",MI
+Beaumont Hospital - Farmington Hills,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$2,457.00",MI
+Beaumont Hospital - Farmington Hills,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$141.00,MI
+Beaumont Hospital - Farmington Hills,Cardiac,MSDRG 247,Implant drug-eluting stent,"$18,555.00",MI
+Beaumont Hospital - Farmington Hills,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$15,644.00",MI
+Beaumont Hospital - Farmington Hills,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$3,432.00",MI
+Beaumont Hospital - Farmington Hills,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",$493.00,MI
+Beaumont Hospital - Farmington Hills,Digestive,HCPCS 45380,"Colonoscopy, with biopsy",$493.00,MI
+Beaumont Hospital - Farmington Hills,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal",$493.00,MI
+Beaumont Hospital - Farmington Hills,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)",$493.00,MI
+Beaumont Hospital - Farmington Hills,Digestive,HCPCS 43235,EGD,$463.00,MI
+Beaumont Hospital - Farmington Hills,Digestive,HCPCS 43239,EGD and biopsy,$566.00,MI
+Beaumont Hospital - Farmington Hills,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$9,113.00",MI
+Beaumont Hospital - Farmington Hills,General,HCPCS 55700,Biopsy of prostate gland,"$1,276.00",MI
+Beaumont Hospital - Farmington Hills,General,HCPCS 10060,Drainage of Abscess,$126.00,MI
+Beaumont Hospital - Farmington Hills,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$230.00,MI
+Beaumont Hospital - Farmington Hills,General,HCPCS 69200,Removal of foreign body from ear canal,$78.00,MI
+Beaumont Hospital - Farmington Hills,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$100.00,MI
+Beaumont Hospital - Farmington Hills,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$173.00,MI
+Beaumont Hospital - Farmington Hills,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$100.00,MI
+Beaumont Hospital - Farmington Hills,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$126.00,MI
+Beaumont Hospital - Farmington Hills,Head,HCPCS 67028,Injection of drug into the eye,$283.00,MI
+Beaumont Hospital - Farmington Hills,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$21,007.00",MI
+Beaumont Hospital - Farmington Hills,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$104.00,MI
+Beaumont Hospital - Farmington Hills,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$450.00,MI
+Beaumont Hospital - Farmington Hills,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,$450.00,MI
+Beaumont Hospital - Farmington Hills,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$620.00,MI
+Beaumont Hospital - Farmington Hills,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$191.00,MI
+Beaumont Hospital - Farmington Hills,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$15,370.00",MI
+Beaumont Hospital - Farmington Hills,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,"$20,965.00",MI
+Beaumont Hospital - Farmington Hills,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$13,136.00",MI
+Beaumont Hospital - Farmington Hills,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$22,865.00",MI
+Beaumont Hospital - Farmington Hills,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$162.00,MI
+Beaumont Hospital - Farmington Hills,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$1,175.00",MI
+Beaumont Hospital - Farmington Hills,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$4,216.00",MI
+Beaumont Hospital - Farmington Hills,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$2,910.00",MI
+Beaumont Hospital - Farmington Hills,Ocular,HCPCS 66821,Laser cataract removal,$365.00,MI
+Beaumont Hospital - Farmington Hills,Ocular,HCPCS 67108,Repair of detached retina,"$2,877.00",MI
+Beaumont Hospital - Farmington Hills,Soft Tissue,HCPCS 97597,Debridement of open wound,$126.00,MI
+Beaumont Hospital - Farmington Hills,Soft Tissue,HCPCS 97602,Non-selective debridement,$126.00,MI
+Beaumont Hospital - Farmington Hills,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$36.00,MI
+Beaumont Hospital - Farmington Hills,Vascular,HCPCS 36416,Collection of capillary blood specimen,$3.00,MI
+Beaumont Hospital - Farmington Hills,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,174.00",MI
+Beaumont Hospital - Farmington Hills,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$463.00,MI
+Beaumont Hospital - Farmington Hills,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,$454.00,MI

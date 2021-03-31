@@ -1,0 +1,303 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Summersville Regional Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$234.00,WV
+Summersville Regional Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes",$469.50,WV
+Summersville Regional Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$89.50,WV
+Summersville Regional Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$129.50,WV
+Summersville Regional Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$293.00,WV
+Summersville Regional Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,$462.00,WV
+Summersville Regional Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,$720.50,WV
+Summersville Regional Medical Center,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$97.00,WV
+Summersville Regional Medical Center,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$60.00,WV
+Summersville Regional Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$33.00,WV
+Summersville Regional Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$61.50,WV
+Summersville Regional Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$53.00,WV
+Summersville Regional Medical Center,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$108.50,WV
+Summersville Regional Medical Center,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$70.50,WV
+Summersville Regional Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$211.00,WV
+Summersville Regional Medical Center,Speech,HCPCS 92507,Speech Therapy,$102.00,WV
+Summersville Regional Medical Center,Speech,HCPCS 92610,Swallow Evaluation,$126.00,WV
+Summersville Regional Medical Center,Speech,HCPCS 92526,Swallow Treatment,$102.00,WV
+Summersville Regional Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$24.00,WV
+Summersville Regional Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$24.00,WV
+Summersville Regional Medical Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$29.50,WV
+Summersville Regional Medical Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$52.50,WV
+Summersville Regional Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$27.50,WV
+Summersville Regional Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$29.00,WV
+Summersville Regional Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$27.00,WV
+Summersville Regional Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$24.00,WV
+Summersville Regional Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$16.50,WV
+Summersville Regional Medical Center,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$128.50,WV
+Summersville Regional Medical Center,Blood,HCPCS 85660,Red blood cell sickling measurement,$514.00,WV
+Summersville Regional Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$454.50,WV
+Summersville Regional Medical Center,Blood,HCPCS 85041,"Red blood count, automated test",$21.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$49.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$249.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$36.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$13.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$75.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82140,Ammonia level,$95.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$38.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$66.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$80.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$81.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$64.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$28.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$30.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$29.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$36.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$7.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$33.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$29.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$4.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$72.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82310,Calcium level,$29.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$13.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$84.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82465,Cholesterol level,$29.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82525,Copper level,$73.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$78.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$92.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$29.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$85.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$165.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$231.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$63.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$46.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$39.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$29.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$50.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$86.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$98.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$29.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 83718,HDL cholesterol level,$18.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 83020,Hemoglobin Measurement,$24.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$142.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$25.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 83520,IgE (immune system protein) level,$87.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$59.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$37.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$40.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 83540,Iron level,$32.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$29.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 83721,LDL cholesterol level,$74.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$46.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$24.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$91.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 83021,Liver function blood test panel,$18.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$39.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82542,Mass spectrometry,$48.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$165.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$10.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 83945,Oxalate level,$72.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 83970,Parathormone,$131.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$31.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$148.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$43.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$71.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$76.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$155.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$149.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 84479,"Thyroid Hormone, T3 Measurement, Free",$91.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$402.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$51.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$53.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$9.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$47.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 84560,Uric acid level,$10.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$33.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$33.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82436,Urine chloride level,$26.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$13.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$41.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$20.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$26.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$39.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 84591,Vitamin B-6 level,$239.50,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$186.00,WV
+Summersville Regional Medical Center,Chemistry,HCPCS 84630,Zinc level,$68.50,WV
+Summersville Regional Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$43.00,WV
+Summersville Regional Medical Center,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$27.00,WV
+Summersville Regional Medical Center,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$45.00,WV
+Summersville Regional Medical Center,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$34.00,WV
+Summersville Regional Medical Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$34.50,WV
+Summersville Regional Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$86.00,WV
+Summersville Regional Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$19.00,WV
+Summersville Regional Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$23.50,WV
+Summersville Regional Medical Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$14.00,WV
+Summersville Regional Medical Center,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$33.00,WV
+Summersville Regional Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$54.50,WV
+Summersville Regional Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$11.00,WV
+Summersville Regional Medical Center,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$28.50,WV
+Summersville Regional Medical Center,Immunology,HCPCS 86161,Measurement of complement (immune system proteins),$182.00,WV
+Summersville Regional Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$27.50,WV
+Summersville Regional Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$65.50,WV
+Summersville Regional Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$36.50,WV
+Summersville Regional Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$52.00,WV
+Summersville Regional Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$31.00,WV
+Summersville Regional Medical Center,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$29.50,WV
+Summersville Regional Medical Center,Immunology,HCPCS 86359,"T cells count, total",$24.00,WV
+Summersville Regional Medical Center,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$81.00,WV
+Summersville Regional Medical Center,Immunology,HCPCS 86580,Tuberculosis Test,$22.50,WV
+Summersville Regional Medical Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$39.50,WV
+Summersville Regional Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$53.00,WV
+Summersville Regional Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$76.00,WV
+Summersville Regional Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$79.00,WV
+Summersville Regional Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$125.00,WV
+Summersville Regional Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$106.50,WV
+Summersville Regional Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$50.50,WV
+Summersville Regional Medical Center,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$428.00,WV
+Summersville Regional Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$54.50,WV
+Summersville Regional Medical Center,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification","$1,392.50",WV
+Summersville Regional Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$122.00,WV
+Summersville Regional Medical Center,Microbiology,HCPCS 87517,Hepatitis B Detection,$562.50,WV
+Summersville Regional Medical Center,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$10.00,WV
+Summersville Regional Medical Center,Microbiology,HCPCS 86735,Mumps virus antibody test,$74.50,WV
+Summersville Regional Medical Center,Microbiology,HCPCS 86747,Parvovirus antibody test,$169.00,WV
+Summersville Regional Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$11.00,WV
+Summersville Regional Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$75.50,WV
+Summersville Regional Medical Center,Microbiology,HCPCS 87207,Smear for infectious agents,$4.50,WV
+Summersville Regional Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$181.00,WV
+Summersville Regional Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$11.50,WV
+Summersville Regional Medical Center,Microbiology,HCPCS 87045,Stool Culture,$157.50,WV
+Summersville Regional Medical Center,Microbiology,HCPCS 87880,Strep Test,$39.00,WV
+Summersville Regional Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$120.50,WV
+Summersville Regional Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$18.50,WV
+Summersville Regional Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$71.50,WV
+Summersville Regional Medical Center,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$119.50,WV
+Summersville Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$294.00,WV
+Summersville Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$68.00,WV
+Summersville Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$120.50,WV
+Summersville Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$76.50,WV
+Summersville Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$74.50,WV
+Summersville Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$56.50,WV
+Summersville Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$196.00,WV
+Summersville Regional Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$141.50,WV
+Summersville Regional Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$80.50,WV
+Summersville Regional Medical Center,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$45.50,WV
+Summersville Regional Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$51.00,WV
+Summersville Regional Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$138.00,WV
+Summersville Regional Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$160.00,WV
+Summersville Regional Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$51.50,WV
+Summersville Regional Medical Center,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$82.00,WV
+Summersville Regional Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$74.00,WV
+Summersville Regional Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$161.50,WV
+Summersville Regional Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$78.50,WV
+Summersville Regional Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$79.50,WV
+Summersville Regional Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$29.50,WV
+Summersville Regional Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$29.50,WV
+Summersville Regional Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$268.00,WV
+Summersville Regional Medical Center,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$62.50,WV
+Summersville Regional Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$64.50,WV
+Summersville Regional Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$40.50,WV
+Summersville Regional Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$5.00,WV
+Summersville Regional Medical Center,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$8.00,WV
+Summersville Regional Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$32.00,WV
+Summersville Regional Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$11.50,WV
+Summersville Regional Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$441.50,WV
+Summersville Regional Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$103.00,WV
+Summersville Regional Medical Center,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$34.00,WV
+Summersville Regional Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$156.00,WV
+Summersville Regional Medical Center,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$19.00,WV
+Summersville Regional Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,$574.00,WV
+Summersville Regional Medical Center,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$102.00,WV
+Summersville Regional Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,$147.50,WV
+Summersville Regional Medical Center,Pulmonary,HCPCS 94618,Pulmonary stress test,$220.00,WV
+Summersville Regional Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$41.50,WV
+Summersville Regional Medical Center,Sleep,HCPCS 95810,Sleep study,"$2,190.50",WV
+Summersville Regional Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$58.50,WV
+Summersville Regional Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$107.50,WV
+Summersville Regional Medical Center,Breast,HCPCS 77067,Mammogram Screening,$136.50,WV
+Summersville Regional Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$136.50,WV
+Summersville Regional Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,$960.00,WV
+Summersville Regional Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$613.50,WV
+Summersville Regional Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$496.50,WV
+Summersville Regional Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$529.50,WV
+Summersville Regional Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,$877.50,WV
+Summersville Regional Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,$724.50,WV
+Summersville Regional Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$613.50,WV
+Summersville Regional Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$724.50,WV
+Summersville Regional Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,$877.50,WV
+Summersville Regional Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$739.50,WV
+Summersville Regional Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$632.00,WV
+Summersville Regional Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$711.50,WV
+Summersville Regional Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$635.50,WV
+Summersville Regional Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)",$793.00,WV
+Summersville Regional Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,$793.00,WV
+Summersville Regional Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$793.00,WV
+Summersville Regional Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$1,288.00",WV
+Summersville Regional Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,$793.00,WV
+Summersville Regional Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$1,288.00",WV
+Summersville Regional Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,288.00",WV
+Summersville Regional Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$793.00,WV
+Summersville Regional Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,288.00",WV
+Summersville Regional Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$793.00,WV
+Summersville Regional Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,$793.00,WV
+Summersville Regional Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$310.00,WV
+Summersville Regional Medical Center,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$270.00,WV
+Summersville Regional Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$267.00,WV
+Summersville Regional Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$195.50,WV
+Summersville Regional Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$345.00,WV
+Summersville Regional Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$267.00,WV
+Summersville Regional Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$207.00,WV
+Summersville Regional Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$220.50,WV
+Summersville Regional Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$222.00,WV
+Summersville Regional Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$222.00,WV
+Summersville Regional Medical Center,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$200.00,WV
+Summersville Regional Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$257.50,WV
+Summersville Regional Medical Center,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$118.00,WV
+Summersville Regional Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$87.00,WV
+Summersville Regional Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$67.00,WV
+Summersville Regional Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$82.50,WV
+Summersville Regional Medical Center,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$107.50,WV
+Summersville Regional Medical Center,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$71.00,WV
+Summersville Regional Medical Center,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$257.50,WV
+Summersville Regional Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$90.50,WV
+Summersville Regional Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$62.00,WV
+Summersville Regional Medical Center,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$81.00,WV
+Summersville Regional Medical Center,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$129.50,WV
+Summersville Regional Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$160.00,WV
+Summersville Regional Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$82.50,WV
+Summersville Regional Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$71.00,WV
+Summersville Regional Medical Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$83.00,WV
+Summersville Regional Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$67.00,WV
+Summersville Regional Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$74.00,WV
+Summersville Regional Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$112.00,WV
+Summersville Regional Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$76.50,WV
+Summersville Regional Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$90.50,WV
+Summersville Regional Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$81.00,WV
+Summersville Regional Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$79.50,WV
+Summersville Regional Medical Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$75.50,WV
+Summersville Regional Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$78.50,WV
+Summersville Regional Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$98.00,WV
+Summersville Regional Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$75.00,WV
+Summersville Regional Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$173.50,WV
+Summersville Regional Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$85.00,WV
+Summersville Regional Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$93.00,WV
+Summersville Regional Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$152.50,WV
+Summersville Regional Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$80.00,WV
+Summersville Regional Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$56.50,WV
+Summersville Regional Medical Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$67.00,WV
+Summersville Regional Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$79.00,WV
+Summersville Regional Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$82.50,WV
+Summersville Regional Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$71.50,WV
+Summersville Regional Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$69.00,WV
+Summersville Regional Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$75.00,WV
+Summersville Regional Medical Center,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,$218.00,WV
+Summersville Regional Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$85.50,WV
+Summersville Regional Medical Center,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$86.00,WV
+Summersville Regional Medical Center,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,$363.50,WV
+Summersville Regional Medical Center,General,HCPCS 55700,Biopsy of prostate gland,$303.00,WV
+Summersville Regional Medical Center,General,HCPCS 10060,Drainage of Abscess,$86.00,WV
+Summersville Regional Medical Center,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$182.50,WV
+Summersville Regional Medical Center,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$201.00,WV
+Summersville Regional Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$209.50,WV
+Summersville Regional Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$875.50,WV
+Summersville Regional Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$293.50,WV
+Summersville Regional Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$63.50,WV
+Summersville Regional Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$134.00,WV
+Summersville Regional Medical Center,Soft Tissue,HCPCS 97602,Non-selective debridement,$37.00,WV
+Summersville Regional Medical Center,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$156.00,WV
+Summersville Regional Medical Center,Vascular,HCPCS 36416,Collection of capillary blood specimen,$9.50,WV
+Summersville Regional Medical Center,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),$871.00,WV
+Summersville Regional Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$588.00,WV
+Summersville Regional Medical Center,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,$882.50,WV

@@ -1,0 +1,285 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Rio Grande Hospital,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$246.82,CO
+Rio Grande Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,108.52",CO
+Rio Grande Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$100.46,CO
+Rio Grande Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$190.53,CO
+Rio Grande Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$263.27,CO
+Rio Grande Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$462.45,CO
+Rio Grande Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,020.18",CO
+Rio Grande Hospital,Hospital,HCPCS 99219,Hospital observation care typically 30 minutes,$58.02,CO
+Rio Grande Hospital,Hospital,HCPCS 99218,Hospital Observation per Hour,$24.24,CO
+Rio Grande Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$97.86,CO
+Rio Grande Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$113.45,CO
+Rio Grande Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$70.15,CO
+Rio Grande Hospital,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$92.66,CO
+Rio Grande Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$121.24,CO
+Rio Grande Hospital,Speech,HCPCS 92507,Speech Therapy,$147.23,CO
+Rio Grande Hospital,Speech,HCPCS 92610,Swallow Evaluation,$291.85,CO
+Rio Grande Hospital,Speech,HCPCS 92526,Swallow Treatment,$190.53,CO
+Rio Grande Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$13.86,CO
+Rio Grande Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$13.86,CO
+Rio Grande Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$27.71,CO
+Rio Grande Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$81.60,CO
+Rio Grande Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$36.37,CO
+Rio Grande Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$39.84,CO
+Rio Grande Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$60.63,CO
+Rio Grande Hospital,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$190.15,CO
+Rio Grande Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$38.59,CO
+Rio Grande Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$661.66,CO
+Rio Grande Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$240.76,CO
+Rio Grande Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$29.44,CO
+Rio Grande Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$100.46,CO
+Rio Grande Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$109.11,CO
+Rio Grande Hospital,Chemistry,HCPCS 82140,Ammonia level,$33.44,CO
+Rio Grande Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$35.50,CO
+Rio Grande Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$104.80,CO
+Rio Grande Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$82.28,CO
+Rio Grande Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$75.35,CO
+Rio Grande Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$115.38,CO
+Rio Grande Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$27.71,CO
+Rio Grande Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$27.71,CO
+Rio Grande Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$21.22,CO
+Rio Grande Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$23.38,CO
+Rio Grande Hospital,Chemistry,HCPCS 84295,Blood sodium level,$22.51,CO
+Rio Grande Hospital,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$36.37,CO
+Rio Grande Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$74.48,CO
+Rio Grande Hospital,Chemistry,HCPCS 82310,Calcium level,$29.44,CO
+Rio Grande Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$32.04,CO
+Rio Grande Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$114.31,CO
+Rio Grande Hospital,Chemistry,HCPCS 82465,Cholesterol level,$63.67,CO
+Rio Grande Hospital,Chemistry,HCPCS 82525,Copper level,$60.34,CO
+Rio Grande Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$52.82,CO
+Rio Grande Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$144.00,CO
+Rio Grande Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$27.71,CO
+Rio Grande Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$48.50,CO
+Rio Grande Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$322.17,CO
+Rio Grande Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$87.46,CO
+Rio Grande Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$108.25,CO
+Rio Grande Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$57.45,CO
+Rio Grande Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$35.50,CO
+Rio Grande Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$57.16,CO
+Rio Grande Hospital,Chemistry,HCPCS 83001,"Gonadotropin, chorionic (reproductive hormone) level",$57.16,CO
+Rio Grande Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$57.16,CO
+Rio Grande Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$84.02,CO
+Rio Grande Hospital,Chemistry,HCPCS 83718,HDL cholesterol level,$49.37,CO
+Rio Grande Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$188.80,CO
+Rio Grande Hospital,Chemistry,HCPCS 83520,IgE (immune system protein) level,$70.74,CO
+Rio Grande Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$49.37,CO
+Rio Grande Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$122.10,CO
+Rio Grande Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$67.56,CO
+Rio Grande Hospital,Chemistry,HCPCS 83540,Iron level,$67.56,CO
+Rio Grande Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$24.24,CO
+Rio Grande Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$42.87,CO
+Rio Grande Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$73.61,CO
+Rio Grande Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$29.44,CO
+Rio Grande Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$84.87,CO
+Rio Grande Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$124.85,CO
+Rio Grande Hospital,Chemistry,HCPCS 83735,Magnesium Level,$27.71,CO
+Rio Grande Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$168.00,CO
+Rio Grande Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$64.32,CO
+Rio Grande Hospital,Chemistry,HCPCS 83945,Oxalate level,$57.16,CO
+Rio Grande Hospital,Chemistry,HCPCS 83970,Parathormone,$181.00,CO
+Rio Grande Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$50.94,CO
+Rio Grande Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$150.55,CO
+Rio Grande Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$57.16,CO
+Rio Grande Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$63.67,CO
+Rio Grande Hospital,Chemistry,HCPCS A9270,Selenium (vitamin) level,$8.10,CO
+Rio Grande Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$25.46,CO
+Rio Grande Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$77.94,CO
+Rio Grande Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$360.00,CO
+Rio Grande Hospital,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$41.73,CO
+Rio Grande Hospital,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$332.55,CO
+Rio Grande Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$53.70,CO
+Rio Grande Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$36.37,CO
+Rio Grande Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$33.96,CO
+Rio Grande Hospital,Chemistry,HCPCS 84478,Triglycerides level,$27.71,CO
+Rio Grande Hospital,Chemistry,HCPCS 84560,Uric acid level,$40.80,CO
+Rio Grande Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$27.71,CO
+Rio Grande Hospital,Chemistry,HCPCS 82340,Urine calcium level,$32.91,CO
+Rio Grande Hospital,Chemistry,HCPCS 82436,Urine chloride level,$38.98,CO
+Rio Grande Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$60.28,CO
+Rio Grande Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$85.74,CO
+Rio Grande Hospital,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$106.79,CO
+Rio Grande Hospital,Chemistry,HCPCS 84133,Urine potassium level,$32.04,CO
+Rio Grande Hospital,Chemistry,HCPCS 84300,Urine sodium level,$36.37,CO
+Rio Grande Hospital,Chemistry,HCPCS 84591,Vitamin B-6 level,$155.04,CO
+Rio Grande Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$166.46,CO
+Rio Grande Hospital,Chemistry,HCPCS 84630,Zinc level,$101.32,CO
+Rio Grande Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$146.88,CO
+Rio Grande Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$55.43,CO
+Rio Grande Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$72.00,CO
+Rio Grande Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$122.98,CO
+Rio Grande Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$92.00,CO
+Rio Grande Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$89.20,CO
+Rio Grande Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$35.50,CO
+Rio Grande Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$79.86,CO
+Rio Grande Hospital,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$170.61,CO
+Rio Grande Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$57.16,CO
+Rio Grande Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$24.00,CO
+Rio Grande Hospital,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$77.08,CO
+Rio Grande Hospital,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$85.74,CO
+Rio Grande Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$92.66,CO
+Rio Grande Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$53.86,CO
+Rio Grande Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$32.04,CO
+Rio Grande Hospital,Immunology,HCPCS 86580,Skin test for tuberculosis,$91.38,CO
+Rio Grande Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$32.04,CO
+Rio Grande Hospital,Immunology,HCPCS 86361,T cell count and ratio,$134.48,CO
+Rio Grande Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$290.52,CO
+Rio Grande Hospital,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$42.43,CO
+Rio Grande Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$42.45,CO
+Rio Grande Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$76.22,CO
+Rio Grande Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$107.19,CO
+Rio Grande Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$112.00,CO
+Rio Grande Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$375.85,CO
+Rio Grande Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$65.82,CO
+Rio Grande Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$332.11,CO
+Rio Grande Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$70.99,CO
+Rio Grande Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$371.70,CO
+Rio Grande Hospital,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$212.65,CO
+Rio Grande Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$91.80,CO
+Rio Grande Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$91.39,CO
+Rio Grande Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$93.02,CO
+Rio Grande Hospital,Microbiology,HCPCS 87207,Smear for infectious agents,$77.60,CO
+Rio Grande Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$20.81,CO
+Rio Grande Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$72.16,CO
+Rio Grande Hospital,Microbiology,HCPCS 87045,Stool Culture,$44.11,CO
+Rio Grande Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$46.69,CO
+Rio Grande Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$69.62,CO
+Rio Grande Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$109.67,CO
+Rio Grande Hospital,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$420.02,CO
+Rio Grande Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$420.16,CO
+Rio Grande Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$71.88,CO
+Rio Grande Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$63.65,CO
+Rio Grande Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$79.67,CO
+Rio Grande Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$52.82,CO
+Rio Grande Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$95.26,CO
+Rio Grande Hospital,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$148.96,CO
+Rio Grande Hospital,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$77.94,CO
+Rio Grande Hospital,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$212.24,CO
+Rio Grande Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$65.82,CO
+Rio Grande Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$68.80,CO
+Rio Grande Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$57.94,CO
+Rio Grande Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$35.50,CO
+Rio Grande Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$56.30,CO
+Rio Grande Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$200.05,CO
+Rio Grande Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$39.84,CO
+Rio Grande Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$89.20,CO
+Rio Grande Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$56.30,CO
+Rio Grande Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$26.85,CO
+Rio Grande Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$42.43,CO
+Rio Grande Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$19.92,CO
+Rio Grande Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$67.55,CO
+Rio Grande Hospital,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$13.86,CO
+Rio Grande Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$48.50,CO
+Rio Grande Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$59.43,CO
+Rio Grande Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$349.88,CO
+Rio Grande Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$102.19,CO
+Rio Grande Hospital,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$285.78,CO
+Rio Grande Hospital,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$111.71,CO
+Rio Grande Hospital,Pulmonary,HCPCS 94640,Nebulizer Treatment,$35.50,CO
+Rio Grande Hospital,Pulmonary,HCPCS 94618,Pulmonary stress test,$140.00,CO
+Rio Grande Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$81.60,CO
+Rio Grande Hospital,Sleep,HCPCS 95810,Sleep study,"$1,784.03",CO
+Rio Grande Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,821.26",CO
+Rio Grande Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,091.21",CO
+Rio Grande Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$985.54,CO
+Rio Grande Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,030.58",CO
+Rio Grande Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$2,703.75",CO
+Rio Grande Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,072.41",CO
+Rio Grande Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,892.28",CO
+Rio Grande Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,256.62",CO
+Rio Grande Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$2,279.39",CO
+Rio Grande Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,624.67",CO
+Rio Grande Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,415.09",CO
+Rio Grande Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$985.54,CO
+Rio Grande Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,196.86",CO
+Rio Grande Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$2,230.90",CO
+Rio Grande Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,982.34",CO
+Rio Grande Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,982.34",CO
+Rio Grande Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$3,444.21",CO
+Rio Grande Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,990.14",CO
+Rio Grande Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$3,444.21",CO
+Rio Grande Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$3,177.47",CO
+Rio Grande Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,428.95",CO
+Rio Grande Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,444.21",CO
+Rio Grande Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,327.03",CO
+Rio Grande Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$2,275.06",CO
+Rio Grande Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$422.63,CO
+Rio Grande Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$166.29,CO
+Rio Grande Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$172.34,CO
+Rio Grande Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$730.92,CO
+Rio Grande Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$179.26,CO
+Rio Grande Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$200.91,CO
+Rio Grande Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$400.11,CO
+Rio Grande Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$207.84,CO
+Rio Grande Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$316.98,CO
+Rio Grande Hospital,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$238.16,CO
+Rio Grande Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$108.20,CO
+Rio Grande Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$101.54,CO
+Rio Grande Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$195.72,CO
+Rio Grande Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$244.22,CO
+Rio Grande Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$173.21,CO
+Rio Grande Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$238.16,CO
+Rio Grande Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$122.98,CO
+Rio Grande Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$142.90,CO
+Rio Grande Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$271.94,CO
+Rio Grande Hospital,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$300.11,CO
+Rio Grande Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$187.07,CO
+Rio Grande Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$167.15,CO
+Rio Grande Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$200.05,CO
+Rio Grande Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$111.71,CO
+Rio Grande Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$168.02,CO
+Rio Grande Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$147.23,CO
+Rio Grande Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$166.29,CO
+Rio Grande Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$166.35,CO
+Rio Grande Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$142.90,CO
+Rio Grande Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$58.90,CO
+Rio Grande Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$151.55,CO
+Rio Grande Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$195.72,CO
+Rio Grande Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$167.15,CO
+Rio Grande Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$271.94,CO
+Rio Grande Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$204.38,CO
+Rio Grande Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$271.94,CO
+Rio Grande Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$183.60,CO
+Rio Grande Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$151.55,CO
+Rio Grande Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$151.55,CO
+Rio Grande Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$122.98,CO
+Rio Grande Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$151.55,CO
+Rio Grande Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$151.55,CO
+Rio Grande Hospital,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$153.29,CO
+Rio Grande Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$141.17,CO
+Rio Grande Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$159.35,CO
+Rio Grande Hospital,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$2,083.67",CO
+Rio Grande Hospital,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,$464.19,CO
+Rio Grande Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$152.42,CO
+Rio Grande Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$152.42,CO
+Rio Grande Hospital,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,"$5,796.34",CO
+Rio Grande Hospital,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$275.40,CO
+Rio Grande Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,287.78",CO
+Rio Grande Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,684.43",CO
+Rio Grande Hospital,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,551.06",CO
+Rio Grande Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,684.43",CO
+Rio Grande Hospital,Digestive,HCPCS 43235,EGD,"$1,400.79",CO
+Rio Grande Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$1,486.98",CO
+Rio Grande Hospital,General,HCPCS 55700,Biopsy of prostate gland,$869.49,CO
+Rio Grande Hospital,General,HCPCS 10060,Drainage of Abscess,$194.86,CO
+Rio Grande Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$85.74,CO
+Rio Grande Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$92.66,CO
+Rio Grande Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$106.52,CO
+Rio Grande Hospital,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$207.84,CO
+Rio Grande Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$207.84,CO
+Rio Grande Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$83.23,CO
+Rio Grande Hospital,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$199.18,CO
+Rio Grande Hospital,Musculoskeletal,HCPCS 27200,Insertion of Breathing Tube Using an Endoscope,$214.77,CO
+Rio Grande Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$154.15,CO
+Rio Grande Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$5,518.28",CO
+Rio Grande Hospital,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$5,093.80",CO
+Rio Grande Hospital,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$62.42,CO
+Rio Grande Hospital,Ocular,HCPCS 66984,Cataract removal,"$2,760.04",CO
+Rio Grande Hospital,Ocular,HCPCS 66982,Cataract removal with insertion of lens,"$2,760.04",CO
+Rio Grande Hospital,Ocular,HCPCS 66821,Laser cataract removal,$650.39,CO
+Rio Grande Hospital,Ocular,HCPCS 65426,Removal or relocation of corneal conjunctiva,"$3,313.43",CO
+Rio Grande Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$220.32,CO
+Rio Grande Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$130.56,CO
+Rio Grande Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,636.34",CO
+Rio Grande Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$405.30,CO

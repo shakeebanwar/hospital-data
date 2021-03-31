@@ -1,0 +1,146 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Fallon Medical Complex ,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$831.00,MT
+Fallon Medical Complex ,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,780.00",MT
+Fallon Medical Complex ,Emergency Care,HCPCS 99281,Emergency Level 1,$220.00,MT
+Fallon Medical Complex ,Emergency Care,HCPCS 99282,Emergency Level 2,$331.00,MT
+Fallon Medical Complex ,Emergency Care,HCPCS 99283,Emergency Level 3,$428.00,MT
+Fallon Medical Complex ,Emergency Care,HCPCS 99284,Emergency Level 4,$748.00,MT
+Fallon Medical Complex ,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,270.00",MT
+Fallon Medical Complex ,Hospital,HCPCS 99234,Hospital observation care discharge,$311.00,MT
+Fallon Medical Complex ,Hospital,HCPCS 99219,Hospital observation care typically 30 minutes,$298.00,MT
+Fallon Medical Complex ,Hospital,HCPCS 99235,"Hospital observation or inpatient care moderate severity, 50 minutes per day",$421.00,MT
+Fallon Medical Complex ,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$300.00,MT
+Fallon Medical Complex ,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$347.00,MT
+Fallon Medical Complex ,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$370.00,MT
+Fallon Medical Complex ,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$242.00,MT
+Fallon Medical Complex ,Speech,HCPCS 92507,Speech Therapy,$89.00,MT
+Fallon Medical Complex ,Speech,HCPCS 92526,Swallow Treatment,$106.00,MT
+Fallon Medical Complex ,Blood,HCPCS 85018,"Blood count, hemoglobin",$22.00,MT
+Fallon Medical Complex ,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$22.00,MT
+Fallon Medical Complex ,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$82.00,MT
+Fallon Medical Complex ,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$206.00,MT
+Fallon Medical Complex ,Blood,HCPCS 85610,"Blood test, clotting time",$54.00,MT
+Fallon Medical Complex ,Blood,HCPCS 85730,Coagulation assessment blood test,$104.00,MT
+Fallon Medical Complex ,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$70.00,MT
+Fallon Medical Complex ,Blood,HCPCS 85027,"Complete blood count, automated",$49.00,MT
+Fallon Medical Complex ,Blood,HCPCS 85008,Microscopic examination for white blood cells,$50.00,MT
+Fallon Medical Complex ,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$72.00,MT
+Fallon Medical Complex ,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$118.00,MT
+Fallon Medical Complex ,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$640.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$97.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 82040,Albumin (protein) level,$45.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$59.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$100.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 82140,Ammonia level,$70.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 82150,Amylase (enzyme) level,$68.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$48.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$170.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 84439,Assay of free thyroxine,$77.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$67.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 82248,Bilirubin level (Direct),$45.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 82247,Bilirubin level (Total),$45.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 82565,Blood creatinine level,$45.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$45.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$56.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 84295,Blood sodium level,$45.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$45.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$45.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$75.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 82310,Calcium level,$45.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$70.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 82465,Cholesterol level,$45.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 82525,Copper level,$54.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 82533,Cortisol Measurement,$94.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 84681,C-peptide (protein) level,$70.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$70.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$54.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$109.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$15.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 82746,Folic acid; serum,$59.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$76.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$45.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$55.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$70.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$81.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$65.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$153.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 83525,Insulin Measurement; Total,$45.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 82330,Ionized Calcium,$48.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 83550,Iron Binding Capacity,$45.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 83540,Iron level,$45.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$78.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 83721,LDL cholesterol level,$92.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$72.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$45.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$59.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 83735,Magnesium Level,$45.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 83970,Parathormone,$108.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$111.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$59.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$108.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 82270,Stool analysis for blood,$38.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 84403,Testosterone (hormone) level,$57.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$192.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$57.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 84155,"Total protein level, blood",$45.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$58.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 84550,"Uric acid level, blood",$59.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 82340,Urine calcium level,$45.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$57.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$54.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 84300,Urine sodium level,$52.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$116.00,MT
+Fallon Medical Complex ,Chemistry,HCPCS 84630,Zinc level,$57.00,MT
+Fallon Medical Complex ,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$72.00,MT
+Fallon Medical Complex ,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$54.00,MT
+Fallon Medical Complex ,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$40.00,MT
+Fallon Medical Complex ,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$92.00,MT
+Fallon Medical Complex ,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$100.00,MT
+Fallon Medical Complex ,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$80.00,MT
+Fallon Medical Complex ,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$97.00,MT
+Fallon Medical Complex ,Immunology,HCPCS 86140,Measurement C-reactive protein,$68.00,MT
+Fallon Medical Complex ,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$84.00,MT
+Fallon Medical Complex ,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$68.00,MT
+Fallon Medical Complex ,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$45.00,MT
+Fallon Medical Complex ,Immunology,HCPCS 86592,Syphilis Detection Test,$50.00,MT
+Fallon Medical Complex ,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$73.00,MT
+Fallon Medical Complex ,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$98.00,MT
+Fallon Medical Complex ,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$80.00,MT
+Fallon Medical Complex ,Microbiology,HCPCS 87635,Covid-19 current infection test,$152.00,MT
+Fallon Medical Complex ,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$118.00,MT
+Fallon Medical Complex ,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$80.00,MT
+Fallon Medical Complex ,Microbiology,HCPCS 87624,HPV Detection,$113.00,MT
+Fallon Medical Complex ,Microbiology,HCPCS 86735,Mumps virus antibody test,$70.00,MT
+Fallon Medical Complex ,Microbiology,HCPCS 86762,Rubella virus antibody test,$46.00,MT
+Fallon Medical Complex ,Microbiology,HCPCS 86765,Rubeola virus antibody test,$70.00,MT
+Fallon Medical Complex ,Microbiology,HCPCS 87177,Smear for Parasites,$47.00,MT
+Fallon Medical Complex ,Microbiology,HCPCS 87045,Stool Culture,$66.00,MT
+Fallon Medical Complex ,Microbiology,HCPCS 87880,Strep Test,$50.00,MT
+Fallon Medical Complex ,Microbiology,HCPCS 87804,Test for Influenza Virus,$50.00,MT
+Fallon Medical Complex ,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$60.00,MT
+Fallon Medical Complex ,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$390.00,MT
+Fallon Medical Complex ,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$111.00,MT
+Fallon Medical Complex ,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$98.00,MT
+Fallon Medical Complex ,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$152.00,MT
+Fallon Medical Complex ,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$112.00,MT
+Fallon Medical Complex ,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$109.00,MT
+Fallon Medical Complex ,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$98.00,MT
+Fallon Medical Complex ,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$494.00,MT
+Fallon Medical Complex ,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$59.00,MT
+Fallon Medical Complex ,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$59.00,MT
+Fallon Medical Complex ,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$70.00,MT
+Fallon Medical Complex ,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$68.00,MT
+Fallon Medical Complex ,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$70.00,MT
+Fallon Medical Complex ,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$59.00,MT
+Fallon Medical Complex ,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$75.00,MT
+Fallon Medical Complex ,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$59.00,MT
+Fallon Medical Complex ,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$100.00,MT
+Fallon Medical Complex ,Transfusion,HCPCS 86900,"Blood Typing, ABO",$86.00,MT
+Fallon Medical Complex ,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$86.00,MT
+Fallon Medical Complex ,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$304.00,MT
+Fallon Medical Complex ,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$106.00,MT
+Fallon Medical Complex ,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$36.00,MT
+Fallon Medical Complex ,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$36.00,MT
+Fallon Medical Complex ,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$83.00,MT
+Fallon Medical Complex ,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$289.00,MT
+Fallon Medical Complex ,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$185.00,MT

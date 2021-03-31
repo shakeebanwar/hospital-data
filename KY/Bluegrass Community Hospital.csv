@@ -1,0 +1,302 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Bluegrass Community Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$78.24,KY
+Bluegrass Community Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$139.46,KY
+Bluegrass Community Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$227.33,KY
+Bluegrass Community Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$363.96,KY
+Bluegrass Community Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$755.13,KY
+Bluegrass Community Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$73.36,KY
+Bluegrass Community Hospital,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$136.48,KY
+Bluegrass Community Hospital,Speech,HCPCS 92507,Speech Therapy,$60.71,KY
+Bluegrass Community Hospital,Speech,HCPCS 92610,Swallow Evaluation,$200.70,KY
+Bluegrass Community Hospital,Speech,HCPCS 92526,Swallow Treatment,$119.42,KY
+Bluegrass Community Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$20.57,KY
+Bluegrass Community Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$20.57,KY
+Bluegrass Community Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$35.62,KY
+Bluegrass Community Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$58.71,KY
+Bluegrass Community Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$35.12,KY
+Bluegrass Community Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$52.68,KY
+Bluegrass Community Hospital,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$24.59,KY
+Bluegrass Community Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$53.19,KY
+Bluegrass Community Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$53.19,KY
+Bluegrass Community Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$41.15,KY
+Bluegrass Community Hospital,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$143.50,KY
+Bluegrass Community Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$68.74,KY
+Bluegrass Community Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$531.87,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$143.50,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$171.10,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$35.12,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$79.28,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$69.24,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 82140,Ammonia level,$80.78,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$70.74,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$103.87,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$79.78,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$90.82,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$86.80,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$44.66,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$41.65,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$46.16,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$44.16,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 84295,Blood sodium level,$38.64,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$34.12,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$116.91,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 82310,Calcium level,$41.65,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$41.65,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$109.38,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 82465,Cholesterol level,$47.66,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 82525,Copper level,$76.27,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$79.28,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$103.37,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$47.66,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$83.30,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$152.04,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$190.67,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$81.29,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$77.27,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$52.18,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$55.70,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$74.26,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$112.39,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$144.50,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$74.76,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 83718,HDL cholesterol level,$58.71,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 83020,Hemoglobin Measurement,$69.24,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$108.38,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$98.85,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$263.93,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$96.84,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$77.78,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$53.69,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 83540,Iron level,$50.18,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$48.17,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$48.17,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$69.74,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$44.16,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$87.31,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$77.78,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 83735,Magnesium Level,$52.68,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$71.25,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$63.23,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$50.68,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 83918,Organic acid level,$48.67,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 83945,Oxalate level,$80.28,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 83970,Parathormone,$128.95,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$51.18,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$50.68,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$130.46,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$136.48,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$68.24,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$128.95,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$149.02,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$69.74,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$72.25,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$58.20,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$50.18,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$51.18,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 84478,Triglycerides level,$50.18,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$99.35,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 84560,Uric acid level,$44.66,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$48.67,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 82340,Urine calcium level,$53.69,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 82436,Urine chloride level,$34.12,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$72.76,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$49.18,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$53.69,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 84133,Urine potassium level,$49.67,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 84300,Urine sodium level,$31.11,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 84591,Vitamin B-6 level,$153.54,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$90.82,KY
+Bluegrass Community Hospital,Chemistry,HCPCS 84630,Zinc level,$79.28,KY
+Bluegrass Community Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$72.25,KY
+Bluegrass Community Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$87.81,KY
+Bluegrass Community Hospital,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$74.76,KY
+Bluegrass Community Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$59.71,KY
+Bluegrass Community Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$137.98,KY
+Bluegrass Community Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$111.90,KY
+Bluegrass Community Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$89.32,KY
+Bluegrass Community Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$84.30,KY
+Bluegrass Community Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$97.34,KY
+Bluegrass Community Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$26.60,KY
+Bluegrass Community Hospital,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$139.50,KY
+Bluegrass Community Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$58.20,KY
+Bluegrass Community Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$102.37,KY
+Bluegrass Community Hospital,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$78.27,KY
+Bluegrass Community Hospital,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$89.32,KY
+Bluegrass Community Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$67.74,KY
+Bluegrass Community Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$92.32,KY
+Bluegrass Community Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$52.68,KY
+Bluegrass Community Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$65.73,KY
+Bluegrass Community Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$43.66,KY
+Bluegrass Community Hospital,Immunology,HCPCS 86361,T cell count and ratio,$104.86,KY
+Bluegrass Community Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$111.90,KY
+Bluegrass Community Hospital,Immunology,HCPCS 86359,"T cells count, total",$111.90,KY
+Bluegrass Community Hospital,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$84.30,KY
+Bluegrass Community Hospital,Immunology,HCPCS 86580,Tuberculosis Test,$22.58,KY
+Bluegrass Community Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$77.27,KY
+Bluegrass Community Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$66.24,KY
+Bluegrass Community Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$97.34,KY
+Bluegrass Community Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$109.89,KY
+Bluegrass Community Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$72.76,KY
+Bluegrass Community Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$238.34,KY
+Bluegrass Community Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$93.83,KY
+Bluegrass Community Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$223.28,KY
+Bluegrass Community Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$109.89,KY
+Bluegrass Community Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$268.94,KY
+Bluegrass Community Hospital,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$83.63,KY
+Bluegrass Community Hospital,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$92.32,KY
+Bluegrass Community Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$66.24,KY
+Bluegrass Community Hospital,Microbiology,HCPCS 86747,Parvovirus antibody test,$58.71,KY
+Bluegrass Community Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$65.24,KY
+Bluegrass Community Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$45.66,KY
+Bluegrass Community Hospital,Microbiology,HCPCS 87207,Smear for infectious agents,$51.18,KY
+Bluegrass Community Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$65.73,KY
+Bluegrass Community Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$50.18,KY
+Bluegrass Community Hospital,Microbiology,HCPCS 87045,Stool Culture,$87.81,KY
+Bluegrass Community Hospital,Microbiology,HCPCS 87880,Streptoccus,$54.69,KY
+Bluegrass Community Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$53.19,KY
+Bluegrass Community Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$83.30,KY
+Bluegrass Community Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$90.32,KY
+Bluegrass Community Hospital,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$157.56,KY
+Bluegrass Community Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$163.58,KY
+Bluegrass Community Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$93.83,KY
+Bluegrass Community Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$146.51,KY
+Bluegrass Community Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$121.93,KY
+Bluegrass Community Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$99.35,KY
+Bluegrass Community Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$124.44,KY
+Bluegrass Community Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$133.47,KY
+Bluegrass Community Hospital,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$86.80,KY
+Bluegrass Community Hospital,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$152.04,KY
+Bluegrass Community Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$72.76,KY
+Bluegrass Community Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$66.24,KY
+Bluegrass Community Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$86.80,KY
+Bluegrass Community Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$73.26,KY
+Bluegrass Community Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$90.32,KY
+Bluegrass Community Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$78.27,KY
+Bluegrass Community Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$165.08,KY
+Bluegrass Community Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$103.87,KY
+Bluegrass Community Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$76.27,KY
+Bluegrass Community Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$30.10,KY
+Bluegrass Community Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$30.60,KY
+Bluegrass Community Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$146.52,KY
+Bluegrass Community Hospital,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$85.80,KY
+Bluegrass Community Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$38.64,KY
+Bluegrass Community Hospital,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$30.10,KY
+Bluegrass Community Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$67.24,KY
+Bluegrass Community Hospital,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$23.58,KY
+Bluegrass Community Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$34.62,KY
+Bluegrass Community Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$45.16,KY
+Bluegrass Community Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$74.26,KY
+Bluegrass Community Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$561.47,KY
+Bluegrass Community Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$122.93,KY
+Bluegrass Community Hospital,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$216.30,KY
+Bluegrass Community Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,$366.29,KY
+Bluegrass Community Hospital,Pulmonary,HCPCS 94640,Nebulizer Treatment,$56.20,KY
+Bluegrass Community Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$182.14,KY
+Bluegrass Community Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$139.50,KY
+Bluegrass Community Hospital,Breast,HCPCS 77067,Mammogram Screening,$223.28,KY
+Bluegrass Community Hospital,Breast,HCPCS 77066,Mammography of both breasts,$223.28,KY
+Bluegrass Community Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,152.04",KY
+Bluegrass Community Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,097.36",KY
+Bluegrass Community Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,004.53",KY
+Bluegrass Community Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$913.70,KY
+Bluegrass Community Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$2,787.79",KY
+Bluegrass Community Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,468.16",KY
+Bluegrass Community Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,214.78",KY
+Bluegrass Community Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,270.96",KY
+Bluegrass Community Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,526.36",KY
+Bluegrass Community Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,228.81",KY
+Bluegrass Community Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,153.05",KY
+Bluegrass Community Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,286.52",KY
+Bluegrass Community Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,284.51",KY
+Bluegrass Community Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,361.28",KY
+Bluegrass Community Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,577.04",KY
+Bluegrass Community Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,585.06",KY
+Bluegrass Community Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$1,932.78",KY
+Bluegrass Community Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,612.15",KY
+Bluegrass Community Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$1,882.11",KY
+Bluegrass Community Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,563.49",KY
+Bluegrass Community Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,541.91",KY
+Bluegrass Community Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,008.55",KY
+Bluegrass Community Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,523.85",KY
+Bluegrass Community Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$1,547.43",KY
+Bluegrass Community Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$431.02,KY
+Bluegrass Community Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$414.96,KY
+Bluegrass Community Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$265.43,KY
+Bluegrass Community Hospital,Ultrasound,HCPCS 76881,Ultrasound Joint Soft Tissue - Complete,$325.14,KY
+Bluegrass Community Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$624.19,KY
+Bluegrass Community Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$411.94,KY
+Bluegrass Community Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$255.90,KY
+Bluegrass Community Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$424.50,KY
+Bluegrass Community Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$311.09,KY
+Bluegrass Community Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$286.50,KY
+Bluegrass Community Hospital,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$134.48,KY
+Bluegrass Community Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$188.16,KY
+Bluegrass Community Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$144.50,KY
+Bluegrass Community Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$223.28,KY
+Bluegrass Community Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$279.98,KY
+Bluegrass Community Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$213.25,KY
+Bluegrass Community Hospital,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$57.96,KY
+Bluegrass Community Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$239.34,KY
+Bluegrass Community Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$159.56,KY
+Bluegrass Community Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$79.78,KY
+Bluegrass Community Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$345.72,KY
+Bluegrass Community Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$218.86,KY
+Bluegrass Community Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$186.16,KY
+Bluegrass Community Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$197.70,KY
+Bluegrass Community Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$192.68,KY
+Bluegrass Community Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$204.72,KY
+Bluegrass Community Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$178.13,KY
+Bluegrass Community Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$197.19,KY
+Bluegrass Community Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$222.78,KY
+Bluegrass Community Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$251.84,KY
+Bluegrass Community Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$191.17,KY
+Bluegrass Community Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$179.64,KY
+Bluegrass Community Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$169.60,KY
+Bluegrass Community Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$237.33,KY
+Bluegrass Community Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$201.20,KY
+Bluegrass Community Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$385.86,KY
+Bluegrass Community Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$222.78,KY
+Bluegrass Community Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$353.74,KY
+Bluegrass Community Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$224.29,KY
+Bluegrass Community Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$197.19,KY
+Bluegrass Community Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$157.56,KY
+Bluegrass Community Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$176.62,KY
+Bluegrass Community Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$203.21,KY
+Bluegrass Community Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$220.77,KY
+Bluegrass Community Hospital,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$177.12,KY
+Bluegrass Community Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$115.40,KY
+Bluegrass Community Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$141.50,KY
+Bluegrass Community Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$3,746.04",KY
+Bluegrass Community Hospital,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$5,357.33",KY
+Bluegrass Community Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$2,772.88",KY
+Bluegrass Community Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$167.26,KY
+Bluegrass Community Hospital,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$3,777.16",KY
+Bluegrass Community Hospital,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$3,127.38",KY
+Bluegrass Community Hospital,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$191.52,KY
+Bluegrass Community Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$2,077.04",KY
+Bluegrass Community Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$2,192.01",KY
+Bluegrass Community Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$2,242.66",KY
+Bluegrass Community Hospital,Digestive,HCPCS 43235,EGD,"$2,165.00",KY
+Bluegrass Community Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$2,055.22",KY
+Bluegrass Community Hospital,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$2,592.03",KY
+Bluegrass Community Hospital,General,HCPCS 10060,Drainage of Abscess,$147.61,KY
+Bluegrass Community Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$101.42,KY
+Bluegrass Community Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$93.42,KY
+Bluegrass Community Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$147.65,KY
+Bluegrass Community Hospital,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$163.37,KY
+Bluegrass Community Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$144.01,KY
+Bluegrass Community Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$148.05,KY
+Bluegrass Community Hospital,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$116.84,KY
+Bluegrass Community Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$767.19,KY
+Bluegrass Community Hospital,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,$731.28,KY
+Bluegrass Community Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$635.89,KY
+Bluegrass Community Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$3,633.99",KY
+Bluegrass Community Hospital,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$1,885.15",KY
+Bluegrass Community Hospital,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$1,921.15",KY
+Bluegrass Community Hospital,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$1,178.24",KY
+Bluegrass Community Hospital,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$29.60,KY
+Bluegrass Community Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$2,840.21",KY
+Bluegrass Community Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$72.25,KY
+Bluegrass Community Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$77.28,KY
+Bluegrass Community Hospital,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$34.85,KY
+Bluegrass Community Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$307.08,KY
