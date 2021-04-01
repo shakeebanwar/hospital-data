@@ -1,0 +1,87 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Same Day Surgery Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$7.94,SD
+Same Day Surgery Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$7.94,SD
+Same Day Surgery Center,Blood,HCPCS 85610,"Blood test, clotting time",$13.19,SD
+Same Day Surgery Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$26.09,SD
+Same Day Surgery Center,Blood,HCPCS 85027,"Complete blood count, automated",$21.73,SD
+Same Day Surgery Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$11.55,SD
+Same Day Surgery Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$254.70,SD
+Same Day Surgery Center,Chemistry,HCPCS 82040,Albumin (protein) level,$16.60,SD
+Same Day Surgery Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$48.99,SD
+Same Day Surgery Center,Chemistry,HCPCS 82565,Blood creatinine level,$17.22,SD
+Same Day Surgery Center,Chemistry,HCPCS 82310,Calcium level,$17.32,SD
+Same Day Surgery Center,Chemistry,HCPCS 83970,Parathormone,$147.60,SD
+Same Day Surgery Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$17.36,SD
+Same Day Surgery Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$28.91,SD
+Same Day Surgery Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$28.40,SD
+Same Day Surgery Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$35.47,SD
+Same Day Surgery Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$112.76,SD
+Same Day Surgery Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$63.00,SD
+Same Day Surgery Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$10.02,SD
+Same Day Surgery Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$59.81,SD
+Same Day Surgery Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$7.53,SD
+Same Day Surgery Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$10.61,SD
+Same Day Surgery Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$231.30,SD
+Same Day Surgery Center,Chest,HCPCS 71045,X-ray of chest; Single View,$64.30,SD
+Same Day Surgery Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$64.30,SD
+Same Day Surgery Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$65.55,SD
+Same Day Surgery Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$65.55,SD
+Same Day Surgery Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$64.30,SD
+Same Day Surgery Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$64.30,SD
+Same Day Surgery Center,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$4,787.46",SD
+Same Day Surgery Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$9,474.93",SD
+Same Day Surgery Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$10,014.93",SD
+Same Day Surgery Center,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,"$7,426.31",SD
+Same Day Surgery Center,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$7,880.73",SD
+Same Day Surgery Center,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$2,448.00",SD
+Same Day Surgery Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$7,509.73",SD
+Same Day Surgery Center,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$7,859.50",SD
+Same Day Surgery Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$9,013.87",SD
+Same Day Surgery Center,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$12,646.38",SD
+Same Day Surgery Center,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$11,528.40",SD
+Same Day Surgery Center,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$7,509.73",SD
+Same Day Surgery Center,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$6,200.15",SD
+Same Day Surgery Center,Breast,HCPCS 19101,Biopsy of breast,"$6,505.89",SD
+Same Day Surgery Center,Breast,HCPCS 19325,Breast enlargement using prosthetic implant,"$6,648.96",SD
+Same Day Surgery Center,Breast,HCPCS 19125,Excision of breast lesion,"$2,826.30",SD
+Same Day Surgery Center,Breast,HCPCS 19120,Excision of cyst of breast,"$3,979.16",SD
+Same Day Surgery Center,Breast,HCPCS 19301,Partial removal of breast,"$5,169.82",SD
+Same Day Surgery Center,Breast,HCPCS 19318,Reduction mammaplasty,"$8,698.24",SD
+Same Day Surgery Center,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$8,554.49",SD
+Same Day Surgery Center,Breast,HCPCS 19303,Total removal of breast,"$6,333.53",SD
+Same Day Surgery Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,592.40",SD
+Same Day Surgery Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$2,093.08",SD
+Same Day Surgery Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,137.93",SD
+Same Day Surgery Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,698.16",SD
+Same Day Surgery Center,Digestive,HCPCS 43235,EGD,"$1,104.08",SD
+Same Day Surgery Center,Digestive,HCPCS 43239,EGD and biopsy,"$1,480.06",SD
+Same Day Surgery Center,Digestive,HCPCS 43775,Gastric Sleeve (Outpatient),"$19,253.53",SD
+Same Day Surgery Center,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$5,772.79",SD
+Same Day Surgery Center,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$6,132.82",SD
+Same Day Surgery Center,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$6,234.70",SD
+Same Day Surgery Center,General,HCPCS 10060,Drainage of Abscess,"$2,448.00",SD
+Same Day Surgery Center,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple","$3,373.06",SD
+Same Day Surgery Center,General,HCPCS 60240,Removal of thyroid,"$9,897.54",SD
+Same Day Surgery Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$418.15,SD
+Same Day Surgery Center,Head,HCPCS 69436,Create eardrum opening,"$2,908.68",SD
+Same Day Surgery Center,Head,HCPCS 69930,Implantation of cochlear device,"$34,117.73",SD
+Same Day Surgery Center,Head,HCPCS 69631,Repair of eardrum,"$6,910.04",SD
+Same Day Surgery Center,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$2,448.00",SD
+Same Day Surgery Center,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$2,448.00",SD
+Same Day Surgery Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$5,594.66",SD
+Same Day Surgery Center,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$5,594.66",SD
+Same Day Surgery Center,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,"$15,509.61",SD
+Same Day Surgery Center,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$5,594.66",SD
+Same Day Surgery Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$5,486.27",SD
+Same Day Surgery Center,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$9,013.87",SD
+Same Day Surgery Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$4,410.77",SD
+Same Day Surgery Center,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$8,881.16",SD
+Same Day Surgery Center,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$7,960.78",SD
+Same Day Surgery Center,Obstetrics,HCPCS 58545,Removal of uterine fibroid tumors using an endoscope,"$9,542.74",SD
+Same Day Surgery Center,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries","$9,490.35",SD
+Same Day Surgery Center,Ocular,HCPCS 66984,Cataract removal,"$3,464.38",SD
+Same Day Surgery Center,Ocular,HCPCS 66982,Cataract removal with insertion of lens,"$3,464.38",SD
+Same Day Surgery Center,Ocular,HCPCS 65426,Removal or relocation of corneal conjunctiva,"$4,058.03",SD
+Same Day Surgery Center,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$2,343.79",SD
+Same Day Surgery Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$337.50,SD
+Same Day Surgery Center,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$2,791.30",SD

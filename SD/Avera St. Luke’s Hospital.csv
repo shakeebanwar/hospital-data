@@ -1,0 +1,150 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Avera St. Luke’s Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,-,SD
+Avera St. Luke’s Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,-,SD
+Avera St. Luke’s Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,-,SD
+Avera St. Luke’s Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,-,SD
+Avera St. Luke’s Hospital,Psychology,HCPCS 90853,Group psychotherapy,-,SD
+Avera St. Luke’s Hospital,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",-,SD
+Avera St. Luke’s Hospital,Speech,HCPCS 92507,Speech Therapy,-,SD
+Avera St. Luke’s Hospital,Speech,HCPCS 92526,Swallow Treatment,-,SD
+Avera St. Luke’s Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,-,SD
+Avera St. Luke’s Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,-,SD
+Avera St. Luke’s Hospital,Blood,HCPCS 85610,"Blood test, clotting time",-,SD
+Avera St. Luke’s Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",-,SD
+Avera St. Luke’s Hospital,Blood,HCPCS 85027,"Complete blood count, automated",-,SD
+Avera St. Luke’s Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,-,SD
+Avera St. Luke’s Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),-,SD
+Avera St. Luke’s Hospital,Chemistry,HCPCS 82565,Blood creatinine level,-,SD
+Avera St. Luke’s Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,-,SD
+Avera St. Luke’s Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",-,SD
+Avera St. Luke’s Hospital,Chemistry,HCPCS 82525,Copper level,-,SD
+Avera St. Luke’s Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,-,SD
+Avera St. Luke’s Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,-,SD
+Avera St. Luke’s Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,-,SD
+Avera St. Luke’s Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",-,SD
+Avera St. Luke’s Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,-,SD
+Avera St. Luke’s Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,-,SD
+Avera St. Luke’s Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,-,SD
+Avera St. Luke’s Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,-,SD
+Avera St. Luke’s Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,-,SD
+Avera St. Luke’s Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,-,SD
+Avera St. Luke’s Hospital,Microbiology,HCPCS 87491,Chlamydia Test,-,SD
+Avera St. Luke’s Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,-,SD
+Avera St. Luke’s Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",-,SD
+Avera St. Luke’s Hospital,Microbiology,HCPCS 86747,Parvovirus antibody test,-,SD
+Avera St. Luke’s Hospital,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,-,SD
+Avera St. Luke’s Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,-,SD
+Avera St. Luke’s Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",-,SD
+Avera St. Luke’s Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",-,SD
+Avera St. Luke’s Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,-,SD
+Avera St. Luke’s Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,-,SD
+Avera St. Luke’s Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,-,SD
+Avera St. Luke’s Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,-,SD
+Avera St. Luke’s Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,-,SD
+Avera St. Luke’s Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",-,SD
+Avera St. Luke’s Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",-,SD
+Avera St. Luke’s Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,-,SD
+Avera St. Luke’s Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",-,SD
+Avera St. Luke’s Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",-,SD
+Avera St. Luke’s Hospital,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,-,SD
+Avera St. Luke’s Hospital,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),-,SD
+Avera St. Luke’s Hospital,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,-,SD
+Avera St. Luke’s Hospital,Sleep,HCPCS 95810,Sleep study,-,SD
+Avera St. Luke’s Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",-,SD
+Avera St. Luke’s Hospital,Breast,HCPCS 77067,Mammogram Screening,-,SD
+Avera St. Luke’s Hospital,Breast,HCPCS 77066,Mammography of both breasts,-,SD
+Avera St. Luke’s Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,-,SD
+Avera St. Luke’s Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,-,SD
+Avera St. Luke’s Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",-,SD
+Avera St. Luke’s Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",-,SD
+Avera St. Luke’s Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,-,SD
+Avera St. Luke’s Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,-,SD
+Avera St. Luke’s Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,-,SD
+Avera St. Luke’s Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,-,SD
+Avera St. Luke’s Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,-,SD
+Avera St. Luke’s Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",-,SD
+Avera St. Luke’s Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",-,SD
+Avera St. Luke’s Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",-,SD
+Avera St. Luke’s Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",-,SD
+Avera St. Luke’s Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)",-,SD
+Avera St. Luke’s Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,-,SD
+Avera St. Luke’s Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,-,SD
+Avera St. Luke’s Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,-,SD
+Avera St. Luke’s Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,-,SD
+Avera St. Luke’s Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,-,SD
+Avera St. Luke’s Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,-,SD
+Avera St. Luke’s Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,-,SD
+Avera St. Luke’s Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,-,SD
+Avera St. Luke’s Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,-,SD
+Avera St. Luke’s Hospital,MRI,HCPCS 73721,MRI scan of leg joint,-,SD
+Avera St. Luke’s Hospital,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,-,SD
+Avera St. Luke’s Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,-,SD
+Avera St. Luke’s Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,-,SD
+Avera St. Luke’s Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",-,SD
+Avera St. Luke’s Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",-,SD
+Avera St. Luke’s Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,-,SD
+Avera St. Luke’s Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",-,SD
+Avera St. Luke’s Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",-,SD
+Avera St. Luke’s Hospital,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,-,SD
+Avera St. Luke’s Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,-,SD
+Avera St. Luke’s Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,-,SD
+Avera St. Luke’s Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",-,SD
+Avera St. Luke’s Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",-,SD
+Avera St. Luke’s Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",-,SD
+Avera St. Luke’s Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",-,SD
+Avera St. Luke’s Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",-,SD
+Avera St. Luke’s Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,-,SD
+Avera St. Luke’s Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",-,SD
+Avera St. Luke’s Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",-,SD
+Avera St. Luke’s Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",-,SD
+Avera St. Luke’s Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",-,SD
+Avera St. Luke’s Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",-,SD
+Avera St. Luke’s Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",-,SD
+Avera St. Luke’s Hospital,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,-,SD
+Avera St. Luke’s Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,-,SD
+Avera St. Luke’s Hospital,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,-,SD
+Avera St. Luke’s Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,-,SD
+Avera St. Luke’s Hospital,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,-,SD
+Avera St. Luke’s Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),-,SD
+Avera St. Luke’s Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,SD
+Avera St. Luke’s Hospital,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),-,SD
+Avera St. Luke’s Hospital,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,-,SD
+Avera St. Luke’s Hospital,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,-,SD
+Avera St. Luke’s Hospital,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,-,SD
+Avera St. Luke’s Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,-,SD
+Avera St. Luke’s Hospital,Breast,HCPCS 19125,Excision of breast lesion,-,SD
+Avera St. Luke’s Hospital,Breast,HCPCS 19120,Excision of cyst of breast,-,SD
+Avera St. Luke’s Hospital,Breast,HCPCS 19301,Partial removal of breast,-,SD
+Avera St. Luke’s Hospital,Breast,HCPCS 19318,Reduction mammaplasty,-,SD
+Avera St. Luke’s Hospital,Breast,HCPCS 19303,Total removal of breast,-,SD
+Avera St. Luke’s Hospital,Cardiac,MSDRG 247,Implant drug-eluting stent,-,SD
+Avera St. Luke’s Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",-,SD
+Avera St. Luke’s Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy",-,SD
+Avera St. Luke’s Hospital,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal",-,SD
+Avera St. Luke’s Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)",-,SD
+Avera St. Luke’s Hospital,Digestive,HCPCS 43239,EGD and biopsy,-,SD
+Avera St. Luke’s Hospital,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,-,SD
+Avera St. Luke’s Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,SD
+Avera St. Luke’s Hospital,General,HCPCS 55700,Biopsy of prostate gland,-,SD
+Avera St. Luke’s Hospital,General,HCPCS 60240,Removal of thyroid,-,SD
+Avera St. Luke’s Hospital,Head,HCPCS 69436,Create eardrum opening,-,SD
+Avera St. Luke’s Hospital,Head,HCPCS 69631,Repair of eardrum,-,SD
+Avera St. Luke’s Hospital,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),-,SD
+Avera St. Luke’s Hospital,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),-,SD
+Avera St. Luke’s Hospital,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,SD
+Avera St. Luke’s Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,-,SD
+Avera St. Luke’s Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,SD
+Avera St. Luke’s Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,-,SD
+Avera St. Luke’s Hospital,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,-,SD
+Avera St. Luke’s Hospital,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,-,SD
+Avera St. Luke’s Hospital,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,-,SD
+Avera St. Luke’s Hospital,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,SD
+Avera St. Luke’s Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,SD
+Avera St. Luke’s Hospital,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,-,SD
+Avera St. Luke’s Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,-,SD
+Avera St. Luke’s Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,SD
+Avera St. Luke’s Hospital,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,-,SD
+Avera St. Luke’s Hospital,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,-,SD
+Avera St. Luke’s Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,SD
+Avera St. Luke’s Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,-,SD
+Avera St. Luke’s Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,-,SD

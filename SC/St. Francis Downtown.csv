@@ -1,0 +1,316 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+St. Francis Downtown,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,332.60",SC
+St. Francis Downtown,Emergency Care,HCPCS 99281,Emergency Level 1,$247.20,SC
+St. Francis Downtown,Emergency Care,HCPCS 99282,Emergency Level 2,$359.40,SC
+St. Francis Downtown,Emergency Care,HCPCS 99283,Emergency Level 3,$676.80,SC
+St. Francis Downtown,Emergency Care,HCPCS 99284,Emergency Level 4,$946.20,SC
+St. Francis Downtown,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,441.80",SC
+St. Francis Downtown,Hospital,HCPCS 99218,Hospital Observation per Hour,$648.60,SC
+St. Francis Downtown,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$349.80,SC
+St. Francis Downtown,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$542.40,SC
+St. Francis Downtown,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$297.00,SC
+St. Francis Downtown,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$311.40,SC
+St. Francis Downtown,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$428.40,SC
+St. Francis Downtown,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$243.60,SC
+St. Francis Downtown,Speech,HCPCS 92507,Speech Therapy,$241.20,SC
+St. Francis Downtown,Speech,HCPCS 92610,Swallow Evaluation,$239.40,SC
+St. Francis Downtown,Speech,HCPCS 92526,Swallow Treatment,$177.00,SC
+St. Francis Downtown,Blood,HCPCS 85018,"Blood count, hemoglobin",$33.00,SC
+St. Francis Downtown,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$33.00,SC
+St. Francis Downtown,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$41.40,SC
+St. Francis Downtown,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$143.40,SC
+St. Francis Downtown,Blood,HCPCS 85610,"Blood test, clotting time",$73.20,SC
+St. Francis Downtown,Blood,HCPCS 85730,Coagulation assessment blood test,$111.60,SC
+St. Francis Downtown,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$94.80,SC
+St. Francis Downtown,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$64.80,SC
+St. Francis Downtown,Blood,HCPCS 85027,"Complete blood count, automated",$102.00,SC
+St. Francis Downtown,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$22.20,SC
+St. Francis Downtown,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$244.80,SC
+St. Francis Downtown,Blood,HCPCS 85660,Red blood cell sickling measurement,$58.20,SC
+St. Francis Downtown,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$501.00,SC
+St. Francis Downtown,Blood,HCPCS 85041,"Red blood count, automated test",$15.00,SC
+St. Francis Downtown,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$199.80,SC
+St. Francis Downtown,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$288.60,SC
+St. Francis Downtown,Chemistry,HCPCS 82040,Albumin (protein) level,$45.00,SC
+St. Francis Downtown,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$92.40,SC
+St. Francis Downtown,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$144.60,SC
+St. Francis Downtown,Chemistry,HCPCS 82140,Ammonia level,$113.40,SC
+St. Francis Downtown,Chemistry,HCPCS 82150,Amylase (enzyme) level,$14.40,SC
+St. Francis Downtown,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$109.80,SC
+St. Francis Downtown,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$259.20,SC
+St. Francis Downtown,Chemistry,HCPCS 84439,Assay of free thyroxine,$101.40,SC
+St. Francis Downtown,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$124.20,SC
+St. Francis Downtown,Chemistry,HCPCS 82248,Bilirubin level (Direct),$75.00,SC
+St. Francis Downtown,Chemistry,HCPCS 82247,Bilirubin level (Total),$22.20,SC
+St. Francis Downtown,Chemistry,HCPCS 82565,Blood creatinine level,$56.40,SC
+St. Francis Downtown,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$50.40,SC
+St. Francis Downtown,Chemistry,HCPCS 84295,Blood sodium level,$49.20,SC
+St. Francis Downtown,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$61.20,SC
+St. Francis Downtown,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$116.40,SC
+St. Francis Downtown,Chemistry,HCPCS 82310,Calcium level,$62.40,SC
+St. Francis Downtown,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$33.60,SC
+St. Francis Downtown,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$141.00,SC
+St. Francis Downtown,Chemistry,HCPCS 82465,Cholesterol level,$76.80,SC
+St. Francis Downtown,Chemistry,HCPCS 82525,Copper level,$570.00,SC
+St. Francis Downtown,Chemistry,HCPCS 82533,Cortisol Measurement,$66.00,SC
+St. Francis Downtown,Chemistry,HCPCS 84681,C-peptide (protein) level,$137.40,SC
+St. Francis Downtown,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$69.00,SC
+St. Francis Downtown,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$88.20,SC
+St. Francis Downtown,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$193.20,SC
+St. Francis Downtown,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$298.20,SC
+St. Francis Downtown,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$183.60,SC
+St. Francis Downtown,Chemistry,HCPCS 82746,Folic acid; serum,$158.40,SC
+St. Francis Downtown,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$110.40,SC
+St. Francis Downtown,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$88.80,SC
+St. Francis Downtown,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$120.00,SC
+St. Francis Downtown,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$243.60,SC
+St. Francis Downtown,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$240.60,SC
+St. Francis Downtown,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$127.80,SC
+St. Francis Downtown,Chemistry,HCPCS 83718,HDL cholesterol level,$80.40,SC
+St. Francis Downtown,Chemistry,HCPCS 83020,Hemoglobin Measurement,$78.60,SC
+St. Francis Downtown,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$183.00,SC
+St. Francis Downtown,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$159.00,SC
+St. Francis Downtown,Chemistry,HCPCS 83520,IgE (immune system protein) level,$495.00,SC
+St. Francis Downtown,Chemistry,HCPCS 83525,Insulin Measurement; Total,$111.60,SC
+St. Francis Downtown,Chemistry,HCPCS 82330,Ionized Calcium,$92.40,SC
+St. Francis Downtown,Chemistry,HCPCS 83550,Iron Binding Capacity,$96.60,SC
+St. Francis Downtown,Chemistry,HCPCS 83540,Iron level,$84.60,SC
+St. Francis Downtown,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$93.00,SC
+St. Francis Downtown,Chemistry,HCPCS 83721,LDL cholesterol level,$76.80,SC
+St. Francis Downtown,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$118.80,SC
+St. Francis Downtown,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$64.20,SC
+St. Francis Downtown,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$78.00,SC
+St. Francis Downtown,Chemistry,HCPCS 83021,Liver function blood test panel,$70.80,SC
+St. Francis Downtown,Chemistry,HCPCS 83735,Magnesium Level,$97.80,SC
+St. Francis Downtown,Chemistry,HCPCS 82542,Mass spectrometry,$202.20,SC
+St. Francis Downtown,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$90.00,SC
+St. Francis Downtown,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$43.80,SC
+St. Francis Downtown,Chemistry,HCPCS 83918,Organic acid level,$196.80,SC
+St. Francis Downtown,Chemistry,HCPCS 83945,Oxalate level,$61.20,SC
+St. Francis Downtown,Chemistry,HCPCS 83970,Parathormone,$301.80,SC
+St. Francis Downtown,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$54.60,SC
+St. Francis Downtown,Chemistry,HCPCS 84157,Prealbumin (protein) level,$85.20,SC
+St. Francis Downtown,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$91.80,SC
+St. Francis Downtown,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$244.80,SC
+St. Francis Downtown,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$108.60,SC
+St. Francis Downtown,Chemistry,HCPCS 82270,Stool analysis for blood,$39.60,SC
+St. Francis Downtown,Chemistry,HCPCS 84403,Testosterone (hormone) level,$195.60,SC
+St. Francis Downtown,Chemistry,HCPCS 84402,Testosterone Level; Free,$132.60,SC
+St. Francis Downtown,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement",$108.00,SC
+St. Francis Downtown,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$208.80,SC
+St. Francis Downtown,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$83.40,SC
+St. Francis Downtown,Chemistry,HCPCS 84155,"Total protein level, blood",$44.40,SC
+St. Francis Downtown,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$77.40,SC
+St. Francis Downtown,Chemistry,HCPCS 84478,Triglycerides level,$55.20,SC
+St. Francis Downtown,Chemistry,HCPCS 84166,Troponin (protein) analysis,$177.60,SC
+St. Francis Downtown,Chemistry,HCPCS 84560,Uric acid level,$30.60,SC
+St. Francis Downtown,Chemistry,HCPCS 84550,"Uric acid level, blood",$84.00,SC
+St. Francis Downtown,Chemistry,HCPCS 82340,Urine calcium level,$40.20,SC
+St. Francis Downtown,Chemistry,HCPCS 82436,Urine chloride level,$63.00,SC
+St. Francis Downtown,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$80.40,SC
+St. Francis Downtown,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$60.60,SC
+St. Francis Downtown,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$107.40,SC
+St. Francis Downtown,Chemistry,HCPCS 84133,Urine potassium level,$69.00,SC
+St. Francis Downtown,Chemistry,HCPCS 84300,Urine sodium level,$30.60,SC
+St. Francis Downtown,Chemistry,HCPCS 84591,Vitamin B-6 level,$136.80,SC
+St. Francis Downtown,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$223.20,SC
+St. Francis Downtown,Chemistry,HCPCS 84630,Zinc level,$86.40,SC
+St. Francis Downtown,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$198.60,SC
+St. Francis Downtown,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$132.60,SC
+St. Francis Downtown,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$120.00,SC
+St. Francis Downtown,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$80.40,SC
+St. Francis Downtown,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$107.40,SC
+St. Francis Downtown,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$241.20,SC
+St. Francis Downtown,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$151.80,SC
+St. Francis Downtown,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$119.40,SC
+St. Francis Downtown,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$146.40,SC
+St. Francis Downtown,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$75.60,SC
+St. Francis Downtown,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$192.60,SC
+St. Francis Downtown,Immunology,HCPCS 86140,Measurement C-reactive protein,$108.60,SC
+St. Francis Downtown,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$136.20,SC
+St. Francis Downtown,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$137.40,SC
+St. Francis Downtown,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$131.40,SC
+St. Francis Downtown,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$84.60,SC
+St. Francis Downtown,Immunology,HCPCS 86431,Rheumatoid factor level,$94.20,SC
+St. Francis Downtown,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$295.80,SC
+St. Francis Downtown,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$103.80,SC
+St. Francis Downtown,Immunology,HCPCS 86580,Skin test for tuberculosis,$57.94,SC
+St. Francis Downtown,Immunology,HCPCS 86592,Syphilis Detection Test,$59.40,SC
+St. Francis Downtown,Immunology,HCPCS 86361,T cell count and ratio,$199.20,SC
+St. Francis Downtown,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$182.40,SC
+St. Francis Downtown,Immunology,HCPCS 86359,"T cells count, total",$139.80,SC
+St. Francis Downtown,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$171.00,SC
+St. Francis Downtown,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$123.60,SC
+St. Francis Downtown,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$129.00,SC
+St. Francis Downtown,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$108.60,SC
+St. Francis Downtown,Microbiology,HCPCS 87491,Chlamydia Test,$145.20,SC
+St. Francis Downtown,Microbiology,HCPCS 87635,Covid-19 current infection test,$102.00,SC
+St. Francis Downtown,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$130.20,SC
+St. Francis Downtown,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$86.40,SC
+St. Francis Downtown,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$322.80,SC
+St. Francis Downtown,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$180.60,SC
+St. Francis Downtown,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$337.20,SC
+St. Francis Downtown,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$145.20,SC
+St. Francis Downtown,Microbiology,HCPCS 87517,Hepatitis B Detection,$189.00,SC
+St. Francis Downtown,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$72.60,SC
+St. Francis Downtown,Microbiology,HCPCS 87624,HPV Detection,$117.00,SC
+St. Francis Downtown,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$96.60,SC
+St. Francis Downtown,Microbiology,HCPCS 86735,Mumps virus antibody test,$101.40,SC
+St. Francis Downtown,Microbiology,HCPCS 86747,Parvovirus antibody test,$136.80,SC
+St. Francis Downtown,Microbiology,HCPCS 86762,Rubella virus antibody test,$63.60,SC
+St. Francis Downtown,Microbiology,HCPCS 86765,Rubeola virus antibody test,$130.80,SC
+St. Francis Downtown,Microbiology,HCPCS 87207,Smear for infectious agents,$111.00,SC
+St. Francis Downtown,Microbiology,HCPCS 87177,Smear for Parasites,$72.60,SC
+St. Francis Downtown,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$72.60,SC
+St. Francis Downtown,Microbiology,HCPCS 87045,Stool Culture,$148.20,SC
+St. Francis Downtown,Microbiology,HCPCS 87880,Strep Test,$97.20,SC
+St. Francis Downtown,Microbiology,HCPCS 87804,Test for Influenza Virus,$90.60,SC
+St. Francis Downtown,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$105.60,SC
+St. Francis Downtown,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$141.00,SC
+St. Francis Downtown,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$361.80,SC
+St. Francis Downtown,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$159.00,SC
+St. Francis Downtown,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$205.80,SC
+St. Francis Downtown,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$366.60,SC
+St. Francis Downtown,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$205.80,SC
+St. Francis Downtown,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$156.60,SC
+St. Francis Downtown,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$199.80,SC
+St. Francis Downtown,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$134.40,SC
+St. Francis Downtown,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$46.20,SC
+St. Francis Downtown,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$64.20,SC
+St. Francis Downtown,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$325.80,SC
+St. Francis Downtown,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$99.60,SC
+St. Francis Downtown,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$273.00,SC
+St. Francis Downtown,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$126.60,SC
+St. Francis Downtown,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$120.00,SC
+St. Francis Downtown,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$208.80,SC
+St. Francis Downtown,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$99.60,SC
+St. Francis Downtown,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$122.40,SC
+St. Francis Downtown,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$80.40,SC
+St. Francis Downtown,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$168.00,SC
+St. Francis Downtown,Transfusion,HCPCS 86900,"Blood Typing, ABO",$70.80,SC
+St. Francis Downtown,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$58.80,SC
+St. Francis Downtown,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$178.80,SC
+St. Francis Downtown,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$46.20,SC
+St. Francis Downtown,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$81.60,SC
+St. Francis Downtown,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$43.80,SC
+St. Francis Downtown,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$104.40,SC
+St. Francis Downtown,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$38.40,SC
+St. Francis Downtown,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$20.40,SC
+St. Francis Downtown,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$76.20,SC
+St. Francis Downtown,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$121.80,SC
+St. Francis Downtown,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$973.20,SC
+St. Francis Downtown,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$224.40,SC
+St. Francis Downtown,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$172.20,SC
+St. Francis Downtown,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$528.00,SC
+St. Francis Downtown,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$1,648.20",SC
+St. Francis Downtown,Cardiovascular,HCPCS 93975,Ultrasound Heart,$639.00,SC
+St. Francis Downtown,Pulmonary,HCPCS 94729,CO Diffusion Capacity,$184.20,SC
+St. Francis Downtown,Pulmonary,HCPCS 94640,Nebulizer Treatment,$109.80,SC
+St. Francis Downtown,Pulmonary,HCPCS 94618,Pulmonary stress test,$147.60,SC
+St. Francis Downtown,Pulmonary,HCPCS 94010,Spirometry - breathing test,$247.20,SC
+St. Francis Downtown,Sleep,HCPCS 95810,Sleep study,"$3,363.60",SC
+St. Francis Downtown,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$45.00,SC
+St. Francis Downtown,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$225.60,SC
+St. Francis Downtown,Breast,HCPCS 77067,Mammogram Screening,$141.00,SC
+St. Francis Downtown,Breast,HCPCS 77066,Mammography of both breasts,$245.40,SC
+St. Francis Downtown,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,522.80",SC
+St. Francis Downtown,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,133.40",SC
+St. Francis Downtown,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,356.60",SC
+St. Francis Downtown,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,510.20",SC
+St. Francis Downtown,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,697.20",SC
+St. Francis Downtown,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$3,621.00",SC
+St. Francis Downtown,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,675.40",SC
+St. Francis Downtown,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,341.00",SC
+St. Francis Downtown,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,624.80",SC
+St. Francis Downtown,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,486.80",SC
+St. Francis Downtown,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,296.60",SC
+St. Francis Downtown,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,188.00",SC
+St. Francis Downtown,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,345.80",SC
+St. Francis Downtown,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,339.80",SC
+St. Francis Downtown,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,593.60",SC
+St. Francis Downtown,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,598.40",SC
+St. Francis Downtown,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,397.60",SC
+St. Francis Downtown,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,615.20",SC
+St. Francis Downtown,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$2,731.80",SC
+St. Francis Downtown,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,415.60",SC
+St. Francis Downtown,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,192.40",SC
+St. Francis Downtown,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,155.20",SC
+St. Francis Downtown,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,502.40",SC
+St. Francis Downtown,MRI,HCPCS 73721,MRI scan of leg joint,"$2,066.40",SC
+St. Francis Downtown,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$821.40,SC
+St. Francis Downtown,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$571.20,SC
+St. Francis Downtown,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$733.80,SC
+St. Francis Downtown,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$714.60,SC
+St. Francis Downtown,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$898.20,SC
+St. Francis Downtown,Ultrasound,HCPCS 76881,Ultrasound Joint Soft Tissue - Complete,$414.00,SC
+St. Francis Downtown,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,039.80",SC
+St. Francis Downtown,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$586.20,SC
+St. Francis Downtown,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$650.40,SC
+St. Francis Downtown,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$581.40,SC
+St. Francis Downtown,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$693.60,SC
+St. Francis Downtown,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$538.20,SC
+St. Francis Downtown,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$250.80,SC
+St. Francis Downtown,Chest,HCPCS 71046,X-ray of chest; 2 Views,$358.20,SC
+St. Francis Downtown,Chest,HCPCS 71045,X-ray of chest; Single View,$197.40,SC
+St. Francis Downtown,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$279.00,SC
+St. Francis Downtown,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$448.20,SC
+St. Francis Downtown,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$404.40,SC
+St. Francis Downtown,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$173.40,SC
+St. Francis Downtown,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$597.00,SC
+St. Francis Downtown,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$292.20,SC
+St. Francis Downtown,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$132.60,SC
+St. Francis Downtown,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$638.40,SC
+St. Francis Downtown,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$438.00,SC
+St. Francis Downtown,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$298.80,SC
+St. Francis Downtown,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$172.20,SC
+St. Francis Downtown,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$409.20,SC
+St. Francis Downtown,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$112.80,SC
+St. Francis Downtown,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$463.80,SC
+St. Francis Downtown,Lower Limbs,HCPCS 73565,X-ray Both Knees,$313.80,SC
+St. Francis Downtown,Lower Limbs,HCPCS 73630,X-ray exam of foot,$452.40,SC
+St. Francis Downtown,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$372.00,SC
+St. Francis Downtown,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$380.40,SC
+St. Francis Downtown,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$112.80,SC
+St. Francis Downtown,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$267.00,SC
+St. Francis Downtown,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$254.40,SC
+St. Francis Downtown,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$494.40,SC
+St. Francis Downtown,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$325.20,SC
+St. Francis Downtown,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$627.00,SC
+St. Francis Downtown,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$546.00,SC
+St. Francis Downtown,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$591.60,SC
+St. Francis Downtown,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$374.40,SC
+St. Francis Downtown,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$423.00,SC
+St. Francis Downtown,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$261.00,SC
+St. Francis Downtown,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$219.60,SC
+St. Francis Downtown,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$363.00,SC
+St. Francis Downtown,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$400.80,SC
+St. Francis Downtown,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$364.80,SC
+St. Francis Downtown,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$112.80,SC
+St. Francis Downtown,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$367.80,SC
+St. Francis Downtown,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$213.60,SC
+St. Francis Downtown,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$141.60,SC
+St. Francis Downtown,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$9,307.80",SC
+St. Francis Downtown,Breast,HCPCS 19101,Biopsy of breast,"$2,795.40",SC
+St. Francis Downtown,Cardiac,HCPCS 33249,Defibrillator complete system,"$33,711.00",SC
+St. Francis Downtown,Cardiac,HCPCS 33240,Defibrillator generator,"$47,436.00",SC
+St. Francis Downtown,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$13,225.80",SC
+St. Francis Downtown,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$8,295.00",SC
+St. Francis Downtown,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$289.20,SC
+St. Francis Downtown,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$13,399.80",SC
+St. Francis Downtown,General,HCPCS 55700,Biopsy of prostate gland,"$1,648.20",SC
+St. Francis Downtown,General,HCPCS 10060,Drainage of Abscess,$302.40,SC
+St. Francis Downtown,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$715.20,SC
+St. Francis Downtown,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$222.00,SC
+St. Francis Downtown,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$295.80,SC
+St. Francis Downtown,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$1,821.00",SC
+St. Francis Downtown,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$1,628.40",SC
+St. Francis Downtown,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$1,794.00",SC
+St. Francis Downtown,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$838.80,SC
+St. Francis Downtown,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$211.80,SC
+St. Francis Downtown,Soft Tissue,HCPCS 97597,Debridement of open wound,$222.60,SC
+St. Francis Downtown,Soft Tissue,HCPCS 97602,Non-selective debridement,$199.80,SC
+St. Francis Downtown,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$160.20,SC
+St. Francis Downtown,Vascular,HCPCS 36416,Collection of capillary blood specimen,$28.20,SC
+St. Francis Downtown,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$2,121.00",SC
+St. Francis Downtown,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$924.00,SC
+St. Francis Downtown,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$2,253.00",SC

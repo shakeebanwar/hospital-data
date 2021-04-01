@@ -1,0 +1,283 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Black Hills Surgical Hospital ,Emergency Care,HCPCS 99283,Emergency Level 3,$238.55,SD
+Black Hills Surgical Hospital ,Hospital,HCPCS 99234,Hospital observation care discharge,$179.84,SD
+Black Hills Surgical Hospital ,Hospital,HCPCS 99235,"Hospital observation or inpatient care moderate severity, 50 minutes per day",$245.76,SD
+Black Hills Surgical Hospital ,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$210.40,SD
+Black Hills Surgical Hospital ,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$154.40,SD
+Black Hills Surgical Hospital ,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$138.40,SD
+Black Hills Surgical Hospital ,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$104.80,SD
+Black Hills Surgical Hospital ,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$138.40,SD
+Black Hills Surgical Hospital ,Blood,HCPCS 85018,"Blood count, hemoglobin",$43.84,SD
+Black Hills Surgical Hospital ,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$43.84,SD
+Black Hills Surgical Hospital ,Blood,HCPCS 85610,"Blood test, clotting time",$32.72,SD
+Black Hills Surgical Hospital ,Blood,HCPCS 85730,Coagulation assessment blood test,$32.72,SD
+Black Hills Surgical Hospital ,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$43.84,SD
+Black Hills Surgical Hospital ,Blood,HCPCS 85027,"Complete blood count, automated",$43.84,SD
+Black Hills Surgical Hospital ,Blood,HCPCS 85008,Microscopic examination for white blood cells,$43.84,SD
+Black Hills Surgical Hospital ,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$43.84,SD
+Black Hills Surgical Hospital ,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$957.39,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 82040,Albumin (protein) level,$36.00,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$171.46,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 82140,Ammonia level,$47.12,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 82150,Amylase (enzyme) level,$47.12,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$171.46,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$47.12,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 84439,Assay of free thyroxine,$61.52,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 82248,Bilirubin level (Direct),$47.12,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 82247,Bilirubin level (Total),$47.12,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 82565,Blood creatinine level,$47.12,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$10.92,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 84295,Blood sodium level,$36.00,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$36.00,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$36.00,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$61.52,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 82310,Calcium level,$36.00,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$36.00,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 82465,Cholesterol level,$20.00,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 82533,Cortisol Measurement,$79.84,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$47.14,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$61.52,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$171.49,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$164.26,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$24.80,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 82746,Folic acid; serum,$47.12,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$171.46,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$32.48,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$13.78,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$79.84,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$79.84,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$44.99,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 83718,HDL cholesterol level,$47.12,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 83020,Hemoglobin Measurement,$171.26,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$25.79,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 83520,IgE (immune system protein) level,$53.49,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 83525,Insulin Measurement; Total,$70.34,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 82330,Ionized Calcium,$56.80,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 83550,Iron Binding Capacity,$39.23,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 83540,Iron level,$47.14,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$36.00,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 83721,LDL cholesterol level,$45.15,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$47.12,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$36.00,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 83735,Magnesium Level,$47.12,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 83970,Parathormone,$79.84,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 84157,Prealbumin (protein) level,$47.12,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$61.90,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$70.34,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$44.99,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 84403,Testosterone (hormone) level,$84.51,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 84402,Testosterone Level; Free,$63.23,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$108.61,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$61.52,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 84155,"Total protein level, blood",$36.00,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$49.65,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 84550,"Uric acid level, blood",$36.00,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 82436,Urine chloride level,$37.78,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$33.54,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$47.12,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 84133,Urine potassium level,$49.65,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 84300,Urine sodium level,$47.14,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$43.85,SD
+Black Hills Surgical Hospital ,Chemistry,HCPCS 84630,Zinc level,$37.57,SD
+Black Hills Surgical Hospital ,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$92.93,SD
+Black Hills Surgical Hospital ,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$68.32,SD
+Black Hills Surgical Hospital ,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$88.77,SD
+Black Hills Surgical Hospital ,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$63.54,SD
+Black Hills Surgical Hospital ,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$47.12,SD
+Black Hills Surgical Hospital ,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$59.26,SD
+Black Hills Surgical Hospital ,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$47.12,SD
+Black Hills Surgical Hospital ,Immunology,HCPCS 86140,Measurement C-reactive protein,$6.89,SD
+Black Hills Surgical Hospital ,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$61.52,SD
+Black Hills Surgical Hospital ,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$79.84,SD
+Black Hills Surgical Hospital ,Immunology,HCPCS 86431,Rheumatoid factor level,$64.78,SD
+Black Hills Surgical Hospital ,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$63.54,SD
+Black Hills Surgical Hospital ,Immunology,HCPCS 86592,Syphilis Detection Test,$37.05,SD
+Black Hills Surgical Hospital ,Immunology,HCPCS 86361,T cell count and ratio,$68.32,SD
+Black Hills Surgical Hospital ,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$80.19,SD
+Black Hills Surgical Hospital ,Immunology,HCPCS 86359,"T cells count, total",$80.19,SD
+Black Hills Surgical Hospital ,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$79.25,SD
+Black Hills Surgical Hospital ,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$35.34,SD
+Black Hills Surgical Hospital ,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$35.34,SD
+Black Hills Surgical Hospital ,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$35.34,SD
+Black Hills Surgical Hospital ,Microbiology,HCPCS 87491,Chlamydia Test,$174.22,SD
+Black Hills Surgical Hospital ,Microbiology,HCPCS 87635,Covid-19 current infection test,$120.00,SD
+Black Hills Surgical Hospital ,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$64.78,SD
+Black Hills Surgical Hospital ,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$63.54,SD
+Black Hills Surgical Hospital ,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$84.03,SD
+Black Hills Surgical Hospital ,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$56.62,SD
+Black Hills Surgical Hospital ,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$181.76,SD
+Black Hills Surgical Hospital ,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$174.22,SD
+Black Hills Surgical Hospital ,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$64.78,SD
+Black Hills Surgical Hospital ,Microbiology,HCPCS 86735,Mumps virus antibody test,$59.26,SD
+Black Hills Surgical Hospital ,Microbiology,HCPCS 86762,Rubella virus antibody test,$59.26,SD
+Black Hills Surgical Hospital ,Microbiology,HCPCS 86765,Rubeola virus antibody test,$59.26,SD
+Black Hills Surgical Hospital ,Microbiology,HCPCS 87177,Smear for Parasites,$34.69,SD
+Black Hills Surgical Hospital ,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$35.34,SD
+Black Hills Surgical Hospital ,Microbiology,HCPCS 87880,Strep Test,$35.34,SD
+Black Hills Surgical Hospital ,Microbiology,HCPCS 87804,Test for Influenza Virus,$35.34,SD
+Black Hills Surgical Hospital ,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$68.32,SD
+Black Hills Surgical Hospital ,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$56.03,SD
+Black Hills Surgical Hospital ,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$442.03,SD
+Black Hills Surgical Hospital ,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$83.10,SD
+Black Hills Surgical Hospital ,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$83.10,SD
+Black Hills Surgical Hospital ,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$83.10,SD
+Black Hills Surgical Hospital ,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$83.10,SD
+Black Hills Surgical Hospital ,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$80.61,SD
+Black Hills Surgical Hospital ,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$83.10,SD
+Black Hills Surgical Hospital ,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$80.61,SD
+Black Hills Surgical Hospital ,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$58.59,SD
+Black Hills Surgical Hospital ,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$62.82,SD
+Black Hills Surgical Hospital ,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$106.78,SD
+Black Hills Surgical Hospital ,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$56.66,SD
+Black Hills Surgical Hospital ,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$62.82,SD
+Black Hills Surgical Hospital ,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$58.59,SD
+Black Hills Surgical Hospital ,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$62.82,SD
+Black Hills Surgical Hospital ,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$62.82,SD
+Black Hills Surgical Hospital ,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$62.82,SD
+Black Hills Surgical Hospital ,Transfusion,HCPCS 86900,"Blood Typing, ABO",$140.05,SD
+Black Hills Surgical Hospital ,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$140.05,SD
+Black Hills Surgical Hospital ,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$140.05,SD
+Black Hills Surgical Hospital ,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$64.78,SD
+Black Hills Surgical Hospital ,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$103.18,SD
+Black Hills Surgical Hospital ,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$64.78,SD
+Black Hills Surgical Hospital ,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$26.18,SD
+Black Hills Surgical Hospital ,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$32.06,SD
+Black Hills Surgical Hospital ,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$32.06,SD
+Black Hills Surgical Hospital ,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$48.00,SD
+Black Hills Surgical Hospital ,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$52.62,SD
+Black Hills Surgical Hospital ,Cardiovascular,HCPCS 93975,Ultrasound Heart,$519.46,SD
+Black Hills Surgical Hospital ,Pulmonary,HCPCS 94640,Nebulizer Treatment,$139.90,SD
+Black Hills Surgical Hospital ,Pulmonary,HCPCS 94010,Spirometry - breathing test,$141.98,SD
+Black Hills Surgical Hospital ,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,164.32",SD
+Black Hills Surgical Hospital ,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$773.36,SD
+Black Hills Surgical Hospital ,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$699.36,SD
+Black Hills Surgical Hospital ,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$920.56,SD
+Black Hills Surgical Hospital ,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,806.91",SD
+Black Hills Surgical Hospital ,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,449.41",SD
+Black Hills Surgical Hospital ,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,160.35",SD
+Black Hills Surgical Hospital ,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,001.36",SD
+Black Hills Surgical Hospital ,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,279.60",SD
+Black Hills Surgical Hospital ,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,012.16",SD
+Black Hills Surgical Hospital ,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$128.86,SD
+Black Hills Surgical Hospital ,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$982.56,SD
+Black Hills Surgical Hospital ,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,108.96",SD
+Black Hills Surgical Hospital ,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)",$951.20,SD
+Black Hills Surgical Hospital ,MRI,HCPCS 72146,MRI chest spine without contrast material,$951.20,SD
+Black Hills Surgical Hospital ,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$951.20,SD
+Black Hills Surgical Hospital ,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$1,495.20",SD
+Black Hills Surgical Hospital ,MRI,HCPCS 72141,MRI neck spine without contrast material,$951.20,SD
+Black Hills Surgical Hospital ,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$1,495.20",SD
+Black Hills Surgical Hospital ,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,495.20",SD
+Black Hills Surgical Hospital ,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$951.20,SD
+Black Hills Surgical Hospital ,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,495.20",SD
+Black Hills Surgical Hospital ,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$951.20,SD
+Black Hills Surgical Hospital ,MRI,HCPCS 73721,MRI scan of leg joint,$951.20,SD
+Black Hills Surgical Hospital ,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$519.46,SD
+Black Hills Surgical Hospital ,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$519.46,SD
+Black Hills Surgical Hospital ,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$152.00,SD
+Black Hills Surgical Hospital ,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$519.46,SD
+Black Hills Surgical Hospital ,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$519.46,SD
+Black Hills Surgical Hospital ,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$519.46,SD
+Black Hills Surgical Hospital ,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$519.46,SD
+Black Hills Surgical Hospital ,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$519.46,SD
+Black Hills Surgical Hospital ,Chest,HCPCS 71046,X-ray of chest; 2 Views,$128.52,SD
+Black Hills Surgical Hospital ,Chest,HCPCS 71045,X-ray of chest; Single View,$104.58,SD
+Black Hills Surgical Hospital ,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$113.23,SD
+Black Hills Surgical Hospital ,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$144.82,SD
+Black Hills Surgical Hospital ,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$116.51,SD
+Black Hills Surgical Hospital ,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$213.45,SD
+Black Hills Surgical Hospital ,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$99.12,SD
+Black Hills Surgical Hospital ,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$112.14,SD
+Black Hills Surgical Hospital ,Lower Limbs,HCPCS 73630,X-ray exam of foot,$116.51,SD
+Black Hills Surgical Hospital ,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$133.98,SD
+Black Hills Surgical Hospital ,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$116.51,SD
+Black Hills Surgical Hospital ,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$101.30,SD
+Black Hills Surgical Hospital ,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$101.30,SD
+Black Hills Surgical Hospital ,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$101.30,SD
+Black Hills Surgical Hospital ,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$160.78,SD
+Black Hills Surgical Hospital ,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$116.51,SD
+Black Hills Surgical Hospital ,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$145.91,SD
+Black Hills Surgical Hospital ,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$144.82,SD
+Black Hills Surgical Hospital ,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$303.66,SD
+Black Hills Surgical Hospital ,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$76.27,SD
+Black Hills Surgical Hospital ,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$90.38,SD
+Black Hills Surgical Hospital ,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$94.75,SD
+Black Hills Surgical Hospital ,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$140.45,SD
+Black Hills Surgical Hospital ,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$99.12,SD
+Black Hills Surgical Hospital ,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$94.75,SD
+Black Hills Surgical Hospital ,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$94.75,SD
+Black Hills Surgical Hospital ,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$3,176.34",SD
+Black Hills Surgical Hospital ,Abdomenal,HCPCS 47562,Cholecystectomy,"$7,856.46",SD
+Black Hills Surgical Hospital ,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$7,856.46",SD
+Black Hills Surgical Hospital ,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$1,502.86",SD
+Black Hills Surgical Hospital ,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$4,042.04",SD
+Black Hills Surgical Hospital ,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$158.50,SD
+Black Hills Surgical Hospital ,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$88.20,SD
+Black Hills Surgical Hospital ,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,"$10,197.36",SD
+Black Hills Surgical Hospital ,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$5,802.62",SD
+Black Hills Surgical Hospital ,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$5,499.66",SD
+Black Hills Surgical Hospital ,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$6,527.98",SD
+Black Hills Surgical Hospital ,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$8,521.99",SD
+Black Hills Surgical Hospital ,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$8,521.99",SD
+Black Hills Surgical Hospital ,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$9,310.57",SD
+Black Hills Surgical Hospital ,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$5,353.51",SD
+Black Hills Surgical Hospital ,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$4,042.04",SD
+Black Hills Surgical Hospital ,Breast,HCPCS 19101,Biopsy of breast,"$3,099.65",SD
+Black Hills Surgical Hospital ,Breast,HCPCS 19325,Breast enlargement using prosthetic implant,"$7,266.78",SD
+Black Hills Surgical Hospital ,Breast,HCPCS 19125,Excision of breast lesion,"$3,099.65",SD
+Black Hills Surgical Hospital ,Breast,HCPCS 19120,Excision of cyst of breast,"$3,099.65",SD
+Black Hills Surgical Hospital ,Breast,HCPCS 19301,Partial removal of breast,"$4,354.12",SD
+Black Hills Surgical Hospital ,Breast,HCPCS 19318,Reduction mammaplasty,"$6,303.52",SD
+Black Hills Surgical Hospital ,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$6,303.52",SD
+Black Hills Surgical Hospital ,Breast,HCPCS 19303,Total removal of breast,"$4,734.89",SD
+Black Hills Surgical Hospital ,Cardiac,HCPCS 33249,Defibrillator complete system,"$16,950.47",SD
+Black Hills Surgical Hospital ,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$12,837.26",SD
+Black Hills Surgical Hospital ,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,414.40",SD
+Black Hills Surgical Hospital ,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,962.72",SD
+Black Hills Surgical Hospital ,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,962.72",SD
+Black Hills Surgical Hospital ,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,962.72",SD
+Black Hills Surgical Hospital ,Digestive,HCPCS 43235,EGD,"$1,527.84",SD
+Black Hills Surgical Hospital ,Digestive,HCPCS 43239,EGD and biopsy,"$1,808.70",SD
+Black Hills Surgical Hospital ,Digestive,HCPCS 43775,Gastric Sleeve (Outpatient),"$10,977.75",SD
+Black Hills Surgical Hospital ,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$3,044.17",SD
+Black Hills Surgical Hospital ,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$3,044.17",SD
+Black Hills Surgical Hospital ,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$4,700.82",SD
+Black Hills Surgical Hospital ,General,HCPCS 55700,Biopsy of prostate gland,"$1,807.57",SD
+Black Hills Surgical Hospital ,General,HCPCS 10060,Drainage of Abscess,"$2,083.89",SD
+Black Hills Surgical Hospital ,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple","$1,851.68",SD
+Black Hills Surgical Hospital ,General,HCPCS 60240,Removal of thyroid,"$7,671.87",SD
+Black Hills Surgical Hospital ,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$1,357.92",SD
+Black Hills Surgical Hospital ,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$1,357.92",SD
+Black Hills Surgical Hospital ,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$1,357.92",SD
+Black Hills Surgical Hospital ,Head,HCPCS 69436,Create eardrum opening,"$3,123.84",SD
+Black Hills Surgical Hospital ,Head,HCPCS 69930,Implantation of cochlear device,"$48,473.98",SD
+Black Hills Surgical Hospital ,Head,HCPCS 67028,Injection of drug into the eye,$417.93,SD
+Black Hills Surgical Hospital ,Head,HCPCS 69631,Repair of eardrum,"$5,456.07",SD
+Black Hills Surgical Hospital ,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$2,994.83",SD
+Black Hills Surgical Hospital ,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$5,224.00",SD
+Black Hills Surgical Hospital ,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$1,445.26",SD
+Black Hills Surgical Hospital ,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$1,608.80",SD
+Black Hills Surgical Hospital ,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$2,641.05",SD
+Black Hills Surgical Hospital ,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$788.26,SD
+Black Hills Surgical Hospital ,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),$41.60,SD
+Black Hills Surgical Hospital ,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$6,068.74",SD
+Black Hills Surgical Hospital ,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$3,629.81",SD
+Black Hills Surgical Hospital ,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,"$41,526.78",SD
+Black Hills Surgical Hospital ,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$5,315.50",SD
+Black Hills Surgical Hospital ,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$1,756.86",SD
+Black Hills Surgical Hospital ,Musculoskeletal,HCPCS 22612,Spine arthrodesis,"$14,574.30",SD
+Black Hills Surgical Hospital ,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$11,958.54",SD
+Black Hills Surgical Hospital ,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$4,241.38",SD
+Black Hills Surgical Hospital ,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$5,802.62",SD
+Black Hills Surgical Hospital ,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$5,802.62",SD
+Black Hills Surgical Hospital ,Obstetrics,HCPCS 58545,Removal of uterine fibroid tumors using an endoscope,"$5,353.51",SD
+Black Hills Surgical Hospital ,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries","$12,487.42",SD
+Black Hills Surgical Hospital ,Ocular,HCPCS 66984,Cataract removal,"$3,677.33",SD
+Black Hills Surgical Hospital ,Ocular,HCPCS 66982,Cataract removal with insertion of lens,"$3,900.45",SD
+Black Hills Surgical Hospital ,Ocular,HCPCS 67311,Realignment of the eye with repair of eye muscle,"$2,991.32",SD
+Black Hills Surgical Hospital ,Ocular,HCPCS 65426,Removal or relocation of corneal conjunctiva,"$2,883.50",SD
+Black Hills Surgical Hospital ,Ocular,HCPCS 67108,Repair of detached retina,"$4,848.50",SD
+Black Hills Surgical Hospital ,Soft Tissue,HCPCS 97597,Debridement of open wound,$998.40,SD
+Black Hills Surgical Hospital ,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,744.14",SD
+Black Hills Surgical Hospital ,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$957.39,SD
+Black Hills Surgical Hospital ,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,899.30",SD

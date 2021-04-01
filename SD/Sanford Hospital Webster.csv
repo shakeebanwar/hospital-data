@@ -1,0 +1,202 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Sanford Hospital Webster,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$425.00,SD
+Sanford Hospital Webster,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,262.00",SD
+Sanford Hospital Webster,Emergency Care,HCPCS 99281,Emergency Level 1,$267.00,SD
+Sanford Hospital Webster,Emergency Care,HCPCS 99282,Emergency Level 2,$435.00,SD
+Sanford Hospital Webster,Emergency Care,HCPCS 99283,Emergency Level 3,$559.00,SD
+Sanford Hospital Webster,Emergency Care,HCPCS 99284,Emergency Level 4,$768.00,SD
+Sanford Hospital Webster,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,059.00",SD
+Sanford Hospital Webster,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$442.00,SD
+Sanford Hospital Webster,Speech,HCPCS 92507,Speech Therapy,$271.00,SD
+Sanford Hospital Webster,Speech,HCPCS 92610,Swallow Evaluation,$305.00,SD
+Sanford Hospital Webster,Speech,HCPCS 92526,Swallow Treatment,$295.00,SD
+Sanford Hospital Webster,Blood,HCPCS 85018,"Blood count, hemoglobin",$53.00,SD
+Sanford Hospital Webster,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$54.00,SD
+Sanford Hospital Webster,Blood,HCPCS 85610,"Blood test, clotting time",$67.00,SD
+Sanford Hospital Webster,Blood,HCPCS 85730,Coagulation assessment blood test,$96.00,SD
+Sanford Hospital Webster,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$114.00,SD
+Sanford Hospital Webster,Blood,HCPCS 85027,"Complete blood count, automated",$111.00,SD
+Sanford Hospital Webster,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$54.00,SD
+Sanford Hospital Webster,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$463.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$435.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 82040,Albumin (protein) level,$76.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$150.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 82140,Ammonia level,$250.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 82150,Amylase (enzyme) level,$91.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$243.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 84439,Assay of free thyroxine,$114.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$118.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 82248,Bilirubin level (Direct),$49.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 82247,Bilirubin level (Total),$49.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 82565,Blood creatinine level,$66.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$66.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 84295,Blood sodium level,$66.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$66.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$96.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 82310,Calcium level,$66.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$172.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 82465,Cholesterol level,$66.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 82525,Copper level,$122.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 82533,Cortisol Measurement,$256.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$54.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$122.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$121.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 82746,Folic acid; serum,$118.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$68.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$81.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$89.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$158.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$165.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$259.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 83550,Iron Binding Capacity,$52.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 83540,Iron level,$74.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$66.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 83721,LDL cholesterol level,$50.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$99.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$66.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$137.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 83735,Magnesium Level,$89.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$222.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 83945,Oxalate level,$161.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 83970,Parathormone,$126.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 84157,Prealbumin (protein) level,$69.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$200.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$95.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 84403,Testosterone (hormone) level,$212.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 84402,Testosterone Level; Free,$155.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 84155,"Total protein level, blood",$66.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$57.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 84478,Triglycerides level,$66.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 84166,Troponin (protein) analysis,$75.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 84560,Uric acid level,$67.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 84550,"Uric acid level, blood",$66.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 82340,Urine calcium level,$59.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$109.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$77.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 84300,Urine sodium level,$41.00,SD
+Sanford Hospital Webster,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$98.00,SD
+Sanford Hospital Webster,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$164.00,SD
+Sanford Hospital Webster,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$128.00,SD
+Sanford Hospital Webster,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$106.00,SD
+Sanford Hospital Webster,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$140.00,SD
+Sanford Hospital Webster,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$92.00,SD
+Sanford Hospital Webster,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$104.00,SD
+Sanford Hospital Webster,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$104.00,SD
+Sanford Hospital Webster,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$193.00,SD
+Sanford Hospital Webster,Immunology,HCPCS 86140,Measurement C-reactive protein,$57.00,SD
+Sanford Hospital Webster,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$94.00,SD
+Sanford Hospital Webster,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$104.00,SD
+Sanford Hospital Webster,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$106.00,SD
+Sanford Hospital Webster,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$89.00,SD
+Sanford Hospital Webster,Immunology,HCPCS 86361,T cell count and ratio,$214.00,SD
+Sanford Hospital Webster,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$96.00,SD
+Sanford Hospital Webster,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$46.00,SD
+Sanford Hospital Webster,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$68.00,SD
+Sanford Hospital Webster,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$84.00,SD
+Sanford Hospital Webster,Microbiology,HCPCS 87491,Chlamydia Test,$87.00,SD
+Sanford Hospital Webster,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$242.00,SD
+Sanford Hospital Webster,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$548.00,SD
+Sanford Hospital Webster,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$104.00,SD
+Sanford Hospital Webster,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$536.00,SD
+Sanford Hospital Webster,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$87.00,SD
+Sanford Hospital Webster,Microbiology,HCPCS 87517,Hepatitis B Detection,$344.00,SD
+Sanford Hospital Webster,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$111.00,SD
+Sanford Hospital Webster,Microbiology,HCPCS 86762,Rubella virus antibody test,$66.00,SD
+Sanford Hospital Webster,Microbiology,HCPCS 87045,Stool Culture,$64.00,SD
+Sanford Hospital Webster,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$107.00,SD
+Sanford Hospital Webster,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$266.00,SD
+Sanford Hospital Webster,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$136.00,SD
+Sanford Hospital Webster,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$160.00,SD
+Sanford Hospital Webster,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$102.00,SD
+Sanford Hospital Webster,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$140.00,SD
+Sanford Hospital Webster,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$122.00,SD
+Sanford Hospital Webster,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$115.00,SD
+Sanford Hospital Webster,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$137.00,SD
+Sanford Hospital Webster,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$128.00,SD
+Sanford Hospital Webster,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$197.00,SD
+Sanford Hospital Webster,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$68.00,SD
+Sanford Hospital Webster,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$91.00,SD
+Sanford Hospital Webster,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$123.00,SD
+Sanford Hospital Webster,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$299.00,SD
+Sanford Hospital Webster,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$137.00,SD
+Sanford Hospital Webster,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$113.00,SD
+Sanford Hospital Webster,Transfusion,HCPCS 86900,"Blood Typing, ABO",$101.00,SD
+Sanford Hospital Webster,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$98.00,SD
+Sanford Hospital Webster,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$77.00,SD
+Sanford Hospital Webster,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$47.00,SD
+Sanford Hospital Webster,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$59.00,SD
+Sanford Hospital Webster,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$75.00,SD
+Sanford Hospital Webster,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$648.00,SD
+Sanford Hospital Webster,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$189.00,SD
+Sanford Hospital Webster,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$365.00,SD
+Sanford Hospital Webster,Cardiovascular,HCPCS 93975,Ultrasound Heart,$454.00,SD
+Sanford Hospital Webster,Pulmonary,HCPCS 94640,Nebulizer Treatment,$168.00,SD
+Sanford Hospital Webster,Pulmonary,HCPCS 94618,Pulmonary stress test,$372.00,SD
+Sanford Hospital Webster,Sleep,HCPCS 95810,Sleep study,"$3,263.00",SD
+Sanford Hospital Webster,Breast,HCPCS 77067,Mammogram Screening,$379.00,SD
+Sanford Hospital Webster,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$2,613.00",SD
+Sanford Hospital Webster,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,869.00",SD
+Sanford Hospital Webster,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,689.00",SD
+Sanford Hospital Webster,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,777.00",SD
+Sanford Hospital Webster,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$4,639.00",SD
+Sanford Hospital Webster,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$3,893.00",SD
+Sanford Hospital Webster,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$3,096.00",SD
+Sanford Hospital Webster,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$2,320.00",SD
+Sanford Hospital Webster,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$2,396.00",SD
+Sanford Hospital Webster,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,830.00",SD
+Sanford Hospital Webster,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$2,184.00",SD
+Sanford Hospital Webster,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,848.00",SD
+Sanford Hospital Webster,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,659.00",SD
+Sanford Hospital Webster,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$3,772.00",SD
+Sanford Hospital Webster,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,806.00",SD
+Sanford Hospital Webster,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$3,988.00",SD
+Sanford Hospital Webster,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,516.00",SD
+Sanford Hospital Webster,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,561.00",SD
+Sanford Hospital Webster,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,626.00",SD
+Sanford Hospital Webster,MRI,HCPCS 73721,MRI scan of leg joint,"$2,416.00",SD
+Sanford Hospital Webster,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$644.00,SD
+Sanford Hospital Webster,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$574.00,SD
+Sanford Hospital Webster,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$774.00,SD
+Sanford Hospital Webster,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$644.00,SD
+Sanford Hospital Webster,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$537.00,SD
+Sanford Hospital Webster,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$537.00,SD
+Sanford Hospital Webster,Chest,HCPCS 71046,X-ray of chest; 2 Views,$306.00,SD
+Sanford Hospital Webster,Chest,HCPCS 71045,X-ray of chest; Single View,$206.00,SD
+Sanford Hospital Webster,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$315.00,SD
+Sanford Hospital Webster,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$320.00,SD
+Sanford Hospital Webster,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$208.00,SD
+Sanford Hospital Webster,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$638.00,SD
+Sanford Hospital Webster,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$392.00,SD
+Sanford Hospital Webster,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$279.00,SD
+Sanford Hospital Webster,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$239.00,SD
+Sanford Hospital Webster,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$315.00,SD
+Sanford Hospital Webster,Lower Limbs,HCPCS 73565,X-ray Both Knees,$229.00,SD
+Sanford Hospital Webster,Lower Limbs,HCPCS 73630,X-ray exam of foot,$287.00,SD
+Sanford Hospital Webster,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$315.00,SD
+Sanford Hospital Webster,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$311.00,SD
+Sanford Hospital Webster,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$239.00,SD
+Sanford Hospital Webster,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$239.00,SD
+Sanford Hospital Webster,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$239.00,SD
+Sanford Hospital Webster,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$370.00,SD
+Sanford Hospital Webster,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$239.00,SD
+Sanford Hospital Webster,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$388.00,SD
+Sanford Hospital Webster,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$388.00,SD
+Sanford Hospital Webster,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$727.00,SD
+Sanford Hospital Webster,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$315.00,SD
+Sanford Hospital Webster,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$164.00,SD
+Sanford Hospital Webster,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$206.00,SD
+Sanford Hospital Webster,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$259.00,SD
+Sanford Hospital Webster,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$279.00,SD
+Sanford Hospital Webster,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$239.00,SD
+Sanford Hospital Webster,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$206.00,SD
+Sanford Hospital Webster,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$259.00,SD
+Sanford Hospital Webster,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$46.00,SD
+Sanford Hospital Webster,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,384.00",SD
+Sanford Hospital Webster,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,527.00",SD
+Sanford Hospital Webster,Digestive,HCPCS 43239,EGD and biopsy,"$1,751.00",SD
+Sanford Hospital Webster,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$69.00,SD
+Sanford Hospital Webster,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$69.00,SD
+Sanford Hospital Webster,Ocular,HCPCS 66984,Cataract removal,"$3,572.00",SD
+Sanford Hospital Webster,Soft Tissue,HCPCS 97597,Debridement of open wound,$105.00,SD
+Sanford Hospital Webster,Vascular,HCPCS 36416,Collection of capillary blood specimen,$14.00,SD
+Sanford Hospital Webster,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$765.00,SD

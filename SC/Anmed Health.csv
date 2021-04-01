@@ -1,0 +1,354 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Anmed Health,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$803.44,SC
+Anmed Health,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$2,606.56",SC
+Anmed Health,Emergency Care,HCPCS 99281,Emergency Level 1,$285.12,SC
+Anmed Health,Emergency Care,HCPCS 99282,Emergency Level 2,$410.96,SC
+Anmed Health,Emergency Care,HCPCS 99283,Emergency Level 3,$814.88,SC
+Anmed Health,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,335.84",SC
+Anmed Health,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,980.00",SC
+Anmed Health,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$180.40,SC
+Anmed Health,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$236.72,SC
+Anmed Health,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$143.44,SC
+Anmed Health,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$464.64,SC
+Anmed Health,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",-,SC
+Anmed Health,Psychology,HCPCS 90853,Group psychotherapy,$206.80,SC
+Anmed Health,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,-,SC
+Anmed Health,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$126.72,SC
+Anmed Health,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$248.16,SC
+Anmed Health,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$373.12,SC
+Anmed Health,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$434.72,SC
+Anmed Health,Speech,HCPCS 92507,Speech Therapy,$197.12,SC
+Anmed Health,Speech,HCPCS 92610,Swallow Evaluation,$434.72,SC
+Anmed Health,Speech,HCPCS 92526,Swallow Treatment,$259.60,SC
+Anmed Health,Blood,HCPCS 85018,"Blood count, hemoglobin",$23.76,SC
+Anmed Health,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$23.76,SC
+Anmed Health,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$55.44,SC
+Anmed Health,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$195.36,SC
+Anmed Health,Blood,HCPCS 85610,"Blood test, clotting time",$51.04,SC
+Anmed Health,Blood,HCPCS 85730,Coagulation assessment blood test,$28.16,SC
+Anmed Health,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,-,SC
+Anmed Health,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$43.12,SC
+Anmed Health,Blood,HCPCS 85027,"Complete blood count, automated",$43.12,SC
+Anmed Health,Blood,HCPCS 85008,Microscopic examination for white blood cells,-,SC
+Anmed Health,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$43.12,SC
+Anmed Health,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$219.12,SC
+Anmed Health,Blood,HCPCS 85660,Red blood cell sickling measurement,$101.20,SC
+Anmed Health,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$818.40,SC
+Anmed Health,Blood,HCPCS 85041,"Red blood count, automated test",$23.76,SC
+Anmed Health,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,-,SC
+Anmed Health,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$311.52,SC
+Anmed Health,Chemistry,HCPCS 82040,Albumin (protein) level,$71.28,SC
+Anmed Health,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$156.64,SC
+Anmed Health,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$143.44,SC
+Anmed Health,Chemistry,HCPCS 82140,Ammonia level,$133.76,SC
+Anmed Health,Chemistry,HCPCS 82150,Amylase (enzyme) level,$53.68,SC
+Anmed Health,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$159.28,SC
+Anmed Health,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$248.16,SC
+Anmed Health,Chemistry,HCPCS 84439,Assay of free thyroxine,$95.04,SC
+Anmed Health,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$132.00,SC
+Anmed Health,Chemistry,HCPCS 82248,Bilirubin level (Direct),$56.32,SC
+Anmed Health,Chemistry,HCPCS 82247,Bilirubin level (Total),$30.80,SC
+Anmed Health,Chemistry,HCPCS 82565,Blood creatinine level,$30.80,SC
+Anmed Health,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$28.16,SC
+Anmed Health,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$43.12,SC
+Anmed Health,Chemistry,HCPCS 84132,Blood potassium level,$30.80,SC
+Anmed Health,Chemistry,HCPCS 84295,Blood sodium level,$28.16,SC
+Anmed Health,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$56.32,SC
+Anmed Health,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$90.64,SC
+Anmed Health,Chemistry,HCPCS 82310,Calcium level,$28.16,SC
+Anmed Health,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$71.28,SC
+Anmed Health,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$99.44,SC
+Anmed Health,Chemistry,HCPCS 82465,Cholesterol level,$28.16,SC
+Anmed Health,Chemistry,HCPCS 82525,Copper level,$245.52,SC
+Anmed Health,Chemistry,HCPCS 82533,Cortisol Measurement,$100.32,SC
+Anmed Health,Chemistry,HCPCS 84681,C-peptide (protein) level,$127.60,SC
+Anmed Health,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$39.60,SC
+Anmed Health,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$100.32,SC
+Anmed Health,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$278.08,SC
+Anmed Health,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$310.64,SC
+Anmed Health,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$80.96,SC
+Anmed Health,Chemistry,HCPCS 82746,Folic acid; serum,$102.08,SC
+Anmed Health,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$185.68,SC
+Anmed Health,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$43.12,SC
+Anmed Health,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$47.52,SC
+Anmed Health,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$118.80,SC
+Anmed Health,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$140.80,SC
+Anmed Health,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$80.96,SC
+Anmed Health,Chemistry,HCPCS 83718,HDL cholesterol level,$78.32,SC
+Anmed Health,Chemistry,HCPCS 83020,Hemoglobin Measurement,-,SC
+Anmed Health,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$177.76,SC
+Anmed Health,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$229.68,SC
+Anmed Health,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$81.84,SC
+Anmed Health,Chemistry,HCPCS 83525,Insulin Measurement; Total,$76.56,SC
+Anmed Health,Chemistry,HCPCS 82330,Ionized Calcium,$152.24,SC
+Anmed Health,Chemistry,HCPCS 83550,Iron Binding Capacity,$45.76,SC
+Anmed Health,Chemistry,HCPCS 83540,Iron level,$45.76,SC
+Anmed Health,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$78.32,SC
+Anmed Health,Chemistry,HCPCS 83721,LDL cholesterol level,$39.60,SC
+Anmed Health,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$43.12,SC
+Anmed Health,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$30.80,SC
+Anmed Health,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$124.08,SC
+Anmed Health,Chemistry,HCPCS 83021,Liver function blood test panel,$115.28,SC
+Anmed Health,Chemistry,HCPCS 83735,Magnesium Level,$52.80,SC
+Anmed Health,Chemistry,HCPCS 82542,Mass spectrometry,$369.60,SC
+Anmed Health,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$245.52,SC
+Anmed Health,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,-,SC
+Anmed Health,Chemistry,HCPCS 83918,Organic acid level,-,SC
+Anmed Health,Chemistry,HCPCS 83945,Oxalate level,$92.40,SC
+Anmed Health,Chemistry,HCPCS 83970,Parathormone,$252.56,SC
+Anmed Health,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$86.24,SC
+Anmed Health,Chemistry,HCPCS 84157,Prealbumin (protein) level,$80.96,SC
+Anmed Health,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$309.76,SC
+Anmed Health,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$165.44,SC
+Anmed Health,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$143.44,SC
+Anmed Health,Chemistry,HCPCS A9270,Selenium (vitamin) level,$38.72,SC
+Anmed Health,Chemistry,HCPCS 82270,Stool analysis for blood,$32.56,SC
+Anmed Health,Chemistry,HCPCS 84403,Testosterone (hormone) level,$142.56,SC
+Anmed Health,Chemistry,HCPCS 84402,Testosterone Level; Free,$152.24,SC
+Anmed Health,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$132.88,SC
+Anmed Health,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$249.04,SC
+Anmed Health,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$118.80,SC
+Anmed Health,Chemistry,HCPCS 84155,"Total protein level, blood",$28.16,SC
+Anmed Health,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$28.16,SC
+Anmed Health,Chemistry,HCPCS 84166,Troponin (protein) analysis,$150.48,SC
+Anmed Health,Chemistry,HCPCS 84560,Uric acid level,$49.28,SC
+Anmed Health,Chemistry,HCPCS 84550,"Uric acid level, blood",$36.96,SC
+Anmed Health,Chemistry,HCPCS 82340,Urine calcium level,$64.24,SC
+Anmed Health,Chemistry,HCPCS 82436,Urine chloride level,$56.32,SC
+Anmed Health,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$32.56,SC
+Anmed Health,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$71.28,SC
+Anmed Health,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$121.44,SC
+Anmed Health,Chemistry,HCPCS 84133,Urine potassium level,$56.32,SC
+Anmed Health,Chemistry,HCPCS 84300,Urine sodium level,$56.32,SC
+Anmed Health,Chemistry,HCPCS 84591,Vitamin B-6 level,-,SC
+Anmed Health,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$118.80,SC
+Anmed Health,Chemistry,HCPCS 84630,Zinc level,$118.80,SC
+Anmed Health,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$250.80,SC
+Anmed Health,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$159.28,SC
+Anmed Health,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$114.40,SC
+Anmed Health,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$38.72,SC
+Anmed Health,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,-,SC
+Anmed Health,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$124.08,SC
+Anmed Health,Immunology,HCPCS 86318,Covid-19 antibody test,-,SC
+Anmed Health,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$146.96,SC
+Anmed Health,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$91.52,SC
+Anmed Health,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$87.12,SC
+Anmed Health,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$193.60,SC
+Anmed Health,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$444.40,SC
+Anmed Health,Immunology,HCPCS 86140,Measurement C-reactive protein,$47.52,SC
+Anmed Health,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$365.20,SC
+Anmed Health,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$82.72,SC
+Anmed Health,Immunology,HCPCS 86161,Measurement of complement (immune system proteins),$135.52,SC
+Anmed Health,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$160.16,SC
+Anmed Health,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$87.12,SC
+Anmed Health,Immunology,HCPCS 86431,Rheumatoid factor level,$47.52,SC
+Anmed Health,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$100.32,SC
+Anmed Health,Immunology,HCPCS 86580,Skin test for tuberculosis,$180.40,SC
+Anmed Health,Immunology,HCPCS 86592,Syphilis Detection Test,$66.88,SC
+Anmed Health,Immunology,HCPCS 86361,T cell count and ratio,$234.08,SC
+Anmed Health,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$257.84,SC
+Anmed Health,Immunology,HCPCS 86359,"T cells count, total",-,SC
+Anmed Health,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$152.24,SC
+Anmed Health,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),-,SC
+Anmed Health,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$89.76,SC
+Anmed Health,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,-,SC
+Anmed Health,Microbiology,HCPCS 87491,Chlamydia Test,$117.04,SC
+Anmed Health,Microbiology,HCPCS 87635,Covid-19 current infection test,$137.28,SC
+Anmed Health,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$204.16,SC
+Anmed Health,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$101.20,SC
+Anmed Health,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$483.12,SC
+Anmed Health,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$56.32,SC
+Anmed Health,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$443.52,SC
+Anmed Health,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$116.16,SC
+Anmed Health,Microbiology,HCPCS 87517,Hepatitis B Detection,$396.88,SC
+Anmed Health,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$161.92,SC
+Anmed Health,Microbiology,HCPCS 87624,HPV Detection,$158.40,SC
+Anmed Health,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$150.48,SC
+Anmed Health,Microbiology,HCPCS 86735,Mumps virus antibody test,$38.72,SC
+Anmed Health,Microbiology,HCPCS 86747,Parvovirus antibody test,$212.96,SC
+Anmed Health,Microbiology,HCPCS 86762,Rubella virus antibody test,$47.52,SC
+Anmed Health,Microbiology,HCPCS 86765,Rubeola virus antibody test,$155.76,SC
+Anmed Health,Microbiology,HCPCS 87207,Smear for infectious agents,$210.32,SC
+Anmed Health,Microbiology,HCPCS 87177,Smear for Parasites,$117.04,SC
+Anmed Health,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$185.68,SC
+Anmed Health,Microbiology,HCPCS 87045,Stool Culture,$75.68,SC
+Anmed Health,Microbiology,HCPCS 87880,Strep Test,$56.32,SC
+Anmed Health,Microbiology,HCPCS 87804,Test for Influenza Virus,$56.32,SC
+Anmed Health,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$72.16,SC
+Anmed Health,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$135.52,SC
+Anmed Health,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$306.24,SC
+Anmed Health,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$554.40,SC
+Anmed Health,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$47.52,SC
+Anmed Health,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$71.28,SC
+Anmed Health,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$84.48,SC
+Anmed Health,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$103.84,SC
+Anmed Health,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$61.60,SC
+Anmed Health,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$323.84,SC
+Anmed Health,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$95.04,SC
+Anmed Health,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$164.56,SC
+Anmed Health,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$205.04,SC
+Anmed Health,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$85.36,SC
+Anmed Health,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$152.24,SC
+Anmed Health,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$159.28,SC
+Anmed Health,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$80.96,SC
+Anmed Health,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$100.32,SC
+Anmed Health,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$100.32,SC
+Anmed Health,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$192.72,SC
+Anmed Health,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$100.32,SC
+Anmed Health,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$156.64,SC
+Anmed Health,Transfusion,HCPCS 86900,"Blood Typing, ABO",$32.56,SC
+Anmed Health,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$52.80,SC
+Anmed Health,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$207.68,SC
+Anmed Health,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",-,SC
+Anmed Health,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$100.32,SC
+Anmed Health,Transfusion,HCPCS 86906,Screening test for compatible blood unit,-,SC
+Anmed Health,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$122.32,SC
+Anmed Health,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$32.56,SC
+Anmed Health,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$32.56,SC
+Anmed Health,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$32.56,SC
+Anmed Health,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$23.76,SC
+Anmed Health,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$1,063.04",SC
+Anmed Health,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$327.36,SC
+Anmed Health,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$212.96,SC
+Anmed Health,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$158.40,SC
+Anmed Health,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$2,130.48",SC
+Anmed Health,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,096.48",SC
+Anmed Health,Pulmonary,HCPCS 94640,Aerosol Treatment,$162.80,SC
+Anmed Health,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$347.60,SC
+Anmed Health,Pulmonary,HCPCS 94618,Pulmonary stress test,"$1,022.56",SC
+Anmed Health,Pulmonary,HCPCS 94010,Spirometry - breathing test,$388.96,SC
+Anmed Health,Sleep,HCPCS 95810,Sleep study,"$3,871.12",SC
+Anmed Health,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$56.32,SC
+Anmed Health,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$90.64,SC
+Anmed Health,Breast,HCPCS 77067,Mammogram Screening,$155.76,SC
+Anmed Health,Breast,HCPCS 77066,Mammography of both breasts,$155.76,SC
+Anmed Health,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$2,582.80",SC
+Anmed Health,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,877.92",SC
+Anmed Health,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$2,032.80",SC
+Anmed Health,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,780.24",SC
+Anmed Health,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$5,642.56",SC
+Anmed Health,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$4,422.88",SC
+Anmed Health,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$3,811.28",SC
+Anmed Health,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$2,208.80",SC
+Anmed Health,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$2,664.64",SC
+Anmed Health,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$2,364.56",SC
+Anmed Health,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,986.16",SC
+Anmed Health,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$2,112.88",SC
+Anmed Health,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$2,249.28",SC
+Anmed Health,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$2,348.72",SC
+Anmed Health,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,584.56",SC
+Anmed Health,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,680.48",SC
+Anmed Health,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$3,722.40",SC
+Anmed Health,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,597.76",SC
+Anmed Health,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$3,922.16",SC
+Anmed Health,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$3,683.68",SC
+Anmed Health,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,932.16",SC
+Anmed Health,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,721.52",SC
+Anmed Health,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,430.56",SC
+Anmed Health,MRI,HCPCS 73721,MRI scan of leg joint,"$2,936.56",SC
+Anmed Health,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$872.08,SC
+Anmed Health,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$908.16,SC
+Anmed Health,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$784.08,SC
+Anmed Health,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$798.16,SC
+Anmed Health,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$1,180.96",SC
+Anmed Health,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,038.40",SC
+Anmed Health,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$759.44,SC
+Anmed Health,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$645.04,SC
+Anmed Health,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$806.08,SC
+Anmed Health,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$798.16,SC
+Anmed Health,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,-,SC
+Anmed Health,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$658.24,SC
+Anmed Health,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$718.96,SC
+Anmed Health,Chest,HCPCS 71046,X-ray of chest; 2 Views,$422.40,SC
+Anmed Health,Chest,HCPCS 71045,X-ray of chest; Single View,$324.72,SC
+Anmed Health,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$518.32,SC
+Anmed Health,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$507.76,SC
+Anmed Health,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$428.56,SC
+Anmed Health,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$413.60,SC
+Anmed Health,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$399.52,SC
+Anmed Health,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$362.56,SC
+Anmed Health,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$280.72,SC
+Anmed Health,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$523.60,SC
+Anmed Health,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",-,SC
+Anmed Health,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$432.08,SC
+Anmed Health,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$334.40,SC
+Anmed Health,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$476.96,SC
+Anmed Health,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$320.32,SC
+Anmed Health,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$359.92,SC
+Anmed Health,Lower Limbs,HCPCS 73565,X-ray Both Knees,$515.68,SC
+Anmed Health,Lower Limbs,HCPCS 73630,X-ray exam of foot,$359.92,SC
+Anmed Health,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$376.64,SC
+Anmed Health,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$394.24,SC
+Anmed Health,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$295.68,SC
+Anmed Health,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$300.08,SC
+Anmed Health,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$335.28,SC
+Anmed Health,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$359.92,SC
+Anmed Health,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$348.48,SC
+Anmed Health,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$553.52,SC
+Anmed Health,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$426.80,SC
+Anmed Health,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views","$1,028.72",SC
+Anmed Health,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$442.64,SC
+Anmed Health,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$376.64,SC
+Anmed Health,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$290.40,SC
+Anmed Health,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$366.96,SC
+Anmed Health,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$320.32,SC
+Anmed Health,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$359.92,SC
+Anmed Health,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$408.32,SC
+Anmed Health,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$276.32,SC
+Anmed Health,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$359.92,SC
+Anmed Health,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,SC
+Anmed Health,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,-,SC
+Anmed Health,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$245.52,SC
+Anmed Health,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$70.40,SC
+Anmed Health,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,SC
+Anmed Health,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,SC
+Anmed Health,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,SC
+Anmed Health,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,SC
+Anmed Health,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,SC
+Anmed Health,Cardiac,HCPCS 33249,Defibrillator complete system,"$8,103.92",SC
+Anmed Health,Cardiac,HCPCS 33240,Defibrillator generator,"$6,497.04",SC
+Anmed Health,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$10,522.16",SC
+Anmed Health,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$8,950.48",SC
+Anmed Health,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$289.52,SC
+Anmed Health,Cardiac,MSDRG 247,Implant drug-eluting stent,-,SC
+Anmed Health,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,SC
+Anmed Health,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$8,930.24",SC
+Anmed Health,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",-,SC
+Anmed Health,Digestive,HCPCS 45380,"Colonoscopy, with biopsy",-,SC
+Anmed Health,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal",-,SC
+Anmed Health,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)",-,SC
+Anmed Health,Digestive,HCPCS 43235,EGD,-,SC
+Anmed Health,Digestive,HCPCS 43239,EGD and biopsy,-,SC
+Anmed Health,Digestive,HCPCS 43775,Gastric Sleeve (Outpatient),-,SC
+Anmed Health,Digestive,HCPCS 45391,Ultrasound of lower large bowel using an endoscope,-,SC
+Anmed Health,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,SC
+Anmed Health,General,HCPCS 55700,Biopsy of prostate gland,$462.88,SC
+Anmed Health,General,HCPCS 10060,Drainage of Abscess,$168.96,SC
+Anmed Health,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$168.96,SC
+Anmed Health,General,HCPCS 69200,Removal of foreign body from ear canal,$87.12,SC
+Anmed Health,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$223.52,SC
+Anmed Health,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$296.56,SC
+Anmed Health,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$223.52,SC
+Anmed Health,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$223.52,SC
+Anmed Health,Head,HCPCS 67028,Injection of drug into the eye,-,SC
+Anmed Health,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,SC
+Anmed Health,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$168.08,SC
+Anmed Health,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,-,SC
+Anmed Health,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,-,SC
+Anmed Health,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$1,114.08",SC
+Anmed Health,Musculoskeletal,HCPCS 27200,Insertion of Breathing Tube Using an Endoscope,$328.24,SC
+Anmed Health,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$183.92,SC
+Anmed Health,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,SC
+Anmed Health,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,SC
+Anmed Health,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,SC
+Anmed Health,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$174.24,SC
+Anmed Health,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,SC
+Anmed Health,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,SC
+Anmed Health,Ocular,HCPCS 66821,Laser cataract removal,-,SC
+Anmed Health,Soft Tissue,HCPCS 97597,Debridement of open wound,$208.56,SC
+Anmed Health,Soft Tissue,HCPCS 97602,Non-selective debridement,$208.56,SC
+Anmed Health,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$447.04,SC
+Anmed Health,Vascular,HCPCS 36416,Collection of capillary blood specimen,$90.64,SC
+Anmed Health,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),$998.80,SC
+Anmed Health,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,-,SC
+Anmed Health,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$3,202.32",SC

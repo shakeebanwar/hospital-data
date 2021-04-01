@@ -1,0 +1,142 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Piedmont Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$21,636.97",SC
+Piedmont Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$20,250.98",SC
+Piedmont Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$422.74,SC
+Piedmont Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$854.58,SC
+Piedmont Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$1,720.13",SC
+Piedmont Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$3,421.52",SC
+Piedmont Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$6,047.74",SC
+Piedmont Medical Center,Hospital,HCPCS 99218,Hospital Observation per Hour,"$13,212.60",SC
+Piedmont Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$595.40,SC
+Piedmont Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min","$1,112.83",SC
+Piedmont Medical Center,Speech,HCPCS 92507,Speech Therapy,"$3,367.19",SC
+Piedmont Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$6,377.05",SC
+Piedmont Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$71.87,SC
+Piedmont Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$90.55,SC
+Piedmont Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$82.73,SC
+Piedmont Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$163.59,SC
+Piedmont Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$173.48,SC
+Piedmont Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$118.22,SC
+Piedmont Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$59.53,SC
+Piedmont Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$2,892.31",SC
+Piedmont Medical Center,Chemistry,HCPCS 82140,Ammonia level,$100.46,SC
+Piedmont Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$203.77,SC
+Piedmont Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$116.09,SC
+Piedmont Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$43.55,SC
+Piedmont Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$36.55,SC
+Piedmont Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$71.76,SC
+Piedmont Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$245.65,SC
+Piedmont Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$213.56,SC
+Piedmont Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$157.60,SC
+Piedmont Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$247.58,SC
+Piedmont Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$110.38,SC
+Piedmont Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$769.79,SC
+Piedmont Medical Center,Chemistry,HCPCS 83540,Iron level,$120.98,SC
+Piedmont Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$167.24,SC
+Piedmont Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$77.15,SC
+Piedmont Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$141.05,SC
+Piedmont Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$102.86,SC
+Piedmont Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$191.81,SC
+Piedmont Medical Center,Chemistry,HCPCS 84478,Triglycerides level,$57.40,SC
+Piedmont Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$99.83,SC
+Piedmont Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$236.43,SC
+Piedmont Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$43.66,SC
+Piedmont Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$232.84,SC
+Piedmont Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$172.51,SC
+Piedmont Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$324.66,SC
+Piedmont Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$327.41,SC
+Piedmont Medical Center,Microbiology,HCPCS 87880,Streptoccus,$238.62,SC
+Piedmont Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$251.96,SC
+Piedmont Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$411.29,SC
+Piedmont Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$217.13,SC
+Piedmont Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$136.82,SC
+Piedmont Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$212.56,SC
+Piedmont Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$205.24,SC
+Piedmont Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$585.83,SC
+Piedmont Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$81.11,SC
+Piedmont Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$92.88,SC
+Piedmont Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$72.19,SC
+Piedmont Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$91.28,SC
+Piedmont Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$129.53,SC
+Piedmont Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$103.55,SC
+Piedmont Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$29,922.68",SC
+Piedmont Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$38,624.96",SC
+Piedmont Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$121.49,SC
+Piedmont Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$372.20,SC
+Piedmont Medical Center,Breast,HCPCS 77067,Mammogram Screening,$303.46,SC
+Piedmont Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$435.80,SC
+Piedmont Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$3,289.61",SC
+Piedmont Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$2,030.05",SC
+Piedmont Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,781.86",SC
+Piedmont Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$4,421.28",SC
+Piedmont Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,646.53",SC
+Piedmont Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,873.03",SC
+Piedmont Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,085.49",SC
+Piedmont Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$2,293.70",SC
+Piedmont Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,999.38",SC
+Piedmont Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$3,321.92",SC
+Piedmont Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$3,256.22",SC
+Piedmont Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$3,896.66",SC
+Piedmont Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$4,082.08",SC
+Piedmont Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,982.37",SC
+Piedmont Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$3,594.46",SC
+Piedmont Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$3,457.97",SC
+Piedmont Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$963.66,SC
+Piedmont Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$748.97,SC
+Piedmont Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$1,636.83",SC
+Piedmont Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,508.46",SC
+Piedmont Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,045.66",SC
+Piedmont Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,232.53",SC
+Piedmont Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,125.61",SC
+Piedmont Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$413.83,SC
+Piedmont Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$296.98,SC
+Piedmont Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$429.84,SC
+Piedmont Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$856.08,SC
+Piedmont Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$343.16,SC
+Piedmont Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$388.20,SC
+Piedmont Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$583.79,SC
+Piedmont Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$577.85,SC
+Piedmont Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$672.84,SC
+Piedmont Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$422.24,SC
+Piedmont Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$295.58,SC
+Piedmont Medical Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$309.17,SC
+Piedmont Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$409.66,SC
+Piedmont Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$384.64,SC
+Piedmont Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$567.40,SC
+Piedmont Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$612.25,SC
+Piedmont Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$734.51,SC
+Piedmont Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$569.57,SC
+Piedmont Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$466.84,SC
+Piedmont Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$618.26,SC
+Piedmont Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$644.86,SC
+Piedmont Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$610.67,SC
+Piedmont Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$364.87,SC
+Piedmont Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$609.23,SC
+Piedmont Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$29,229.55",SC
+Piedmont Medical Center,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$29,715.90",SC
+Piedmont Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$31,860.83",SC
+Piedmont Medical Center,Cardiac,MSDRG 216,Cardiac valve procedure,"$388,021.37",SC
+Piedmont Medical Center,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$56,242.31",SC
+Piedmont Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$6,272.83",SC
+Piedmont Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$7,846.88",SC
+Piedmont Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$7,997.56",SC
+Piedmont Medical Center,Digestive,HCPCS 43235,EGD,"$7,043.20",SC
+Piedmont Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$7,382.45",SC
+Piedmont Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$44,305.27",SC
+Piedmont Medical Center,General,HCPCS 55700,Biopsy of prostate gland,"$21,328.22",SC
+Piedmont Medical Center,General,HCPCS 10060,Drainage of Abscess,"$4,236.76",SC
+Piedmont Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$8,177.42",SC
+Piedmont Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$2,255.21",SC
+Piedmont Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$2,523.77",SC
+Piedmont Medical Center,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$14,502.23",SC
+Piedmont Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$1,474.63",SC
+Piedmont Medical Center,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$1,546.00",SC
+Piedmont Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$1,183.07",SC
+Piedmont Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$73,191.02",SC
+Piedmont Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$20,431.43",SC
+Piedmont Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$48,373.88",SC
+Piedmont Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$113,504.48",SC
+Piedmont Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$263,778.71",SC
+Piedmont Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$28,722.03",SC
+Piedmont Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$15,242.22",SC
+Piedmont Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$3,107.00",SC

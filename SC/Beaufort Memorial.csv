@@ -1,0 +1,385 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Beaufort Memorial,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$214.00,SC
+Beaufort Memorial,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes",$475.00,SC
+Beaufort Memorial,Emergency Care,HCPCS 99281,Emergency Level 1,$37.00,SC
+Beaufort Memorial,Emergency Care,HCPCS 99282,Emergency Level 2,$73.00,SC
+Beaufort Memorial,Emergency Care,HCPCS 99283,Emergency Level 3,$109.00,SC
+Beaufort Memorial,Emergency Care,HCPCS 99284,Emergency Level 4,$206.00,SC
+Beaufort Memorial,Emergency Care,HCPCS 99285,Emergency Level 5,$304.00,SC
+Beaufort Memorial,Hospital,HCPCS 99234,Hospital observation care discharge,$233.00,SC
+Beaufort Memorial,Hospital,HCPCS 99219,Hospital observation care typically 30 minutes,$238.00,SC
+Beaufort Memorial,Hospital,HCPCS 99235,"Hospital observation or inpatient care moderate severity, 50 minutes per day",$296.00,SC
+Beaufort Memorial,Hospital,HCPCS 99218,Hospital Observation per Hour,$175.00,SC
+Beaufort Memorial,Hospital,HCPCS 99224,"Subsequent observation care, typically 25 minutes per day",$70.00,SC
+Beaufort Memorial,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$296.00,SC
+Beaufort Memorial,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$296.00,SC
+Beaufort Memorial,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$283.00,SC
+Beaufort Memorial,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$356.00,SC
+Beaufort Memorial,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$185.00,SC
+Beaufort Memorial,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$119.00,SC
+Beaufort Memorial,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$157.00,SC
+Beaufort Memorial,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$189.00,SC
+Beaufort Memorial,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$182.00,SC
+Beaufort Memorial,Psychology,HCPCS 90853,Group psychotherapy,$46.00,SC
+Beaufort Memorial,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$232.00,SC
+Beaufort Memorial,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$113.00,SC
+Beaufort Memorial,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$151.00,SC
+Beaufort Memorial,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$226.00,SC
+Beaufort Memorial,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$119.00,SC
+Beaufort Memorial,Speech,HCPCS 92507,Speech Therapy,$124.00,SC
+Beaufort Memorial,Speech,HCPCS 92610,Swallow Evaluation,$126.00,SC
+Beaufort Memorial,Speech,HCPCS 92526,Swallow Treatment,$100.00,SC
+Beaufort Memorial,Blood,HCPCS 85018,"Blood count, hemoglobin",$14.00,SC
+Beaufort Memorial,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$17.00,SC
+Beaufort Memorial,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$19.00,SC
+Beaufort Memorial,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$94.00,SC
+Beaufort Memorial,Blood,HCPCS 85610,"Blood test, clotting time",$15.00,SC
+Beaufort Memorial,Blood,HCPCS 85730,Coagulation assessment blood test,$89.00,SC
+Beaufort Memorial,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$20.00,SC
+Beaufort Memorial,Blood,HCPCS 85027,"Complete blood count, automated",$14.00,SC
+Beaufort Memorial,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$19.00,SC
+Beaufort Memorial,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$61.00,SC
+Beaufort Memorial,Blood,HCPCS 85660,Red blood cell sickling measurement,$29.00,SC
+Beaufort Memorial,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$189.00,SC
+Beaufort Memorial,Blood,HCPCS 85041,"Red blood count, automated test",$15.00,SC
+Beaufort Memorial,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$112.00,SC
+Beaufort Memorial,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$168.00,SC
+Beaufort Memorial,Chemistry,HCPCS 82040,Albumin (protein) level,$198.00,SC
+Beaufort Memorial,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$23.00,SC
+Beaufort Memorial,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$53.00,SC
+Beaufort Memorial,Chemistry,HCPCS 82140,Ammonia level,$65.00,SC
+Beaufort Memorial,Chemistry,HCPCS 82150,Amylase (enzyme) level,$81.00,SC
+Beaufort Memorial,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$37.00,SC
+Beaufort Memorial,Chemistry,HCPCS 84439,Assay of free thyroxine,$84.00,SC
+Beaufort Memorial,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$24.00,SC
+Beaufort Memorial,Chemistry,HCPCS 82248,Bilirubin level (Direct),$24.00,SC
+Beaufort Memorial,Chemistry,HCPCS 82247,Bilirubin level (Total),$30.00,SC
+Beaufort Memorial,Chemistry,HCPCS 82565,Blood creatinine level,$35.00,SC
+Beaufort Memorial,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$24.00,SC
+Beaufort Memorial,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$6.00,SC
+Beaufort Memorial,Chemistry,HCPCS 84132,Blood potassium level,$31.00,SC
+Beaufort Memorial,Chemistry,HCPCS 84295,Blood sodium level,$23.00,SC
+Beaufort Memorial,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$38.00,SC
+Beaufort Memorial,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$98.00,SC
+Beaufort Memorial,Chemistry,HCPCS 82310,Calcium level,$38.00,SC
+Beaufort Memorial,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$24.00,SC
+Beaufort Memorial,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$81.00,SC
+Beaufort Memorial,Chemistry,HCPCS 82465,Cholesterol level,$42.00,SC
+Beaufort Memorial,Chemistry,HCPCS 82525,Copper level,$39.00,SC
+Beaufort Memorial,Chemistry,HCPCS 82533,Cortisol Measurement,$93.00,SC
+Beaufort Memorial,Chemistry,HCPCS 84681,C-peptide (protein) level,$133.00,SC
+Beaufort Memorial,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$32.00,SC
+Beaufort Memorial,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$62.00,SC
+Beaufort Memorial,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$198.00,SC
+Beaufort Memorial,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$105.00,SC
+Beaufort Memorial,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$88.00,SC
+Beaufort Memorial,Chemistry,HCPCS 82746,Folic acid; serum,$57.00,SC
+Beaufort Memorial,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$23.00,SC
+Beaufort Memorial,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$54.00,SC
+Beaufort Memorial,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$22.00,SC
+Beaufort Memorial,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$19.00,SC
+Beaufort Memorial,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$19.00,SC
+Beaufort Memorial,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$45.00,SC
+Beaufort Memorial,Chemistry,HCPCS 83718,HDL cholesterol level,$58.00,SC
+Beaufort Memorial,Chemistry,HCPCS 83020,Hemoglobin Measurement,$31.00,SC
+Beaufort Memorial,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$24.00,SC
+Beaufort Memorial,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$73.00,SC
+Beaufort Memorial,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$65.00,SC
+Beaufort Memorial,Chemistry,HCPCS 83525,Insulin Measurement; Total,$46.00,SC
+Beaufort Memorial,Chemistry,HCPCS 82330,Ionized Calcium,$31.00,SC
+Beaufort Memorial,Chemistry,HCPCS 83550,Iron Binding Capacity,$36.00,SC
+Beaufort Memorial,Chemistry,HCPCS 83540,Iron level,$35.00,SC
+Beaufort Memorial,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$54.00,SC
+Beaufort Memorial,Chemistry,HCPCS 83721,LDL cholesterol level,$26.00,SC
+Beaufort Memorial,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$65.00,SC
+Beaufort Memorial,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$37.00,SC
+Beaufort Memorial,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$102.00,SC
+Beaufort Memorial,Chemistry,HCPCS 83021,Liver function blood test panel,$57.00,SC
+Beaufort Memorial,Chemistry,HCPCS 83735,Magnesium Level,$35.00,SC
+Beaufort Memorial,Chemistry,HCPCS 82542,Mass spectrometry,$139.00,SC
+Beaufort Memorial,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$662.00,SC
+Beaufort Memorial,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$73.00,SC
+Beaufort Memorial,Chemistry,HCPCS 83945,Oxalate level,$54.00,SC
+Beaufort Memorial,Chemistry,HCPCS 83970,Parathormone,$97.00,SC
+Beaufort Memorial,Chemistry,HCPCS 84157,Prealbumin (protein) level,$58.00,SC
+Beaufort Memorial,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$159.00,SC
+Beaufort Memorial,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$114.00,SC
+Beaufort Memorial,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$41.00,SC
+Beaufort Memorial,Chemistry,HCPCS 82270,Stool analysis for blood,$12.00,SC
+Beaufort Memorial,Chemistry,HCPCS 84403,Testosterone (hormone) level,$146.00,SC
+Beaufort Memorial,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$14.00,SC
+Beaufort Memorial,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$166.00,SC
+Beaufort Memorial,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$44.00,SC
+Beaufort Memorial,Chemistry,HCPCS 84155,"Total protein level, blood",$41.00,SC
+Beaufort Memorial,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$110.00,SC
+Beaufort Memorial,Chemistry,HCPCS 84166,Troponin (protein) analysis,$101.00,SC
+Beaufort Memorial,Chemistry,HCPCS 84560,Uric acid level,$33.00,SC
+Beaufort Memorial,Chemistry,HCPCS 84550,"Uric acid level, blood",$41.00,SC
+Beaufort Memorial,Chemistry,HCPCS 82340,Urine calcium level,$33.00,SC
+Beaufort Memorial,Chemistry,HCPCS 82436,Urine chloride level,$42.00,SC
+Beaufort Memorial,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$39.00,SC
+Beaufort Memorial,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$36.00,SC
+Beaufort Memorial,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$139.00,SC
+Beaufort Memorial,Chemistry,HCPCS 84133,Urine potassium level,$31.00,SC
+Beaufort Memorial,Chemistry,HCPCS 84300,Urine sodium level,$25.00,SC
+Beaufort Memorial,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$118.00,SC
+Beaufort Memorial,Chemistry,HCPCS 84630,Zinc level,$53.00,SC
+Beaufort Memorial,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$86.00,SC
+Beaufort Memorial,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$56.00,SC
+Beaufort Memorial,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$63.00,SC
+Beaufort Memorial,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$99.00,SC
+Beaufort Memorial,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$68.00,SC
+Beaufort Memorial,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$23.00,SC
+Beaufort Memorial,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$52.00,SC
+Beaufort Memorial,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$28.00,SC
+Beaufort Memorial,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$89.00,SC
+Beaufort Memorial,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$94.00,SC
+Beaufort Memorial,Immunology,HCPCS 86140,Measurement C-reactive protein,$68.00,SC
+Beaufort Memorial,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$28.00,SC
+Beaufort Memorial,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$194.00,SC
+Beaufort Memorial,Immunology,HCPCS 86161,Measurement of complement (immune system proteins),$94.00,SC
+Beaufort Memorial,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$58.00,SC
+Beaufort Memorial,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$59.00,SC
+Beaufort Memorial,Immunology,HCPCS 86431,Rheumatoid factor level,$24.00,SC
+Beaufort Memorial,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$58.00,SC
+Beaufort Memorial,Immunology,HCPCS 86580,Skin test for tuberculosis,$14.00,SC
+Beaufort Memorial,Immunology,HCPCS 86592,Syphilis Detection Test,$24.00,SC
+Beaufort Memorial,Immunology,HCPCS 86361,T cell count and ratio,$100.00,SC
+Beaufort Memorial,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$100.00,SC
+Beaufort Memorial,Immunology,HCPCS 86359,"T cells count, total",$72.00,SC
+Beaufort Memorial,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$34.00,SC
+Beaufort Memorial,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$60.00,SC
+Beaufort Memorial,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$50.00,SC
+Beaufort Memorial,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$51.00,SC
+Beaufort Memorial,Microbiology,HCPCS 87491,Chlamydia Test,$77.00,SC
+Beaufort Memorial,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$36.00,SC
+Beaufort Memorial,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$310.00,SC
+Beaufort Memorial,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$63.00,SC
+Beaufort Memorial,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$343.00,SC
+Beaufort Memorial,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$101.00,SC
+Beaufort Memorial,Microbiology,HCPCS 87517,Hepatitis B Detection,$382.00,SC
+Beaufort Memorial,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$50.00,SC
+Beaufort Memorial,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$45.00,SC
+Beaufort Memorial,Microbiology,HCPCS 86735,Mumps virus antibody test,$17.00,SC
+Beaufort Memorial,Microbiology,HCPCS 86747,Parvovirus antibody test,$94.00,SC
+Beaufort Memorial,Microbiology,HCPCS 86762,Rubella virus antibody test,$30.00,SC
+Beaufort Memorial,Microbiology,HCPCS 86765,Rubeola virus antibody test,$31.00,SC
+Beaufort Memorial,Microbiology,HCPCS 87207,Smear for infectious agents,$148.00,SC
+Beaufort Memorial,Microbiology,HCPCS 87177,Smear for Parasites,$57.00,SC
+Beaufort Memorial,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$144.00,SC
+Beaufort Memorial,Microbiology,HCPCS 87045,Stool Culture,$82.00,SC
+Beaufort Memorial,Microbiology,HCPCS 87880,Strep Test,$19.00,SC
+Beaufort Memorial,Microbiology,HCPCS 87804,Test for Influenza Virus,$19.00,SC
+Beaufort Memorial,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$37.00,SC
+Beaufort Memorial,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$17.00,SC
+Beaufort Memorial,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$386.00,SC
+Beaufort Memorial,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$375.00,SC
+Beaufort Memorial,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$103.00,SC
+Beaufort Memorial,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$18.00,SC
+Beaufort Memorial,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$30.00,SC
+Beaufort Memorial,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$54.00,SC
+Beaufort Memorial,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$49.00,SC
+Beaufort Memorial,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$130.00,SC
+Beaufort Memorial,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$99.00,SC
+Beaufort Memorial,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$94.00,SC
+Beaufort Memorial,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$161.00,SC
+Beaufort Memorial,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$53.00,SC
+Beaufort Memorial,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$81.00,SC
+Beaufort Memorial,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$94.00,SC
+Beaufort Memorial,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$60.00,SC
+Beaufort Memorial,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$52.00,SC
+Beaufort Memorial,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$57.00,SC
+Beaufort Memorial,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$359.00,SC
+Beaufort Memorial,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$77.00,SC
+Beaufort Memorial,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$69.00,SC
+Beaufort Memorial,Transfusion,HCPCS 86900,"Blood Typing, ABO",$38.00,SC
+Beaufort Memorial,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$38.00,SC
+Beaufort Memorial,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$57.00,SC
+Beaufort Memorial,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$111.00,SC
+Beaufort Memorial,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$10.00,SC
+Beaufort Memorial,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$7.00,SC
+Beaufort Memorial,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$48.00,SC
+Beaufort Memorial,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$13.00,SC
+Beaufort Memorial,Cardiovascular,HCPCS 93015,"Cardiovascular stress test, with interpretation and report",$131.00,SC
+Beaufort Memorial,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$518.00,SC
+Beaufort Memorial,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$29.00,SC
+Beaufort Memorial,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$14.00,SC
+Beaufort Memorial,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$63.00,SC
+Beaufort Memorial,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$15.00,SC
+Beaufort Memorial,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),$165.00,SC
+Beaufort Memorial,Cardiovascular,HCPCS 93975,Ultrasound Heart,$822.00,SC
+Beaufort Memorial,Pulmonary,HCPCS 94640,Aerosol Treatment,$31.00,SC
+Beaufort Memorial,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$237.00,SC
+Beaufort Memorial,Pulmonary,HCPCS 94618,Pulmonary stress test,$97.00,SC
+Beaufort Memorial,Pulmonary,HCPCS 94010,Spirometry - breathing test,$61.00,SC
+Beaufort Memorial,Sleep,HCPCS 95810,Sleep study,"$1,549.00",SC
+Beaufort Memorial,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$25.00,SC
+Beaufort Memorial,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$115.00,SC
+Beaufort Memorial,Breast,HCPCS 77067,Mammogram Screening,$113.00,SC
+Beaufort Memorial,Breast,HCPCS 77066,Mammography of both breasts,$120.00,SC
+Beaufort Memorial,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,507.00",SC
+Beaufort Memorial,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,367.00",SC
+Beaufort Memorial,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,279.00",SC
+Beaufort Memorial,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,245.00",SC
+Beaufort Memorial,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,280.00",SC
+Beaufort Memorial,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$3,030.00",SC
+Beaufort Memorial,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,624.00",SC
+Beaufort Memorial,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,588.00",SC
+Beaufort Memorial,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,767.00",SC
+Beaufort Memorial,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,631.00",SC
+Beaufort Memorial,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,312.00",SC
+Beaufort Memorial,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,443.00",SC
+Beaufort Memorial,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,419.00",SC
+Beaufort Memorial,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,906.00",SC
+Beaufort Memorial,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,036.00",SC
+Beaufort Memorial,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,828.00",SC
+Beaufort Memorial,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,383.00",SC
+Beaufort Memorial,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,708.00",SC
+Beaufort Memorial,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$1,807.00",SC
+Beaufort Memorial,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,419.00",SC
+Beaufort Memorial,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,792.00",SC
+Beaufort Memorial,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,556.00",SC
+Beaufort Memorial,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,750.00",SC
+Beaufort Memorial,MRI,HCPCS 73721,MRI scan of leg joint,"$1,791.00",SC
+Beaufort Memorial,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$242.00,SC
+Beaufort Memorial,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$360.00,SC
+Beaufort Memorial,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$193.00,SC
+Beaufort Memorial,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$543.00,SC
+Beaufort Memorial,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$103.00,SC
+Beaufort Memorial,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$208.00,SC
+Beaufort Memorial,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$624.00,SC
+Beaufort Memorial,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$83.00,SC
+Beaufort Memorial,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$188.00,SC
+Beaufort Memorial,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$208.00,SC
+Beaufort Memorial,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$173.00,SC
+Beaufort Memorial,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$471.00,SC
+Beaufort Memorial,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$177.00,SC
+Beaufort Memorial,Chest,HCPCS 71046,X-ray of chest; 2 Views,$51.00,SC
+Beaufort Memorial,Chest,HCPCS 71045,X-ray of chest; Single View,$34.00,SC
+Beaufort Memorial,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$56.00,SC
+Beaufort Memorial,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$70.00,SC
+Beaufort Memorial,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$55.00,SC
+Beaufort Memorial,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$180.00,SC
+Beaufort Memorial,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$63.00,SC
+Beaufort Memorial,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$47.00,SC
+Beaufort Memorial,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$50.00,SC
+Beaufort Memorial,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$77.00,SC
+Beaufort Memorial,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$82.00,SC
+Beaufort Memorial,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$70.00,SC
+Beaufort Memorial,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$54.00,SC
+Beaufort Memorial,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$55.00,SC
+Beaufort Memorial,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$50.00,SC
+Beaufort Memorial,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$53.00,SC
+Beaufort Memorial,Lower Limbs,HCPCS 73565,X-ray Both Knees,$60.00,SC
+Beaufort Memorial,Lower Limbs,HCPCS 73630,X-ray exam of foot,$49.00,SC
+Beaufort Memorial,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$60.00,SC
+Beaufort Memorial,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$55.00,SC
+Beaufort Memorial,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$44.00,SC
+Beaufort Memorial,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$46.00,SC
+Beaufort Memorial,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$52.00,SC
+Beaufort Memorial,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$67.00,SC
+Beaufort Memorial,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$48.00,SC
+Beaufort Memorial,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$82.00,SC
+Beaufort Memorial,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$59.00,SC
+Beaufort Memorial,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$94.00,SC
+Beaufort Memorial,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$56.00,SC
+Beaufort Memorial,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$53.00,SC
+Beaufort Memorial,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$54.00,SC
+Beaufort Memorial,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$43.00,SC
+Beaufort Memorial,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$47.00,SC
+Beaufort Memorial,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$53.00,SC
+Beaufort Memorial,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$49.00,SC
+Beaufort Memorial,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$53.00,SC
+Beaufort Memorial,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$59.00,SC
+Beaufort Memorial,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,SC
+Beaufort Memorial,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$1,396.00",SC
+Beaufort Memorial,Abdomenal,HCPCS 47562,Cholecystectomy,"$1,137.00",SC
+Beaufort Memorial,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$1,235.00",SC
+Beaufort Memorial,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,$281.00,SC
+Beaufort Memorial,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),$898.00,SC
+Beaufort Memorial,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$107.00,SC
+Beaufort Memorial,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$82.00,SC
+Beaufort Memorial,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,SC
+Beaufort Memorial,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,"$3,821.00",SC
+Beaufort Memorial,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$1,038.00",SC
+Beaufort Memorial,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$3,821.00",SC
+Beaufort Memorial,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,$739.00,SC
+Beaufort Memorial,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$1,462.00",SC
+Beaufort Memorial,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$1,604.00",SC
+Beaufort Memorial,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$11,137.00",SC
+Beaufort Memorial,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$1,010.00",SC
+Beaufort Memorial,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),$767.00,SC
+Beaufort Memorial,Breast,HCPCS 19101,Biopsy of breast,$577.00,SC
+Beaufort Memorial,Breast,HCPCS 19125,Excision of breast lesion,$930.00,SC
+Beaufort Memorial,Breast,HCPCS 19120,Excision of cyst of breast,$839.00,SC
+Beaufort Memorial,Breast,HCPCS 19301,Partial removal of breast,"$1,093.00",SC
+Beaufort Memorial,Breast,HCPCS 19318,Reduction mammaplasty,"$1,912.00",SC
+Beaufort Memorial,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$2,012.00",SC
+Beaufort Memorial,Breast,HCPCS 19303,Total removal of breast,"$1,737.00",SC
+Beaufort Memorial,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,SC
+Beaufort Memorial,Cardiac,HCPCS 33249,Defibrillator complete system,"$1,591.00",SC
+Beaufort Memorial,Cardiac,HCPCS 33240,Defibrillator generator,$633.00,SC
+Beaufort Memorial,Cardiac,HCPCS 93452,Diagnostic heart catheterization,$418.00,SC
+Beaufort Memorial,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$1,222.00",SC
+Beaufort Memorial,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$92.00,SC
+Beaufort Memorial,Cardiac,MSDRG 247,Implant drug-eluting stent,-,SC
+Beaufort Memorial,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,SC
+Beaufort Memorial,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,$612.00,SC
+Beaufort Memorial,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",$540.00,SC
+Beaufort Memorial,Digestive,HCPCS 45380,"Colonoscopy, with biopsy",$689.00,SC
+Beaufort Memorial,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal",$764.00,SC
+Beaufort Memorial,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)",$728.00,SC
+Beaufort Memorial,Digestive,HCPCS 43235,EGD,$436.00,SC
+Beaufort Memorial,Digestive,HCPCS 43239,EGD and biopsy,$581.00,SC
+Beaufort Memorial,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,$865.00,SC
+Beaufort Memorial,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,$822.00,SC
+Beaufort Memorial,Digestive,HCPCS 45391,Ultrasound of lower large bowel using an endoscope,$463.00,SC
+Beaufort Memorial,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,SC
+Beaufort Memorial,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$1,586.00",SC
+Beaufort Memorial,General,HCPCS 55700,Biopsy of prostate gland,"$1,213.00",SC
+Beaufort Memorial,General,HCPCS 10060,Drainage of Abscess,$203.00,SC
+Beaufort Memorial,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$259.00,SC
+Beaufort Memorial,General,HCPCS 69200,Removal of foreign body from ear canal,$142.00,SC
+Beaufort Memorial,General,HCPCS 60240,Removal of thyroid,"$1,593.00",SC
+Beaufort Memorial,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$185.00,SC
+Beaufort Memorial,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$276.00,SC
+Beaufort Memorial,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$187.00,SC
+Beaufort Memorial,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$153.00,SC
+Beaufort Memorial,Head,HCPCS 69436,Create eardrum opening,"$3,087.00",SC
+Beaufort Memorial,Head,HCPCS 69631,Repair of eardrum,"$2,536.00",SC
+Beaufort Memorial,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$2,340.00",SC
+Beaufort Memorial,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$2,340.00",SC
+Beaufort Memorial,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,SC
+Beaufort Memorial,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$470.00,SC
+Beaufort Memorial,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$1,450.00",SC
+Beaufort Memorial,Musculoskeletal,HCPCS 27200,Insertion of Breathing Tube Using an Endoscope,$310.00,SC
+Beaufort Memorial,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$104.00,SC
+Beaufort Memorial,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,SC
+Beaufort Memorial,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,$932.00,SC
+Beaufort Memorial,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$1,071.00",SC
+Beaufort Memorial,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,"$19,425.00",SC
+Beaufort Memorial,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$1,153.00",SC
+Beaufort Memorial,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,$307.00,SC
+Beaufort Memorial,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,SC
+Beaufort Memorial,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,SC
+Beaufort Memorial,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$90.00,SC
+Beaufort Memorial,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$1,550.00",SC
+Beaufort Memorial,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$2,284.00",SC
+Beaufort Memorial,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$1,231.00",SC
+Beaufort Memorial,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$1,127.00",SC
+Beaufort Memorial,Obstetrics,HCPCS 58545,Removal of uterine fibroid tumors using an endoscope,"$1,565.00",SC
+Beaufort Memorial,Obstetrics,HCPCS 59400,Routine obstetric care,"$2,323.00",SC
+Beaufort Memorial,Obstetrics,HCPCS 59510,"Routine obstetric care for cesarean delivery, including pre-and postdelivery care","$2,564.00",SC
+Beaufort Memorial,Obstetrics,HCPCS 59610,Routine obstetric care for vaginal delivery after prior cesarean delivery including pre-and post-delivery care,"$2,429.00",SC
+Beaufort Memorial,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries","$1,598.00",SC
+Beaufort Memorial,Ocular,HCPCS 66984,Cataract removal,"$3,573.00",SC
+Beaufort Memorial,Ocular,HCPCS 66982,Cataract removal with insertion of lens,"$3,566.00",SC
+Beaufort Memorial,Ocular,HCPCS 66821,Laser cataract removal,"$1,039.00",SC
+Beaufort Memorial,Ocular,HCPCS 65426,Removal or relocation of corneal conjunctiva,"$2,340.00",SC
+Beaufort Memorial,Soft Tissue,HCPCS 97597,Debridement of open wound,$128.00,SC
+Beaufort Memorial,Soft Tissue,HCPCS 97602,Non-selective debridement,$48.00,SC
+Beaufort Memorial,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$45.00,SC
+Beaufort Memorial,Vascular,HCPCS 36416,Collection of capillary blood specimen,$5.00,SC
+Beaufort Memorial,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),$400.00,SC
+Beaufort Memorial,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$407.00,SC
+Beaufort Memorial,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,$382.00,SC

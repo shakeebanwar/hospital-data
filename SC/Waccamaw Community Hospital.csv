@@ -1,0 +1,67 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Waccamaw Community Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$201.00,SC
+Waccamaw Community Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$253.00,SC
+Waccamaw Community Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$131.00,SC
+Waccamaw Community Hospital,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$189.00,SC
+Waccamaw Community Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$288.00,SC
+Waccamaw Community Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$50.00,SC
+Waccamaw Community Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$109.00,SC
+Waccamaw Community Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$133.00,SC
+Waccamaw Community Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$49.00,SC
+Waccamaw Community Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$140.00,SC
+Waccamaw Community Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$189.00,SC
+Waccamaw Community Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$84.00,SC
+Waccamaw Community Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$200.00,SC
+Waccamaw Community Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$165.00,SC
+Waccamaw Community Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$32.00,SC
+Waccamaw Community Hospital,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$252.00,SC
+Waccamaw Community Hospital,Sleep,HCPCS 95810,Sleep study,"$3,107.00",SC
+Waccamaw Community Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$300.00,SC
+Waccamaw Community Hospital,Breast,HCPCS 77067,Mammogram Screening,$247.00,SC
+Waccamaw Community Hospital,Breast,HCPCS 77066,Mammography of both breasts,$415.00,SC
+Waccamaw Community Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,498.00",SC
+Waccamaw Community Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,688.00",SC
+Waccamaw Community Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,503.00",SC
+Waccamaw Community Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,484.00",SC
+Waccamaw Community Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,624.00",SC
+Waccamaw Community Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,861.00",SC
+Waccamaw Community Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,798.00",SC
+Waccamaw Community Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,562.00",SC
+Waccamaw Community Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$2,186.00",SC
+Waccamaw Community Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,653.00",SC
+Waccamaw Community Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,826.00",SC
+Waccamaw Community Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$3,028.00",SC
+Waccamaw Community Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,649.00",SC
+Waccamaw Community Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$3,355.00",SC
+Waccamaw Community Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$5,583.00",SC
+Waccamaw Community Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,768.00",SC
+Waccamaw Community Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,171.00",SC
+Waccamaw Community Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,679.00",SC
+Waccamaw Community Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$1,724.00",SC
+Waccamaw Community Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$509.00,SC
+Waccamaw Community Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,009.00",SC
+Waccamaw Community Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$936.00,SC
+Waccamaw Community Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$475.00,SC
+Waccamaw Community Hospital,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$18,798.00",SC
+Waccamaw Community Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$15,323.00",SC
+Waccamaw Community Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$15,496.00",SC
+Waccamaw Community Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$26,768.00",SC
+Waccamaw Community Hospital,Breast,HCPCS 19120,Excision of cyst of breast,"$8,109.00",SC
+Waccamaw Community Hospital,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$49,696.00",SC
+Waccamaw Community Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$3,190.00",SC
+Waccamaw Community Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$4,629.00",SC
+Waccamaw Community Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$5,026.00",SC
+Waccamaw Community Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$5,073.00",SC
+Waccamaw Community Hospital,Digestive,HCPCS 45391,Ultrasound of lower large bowel using an endoscope,"$7,547.00",SC
+Waccamaw Community Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$28,887.00",SC
+Waccamaw Community Hospital,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$7,652.00",SC
+Waccamaw Community Hospital,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$126,373.00",SC
+Waccamaw Community Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$2,104.00",SC
+Waccamaw Community Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$3,065.00",SC
+Waccamaw Community Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$43,545.00",SC
+Waccamaw Community Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$16,990.00",SC
+Waccamaw Community Hospital,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$31,840.00",SC
+Waccamaw Community Hospital,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$70,285.00",SC
+Waccamaw Community Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$106,901.00",SC
+Waccamaw Community Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$17,245.00",SC
+Waccamaw Community Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$8,984.00",SC

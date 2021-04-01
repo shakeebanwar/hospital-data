@@ -1,0 +1,267 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Sanford Aberdeen Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$362.00,SD
+Sanford Aberdeen Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$2,165.00",SD
+Sanford Aberdeen Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$247.00,SD
+Sanford Aberdeen Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$418.00,SD
+Sanford Aberdeen Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$572.00,SD
+Sanford Aberdeen Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,$734.00,SD
+Sanford Aberdeen Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,225.00",SD
+Sanford Aberdeen Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$345.00,SD
+Sanford Aberdeen Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$427.00,SD
+Sanford Aberdeen Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$224.00,SD
+Sanford Aberdeen Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$346.00,SD
+Sanford Aberdeen Medical Center,Speech,HCPCS 92507,Speech Therapy,$302.00,SD
+Sanford Aberdeen Medical Center,Speech,HCPCS 92610,Swallow Evaluation,$394.00,SD
+Sanford Aberdeen Medical Center,Speech,HCPCS 92526,Swallow Treatment,$208.00,SD
+Sanford Aberdeen Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$26.00,SD
+Sanford Aberdeen Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$26.00,SD
+Sanford Aberdeen Medical Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$32.00,SD
+Sanford Aberdeen Medical Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$61.00,SD
+Sanford Aberdeen Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$52.00,SD
+Sanford Aberdeen Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$61.00,SD
+Sanford Aberdeen Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$41.00,SD
+Sanford Aberdeen Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$65.00,SD
+Sanford Aberdeen Medical Center,Blood,HCPCS 85008,Microscopic examination for white blood cells,$26.00,SD
+Sanford Aberdeen Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$31.00,SD
+Sanford Aberdeen Medical Center,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$62.00,SD
+Sanford Aberdeen Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$372.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$237.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$27.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$127.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 82140,Ammonia level,$178.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$95.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$148.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$323.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$116.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$67.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$27.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$58.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$58.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$44.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$32.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$96.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 82310,Calcium level,$28.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$174.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 82465,Cholesterol level,$23.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 82525,Copper level,$59.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$84.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$99.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$74.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$103.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$249.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$130.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$100.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$64.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$36.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$58.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$122.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 83020,Hemoglobin Measurement,$39.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$114.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$96.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 83520,IgE (immune system protein) level,$98.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$56.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$94.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$66.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 83540,Iron level,$66.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$81.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 83721,LDL cholesterol level,$45.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$69.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$32.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$113.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 83021,Liver function blood test panel,$86.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$44.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$149.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 83970,Parathormone,$268.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$93.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$98.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$130.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$64.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$166.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$160.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,"$1,710.00",SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$77.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$44.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 84478,Triglycerides level,$71.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$136.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$76.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 82436,Urine chloride level,$27.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$92.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$52.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$22.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$62.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$193.00,SD
+Sanford Aberdeen Medical Center,Chemistry,HCPCS 84630,Zinc level,$56.00,SD
+Sanford Aberdeen Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$51.00,SD
+Sanford Aberdeen Medical Center,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$64.00,SD
+Sanford Aberdeen Medical Center,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$48.00,SD
+Sanford Aberdeen Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$113.00,SD
+Sanford Aberdeen Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$59.00,SD
+Sanford Aberdeen Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$102.00,SD
+Sanford Aberdeen Medical Center,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$100.00,SD
+Sanford Aberdeen Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$37.00,SD
+Sanford Aberdeen Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$35.00,SD
+Sanford Aberdeen Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$99.00,SD
+Sanford Aberdeen Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$148.00,SD
+Sanford Aberdeen Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$83.00,SD
+Sanford Aberdeen Medical Center,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$106.00,SD
+Sanford Aberdeen Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$41.00,SD
+Sanford Aberdeen Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$64.00,SD
+Sanford Aberdeen Medical Center,Immunology,HCPCS 86361,T cell count and ratio,$81.00,SD
+Sanford Aberdeen Medical Center,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$413.00,SD
+Sanford Aberdeen Medical Center,Immunology,HCPCS 86359,"T cells count, total",$413.00,SD
+Sanford Aberdeen Medical Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$32.00,SD
+Sanford Aberdeen Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$116.00,SD
+Sanford Aberdeen Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$78.00,SD
+Sanford Aberdeen Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$175.00,SD
+Sanford Aberdeen Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$137.00,SD
+Sanford Aberdeen Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$155.00,SD
+Sanford Aberdeen Medical Center,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$590.00,SD
+Sanford Aberdeen Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$102.00,SD
+Sanford Aberdeen Medical Center,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$374.00,SD
+Sanford Aberdeen Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$101.00,SD
+Sanford Aberdeen Medical Center,Microbiology,HCPCS 87517,Hepatitis B Detection,$270.00,SD
+Sanford Aberdeen Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$163.00,SD
+Sanford Aberdeen Medical Center,Microbiology,HCPCS 87624,HPV Detection,$151.00,SD
+Sanford Aberdeen Medical Center,Microbiology,HCPCS 86747,Parvovirus antibody test,$67.00,SD
+Sanford Aberdeen Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$59.00,SD
+Sanford Aberdeen Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$59.00,SD
+Sanford Aberdeen Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$31.00,SD
+Sanford Aberdeen Medical Center,Microbiology,HCPCS 87045,Stool Culture,$37.00,SD
+Sanford Aberdeen Medical Center,Microbiology,HCPCS 87880,Streptoccus,$59.00,SD
+Sanford Aberdeen Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$155.00,SD
+Sanford Aberdeen Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$195.00,SD
+Sanford Aberdeen Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$69.00,SD
+Sanford Aberdeen Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$113.00,SD
+Sanford Aberdeen Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$154.00,SD
+Sanford Aberdeen Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$393.00,SD
+Sanford Aberdeen Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$135.00,SD
+Sanford Aberdeen Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$108.00,SD
+Sanford Aberdeen Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$134.00,SD
+Sanford Aberdeen Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$215.00,SD
+Sanford Aberdeen Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$32.00,SD
+Sanford Aberdeen Medical Center,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$64.00,SD
+Sanford Aberdeen Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$121.00,SD
+Sanford Aberdeen Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$135.00,SD
+Sanford Aberdeen Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$127.00,SD
+Sanford Aberdeen Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$37.00,SD
+Sanford Aberdeen Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$32.00,SD
+Sanford Aberdeen Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$135.00,SD
+Sanford Aberdeen Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$70.00,SD
+Sanford Aberdeen Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$86.00,SD
+Sanford Aberdeen Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$32.00,SD
+Sanford Aberdeen Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$29.00,SD
+Sanford Aberdeen Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$41.00,SD
+Sanford Aberdeen Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$991.00,SD
+Sanford Aberdeen Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$206.00,SD
+Sanford Aberdeen Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$669.00,SD
+Sanford Aberdeen Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,705.00",SD
+Sanford Aberdeen Medical Center,Pulmonary,HCPCS 94729,CO Diffusion Capacity,$245.00,SD
+Sanford Aberdeen Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,$78.00,SD
+Sanford Aberdeen Medical Center,Pulmonary,HCPCS 94618,Pulmonary stress test,$183.00,SD
+Sanford Aberdeen Medical Center,Sleep,HCPCS 95810,Sleep study,"$3,749.00",SD
+Sanford Aberdeen Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$2,552.00",SD
+Sanford Aberdeen Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$2,383.00",SD
+Sanford Aberdeen Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,859.00",SD
+Sanford Aberdeen Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,493.00",SD
+Sanford Aberdeen Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$4,514.00",SD
+Sanford Aberdeen Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$3,689.00",SD
+Sanford Aberdeen Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$3,488.00",SD
+Sanford Aberdeen Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$2,431.00",SD
+Sanford Aberdeen Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$3,038.00",SD
+Sanford Aberdeen Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$2,269.00",SD
+Sanford Aberdeen Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,885.00",SD
+Sanford Aberdeen Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$2,093.00",SD
+Sanford Aberdeen Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$2,311.00",SD
+Sanford Aberdeen Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$2,466.00",SD
+Sanford Aberdeen Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$3,098.00",SD
+Sanford Aberdeen Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$3,098.00",SD
+Sanford Aberdeen Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$4,028.00",SD
+Sanford Aberdeen Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$3,098.00",SD
+Sanford Aberdeen Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$4,028.00",SD
+Sanford Aberdeen Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$3,749.00",SD
+Sanford Aberdeen Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$3,098.00",SD
+Sanford Aberdeen Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,717.00",SD
+Sanford Aberdeen Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,788.00",SD
+Sanford Aberdeen Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$3,098.00",SD
+Sanford Aberdeen Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$879.00,SD
+Sanford Aberdeen Medical Center,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$644.00,SD
+Sanford Aberdeen Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$822.00,SD
+Sanford Aberdeen Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$675.00,SD
+Sanford Aberdeen Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$875.00,SD
+Sanford Aberdeen Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$906.00,SD
+Sanford Aberdeen Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$675.00,SD
+Sanford Aberdeen Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$617.00,SD
+Sanford Aberdeen Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$781.00,SD
+Sanford Aberdeen Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$714.00,SD
+Sanford Aberdeen Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$580.00,SD
+Sanford Aberdeen Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$299.00,SD
+Sanford Aberdeen Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$248.00,SD
+Sanford Aberdeen Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$197.00,SD
+Sanford Aberdeen Medical Center,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$455.00,SD
+Sanford Aberdeen Medical Center,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$791.00,SD
+Sanford Aberdeen Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$461.00,SD
+Sanford Aberdeen Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$287.00,SD
+Sanford Aberdeen Medical Center,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$302.00,SD
+Sanford Aberdeen Medical Center,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$508.00,SD
+Sanford Aberdeen Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$445.00,SD
+Sanford Aberdeen Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$265.00,SD
+Sanford Aberdeen Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$304.00,SD
+Sanford Aberdeen Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$248.00,SD
+Sanford Aberdeen Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$365.00,SD
+Sanford Aberdeen Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$365.00,SD
+Sanford Aberdeen Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$370.00,SD
+Sanford Aberdeen Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$171.00,SD
+Sanford Aberdeen Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$157.00,SD
+Sanford Aberdeen Medical Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$294.00,SD
+Sanford Aberdeen Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$266.00,SD
+Sanford Aberdeen Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$384.00,SD
+Sanford Aberdeen Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$329.00,SD
+Sanford Aberdeen Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$575.00,SD
+Sanford Aberdeen Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$415.00,SD
+Sanford Aberdeen Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$422.00,SD
+Sanford Aberdeen Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$646.00,SD
+Sanford Aberdeen Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$365.00,SD
+Sanford Aberdeen Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$198.00,SD
+Sanford Aberdeen Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$196.00,SD
+Sanford Aberdeen Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$365.00,SD
+Sanford Aberdeen Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$166.00,SD
+Sanford Aberdeen Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$185.00,SD
+Sanford Aberdeen Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$225.00,SD
+Sanford Aberdeen Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$7,978.00",SD
+Sanford Aberdeen Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$5,113.00",SD
+Sanford Aberdeen Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$1,852.00",SD
+Sanford Aberdeen Medical Center,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$4,149.00",SD
+Sanford Aberdeen Medical Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$3,190.00",SD
+Sanford Aberdeen Medical Center,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$14,773.00",SD
+Sanford Aberdeen Medical Center,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$1,852.00",SD
+Sanford Aberdeen Medical Center,Breast,HCPCS 19125,Excision of breast lesion,"$1,787.00",SD
+Sanford Aberdeen Medical Center,Breast,HCPCS 19303,Total removal of breast,"$4,787.00",SD
+Sanford Aberdeen Medical Center,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$6,776.00",SD
+Sanford Aberdeen Medical Center,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$33,422.00",SD
+Sanford Aberdeen Medical Center,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$13,901.00",SD
+Sanford Aberdeen Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,914.00",SD
+Sanford Aberdeen Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$2,171.00",SD
+Sanford Aberdeen Medical Center,Digestive,HCPCS 43235,EGD,"$1,340.00",SD
+Sanford Aberdeen Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$1,773.00",SD
+Sanford Aberdeen Medical Center,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$1,787.00",SD
+Sanford Aberdeen Medical Center,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$2,234.00",SD
+Sanford Aberdeen Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$376.00,SD
+Sanford Aberdeen Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$313.00,SD
+Sanford Aberdeen Medical Center,Head,HCPCS 69436,Create eardrum opening,$767.00,SD
+Sanford Aberdeen Medical Center,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$1,724.00",SD
+Sanford Aberdeen Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$1,255.00",SD
+Sanford Aberdeen Medical Center,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$1,473.00",SD
+Sanford Aberdeen Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$334.00,SD
+Sanford Aberdeen Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$40,414.00",SD
+Sanford Aberdeen Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$3,830.00",SD
+Sanford Aberdeen Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$288.00,SD
+Sanford Aberdeen Medical Center,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$1,705.00",SD
+Sanford Aberdeen Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$1,340.00",SD
+Sanford Aberdeen Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$15,259.00",SD
+Sanford Aberdeen Medical Center,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$3,703.00",SD
+Sanford Aberdeen Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$8,258.00",SD
+Sanford Aberdeen Medical Center,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries","$6,382.00",SD
+Sanford Aberdeen Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$329.00,SD
+Sanford Aberdeen Medical Center,Soft Tissue,HCPCS 97602,Non-selective debridement,$274.00,SD
+Sanford Aberdeen Medical Center,Vascular,HCPCS 36416,Collection of capillary blood specimen,$22.00,SD
+Sanford Aberdeen Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$765.00,SD

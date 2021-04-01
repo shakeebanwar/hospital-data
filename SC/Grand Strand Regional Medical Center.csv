@@ -1,0 +1,259 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Grand Strand Regional Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$1,832.00",SC
+Grand Strand Regional Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$7,250.00",SC
+Grand Strand Regional Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$554.00,SC
+Grand Strand Regional Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,"$1,296.00",SC
+Grand Strand Regional Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$2,424.00",SC
+Grand Strand Regional Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$4,026.00",SC
+Grand Strand Regional Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$5,139.00",SC
+Grand Strand Regional Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$790.00,SC
+Grand Strand Regional Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$967.00,SC
+Grand Strand Regional Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$615.00,SC
+Grand Strand Regional Medical Center,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$339.00,SC
+Grand Strand Regional Medical Center,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$339.00,SC
+Grand Strand Regional Medical Center,Psychology,HCPCS 90853,Group psychotherapy,$283.00,SC
+Grand Strand Regional Medical Center,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$462.00,SC
+Grand Strand Regional Medical Center,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$339.00,SC
+Grand Strand Regional Medical Center,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$617.00,SC
+Grand Strand Regional Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$98.00,SC
+Grand Strand Regional Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$98.00,SC
+Grand Strand Regional Medical Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$97.00,SC
+Grand Strand Regional Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$138.00,SC
+Grand Strand Regional Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$212.00,SC
+Grand Strand Regional Medical Center,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$160.00,SC
+Grand Strand Regional Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$298.00,SC
+Grand Strand Regional Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$144.00,SC
+Grand Strand Regional Medical Center,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$205.00,SC
+Grand Strand Regional Medical Center,Blood,HCPCS 85660,Red blood cell sickling measurement,$81.00,SC
+Grand Strand Regional Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$1,184.00",SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,"$1,517.00",SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$354.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$55.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$224.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$861.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 82140,Ammonia level,$631.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$259.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$228.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,"$1,016.00",SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$133.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$178.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$278.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$77.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$123.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$158.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$138.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$158.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$166.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$681.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 82310,Calcium level,$123.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$33.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$290.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 82465,Cholesterol level,$164.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 82525,Copper level,$338.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$147.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$507.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$212.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$230.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$149.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level","$1,334.00",SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$131.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$226.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$140.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$231.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$147.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$283.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$283.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$178.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 83718,HDL cholesterol level,$174.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 83020,Hemoglobin Measurement,$455.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$173.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$337.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$614.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$218.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$231.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$83.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 83540,Iron level,$79.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$212.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$442.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$55.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$131.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 83021,Liver function blood test panel,$122.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$197.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 82542,Mass spectrometry,$364.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$304.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$697.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 83945,Oxalate level,$266.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 83970,Parathormone,$727.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$241.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$416.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$295.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$226.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$43.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$392.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,"$1,195.00",SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$178.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,"$1,150.00",SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$307.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$55.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$241.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$386.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 84560,Uric acid level,$75.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$234.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$117.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 82436,Urine chloride level,$178.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$321.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$231.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$869.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$231.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$231.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 84591,Vitamin B-6 level,$503.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$322.00,SC
+Grand Strand Regional Medical Center,Chemistry,HCPCS 84630,Zinc level,$224.00,SC
+Grand Strand Regional Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$25.00,SC
+Grand Strand Regional Medical Center,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$178.00,SC
+Grand Strand Regional Medical Center,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$109.00,SC
+Grand Strand Regional Medical Center,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$378.00,SC
+Grand Strand Regional Medical Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$69.00,SC
+Grand Strand Regional Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$241.00,SC
+Grand Strand Regional Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$197.00,SC
+Grand Strand Regional Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$56.00,SC
+Grand Strand Regional Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$295.00,SC
+Grand Strand Regional Medical Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$81.00,SC
+Grand Strand Regional Medical Center,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$691.00,SC
+Grand Strand Regional Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$166.00,SC
+Grand Strand Regional Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$224.00,SC
+Grand Strand Regional Medical Center,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$145.00,SC
+Grand Strand Regional Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$282.00,SC
+Grand Strand Regional Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$267.00,SC
+Grand Strand Regional Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$507.00,SC
+Grand Strand Regional Medical Center,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$321.00,SC
+Grand Strand Regional Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$295.00,SC
+Grand Strand Regional Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$171.00,SC
+Grand Strand Regional Medical Center,Immunology,HCPCS 86361,T cell count and ratio,$910.00,SC
+Grand Strand Regional Medical Center,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$230.00,SC
+Grand Strand Regional Medical Center,Immunology,HCPCS 86359,"T cells count, total",$81.00,SC
+Grand Strand Regional Medical Center,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$264.00,SC
+Grand Strand Regional Medical Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$174.00,SC
+Grand Strand Regional Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$230.00,SC
+Grand Strand Regional Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$256.00,SC
+Grand Strand Regional Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$206.00,SC
+Grand Strand Regional Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$66.00,SC
+Grand Strand Regional Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$362.00,SC
+Grand Strand Regional Medical Center,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$83.00,SC
+Grand Strand Regional Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$122.00,SC
+Grand Strand Regional Medical Center,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification","$1,060.00",SC
+Grand Strand Regional Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$206.00,SC
+Grand Strand Regional Medical Center,Microbiology,HCPCS 87517,Hepatitis B Detection,"$2,420.00",SC
+Grand Strand Regional Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$81.00,SC
+Grand Strand Regional Medical Center,Microbiology,HCPCS 87624,HPV Detection,$620.00,SC
+Grand Strand Regional Medical Center,Microbiology,HCPCS 86735,Mumps virus antibody test,$171.00,SC
+Grand Strand Regional Medical Center,Microbiology,HCPCS 86747,Parvovirus antibody test,$285.00,SC
+Grand Strand Regional Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$131.00,SC
+Grand Strand Regional Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$191.00,SC
+Grand Strand Regional Medical Center,Microbiology,HCPCS 87207,Smear for infectious agents,$158.00,SC
+Grand Strand Regional Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$408.00,SC
+Grand Strand Regional Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$475.00,SC
+Grand Strand Regional Medical Center,Microbiology,HCPCS 87045,Stool Culture,$617.00,SC
+Grand Strand Regional Medical Center,Microbiology,HCPCS 87880,Strep Test,$105.00,SC
+Grand Strand Regional Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$241.00,SC
+Grand Strand Regional Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$205.00,SC
+Grand Strand Regional Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$140.00,SC
+Grand Strand Regional Medical Center,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$415.00,SC
+Grand Strand Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$945.00,SC
+Grand Strand Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$968.00,SC
+Grand Strand Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$990.00,SC
+Grand Strand Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$495.00,SC
+Grand Strand Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,"$1,238.00",SC
+Grand Strand Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$492.00,SC
+Grand Strand Regional Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$243.00,SC
+Grand Strand Regional Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$364.00,SC
+Grand Strand Regional Medical Center,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$432.00,SC
+Grand Strand Regional Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$481.00,SC
+Grand Strand Regional Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$972.00,SC
+Grand Strand Regional Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,"$1,056.00",SC
+Grand Strand Regional Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$178.00,SC
+Grand Strand Regional Medical Center,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$564.00,SC
+Grand Strand Regional Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$458.00,SC
+Grand Strand Regional Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$615.00,SC
+Grand Strand Regional Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$444.00,SC
+Grand Strand Regional Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$696.00,SC
+Grand Strand Regional Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$204.00,SC
+Grand Strand Regional Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$204.00,SC
+Grand Strand Regional Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$472.00,SC
+Grand Strand Regional Medical Center,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$537.00,SC
+Grand Strand Regional Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$334.00,SC
+Grand Strand Regional Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$322.00,SC
+Grand Strand Regional Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$76.00,SC
+Grand Strand Regional Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$241.00,SC
+Grand Strand Regional Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$436.00,SC
+Grand Strand Regional Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$2,592.00",SC
+Grand Strand Regional Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$521.00,SC
+Grand Strand Regional Medical Center,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$361.00,SC
+Grand Strand Regional Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,"$1,927.00",SC
+Grand Strand Regional Medical Center,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$3,740.00",SC
+Grand Strand Regional Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$2,573.00",SC
+Grand Strand Regional Medical Center,Pulmonary,HCPCS 94729,CO Diffusion Capacity,$831.00,SC
+Grand Strand Regional Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,$336.00,SC
+Grand Strand Regional Medical Center,Pulmonary,HCPCS 94618,Pulmonary stress test,$266.00,SC
+Grand Strand Regional Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$373.00,SC
+Grand Strand Regional Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$124.00,SC
+Grand Strand Regional Medical Center,Breast,HCPCS 77067,Mammogram Screening,"$1,030.00",SC
+Grand Strand Regional Medical Center,Breast,HCPCS 77066,Mammography of both breasts,"$1,331.00",SC
+Grand Strand Regional Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,988.00",SC
+Grand Strand Regional Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$2,944.00",SC
+Grand Strand Regional Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,352.00",SC
+Grand Strand Regional Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$4,115.00",SC
+Grand Strand Regional Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$5,448.00",SC
+Grand Strand Regional Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$3,517.00",SC
+Grand Strand Regional Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,944.00",SC
+Grand Strand Regional Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$3,517.00",SC
+Grand Strand Regional Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$5,448.00",SC
+Grand Strand Regional Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,281.00",SC
+Grand Strand Regional Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$4,525.00",SC
+Grand Strand Regional Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$3,982.00",SC
+Grand Strand Regional Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$4,747.00",SC
+Grand Strand Regional Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$5,671.00",SC
+Grand Strand Regional Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$7,047.00",SC
+Grand Strand Regional Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$6,863.00",SC
+Grand Strand Regional Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$6,863.00",SC
+Grand Strand Regional Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$6,863.00",SC
+Grand Strand Regional Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$10,940.00",SC
+Grand Strand Regional Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$11,391.00",SC
+Grand Strand Regional Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$7,756.00",SC
+Grand Strand Regional Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$7,344.00",SC
+Grand Strand Regional Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$2,152.00",SC
+Grand Strand Regional Medical Center,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$749.00,SC
+Grand Strand Regional Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,364.00",SC
+Grand Strand Regional Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,126.00",SC
+Grand Strand Regional Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$2,153.00",SC
+Grand Strand Regional Medical Center,Ultrasound,HCPCS 76881,Ultrasound Joint Soft Tissue - Complete,"$1,162.00",SC
+Grand Strand Regional Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$2,419.00",SC
+Grand Strand Regional Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,089.00",SC
+Grand Strand Regional Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,"$1,234.00",SC
+Grand Strand Regional Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,811.00",SC
+Grand Strand Regional Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$936.00,SC
+Grand Strand Regional Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$777.00,SC
+Grand Strand Regional Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$516.00,SC
+Grand Strand Regional Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$160.00,SC
+Grand Strand Regional Medical Center,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$743.00,SC
+Grand Strand Regional Medical Center,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$688.00,SC
+Grand Strand Regional Medical Center,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$690.00,SC
+Grand Strand Regional Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$923.00,SC
+Grand Strand Regional Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$697.00,SC
+Grand Strand Regional Medical Center,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$496.00,SC
+Grand Strand Regional Medical Center,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$963.00,SC
+Grand Strand Regional Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$688.00,SC
+Grand Strand Regional Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$688.00,SC
+Grand Strand Regional Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$444.00,SC
+Grand Strand Regional Medical Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$805.00,SC
+Grand Strand Regional Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$982.00,SC
+Grand Strand Regional Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$496.00,SC
+Grand Strand Regional Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$851.00,SC
+Grand Strand Regional Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$697.00,SC
+Grand Strand Regional Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$924.00,SC
+Grand Strand Regional Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$697.00,SC
+Grand Strand Regional Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot","$1,517.00",SC
+Grand Strand Regional Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,"$1,045.00",SC
+Grand Strand Regional Medical Center,Soft Tissue,HCPCS 97602,Non-selective debridement,$572.00,SC
+Grand Strand Regional Medical Center,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$2,969.00",SC
+Grand Strand Regional Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$2,021.00",SC

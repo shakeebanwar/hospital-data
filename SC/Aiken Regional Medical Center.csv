@@ -1,0 +1,272 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Aiken Regional Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$582.04,SC
+Aiken Regional Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,619.87",SC
+Aiken Regional Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$90.26,SC
+Aiken Regional Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$192.87,SC
+Aiken Regional Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$369.98,SC
+Aiken Regional Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,$651.47,SC
+Aiken Regional Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,063.54",SC
+Aiken Regional Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$96.41,SC
+Aiken Regional Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$86.46,SC
+Aiken Regional Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$144.42,SC
+Aiken Regional Medical Center,Psychology,HCPCS 90853,Group psychotherapy,$668.96,SC
+Aiken Regional Medical Center,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$164.72,SC
+Aiken Regional Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$178.59,SC
+Aiken Regional Medical Center,Speech,HCPCS 92507,Speech Therapy,$118.96,SC
+Aiken Regional Medical Center,Speech,HCPCS 92610,Swallow Evaluation,$164.64,SC
+Aiken Regional Medical Center,Speech,HCPCS 92526,Swallow Treatment,$64.64,SC
+Aiken Regional Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$39.18,SC
+Aiken Regional Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$40.53,SC
+Aiken Regional Medical Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$46.85,SC
+Aiken Regional Medical Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$153.49,SC
+Aiken Regional Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$89.22,SC
+Aiken Regional Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$103.51,SC
+Aiken Regional Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$101.75,SC
+Aiken Regional Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$86.34,SC
+Aiken Regional Medical Center,Blood,HCPCS 85660,Red blood cell sickling measurement,$69.06,SC
+Aiken Regional Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$390.74,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$37.96,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$102.41,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 82140,Ammonia level,$85.86,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$115.20,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$263.87,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$236.93,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$54.81,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$67.17,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$57.29,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$69.37,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$65.08,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 84132,Blood potassium level,$58.24,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$71.16,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$50.16,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$168.76,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 82310,Calcium level,$24.30,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$139.01,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$90.03,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$97.60,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$100.17,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$83.94,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$133.32,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$96.83,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$133.38,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$91.94,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$121.62,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, chorionic (reproductive hormone) level",$109.01,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$129.51,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 83520,IgE (immune system protein) level,$188.88,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$98.00,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$147.96,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$102.08,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 83540,Iron level,$86.26,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$66.43,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$109.98,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$62.20,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$133.20,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 83021,Liver function blood test panel,$97.78,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$73.35,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 82542,Mass spectrometry,$101.53,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$80.63,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 83970,Parathormone,$125.32,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$95.76,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$194.83,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$77.00,SC
+Aiken Regional Medical Center,Chemistry,HCPCS A9270,Selenium (vitamin) level,$18.06,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$140.18,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$218.79,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$79.53,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$82.37,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$91.20,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$43.84,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$49.28,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$65.52,SC
+Aiken Regional Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$114.83,SC
+Aiken Regional Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$215.60,SC
+Aiken Regional Medical Center,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$80.40,SC
+Aiken Regional Medical Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$84.40,SC
+Aiken Regional Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$198.82,SC
+Aiken Regional Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$128.22,SC
+Aiken Regional Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$82.25,SC
+Aiken Regional Medical Center,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$44.24,SC
+Aiken Regional Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$104.48,SC
+Aiken Regional Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$251.55,SC
+Aiken Regional Medical Center,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$143.58,SC
+Aiken Regional Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$57.60,SC
+Aiken Regional Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$76.26,SC
+Aiken Regional Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$121.75,SC
+Aiken Regional Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$132.38,SC
+Aiken Regional Medical Center,Immunology,HCPCS 86580,Skin test for tuberculosis,$14.00,SC
+Aiken Regional Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$46.68,SC
+Aiken Regional Medical Center,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$72.43,SC
+Aiken Regional Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$119.62,SC
+Aiken Regional Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$144.34,SC
+Aiken Regional Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$227.61,SC
+Aiken Regional Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$32.20,SC
+Aiken Regional Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$191.85,SC
+Aiken Regional Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$73.20,SC
+Aiken Regional Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$53.95,SC
+Aiken Regional Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$203.57,SC
+Aiken Regional Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$89.87,SC
+Aiken Regional Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$117.81,SC
+Aiken Regional Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$147.96,SC
+Aiken Regional Medical Center,Microbiology,HCPCS 87045,Stool Culture,$133.43,SC
+Aiken Regional Medical Center,Microbiology,HCPCS 87880,Strep Test,$21.16,SC
+Aiken Regional Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$29.44,SC
+Aiken Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$290.05,SC
+Aiken Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$141.50,SC
+Aiken Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$323.43,SC
+Aiken Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$139.09,SC
+Aiken Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$183.12,SC
+Aiken Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$162.72,SC
+Aiken Regional Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$87.65,SC
+Aiken Regional Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$110.51,SC
+Aiken Regional Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$46.40,SC
+Aiken Regional Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$98.46,SC
+Aiken Regional Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$99.40,SC
+Aiken Regional Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$87.76,SC
+Aiken Regional Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$110.16,SC
+Aiken Regional Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$136.82,SC
+Aiken Regional Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$73.60,SC
+Aiken Regional Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$62.05,SC
+Aiken Regional Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$220.76,SC
+Aiken Regional Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$123.11,SC
+Aiken Regional Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$34.93,SC
+Aiken Regional Medical Center,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$24.25,SC
+Aiken Regional Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$80.94,SC
+Aiken Regional Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$90.71,SC
+Aiken Regional Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$236.05,SC
+Aiken Regional Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$271.60,SC
+Aiken Regional Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,$817.18,SC
+Aiken Regional Medical Center,Pulmonary,HCPCS 94640,Aerosol Treatment,$96.46,SC
+Aiken Regional Medical Center,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$258.34,SC
+Aiken Regional Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$330.83,SC
+Aiken Regional Medical Center,Sleep,HCPCS 95810,Sleep study,"$1,662.12",SC
+Aiken Regional Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$15.28,SC
+Aiken Regional Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$227.68,SC
+Aiken Regional Medical Center,Breast,HCPCS 77067,Mammogram Screening,$253.13,SC
+Aiken Regional Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$295.97,SC
+Aiken Regional Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,116.89",SC
+Aiken Regional Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,532.50",SC
+Aiken Regional Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,444.63",SC
+Aiken Regional Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,341.22",SC
+Aiken Regional Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$5,423.86",SC
+Aiken Regional Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$3,477.05",SC
+Aiken Regional Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$3,148.82",SC
+Aiken Regional Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,754.96",SC
+Aiken Regional Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$3,312.45",SC
+Aiken Regional Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$2,043.97",SC
+Aiken Regional Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,854.70",SC
+Aiken Regional Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,715.22",SC
+Aiken Regional Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,547.48",SC
+Aiken Regional Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,560.26",SC
+Aiken Regional Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,256.33",SC
+Aiken Regional Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,409.11",SC
+Aiken Regional Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$3,150.05",SC
+Aiken Regional Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,269.64",SC
+Aiken Regional Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$3,372.40",SC
+Aiken Regional Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,411.09",SC
+Aiken Regional Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,047.06",SC
+Aiken Regional Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,577.08",SC
+Aiken Regional Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,412.82",SC
+Aiken Regional Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$2,424.26",SC
+Aiken Regional Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$452.53,SC
+Aiken Regional Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$346.95,SC
+Aiken Regional Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$407.20,SC
+Aiken Regional Medical Center,Ultrasound,HCPCS 76881,Ultrasound Joint Soft Tissue - Complete,$484.90,SC
+Aiken Regional Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$801.78,SC
+Aiken Regional Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$620.32,SC
+Aiken Regional Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$579.68,SC
+Aiken Regional Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$438.06,SC
+Aiken Regional Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$444.92,SC
+Aiken Regional Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$227.48,SC
+Aiken Regional Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$215.39,SC
+Aiken Regional Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$320.32,SC
+Aiken Regional Medical Center,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$240.44,SC
+Aiken Regional Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$219.70,SC
+Aiken Regional Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$245.64,SC
+Aiken Regional Medical Center,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$453.20,SC
+Aiken Regional Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$386.09,SC
+Aiken Regional Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$255.89,SC
+Aiken Regional Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$251.74,SC
+Aiken Regional Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$235.60,SC
+Aiken Regional Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$268.94,SC
+Aiken Regional Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$256.85,SC
+Aiken Regional Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$291.76,SC
+Aiken Regional Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$225.68,SC
+Aiken Regional Medical Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$247.47,SC
+Aiken Regional Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$250.80,SC
+Aiken Regional Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$340.96,SC
+Aiken Regional Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$292.96,SC
+Aiken Regional Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$298.46,SC
+Aiken Regional Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$355.23,SC
+Aiken Regional Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$434.79,SC
+Aiken Regional Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$268.38,SC
+Aiken Regional Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$223.55,SC
+Aiken Regional Medical Center,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$259.86,SC
+Aiken Regional Medical Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$246.77,SC
+Aiken Regional Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$252.94,SC
+Aiken Regional Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$294.16,SC
+Aiken Regional Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$282.66,SC
+Aiken Regional Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$268.50,SC
+Aiken Regional Medical Center,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$21,962.96",SC
+Aiken Regional Medical Center,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$2,145.02",SC
+Aiken Regional Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$10,570.35",SC
+Aiken Regional Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$10,449.09",SC
+Aiken Regional Medical Center,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,"$3,708.24",SC
+Aiken Regional Medical Center,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$4,005.45",SC
+Aiken Regional Medical Center,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$3,588.99",SC
+Aiken Regional Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$8,277.03",SC
+Aiken Regional Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$379.43,SC
+Aiken Regional Medical Center,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$29,080.24",SC
+Aiken Regional Medical Center,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,"$6,637.34",SC
+Aiken Regional Medical Center,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$10,127.66",SC
+Aiken Regional Medical Center,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$3,849.96",SC
+Aiken Regional Medical Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$11,352.47",SC
+Aiken Regional Medical Center,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$12,377.67",SC
+Aiken Regional Medical Center,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$11,848.45",SC
+Aiken Regional Medical Center,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$7,600.62",SC
+Aiken Regional Medical Center,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$8,796.34",SC
+Aiken Regional Medical Center,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$6,350.57",SC
+Aiken Regional Medical Center,Breast,HCPCS 19125,Excision of breast lesion,"$4,215.17",SC
+Aiken Regional Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$4,584.20",SC
+Aiken Regional Medical Center,Breast,HCPCS 19301,Partial removal of breast,"$5,212.90",SC
+Aiken Regional Medical Center,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$8,180.21",SC
+Aiken Regional Medical Center,Breast,HCPCS 19303,Total removal of breast,"$6,884.56",SC
+Aiken Regional Medical Center,Cardiac,MSDRG 216,Cardiac valve procedure,"$275,157.05",SC
+Aiken Regional Medical Center,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$161,371.75",SC
+Aiken Regional Medical Center,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$148,772.62",SC
+Aiken Regional Medical Center,Cardiac,MSDRG 247,Implant drug-eluting stent,"$46,486.82",SC
+Aiken Regional Medical Center,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$37,904.50",SC
+Aiken Regional Medical Center,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$7,945.17",SC
+Aiken Regional Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,858.06",SC
+Aiken Regional Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$2,104.81",SC
+Aiken Regional Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,992.94",SC
+Aiken Regional Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,997.34",SC
+Aiken Regional Medical Center,Digestive,HCPCS 43235,EGD,"$1,841.95",SC
+Aiken Regional Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$1,989.38",SC
+Aiken Regional Medical Center,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$4,881.64",SC
+Aiken Regional Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$26,259.56",SC
+Aiken Regional Medical Center,General,HCPCS 55700,Biopsy of prostate gland,"$1,898.90",SC
+Aiken Regional Medical Center,General,HCPCS 10060,Drainage of Abscess,$863.76,SC
+Aiken Regional Medical Center,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple","$1,833.78",SC
+Aiken Regional Medical Center,General,HCPCS 55866,Prostatectomy,"$11,677.86",SC
+Aiken Regional Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$254.34,SC
+Aiken Regional Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$246.11,SC
+Aiken Regional Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$247.26,SC
+Aiken Regional Medical Center,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$69,151.60",SC
+Aiken Regional Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$35,510.80",SC
+Aiken Regional Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$8,368.01",SC
+Aiken Regional Medical Center,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,"$5,932.76",SC
+Aiken Regional Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$5,226.69",SC
+Aiken Regional Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$36,520.28",SC
+Aiken Regional Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$72,099.03",SC
+Aiken Regional Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$145.84,SC
+Aiken Regional Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$6,741.38",SC
+Aiken Regional Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$16,221.01",SC
+Aiken Regional Medical Center,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$9,187.65",SC
+Aiken Regional Medical Center,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$9,381.69",SC
+Aiken Regional Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$9,808.37",SC
+Aiken Regional Medical Center,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries","$8,084.37",SC
+Aiken Regional Medical Center,Ocular,HCPCS 66984,Cataract removal,"$2,229.92",SC
+Aiken Regional Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$272.09,SC
+Aiken Regional Medical Center,Vascular,HCPCS 36416,Collection of capillary blood specimen,$45.02,SC
+Aiken Regional Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$385.65,SC
