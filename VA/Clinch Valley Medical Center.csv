@@ -1,0 +1,341 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Clinch Valley Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$203.28,VA
+Clinch Valley Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$332.00,VA
+Clinch Valley Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$526.95,VA
+Clinch Valley Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,$840.44,VA
+Clinch Valley Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,250.70",VA
+Clinch Valley Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$262.55,VA
+Clinch Valley Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$422.76,VA
+Clinch Valley Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$224.58,VA
+Clinch Valley Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$242.18,VA
+Clinch Valley Medical Center,Speech,HCPCS 92507,Speech Therapy,$199.11,VA
+Clinch Valley Medical Center,Speech,HCPCS 92610,Swallow Evaluation,$191.24,VA
+Clinch Valley Medical Center,Speech,HCPCS 92526,Swallow Treatment,$187.07,VA
+Clinch Valley Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$49.08,VA
+Clinch Valley Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$49.08,VA
+Clinch Valley Medical Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$131.04,VA
+Clinch Valley Medical Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$105.11,VA
+Clinch Valley Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$33.80,VA
+Clinch Valley Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$54.18,VA
+Clinch Valley Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$116.69,VA
+Clinch Valley Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$111.60,VA
+Clinch Valley Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$26.86,VA
+Clinch Valley Medical Center,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$111.13,VA
+Clinch Valley Medical Center,Blood,HCPCS 85660,Red blood cell sickling measurement,$15.74,VA
+Clinch Valley Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$218.56,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$211.61,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$248.66,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$139.84,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$201.89,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$204.67,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 82140,Ammonia level,$98.17,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$168.09,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$140.77,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$238.47,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$53.25,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$245.42,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$191.24,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$154.66,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$65.29,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$131.04,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$129.19,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$71.77,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$90.76,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 82310,Calcium level,$74.09,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,"$1,246.53",VA
+Clinch Valley Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$114.84,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 82465,Cholesterol level,$67.14,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 82525,Copper level,$123.64,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$88.44,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$473.24,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$183.83,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$333.86,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$674.20,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$194.94,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$195.87,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$226.90,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$111.60,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$191.24,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$57.42,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$170.86,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$176.42,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 83718,HDL cholesterol level,$174.57,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$213.46,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$170.86,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$31.02,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$94.46,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$94.46,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$139.84,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 83540,Iron level,$40.75,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$154.20,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 83721,LDL cholesterol level,$31.49,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$166.70,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$111.60,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$175.50,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 83021,Liver function blood test panel,$62.05,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$99.10,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 82542,Mass spectrometry,$351.00,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$66.68,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$62.98,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 83918,Organic acid level,$429.71,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 83945,Oxalate level,$111.13,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 83970,Parathormone,$283.85,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$162.99,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$54.64,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$155.12,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$533.43,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$220.87,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$81.50,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$88.44,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$57.42,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$98.17,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$216.24,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$474.62,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$95.39,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$104.18,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 84478,Triglycerides level,$162.99,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$46.30,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 84560,Uric acid level,$77.79,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$162.99,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$105.58,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 82436,Urine chloride level,$103.72,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$46.77,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$21.30,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$158.36,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$66.22,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$65.29,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$245.42,VA
+Clinch Valley Medical Center,Chemistry,HCPCS 84630,Zinc level,$233.84,VA
+Clinch Valley Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$357.94,VA
+Clinch Valley Medical Center,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$72.70,VA
+Clinch Valley Medical Center,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$234.77,VA
+Clinch Valley Medical Center,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$49.08,VA
+Clinch Valley Medical Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$220.87,VA
+Clinch Valley Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$416.74,VA
+Clinch Valley Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$243.57,VA
+Clinch Valley Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$66.68,VA
+Clinch Valley Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$66.68,VA
+Clinch Valley Medical Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$7.41,VA
+Clinch Valley Medical Center,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$94.00,VA
+Clinch Valley Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$42.60,VA
+Clinch Valley Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$503.81,VA
+Clinch Valley Medical Center,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$133.36,VA
+Clinch Valley Medical Center,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$72.70,VA
+Clinch Valley Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$104.18,VA
+Clinch Valley Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$35.65,VA
+Clinch Valley Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$10.19,VA
+Clinch Valley Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$194.02,VA
+Clinch Valley Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$89.37,VA
+Clinch Valley Medical Center,Immunology,HCPCS 86361,T cell count and ratio,$130.12,VA
+Clinch Valley Medical Center,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$154.20,VA
+Clinch Valley Medical Center,Immunology,HCPCS 86359,"T cells count, total",$30.56,VA
+Clinch Valley Medical Center,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$13.43,VA
+Clinch Valley Medical Center,Immunology,HCPCS 86580,Tuberculosis Test,$25.47,VA
+Clinch Valley Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$134.75,VA
+Clinch Valley Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$51.40,VA
+Clinch Valley Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$43.06,VA
+Clinch Valley Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$80.57,VA
+Clinch Valley Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$183.83,VA
+Clinch Valley Medical Center,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$93.07,VA
+Clinch Valley Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$72.24,VA
+Clinch Valley Medical Center,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$173.64,VA
+Clinch Valley Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$43.06,VA
+Clinch Valley Medical Center,Microbiology,HCPCS 87517,Hepatitis B Detection,$218.56,VA
+Clinch Valley Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$78.26,VA
+Clinch Valley Medical Center,Microbiology,HCPCS 87624,HPV Detection,$386.18,VA
+Clinch Valley Medical Center,Microbiology,HCPCS 86735,Mumps virus antibody test,$26.86,VA
+Clinch Valley Medical Center,Microbiology,HCPCS 86747,Parvovirus antibody test,$668.65,VA
+Clinch Valley Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$37.04,VA
+Clinch Valley Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$20.84,VA
+Clinch Valley Medical Center,Microbiology,HCPCS 87207,Smear for infectious agents,$111.13,VA
+Clinch Valley Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$79.64,VA
+Clinch Valley Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$117.15,VA
+Clinch Valley Medical Center,Microbiology,HCPCS 87045,Stool Culture,$185.22,VA
+Clinch Valley Medical Center,Microbiology,HCPCS 87880,Streptoccus,$49.55,VA
+Clinch Valley Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$115.30,VA
+Clinch Valley Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$46.30,VA
+Clinch Valley Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$108.82,VA
+Clinch Valley Medical Center,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$128.26,VA
+Clinch Valley Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$200.96,VA
+Clinch Valley Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$219.49,VA
+Clinch Valley Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$161.14,VA
+Clinch Valley Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$113.91,VA
+Clinch Valley Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$132.90,VA
+Clinch Valley Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$386.65,VA
+Clinch Valley Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$46.77,VA
+Clinch Valley Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$94.00,VA
+Clinch Valley Medical Center,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$87.52,VA
+Clinch Valley Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$67.14,VA
+Clinch Valley Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$522.78,VA
+Clinch Valley Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$12.04,VA
+Clinch Valley Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$170.86,VA
+Clinch Valley Medical Center,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$201.89,VA
+Clinch Valley Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$152.34,VA
+Clinch Valley Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$163.92,VA
+Clinch Valley Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$155.12,VA
+Clinch Valley Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$74.09,VA
+Clinch Valley Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$30.56,VA
+Clinch Valley Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$67.14,VA
+Clinch Valley Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$348.21,VA
+Clinch Valley Medical Center,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$275.98,VA
+Clinch Valley Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$76.87,VA
+Clinch Valley Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$76.40,VA
+Clinch Valley Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$92.15,VA
+Clinch Valley Medical Center,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$18.06,VA
+Clinch Valley Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$153.73,VA
+Clinch Valley Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$117.15,VA
+Clinch Valley Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$818.67,VA
+Clinch Valley Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$170.86,VA
+Clinch Valley Medical Center,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$55.10,VA
+Clinch Valley Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$341.27,VA
+Clinch Valley Medical Center,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$191.24,VA
+Clinch Valley Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,$410.26,VA
+Clinch Valley Medical Center,Pulmonary,HCPCS 94618,Pulmonary stress test,$81.50,VA
+Clinch Valley Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$166.24,VA
+Clinch Valley Medical Center,Sleep,HCPCS 95810,Sleep study,"$1,739.22",VA
+Clinch Valley Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$42.00,VA
+Clinch Valley Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$247.73,VA
+Clinch Valley Medical Center,Breast,HCPCS 77067,Mammogram Screening,$286.63,VA
+Clinch Valley Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$367.20,VA
+Clinch Valley Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,001.12",VA
+Clinch Valley Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,495.19",VA
+Clinch Valley Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,409.99",VA
+Clinch Valley Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,945.74",VA
+Clinch Valley Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$5,191.26",VA
+Clinch Valley Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$3,521.03",VA
+Clinch Valley Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$3,053.35",VA
+Clinch Valley Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,936.01",VA
+Clinch Valley Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$3,128.83",VA
+Clinch Valley Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,183.56",VA
+Clinch Valley Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,139.56",VA
+Clinch Valley Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,586.41",VA
+Clinch Valley Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,403.04",VA
+Clinch Valley Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,514.64",VA
+Clinch Valley Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,014.73",VA
+Clinch Valley Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,970.00",VA
+Clinch Valley Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$5,940.47",VA
+Clinch Valley Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,656.52",VA
+Clinch Valley Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$5,590.40",VA
+Clinch Valley Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,313.40",VA
+Clinch Valley Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,536.12",VA
+Clinch Valley Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$4,115.13",VA
+Clinch Valley Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,877.67",VA
+Clinch Valley Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$2,536.12",VA
+Clinch Valley Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$874.70,VA
+Clinch Valley Medical Center,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$251.90,VA
+Clinch Valley Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$314.41,VA
+Clinch Valley Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$833.95,VA
+Clinch Valley Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$584.37,VA
+Clinch Valley Medical Center,Ultrasound,HCPCS 76881,Ultrasound Joint Soft Tissue - Complete,$398.22,VA
+Clinch Valley Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$978.89,VA
+Clinch Valley Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$839.51,VA
+Clinch Valley Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$129.19,VA
+Clinch Valley Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$822.84,VA
+Clinch Valley Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$756.16,VA
+Clinch Valley Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$657.07,VA
+Clinch Valley Medical Center,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$381.09,VA
+Clinch Valley Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$310.24,VA
+Clinch Valley Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$117.62,VA
+Clinch Valley Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$398.22,VA
+Clinch Valley Medical Center,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$315.80,VA
+Clinch Valley Medical Center,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$182.44,VA
+Clinch Valley Medical Center,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$285.70,VA
+Clinch Valley Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$476.94,VA
+Clinch Valley Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$325.52,VA
+Clinch Valley Medical Center,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$387.57,VA
+Clinch Valley Medical Center,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$362.57,VA
+Clinch Valley Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$268.11,VA
+Clinch Valley Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$234.30,VA
+Clinch Valley Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$320.43,VA
+Clinch Valley Medical Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$223.19,VA
+Clinch Valley Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$381.09,VA
+Clinch Valley Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$410.73,VA
+Clinch Valley Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$231.99,VA
+Clinch Valley Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$377.85,VA
+Clinch Valley Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$469.54,VA
+Clinch Valley Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$288.94,VA
+Clinch Valley Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$357.01,VA
+Clinch Valley Medical Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$315.80,VA
+Clinch Valley Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$313.95,VA
+Clinch Valley Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$444.99,VA
+Clinch Valley Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$396.83,VA
+Clinch Valley Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$746.44,VA
+Clinch Valley Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$412.58,VA
+Clinch Valley Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$795.98,VA
+Clinch Valley Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$376.92,VA
+Clinch Valley Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$373.68,VA
+Clinch Valley Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$320.89,VA
+Clinch Valley Medical Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$304.69,VA
+Clinch Valley Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$382.94,VA
+Clinch Valley Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$406.09,VA
+Clinch Valley Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$375.07,VA
+Clinch Valley Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$353.77,VA
+Clinch Valley Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$380.63,VA
+Clinch Valley Medical Center,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$17,272.64",VA
+Clinch Valley Medical Center,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$3,853.00",VA
+Clinch Valley Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$9,837.22",VA
+Clinch Valley Medical Center,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$6,961.70",VA
+Clinch Valley Medical Center,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$3,451.92",VA
+Clinch Valley Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$12,260.06",VA
+Clinch Valley Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$385.42,VA
+Clinch Valley Medical Center,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$255.62,VA
+Clinch Valley Medical Center,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$17,283.55",VA
+Clinch Valley Medical Center,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$9,970.41",VA
+Clinch Valley Medical Center,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$12,089.95",VA
+Clinch Valley Medical Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$12,887.26",VA
+Clinch Valley Medical Center,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$18,992.19",VA
+Clinch Valley Medical Center,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$11,334.37",VA
+Clinch Valley Medical Center,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$13,471.51",VA
+Clinch Valley Medical Center,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$8,275.75",VA
+Clinch Valley Medical Center,Breast,HCPCS 19101,Biopsy of breast,"$2,991.36",VA
+Clinch Valley Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,$100.96,VA
+Clinch Valley Medical Center,Breast,HCPCS 19301,Partial removal of breast,"$7,376.18",VA
+Clinch Valley Medical Center,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$17,697.41",VA
+Clinch Valley Medical Center,Breast,HCPCS 19303,Total removal of breast,"$9,803.12",VA
+Clinch Valley Medical Center,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$15,854.36",VA
+Clinch Valley Medical Center,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$4,926.39",VA
+Clinch Valley Medical Center,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$5,766.36",VA
+Clinch Valley Medical Center,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$347.75,VA
+Clinch Valley Medical Center,Cardiac,MSDRG 247,Implant drug-eluting stent,"$17,894.84",VA
+Clinch Valley Medical Center,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$15,600.44",VA
+Clinch Valley Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$2,222.93",VA
+Clinch Valley Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$2,746.23",VA
+Clinch Valley Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$3,960.73",VA
+Clinch Valley Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$2,507.29",VA
+Clinch Valley Medical Center,Digestive,HCPCS 43235,EGD,"$1,677.97",VA
+Clinch Valley Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$2,635.49",VA
+Clinch Valley Medical Center,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$6,041.32",VA
+Clinch Valley Medical Center,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$7,442.32",VA
+Clinch Valley Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$22,898.95",VA
+Clinch Valley Medical Center,General,HCPCS 55700,Biopsy of prostate gland,"$3,037.42",VA
+Clinch Valley Medical Center,General,HCPCS 10060,Drainage of Abscess,$441.44,VA
+Clinch Valley Medical Center,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple","$1,135.87",VA
+Clinch Valley Medical Center,General,HCPCS 69200,Removal of foreign body from ear canal,$606.66,VA
+Clinch Valley Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$462.74,VA
+Clinch Valley Medical Center,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),"$1,124.46",VA
+Clinch Valley Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$445.61,VA
+Clinch Valley Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$453.36,VA
+Clinch Valley Medical Center,Head,HCPCS 69436,Create eardrum opening,"$2,242.86",VA
+Clinch Valley Medical Center,Head,HCPCS 69631,Repair of eardrum,"$7,373.32",VA
+Clinch Valley Medical Center,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$4,466.07",VA
+Clinch Valley Medical Center,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$5,024.62",VA
+Clinch Valley Medical Center,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$469.08,VA
+Clinch Valley Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$1,824.89",VA
+Clinch Valley Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$866.83,VA
+Clinch Valley Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$38,063.87",VA
+Clinch Valley Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$7,575.66",VA
+Clinch Valley Medical Center,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$9,132.68",VA
+Clinch Valley Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$8,328.57",VA
+Clinch Valley Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$133.36,VA
+Clinch Valley Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$5,534.45",VA
+Clinch Valley Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$16,434.40",VA
+Clinch Valley Medical Center,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$7,945.90",VA
+Clinch Valley Medical Center,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$8,503.41",VA
+Clinch Valley Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$4,717.48",VA
+Clinch Valley Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$355.62,VA
+Clinch Valley Medical Center,Soft Tissue,HCPCS 97602,Non-selective debridement,$201.89,VA
+Clinch Valley Medical Center,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$89.37,VA
+Clinch Valley Medical Center,Vascular,HCPCS 36416,Collection of capillary blood specimen,$17.60,VA
+Clinch Valley Medical Center,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,298.26",VA
+Clinch Valley Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$359.33,VA
+Clinch Valley Medical Center,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,782.67",VA

@@ -1,0 +1,74 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Peacehealth Southwest Medical Center,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min","$8,515.00",WA
+Peacehealth Southwest Medical Center,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min","$8,515.00",WA
+Peacehealth Southwest Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,"$33,085.00",WA
+Peacehealth Southwest Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$27,755.00",WA
+Peacehealth Southwest Medical Center,Speech,HCPCS 92526,Swallow Treatment,"$31,785.00",WA
+Peacehealth Southwest Medical Center,Blood,HCPCS 85610,"Blood test, clotting time","$1,820.00",WA
+Peacehealth Southwest Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,"$2,015.00",WA
+Peacehealth Southwest Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated","$5,135.00",WA
+Peacehealth Southwest Medical Center,Blood,HCPCS 85027,"Complete blood count, automated","$4,225.00",WA
+Peacehealth Southwest Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)","$3,640.00",WA
+Peacehealth Southwest Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,"$3,380.00",WA
+Peacehealth Southwest Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,"$3,770.00",WA
+Peacehealth Southwest Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,"$3,380.00",WA
+Peacehealth Southwest Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,"$2,015.00",WA
+Peacehealth Southwest Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals","$2,015.00",WA
+Peacehealth Southwest Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)","$2,795.00",WA
+Peacehealth Southwest Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,"$2,015.00",WA
+Peacehealth Southwest Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,"$2,340.00",WA
+Peacehealth Southwest Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO","$1,365.00",WA
+Peacehealth Southwest Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$975.00,WA
+Peacehealth Southwest Medical Center,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test","$1,430.00",WA
+Peacehealth Southwest Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope","$2,795.00",WA
+Peacehealth Southwest Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$22,555.00",WA
+Peacehealth Southwest Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral","$40,040.00",WA
+Peacehealth Southwest Medical Center,Breast,HCPCS 77067,Mammogram Screening,"$42,315.00",WA
+Peacehealth Southwest Medical Center,Breast,HCPCS 77066,Mammography of both breasts,"$51,220.00",WA
+Peacehealth Southwest Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$102,895.00",WA
+Peacehealth Southwest Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$48,360.00",WA
+Peacehealth Southwest Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$48,360.00",WA
+Peacehealth Southwest Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$48,360.00",WA
+Peacehealth Southwest Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$118,300.00",WA
+Peacehealth Southwest Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$102,895.00",WA
+Peacehealth Southwest Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$99,840.00",WA
+Peacehealth Southwest Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$102,895.00",WA
+Peacehealth Southwest Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$118,300.00",WA
+Peacehealth Southwest Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$102,895.00",WA
+Peacehealth Southwest Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$48,360.00",WA
+Peacehealth Southwest Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$99,320.00",WA
+Peacehealth Southwest Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$102,505.00",WA
+Peacehealth Southwest Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$124,345.00",WA
+Peacehealth Southwest Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$247,065.00",WA
+Peacehealth Southwest Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$231,400.00",WA
+Peacehealth Southwest Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$124,345.00",WA
+Peacehealth Southwest Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$124,345.00",WA
+Peacehealth Southwest Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$37,050.00",WA
+Peacehealth Southwest Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$37,050.00",WA
+Peacehealth Southwest Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$42,640.00",WA
+Peacehealth Southwest Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$37,050.00",WA
+Peacehealth Southwest Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$27,365.00",WA
+Peacehealth Southwest Medical Center,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,"$154,616.14",WA
+Peacehealth Southwest Medical Center,Cardiac,MSDRG 216,Cardiac valve procedure,"$23,235.43",WA
+Peacehealth Southwest Medical Center,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$132,424.78",WA
+Peacehealth Southwest Medical Center,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$107,213.35",WA
+Peacehealth Southwest Medical Center,Cardiac,HCPCS 33249,Defibrillator complete system,"$7,592,390.00",WA
+Peacehealth Southwest Medical Center,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$788,125.00",WA
+Peacehealth Southwest Medical Center,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$905,190.00",WA
+Peacehealth Southwest Medical Center,Cardiac,MSDRG 247,Implant drug-eluting stent,"$98,292.62",WA
+Peacehealth Southwest Medical Center,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$2,309,190.00",WA
+Peacehealth Southwest Medical Center,Digestive,HCPCS 43235,EGD,"$210,470.00",WA
+Peacehealth Southwest Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$29,671.84",WA
+Peacehealth Southwest Medical Center,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$85,774.83",WA
+Peacehealth Southwest Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$252,265.00",WA
+Peacehealth Southwest Medical Center,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$164,385.00",WA
+Peacehealth Southwest Medical Center,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$189,085.00",WA
+Peacehealth Southwest Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$92,495.00",WA
+Peacehealth Southwest Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$35,756.25",WA
+Peacehealth Southwest Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$43,619.35",WA
+Peacehealth Southwest Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$83,995.91",WA
+Peacehealth Southwest Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$18,473.83",WA
+Peacehealth Southwest Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$12,083.66",WA
+Peacehealth Southwest Medical Center,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,"$50,570.00",WA
+Peacehealth Southwest Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$147,030.00",WA
+Peacehealth Southwest Medical Center,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$274,885.00",WA

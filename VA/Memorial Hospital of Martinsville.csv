@@ -1,0 +1,345 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Memorial Hospital of Martinsville,Emergency Care,HCPCS 99281,Emergency Level 1,$165.20,VA
+Memorial Hospital of Martinsville,Emergency Care,HCPCS 99282,Emergency Level 2,$250.40,VA
+Memorial Hospital of Martinsville,Emergency Care,HCPCS 99283,Emergency Level 3,$373.60,VA
+Memorial Hospital of Martinsville,Emergency Care,HCPCS 99284,Emergency Level 4,$642.80,VA
+Memorial Hospital of Martinsville,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,127.20",VA
+Memorial Hospital of Martinsville,Hospital,HCPCS 99218,Hospital Observation per Hour,$37.60,VA
+Memorial Hospital of Martinsville,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$391.20,VA
+Memorial Hospital of Martinsville,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$503.60,VA
+Memorial Hospital of Martinsville,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$268.40,VA
+Memorial Hospital of Martinsville,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$417.60,VA
+Memorial Hospital of Martinsville,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$586.00,VA
+Memorial Hospital of Martinsville,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$169.20,VA
+Memorial Hospital of Martinsville,Speech,HCPCS 92507,Speech Therapy,$121.60,VA
+Memorial Hospital of Martinsville,Speech,HCPCS 92610,Swallow Evaluation,$133.20,VA
+Memorial Hospital of Martinsville,Speech,HCPCS 92526,Swallow Treatment,$122.40,VA
+Memorial Hospital of Martinsville,Blood,HCPCS 85018,"Blood count, hemoglobin",$38.40,VA
+Memorial Hospital of Martinsville,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$33.60,VA
+Memorial Hospital of Martinsville,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$26.80,VA
+Memorial Hospital of Martinsville,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$69.60,VA
+Memorial Hospital of Martinsville,Blood,HCPCS 85610,"Blood test, clotting time",$18.80,VA
+Memorial Hospital of Martinsville,Blood,HCPCS 85730,Coagulation assessment blood test,$43.20,VA
+Memorial Hospital of Martinsville,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$50.40,VA
+Memorial Hospital of Martinsville,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$35.60,VA
+Memorial Hospital of Martinsville,Blood,HCPCS 85027,"Complete blood count, automated",$32.00,VA
+Memorial Hospital of Martinsville,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$27.60,VA
+Memorial Hospital of Martinsville,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$85.20,VA
+Memorial Hospital of Martinsville,Blood,HCPCS 85660,Red blood cell sickling measurement,$70.40,VA
+Memorial Hospital of Martinsville,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$388.00,VA
+Memorial Hospital of Martinsville,Blood,HCPCS 85041,"Red blood count, automated test",$15.60,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$32.40,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$214.00,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 82040,Albumin (protein) level,$24.40,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$73.20,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$90.80,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 82140,Ammonia level,$104.00,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 82150,Amylase (enzyme) level,$69.60,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$20.00,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$100.80,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 84439,Assay of free thyroxine,$39.60,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$24.00,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 82248,Bilirubin level (Direct),$24.40,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 82247,Bilirubin level (Total),$23.20,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 82565,Blood creatinine level,$34.40,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$24.40,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$20.80,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 84295,Blood sodium level,$22.00,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$23.20,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$56.00,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 82310,Calcium level,$23.20,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$26.40,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$53.20,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 82465,Cholesterol level,$34.80,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 82525,Copper level,$27.60,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 82533,Cortisol Measurement,$58.00,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 84681,C-peptide (protein) level,$26.00,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$34.80,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$112.80,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$211.20,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$52.80,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 82746,Folic acid; serum,$95.60,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$68.80,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$38.40,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$63.60,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$82.00,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$82.00,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$15.60,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 83718,HDL cholesterol level,$37.20,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$34.40,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$150.80,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$32.00,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 83525,Insulin Measurement; Total,$15.60,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 82330,Ionized Calcium,$87.20,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 83550,Iron Binding Capacity,$49.20,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 83540,Iron level,$34.40,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$24.00,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 83721,LDL cholesterol level,$52.40,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$69.60,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$34.80,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$22.40,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 83021,Liver function blood test panel,$63.60,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 83735,Magnesium Level,$35.20,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 82542,Mass spectrometry,$85.20,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$45.60,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$62.80,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 83918,Organic acid level,$80.40,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 83945,Oxalate level,$58.00,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 83970,Parathormone,$149.60,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$31.60,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 84157,Prealbumin (protein) level,$44.00,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$102.00,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$82.00,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$50.40,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 82270,Stool analysis for blood,$11.60,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 84403,Testosterone (hormone) level,$96.80,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 84402,Testosterone Level; Free,$144.00,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$44.00,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$79.20,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$28.40,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 84155,"Total protein level, blood",$44.00,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$44.00,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 84478,Triglycerides level,$34.80,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 84166,Troponin (protein) analysis,$55.60,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 84560,Uric acid level,$26.40,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 84550,"Uric acid level, blood",$32.80,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 82340,Urine calcium level,$44.00,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 82436,Urine chloride level,$32.80,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$24.40,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$39.20,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$79.20,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 84133,Urine potassium level,$32.80,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 84300,Urine sodium level,$31.60,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 84591,Vitamin B-6 level,$40.00,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$77.20,VA
+Memorial Hospital of Martinsville,Chemistry,HCPCS 84630,Zinc level,$14.40,VA
+Memorial Hospital of Martinsville,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$234.40,VA
+Memorial Hospital of Martinsville,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$17.60,VA
+Memorial Hospital of Martinsville,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$33.60,VA
+Memorial Hospital of Martinsville,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$35.60,VA
+Memorial Hospital of Martinsville,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$55.20,VA
+Memorial Hospital of Martinsville,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$131.20,VA
+Memorial Hospital of Martinsville,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$85.20,VA
+Memorial Hospital of Martinsville,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$78.40,VA
+Memorial Hospital of Martinsville,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$54.40,VA
+Memorial Hospital of Martinsville,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$592.80,VA
+Memorial Hospital of Martinsville,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$82.80,VA
+Memorial Hospital of Martinsville,Immunology,HCPCS 86140,Measurement C-reactive protein,$76.80,VA
+Memorial Hospital of Martinsville,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$728.00,VA
+Memorial Hospital of Martinsville,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$60.80,VA
+Memorial Hospital of Martinsville,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$94.40,VA
+Memorial Hospital of Martinsville,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$30.80,VA
+Memorial Hospital of Martinsville,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$100.00,VA
+Memorial Hospital of Martinsville,Immunology,HCPCS 86431,Rheumatoid factor level,$70.00,VA
+Memorial Hospital of Martinsville,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$64.80,VA
+Memorial Hospital of Martinsville,Immunology,HCPCS 86592,Syphilis Detection Test,$48.00,VA
+Memorial Hospital of Martinsville,Immunology,HCPCS 86361,T cell count and ratio,$386.40,VA
+Memorial Hospital of Martinsville,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$502.00,VA
+Memorial Hospital of Martinsville,Immunology,HCPCS 86359,"T cells count, total",$156.40,VA
+Memorial Hospital of Martinsville,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$116.40,VA
+Memorial Hospital of Martinsville,Immunology,HCPCS 86580,Tuberculosis Test,$30.40,VA
+Memorial Hospital of Martinsville,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$31.60,VA
+Memorial Hospital of Martinsville,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$106.80,VA
+Memorial Hospital of Martinsville,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$100.40,VA
+Memorial Hospital of Martinsville,Microbiology,HCPCS 87491,Chlamydia Test,$109.20,VA
+Memorial Hospital of Martinsville,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$102.40,VA
+Memorial Hospital of Martinsville,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$72.80,VA
+Memorial Hospital of Martinsville,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$156.00,VA
+Memorial Hospital of Martinsville,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$66.40,VA
+Memorial Hospital of Martinsville,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$206.40,VA
+Memorial Hospital of Martinsville,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$106.80,VA
+Memorial Hospital of Martinsville,Microbiology,HCPCS 87517,Hepatitis B Detection,$364.80,VA
+Memorial Hospital of Martinsville,Microbiology,HCPCS 87624,HPV Detection,$84.00,VA
+Memorial Hospital of Martinsville,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$35.60,VA
+Memorial Hospital of Martinsville,Microbiology,HCPCS 86735,Mumps virus antibody test,$22.40,VA
+Memorial Hospital of Martinsville,Microbiology,HCPCS 86747,Parvovirus antibody test,$114.00,VA
+Memorial Hospital of Martinsville,Microbiology,HCPCS 86762,Rubella virus antibody test,$106.80,VA
+Memorial Hospital of Martinsville,Microbiology,HCPCS 86765,Rubeola virus antibody test,$16.40,VA
+Memorial Hospital of Martinsville,Microbiology,HCPCS 87207,Smear for infectious agents,$31.20,VA
+Memorial Hospital of Martinsville,Microbiology,HCPCS 87177,Smear for Parasites,$104.80,VA
+Memorial Hospital of Martinsville,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$100.40,VA
+Memorial Hospital of Martinsville,Microbiology,HCPCS 87045,Stool Culture,$18.80,VA
+Memorial Hospital of Martinsville,Microbiology,HCPCS 87880,Streptoccus,$112.80,VA
+Memorial Hospital of Martinsville,Microbiology,HCPCS 87804,Test for Influenza Virus,$76.80,VA
+Memorial Hospital of Martinsville,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$34.80,VA
+Memorial Hospital of Martinsville,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$26.00,VA
+Memorial Hospital of Martinsville,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$222.80,VA
+Memorial Hospital of Martinsville,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$234.00,VA
+Memorial Hospital of Martinsville,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$33.20,VA
+Memorial Hospital of Martinsville,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$40.40,VA
+Memorial Hospital of Martinsville,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$60.80,VA
+Memorial Hospital of Martinsville,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$55.20,VA
+Memorial Hospital of Martinsville,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$37.60,VA
+Memorial Hospital of Martinsville,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$122.80,VA
+Memorial Hospital of Martinsville,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$74.40,VA
+Memorial Hospital of Martinsville,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$123.20,VA
+Memorial Hospital of Martinsville,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$27.60,VA
+Memorial Hospital of Martinsville,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$41.20,VA
+Memorial Hospital of Martinsville,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$33.60,VA
+Memorial Hospital of Martinsville,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$72.80,VA
+Memorial Hospital of Martinsville,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$24.40,VA
+Memorial Hospital of Martinsville,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$41.60,VA
+Memorial Hospital of Martinsville,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$17.60,VA
+Memorial Hospital of Martinsville,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$99.20,VA
+Memorial Hospital of Martinsville,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$24.40,VA
+Memorial Hospital of Martinsville,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$66.00,VA
+Memorial Hospital of Martinsville,Transfusion,HCPCS 86900,"Blood Typing, ABO",$18.80,VA
+Memorial Hospital of Martinsville,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$56.00,VA
+Memorial Hospital of Martinsville,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$172.00,VA
+Memorial Hospital of Martinsville,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$305.60,VA
+Memorial Hospital of Martinsville,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$42.00,VA
+Memorial Hospital of Martinsville,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$19.20,VA
+Memorial Hospital of Martinsville,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$89.60,VA
+Memorial Hospital of Martinsville,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$20.00,VA
+Memorial Hospital of Martinsville,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$40.40,VA
+Memorial Hospital of Martinsville,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$24.40,VA
+Memorial Hospital of Martinsville,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$46.00,VA
+Memorial Hospital of Martinsville,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$454.40,VA
+Memorial Hospital of Martinsville,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$73.60,VA
+Memorial Hospital of Martinsville,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$38.40,VA
+Memorial Hospital of Martinsville,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$329.20,VA
+Memorial Hospital of Martinsville,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),$133.60,VA
+Memorial Hospital of Martinsville,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$285.60,VA
+Memorial Hospital of Martinsville,Pulmonary,HCPCS 94640,Nebulizer Treatment,$58.00,VA
+Memorial Hospital of Martinsville,Pulmonary,HCPCS 94618,Pulmonary stress test,$297.60,VA
+Memorial Hospital of Martinsville,Pulmonary,HCPCS 94010,Spirometry - breathing test,$298.80,VA
+Memorial Hospital of Martinsville,Sleep,HCPCS 95810,Sleep study,"$1,286.00",VA
+Memorial Hospital of Martinsville,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$58.40,VA
+Memorial Hospital of Martinsville,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$202.40,VA
+Memorial Hospital of Martinsville,Breast,HCPCS 77067,Mammogram Screening,$291.20,VA
+Memorial Hospital of Martinsville,Breast,HCPCS 77066,Mammography of both breasts,$291.20,VA
+Memorial Hospital of Martinsville,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,090.40",VA
+Memorial Hospital of Martinsville,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$899.60,VA
+Memorial Hospital of Martinsville,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$960.00,VA
+Memorial Hospital of Martinsville,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$720.40,VA
+Memorial Hospital of Martinsville,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$2,244.80",VA
+Memorial Hospital of Martinsville,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,878.40",VA
+Memorial Hospital of Martinsville,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,639.60",VA
+Memorial Hospital of Martinsville,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,396.40",VA
+Memorial Hospital of Martinsville,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$2,237.60",VA
+Memorial Hospital of Martinsville,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,242.40",VA
+Memorial Hospital of Martinsville,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,092.00",VA
+Memorial Hospital of Martinsville,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,137.60",VA
+Memorial Hospital of Martinsville,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,702.00",VA
+Memorial Hospital of Martinsville,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,268.40",VA
+Memorial Hospital of Martinsville,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,236.80",VA
+Memorial Hospital of Martinsville,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,180.00",VA
+Memorial Hospital of Martinsville,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$4,200.00",VA
+Memorial Hospital of Martinsville,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,358.00",VA
+Memorial Hospital of Martinsville,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$4,778.80",VA
+Memorial Hospital of Martinsville,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,618.80",VA
+Memorial Hospital of Martinsville,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,432.40",VA
+Memorial Hospital of Martinsville,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,972.00",VA
+Memorial Hospital of Martinsville,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,616.00",VA
+Memorial Hospital of Martinsville,MRI,HCPCS 73721,MRI scan of leg joint,"$2,331.60",VA
+Memorial Hospital of Martinsville,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$518.80,VA
+Memorial Hospital of Martinsville,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$423.60,VA
+Memorial Hospital of Martinsville,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$442.00,VA
+Memorial Hospital of Martinsville,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$430.80,VA
+Memorial Hospital of Martinsville,Ultrasound,HCPCS 76881,Ultrasound Joint Soft Tissue - Complete,$505.60,VA
+Memorial Hospital of Martinsville,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$522.80,VA
+Memorial Hospital of Martinsville,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$304.80,VA
+Memorial Hospital of Martinsville,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$277.20,VA
+Memorial Hospital of Martinsville,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$415.60,VA
+Memorial Hospital of Martinsville,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$599.20,VA
+Memorial Hospital of Martinsville,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$315.20,VA
+Memorial Hospital of Martinsville,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$170.80,VA
+Memorial Hospital of Martinsville,Chest,HCPCS 71046,X-ray of chest; 2 Views,$208.00,VA
+Memorial Hospital of Martinsville,Chest,HCPCS 71045,X-ray of chest; Single View,$112.40,VA
+Memorial Hospital of Martinsville,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$173.20,VA
+Memorial Hospital of Martinsville,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$437.60,VA
+Memorial Hospital of Martinsville,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$114.00,VA
+Memorial Hospital of Martinsville,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$160.80,VA
+Memorial Hospital of Martinsville,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$228.80,VA
+Memorial Hospital of Martinsville,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$112.80,VA
+Memorial Hospital of Martinsville,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$133.60,VA
+Memorial Hospital of Martinsville,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$286.40,VA
+Memorial Hospital of Martinsville,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$198.40,VA
+Memorial Hospital of Martinsville,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$181.60,VA
+Memorial Hospital of Martinsville,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$219.60,VA
+Memorial Hospital of Martinsville,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$210.80,VA
+Memorial Hospital of Martinsville,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$335.20,VA
+Memorial Hospital of Martinsville,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$331.20,VA
+Memorial Hospital of Martinsville,Lower Limbs,HCPCS 73565,X-ray Both Knees,$128.40,VA
+Memorial Hospital of Martinsville,Lower Limbs,HCPCS 73630,X-ray exam of foot,$207.20,VA
+Memorial Hospital of Martinsville,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$200.80,VA
+Memorial Hospital of Martinsville,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$196.80,VA
+Memorial Hospital of Martinsville,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$162.00,VA
+Memorial Hospital of Martinsville,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$116.40,VA
+Memorial Hospital of Martinsville,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$142.40,VA
+Memorial Hospital of Martinsville,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$162.80,VA
+Memorial Hospital of Martinsville,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$181.60,VA
+Memorial Hospital of Martinsville,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$252.00,VA
+Memorial Hospital of Martinsville,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$238.00,VA
+Memorial Hospital of Martinsville,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$284.80,VA
+Memorial Hospital of Martinsville,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$228.00,VA
+Memorial Hospital of Martinsville,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$210.80,VA
+Memorial Hospital of Martinsville,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$272.80,VA
+Memorial Hospital of Martinsville,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$164.80,VA
+Memorial Hospital of Martinsville,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$163.20,VA
+Memorial Hospital of Martinsville,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$191.60,VA
+Memorial Hospital of Martinsville,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$174.00,VA
+Memorial Hospital of Martinsville,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$140.40,VA
+Memorial Hospital of Martinsville,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$186.80,VA
+Memorial Hospital of Martinsville,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$24,240.20",VA
+Memorial Hospital of Martinsville,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$9,142.40",VA
+Memorial Hospital of Martinsville,Abdomenal,HCPCS 47562,Cholecystectomy,"$9,832.40",VA
+Memorial Hospital of Martinsville,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$8,657.60",VA
+Memorial Hospital of Martinsville,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$5,229.60",VA
+Memorial Hospital of Martinsville,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$4,951.08",VA
+Memorial Hospital of Martinsville,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$116.00,VA
+Memorial Hospital of Martinsville,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$19,440.80",VA
+Memorial Hospital of Martinsville,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$14,120.24",VA
+Memorial Hospital of Martinsville,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$6,484.40",VA
+Memorial Hospital of Martinsville,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$14,087.60",VA
+Memorial Hospital of Martinsville,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$9,326.34",VA
+Memorial Hospital of Martinsville,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$3,471.88",VA
+Memorial Hospital of Martinsville,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$6,226.20",VA
+Memorial Hospital of Martinsville,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$4,536.60",VA
+Memorial Hospital of Martinsville,Breast,HCPCS 19101,Biopsy of breast,"$2,992.40",VA
+Memorial Hospital of Martinsville,Breast,HCPCS 19125,Excision of breast lesion,"$3,068.13",VA
+Memorial Hospital of Martinsville,Breast,HCPCS 19120,Excision of cyst of breast,"$5,062.00",VA
+Memorial Hospital of Martinsville,Breast,HCPCS 19301,Partial removal of breast,"$2,976.76",VA
+Memorial Hospital of Martinsville,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$11,585.58",VA
+Memorial Hospital of Martinsville,Breast,HCPCS 19303,Total removal of breast,"$7,558.80",VA
+Memorial Hospital of Martinsville,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$18,702.40",VA
+Memorial Hospital of Martinsville,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$241.20,VA
+Memorial Hospital of Martinsville,Cardiac,MSDRG 247,Implant drug-eluting stent,"$46,223.30",VA
+Memorial Hospital of Martinsville,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$14,983.33",VA
+Memorial Hospital of Martinsville,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,828.40",VA
+Memorial Hospital of Martinsville,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$2,578.00",VA
+Memorial Hospital of Martinsville,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,962.40",VA
+Memorial Hospital of Martinsville,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$2,035.20",VA
+Memorial Hospital of Martinsville,Digestive,HCPCS 43235,EGD,"$1,849.60",VA
+Memorial Hospital of Martinsville,Digestive,HCPCS 43239,EGD and biopsy,"$2,095.60",VA
+Memorial Hospital of Martinsville,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$6,243.20",VA
+Memorial Hospital of Martinsville,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$7,983.60",VA
+Memorial Hospital of Martinsville,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$15,306.46",VA
+Memorial Hospital of Martinsville,General,HCPCS 10060,Drainage of Abscess,"$1,598.00",VA
+Memorial Hospital of Martinsville,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple","$2,063.00",VA
+Memorial Hospital of Martinsville,General,HCPCS 69200,Removal of foreign body from ear canal,"$1,520.40",VA
+Memorial Hospital of Martinsville,General,HCPCS 60240,Removal of thyroid,"$12,426.37",VA
+Memorial Hospital of Martinsville,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$1,860.00",VA
+Memorial Hospital of Martinsville,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),"$1,664.00",VA
+Memorial Hospital of Martinsville,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$1,349.60",VA
+Memorial Hospital of Martinsville,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$1,360.60",VA
+Memorial Hospital of Martinsville,Head,HCPCS 69436,Create eardrum opening,"$5,073.14",VA
+Memorial Hospital of Martinsville,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$6,695.60",VA
+Memorial Hospital of Martinsville,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$6,420.80",VA
+Memorial Hospital of Martinsville,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$1,253.60",VA
+Memorial Hospital of Martinsville,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$1,681.62",VA
+Memorial Hospital of Martinsville,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$36,667.27",VA
+Memorial Hospital of Martinsville,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$3,296.97",VA
+Memorial Hospital of Martinsville,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$9,884.72",VA
+Memorial Hospital of Martinsville,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot","$1,591.20",VA
+Memorial Hospital of Martinsville,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$6,588.80",VA
+Memorial Hospital of Martinsville,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$13,094.60",VA
+Memorial Hospital of Martinsville,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$13,922.80",VA
+Memorial Hospital of Martinsville,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$10,084.80",VA
+Memorial Hospital of Martinsville,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$7,010.04",VA
+Memorial Hospital of Martinsville,Soft Tissue,HCPCS 97597,Debridement of open wound,"$1,724.00",VA
+Memorial Hospital of Martinsville,Soft Tissue,HCPCS 97602,Non-selective debridement,$86.40,VA
+Memorial Hospital of Martinsville,Vascular,HCPCS 36416,Collection of capillary blood specimen,$24.00,VA
+Memorial Hospital of Martinsville,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$2,995.60",VA
+Memorial Hospital of Martinsville,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$384.40,VA
+Memorial Hospital of Martinsville,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$3,820.00",VA

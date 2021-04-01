@@ -1,0 +1,235 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+St Anthony Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$6,170.90",WA
+St Anthony Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,"$2,256.45",WA
+St Anthony Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$2,256.45",WA
+St Anthony Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$2,256.45",WA
+St Anthony Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$2,256.45",WA
+St Anthony Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$2,256.45",WA
+St Anthony Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$126.47,WA
+St Anthony Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$126.47,WA
+St Anthony Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$126.47,WA
+St Anthony Hospital,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$97.69,WA
+St Anthony Hospital,Speech,HCPCS 92507,Speech Therapy,$69.09,WA
+St Anthony Hospital,Speech,HCPCS 92610,Swallow Evaluation,$75.35,WA
+St Anthony Hospital,Speech,HCPCS 92526,Swallow Treatment,$75.48,WA
+St Anthony Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$36.93,WA
+St Anthony Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$39.43,WA
+St Anthony Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$40.30,WA
+St Anthony Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$67.63,WA
+St Anthony Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$81.53,WA
+St Anthony Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$81.53,WA
+St Anthony Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$14.30,WA
+St Anthony Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$27.03,WA
+St Anthony Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$11.51,WA
+St Anthony Hospital,Chemistry,HCPCS 82140,Ammonia level,$91.99,WA
+St Anthony Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$88.77,WA
+St Anthony Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$15.73,WA
+St Anthony Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$98.04,WA
+St Anthony Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$56.36,WA
+St Anthony Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$20.94,WA
+St Anthony Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$27.79,WA
+St Anthony Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$42.14,WA
+St Anthony Hospital,Chemistry,HCPCS 84132,Blood potassium level,$24.81,WA
+St Anthony Hospital,Chemistry,HCPCS 84295,Blood sodium level,$28.17,WA
+St Anthony Hospital,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$30.52,WA
+St Anthony Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$70.35,WA
+St Anthony Hospital,Chemistry,HCPCS 82310,Calcium level,$78.80,WA
+St Anthony Hospital,Chemistry,HCPCS 82465,Cholesterol level,$32.38,WA
+St Anthony Hospital,Chemistry,HCPCS 82525,Copper level,$14.84,WA
+St Anthony Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$71.17,WA
+St Anthony Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$27.61,WA
+St Anthony Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$56.19,WA
+St Anthony Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$58.00,WA
+St Anthony Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$62.04,WA
+St Anthony Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$30.65,WA
+St Anthony Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$39.82,WA
+St Anthony Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$196.31,WA
+St Anthony Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$78.80,WA
+St Anthony Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$26.52,WA
+St Anthony Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$101.25,WA
+St Anthony Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$55.75,WA
+St Anthony Hospital,Chemistry,HCPCS 83735,Magnesium Level,$28.05,WA
+St Anthony Hospital,Chemistry,HCPCS 83970,Parathormone,$175.75,WA
+St Anthony Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$78.84,WA
+St Anthony Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$196.31,WA
+St Anthony Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$33.64,WA
+St Anthony Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$33.64,WA
+St Anthony Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$78.84,WA
+St Anthony Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$24.26,WA
+St Anthony Hospital,Chemistry,HCPCS 82340,Urine calcium level,$78.80,WA
+St Anthony Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$83.09,WA
+St Anthony Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$11.07,WA
+St Anthony Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$58.27,WA
+St Anthony Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$84.55,WA
+St Anthony Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$7.30,WA
+St Anthony Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$23.14,WA
+St Anthony Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$93.11,WA
+St Anthony Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$82.42,WA
+St Anthony Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$112.46,WA
+St Anthony Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$45.71,WA
+St Anthony Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$18.52,WA
+St Anthony Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$50.78,WA
+St Anthony Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$96.65,WA
+St Anthony Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$18.52,WA
+St Anthony Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$79.18,WA
+St Anthony Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$48.64,WA
+St Anthony Hospital,Microbiology,HCPCS 87045,Stool Culture,$125.25,WA
+St Anthony Hospital,Microbiology,HCPCS 87880,Strep Test,$50.02,WA
+St Anthony Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$46.73,WA
+St Anthony Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$11.99,WA
+St Anthony Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$16.01,WA
+St Anthony Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$194.14,WA
+St Anthony Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$72.58,WA
+St Anthony Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$81.04,WA
+St Anthony Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$128.06,WA
+St Anthony Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$93.90,WA
+St Anthony Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$73.17,WA
+St Anthony Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$483.52,WA
+St Anthony Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$51.99,WA
+St Anthony Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$11.24,WA
+St Anthony Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$63.43,WA
+St Anthony Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$224.19,WA
+St Anthony Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$58.43,WA
+St Anthony Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$43.29,WA
+St Anthony Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$43.29,WA
+St Anthony Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$234.12,WA
+St Anthony Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$49.17,WA
+St Anthony Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$49.17,WA
+St Anthony Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$26.33,WA
+St Anthony Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$1,589.61",WA
+St Anthony Hospital,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$247.10,WA
+St Anthony Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$247.10,WA
+St Anthony Hospital,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$1,053.57",WA
+St Anthony Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,$441.03,WA
+St Anthony Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,$358.23,WA
+St Anthony Hospital,Pulmonary,HCPCS 94618,Pulmonary stress test,$671.70,WA
+St Anthony Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$986.74,WA
+St Anthony Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$120.54,WA
+St Anthony Hospital,Breast,HCPCS 77067,Mammogram Screening,$102.31,WA
+St Anthony Hospital,Breast,HCPCS 77066,Mammography of both breasts,$120.54,WA
+St Anthony Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,939.74",WA
+St Anthony Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$286.84,WA
+St Anthony Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,570.89",WA
+St Anthony Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,207.82",WA
+St Anthony Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,522.61",WA
+St Anthony Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$3,522.61",WA
+St Anthony Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,522.08",WA
+St Anthony Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$439.90,WA
+St Anthony Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,$439.90,WA
+St Anthony Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,636.91",WA
+St Anthony Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$410.62,WA
+St Anthony Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,494.74",WA
+St Anthony Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,541.41",WA
+St Anthony Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)",$531.16,WA
+St Anthony Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,$614.36,WA
+St Anthony Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$614.36,WA
+St Anthony Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,$856.13,WA
+St Anthony Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,$614.36,WA
+St Anthony Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,$488.23,WA
+St Anthony Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$331.19,WA
+St Anthony Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,$655.14,WA
+St Anthony Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,447.86",WA
+St Anthony Hospital,MRI,HCPCS 73721,MRI scan of leg joint,$436.72,WA
+St Anthony Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$413.25,WA
+St Anthony Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$201.61,WA
+St Anthony Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$113.32,WA
+St Anthony Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$248.26,WA
+St Anthony Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$248.26,WA
+St Anthony Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$309.40,WA
+St Anthony Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$309.40,WA
+St Anthony Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$281.90,WA
+St Anthony Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$477.96,WA
+St Anthony Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$205.52,WA
+St Anthony Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$205.52,WA
+St Anthony Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$164.73,WA
+St Anthony Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$80.72,WA
+St Anthony Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$198.09,WA
+St Anthony Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$250.14,WA
+St Anthony Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$261.14,WA
+St Anthony Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$211.84,WA
+St Anthony Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$214.38,WA
+St Anthony Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$73.38,WA
+St Anthony Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$234.18,WA
+St Anthony Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$234.18,WA
+St Anthony Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$234.18,WA
+St Anthony Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$274.32,WA
+St Anthony Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$80.44,WA
+St Anthony Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$234.18,WA
+St Anthony Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$214.06,WA
+St Anthony Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$274.32,WA
+St Anthony Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$274.32,WA
+St Anthony Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$256.32,WA
+St Anthony Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$84.47,WA
+St Anthony Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$84.47,WA
+St Anthony Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$78.51,WA
+St Anthony Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$78.51,WA
+St Anthony Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$255.66,WA
+St Anthony Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$223.77,WA
+St Anthony Hospital,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$240.37,WA
+St Anthony Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$226.68,WA
+St Anthony Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$226.68,WA
+St Anthony Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$262.54,WA
+St Anthony Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$226.68,WA
+St Anthony Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$226.68,WA
+St Anthony Hospital,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$4,295.42",WA
+St Anthony Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$8,737.16",WA
+St Anthony Hospital,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$8,737.16",WA
+St Anthony Hospital,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,"$8,232.32",WA
+St Anthony Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$8,232.32",WA
+St Anthony Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$4,851.65",WA
+St Anthony Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$735.34,WA
+St Anthony Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$30,938.60",WA
+St Anthony Hospital,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,"$8,252.96",WA
+St Anthony Hospital,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$14,600.36",WA
+St Anthony Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$9,887.44",WA
+St Anthony Hospital,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$9,887.44",WA
+St Anthony Hospital,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$5,357.00",WA
+St Anthony Hospital,Breast,HCPCS 19125,Excision of breast lesion,"$3,728.32",WA
+St Anthony Hospital,Breast,HCPCS 19120,Excision of cyst of breast,"$3,728.32",WA
+St Anthony Hospital,Breast,HCPCS 19301,Partial removal of breast,"$5,727.07",WA
+St Anthony Hospital,Breast,HCPCS 19318,Reduction mammaplasty,"$16,742.38",WA
+St Anthony Hospital,Breast,HCPCS 19303,Total removal of breast,"$5,147.64",WA
+St Anthony Hospital,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$90,367.17",WA
+St Anthony Hospital,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$90,367.17",WA
+St Anthony Hospital,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$8,318.75",WA
+St Anthony Hospital,Cardiac,MSDRG 247,Implant drug-eluting stent,"$42,601.88",WA
+St Anthony Hospital,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$17,577.60",WA
+St Anthony Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,220.78",WA
+St Anthony Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,405.48",WA
+St Anthony Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,403.36",WA
+St Anthony Hospital,Digestive,HCPCS 43235,EGD,"$1,596.96",WA
+St Anthony Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$1,813.76",WA
+St Anthony Hospital,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$5,833.29",WA
+St Anthony Hospital,General,HCPCS 10060,Drainage of Abscess,"$1,350.31",WA
+St Anthony Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple","$1,988.36",WA
+St Anthony Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$591.36,WA
+St Anthony Hospital,General,HCPCS 60240,Removal of thyroid,"$10,526.43",WA
+St Anthony Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$3,153.23",WA
+St Anthony Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$3,153.23",WA
+St Anthony Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$3,153.23",WA
+St Anthony Hospital,Head,HCPCS 69436,Create eardrum opening,"$4,957.52",WA
+St Anthony Hospital,Head,HCPCS 69631,Repair of eardrum,"$10,283.76",WA
+St Anthony Hospital,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$4,046.64",WA
+St Anthony Hospital,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$2,662.51",WA
+St Anthony Hospital,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$97,897.36",WA
+St Anthony Hospital,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,"$1,690.53",WA
+St Anthony Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$971.64,WA
+St Anthony Hospital,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,$971.64,WA
+St Anthony Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$1,291.87",WA
+St Anthony Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$626.66,WA
+St Anthony Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$45,698.67",WA
+St Anthony Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$4,332.17",WA
+St Anthony Hospital,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$2,299.54",WA
+St Anthony Hospital,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$71,852.10",WA
+St Anthony Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$97,897.36",WA
+St Anthony Hospital,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$20,362.88",WA
+St Anthony Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$6,146.26",WA
+St Anthony Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$12,443.07",WA
+St Anthony Hospital,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$8,377.45",WA
+St Anthony Hospital,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$12,892.80",WA
+St Anthony Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$442.29,WA
+St Anthony Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$442.29,WA
+St Anthony Hospital,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$172.23,WA
+St Anthony Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$6,718.19",WA
+St Anthony Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$2,471.63",WA
+St Anthony Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,782.01",WA

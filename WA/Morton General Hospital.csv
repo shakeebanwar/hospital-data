@@ -1,0 +1,293 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Morton General Hospital,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$213.18,WA
+Morton General Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$2,850.00",WA
+Morton General Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$177.84,WA
+Morton General Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$326.04,WA
+Morton General Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$563.16,WA
+Morton General Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$889.20,WA
+Morton General Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,482.00",WA
+Morton General Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$342.00,WA
+Morton General Hospital,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$86.07,WA
+Morton General Hospital,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$153.90,WA
+Morton General Hospital,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$76.95,WA
+Morton General Hospital,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$94.62,WA
+Morton General Hospital,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$112.86,WA
+Morton General Hospital,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$108.30,WA
+Morton General Hospital,Speech,HCPCS 92507,Speech Therapy,$119.70,WA
+Morton General Hospital,Speech,HCPCS 92610,Swallow Evaluation,$296.40,WA
+Morton General Hospital,Speech,HCPCS 92526,Swallow Treatment,$228.00,WA
+Morton General Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$34.20,WA
+Morton General Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$34.20,WA
+Morton General Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$30.78,WA
+Morton General Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$20.52,WA
+Morton General Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$37.05,WA
+Morton General Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$57.57,WA
+Morton General Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$58.14,WA
+Morton General Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$49.02,WA
+Morton General Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$34.20,WA
+Morton General Hospital,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$163.59,WA
+Morton General Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$261.06,WA
+Morton General Hospital,Blood,HCPCS 85041,"Red blood count, automated test",$17.10,WA
+Morton General Hospital,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$85.50,WA
+Morton General Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$130.53,WA
+Morton General Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$31.92,WA
+Morton General Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$35.91,WA
+Morton General Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$86.64,WA
+Morton General Hospital,Chemistry,HCPCS 82140,Ammonia level,$108.87,WA
+Morton General Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$51.30,WA
+Morton General Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$128.25,WA
+Morton General Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$60.42,WA
+Morton General Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$91.77,WA
+Morton General Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$45.03,WA
+Morton General Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$45.03,WA
+Morton General Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$48.45,WA
+Morton General Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$32.49,WA
+Morton General Hospital,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$4.56,WA
+Morton General Hospital,Chemistry,HCPCS 84132,Blood potassium level,$49.02,WA
+Morton General Hospital,Chemistry,HCPCS 84295,Blood sodium level,$28.50,WA
+Morton General Hospital,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$25.65,WA
+Morton General Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$88.92,WA
+Morton General Hospital,Chemistry,HCPCS 82310,Calcium level,$33.06,WA
+Morton General Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$48.45,WA
+Morton General Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$110.58,WA
+Morton General Hospital,Chemistry,HCPCS 82465,Cholesterol level,$19.95,WA
+Morton General Hospital,Chemistry,HCPCS 82525,Copper level,$79.23,WA
+Morton General Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$117.99,WA
+Morton General Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$85.50,WA
+Morton General Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$58.14,WA
+Morton General Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$88.35,WA
+Morton General Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$165.30,WA
+Morton General Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$89.49,WA
+Morton General Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$82.08,WA
+Morton General Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$118.56,WA
+Morton General Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$50.16,WA
+Morton General Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$77.52,WA
+Morton General Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$88.92,WA
+Morton General Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$87.21,WA
+Morton General Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$95.76,WA
+Morton General Hospital,Chemistry,HCPCS 83718,HDL cholesterol level,$39.90,WA
+Morton General Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$370.50,WA
+Morton General Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$68.97,WA
+Morton General Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$82.65,WA
+Morton General Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$59.85,WA
+Morton General Hospital,Chemistry,HCPCS 83540,Iron level,$48.45,WA
+Morton General Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$22.80,WA
+Morton General Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$45.60,WA
+Morton General Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$91.20,WA
+Morton General Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$45.60,WA
+Morton General Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$84.93,WA
+Morton General Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$163.59,WA
+Morton General Hospital,Chemistry,HCPCS 83735,Magnesium Level,$74.10,WA
+Morton General Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$78.66,WA
+Morton General Hospital,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$67.26,WA
+Morton General Hospital,Chemistry,HCPCS 83945,Oxalate level,$42.75,WA
+Morton General Hospital,Chemistry,HCPCS 83970,Parathormone,$191.52,WA
+Morton General Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$42.75,WA
+Morton General Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$114.00,WA
+Morton General Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$91.77,WA
+Morton General Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$148.20,WA
+Morton General Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$25.65,WA
+Morton General Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$129.39,WA
+Morton General Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$135.09,WA
+Morton General Hospital,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$60.99,WA
+Morton General Hospital,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$207.48,WA
+Morton General Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$59.85,WA
+Morton General Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$47.88,WA
+Morton General Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$44.46,WA
+Morton General Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$91.77,WA
+Morton General Hospital,Chemistry,HCPCS 84560,Uric acid level,$28.50,WA
+Morton General Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$46.74,WA
+Morton General Hospital,Chemistry,HCPCS 82340,Urine calcium level,$42.75,WA
+Morton General Hospital,Chemistry,HCPCS 82436,Urine chloride level,$46.17,WA
+Morton General Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$76.38,WA
+Morton General Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$29.64,WA
+Morton General Hospital,Chemistry,HCPCS 84133,Urine potassium level,$28.50,WA
+Morton General Hospital,Chemistry,HCPCS 84300,Urine sodium level,$14.25,WA
+Morton General Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$148.20,WA
+Morton General Hospital,Chemistry,HCPCS 84630,Zinc level,$79.23,WA
+Morton General Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$99.75,WA
+Morton General Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$74.10,WA
+Morton General Hospital,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$62.70,WA
+Morton General Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$74.67,WA
+Morton General Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$88.92,WA
+Morton General Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$88.92,WA
+Morton General Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$35.34,WA
+Morton General Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$61.56,WA
+Morton General Hospital,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$171.57,WA
+Morton General Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$67.83,WA
+Morton General Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$57.00,WA
+Morton General Hospital,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$114.00,WA
+Morton General Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$68.40,WA
+Morton General Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$29.64,WA
+Morton General Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$47.31,WA
+Morton General Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$67.26,WA
+Morton General Hospital,Immunology,HCPCS 86580,Skin test for tuberculosis,$14.82,WA
+Morton General Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$60.99,WA
+Morton General Hospital,Immunology,HCPCS 86361,T cell count and ratio,$31.35,WA
+Morton General Hospital,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$71.25,WA
+Morton General Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$98.04,WA
+Morton General Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$94.05,WA
+Morton General Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$161.88,WA
+Morton General Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$71.25,WA
+Morton General Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$296.40,WA
+Morton General Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$60.42,WA
+Morton General Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$366.51,WA
+Morton General Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$81.94,WA
+Morton General Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$161.88,WA
+Morton General Hospital,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$120.84,WA
+Morton General Hospital,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$88.92,WA
+Morton General Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$52.44,WA
+Morton General Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$59.85,WA
+Morton General Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$174.99,WA
+Morton General Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$104.88,WA
+Morton General Hospital,Microbiology,HCPCS 87045,Stool Culture,$85.50,WA
+Morton General Hospital,Microbiology,HCPCS 87880,Strep Test,$45.60,WA
+Morton General Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$39.90,WA
+Morton General Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$86.07,WA
+Morton General Hospital,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$395.01,WA
+Morton General Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$235.41,WA
+Morton General Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$75.81,WA
+Morton General Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$45.60,WA
+Morton General Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$56.43,WA
+Morton General Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$57.00,WA
+Morton General Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$64.98,WA
+Morton General Hospital,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$88.35,WA
+Morton General Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$96.90,WA
+Morton General Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$99.75,WA
+Morton General Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$311.22,WA
+Morton General Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$88.35,WA
+Morton General Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$85.50,WA
+Morton General Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$113.43,WA
+Morton General Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$105.45,WA
+Morton General Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$121.98,WA
+Morton General Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$85.50,WA
+Morton General Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$44.46,WA
+Morton General Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$114.00,WA
+Morton General Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$56.43,WA
+Morton General Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$76.38,WA
+Morton General Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$42.75,WA
+Morton General Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$46.17,WA
+Morton General Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$30.78,WA
+Morton General Hospital,Cardiovascular,HCPCS 93015,"Cardiovascular stress test, with interpretation and report",$148.20,WA
+Morton General Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$399.00,WA
+Morton General Hospital,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$159.03,WA
+Morton General Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$127.68,WA
+Morton General Hospital,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$71.25,WA
+Morton General Hospital,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$31.35,WA
+Morton General Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,$732.45,WA
+Morton General Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,$151.05,WA
+Morton General Hospital,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$321.48,WA
+Morton General Hospital,Pulmonary,HCPCS 94618,Pulmonary stress test,$57.00,WA
+Morton General Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$125.40,WA
+Morton General Hospital,Sleep,HCPCS 95810,Sleep study,"$2,052.00",WA
+Morton General Hospital,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$59.28,WA
+Morton General Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$272.46,WA
+Morton General Hospital,Breast,HCPCS 77067,Mammogram Screening,$85.50,WA
+Morton General Hospital,Breast,HCPCS 77066,Mammography of both breasts,$365.37,WA
+Morton General Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,254.00",WA
+Morton General Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$855.00,WA
+Morton General Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$794.01,WA
+Morton General Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$223.44,WA
+Morton General Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,648.44",WA
+Morton General Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,$199.50,WA
+Morton General Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$199.50,WA
+Morton General Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,037.97",WA
+Morton General Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,098.96",WA
+Morton General Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$199.50,WA
+Morton General Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$199.50,WA
+Morton General Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,150.26",WA
+Morton General Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,067.04",WA
+Morton General Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,368.00",WA
+Morton General Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,140.00",WA
+Morton General Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,140.00",WA
+Morton General Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,074.80",WA
+Morton General Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,026.00",WA
+Morton General Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$1,482.00",WA
+Morton General Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,482.00",WA
+Morton General Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$940.50,WA
+Morton General Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,343.49",WA
+Morton General Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$889.20,WA
+Morton General Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$1,140.00",WA
+Morton General Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$527.25,WA
+Morton General Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$510.15,WA
+Morton General Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$368.22,WA
+Morton General Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$527.25,WA
+Morton General Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$427.50,WA
+Morton General Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$416.10,WA
+Morton General Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$88.92,WA
+Morton General Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$311.22,WA
+Morton General Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$355.68,WA
+Morton General Hospital,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$373.35,WA
+Morton General Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$109.44,WA
+Morton General Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$20.52,WA
+Morton General Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$225.15,WA
+Morton General Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$35.91,WA
+Morton General Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$26.22,WA
+Morton General Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$30.78,WA
+Morton General Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$231.42,WA
+Morton General Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$17.67,WA
+Morton General Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$53.01,WA
+Morton General Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$237.12,WA
+Morton General Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$70.11,WA
+Morton General Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$57.00,WA
+Morton General Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$216.60,WA
+Morton General Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$46.17,WA
+Morton General Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$59.28,WA
+Morton General Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$56.43,WA
+Morton General Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$50.73,WA
+Morton General Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$63.84,WA
+Morton General Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$60.99,WA
+Morton General Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$35.91,WA
+Morton General Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$194.37,WA
+Morton General Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$54.72,WA
+Morton General Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$76.95,WA
+Morton General Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$57.00,WA
+Morton General Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$118.56,WA
+Morton General Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$31.92,WA
+Morton General Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$71.25,WA
+Morton General Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$71.82,WA
+Morton General Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$148.20,WA
+Morton General Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$53.58,WA
+Morton General Hospital,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$53.58,WA
+Morton General Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$62.70,WA
+Morton General Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$55.29,WA
+Morton General Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$59.85,WA
+Morton General Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$49.59,WA
+Morton General Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$64.41,WA
+Morton General Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,$855.00,WA
+Morton General Hospital,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$1,311.00",WA
+Morton General Hospital,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,$285.00,WA
+Morton General Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),$741.00,WA
+Morton General Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$156.75,WA
+Morton General Hospital,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$1,101.81",WA
+Morton General Hospital,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),$570.00,WA
+Morton General Hospital,Breast,HCPCS 19120,Excision of cyst of breast,$697.11,WA
+Morton General Hospital,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$2,235.54",WA
+Morton General Hospital,Breast,HCPCS 19303,Total removal of breast,"$1,515.06",WA
+Morton General Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",$592.80,WA
+Morton General Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy",$570.00,WA
+Morton General Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)",$684.00,WA
+Morton General Hospital,Digestive,HCPCS 43235,EGD,$517.56,WA
+Morton General Hospital,Digestive,HCPCS 43239,EGD and biopsy,$592.80,WA
+Morton General Hospital,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,$684.00,WA
+Morton General Hospital,General,HCPCS 10060,Drainage of Abscess,$266.76,WA
+Morton General Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$414.96,WA
+Morton General Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$199.50,WA
+Morton General Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$383.04,WA
+Morton General Hospital,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$330.60,WA
+Morton General Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$335.16,WA
+Morton General Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$328.89,WA
+Morton General Hospital,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$889.20,WA
+Morton General Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$296.40,WA
+Morton General Hospital,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$399.00,WA
+Morton General Hospital,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$1,422.72",WA
+Morton General Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,$580.83,WA
+Morton General Hospital,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$1,260.84",WA
+Morton General Hospital,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$1,147.98",WA
+Morton General Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$243.96,WA
+Morton General Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$171.00,WA
+Morton General Hospital,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$53.58,WA
+Morton General Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$3.99,WA
+Morton General Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),$285.00,WA
+Morton General Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$456.00,WA
+Morton General Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,$313.50,WA

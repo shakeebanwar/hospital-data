@@ -1,0 +1,336 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Porter Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$593.00,VT
+Porter Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,593.00",VT
+Porter Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$177.00,VT
+Porter Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$226.00,VT
+Porter Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$378.00,VT
+Porter Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,$782.00,VT
+Porter Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,181.00",VT
+Porter Medical Center,Hospital,HCPCS 99219,Hospital observation care typically 30 minutes,$244.00,VT
+Porter Medical Center,Hospital,HCPCS 99218,Hospital Observation per Hour,$178.00,VT
+Porter Medical Center,Hospital,HCPCS 99224,"Subsequent observation care, typically 25 minutes per day",$72.00,VT
+Porter Medical Center,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$233.00,VT
+Porter Medical Center,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$257.00,VT
+Porter Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$200.00,VT
+Porter Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$245.00,VT
+Porter Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$166.00,VT
+Porter Medical Center,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$251.00,VT
+Porter Medical Center,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$371.00,VT
+Porter Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$424.00,VT
+Porter Medical Center,Speech,HCPCS 92507,Speech Therapy,$314.00,VT
+Porter Medical Center,Speech,HCPCS 92610,Swallow Evaluation,$417.00,VT
+Porter Medical Center,Speech,HCPCS 92526,Swallow Treatment,$208.00,VT
+Porter Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$34.00,VT
+Porter Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$28.00,VT
+Porter Medical Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$69.00,VT
+Porter Medical Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$173.00,VT
+Porter Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$34.00,VT
+Porter Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$36.00,VT
+Porter Medical Center,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$58.00,VT
+Porter Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$87.00,VT
+Porter Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$82.00,VT
+Porter Medical Center,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$169.00,VT
+Porter Medical Center,Blood,HCPCS 85660,Red blood cell sickling measurement,$54.00,VT
+Porter Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$806.00,VT
+Porter Medical Center,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$176.00,VT
+Porter Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$303.00,VT
+Porter Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$75.00,VT
+Porter Medical Center,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$104.00,VT
+Porter Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$97.00,VT
+Porter Medical Center,Chemistry,HCPCS 82140,Ammonia level,$75.00,VT
+Porter Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$94.00,VT
+Porter Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$158.00,VT
+Porter Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$279.00,VT
+Porter Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$101.00,VT
+Porter Medical Center,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$176.00,VT
+Porter Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$59.00,VT
+Porter Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$60.00,VT
+Porter Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$69.00,VT
+Porter Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$48.00,VT
+Porter Medical Center,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$29.00,VT
+Porter Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$44.00,VT
+Porter Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$52.00,VT
+Porter Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$187.00,VT
+Porter Medical Center,Chemistry,HCPCS 82310,Calcium level,$68.00,VT
+Porter Medical Center,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$37.00,VT
+Porter Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$120.00,VT
+Porter Medical Center,Chemistry,HCPCS 82465,Cholesterol level,$61.00,VT
+Porter Medical Center,Chemistry,HCPCS 82525,Copper level,$117.00,VT
+Porter Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$98.00,VT
+Porter Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$181.00,VT
+Porter Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$91.00,VT
+Porter Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$97.00,VT
+Porter Medical Center,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$271.00,VT
+Porter Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$295.00,VT
+Porter Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$159.00,VT
+Porter Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$85.00,VT
+Porter Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$66.00,VT
+Porter Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$92.00,VT
+Porter Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$125.00,VT
+Porter Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, chorionic (reproductive hormone) level",$95.00,VT
+Porter Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$91.00,VT
+Porter Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$77.00,VT
+Porter Medical Center,Chemistry,HCPCS 83718,HDL cholesterol level,$63.00,VT
+Porter Medical Center,Chemistry,HCPCS 83020,Hemoglobin Measurement,$181.00,VT
+Porter Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$155.00,VT
+Porter Medical Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$239.00,VT
+Porter Medical Center,Chemistry,HCPCS 83520,IgE (immune system protein) level,$219.00,VT
+Porter Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$87.00,VT
+Porter Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$179.00,VT
+Porter Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$100.00,VT
+Porter Medical Center,Chemistry,HCPCS 83540,Iron level,$109.00,VT
+Porter Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$92.00,VT
+Porter Medical Center,Chemistry,HCPCS 83721,LDL cholesterol level,$108.00,VT
+Porter Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$122.00,VT
+Porter Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$80.00,VT
+Porter Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$77.00,VT
+Porter Medical Center,Chemistry,HCPCS 83021,Liver function blood test panel,$150.00,VT
+Porter Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$102.00,VT
+Porter Medical Center,Chemistry,HCPCS 82542,Mass spectrometry,$133.00,VT
+Porter Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$112.00,VT
+Porter Medical Center,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,"$1,200.00",VT
+Porter Medical Center,Chemistry,HCPCS 83945,Oxalate level,$169.00,VT
+Porter Medical Center,Chemistry,HCPCS 83970,Parathormone,$190.00,VT
+Porter Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$77.00,VT
+Porter Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$148.00,VT
+Porter Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$126.00,VT
+Porter Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$70.00,VT
+Porter Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$39.00,VT
+Porter Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$143.00,VT
+Porter Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$83.00,VT
+Porter Medical Center,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$70.00,VT
+Porter Medical Center,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$489.00,VT
+Porter Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$68.00,VT
+Porter Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$39.00,VT
+Porter Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$57.00,VT
+Porter Medical Center,Chemistry,HCPCS 84478,Triglycerides level,$72.00,VT
+Porter Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$70.00,VT
+Porter Medical Center,Chemistry,HCPCS 84560,Uric acid level,$43.00,VT
+Porter Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$81.00,VT
+Porter Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$38.00,VT
+Porter Medical Center,Chemistry,HCPCS 82436,Urine chloride level,$38.00,VT
+Porter Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$72.00,VT
+Porter Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$52.00,VT
+Porter Medical Center,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$151.00,VT
+Porter Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$56.00,VT
+Porter Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$74.00,VT
+Porter Medical Center,Chemistry,HCPCS 84591,Vitamin B-6 level,$150.00,VT
+Porter Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$116.00,VT
+Porter Medical Center,Chemistry,HCPCS 84630,Zinc level,$148.00,VT
+Porter Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$125.00,VT
+Porter Medical Center,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$73.00,VT
+Porter Medical Center,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$175.00,VT
+Porter Medical Center,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$70.00,VT
+Porter Medical Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$111.00,VT
+Porter Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$85.00,VT
+Porter Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$107.00,VT
+Porter Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$89.00,VT
+Porter Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$93.00,VT
+Porter Medical Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$21.00,VT
+Porter Medical Center,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$93.00,VT
+Porter Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$80.00,VT
+Porter Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$57.00,VT
+Porter Medical Center,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$68.00,VT
+Porter Medical Center,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$144.00,VT
+Porter Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$73.00,VT
+Porter Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$66.00,VT
+Porter Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$51.00,VT
+Porter Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$59.00,VT
+Porter Medical Center,Immunology,HCPCS 86580,Skin test for tuberculosis,$39.00,VT
+Porter Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$119.00,VT
+Porter Medical Center,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$141.00,VT
+Porter Medical Center,Immunology,HCPCS 86359,"T cells count, total",$72.00,VT
+Porter Medical Center,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$66.00,VT
+Porter Medical Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$56.00,VT
+Porter Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$148.00,VT
+Porter Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$54.00,VT
+Porter Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$111.00,VT
+Porter Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$239.00,VT
+Porter Medical Center,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$487.00,VT
+Porter Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$78.00,VT
+Porter Medical Center,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$525.00,VT
+Porter Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$111.00,VT
+Porter Medical Center,Microbiology,HCPCS 87517,Hepatitis B Detection,$406.00,VT
+Porter Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$75.00,VT
+Porter Medical Center,Microbiology,HCPCS 87624,HPV Detection,$133.00,VT
+Porter Medical Center,Microbiology,HCPCS 86735,Mumps virus antibody test,$116.00,VT
+Porter Medical Center,Microbiology,HCPCS 86747,Parvovirus antibody test,$135.00,VT
+Porter Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$104.00,VT
+Porter Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$87.00,VT
+Porter Medical Center,Microbiology,HCPCS 87207,Smear for infectious agents,$69.00,VT
+Porter Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$108.00,VT
+Porter Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$67.00,VT
+Porter Medical Center,Microbiology,HCPCS 87045,Stool Culture,$176.00,VT
+Porter Medical Center,Microbiology,HCPCS 87880,Streptoccus,$57.00,VT
+Porter Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$66.00,VT
+Porter Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$38.00,VT
+Porter Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$84.00,VT
+Porter Medical Center,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$346.00,VT
+Porter Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$348.00,VT
+Porter Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$95.00,VT
+Porter Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$169.00,VT
+Porter Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$99.00,VT
+Porter Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$145.00,VT
+Porter Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$131.00,VT
+Porter Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$174.00,VT
+Porter Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$205.00,VT
+Porter Medical Center,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$124.00,VT
+Porter Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$141.00,VT
+Porter Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$291.00,VT
+Porter Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$158.00,VT
+Porter Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$131.00,VT
+Porter Medical Center,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$84.00,VT
+Porter Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$95.00,VT
+Porter Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$159.00,VT
+Porter Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$195.00,VT
+Porter Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$188.00,VT
+Porter Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$59.00,VT
+Porter Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$52.00,VT
+Porter Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$158.00,VT
+Porter Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$104.00,VT
+Porter Medical Center,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$38.00,VT
+Porter Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$114.00,VT
+Porter Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$29.00,VT
+Porter Medical Center,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$17.00,VT
+Porter Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$56.00,VT
+Porter Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$62.00,VT
+Porter Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$536.00,VT
+Porter Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$226.00,VT
+Porter Medical Center,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$247.00,VT
+Porter Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,$119.00,VT
+Porter Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$352.00,VT
+Porter Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$133.00,VT
+Porter Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$581.00,VT
+Porter Medical Center,Breast,HCPCS 77067,Mammogram Screening,$605.00,VT
+Porter Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$701.00,VT
+Porter Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$2,400.00",VT
+Porter Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,951.00",VT
+Porter Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,579.00",VT
+Porter Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,690.00",VT
+Porter Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,462.00",VT
+Porter Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,983.00",VT
+Porter Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,640.00",VT
+Porter Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$2,295.00",VT
+Porter Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$2,568.00",VT
+Porter Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$2,342.00",VT
+Porter Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,006.00",VT
+Porter Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$2,244.00",VT
+Porter Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$2,031.00",VT
+Porter Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$3,550.00",VT
+Porter Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$3,068.00",VT
+Porter Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$3,068.00",VT
+Porter Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$3,960.00",VT
+Porter Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,815.00",VT
+Porter Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$4,058.00",VT
+Porter Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$3,087.00",VT
+Porter Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,698.00",VT
+Porter Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$4,234.00",VT
+Porter Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$3,116.00",VT
+Porter Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$2,866.00",VT
+Porter Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$570.00,VT
+Porter Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$663.00,VT
+Porter Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$662.00,VT
+Porter Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$792.00,VT
+Porter Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$663.00,VT
+Porter Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$486.00,VT
+Porter Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$515.00,VT
+Porter Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$663.00,VT
+Porter Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$662.00,VT
+Porter Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$719.00,VT
+Porter Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$467.00,VT
+Porter Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$467.00,VT
+Porter Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$595.00,VT
+Porter Medical Center,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$473.00,VT
+Porter Medical Center,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$370.00,VT
+Porter Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$406.00,VT
+Porter Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$217.00,VT
+Porter Medical Center,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$626.00,VT
+Porter Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$531.00,VT
+Porter Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$514.00,VT
+Porter Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$426.00,VT
+Porter Medical Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$513.00,VT
+Porter Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$307.00,VT
+Porter Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$385.00,VT
+Porter Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$427.00,VT
+Porter Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$385.00,VT
+Porter Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$429.00,VT
+Porter Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$365.00,VT
+Porter Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$300.00,VT
+Porter Medical Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$252.00,VT
+Porter Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$385.00,VT
+Porter Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$577.00,VT
+Porter Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$385.00,VT
+Porter Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$711.00,VT
+Porter Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$531.00,VT
+Porter Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$628.00,VT
+Porter Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$385.00,VT
+Porter Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$385.00,VT
+Porter Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$252.00,VT
+Porter Medical Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$268.00,VT
+Porter Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$337.00,VT
+Porter Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$385.00,VT
+Porter Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$385.00,VT
+Porter Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$307.00,VT
+Porter Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$385.00,VT
+Porter Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$1,782.00",VT
+Porter Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$1,689.00",VT
+Porter Medical Center,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,$474.00,VT
+Porter Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$1,214.00",VT
+Porter Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$234.00,VT
+Porter Medical Center,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$234.00,VT
+Porter Medical Center,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$1,427.00",VT
+Porter Medical Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$1,070.00",VT
+Porter Medical Center,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$1,862.00",VT
+Porter Medical Center,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$1,384.00",VT
+Porter Medical Center,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$1,041.00",VT
+Porter Medical Center,Breast,HCPCS 19125,Excision of breast lesion,"$1,379.00",VT
+Porter Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$1,030.00",VT
+Porter Medical Center,Breast,HCPCS 19301,Partial removal of breast,"$1,513.00",VT
+Porter Medical Center,Breast,HCPCS 19303,Total removal of breast,"$2,377.00",VT
+Porter Medical Center,Cardiac,HCPCS 33240,Defibrillator generator,$942.00,VT
+Porter Medical Center,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$350.00,VT
+Porter Medical Center,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,$850.00,VT
+Porter Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",$756.00,VT
+Porter Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy",$974.00,VT
+Porter Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,078.00",VT
+Porter Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,017.00",VT
+Porter Medical Center,Digestive,HCPCS 43235,EGD,$774.00,VT
+Porter Medical Center,Digestive,HCPCS 43239,EGD and biopsy,$874.00,VT
+Porter Medical Center,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$1,289.00",VT
+Porter Medical Center,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$1,087.00",VT
+Porter Medical Center,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$1,733.00",VT
+Porter Medical Center,General,HCPCS 10060,Drainage of Abscess,$219.00,VT
+Porter Medical Center,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$310.00,VT
+Porter Medical Center,General,HCPCS 69200,Removal of foreign body from ear canal,$140.00,VT
+Porter Medical Center,General,HCPCS 60240,Removal of thyroid,"$2,115.00",VT
+Porter Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$517.00,VT
+Porter Medical Center,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$578.00,VT
+Porter Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$458.00,VT
+Porter Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$417.00,VT
+Porter Medical Center,Head,HCPCS 69436,Create eardrum opening,$443.00,VT
+Porter Medical Center,Head,HCPCS 69631,Repair of eardrum,"$2,249.00",VT
+Porter Medical Center,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),$638.00,VT
+Porter Medical Center,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),$734.00,VT
+Porter Medical Center,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$481.00,VT
+Porter Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$195.00,VT
+Porter Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$3,182.00",VT
+Porter Medical Center,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$2,368.00",VT
+Porter Medical Center,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$1,648.00",VT
+Porter Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$3,035.00",VT
+Porter Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$245.00,VT
+Porter Medical Center,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$2,327.00",VT
+Porter Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,$914.00,VT
+Porter Medical Center,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$1,708.00",VT
+Porter Medical Center,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$1,482.00",VT
+Porter Medical Center,Obstetrics,HCPCS 58545,Removal of uterine fibroid tumors using an endoscope,"$1,960.00",VT
+Porter Medical Center,Obstetrics,HCPCS 59400,Routine obstetric care,"$4,610.00",VT
+Porter Medical Center,Obstetrics,HCPCS 59510,"Routine obstetric care for cesarean delivery, including pre-and postdelivery care","$5,103.00",VT
+Porter Medical Center,Obstetrics,HCPCS 59610,Routine obstetric care for vaginal delivery after prior cesarean delivery including pre-and post-delivery care,"$4,832.00",VT
+Porter Medical Center,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries","$2,086.00",VT
+Porter Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$243.00,VT
+Porter Medical Center,Soft Tissue,HCPCS 97602,Non-selective debridement,$153.00,VT
+Porter Medical Center,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$168.00,VT
+Porter Medical Center,Vascular,HCPCS 36416,Collection of capillary blood specimen,$22.00,VT
+Porter Medical Center,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,050.00",VT
+Porter Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$457.00,VT
+Porter Medical Center,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,$239.00,VT

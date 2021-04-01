@@ -1,0 +1,362 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Multicare Auburn Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$3,761.85",WA
+Multicare Auburn Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,"$2,011.35",WA
+Multicare Auburn Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,"$2,011.35",WA
+Multicare Auburn Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$2,011.35",WA
+Multicare Auburn Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$2,011.35",WA
+Multicare Auburn Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$2,011.35",WA
+Multicare Auburn Medical Center,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$154.97,WA
+Multicare Auburn Medical Center,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$154.97,WA
+Multicare Auburn Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$154.97,WA
+Multicare Auburn Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$154.97,WA
+Multicare Auburn Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$154.97,WA
+Multicare Auburn Medical Center,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$154.97,WA
+Multicare Auburn Medical Center,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$154.97,WA
+Multicare Auburn Medical Center,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$130.80,WA
+Multicare Auburn Medical Center,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$130.80,WA
+Multicare Auburn Medical Center,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$229.08,WA
+Multicare Auburn Medical Center,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$163.11,WA
+Multicare Auburn Medical Center,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$163.11,WA
+Multicare Auburn Medical Center,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$163.11,WA
+Multicare Auburn Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$296.62,WA
+Multicare Auburn Medical Center,Speech,HCPCS 92507,Speech Therapy,$195.85,WA
+Multicare Auburn Medical Center,Speech,HCPCS 92610,Swallow Evaluation,$227.76,WA
+Multicare Auburn Medical Center,Speech,HCPCS 92526,Swallow Treatment,$208.63,WA
+Multicare Auburn Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$7.80,WA
+Multicare Auburn Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$9.89,WA
+Multicare Auburn Medical Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$18.28,WA
+Multicare Auburn Medical Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$18.28,WA
+Multicare Auburn Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$15.42,WA
+Multicare Auburn Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$37.07,WA
+Multicare Auburn Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$31.41,WA
+Multicare Auburn Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$31.41,WA
+Multicare Auburn Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$8.92,WA
+Multicare Auburn Medical Center,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$42.03,WA
+Multicare Auburn Medical Center,Blood,HCPCS 85660,Red blood cell sickling measurement,$21.40,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$97.20,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$107.49,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$15.93,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$39.70,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$46.56,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 82140,Ammonia level,$79.07,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$29.23,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$60.60,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$143.13,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$24.31,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$46.41,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$15.94,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$15.94,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$13.97,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$18.50,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 84132,Blood potassium level,$19.56,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$15.66,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$16.60,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$47.36,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 82310,Calcium level,$34.31,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$50.84,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 82465,Cholesterol level,$13.07,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 82525,Copper level,$31.32,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$46.35,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$60.60,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$25.38,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$39.70,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$63.82,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$137.06,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$37.86,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$29.59,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$30.63,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$32.43,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$26.46,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$47.53,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$48.65,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$48.45,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 83718,HDL cholesterol level,$21.96,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 83020,Hemoglobin Measurement,$41.00,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$49.08,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$87.99,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$41.53,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$33.00,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$34.31,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$23.92,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 83540,Iron level,$17.41,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$16.78,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 83721,LDL cholesterol level,$24.15,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$45.90,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$25.22,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$25.51,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 83021,Liver function blood test panel,$41.00,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$25.12,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 82542,Mass spectrometry,$52.82,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$39.59,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$31.80,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 83945,Oxalate level,$37.30,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 83970,Parathormone,$109.40,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$20.52,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$41.53,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$54.04,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$20.52,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$37.07,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$71.62,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$71.62,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$18.60,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$139.80,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$24.31,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$20.52,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$20.52,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$20.52,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 84560,Uric acid level,$12.87,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$12.87,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$34.31,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 82436,Urine chloride level,$17.18,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$15.93,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$27.28,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$19.56,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$15.66,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$79.67,WA
+Multicare Auburn Medical Center,Chemistry,HCPCS 84630,Zinc level,$30.67,WA
+Multicare Auburn Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$71.75,WA
+Multicare Auburn Medical Center,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$47.12,WA
+Multicare Auburn Medical Center,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$48.17,WA
+Multicare Auburn Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$26.56,WA
+Multicare Auburn Medical Center,Immunology,HCPCS 86318,Covid-19 antibody test,$40.20,WA
+Multicare Auburn Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$39.80,WA
+Multicare Auburn Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$26.56,WA
+Multicare Auburn Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$26.56,WA
+Multicare Auburn Medical Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$40.20,WA
+Multicare Auburn Medical Center,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$67.84,WA
+Multicare Auburn Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$18.40,WA
+Multicare Auburn Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$13.55,WA
+Multicare Auburn Medical Center,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$35.38,WA
+Multicare Auburn Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$26.56,WA
+Multicare Auburn Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$43.23,WA
+Multicare Auburn Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$16.00,WA
+Multicare Auburn Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$17.85,WA
+Multicare Auburn Medical Center,Immunology,HCPCS 86580,Skin test for tuberculosis,$11.45,WA
+Multicare Auburn Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$35.33,WA
+Multicare Auburn Medical Center,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$178.09,WA
+Multicare Auburn Medical Center,Immunology,HCPCS 86359,"T cells count, total",$178.09,WA
+Multicare Auburn Medical Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$54.07,WA
+Multicare Auburn Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$28.41,WA
+Multicare Auburn Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$31.01,WA
+Multicare Auburn Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$97.14,WA
+Multicare Auburn Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$99.93,WA
+Multicare Auburn Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$34.80,WA
+Multicare Auburn Medical Center,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$124.03,WA
+Multicare Auburn Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$26.56,WA
+Multicare Auburn Medical Center,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$323.53,WA
+Multicare Auburn Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$124.79,WA
+Multicare Auburn Medical Center,Microbiology,HCPCS 87517,Hepatitis B Detection,$123.39,WA
+Multicare Auburn Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$52.19,WA
+Multicare Auburn Medical Center,Microbiology,HCPCS 87624,HPV Detection,$52.57,WA
+Multicare Auburn Medical Center,Microbiology,HCPCS 86735,Mumps virus antibody test,$37.61,WA
+Multicare Auburn Medical Center,Microbiology,HCPCS 86747,Parvovirus antibody test,$43.50,WA
+Multicare Auburn Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$37.56,WA
+Multicare Auburn Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$37.63,WA
+Multicare Auburn Medical Center,Microbiology,HCPCS 87207,Smear for infectious agents,$17.54,WA
+Multicare Auburn Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$39.40,WA
+Multicare Auburn Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$17.54,WA
+Multicare Auburn Medical Center,Microbiology,HCPCS 87045,Stool Culture,$44.56,WA
+Multicare Auburn Medical Center,Microbiology,HCPCS 87880,Strep Test,$33.12,WA
+Multicare Auburn Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$88.66,WA
+Multicare Auburn Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$35.33,WA
+Multicare Auburn Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$37.51,WA
+Multicare Auburn Medical Center,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$135.43,WA
+Multicare Auburn Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$206.65,WA
+Multicare Auburn Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$26.34,WA
+Multicare Auburn Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$43.16,WA
+Multicare Auburn Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$37.42,WA
+Multicare Auburn Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$16.98,WA
+Multicare Auburn Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$19.90,WA
+Multicare Auburn Medical Center,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$113.31,WA
+Multicare Auburn Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$380.39,WA
+Multicare Auburn Medical Center,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$51.85,WA
+Multicare Auburn Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$57.30,WA
+Multicare Auburn Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$178.24,WA
+Multicare Auburn Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$44.86,WA
+Multicare Auburn Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$30.45,WA
+Multicare Auburn Medical Center,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$46.58,WA
+Multicare Auburn Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$59.35,WA
+Multicare Auburn Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$40.31,WA
+Multicare Auburn Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$74.48,WA
+Multicare Auburn Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$54.86,WA
+Multicare Auburn Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$137.19,WA
+Multicare Auburn Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$137.19,WA
+Multicare Auburn Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$283.53,WA
+Multicare Auburn Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$149.10,WA
+Multicare Auburn Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$149.10,WA
+Multicare Auburn Medical Center,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$4.66,WA
+Multicare Auburn Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$13.33,WA
+Multicare Auburn Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$13.33,WA
+Multicare Auburn Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$24.58,WA
+Multicare Auburn Medical Center,Cardiovascular,HCPCS 93015,"Cardiovascular stress test, with interpretation and report",$501.92,WA
+Multicare Auburn Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$501.92,WA
+Multicare Auburn Medical Center,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$142.82,WA
+Multicare Auburn Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$142.82,WA
+Multicare Auburn Medical Center,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$1,164.26",WA
+Multicare Auburn Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,$715.19,WA
+Multicare Auburn Medical Center,Pulmonary,HCPCS 94640,Aerosol Treatment,$343.66,WA
+Multicare Auburn Medical Center,Pulmonary,HCPCS 94618,Pulmonary stress test,$156.55,WA
+Multicare Auburn Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$574.23,WA
+Multicare Auburn Medical Center,Sleep,HCPCS 95810,Sleep study,"$3,548.88",WA
+Multicare Auburn Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$256.37,WA
+Multicare Auburn Medical Center,Breast,HCPCS 77067,Mammogram Screening,$218.25,WA
+Multicare Auburn Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$256.37,WA
+Multicare Auburn Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$2,896.41",WA
+Multicare Auburn Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,323.15",WA
+Multicare Auburn Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,159.56",WA
+Multicare Auburn Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,441.22",WA
+Multicare Auburn Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,305.56",WA
+Multicare Auburn Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$3,305.56",WA
+Multicare Auburn Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,192.68",WA
+Multicare Auburn Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,763.26",WA
+Multicare Auburn Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,763.26",WA
+Multicare Auburn Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,531.71",WA
+Multicare Auburn Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,051.80",WA
+Multicare Auburn Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,982.40",WA
+Multicare Auburn Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,938.68",WA
+Multicare Auburn Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$2,792.29",WA
+Multicare Auburn Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,320.63",WA
+Multicare Auburn Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,320.63",WA
+Multicare Auburn Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$4,329.79",WA
+Multicare Auburn Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,320.63",WA
+Multicare Auburn Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,987.17",WA
+Multicare Auburn Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,179.70",WA
+Multicare Auburn Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,512.65",WA
+Multicare Auburn Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,712.53",WA
+Multicare Auburn Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$1,816.33",WA
+Multicare Auburn Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$544.72,WA
+Multicare Auburn Medical Center,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$579.80,WA
+Multicare Auburn Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$617.30,WA
+Multicare Auburn Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$561.80,WA
+Multicare Auburn Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$564.55,WA
+Multicare Auburn Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$564.55,WA
+Multicare Auburn Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$607.18,WA
+Multicare Auburn Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$607.18,WA
+Multicare Auburn Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$641.91,WA
+Multicare Auburn Medical Center,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$336.26,WA
+Multicare Auburn Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$274.77,WA
+Multicare Auburn Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$262.33,WA
+Multicare Auburn Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$262.33,WA
+Multicare Auburn Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$150.05,WA
+Multicare Auburn Medical Center,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$327.00,WA
+Multicare Auburn Medical Center,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$498.67,WA
+Multicare Auburn Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$147.00,WA
+Multicare Auburn Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$242.29,WA
+Multicare Auburn Medical Center,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$226.54,WA
+Multicare Auburn Medical Center,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$334.32,WA
+Multicare Auburn Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$260.19,WA
+Multicare Auburn Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$204.16,WA
+Multicare Auburn Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$272.89,WA
+Multicare Auburn Medical Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$242.80,WA
+Multicare Auburn Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$237.91,WA
+Multicare Auburn Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$237.91,WA
+Multicare Auburn Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$259.55,WA
+Multicare Auburn Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$237.91,WA
+Multicare Auburn Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$259.55,WA
+Multicare Auburn Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$253.86,WA
+Multicare Auburn Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$237.91,WA
+Multicare Auburn Medical Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$224.94,WA
+Multicare Auburn Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$259.55,WA
+Multicare Auburn Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$259.55,WA
+Multicare Auburn Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$255.03,WA
+Multicare Auburn Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$247.55,WA
+Multicare Auburn Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$247.55,WA
+Multicare Auburn Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$261.46,WA
+Multicare Auburn Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$261.46,WA
+Multicare Auburn Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$250.48,WA
+Multicare Auburn Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$204.31,WA
+Multicare Auburn Medical Center,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$294.35,WA
+Multicare Auburn Medical Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$267.15,WA
+Multicare Auburn Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$267.15,WA
+Multicare Auburn Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$251.10,WA
+Multicare Auburn Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$267.15,WA
+Multicare Auburn Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$267.15,WA
+Multicare Auburn Medical Center,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$9,798.46",WA
+Multicare Auburn Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$25,503.22",WA
+Multicare Auburn Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$25,503.22",WA
+Multicare Auburn Medical Center,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,"$19,693.87",WA
+Multicare Auburn Medical Center,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$19,693.87",WA
+Multicare Auburn Medical Center,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$2,806.74",WA
+Multicare Auburn Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$11,493.81",WA
+Multicare Auburn Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$466.11,WA
+Multicare Auburn Medical Center,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$466.11,WA
+Multicare Auburn Medical Center,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$56,056.65",WA
+Multicare Auburn Medical Center,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$26,013.66",WA
+Multicare Auburn Medical Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$32,803.59",WA
+Multicare Auburn Medical Center,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$32,803.59",WA
+Multicare Auburn Medical Center,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$32,803.59",WA
+Multicare Auburn Medical Center,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$12,878.19",WA
+Multicare Auburn Medical Center,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$11,493.81",WA
+Multicare Auburn Medical Center,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$11,493.81",WA
+Multicare Auburn Medical Center,Breast,HCPCS 19325,Breast enlargement using prosthetic implant,"$28,596.52",WA
+Multicare Auburn Medical Center,Breast,HCPCS 19125,Excision of breast lesion,"$10,780.28",WA
+Multicare Auburn Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$10,780.28",WA
+Multicare Auburn Medical Center,Breast,HCPCS 19301,Partial removal of breast,"$11,315.12",WA
+Multicare Auburn Medical Center,Breast,HCPCS 19318,Reduction mammaplasty,"$16,447.97",WA
+Multicare Auburn Medical Center,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$17,591.81",WA
+Multicare Auburn Medical Center,Breast,HCPCS 19303,Total removal of breast,"$17,591.81",WA
+Multicare Auburn Medical Center,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),"$352,959.36",WA
+Multicare Auburn Medical Center,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$188,630.92",WA
+Multicare Auburn Medical Center,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$188,630.92",WA
+Multicare Auburn Medical Center,Cardiac,HCPCS 33249,Defibrillator complete system,"$63,678.45",WA
+Multicare Auburn Medical Center,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$12,102.19",WA
+Multicare Auburn Medical Center,Cardiac,MSDRG 247,Implant drug-eluting stent,"$62,836.36",WA
+Multicare Auburn Medical Center,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$25,932.64",WA
+Multicare Auburn Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$3,225.45",WA
+Multicare Auburn Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$3,199.94",WA
+Multicare Auburn Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$2,969.43",WA
+Multicare Auburn Medical Center,Digestive,HCPCS 43235,EGD,"$3,633.46",WA
+Multicare Auburn Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$2,953.69",WA
+Multicare Auburn Medical Center,Digestive,HCPCS 43775,Gastric Sleeve (Outpatient),"$1,837.80",WA
+Multicare Auburn Medical Center,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$10,283.23",WA
+Multicare Auburn Medical Center,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$10,283.23",WA
+Multicare Auburn Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$53,722.82",WA
+Multicare Auburn Medical Center,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$13,970.08",WA
+Multicare Auburn Medical Center,General,HCPCS 55700,Biopsy of prostate gland,"$3,246.98",WA
+Multicare Auburn Medical Center,General,HCPCS 10060,Drainage of Abscess,"$1,811.01",WA
+Multicare Auburn Medical Center,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple","$1,659.58",WA
+Multicare Auburn Medical Center,General,HCPCS 55866,Prostatectomy,"$1,600.60",WA
+Multicare Auburn Medical Center,General,HCPCS 69200,Removal of foreign body from ear canal,"$1,148.09",WA
+Multicare Auburn Medical Center,General,HCPCS 60240,Removal of thyroid,"$4,714.31",WA
+Multicare Auburn Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$2,220.53",WA
+Multicare Auburn Medical Center,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),"$2,220.53",WA
+Multicare Auburn Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$2,220.53",WA
+Multicare Auburn Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$2,220.53",WA
+Multicare Auburn Medical Center,Head,HCPCS 69436,Create eardrum opening,"$5,552.56",WA
+Multicare Auburn Medical Center,Head,HCPCS 67028,Injection of drug into the eye,"$1,118.74",WA
+Multicare Auburn Medical Center,Head,HCPCS 69631,Repair of eardrum,"$18,505.52",WA
+Multicare Auburn Medical Center,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$12,282.76",WA
+Multicare Auburn Medical Center,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$12,038.85",WA
+Multicare Auburn Medical Center,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$141,154.92",WA
+Multicare Auburn Medical Center,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,"$2,320.67",WA
+Multicare Auburn Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$2,447.62",WA
+Multicare Auburn Medical Center,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$2,447.62",WA
+Multicare Auburn Medical Center,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$2,975.06",WA
+Multicare Auburn Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$536.03,WA
+Multicare Auburn Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$64,945.50",WA
+Multicare Auburn Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$10,520.06",WA
+Multicare Auburn Medical Center,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$10,520.06",WA
+Multicare Auburn Medical Center,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,"$67,106.72",WA
+Multicare Auburn Medical Center,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$16,813.20",WA
+Multicare Auburn Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$74,370.13",WA
+Multicare Auburn Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$141,154.92",WA
+Multicare Auburn Medical Center,Musculoskeletal,HCPCS 22612,Spine arthrodesis,"$3,284.52",WA
+Multicare Auburn Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$353.97,WA
+Multicare Auburn Medical Center,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$36,581.85",WA
+Multicare Auburn Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$14,371.48",WA
+Multicare Auburn Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$14,008.93",WA
+Multicare Auburn Medical Center,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$27,094.27",WA
+Multicare Auburn Medical Center,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$17,948.27",WA
+Multicare Auburn Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$9,939.47",WA
+Multicare Auburn Medical Center,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries","$32,048.78",WA
+Multicare Auburn Medical Center,Ocular,HCPCS 66984,Cataract removal,"$1,458.21",WA
+Multicare Auburn Medical Center,Ocular,HCPCS 66982,Cataract removal with insertion of lens,"$1,458.21",WA
+Multicare Auburn Medical Center,Ocular,HCPCS 66821,Laser cataract removal,$720.07,WA
+Multicare Auburn Medical Center,Ocular,HCPCS 67311,Realignment of the eye with repair of eye muscle,"$13,210.70",WA
+Multicare Auburn Medical Center,Ocular,HCPCS 67108,Repair of detached retina,"$24,793.08",WA
+Multicare Auburn Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$361.36,WA
+Multicare Auburn Medical Center,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$175.71,WA
+Multicare Auburn Medical Center,Vascular,HCPCS 36416,Collection of capillary blood specimen,$9.08,WA
+Multicare Auburn Medical Center,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$6,794.84",WA
+Multicare Auburn Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$3,537.67",WA
+Multicare Auburn Medical Center,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$2,412.69",WA

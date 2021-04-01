@@ -1,0 +1,323 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Skagit Regional Health,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$1,195.20",WA
+Skagit Regional Health,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$3,378.40",WA
+Skagit Regional Health,Emergency Care,HCPCS 99281,Emergency Level 1,$280.00,WA
+Skagit Regional Health,Emergency Care,HCPCS 99282,Emergency Level 2,$460.00,WA
+Skagit Regional Health,Emergency Care,HCPCS 99283,Emergency Level 3,$820.00,WA
+Skagit Regional Health,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,384.00",WA
+Skagit Regional Health,Emergency Care,HCPCS 99285,Emergency Level 5,"$2,348.80",WA
+Skagit Regional Health,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$306.40,WA
+Skagit Regional Health,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$392.00,WA
+Skagit Regional Health,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$245.60,WA
+Skagit Regional Health,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$212.80,WA
+Skagit Regional Health,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$342.40,WA
+Skagit Regional Health,Speech,HCPCS 92507,Speech Therapy,$133.60,WA
+Skagit Regional Health,Speech,HCPCS 92610,Swallow Evaluation,$551.60,WA
+Skagit Regional Health,Speech,HCPCS 92526,Swallow Treatment,$310.40,WA
+Skagit Regional Health,Blood,HCPCS 85018,"Blood count, hemoglobin",$24.00,WA
+Skagit Regional Health,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$21.60,WA
+Skagit Regional Health,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$48.80,WA
+Skagit Regional Health,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$96.80,WA
+Skagit Regional Health,Blood,HCPCS 85610,"Blood test, clotting time",$42.40,WA
+Skagit Regional Health,Blood,HCPCS 85730,Coagulation assessment blood test,$68.00,WA
+Skagit Regional Health,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$75.20,WA
+Skagit Regional Health,Blood,HCPCS 85027,"Complete blood count, automated",$42.40,WA
+Skagit Regional Health,Blood,HCPCS 85008,Microscopic examination for white blood cells,$32.00,WA
+Skagit Regional Health,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$47.20,WA
+Skagit Regional Health,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$148.00,WA
+Skagit Regional Health,Blood,HCPCS 85660,Red blood cell sickling measurement,$64.80,WA
+Skagit Regional Health,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$456.00,WA
+Skagit Regional Health,Blood,HCPCS 85041,"Red blood count, automated test",$28.00,WA
+Skagit Regional Health,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$293.60,WA
+Skagit Regional Health,Chemistry,HCPCS 82040,Albumin (protein) level,$32.80,WA
+Skagit Regional Health,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$108.80,WA
+Skagit Regional Health,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$135.20,WA
+Skagit Regional Health,Chemistry,HCPCS 82140,Ammonia level,$116.80,WA
+Skagit Regional Health,Chemistry,HCPCS 82150,Amylase (enzyme) level,$54.40,WA
+Skagit Regional Health,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$111.20,WA
+Skagit Regional Health,Chemistry,HCPCS 84439,Assay of free thyroxine,$94.40,WA
+Skagit Regional Health,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$130.40,WA
+Skagit Regional Health,Chemistry,HCPCS 82248,Bilirubin level (Direct),$33.60,WA
+Skagit Regional Health,Chemistry,HCPCS 82247,Bilirubin level (Total),$34.40,WA
+Skagit Regional Health,Chemistry,HCPCS 82565,Blood creatinine level,$51.20,WA
+Skagit Regional Health,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$32.80,WA
+Skagit Regional Health,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$81.60,WA
+Skagit Regional Health,Chemistry,HCPCS 84295,Blood sodium level,$37.60,WA
+Skagit Regional Health,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$41.60,WA
+Skagit Regional Health,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$32.80,WA
+Skagit Regional Health,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$134.40,WA
+Skagit Regional Health,Chemistry,HCPCS 82310,Calcium level,$36.00,WA
+Skagit Regional Health,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$48.00,WA
+Skagit Regional Health,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$129.60,WA
+Skagit Regional Health,Chemistry,HCPCS 82465,Cholesterol level,$32.80,WA
+Skagit Regional Health,Chemistry,HCPCS 82525,Copper level,$148.80,WA
+Skagit Regional Health,Chemistry,HCPCS 82533,Cortisol Measurement,$83.20,WA
+Skagit Regional Health,Chemistry,HCPCS 84681,C-peptide (protein) level,$81.60,WA
+Skagit Regional Health,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$52.00,WA
+Skagit Regional Health,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$121.60,WA
+Skagit Regional Health,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$208.00,WA
+Skagit Regional Health,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$241.60,WA
+Skagit Regional Health,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$110.40,WA
+Skagit Regional Health,Chemistry,HCPCS 82746,Folic acid; serum,$89.60,WA
+Skagit Regional Health,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$75.20,WA
+Skagit Regional Health,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$58.40,WA
+Skagit Regional Health,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$116.80,WA
+Skagit Regional Health,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$138.40,WA
+Skagit Regional Health,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$140.00,WA
+Skagit Regional Health,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$101.60,WA
+Skagit Regional Health,Chemistry,HCPCS 83718,HDL cholesterol level,$47.20,WA
+Skagit Regional Health,Chemistry,HCPCS 83020,Hemoglobin Measurement,$56.00,WA
+Skagit Regional Health,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$123.20,WA
+Skagit Regional Health,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$144.80,WA
+Skagit Regional Health,Chemistry,HCPCS 83520,IgE (immune system protein) level,$231.20,WA
+Skagit Regional Health,Chemistry,HCPCS 83525,Insulin Measurement; Total,$66.40,WA
+Skagit Regional Health,Chemistry,HCPCS 82330,Ionized Calcium,$87.20,WA
+Skagit Regional Health,Chemistry,HCPCS 83550,Iron Binding Capacity,$74.40,WA
+Skagit Regional Health,Chemistry,HCPCS 83540,Iron level,$54.40,WA
+Skagit Regional Health,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$36.80,WA
+Skagit Regional Health,Chemistry,HCPCS 83721,LDL cholesterol level,$72.80,WA
+Skagit Regional Health,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$78.40,WA
+Skagit Regional Health,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$38.40,WA
+Skagit Regional Health,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$71.20,WA
+Skagit Regional Health,Chemistry,HCPCS 83021,Liver function blood test panel,$179.20,WA
+Skagit Regional Health,Chemistry,HCPCS 83735,Magnesium Level,$60.00,WA
+Skagit Regional Health,Chemistry,HCPCS 82542,Mass spectrometry,$191.20,WA
+Skagit Regional Health,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$144.00,WA
+Skagit Regional Health,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$90.40,WA
+Skagit Regional Health,Chemistry,HCPCS 83918,Organic acid level,$331.20,WA
+Skagit Regional Health,Chemistry,HCPCS 83945,Oxalate level,$104.00,WA
+Skagit Regional Health,Chemistry,HCPCS 83970,Parathormone,$248.80,WA
+Skagit Regional Health,Chemistry,HCPCS 84157,Prealbumin (protein) level,$50.40,WA
+Skagit Regional Health,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$196.00,WA
+Skagit Regional Health,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$129.60,WA
+Skagit Regional Health,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$122.40,WA
+Skagit Regional Health,Chemistry,HCPCS 82270,Stool analysis for blood,$48.00,WA
+Skagit Regional Health,Chemistry,HCPCS 84403,Testosterone (hormone) level,$207.20,WA
+Skagit Regional Health,Chemistry,HCPCS 84402,Testosterone Level; Free,$206.40,WA
+Skagit Regional Health,Chemistry,HCPCS 84479,"Thyroid Hormone, T3 Measurement, Free",$37.60,WA
+Skagit Regional Health,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$280.80,WA
+Skagit Regional Health,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$37.60,WA
+Skagit Regional Health,Chemistry,HCPCS 84155,"Total protein level, blood",$32.80,WA
+Skagit Regional Health,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$47.20,WA
+Skagit Regional Health,Chemistry,HCPCS 84166,Troponin (protein) analysis,$110.40,WA
+Skagit Regional Health,Chemistry,HCPCS 84560,Uric acid level,$51.20,WA
+Skagit Regional Health,Chemistry,HCPCS 84550,"Uric acid level, blood",$33.60,WA
+Skagit Regional Health,Chemistry,HCPCS 82340,Urine calcium level,$48.80,WA
+Skagit Regional Health,Chemistry,HCPCS 82436,Urine chloride level,$47.20,WA
+Skagit Regional Health,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$85.60,WA
+Skagit Regional Health,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$68.00,WA
+Skagit Regional Health,Chemistry,HCPCS 84133,Urine potassium level,$69.60,WA
+Skagit Regional Health,Chemistry,HCPCS 84300,Urine sodium level,$69.60,WA
+Skagit Regional Health,Chemistry,HCPCS 84591,Vitamin B-6 level,$640.00,WA
+Skagit Regional Health,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$120.80,WA
+Skagit Regional Health,Chemistry,HCPCS 84630,Zinc level,$85.60,WA
+Skagit Regional Health,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$66.40,WA
+Skagit Regional Health,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$105.60,WA
+Skagit Regional Health,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$98.40,WA
+Skagit Regional Health,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$119.20,WA
+Skagit Regional Health,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$217.60,WA
+Skagit Regional Health,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$114.40,WA
+Skagit Regional Health,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$82.40,WA
+Skagit Regional Health,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$83.20,WA
+Skagit Regional Health,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$86.40,WA
+Skagit Regional Health,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$64.80,WA
+Skagit Regional Health,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$149.60,WA
+Skagit Regional Health,Immunology,HCPCS 86140,Measurement C-reactive protein,$92.80,WA
+Skagit Regional Health,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$30.40,WA
+Skagit Regional Health,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$147.20,WA
+Skagit Regional Health,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$100.80,WA
+Skagit Regional Health,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$131.20,WA
+Skagit Regional Health,Immunology,HCPCS 86431,Rheumatoid factor level,$32.00,WA
+Skagit Regional Health,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$77.60,WA
+Skagit Regional Health,Immunology,HCPCS 86592,Syphilis Detection Test,$45.60,WA
+Skagit Regional Health,Immunology,HCPCS 86361,T cell count and ratio,$296.00,WA
+Skagit Regional Health,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$207.60,WA
+Skagit Regional Health,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$228.80,WA
+Skagit Regional Health,Immunology,HCPCS 86580,Tuberculosis Test,$48.80,WA
+Skagit Regional Health,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$56.40,WA
+Skagit Regional Health,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$99.20,WA
+Skagit Regional Health,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$80.00,WA
+Skagit Regional Health,Microbiology,HCPCS 87491,Chlamydia Test,$104.00,WA
+Skagit Regional Health,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$184.00,WA
+Skagit Regional Health,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$64.80,WA
+Skagit Regional Health,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$239.20,WA
+Skagit Regional Health,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$76.80,WA
+Skagit Regional Health,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$459.20,WA
+Skagit Regional Health,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$104.00,WA
+Skagit Regional Health,Microbiology,HCPCS 87517,Hepatitis B Detection,$432.00,WA
+Skagit Regional Health,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$116.00,WA
+Skagit Regional Health,Microbiology,HCPCS 87624,HPV Detection,$152.80,WA
+Skagit Regional Health,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$158.40,WA
+Skagit Regional Health,Microbiology,HCPCS 86735,Mumps virus antibody test,$61.60,WA
+Skagit Regional Health,Microbiology,HCPCS 86747,Parvovirus antibody test,$63.20,WA
+Skagit Regional Health,Microbiology,HCPCS 86762,Rubella virus antibody test,$105.60,WA
+Skagit Regional Health,Microbiology,HCPCS 86765,Rubeola virus antibody test,$101.60,WA
+Skagit Regional Health,Microbiology,HCPCS 87207,Smear for infectious agents,$105.60,WA
+Skagit Regional Health,Microbiology,HCPCS 87177,Smear for Parasites,$43.20,WA
+Skagit Regional Health,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$105.60,WA
+Skagit Regional Health,Microbiology,HCPCS 87045,Stool Culture,$99.20,WA
+Skagit Regional Health,Microbiology,HCPCS 87880,Strep Test,$31.20,WA
+Skagit Regional Health,Microbiology,HCPCS 87804,Test for Influenza Virus,$112.80,WA
+Skagit Regional Health,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$120.00,WA
+Skagit Regional Health,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$134.40,WA
+Skagit Regional Health,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$339.20,WA
+Skagit Regional Health,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$332.80,WA
+Skagit Regional Health,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$73.60,WA
+Skagit Regional Health,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$93.60,WA
+Skagit Regional Health,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$78.40,WA
+Skagit Regional Health,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$89.60,WA
+Skagit Regional Health,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$82.40,WA
+Skagit Regional Health,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$65.60,WA
+Skagit Regional Health,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$193.60,WA
+Skagit Regional Health,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$144.80,WA
+Skagit Regional Health,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$107.20,WA
+Skagit Regional Health,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$163.20,WA
+Skagit Regional Health,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$174.40,WA
+Skagit Regional Health,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$60.00,WA
+Skagit Regional Health,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$23.20,WA
+Skagit Regional Health,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$108.80,WA
+Skagit Regional Health,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$242.40,WA
+Skagit Regional Health,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$109.60,WA
+Skagit Regional Health,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$99.20,WA
+Skagit Regional Health,Transfusion,HCPCS 86900,"Blood Typing, ABO",$96.00,WA
+Skagit Regional Health,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$57.60,WA
+Skagit Regional Health,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$204.80,WA
+Skagit Regional Health,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$50.40,WA
+Skagit Regional Health,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$59.20,WA
+Skagit Regional Health,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$224.00,WA
+Skagit Regional Health,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$89.60,WA
+Skagit Regional Health,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$32.00,WA
+Skagit Regional Health,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$54.40,WA
+Skagit Regional Health,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$68.80,WA
+Skagit Regional Health,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$780.00,WA
+Skagit Regional Health,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$208.00,WA
+Skagit Regional Health,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$850.40,WA
+Skagit Regional Health,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,120.00",WA
+Skagit Regional Health,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$268.00,WA
+Skagit Regional Health,Pulmonary,HCPCS 94640,Nebulizer Treatment,$217.60,WA
+Skagit Regional Health,Pulmonary,HCPCS 94010,Spirometry - breathing test,$178.40,WA
+Skagit Regional Health,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$380.00,WA
+Skagit Regional Health,Breast,HCPCS 77067,Mammogram Screening,$340.00,WA
+Skagit Regional Health,Breast,HCPCS 77066,Mammography of both breasts,$412.00,WA
+Skagit Regional Health,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$2,256.00",WA
+Skagit Regional Health,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,732.80",WA
+Skagit Regional Health,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,228.00",WA
+Skagit Regional Health,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,336.80",WA
+Skagit Regional Health,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$4,484.00",WA
+Skagit Regional Health,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$3,413.60",WA
+Skagit Regional Health,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,897.60",WA
+Skagit Regional Health,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,941.60",WA
+Skagit Regional Health,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$2,223.20",WA
+Skagit Regional Health,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$2,022.40",WA
+Skagit Regional Health,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,730.40",WA
+Skagit Regional Health,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,785.60",WA
+Skagit Regional Health,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$2,008.00",WA
+Skagit Regional Health,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,627.20",WA
+Skagit Regional Health,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,512.00",WA
+Skagit Regional Health,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,512.00",WA
+Skagit Regional Health,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$3,532.00",WA
+Skagit Regional Health,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,512.00",WA
+Skagit Regional Health,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$3,164.80",WA
+Skagit Regional Health,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$3,212.00",WA
+Skagit Regional Health,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,296.00",WA
+Skagit Regional Health,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,874.40",WA
+Skagit Regional Health,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,040.80",WA
+Skagit Regional Health,MRI,HCPCS 73721,MRI scan of leg joint,"$2,296.00",WA
+Skagit Regional Health,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$651.20,WA
+Skagit Regional Health,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$488.80,WA
+Skagit Regional Health,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$623.20,WA
+Skagit Regional Health,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$600.00,WA
+Skagit Regional Health,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$761.60,WA
+Skagit Regional Health,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$688.00,WA
+Skagit Regional Health,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$556.00,WA
+Skagit Regional Health,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$459.20,WA
+Skagit Regional Health,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$640.00,WA
+Skagit Regional Health,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$444.80,WA
+Skagit Regional Health,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$452.80,WA
+Skagit Regional Health,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$571.20,WA
+Skagit Regional Health,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$628.80,WA
+Skagit Regional Health,Chest,HCPCS 71046,X-ray of chest; 2 Views,$362.40,WA
+Skagit Regional Health,Chest,HCPCS 71045,X-ray of chest; Single View,$240.00,WA
+Skagit Regional Health,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$419.20,WA
+Skagit Regional Health,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$531.20,WA
+Skagit Regional Health,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$372.80,WA
+Skagit Regional Health,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$156.80,WA
+Skagit Regional Health,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$488.80,WA
+Skagit Regional Health,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$249.60,WA
+Skagit Regional Health,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$296.00,WA
+Skagit Regional Health,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$588.80,WA
+Skagit Regional Health,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$420.00,WA
+Skagit Regional Health,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$328.00,WA
+Skagit Regional Health,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$296.00,WA
+Skagit Regional Health,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$422.40,WA
+Skagit Regional Health,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$296.80,WA
+Skagit Regional Health,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$348.00,WA
+Skagit Regional Health,Lower Limbs,HCPCS 73565,X-ray Both Knees,$234.40,WA
+Skagit Regional Health,Lower Limbs,HCPCS 73630,X-ray exam of foot,$344.80,WA
+Skagit Regional Health,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$348.00,WA
+Skagit Regional Health,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$315.20,WA
+Skagit Regional Health,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$228.00,WA
+Skagit Regional Health,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$226.40,WA
+Skagit Regional Health,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$246.40,WA
+Skagit Regional Health,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$456.00,WA
+Skagit Regional Health,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$296.00,WA
+Skagit Regional Health,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$703.20,WA
+Skagit Regional Health,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$332.00,WA
+Skagit Regional Health,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$424.00,WA
+Skagit Regional Health,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$637.60,WA
+Skagit Regional Health,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$362.40,WA
+Skagit Regional Health,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$226.40,WA
+Skagit Regional Health,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$240.00,WA
+Skagit Regional Health,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$364.00,WA
+Skagit Regional Health,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$364.00,WA
+Skagit Regional Health,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$286.40,WA
+Skagit Regional Health,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$249.60,WA
+Skagit Regional Health,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$362.40,WA
+Skagit Regional Health,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$1,030.40",WA
+Skagit Regional Health,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$3,040.00",WA
+Skagit Regional Health,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$256.00,WA
+Skagit Regional Health,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$182.40,WA
+Skagit Regional Health,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$4,500.00",WA
+Skagit Regional Health,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$4,200.00",WA
+Skagit Regional Health,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$7,120.00",WA
+Skagit Regional Health,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$3,200.00",WA
+Skagit Regional Health,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$3,040.00",WA
+Skagit Regional Health,Breast,HCPCS 19101,Biopsy of breast,"$2,554.40",WA
+Skagit Regional Health,Breast,HCPCS 19120,Excision of cyst of breast,"$1,900.00",WA
+Skagit Regional Health,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$519.20,WA
+Skagit Regional Health,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,440.00",WA
+Skagit Regional Health,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,000.00",WA
+Skagit Regional Health,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal",$879.20,WA
+Skagit Regional Health,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,600.00",WA
+Skagit Regional Health,Digestive,HCPCS 43235,EGD,$924.80,WA
+Skagit Regional Health,Digestive,HCPCS 43239,EGD and biopsy,$960.00,WA
+Skagit Regional Health,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$1,985.60",WA
+Skagit Regional Health,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$2,716.00",WA
+Skagit Regional Health,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$3,140.00",WA
+Skagit Regional Health,General,HCPCS 55700,Biopsy of prostate gland,"$3,025.60",WA
+Skagit Regional Health,General,HCPCS 10060,Drainage of Abscess,$487.20,WA
+Skagit Regional Health,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$678.40,WA
+Skagit Regional Health,General,HCPCS 69200,Removal of foreign body from ear canal,$290.40,WA
+Skagit Regional Health,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$452.00,WA
+Skagit Regional Health,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$605.60,WA
+Skagit Regional Health,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$403.20,WA
+Skagit Regional Health,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$440.00,WA
+Skagit Regional Health,Head,HCPCS 69436,Create eardrum opening,"$1,650.40",WA
+Skagit Regional Health,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$1,880.00",WA
+Skagit Regional Health,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$3,790.40",WA
+Skagit Regional Health,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$584.00,WA
+Skagit Regional Health,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$988.80,WA
+Skagit Regional Health,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,$988.80,WA
+Skagit Regional Health,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$550.40,WA
+Skagit Regional Health,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$2,796.80",WA
+Skagit Regional Health,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$227.20,WA
+Skagit Regional Health,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$2,016.00",WA
+Skagit Regional Health,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$3,708.80",WA
+Skagit Regional Health,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$3,708.80",WA
+Skagit Regional Health,Soft Tissue,HCPCS 97597,Debridement of open wound,$312.00,WA
+Skagit Regional Health,Soft Tissue,HCPCS 97602,Non-selective debridement,$270.40,WA
+Skagit Regional Health,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$180.00,WA
+Skagit Regional Health,Vascular,HCPCS 36416,Collection of capillary blood specimen,$35.20,WA
+Skagit Regional Health,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$2,168.00",WA
+Skagit Regional Health,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,200.00",WA
+Skagit Regional Health,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,113.60",WA

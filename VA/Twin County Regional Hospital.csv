@@ -1,0 +1,341 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Twin County Regional Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$129.72,VA
+Twin County Regional Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$228.89,VA
+Twin County Regional Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$338.24,VA
+Twin County Regional Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$539.79,VA
+Twin County Regional Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$798.16,VA
+Twin County Regional Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$430.44,VA
+Twin County Regional Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$553.40,VA
+Twin County Regional Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$313.58,VA
+Twin County Regional Hospital,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$272.84,VA
+Twin County Regional Hospital,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$248.72,VA
+Twin County Regional Hospital,Psychology,HCPCS 90853,Group psychotherapy,$199.41,VA
+Twin County Regional Hospital,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$203.70,VA
+Twin County Regional Hospital,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$328.59,VA
+Twin County Regional Hospital,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$377.38,VA
+Twin County Regional Hospital,Speech,HCPCS 92507,Speech Therapy,$135.08,VA
+Twin County Regional Hospital,Speech,HCPCS 92610,Swallow Evaluation,$192.98,VA
+Twin County Regional Hospital,Speech,HCPCS 92526,Swallow Treatment,$100.78,VA
+Twin County Regional Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$10.72,VA
+Twin County Regional Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$10.72,VA
+Twin County Regional Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$36.45,VA
+Twin County Regional Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$113.10,VA
+Twin County Regional Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$30.55,VA
+Twin County Regional Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$46.64,VA
+Twin County Regional Hospital,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$28.95,VA
+Twin County Regional Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$60.04,VA
+Twin County Regional Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$49.85,VA
+Twin County Regional Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$26.27,VA
+Twin County Regional Hospital,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$100.78,VA
+Twin County Regional Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$40.74,VA
+Twin County Regional Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$831.94,VA
+Twin County Regional Hospital,Blood,HCPCS 85041,"Red blood count, automated test",$15.54,VA
+Twin County Regional Hospital,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$247.65,VA
+Twin County Regional Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$281.96,VA
+Twin County Regional Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$38.06,VA
+Twin County Regional Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$98.10,VA
+Twin County Regional Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$122.75,VA
+Twin County Regional Hospital,Chemistry,HCPCS 82140,Ammonia level,$112.57,VA
+Twin County Regional Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$49.85,VA
+Twin County Regional Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$106.14,VA
+Twin County Regional Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$198.34,VA
+Twin County Regional Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$53.60,VA
+Twin County Regional Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$118.46,VA
+Twin County Regional Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$38.60,VA
+Twin County Regional Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$38.60,VA
+Twin County Regional Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$39.67,VA
+Twin County Regional Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$30.55,VA
+Twin County Regional Hospital,Chemistry,HCPCS 84295,Blood sodium level,$36.98,VA
+Twin County Regional Hospital,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$35.38,VA
+Twin County Regional Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$129.72,VA
+Twin County Regional Hospital,Chemistry,HCPCS 82310,Calcium level,$40.20,VA
+Twin County Regional Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$23.05,VA
+Twin County Regional Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$138.30,VA
+Twin County Regional Hospital,Chemistry,HCPCS 82465,Cholesterol level,$33.77,VA
+Twin County Regional Hospital,Chemistry,HCPCS 82525,Copper level,$90.59,VA
+Twin County Regional Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$119.00,VA
+Twin County Regional Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$152.24,VA
+Twin County Regional Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$49.85,VA
+Twin County Regional Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$109.89,VA
+Twin County Regional Hospital,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$36.98,VA
+Twin County Regional Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$280.89,VA
+Twin County Regional Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$99.17,VA
+Twin County Regional Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$107.74,VA
+Twin County Regional Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$67.54,VA
+Twin County Regional Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$55.75,VA
+Twin County Regional Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$75.58,VA
+Twin County Regional Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$135.62,VA
+Twin County Regional Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$135.08,VA
+Twin County Regional Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$91.66,VA
+Twin County Regional Hospital,Chemistry,HCPCS 83718,HDL cholesterol level,$47.71,VA
+Twin County Regional Hospital,Chemistry,HCPCS 83020,Hemoglobin Measurement,$93.81,VA
+Twin County Regional Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$123.29,VA
+Twin County Regional Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$198.34,VA
+Twin County Regional Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$295.90,VA
+Twin County Regional Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$83.08,VA
+Twin County Regional Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$99.70,VA
+Twin County Regional Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$64.33,VA
+Twin County Regional Hospital,Chemistry,HCPCS 83540,Iron level,$47.17,VA
+Twin County Regional Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$46.64,VA
+Twin County Regional Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$69.69,VA
+Twin County Regional Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$53.60,VA
+Twin County Regional Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$40.20,VA
+Twin County Regional Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$103.46,VA
+Twin County Regional Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$131.87,VA
+Twin County Regional Hospital,Chemistry,HCPCS 83735,Magnesium Level,$52.00,VA
+Twin County Regional Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$47.90,VA
+Twin County Regional Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$99.17,VA
+Twin County Regional Hospital,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$80.94,VA
+Twin County Regional Hospital,Chemistry,HCPCS 83918,Organic acid level,$120.07,VA
+Twin County Regional Hospital,Chemistry,HCPCS 83945,Oxalate level,$93.81,VA
+Twin County Regional Hospital,Chemistry,HCPCS 83970,Parathormone,$301.26,VA
+Twin County Regional Hospital,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$54.14,VA
+Twin County Regional Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$21.98,VA
+Twin County Regional Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$394.51,VA
+Twin County Regional Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$142.05,VA
+Twin County Regional Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$78.80,VA
+Twin County Regional Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$18.80,VA
+Twin County Regional Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$188.68,VA
+Twin County Regional Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$186.01,VA
+Twin County Regional Hospital,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$49.85,VA
+Twin County Regional Hospital,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$371.47,VA
+Twin County Regional Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$53.07,VA
+Twin County Regional Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$28.41,VA
+Twin County Regional Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$28.41,VA
+Twin County Regional Hospital,Chemistry,HCPCS 84478,Triglycerides level,$33.77,VA
+Twin County Regional Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$130.26,VA
+Twin County Regional Hospital,Chemistry,HCPCS 84560,Uric acid level,$34.84,VA
+Twin County Regional Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$34.84,VA
+Twin County Regional Hospital,Chemistry,HCPCS 82340,Urine calcium level,$43.96,VA
+Twin County Regional Hospital,Chemistry,HCPCS 82436,Urine chloride level,$45.03,VA
+Twin County Regional Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$42.35,VA
+Twin County Regional Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$49.32,VA
+Twin County Regional Hospital,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$107.74,VA
+Twin County Regional Hospital,Chemistry,HCPCS 84133,Urine potassium level,$33.24,VA
+Twin County Regional Hospital,Chemistry,HCPCS 84300,Urine sodium level,$37.52,VA
+Twin County Regional Hospital,Chemistry,HCPCS 84591,Vitamin B-6 level,$67.20,VA
+Twin County Regional Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$235.32,VA
+Twin County Regional Hospital,Chemistry,HCPCS 84630,Zinc level,$83.08,VA
+Twin County Regional Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$124.36,VA
+Twin County Regional Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$104.53,VA
+Twin County Regional Hospital,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$104.53,VA
+Twin County Regional Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$96.49,VA
+Twin County Regional Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$64.86,VA
+Twin County Regional Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$103.99,VA
+Twin County Regional Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$100.24,VA
+Twin County Regional Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$87.91,VA
+Twin County Regional Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$78.80,VA
+Twin County Regional Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$27.97,VA
+Twin County Regional Hospital,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$163.49,VA
+Twin County Regional Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$37.52,VA
+Twin County Regional Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$456.72,VA
+Twin County Regional Hospital,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$87.91,VA
+Twin County Regional Hospital,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$55.75,VA
+Twin County Regional Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$90.05,VA
+Twin County Regional Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$105.60,VA
+Twin County Regional Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$41.27,VA
+Twin County Regional Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$34.84,VA
+Twin County Regional Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$31.10,VA
+Twin County Regional Hospital,Immunology,HCPCS 86361,T cell count and ratio,$195.12,VA
+Twin County Regional Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$342.54,VA
+Twin County Regional Hospital,Immunology,HCPCS 86359,"T cells count, total",$274.99,VA
+Twin County Regional Hospital,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$115.78,VA
+Twin County Regional Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$30.55,VA
+Twin County Regional Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$50.92,VA
+Twin County Regional Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$47.71,VA
+Twin County Regional Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$208.52,VA
+Twin County Regional Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$82.10,VA
+Twin County Regional Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$219.78,VA
+Twin County Regional Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$71.29,VA
+Twin County Regional Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$312.51,VA
+Twin County Regional Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$75.58,VA
+Twin County Regional Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$620.74,VA
+Twin County Regional Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$158.67,VA
+Twin County Regional Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$628.08,VA
+Twin County Regional Hospital,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$132.01,VA
+Twin County Regional Hospital,Microbiology,HCPCS 87624,HPV Detection,$72.80,VA
+Twin County Regional Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$94.88,VA
+Twin County Regional Hospital,Microbiology,HCPCS 86747,Parvovirus antibody test,$109.89,VA
+Twin County Regional Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$104.53,VA
+Twin County Regional Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$93.81,VA
+Twin County Regional Hospital,Microbiology,HCPCS 87207,Smear for infectious agents,$16.58,VA
+Twin County Regional Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$64.86,VA
+Twin County Regional Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$31.63,VA
+Twin County Regional Hospital,Microbiology,HCPCS 87045,Stool Culture,$55.75,VA
+Twin County Regional Hospital,Microbiology,HCPCS 87880,Streptoccus,$70.76,VA
+Twin County Regional Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$96.49,VA
+Twin County Regional Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$93.81,VA
+Twin County Regional Hospital,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$135.56,VA
+Twin County Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$263.20,VA
+Twin County Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$65.40,VA
+Twin County Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$81.48,VA
+Twin County Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$79.87,VA
+Twin County Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$67.01,VA
+Twin County Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$63.26,VA
+Twin County Regional Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$78.80,VA
+Twin County Regional Hospital,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$99.70,VA
+Twin County Regional Hospital,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$131.87,VA
+Twin County Regional Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$102.39,VA
+Twin County Regional Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$111.45,VA
+Twin County Regional Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$51.46,VA
+Twin County Regional Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$102.39,VA
+Twin County Regional Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$100.24,VA
+Twin County Regional Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$104.53,VA
+Twin County Regional Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$38.60,VA
+Twin County Regional Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$38.60,VA
+Twin County Regional Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$752.59,VA
+Twin County Regional Hospital,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$11.12,VA
+Twin County Regional Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$38.60,VA
+Twin County Regional Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$221.94,VA
+Twin County Regional Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$17.69,VA
+Twin County Regional Hospital,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$19.83,VA
+Twin County Regional Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$24.12,VA
+Twin County Regional Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$48.78,VA
+Twin County Regional Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$485.65,VA
+Twin County Regional Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$131.87,VA
+Twin County Regional Hospital,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$631.99,VA
+Twin County Regional Hospital,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$191.91,VA
+Twin County Regional Hospital,Pulmonary,HCPCS 94640,Nebulizer Treatment,$80.41,VA
+Twin County Regional Hospital,Pulmonary,HCPCS 94618,Pulmonary stress test,$166.17,VA
+Twin County Regional Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$160.28,VA
+Twin County Regional Hospital,Sleep,HCPCS 95810,Sleep study,"$2,608.90",VA
+Twin County Regional Hospital,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$40.42,VA
+Twin County Regional Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$505.19,VA
+Twin County Regional Hospital,Breast,HCPCS 77067,Mammogram Screening,$438.47,VA
+Twin County Regional Hospital,Breast,HCPCS 77066,Mammography of both breasts,$617.46,VA
+Twin County Regional Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,333.13",VA
+Twin County Regional Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,225.39",VA
+Twin County Regional Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$739.20,VA
+Twin County Regional Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$739.20,VA
+Twin County Regional Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,987.10",VA
+Twin County Regional Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,787.69",VA
+Twin County Regional Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,382.98",VA
+Twin County Regional Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,068.32",VA
+Twin County Regional Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,325.09",VA
+Twin County Regional Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,102.63",VA
+Twin County Regional Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$923.06,VA
+Twin County Regional Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,068.32",VA
+Twin County Regional Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$925.20,VA
+Twin County Regional Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,815.56",VA
+Twin County Regional Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,962.98",VA
+Twin County Regional Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,962.98",VA
+Twin County Regional Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,879.06",VA
+Twin County Regional Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,769.46",VA
+Twin County Regional Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$3,928.09",VA
+Twin County Regional Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$3,776.92",VA
+Twin County Regional Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,864.35",VA
+Twin County Regional Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,928.09",VA
+Twin County Regional Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,769.46",VA
+Twin County Regional Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$1,769.46",VA
+Twin County Regional Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$715.08,VA
+Twin County Regional Hospital,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$881.25,VA
+Twin County Regional Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$592.86,VA
+Twin County Regional Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$623.95,VA
+Twin County Regional Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$955.76,VA
+Twin County Regional Hospital,Ultrasound,HCPCS 76881,Ultrasound Joint Soft Tissue - Complete,$767.07,VA
+Twin County Regional Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,569.52",VA
+Twin County Regional Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$768.68,VA
+Twin County Regional Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$615.91,VA
+Twin County Regional Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$889.82,VA
+Twin County Regional Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,092.45",VA
+Twin County Regional Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$333.42,VA
+Twin County Regional Hospital,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$287.93,VA
+Twin County Regional Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$220.32,VA
+Twin County Regional Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$127.04,VA
+Twin County Regional Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$206.24,VA
+Twin County Regional Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$272.84,VA
+Twin County Regional Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$182.79,VA
+Twin County Regional Hospital,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$192.46,VA
+Twin County Regional Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$282.31,VA
+Twin County Regional Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$175.82,VA
+Twin County Regional Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$150.60,VA
+Twin County Regional Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$309.38,VA
+Twin County Regional Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$165.64,VA
+Twin County Regional Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$143.12,VA
+Twin County Regional Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$240.45,VA
+Twin County Regional Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$138.30,VA
+Twin County Regional Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$221.92,VA
+Twin County Regional Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$159.79,VA
+Twin County Regional Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$202.62,VA
+Twin County Regional Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$298.57,VA
+Twin County Regional Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$157.60,VA
+Twin County Regional Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$137.33,VA
+Twin County Regional Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$150.60,VA
+Twin County Regional Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$138.30,VA
+Twin County Regional Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$276.06,VA
+Twin County Regional Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$221.92,VA
+Twin County Regional Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$303.94,VA
+Twin County Regional Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$241.22,VA
+Twin County Regional Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$370.12,VA
+Twin County Regional Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$238.54,VA
+Twin County Regional Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$221.92,VA
+Twin County Regional Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$138.84,VA
+Twin County Regional Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$157.75,VA
+Twin County Regional Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$179.58,VA
+Twin County Regional Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$221.92,VA
+Twin County Regional Hospital,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$158.67,VA
+Twin County Regional Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$165.64,VA
+Twin County Regional Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$179.58,VA
+Twin County Regional Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$9,329.38",VA
+Twin County Regional Hospital,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$13,568.80",VA
+Twin County Regional Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$7,112.70",VA
+Twin County Regional Hospital,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$3,412.36",VA
+Twin County Regional Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$3,897.43",VA
+Twin County Regional Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$150.10,VA
+Twin County Regional Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$112.57,VA
+Twin County Regional Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$16,602.26",VA
+Twin County Regional Hospital,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$11,612.16",VA
+Twin County Regional Hospital,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$7,760.12",VA
+Twin County Regional Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$10,298.18",VA
+Twin County Regional Hospital,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$12,105.23",VA
+Twin County Regional Hospital,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$11,407.73",VA
+Twin County Regional Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,$657.49,VA
+Twin County Regional Hospital,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$5,113.60",VA
+Twin County Regional Hospital,Breast,HCPCS 19101,Biopsy of breast,"$5,859.98",VA
+Twin County Regional Hospital,Breast,HCPCS 19125,Excision of breast lesion,"$10,518.07",VA
+Twin County Regional Hospital,Breast,HCPCS 19120,Excision of cyst of breast,"$4,538.10",VA
+Twin County Regional Hospital,Breast,HCPCS 19301,Partial removal of breast,"$3,077.48",VA
+Twin County Regional Hospital,Breast,HCPCS 19303,Total removal of breast,"$18,697.37",VA
+Twin County Regional Hospital,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$16,411.19",VA
+Twin County Regional Hospital,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$294.83,VA
+Twin County Regional Hospital,Cardiac,MSDRG 247,Implant drug-eluting stent,"$9,658.52",VA
+Twin County Regional Hospital,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$7,198.14",VA
+Twin County Regional Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,752.85",VA
+Twin County Regional Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$2,693.60",VA
+Twin County Regional Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$2,786.71",VA
+Twin County Regional Hospital,Digestive,HCPCS 43235,EGD,"$1,064.04",VA
+Twin County Regional Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$1,774.91",VA
+Twin County Regional Hospital,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$3,817.93",VA
+Twin County Regional Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$11,253.65",VA
+Twin County Regional Hospital,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$5,894.78",VA
+Twin County Regional Hospital,General,HCPCS 55700,Biopsy of prostate gland,"$3,180.32",VA
+Twin County Regional Hospital,General,HCPCS 10060,Drainage of Abscess,$255.69,VA
+Twin County Regional Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$475.47,VA
+Twin County Regional Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$122.22,VA
+Twin County Regional Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$310.90,VA
+Twin County Regional Hospital,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$269.04,VA
+Twin County Regional Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$310.90,VA
+Twin County Regional Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$310.90,VA
+Twin County Regional Hospital,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$260.52,VA
+Twin County Regional Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$2,330.90",VA
+Twin County Regional Hospital,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$2,330.90",VA
+Twin County Regional Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$1,092.42",VA
+Twin County Regional Hospital,Musculoskeletal,HCPCS 27200,Insertion of Breathing Tube Using an Endoscope,$346.82,VA
+Twin County Regional Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$861.72,VA
+Twin County Regional Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$31,387.21",VA
+Twin County Regional Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$2,536.18",VA
+Twin County Regional Hospital,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$2,748.73",VA
+Twin County Regional Hospital,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$2,748.73",VA
+Twin County Regional Hospital,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$259.44,VA
+Twin County Regional Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$4,926.17",VA
+Twin County Regional Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$9,207.53",VA
+Twin County Regional Hospital,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$7,380.64",VA
+Twin County Regional Hospital,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$7,720.80",VA
+Twin County Regional Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$5,441.14",VA
+Twin County Regional Hospital,Ocular,HCPCS 66984,Cataract removal,"$4,024.74",VA
+Twin County Regional Hospital,Ocular,HCPCS 66821,Laser cataract removal,$789.57,VA
+Twin County Regional Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$345.21,VA
+Twin County Regional Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$202.62,VA
+Twin County Regional Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$15.01,VA
+Twin County Regional Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$2,546.72",VA
+Twin County Regional Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,010.97",VA

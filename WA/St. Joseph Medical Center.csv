@@ -1,0 +1,59 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+St. Joseph Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$87.75,WA
+St. Joseph Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$87.75,WA
+St. Joseph Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$87.75,WA
+St. Joseph Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$198.25,WA
+St. Joseph Medical Center,Speech,HCPCS 92507,Speech Therapy,$148.85,WA
+St. Joseph Medical Center,Speech,HCPCS 92610,Swallow Evaluation,$246.35,WA
+St. Joseph Medical Center,Speech,HCPCS 92526,Swallow Treatment,$250.90,WA
+St. Joseph Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$50.05,WA
+St. Joseph Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$66.30,WA
+St. Joseph Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$64.35,WA
+St. Joseph Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$45.50,WA
+St. Joseph Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$115.05,WA
+St. Joseph Medical Center,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$524.55,WA
+St. Joseph Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$91.00,WA
+St. Joseph Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$124.15,WA
+St. Joseph Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$105.30,WA
+St. Joseph Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$69.55,WA
+St. Joseph Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$57.20,WA
+St. Joseph Medical Center,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$160.55,WA
+St. Joseph Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$58.50,WA
+St. Joseph Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$38.35,WA
+St. Joseph Medical Center,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$37.70,WA
+St. Joseph Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$40.95,WA
+St. Joseph Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$172.25,WA
+St. Joseph Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,175.20",WA
+St. Joseph Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,849.30",WA
+St. Joseph Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,872.35",WA
+St. Joseph Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,932.45",WA
+St. Joseph Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,944.15",WA
+St. Joseph Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,139.50",WA
+St. Joseph Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$1,738.75",WA
+St. Joseph Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$609.05,WA
+St. Joseph Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$603.20,WA
+St. Joseph Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$419.90,WA
+St. Joseph Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$383.50,WA
+St. Joseph Medical Center,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,"$139,612.14",WA
+St. Joseph Medical Center,Cardiac,MSDRG 216,Cardiac valve procedure,"$197,330.47",WA
+St. Joseph Medical Center,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$146,133.91",WA
+St. Joseph Medical Center,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$96,225.23",WA
+St. Joseph Medical Center,Cardiac,HCPCS 33249,Defibrillator complete system,"$69,743.05",WA
+St. Joseph Medical Center,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$7,118.15",WA
+St. Joseph Medical Center,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$7,882.55",WA
+St. Joseph Medical Center,Cardiac,MSDRG 247,Implant drug-eluting stent,"$65,882.30",WA
+St. Joseph Medical Center,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$45,599.00",WA
+St. Joseph Medical Center,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$22,475.70",WA
+St. Joseph Medical Center,Digestive,HCPCS 43235,EGD,"$1,706.25",WA
+St. Joseph Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$24,322.88",WA
+St. Joseph Medical Center,General,HCPCS 55700,Biopsy of prostate gland,"$4,443.40",WA
+St. Joseph Medical Center,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$94,453.18",WA
+St. Joseph Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$1,227.20",WA
+St. Joseph Medical Center,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$1,186.90",WA
+St. Joseph Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$36,728.08",WA
+St. Joseph Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$65,220.42",WA
+St. Joseph Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$61,123.97",WA
+St. Joseph Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$23,044.99",WA
+St. Joseph Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$12,098.78",WA
+St. Joseph Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$871.00,WA
+St. Joseph Medical Center,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,505.40",WA

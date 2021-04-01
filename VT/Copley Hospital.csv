@@ -1,0 +1,276 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Copley Hospital,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$129.00,VT
+Copley Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes",$900.00,VT
+Copley Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$218.00,VT
+Copley Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$316.00,VT
+Copley Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$522.00,VT
+Copley Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$794.00,VT
+Copley Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,148.00",VT
+Copley Hospital,Hospital,HCPCS 99234,Hospital observation care discharge,$389.00,VT
+Copley Hospital,Hospital,HCPCS 99219,Hospital observation care typically 30 minutes,$266.00,VT
+Copley Hospital,Hospital,HCPCS 99218,Hospital Observation per Hour,$194.00,VT
+Copley Hospital,Hospital,HCPCS 99224,"Subsequent observation care, typically 25 minutes per day",$78.00,VT
+Copley Hospital,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$298.00,VT
+Copley Hospital,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$255.00,VT
+Copley Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$68.00,VT
+Copley Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$412.00,VT
+Copley Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$117.00,VT
+Copley Hospital,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$293.00,VT
+Copley Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$419.00,VT
+Copley Hospital,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$554.00,VT
+Copley Hospital,Speech,HCPCS 92507,Speech Therapy,$194.00,VT
+Copley Hospital,Speech,HCPCS 92610,Swallow Evaluation,$205.00,VT
+Copley Hospital,Speech,HCPCS 92526,Swallow Treatment,$244.00,VT
+Copley Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$14.00,VT
+Copley Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$14.00,VT
+Copley Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$27.00,VT
+Copley Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$73.00,VT
+Copley Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$26.00,VT
+Copley Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$34.00,VT
+Copley Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$41.00,VT
+Copley Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$37.00,VT
+Copley Hospital,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$52.00,VT
+Copley Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$21.00,VT
+Copley Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$1,129.00",VT
+Copley Hospital,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$127.00,VT
+Copley Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$145.00,VT
+Copley Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$24.00,VT
+Copley Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$50.00,VT
+Copley Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$68.00,VT
+Copley Hospital,Chemistry,HCPCS 82140,Ammonia level,$86.00,VT
+Copley Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$33.00,VT
+Copley Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$55.00,VT
+Copley Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$50.00,VT
+Copley Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$23.00,VT
+Copley Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$29.00,VT
+Copley Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$29.00,VT
+Copley Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$29.00,VT
+Copley Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$23.00,VT
+Copley Hospital,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$19.00,VT
+Copley Hospital,Chemistry,HCPCS 84295,Blood sodium level,$18.00,VT
+Copley Hospital,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$34.00,VT
+Copley Hospital,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$26.00,VT
+Copley Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$84.00,VT
+Copley Hospital,Chemistry,HCPCS 82310,Calcium level,$23.00,VT
+Copley Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$18.00,VT
+Copley Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$50.00,VT
+Copley Hospital,Chemistry,HCPCS 82465,Cholesterol level,$25.00,VT
+Copley Hospital,Chemistry,HCPCS 82525,Copper level,$94.00,VT
+Copley Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$51.00,VT
+Copley Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$78.00,VT
+Copley Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$38.00,VT
+Copley Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$50.00,VT
+Copley Hospital,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$92.00,VT
+Copley Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$144.00,VT
+Copley Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$50.00,VT
+Copley Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$52.00,VT
+Copley Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$72.00,VT
+Copley Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$41.00,VT
+Copley Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$55.00,VT
+Copley Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$54.00,VT
+Copley Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$52.00,VT
+Copley Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$47.00,VT
+Copley Hospital,Chemistry,HCPCS 83718,HDL cholesterol level,$31.00,VT
+Copley Hospital,Chemistry,HCPCS 83020,Hemoglobin Measurement,$102.00,VT
+Copley Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$81.00,VT
+Copley Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$100.00,VT
+Copley Hospital,Chemistry,HCPCS 83520,IgE (immune system protein) level,$195.00,VT
+Copley Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$70.00,VT
+Copley Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$51.00,VT
+Copley Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$50.00,VT
+Copley Hospital,Chemistry,HCPCS 83540,Iron level,$38.00,VT
+Copley Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$33.00,VT
+Copley Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$36.00,VT
+Copley Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$26.00,VT
+Copley Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$29.00,VT
+Copley Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$48.00,VT
+Copley Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$68.00,VT
+Copley Hospital,Chemistry,HCPCS 83735,Magnesium Level,$40.00,VT
+Copley Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$81.00,VT
+Copley Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$51.00,VT
+Copley Hospital,Chemistry,HCPCS 83970,Parathormone,$120.00,VT
+Copley Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$14.00,VT
+Copley Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$62.00,VT
+Copley Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$58.00,VT
+Copley Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$62.00,VT
+Copley Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$14.00,VT
+Copley Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$72.00,VT
+Copley Hospital,Chemistry,HCPCS 84479,"Thyroid Hormone, T3 Measurement, Free",$24.00,VT
+Copley Hospital,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$191.00,VT
+Copley Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$40.00,VT
+Copley Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$23.00,VT
+Copley Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$22.00,VT
+Copley Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$60.00,VT
+Copley Hospital,Chemistry,HCPCS 84560,Uric acid level,$18.00,VT
+Copley Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$26.00,VT
+Copley Hospital,Chemistry,HCPCS 82340,Urine calcium level,$32.00,VT
+Copley Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$46.00,VT
+Copley Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$25.00,VT
+Copley Hospital,Chemistry,HCPCS 84133,Urine potassium level,$16.00,VT
+Copley Hospital,Chemistry,HCPCS 84300,Urine sodium level,$28.00,VT
+Copley Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$86.00,VT
+Copley Hospital,Chemistry,HCPCS 84630,Zinc level,$75.00,VT
+Copley Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$64.00,VT
+Copley Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$54.00,VT
+Copley Hospital,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$54.00,VT
+Copley Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$52.00,VT
+Copley Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$72.00,VT
+Copley Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$51.00,VT
+Copley Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$86.00,VT
+Copley Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$51.00,VT
+Copley Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$56.00,VT
+Copley Hospital,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$76.00,VT
+Copley Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$46.00,VT
+Copley Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$79.00,VT
+Copley Hospital,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$90.00,VT
+Copley Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$68.00,VT
+Copley Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$64.00,VT
+Copley Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$77.00,VT
+Copley Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$29.00,VT
+Copley Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$35.00,VT
+Copley Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$65.00,VT
+Copley Hospital,Immunology,HCPCS 86359,"T cells count, total",$141.00,VT
+Copley Hospital,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$64.00,VT
+Copley Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$29.00,VT
+Copley Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$49.00,VT
+Copley Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$76.00,VT
+Copley Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$148.00,VT
+Copley Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$161.00,VT
+Copley Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$68.00,VT
+Copley Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$320.00,VT
+Copley Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$76.00,VT
+Copley Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$161.00,VT
+Copley Hospital,Microbiology,HCPCS 87624,HPV Detection,$138.00,VT
+Copley Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$50.00,VT
+Copley Hospital,Microbiology,HCPCS 86747,Parvovirus antibody test,$57.00,VT
+Copley Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$53.00,VT
+Copley Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$49.00,VT
+Copley Hospital,Microbiology,HCPCS 87207,Smear for infectious agents,$49.00,VT
+Copley Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$48.00,VT
+Copley Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$20.00,VT
+Copley Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$50.00,VT
+Copley Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$92.00,VT
+Copley Hospital,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$50.00,VT
+Copley Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$341.00,VT
+Copley Hospital,Breast,HCPCS 77067,Mammogram Screening,$379.00,VT
+Copley Hospital,Breast,HCPCS 77066,Mammography of both breasts,$481.00,VT
+Copley Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,254.00",VT
+Copley Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$371.00,VT
+Copley Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$842.00,VT
+Copley Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$842.00,VT
+Copley Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,264.00",VT
+Copley Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,281.00",VT
+Copley Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,055.00",VT
+Copley Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,027.00",VT
+Copley Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,$603.00,VT
+Copley Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,027.00",VT
+Copley Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$880.00,VT
+Copley Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$603.00,VT
+Copley Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,027.00",VT
+Copley Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)",$771.00,VT
+Copley Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,$771.00,VT
+Copley Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,655.00",VT
+Copley Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$1,264.00",VT
+Copley Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,493.00",VT
+Copley Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$1,264.00",VT
+Copley Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,264.00",VT
+Copley Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,493.00",VT
+Copley Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,818.00",VT
+Copley Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,493.00",VT
+Copley Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$1,493.00",VT
+Copley Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$536.00,VT
+Copley Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$371.00,VT
+Copley Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$368.00,VT
+Copley Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$624.00,VT
+Copley Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$540.00,VT
+Copley Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$419.00,VT
+Copley Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$371.00,VT
+Copley Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$382.00,VT
+Copley Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$304.00,VT
+Copley Hospital,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$368.00,VT
+Copley Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$371.00,VT
+Copley Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$251.00,VT
+Copley Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$174.00,VT
+Copley Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$265.00,VT
+Copley Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$371.00,VT
+Copley Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$265.00,VT
+Copley Hospital,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$371.00,VT
+Copley Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$371.00,VT
+Copley Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$265.00,VT
+Copley Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$108.00,VT
+Copley Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$371.00,VT
+Copley Hospital,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$375.00,VT
+Copley Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$346.00,VT
+Copley Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$248.00,VT
+Copley Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$164.00,VT
+Copley Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$227.00,VT
+Copley Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$265.00,VT
+Copley Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$240.00,VT
+Copley Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$317.00,VT
+Copley Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$265.00,VT
+Copley Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$164.00,VT
+Copley Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$185.00,VT
+Copley Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$164.00,VT
+Copley Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$437.00,VT
+Copley Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$164.00,VT
+Copley Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$403.00,VT
+Copley Hospital,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$239.00,VT
+Copley Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$315.00,VT
+Copley Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$371.00,VT
+Copley Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$239.00,VT
+Copley Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$164.00,VT
+Copley Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$151.00,VT
+Copley Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$181.00,VT
+Copley Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$240.00,VT
+Copley Hospital,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$164.00,VT
+Copley Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$164.00,VT
+Copley Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$230.00,VT
+Copley Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$1,614.00",VT
+Copley Hospital,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$1,731.00",VT
+Copley Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$1,138.00",VT
+Copley Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$204.00,VT
+Copley Hospital,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$1,283.00",VT
+Copley Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$1,010.00",VT
+Copley Hospital,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$1,801.00",VT
+Copley Hospital,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$1,976.00",VT
+Copley Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$4,075.00",VT
+Copley Hospital,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$1,157.00",VT
+Copley Hospital,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),$878.00,VT
+Copley Hospital,Breast,HCPCS 19125,Excision of breast lesion,$903.00,VT
+Copley Hospital,Breast,HCPCS 19120,Excision of cyst of breast,$979.00,VT
+Copley Hospital,Breast,HCPCS 19301,Partial removal of breast,"$1,285.00",VT
+Copley Hospital,Breast,HCPCS 19303,Total removal of breast,"$2,021.00",VT
+Copley Hospital,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$255.00,VT
+Copley Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",$924.00,VT
+Copley Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,103.00",VT
+Copley Hospital,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,103.00",VT
+Copley Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,243.00",VT
+Copley Hospital,Digestive,HCPCS 43239,EGD and biopsy,$967.00,VT
+Copley Hospital,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$2,226.00",VT
+Copley Hospital,General,HCPCS 10060,Drainage of Abscess,$85.00,VT
+Copley Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple","$1,058.00",VT
+Copley Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$52.00,VT
+Copley Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$65.00,VT
+Copley Hospital,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$101.00,VT
+Copley Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$59.00,VT
+Copley Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$579.00,VT
+Copley Hospital,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$215.00,VT
+Copley Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$648.00,VT
+Copley Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$1,144.00",VT
+Copley Hospital,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$1,613.00",VT
+Copley Hospital,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$1,337.00",VT
+Copley Hospital,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,$826.00,VT
+Copley Hospital,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$181.00,VT
+Copley Hospital,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$1,771.00",VT
+Copley Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,$656.00,VT
+Copley Hospital,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$1,749.00",VT
+Copley Hospital,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$1,644.00",VT
+Copley Hospital,Obstetrics,HCPCS 59400,Routine obstetric care,"$3,716.00",VT
+Copley Hospital,Obstetrics,HCPCS 59510,"Routine obstetric care for cesarean delivery, including pre-and postdelivery care","$4,208.00",VT
+Copley Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$132.00,VT
+Copley Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$236.00,VT
+Copley Hospital,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$148.00,VT
+Copley Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$23.00,VT
+Copley Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$5,399.00",VT
+Copley Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$659.00,VT
+Copley Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,$813.00,VT

@@ -1,0 +1,107 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+St. John Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$278.20,WA
+St. John Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$349.70,WA
+St. John Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$93.60,WA
+St. John Medical Center,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$85.15,WA
+St. John Medical Center,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$85.15,WA
+St. John Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$55.25,WA
+St. John Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$65.00,WA
+St. John Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$64.35,WA
+St. John Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$52.00,WA
+St. John Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$59.15,WA
+St. John Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$44.85,WA
+St. John Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$84.50,WA
+St. John Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$70.85,WA
+St. John Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$29.90,WA
+St. John Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$49.40,WA
+St. John Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$65.65,WA
+St. John Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$66.95,WA
+St. John Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$217.75,WA
+St. John Medical Center,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$16.25,WA
+St. John Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$34.45,WA
+St. John Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$35.10,WA
+St. John Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$14.95,WA
+St. John Medical Center,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$1,854.45",WA
+St. John Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,$920.40,WA
+St. John Medical Center,Sleep,HCPCS 95810,Sleep study,"$3,204.50",WA
+St. John Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$406.90,WA
+St. John Medical Center,Breast,HCPCS 77067,Mammogram Screening,$430.30,WA
+St. John Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$521.30,WA
+St. John Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,$520.65,WA
+St. John Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$256.75,WA
+St. John Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$198.90,WA
+St. John Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$239.85,WA
+St. John Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$4,766.45",WA
+St. John Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$3,937.05",WA
+St. John Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,476.50",WA
+St. John Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$412.10,WA
+St. John Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,$468.00,WA
+St. John Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$338.00,WA
+St. John Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$272.35,WA
+St. John Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$404.30,WA
+St. John Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$349.05,WA
+St. John Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)",$482.30,WA
+St. John Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,$380.25,WA
+St. John Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$380.25,WA
+St. John Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,$642.20,WA
+St. John Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,$379.60,WA
+St. John Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,$689.65,WA
+St. John Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$402.35,WA
+St. John Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,$639.60,WA
+St. John Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$390.65,WA
+St. John Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,$402.35,WA
+St. John Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$540.80,WA
+St. John Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$194.35,WA
+St. John Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$199.55,WA
+St. John Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$209.30,WA
+St. John Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$156.65,WA
+St. John Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$210.60,WA
+St. John Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$250.90,WA
+St. John Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$57.20,WA
+St. John Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$53.95,WA
+St. John Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$64.35,WA
+St. John Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$55.90,WA
+St. John Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$71.50,WA
+St. John Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$87.75,WA
+St. John Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$62.40,WA
+St. John Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$57.85,WA
+St. John Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$52.00,WA
+St. John Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$63.05,WA
+St. John Medical Center,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$29,292.37",WA
+St. John Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$1,119.95",WA
+St. John Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$1,217.45",WA
+St. John Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),$887.25,WA
+St. John Medical Center,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$1,023.75",WA
+St. John Medical Center,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$1,254.50",WA
+St. John Medical Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,$731.25,WA
+St. John Medical Center,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),$758.55,WA
+St. John Medical Center,Breast,HCPCS 19125,Excision of breast lesion,$942.50,WA
+St. John Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,$852.15,WA
+St. John Medical Center,Breast,HCPCS 19301,Partial removal of breast,"$1,108.90",WA
+St. John Medical Center,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,"$120,945.79",WA
+St. John Medical Center,Cardiac,MSDRG 216,Cardiac valve procedure,"$199,029.34",WA
+St. John Medical Center,Cardiac,HCPCS 33249,Defibrillator complete system,"$112,246.55",WA
+St. John Medical Center,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$8,769.80",WA
+St. John Medical Center,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$6,236.10",WA
+St. John Medical Center,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$22,475.70",WA
+St. John Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",$555.10,WA
+St. John Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy",$716.95,WA
+St. John Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)",$748.80,WA
+St. John Medical Center,Digestive,HCPCS 43235,EGD,$463.45,WA
+St. John Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$2,104.70",WA
+St. John Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$23,226.98",WA
+St. John Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$1,264.90",WA
+St. John Medical Center,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$1,766.05",WA
+St. John Medical Center,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$2,075.45",WA
+St. John Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$102.05,WA
+St. John Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$48,851.84",WA
+St. John Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,$928.85,WA
+St. John Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,$298.35,WA
+St. John Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$49,160.46",WA
+St. John Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$71,479.04",WA
+St. John Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,$393.90,WA
+St. John Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$19,250.63",WA
+St. John Medical Center,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$1,098.50",WA
+St. John Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$13,003.38",WA
+St. John Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$2,234.05",WA
+St. John Medical Center,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,$377.65,WA

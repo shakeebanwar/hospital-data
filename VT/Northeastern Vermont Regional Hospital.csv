@@ -1,0 +1,322 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Northeastern Vermont Regional Hospital,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$269.25,VT
+Northeastern Vermont Regional Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,215.75",VT
+Northeastern Vermont Regional Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$289.50,VT
+Northeastern Vermont Regional Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$289.50,VT
+Northeastern Vermont Regional Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$518.25,VT
+Northeastern Vermont Regional Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$778.50,VT
+Northeastern Vermont Regional Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$778.50,VT
+Northeastern Vermont Regional Hospital,Hospital,HCPCS 99234,Hospital observation care discharge,$240.75,VT
+Northeastern Vermont Regional Hospital,Hospital,HCPCS 99219,Hospital observation care typically 30 minutes,$126.75,VT
+Northeastern Vermont Regional Hospital,Hospital,HCPCS 99235,"Hospital observation or inpatient care moderate severity, 50 minutes per day",$318.00,VT
+Northeastern Vermont Regional Hospital,Hospital,HCPCS 99218,Hospital Observation per Hour,$99.75,VT
+Northeastern Vermont Regional Hospital,Hospital,HCPCS 99224,"Subsequent observation care, typically 25 minutes per day",$282.00,VT
+Northeastern Vermont Regional Hospital,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$134.25,VT
+Northeastern Vermont Regional Hospital,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$156.75,VT
+Northeastern Vermont Regional Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$264.00,VT
+Northeastern Vermont Regional Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$328.50,VT
+Northeastern Vermont Regional Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$172.50,VT
+Northeastern Vermont Regional Hospital,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$271.50,VT
+Northeastern Vermont Regional Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$186.00,VT
+Northeastern Vermont Regional Hospital,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$204.75,VT
+Northeastern Vermont Regional Hospital,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$172.50,VT
+Northeastern Vermont Regional Hospital,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$125.25,VT
+Northeastern Vermont Regional Hospital,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$52.50,VT
+Northeastern Vermont Regional Hospital,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$78.00,VT
+Northeastern Vermont Regional Hospital,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$117.75,VT
+Northeastern Vermont Regional Hospital,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$475.50,VT
+Northeastern Vermont Regional Hospital,Speech,HCPCS 92507,Speech Therapy,$132.00,VT
+Northeastern Vermont Regional Hospital,Speech,HCPCS 92610,Swallow Evaluation,$171.75,VT
+Northeastern Vermont Regional Hospital,Speech,HCPCS 92526,Swallow Treatment,$95.25,VT
+Northeastern Vermont Regional Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$31.50,VT
+Northeastern Vermont Regional Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$36.00,VT
+Northeastern Vermont Regional Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$60.75,VT
+Northeastern Vermont Regional Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$158.25,VT
+Northeastern Vermont Regional Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$51.75,VT
+Northeastern Vermont Regional Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$75.00,VT
+Northeastern Vermont Regional Hospital,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$54.75,VT
+Northeastern Vermont Regional Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$99.00,VT
+Northeastern Vermont Regional Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$81.75,VT
+Northeastern Vermont Regional Hospital,Blood,HCPCS 85008,Microscopic examination for white blood cells,$33.75,VT
+Northeastern Vermont Regional Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$38.25,VT
+Northeastern Vermont Regional Hospital,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$156.00,VT
+Northeastern Vermont Regional Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$68.25,VT
+Northeastern Vermont Regional Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$516.00,VT
+Northeastern Vermont Regional Hospital,Blood,HCPCS 85041,"Red blood count, automated test",$213.00,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$180.75,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$466.50,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$54.00,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$165.75,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$177.75,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 82140,Ammonia level,$178.50,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$72.75,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$441.00,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$235.50,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$108.00,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$198.00,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$72.00,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$72.00,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$65.25,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$51.75,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 84132,Blood potassium level,$58.50,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 84295,Blood sodium level,$57.00,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$72.75,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$197.25,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 82310,Calcium level,$53.25,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$61.50,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$302.25,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 82465,Cholesterol level,$57.00,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 82525,Copper level,$151.50,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$199.50,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$345.75,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$81.75,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$129.00,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$294.75,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$465.75,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$167.25,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$166.50,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$32.25,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$90.00,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$65.25,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$228.75,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$269.25,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$153.00,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 83718,HDL cholesterol level,$82.50,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 83020,Hemoglobin Measurement,$158.25,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$219.75,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$330.00,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$159.00,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$142.50,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$167.25,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$108.75,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 83540,Iron level,$81.75,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$75.75,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$113.25,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$60.00,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$65.25,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$168.00,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$119.25,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 83735,Magnesium Level,$84.00,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$522.75,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$151.50,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$168.75,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 83945,Oxalate level,$158.25,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 83970,Parathormone,$480.75,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$36.00,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$441.00,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$258.00,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$131.25,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$42.00,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$31.50,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$308.25,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$81.75,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$613.50,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$85.50,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$45.75,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$27.00,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$27.00,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 84560,Uric acid level,$93.75,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$57.75,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 82340,Urine calcium level,$93.75,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 82436,Urine chloride level,$131.25,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$67.50,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$84.75,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$87.00,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 84133,Urine potassium level,$56.25,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 84300,Urine sodium level,$61.50,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 84591,Vitamin B-6 level,$75.00,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$255.75,VT
+Northeastern Vermont Regional Hospital,Chemistry,HCPCS 84630,Zinc level,$198.00,VT
+Northeastern Vermont Regional Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$168.75,VT
+Northeastern Vermont Regional Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$177.00,VT
+Northeastern Vermont Regional Hospital,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$177.00,VT
+Northeastern Vermont Regional Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$117.00,VT
+Northeastern Vermont Regional Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$111.00,VT
+Northeastern Vermont Regional Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$22.50,VT
+Northeastern Vermont Regional Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$168.75,VT
+Northeastern Vermont Regional Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$147.75,VT
+Northeastern Vermont Regional Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$21.75,VT
+Northeastern Vermont Regional Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$269.25,VT
+Northeastern Vermont Regional Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$44.25,VT
+Northeastern Vermont Regional Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$34.50,VT
+Northeastern Vermont Regional Hospital,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$291.00,VT
+Northeastern Vermont Regional Hospital,Immunology,HCPCS 86161,Measurement of complement (immune system proteins),$147.75,VT
+Northeastern Vermont Regional Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$151.50,VT
+Northeastern Vermont Regional Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$178.50,VT
+Northeastern Vermont Regional Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$72.00,VT
+Northeastern Vermont Regional Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$65.25,VT
+Northeastern Vermont Regional Hospital,Immunology,HCPCS 86580,Skin test for tuberculosis,$19.50,VT
+Northeastern Vermont Regional Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$51.00,VT
+Northeastern Vermont Regional Hospital,Immunology,HCPCS 86361,T cell count and ratio,$156.00,VT
+Northeastern Vermont Regional Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$149.25,VT
+Northeastern Vermont Regional Hospital,Immunology,HCPCS 86359,"T cells count, total",$158.25,VT
+Northeastern Vermont Regional Hospital,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$148.50,VT
+Northeastern Vermont Regional Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$108.00,VT
+Northeastern Vermont Regional Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$72.75,VT
+Northeastern Vermont Regional Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$43.50,VT
+Northeastern Vermont Regional Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$90.00,VT
+Northeastern Vermont Regional Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$66.75,VT
+Northeastern Vermont Regional Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$132.00,VT
+Northeastern Vermont Regional Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$517.50,VT
+Northeastern Vermont Regional Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$23.25,VT
+Northeastern Vermont Regional Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$77.25,VT
+Northeastern Vermont Regional Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$43.50,VT
+Northeastern Vermont Regional Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$213.00,VT
+Northeastern Vermont Regional Hospital,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$27.00,VT
+Northeastern Vermont Regional Hospital,Microbiology,HCPCS 87624,HPV Detection,$68.25,VT
+Northeastern Vermont Regional Hospital,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$237.00,VT
+Northeastern Vermont Regional Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$34.50,VT
+Northeastern Vermont Regional Hospital,Microbiology,HCPCS 86747,Parvovirus antibody test,$114.75,VT
+Northeastern Vermont Regional Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$34.50,VT
+Northeastern Vermont Regional Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$34.50,VT
+Northeastern Vermont Regional Hospital,Microbiology,HCPCS 87207,Smear for infectious agents,$58.50,VT
+Northeastern Vermont Regional Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$111.00,VT
+Northeastern Vermont Regional Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$58.50,VT
+Northeastern Vermont Regional Hospital,Microbiology,HCPCS 87045,Stool Culture,$13.50,VT
+Northeastern Vermont Regional Hospital,Microbiology,HCPCS 87880,Strep Test,$56.25,VT
+Northeastern Vermont Regional Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$24.00,VT
+Northeastern Vermont Regional Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$37.50,VT
+Northeastern Vermont Regional Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$34.50,VT
+Northeastern Vermont Regional Hospital,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$240.75,VT
+Northeastern Vermont Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$562.50,VT
+Northeastern Vermont Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$105.00,VT
+Northeastern Vermont Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$129.75,VT
+Northeastern Vermont Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$133.50,VT
+Northeastern Vermont Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$108.75,VT
+Northeastern Vermont Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$113.25,VT
+Northeastern Vermont Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$387.75,VT
+Northeastern Vermont Regional Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$189.00,VT
+Northeastern Vermont Regional Hospital,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$183.00,VT
+Northeastern Vermont Regional Hospital,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$244.50,VT
+Northeastern Vermont Regional Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$162.00,VT
+Northeastern Vermont Regional Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$89.25,VT
+Northeastern Vermont Regional Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$219.75,VT
+Northeastern Vermont Regional Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$82.50,VT
+Northeastern Vermont Regional Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$142.50,VT
+Northeastern Vermont Regional Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$162.00,VT
+Northeastern Vermont Regional Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$244.50,VT
+Northeastern Vermont Regional Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$166.50,VT
+Northeastern Vermont Regional Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$166.50,VT
+Northeastern Vermont Regional Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$101.25,VT
+Northeastern Vermont Regional Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$40.50,VT
+Northeastern Vermont Regional Hospital,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$66.75,VT
+Northeastern Vermont Regional Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$67.50,VT
+Northeastern Vermont Regional Hospital,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$63.00,VT
+Northeastern Vermont Regional Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$112.50,VT
+Northeastern Vermont Regional Hospital,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$25.50,VT
+Northeastern Vermont Regional Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$25.50,VT
+Northeastern Vermont Regional Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$11.25,VT
+Northeastern Vermont Regional Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$80.25,VT
+Northeastern Vermont Regional Hospital,Cardiovascular,HCPCS 93015,"Cardiovascular stress test, with interpretation and report",$144.00,VT
+Northeastern Vermont Regional Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$1,120.50",VT
+Northeastern Vermont Regional Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$276.00,VT
+Northeastern Vermont Regional Hospital,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$120.75,VT
+Northeastern Vermont Regional Hospital,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$718.50,VT
+Northeastern Vermont Regional Hospital,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$18.75,VT
+Northeastern Vermont Regional Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,$291.00,VT
+Northeastern Vermont Regional Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,$132.00,VT
+Northeastern Vermont Regional Hospital,Pulmonary,HCPCS 94618,Pulmonary stress test,$235.50,VT
+Northeastern Vermont Regional Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$242.25,VT
+Northeastern Vermont Regional Hospital,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$178.50,VT
+Northeastern Vermont Regional Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,$558.75,VT
+Northeastern Vermont Regional Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$399.75,VT
+Northeastern Vermont Regional Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$399.75,VT
+Northeastern Vermont Regional Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$399.75,VT
+Northeastern Vermont Regional Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,237.50",VT
+Northeastern Vermont Regional Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,$825.00,VT
+Northeastern Vermont Regional Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$792.00,VT
+Northeastern Vermont Regional Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$420.75,VT
+Northeastern Vermont Regional Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,$648.00,VT
+Northeastern Vermont Regional Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$420.75,VT
+Northeastern Vermont Regional Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$399.75,VT
+Northeastern Vermont Regional Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$420.75,VT
+Northeastern Vermont Regional Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$420.75,VT
+Northeastern Vermont Regional Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$2,955.75",VT
+Northeastern Vermont Regional Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,489.25",VT
+Northeastern Vermont Regional Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,489.25",VT
+Northeastern Vermont Regional Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,955.75",VT
+Northeastern Vermont Regional Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,489.25",VT
+Northeastern Vermont Regional Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$3,074.25",VT
+Northeastern Vermont Regional Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,489.25",VT
+Northeastern Vermont Regional Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,489.25",VT
+Northeastern Vermont Regional Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$2,489.25",VT
+Northeastern Vermont Regional Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$174.00,VT
+Northeastern Vermont Regional Hospital,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$171.75,VT
+Northeastern Vermont Regional Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$174.00,VT
+Northeastern Vermont Regional Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$188.25,VT
+Northeastern Vermont Regional Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$147.75,VT
+Northeastern Vermont Regional Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$174.00,VT
+Northeastern Vermont Regional Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$225.00,VT
+Northeastern Vermont Regional Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$132.75,VT
+Northeastern Vermont Regional Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$188.25,VT
+Northeastern Vermont Regional Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$188.25,VT
+Northeastern Vermont Regional Hospital,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$637.50,VT
+Northeastern Vermont Regional Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$792.75,VT
+Northeastern Vermont Regional Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$768.00,VT
+Northeastern Vermont Regional Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$458.25,VT
+Northeastern Vermont Regional Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$795.00,VT
+Northeastern Vermont Regional Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$299.25,VT
+Northeastern Vermont Regional Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$345.75,VT
+Northeastern Vermont Regional Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$712.50,VT
+Northeastern Vermont Regional Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$315.75,VT
+Northeastern Vermont Regional Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$684.00,VT
+Northeastern Vermont Regional Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$237.00,VT
+Northeastern Vermont Regional Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$383.25,VT
+Northeastern Vermont Regional Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$414.75,VT
+Northeastern Vermont Regional Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$237.00,VT
+Northeastern Vermont Regional Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$313.50,VT
+Northeastern Vermont Regional Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$774.00,VT
+Northeastern Vermont Regional Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$471.75,VT
+Northeastern Vermont Regional Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$781.50,VT
+Northeastern Vermont Regional Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$471.75,VT
+Northeastern Vermont Regional Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$419.25,VT
+Northeastern Vermont Regional Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$127.50,VT
+Northeastern Vermont Regional Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$340.50,VT
+Northeastern Vermont Regional Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$313.50,VT
+Northeastern Vermont Regional Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$210.75,VT
+Northeastern Vermont Regional Hospital,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,$709.50,VT
+Northeastern Vermont Regional Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$1,141.50",VT
+Northeastern Vermont Regional Hospital,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$1,224.75",VT
+Northeastern Vermont Regional Hospital,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,$756.00,VT
+Northeastern Vermont Regional Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,$621.75,VT
+Northeastern Vermont Regional Hospital,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$1,051.50",VT
+Northeastern Vermont Regional Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),$805.50,VT
+Northeastern Vermont Regional Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$357.75,VT
+Northeastern Vermont Regional Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$89.25,VT
+Northeastern Vermont Regional Hospital,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,"$1,617.75",VT
+Northeastern Vermont Regional Hospital,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),$908.25,VT
+Northeastern Vermont Regional Hospital,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$1,240.50",VT
+Northeastern Vermont Regional Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,$675.00,VT
+Northeastern Vermont Regional Hospital,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$1,146.75",VT
+Northeastern Vermont Regional Hospital,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$1,260.75",VT
+Northeastern Vermont Regional Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,$20.25,VT
+Northeastern Vermont Regional Hospital,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),$996.75,VT
+Northeastern Vermont Regional Hospital,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),$675.00,VT
+Northeastern Vermont Regional Hospital,Breast,HCPCS 19101,Biopsy of breast,$359.25,VT
+Northeastern Vermont Regional Hospital,Breast,HCPCS 19125,Excision of breast lesion,$661.50,VT
+Northeastern Vermont Regional Hospital,Breast,HCPCS 19120,Excision of cyst of breast,$612.75,VT
+Northeastern Vermont Regional Hospital,Breast,HCPCS 19301,Partial removal of breast,$914.25,VT
+Northeastern Vermont Regional Hospital,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$1,685.25",VT
+Northeastern Vermont Regional Hospital,Breast,HCPCS 19303,Total removal of breast,"$1,415.25",VT
+Northeastern Vermont Regional Hospital,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$185.25,VT
+Northeastern Vermont Regional Hospital,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,$507.00,VT
+Northeastern Vermont Regional Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",$409.50,VT
+Northeastern Vermont Regional Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy",$487.50,VT
+Northeastern Vermont Regional Hospital,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal",$488.25,VT
+Northeastern Vermont Regional Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)",$550.50,VT
+Northeastern Vermont Regional Hospital,Digestive,HCPCS 43235,EGD,$334.50,VT
+Northeastern Vermont Regional Hospital,Digestive,HCPCS 43239,EGD and biopsy,$427.50,VT
+Northeastern Vermont Regional Hospital,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,$523.50,VT
+Northeastern Vermont Regional Hospital,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,$676.50,VT
+Northeastern Vermont Regional Hospital,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$1,031.25",VT
+Northeastern Vermont Regional Hospital,General,HCPCS 55700,Biopsy of prostate gland,$244.50,VT
+Northeastern Vermont Regional Hospital,General,HCPCS 10060,Drainage of Abscess,$147.75,VT
+Northeastern Vermont Regional Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$153.75,VT
+Northeastern Vermont Regional Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$210.75,VT
+Northeastern Vermont Regional Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$195.75,VT
+Northeastern Vermont Regional Hospital,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$287.25,VT
+Northeastern Vermont Regional Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$180.00,VT
+Northeastern Vermont Regional Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$174.75,VT
+Northeastern Vermont Regional Hospital,Head,HCPCS 69436,Create eardrum opening,$294.75,VT
+Northeastern Vermont Regional Hospital,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),$444.00,VT
+Northeastern Vermont Regional Hospital,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),$498.75,VT

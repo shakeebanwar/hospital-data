@@ -1,0 +1,236 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Retreat Doctors Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,468.00",VA
+Retreat Doctors Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$128.00,VA
+Retreat Doctors Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$228.00,VA
+Retreat Doctors Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$530.00,VA
+Retreat Doctors Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$829.00,VA
+Retreat Doctors Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,171.00",VA
+Retreat Doctors Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$41.25,VA
+Retreat Doctors Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$75.00,VA
+Retreat Doctors Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$77.50,VA
+Retreat Doctors Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$168.25,VA
+Retreat Doctors Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$63.50,VA
+Retreat Doctors Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$123.00,VA
+Retreat Doctors Hospital,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$64.00,VA
+Retreat Doctors Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$133.75,VA
+Retreat Doctors Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$126.75,VA
+Retreat Doctors Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$87.00,VA
+Retreat Doctors Hospital,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$216.50,VA
+Retreat Doctors Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$63.50,VA
+Retreat Doctors Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$307.00,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$296.25,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$324.75,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$94.00,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$182.00,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$213.75,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 82140,Ammonia level,$159.25,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$115.50,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$180.75,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$197.00,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$136.50,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$199.00,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$94.00,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$94.00,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$94.00,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$93.00,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 84295,Blood sodium level,$108.00,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$94.00,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$99.00,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$191.00,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 82310,Calcium level,$94.00,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$59.50,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$236.50,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 82465,Cholesterol level,$59.50,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 82525,Copper level,$144.50,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$169.75,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$216.50,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$94.00,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$182.00,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$251.00,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$289.25,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$168.25,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$186.25,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$123.00,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$94.00,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$132.00,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$227.50,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$227.50,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$133.75,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 83718,HDL cholesterol level,$86.50,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 83020,Hemoglobin Measurement,$135.25,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$209.50,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$245.75,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$130.50,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$141.25,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$171.00,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$79.75,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 83540,Iron level,$59.50,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$94.00,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$91.25,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$166.00,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$94.00,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$182.00,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$198.25,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 83735,Magnesium Level,$101.25,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$144.50,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$133.75,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$101.25,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 83918,Organic acid level,$202.25,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 83945,Oxalate level,$130.50,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 83970,Parathormone,$289.25,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$90.75,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$94.00,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$151.75,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$227.50,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$148.25,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$72.25,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$169.75,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$259.25,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$82.00,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$469.50,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$82.00,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$59.50,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$94.00,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$164.00,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 84560,Uric acid level,$115.50,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$94.00,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 82340,Urine calcium level,$72.75,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 82436,Urine chloride level,$63.50,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$126.75,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$159.00,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$169.75,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 84133,Urine potassium level,$101.25,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 84300,Urine sodium level,$101.25,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$271.00,VA
+Retreat Doctors Hospital,Chemistry,HCPCS 84630,Zinc level,$66.50,VA
+Retreat Doctors Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$180.75,VA
+Retreat Doctors Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$166.00,VA
+Retreat Doctors Hospital,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$159.00,VA
+Retreat Doctors Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$159.00,VA
+Retreat Doctors Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$123.00,VA
+Retreat Doctors Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$222.75,VA
+Retreat Doctors Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$155.50,VA
+Retreat Doctors Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$159.25,VA
+Retreat Doctors Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$141.25,VA
+Retreat Doctors Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$87.00,VA
+Retreat Doctors Hospital,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$195.25,VA
+Retreat Doctors Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$137.50,VA
+Retreat Doctors Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$50.25,VA
+Retreat Doctors Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$168.25,VA
+Retreat Doctors Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$151.75,VA
+Retreat Doctors Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$79.75,VA
+Retreat Doctors Hospital,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$126.75,VA
+Retreat Doctors Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$77.50,VA
+Retreat Doctors Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$94.00,VA
+Retreat Doctors Hospital,Immunology,HCPCS 86361,T cell count and ratio,$300.00,VA
+Retreat Doctors Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$361.50,VA
+Retreat Doctors Hospital,Immunology,HCPCS 86359,"T cells count, total",$238.75,VA
+Retreat Doctors Hospital,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$155.50,VA
+Retreat Doctors Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$55.25,VA
+Retreat Doctors Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$123.00,VA
+Retreat Doctors Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$180.75,VA
+Retreat Doctors Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$289.25,VA
+Retreat Doctors Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$159.00,VA
+Retreat Doctors Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$290.75,VA
+Retreat Doctors Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$132.00,VA
+Retreat Doctors Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$290.75,VA
+Retreat Doctors Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$289.25,VA
+Retreat Doctors Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$290.75,VA
+Retreat Doctors Hospital,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$162.75,VA
+Retreat Doctors Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$144.50,VA
+Retreat Doctors Hospital,Microbiology,HCPCS 86747,Parvovirus antibody test,$180.75,VA
+Retreat Doctors Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$88.25,VA
+Retreat Doctors Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$227.50,VA
+Retreat Doctors Hospital,Microbiology,HCPCS 87207,Smear for infectious agents,$95.25,VA
+Retreat Doctors Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$136.50,VA
+Retreat Doctors Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$166.00,VA
+Retreat Doctors Hospital,Microbiology,HCPCS 87045,Stool Culture,$202.25,VA
+Retreat Doctors Hospital,Microbiology,HCPCS 87880,Strep Test,$159.25,VA
+Retreat Doctors Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$119.50,VA
+Retreat Doctors Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$159.00,VA
+Retreat Doctors Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$340.00,VA
+Retreat Doctors Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$153.25,VA
+Retreat Doctors Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$209.50,VA
+Retreat Doctors Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$175.25,VA
+Retreat Doctors Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$166.00,VA
+Retreat Doctors Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$144.50,VA
+Retreat Doctors Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$121.00,VA
+Retreat Doctors Hospital,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$209.50,VA
+Retreat Doctors Hospital,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$272.75,VA
+Retreat Doctors Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$173.00,VA
+Retreat Doctors Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$83.00,VA
+Retreat Doctors Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$144.50,VA
+Retreat Doctors Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$274.25,VA
+Retreat Doctors Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$272.75,VA
+Retreat Doctors Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$182.00,VA
+Retreat Doctors Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$289.25,VA
+Retreat Doctors Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$59.00,VA
+Retreat Doctors Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$53.00,VA
+Retreat Doctors Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$87.00,VA
+Retreat Doctors Hospital,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$157.00,VA
+Retreat Doctors Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$80.00,VA
+Retreat Doctors Hospital,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$90.00,VA
+Retreat Doctors Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$106.00,VA
+Retreat Doctors Hospital,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$58.25,VA
+Retreat Doctors Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$65.00,VA
+Retreat Doctors Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$83.00,VA
+Retreat Doctors Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$77.50,VA
+Retreat Doctors Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$1,379.00",VA
+Retreat Doctors Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$293.00,VA
+Retreat Doctors Hospital,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$98.00,VA
+Retreat Doctors Hospital,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,"$1,194.00",VA
+Retreat Doctors Hospital,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$5,138.00",VA
+Retreat Doctors Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,$942.00,VA
+Retreat Doctors Hospital,Pulmonary,HCPCS 94640,Nebulizer Treatment,$232.00,VA
+Retreat Doctors Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$129.00,VA
+Retreat Doctors Hospital,Sleep,HCPCS 95810,Sleep study,"$3,060.00",VA
+Retreat Doctors Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$3,701.00",VA
+Retreat Doctors Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$2,045.00",VA
+Retreat Doctors Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,920.00",VA
+Retreat Doctors Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,951.00",VA
+Retreat Doctors Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$3,482.00",VA
+Retreat Doctors Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$3,737.00",VA
+Retreat Doctors Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$3,154.00",VA
+Retreat Doctors Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$3,519.00",VA
+Retreat Doctors Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$3,251.00",VA
+Retreat Doctors Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$3,357.00",VA
+Retreat Doctors Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,800.00",VA
+Retreat Doctors Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$3,482.00",VA
+Retreat Doctors Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$3,482.00",VA
+Retreat Doctors Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$3,591.00",VA
+Retreat Doctors Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$3,482.00",VA
+Retreat Doctors Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$3,591.00",VA
+Retreat Doctors Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$3,591.00",VA
+Retreat Doctors Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,591.00",VA
+Retreat Doctors Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$3,591.00",VA
+Retreat Doctors Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$685.00,VA
+Retreat Doctors Hospital,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$498.00,VA
+Retreat Doctors Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,194.00",VA
+Retreat Doctors Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$653.00,VA
+Retreat Doctors Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$638.00,VA
+Retreat Doctors Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,208.00",VA
+Retreat Doctors Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,194.00",VA
+Retreat Doctors Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$771.00,VA
+Retreat Doctors Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,076.00",VA
+Retreat Doctors Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$771.00,VA
+Retreat Doctors Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$555.00,VA
+Retreat Doctors Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$444.00,VA
+Retreat Doctors Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$444.00,VA
+Retreat Doctors Hospital,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$421.00,VA
+Retreat Doctors Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$555.00,VA
+Retreat Doctors Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$367.00,VA
+Retreat Doctors Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$367.00,VA
+Retreat Doctors Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$720.00,VA
+Retreat Doctors Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$466.00,VA
+Retreat Doctors Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$478.00,VA
+Retreat Doctors Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$377.00,VA
+Retreat Doctors Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$728.00,VA
+Retreat Doctors Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$574.00,VA
+Retreat Doctors Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$555.00,VA
+Retreat Doctors Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$466.00,VA
+Retreat Doctors Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$14,893.00",VA
+Retreat Doctors Hospital,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$404.00,VA
+Retreat Doctors Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$4,945.00",VA
+Retreat Doctors Hospital,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$20.00,VA
+Retreat Doctors Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$13.00,VA
+Retreat Doctors Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$1.00,VA

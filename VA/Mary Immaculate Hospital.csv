@@ -1,0 +1,327 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Mary Immaculate Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$2,871.60",VA
+Mary Immaculate Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$321.60,VA
+Mary Immaculate Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$558.00,VA
+Mary Immaculate Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$826.80,VA
+Mary Immaculate Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,349.40",VA
+Mary Immaculate Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,854.00",VA
+Mary Immaculate Hospital,Hospital,HCPCS 99218,Hospital Observation per Hour,$190.80,VA
+Mary Immaculate Hospital,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$67.20,VA
+Mary Immaculate Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$384.00,VA
+Mary Immaculate Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$534.60,VA
+Mary Immaculate Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$272.40,VA
+Mary Immaculate Hospital,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$321.00,VA
+Mary Immaculate Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$475.20,VA
+Mary Immaculate Hospital,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$258.60,VA
+Mary Immaculate Hospital,Psychology,HCPCS 90853,Group psychotherapy,$106.80,VA
+Mary Immaculate Hospital,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$393.60,VA
+Mary Immaculate Hospital,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$167.40,VA
+Mary Immaculate Hospital,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$269.40,VA
+Mary Immaculate Hospital,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$310.20,VA
+Mary Immaculate Hospital,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$669.60,VA
+Mary Immaculate Hospital,Speech,HCPCS 92507,Speech Therapy,$55.20,VA
+Mary Immaculate Hospital,Speech,HCPCS 92610,Swallow Evaluation,$185.40,VA
+Mary Immaculate Hospital,Speech,HCPCS 92526,Swallow Treatment,$132.00,VA
+Mary Immaculate Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$24.60,VA
+Mary Immaculate Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$24.60,VA
+Mary Immaculate Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$30.00,VA
+Mary Immaculate Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$81.00,VA
+Mary Immaculate Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$20.40,VA
+Mary Immaculate Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$41.40,VA
+Mary Immaculate Hospital,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$44.40,VA
+Mary Immaculate Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$34.80,VA
+Mary Immaculate Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$62.40,VA
+Mary Immaculate Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$16.20,VA
+Mary Immaculate Hospital,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$132.00,VA
+Mary Immaculate Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$44.40,VA
+Mary Immaculate Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$489.00,VA
+Mary Immaculate Hospital,Blood,HCPCS 85041,"Red blood count, automated test",$17.40,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$179.40,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$171.00,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$42.60,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$92.40,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$102.00,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 82140,Ammonia level,$68.40,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$27.60,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$105.60,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$85.80,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$42.00,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$87.60,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$24.00,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$22.80,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$42.00,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$18.60,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 84295,Blood sodium level,$36.60,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$46.20,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$110.40,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 82310,Calcium level,$21.60,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$31.80,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$87.60,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 82465,Cholesterol level,$55.20,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 82525,Copper level,$64.20,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$95.40,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$142.20,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$39.60,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$89.40,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$105.60,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$170.40,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$63.00,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$130.20,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$66.60,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$73.20,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$73.20,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$85.80,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$85.20,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$60.60,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 83718,HDL cholesterol level,$63.00,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 83020,Hemoglobin Measurement,$73.20,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$162.60,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$127.80,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 83520,IgE (immune system protein) level,$259.20,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$67.80,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$58.20,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$40.80,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 83540,Iron level,$58.20,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$43.80,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$63.60,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$31.80,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$55.20,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$66.00,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$87.60,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 83735,Magnesium Level,$49.20,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$253.20,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$60.00,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$60.60,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 83918,Organic acid level,$106.20,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 83945,Oxalate level,$75.00,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 83970,Parathormone,$182.40,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$48.60,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$18.00,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$93.60,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$89.40,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$76.80,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$36.60,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$127.20,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$127.80,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement",$29.40,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$130.20,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$79.80,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$36.00,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$41.40,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 84478,Triglycerides level,$27.60,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$105.60,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 84560,Uric acid level,$46.80,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$51.60,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 82340,Urine calcium level,$43.20,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 82436,Urine chloride level,$33.60,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$27.60,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$51.60,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$109.20,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 84133,Urine potassium level,$33.60,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 84300,Urine sodium level,$38.40,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 84591,Vitamin B-6 level,$82.20,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$142.80,VA
+Mary Immaculate Hospital,Chemistry,HCPCS 84630,Zinc level,$75.00,VA
+Mary Immaculate Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$117.85,VA
+Mary Immaculate Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$122.80,VA
+Mary Immaculate Hospital,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$64.80,VA
+Mary Immaculate Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$66.00,VA
+Mary Immaculate Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$62.40,VA
+Mary Immaculate Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$98.40,VA
+Mary Immaculate Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$94.80,VA
+Mary Immaculate Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$78.60,VA
+Mary Immaculate Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$69.00,VA
+Mary Immaculate Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$67.20,VA
+Mary Immaculate Hospital,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$60.60,VA
+Mary Immaculate Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$60.00,VA
+Mary Immaculate Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$31.20,VA
+Mary Immaculate Hospital,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$90.00,VA
+Mary Immaculate Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$79.80,VA
+Mary Immaculate Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$64.80,VA
+Mary Immaculate Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$67.80,VA
+Mary Immaculate Hospital,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$51.21,VA
+Mary Immaculate Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$58.80,VA
+Mary Immaculate Hospital,Immunology,HCPCS 86580,Skin test for tuberculosis,$27.00,VA
+Mary Immaculate Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$39.00,VA
+Mary Immaculate Hospital,Immunology,HCPCS 86361,T cell count and ratio,$123.60,VA
+Mary Immaculate Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$217.80,VA
+Mary Immaculate Hospital,Immunology,HCPCS 86359,"T cells count, total",$167.40,VA
+Mary Immaculate Hospital,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$70.80,VA
+Mary Immaculate Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$39.60,VA
+Mary Immaculate Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$72.00,VA
+Mary Immaculate Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$27.00,VA
+Mary Immaculate Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$145.80,VA
+Mary Immaculate Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$102.00,VA
+Mary Immaculate Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$142.80,VA
+Mary Immaculate Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$95.40,VA
+Mary Immaculate Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$152.40,VA
+Mary Immaculate Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$80.40,VA
+Mary Immaculate Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$255.60,VA
+Mary Immaculate Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$145.80,VA
+Mary Immaculate Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$228.60,VA
+Mary Immaculate Hospital,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$103.80,VA
+Mary Immaculate Hospital,Microbiology,HCPCS 87624,HPV Detection,$141.60,VA
+Mary Immaculate Hospital,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$33.60,VA
+Mary Immaculate Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$58.20,VA
+Mary Immaculate Hospital,Microbiology,HCPCS 86747,Parvovirus antibody test,$78.00,VA
+Mary Immaculate Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$64.80,VA
+Mary Immaculate Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$57.00,VA
+Mary Immaculate Hospital,Microbiology,HCPCS 87207,Smear for infectious agents,$19.74,VA
+Mary Immaculate Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$91.20,VA
+Mary Immaculate Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$24.00,VA
+Mary Immaculate Hospital,Microbiology,HCPCS 87045,Stool Culture,$90.00,VA
+Mary Immaculate Hospital,Microbiology,HCPCS 87880,Strep Test,$78.00,VA
+Mary Immaculate Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$74.40,VA
+Mary Immaculate Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$52.20,VA
+Mary Immaculate Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$79.20,VA
+Mary Immaculate Hospital,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$483.60,VA
+Mary Immaculate Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$220.20,VA
+Mary Immaculate Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$40.20,VA
+Mary Immaculate Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$48.00,VA
+Mary Immaculate Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$59.40,VA
+Mary Immaculate Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$40.80,VA
+Mary Immaculate Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$55.20,VA
+Mary Immaculate Hospital,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$171.60,VA
+Mary Immaculate Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$187.20,VA
+Mary Immaculate Hospital,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$400.20,VA
+Mary Immaculate Hospital,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$123.60,VA
+Mary Immaculate Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$72.00,VA
+Mary Immaculate Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$249.60,VA
+Mary Immaculate Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$57.00,VA
+Mary Immaculate Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$31.20,VA
+Mary Immaculate Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$82.20,VA
+Mary Immaculate Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$87.99,VA
+Mary Immaculate Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$127.20,VA
+Mary Immaculate Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$95.81,VA
+Mary Immaculate Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$91.20,VA
+Mary Immaculate Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$67.20,VA
+Mary Immaculate Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$61.80,VA
+Mary Immaculate Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$163.20,VA
+Mary Immaculate Hospital,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$303.60,VA
+Mary Immaculate Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$75.00,VA
+Mary Immaculate Hospital,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$75.00,VA
+Mary Immaculate Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$75.00,VA
+Mary Immaculate Hospital,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$28.80,VA
+Mary Immaculate Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$28.20,VA
+Mary Immaculate Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$15.00,VA
+Mary Immaculate Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$68.40,VA
+Mary Immaculate Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$132.00,VA
+Mary Immaculate Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$19.20,VA
+Mary Immaculate Hospital,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$9.60,VA
+Mary Immaculate Hospital,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$61.20,VA
+Mary Immaculate Hospital,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),$114.00,VA
+Mary Immaculate Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,$270.60,VA
+Mary Immaculate Hospital,Pulmonary,HCPCS 94729,CO Diffusion Capacity,$273.60,VA
+Mary Immaculate Hospital,Pulmonary,HCPCS 94640,Nebulizer Treatment,$24.60,VA
+Mary Immaculate Hospital,Pulmonary,HCPCS 94618,Pulmonary stress test,$27.00,VA
+Mary Immaculate Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$58.20,VA
+Mary Immaculate Hospital,Sleep,HCPCS 95810,Sleep study,"$2,433.00",VA
+Mary Immaculate Hospital,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$50.40,VA
+Mary Immaculate Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$339.60,VA
+Mary Immaculate Hospital,Breast,HCPCS 77067,Mammogram Screening,$359.40,VA
+Mary Immaculate Hospital,Breast,HCPCS 77066,Mammography of both breasts,$435.60,VA
+Mary Immaculate Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,668.60",VA
+Mary Immaculate Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,960.80",VA
+Mary Immaculate Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,324.20",VA
+Mary Immaculate Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,339.80",VA
+Mary Immaculate Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$4,080.00",VA
+Mary Immaculate Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$3,717.60",VA
+Mary Immaculate Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$3,072.60",VA
+Mary Immaculate Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$2,105.40",VA
+Mary Immaculate Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$2,541.60",VA
+Mary Immaculate Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,472.40",VA
+Mary Immaculate Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,170.60",VA
+Mary Immaculate Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,929.00",VA
+Mary Immaculate Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,820.40",VA
+Mary Immaculate Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$2,439.00",VA
+Mary Immaculate Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,688.00",VA
+Mary Immaculate Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,635.80",VA
+Mary Immaculate Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$3,826.80",VA
+Mary Immaculate Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,733.40",VA
+Mary Immaculate Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$3,826.80",VA
+Mary Immaculate Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$4,583.40",VA
+Mary Immaculate Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$3,427.20",VA
+Mary Immaculate Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,741.00",VA
+Mary Immaculate Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,642.20",VA
+Mary Immaculate Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$3,022.20",VA
+Mary Immaculate Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$730.20,VA
+Mary Immaculate Hospital,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$580.80,VA
+Mary Immaculate Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$475.20,VA
+Mary Immaculate Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$144.60,VA
+Mary Immaculate Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$264.00,VA
+Mary Immaculate Hospital,Ultrasound,HCPCS 76881,Ultrasound Joint Soft Tissue - Complete,$123.00,VA
+Mary Immaculate Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,007.40",VA
+Mary Immaculate Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$126.60,VA
+Mary Immaculate Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$553.80,VA
+Mary Immaculate Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$696.60,VA
+Mary Immaculate Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$147.00,VA
+Mary Immaculate Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$60.60,VA
+Mary Immaculate Hospital,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$207.89,VA
+Mary Immaculate Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$35.40,VA
+Mary Immaculate Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$19.20,VA
+Mary Immaculate Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$36.00,VA
+Mary Immaculate Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$588.60,VA
+Mary Immaculate Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$40.20,VA
+Mary Immaculate Hospital,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$495.00,VA
+Mary Immaculate Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$561.60,VA
+Mary Immaculate Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$328.20,VA
+Mary Immaculate Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$372.60,VA
+Mary Immaculate Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$592.20,VA
+Mary Immaculate Hospital,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$59.40,VA
+Mary Immaculate Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$53.40,VA
+Mary Immaculate Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$344.40,VA
+Mary Immaculate Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$42.00,VA
+Mary Immaculate Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$314.40,VA
+Mary Immaculate Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$39.00,VA
+Mary Immaculate Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$38.40,VA
+Mary Immaculate Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$38.40,VA
+Mary Immaculate Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$42.60,VA
+Mary Immaculate Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$40.20,VA
+Mary Immaculate Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$211.20,VA
+Mary Immaculate Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$32.40,VA
+Mary Immaculate Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$68.40,VA
+Mary Immaculate Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$49.20,VA
+Mary Immaculate Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$388.20,VA
+Mary Immaculate Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$64.80,VA
+Mary Immaculate Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$47.40,VA
+Mary Immaculate Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$79.20,VA
+Mary Immaculate Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$43.80,VA
+Mary Immaculate Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$43.80,VA
+Mary Immaculate Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$39.00,VA
+Mary Immaculate Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$267.00,VA
+Mary Immaculate Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$38.40,VA
+Mary Immaculate Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$34.20,VA
+Mary Immaculate Hospital,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$379.20,VA
+Mary Immaculate Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$289.14,VA
+Mary Immaculate Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$44.40,VA
+Mary Immaculate Hospital,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,$498.00,VA
+Mary Immaculate Hospital,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,$233.40,VA
+Mary Immaculate Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$205.80,VA
+Mary Immaculate Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$297.00,VA
+Mary Immaculate Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$14,527.80",VA
+Mary Immaculate Hospital,Cardiac,HCPCS 33249,Defibrillator complete system,"$1,062.60",VA
+Mary Immaculate Hospital,Cardiac,HCPCS 33240,Defibrillator generator,"$51,491.40",VA
+Mary Immaculate Hospital,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$8,227.20",VA
+Mary Immaculate Hospital,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$5,556.00",VA
+Mary Immaculate Hospital,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$256.80,VA
+Mary Immaculate Hospital,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$17,127.60",VA
+Mary Immaculate Hospital,General,HCPCS 55700,Biopsy of prostate gland,$258.60,VA
+Mary Immaculate Hospital,General,HCPCS 10060,Drainage of Abscess,$75.00,VA
+Mary Immaculate Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$112.80,VA
+Mary Immaculate Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$28.20,VA
+Mary Immaculate Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$59.40,VA
+Mary Immaculate Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$97.20,VA
+Mary Immaculate Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$72.60,VA
+Mary Immaculate Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$2,087.40",VA
+Mary Immaculate Hospital,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$2,040.60",VA
+Mary Immaculate Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$287.40,VA
+Mary Immaculate Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$118.80,VA
+Mary Immaculate Hospital,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$274.20,VA
+Mary Immaculate Hospital,Ocular,HCPCS 66821,Laser cataract removal,$743.40,VA
+Mary Immaculate Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$172.80,VA
+Mary Immaculate Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$330.60,VA
+Mary Immaculate Hospital,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$80.40,VA
+Mary Immaculate Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$19.20,VA
+Mary Immaculate Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,905.00",VA
+Mary Immaculate Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$990.00,VA
+Mary Immaculate Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,$286.80,VA

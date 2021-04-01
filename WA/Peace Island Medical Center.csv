@@ -1,0 +1,139 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Peace Island Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$85.15,WA
+Peace Island Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$85.15,WA
+Peace Island Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$85.15,WA
+Peace Island Medical Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$36.40,WA
+Peace Island Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$45.50,WA
+Peace Island Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$42.25,WA
+Peace Island Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$51.35,WA
+Peace Island Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$42.25,WA
+Peace Island Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$183.95,WA
+Peace Island Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$66.95,WA
+Peace Island Medical Center,Chemistry,HCPCS 82140,Ammonia level,$102.70,WA
+Peace Island Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$38.35,WA
+Peace Island Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$35.10,WA
+Peace Island Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$35.10,WA
+Peace Island Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$66.95,WA
+Peace Island Medical Center,Chemistry,HCPCS 82310,Calcium level,$40.95,WA
+Peace Island Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$59.15,WA
+Peace Island Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$79.95,WA
+Peace Island Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$52.65,WA
+Peace Island Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$55.90,WA
+Peace Island Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$45.50,WA
+Peace Island Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$83.20,WA
+Peace Island Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$55.90,WA
+Peace Island Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$35.75,WA
+Peace Island Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$46.80,WA
+Peace Island Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$52.00,WA
+Peace Island Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$59.80,WA
+Peace Island Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$59.15,WA
+Peace Island Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$64.35,WA
+Peace Island Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$150.15,WA
+Peace Island Medical Center,Chemistry,HCPCS 83970,Parathormone,$206.05,WA
+Peace Island Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$157.30,WA
+Peace Island Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$38.35,WA
+Peace Island Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$22.10,WA
+Peace Island Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$100.10,WA
+Peace Island Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$110.50,WA
+Peace Island Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$76.70,WA
+Peace Island Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$36.40,WA
+Peace Island Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$39.65,WA
+Peace Island Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$35.10,WA
+Peace Island Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$56.55,WA
+Peace Island Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$117.00,WA
+Peace Island Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$63.70,WA
+Peace Island Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$102.70,WA
+Peace Island Medical Center,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$155.35,WA
+Peace Island Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$32.50,WA
+Peace Island Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$63.05,WA
+Peace Island Medical Center,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$670.80,WA
+Peace Island Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$75.40,WA
+Peace Island Medical Center,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$66.30,WA
+Peace Island Medical Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$53.95,WA
+Peace Island Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$42.90,WA
+Peace Island Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$68.90,WA
+Peace Island Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$171.60,WA
+Peace Island Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$202.15,WA
+Peace Island Medical Center,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$264.55,WA
+Peace Island Medical Center,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$419.25,WA
+Peace Island Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$92.30,WA
+Peace Island Medical Center,Microbiology,HCPCS 87517,Hepatitis B Detection,$113.10,WA
+Peace Island Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$59.80,WA
+Peace Island Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$50.70,WA
+Peace Island Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$59.80,WA
+Peace Island Medical Center,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$250.25,WA
+Peace Island Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$44.20,WA
+Peace Island Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$44.20,WA
+Peace Island Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$77.35,WA
+Peace Island Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$44.20,WA
+Peace Island Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$36.40,WA
+Peace Island Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$69.55,WA
+Peace Island Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$153.40,WA
+Peace Island Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$141.05,WA
+Peace Island Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$35.10,WA
+Peace Island Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$163.15,WA
+Peace Island Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$52.65,WA
+Peace Island Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$44.85,WA
+Peace Island Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$180.05,WA
+Peace Island Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$21.45,WA
+Peace Island Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$40.95,WA
+Peace Island Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$138.45,WA
+Peace Island Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$193.05,WA
+Peace Island Medical Center,Breast,HCPCS 77067,Mammogram Screening,$204.10,WA
+Peace Island Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$247.00,WA
+Peace Island Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$3,596.45",WA
+Peace Island Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,458.60",WA
+Peace Island Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,444.95",WA
+Peace Island Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,007.85",WA
+Peace Island Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,448.25",WA
+Peace Island Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,891.85",WA
+Peace Island Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,025.40",WA
+Peace Island Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$2,388.10",WA
+Peace Island Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$2,789.80",WA
+Peace Island Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$2,338.70",WA
+Peace Island Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,859.65",WA
+Peace Island Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$2,380.95",WA
+Peace Island Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$2,342.60",WA
+Peace Island Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,267.85",WA
+Peace Island Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,156.05",WA
+Peace Island Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,162.55",WA
+Peace Island Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$3,324.75",WA
+Peace Island Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,805.05",WA
+Peace Island Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,196.05",WA
+Peace Island Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,513.55",WA
+Peace Island Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$1,706.25",WA
+Peace Island Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$756.60,WA
+Peace Island Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$595.40,WA
+Peace Island Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$572.00,WA
+Peace Island Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$624.65,WA
+Peace Island Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$489.45,WA
+Peace Island Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$560.30,WA
+Peace Island Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$360.75,WA
+Peace Island Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$234.00,WA
+Peace Island Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$235.30,WA
+Peace Island Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$193.05,WA
+Peace Island Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$290.55,WA
+Peace Island Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$217.10,WA
+Peace Island Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$288.60,WA
+Peace Island Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$281.45,WA
+Peace Island Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$241.80,WA
+Peace Island Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$334.10,WA
+Peace Island Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$238.55,WA
+Peace Island Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$440.05,WA
+Peace Island Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$205.40,WA
+Peace Island Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$360.10,WA
+Peace Island Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$333.45,WA
+Peace Island Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$269.75,WA
+Peace Island Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$260.00,WA
+Peace Island Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$274.95,WA
+Peace Island Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$250.25,WA
+Peace Island Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$258.05,WA
+Peace Island Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$250.25,WA
+Peace Island Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$332.15,WA
+Peace Island Medical Center,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$308.10,WA
+Peace Island Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$215.15,WA
+Peace Island Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$223.60,WA
+Peace Island Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$187.20,WA
+Peace Island Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$159.25,WA
+Peace Island Medical Center,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$207.35,WA
+Peace Island Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$306.15,WA
