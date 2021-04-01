@@ -1,0 +1,131 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State,plan_name,price
+Fallon Medical Complex,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$831.00,MT,Medicare A MT JF: All,531.84
+Fallon Medical Complex,Emergency Care,HCPCS 99281,Emergency Level 1,$220.00,MT,Medicare A MT JF: All,169.17
+Fallon Medical Complex,Emergency Care,HCPCS 99282,Emergency Level 2,$331.00,MT,Medicare A MT JF: All,209.85
+Fallon Medical Complex,Emergency Care,HCPCS 99283,Emergency Level 3,$428.00,MT,Medicare A MT JF: All,263.41
+Fallon Medical Complex,Emergency Care,HCPCS 99284,Emergency Level 4,$748.00,MT,Medicare A MT JF: All,472.82
+Fallon Medical Complex,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,270.00",MT,Medicare A MT JF: All,838.43
+Fallon Medical Complex,Blood,HCPCS 85018,"Blood count, hemoglobin",$22.00,MT,Medicare A MT JF: All,11.62
+Fallon Medical Complex,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$22.00,MT,Medicare A MT JF: All,11.62
+Fallon Medical Complex,Blood,HCPCS 85610,"Blood test, clotting time",$54.00,MT,Medicare A MT JF: All,33.22
+Fallon Medical Complex,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$70.00,MT,Medicare A MT JF: All,43.91
+Fallon Medical Complex,Blood,HCPCS 85027,"Complete blood count, automated",$49.00,MT,Medicare A MT JF: All,30.99
+Fallon Medical Complex,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$640.00,MT,Medicare A MT JF: All,421.48
+Fallon Medical Complex,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$97.00,MT,Medicare A MT JF: All,62.08
+Fallon Medical Complex,Chemistry,HCPCS 82150,Amylase (enzyme) level,$68.00,MT,Medicare A MT JF: All,45.13
+Fallon Medical Complex,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$170.00,MT,Medicare A MT JF: All,108.80
+Fallon Medical Complex,Chemistry,HCPCS 84439,Assay of free thyroxine,$77.00,MT,Medicare A MT JF: All,46.84
+Fallon Medical Complex,Chemistry,HCPCS 82248,Bilirubin level (Direct),$45.00,MT,Medicare A MT JF: All,29.55
+Fallon Medical Complex,Chemistry,HCPCS 82247,Bilirubin level (Total),$45.00,MT,Medicare A MT JF: All,29.42
+Fallon Medical Complex,Chemistry,HCPCS 82565,Blood creatinine level,$45.00,MT,Medicare A MT JF: All,20.95
+Fallon Medical Complex,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$56.00,MT,Medicare A MT JF: All,36.31
+Fallon Medical Complex,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$45.00,MT,Medicare A MT JF: All,28.18
+Fallon Medical Complex,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$75.00,MT,Medicare A MT JF: All,45.71
+Fallon Medical Complex,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$70.00,MT,Medicare A MT JF: All,46.64
+Fallon Medical Complex,Chemistry,HCPCS 82533,Cortisol Measurement,$94.00,MT,Medicare A MT JF: All,60.16
+Fallon Medical Complex,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$70.00,MT,Medicare A MT JF: All,45.91
+Fallon Medical Complex,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$54.00,MT,Medicare A MT JF: All,33.45
+Fallon Medical Complex,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$15.00,MT,Medicare A MT JF: All,43.46
+Fallon Medical Complex,Chemistry,HCPCS 82746,Folic acid; serum,$59.00,MT,Medicare A MT JF: All,35.73
+Fallon Medical Complex,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$76.00,MT,Medicare A MT JF: All,45.17
+Fallon Medical Complex,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$45.00,MT,Medicare A MT JF: All,29.18
+Fallon Medical Complex,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$55.00,MT,Medicare A MT JF: All,32.90
+Fallon Medical Complex,Chemistry,HCPCS 83550,Iron Binding Capacity,$45.00,MT,Medicare A MT JF: All,26.74
+Fallon Medical Complex,Chemistry,HCPCS 83540,Iron level,$45.00,MT,Medicare A MT JF: All,27.56
+Fallon Medical Complex,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$78.00,MT,Medicare A MT JF: All,51.21
+Fallon Medical Complex,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$72.00,MT,Medicare A MT JF: All,43.07
+Fallon Medical Complex,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$45.00,MT,Medicare A MT JF: All,29.42
+Fallon Medical Complex,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$59.00,MT,Medicare A MT JF: All,40.77
+Fallon Medical Complex,Chemistry,HCPCS 83735,Magnesium Level,$45.00,MT,Medicare A MT JF: All,26.79
+Fallon Medical Complex,Chemistry,HCPCS 83970,Parathormone,$108.00,MT,Medicare A MT JF: All,70.11
+Fallon Medical Complex,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$59.00,MT,Medicare A MT JF: All,37.76
+Fallon Medical Complex,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$108.00,MT,Medicare A MT JF: All,10.53
+Fallon Medical Complex,Chemistry,HCPCS 82270,Stool analysis for blood,$38.00,MT,Medicare A MT JF: All,30.40
+Fallon Medical Complex,Chemistry,HCPCS 84403,Testosterone (hormone) level,$57.00,MT,Medicare A MT JF: All,49.33
+Fallon Medical Complex,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$192.00,MT,Medicare A MT JF: All,139.24
+Fallon Medical Complex,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$57.00,MT,Medicare A MT JF: All,35.46
+Fallon Medical Complex,Chemistry,HCPCS 84155,"Total protein level, blood",$45.00,MT,Medicare A MT JF: All,3.60
+Fallon Medical Complex,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$58.00,MT,Medicare A MT JF: All,37.12
+Fallon Medical Complex,Chemistry,HCPCS 84550,"Uric acid level, blood",$59.00,MT,Medicare A MT JF: All,38.31
+Fallon Medical Complex,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$57.00,MT,Medicare A MT JF: All,33.66
+Fallon Medical Complex,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$54.00,MT,Medicare A MT JF: All,52.16
+Fallon Medical Complex,Chemistry,HCPCS 84300,Urine sodium level,$52.00,MT,Medicare A MT JF: All,47.36
+Fallon Medical Complex,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$116.00,MT,Medicare A MT JF: All,74.38
+Fallon Medical Complex,Chemistry,HCPCS 84630,Zinc level,$57.00,MT,Medicare A MT JF: All,36.48
+Fallon Medical Complex,Immunology,HCPCS 86140,Measurement C-reactive protein,$68.00,MT,Medicare A MT JF: All,42.93
+Fallon Medical Complex,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$68.00,MT,Medicare A MT JF: All,44.97
+Fallon Medical Complex,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$73.00,MT,Medicare A MT JF: All,50.76
+Fallon Medical Complex,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$98.00,MT,Medicare A MT JF: All,62.66
+Fallon Medical Complex,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$80.00,MT,Medicare A MT JF: All,47.69
+Fallon Medical Complex,Microbiology,HCPCS 87635,Covid-19 current infection test,$152.00,MT,Medicare A MT JF: All,97.40
+Fallon Medical Complex,Microbiology,HCPCS 87045,Stool Culture,$66.00,MT,Medicare A MT JF: All,41.31
+Fallon Medical Complex,Microbiology,HCPCS 87880,Strep Test,$50.00,MT,Medicare A MT JF: All,26.84
+Fallon Medical Complex,Microbiology,HCPCS 87804,Test for Influenza Virus,$50.00,MT,Medicare A MT JF: All,48.15
+Fallon Medical Complex,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$111.00,MT,Medicare A MT JF: All,71.04
+Fallon Medical Complex,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$98.00,MT,Medicare A MT JF: All,51.70
+Fallon Medical Complex,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$152.00,MT,Medicare A MT JF: All,92.53
+Fallon Medical Complex,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$112.00,MT,Medicare A MT JF: All,64.23
+Fallon Medical Complex,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$109.00,MT,Medicare A MT JF: All,69.27
+Fallon Medical Complex,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$98.00,MT,Medicare A MT JF: All,51.25
+Fallon Medical Complex,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$59.00,MT,Medicare A MT JF: All,34.26
+Fallon Medical Complex,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$70.00,MT,Medicare A MT JF: All,32.03
+Fallon Medical Complex,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$59.00,MT,Medicare A MT JF: All,38.94
+Fallon Medical Complex,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$59.00,MT,Medicare A MT JF: All,25.52
+Fallon Medical Complex,Transfusion,HCPCS 86900,"Blood Typing, ABO",$86.00,MT,Medicare A MT JF: All,69.08
+Fallon Medical Complex,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$86.00,MT,Medicare A MT JF: All,53.98
+Fallon Medical Complex,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$304.00,MT,Medicare A MT JF: All,188.08
+Fallon Medical Complex,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$106.00,MT,Medicare A MT JF: All,66.68
+Fallon Medical Complex,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$36.00,MT,Medicare A MT JF: All,21.34
+Fallon Medical Complex,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$83.00,MT,Medicare A MT JF: All,51.05
+Fallon Medical Complex,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$185.00,MT,Medicare A MT JF: All,119.74
+Fallon Medical Complex,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$350.00,MT,Medicare A MT JF: All,224.85
+Fallon Medical Complex,Breast,HCPCS 77067,Mammogram Screening,$284.00,MT,Medicare A MT JF: All,99.24
+Fallon Medical Complex,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$2,980.00",MT,Medicare A MT JF: All,2010.48
+Fallon Medical Complex,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,350.00",MT,Medicare A MT JF: All,879.54
+Fallon Medical Complex,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,185.00",MT,Medicare A MT JF: All,775.87
+Fallon Medical Complex,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,604.00",MT,Medicare A MT JF: All,2344.33
+Fallon Medical Complex,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,332.00",MT,Medicare A MT JF: All,1484.24
+Fallon Medical Complex,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,115.00",MT,Medicare A MT JF: All,1358.71
+Fallon Medical Complex,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,817.00",MT,Medicare A MT JF: All,1114.11
+Fallon Medical Complex,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,608.00",MT,Medicare A MT JF: All,1096.44
+Fallon Medical Complex,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,803.00",MT,Medicare A MT JF: All,1276.10
+Fallon Medical Complex,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,783.00",MT,Medicare A MT JF: All,1265.28
+Fallon Medical Complex,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,353.00",MT,Medicare A MT JF: All,1552.92
+Fallon Medical Complex,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,186.00",MT,Medicare A MT JF: All,1584.55
+Fallon Medical Complex,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,023.00",MT,Medicare A MT JF: All,1310.58
+Fallon Medical Complex,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,152.00",MT,Medicare A MT JF: All,2017.28
+Fallon Medical Complex,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,373.00",MT,Medicare A MT JF: All,1843.73
+Fallon Medical Complex,MRI,HCPCS 73721,MRI scan of leg joint,"$1,867.00",MT,Medicare A MT JF: All,1175.25
+Fallon Medical Complex,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$766.00,MT,Medicare A MT JF: All,506.24
+Fallon Medical Complex,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$624.00,MT,Medicare A MT JF: All,436.35
+Fallon Medical Complex,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$588.00,MT,Medicare A MT JF: All,412.27
+Fallon Medical Complex,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$613.00,MT,Medicare A MT JF: All,392.32
+Fallon Medical Complex,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$409.00,MT,Medicare A MT JF: All,261.76
+Fallon Medical Complex,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$432.00,MT,Medicare A MT JF: All,416.79
+Fallon Medical Complex,Chest,HCPCS 71046,X-ray of chest; 2 Views,$304.00,MT,Medicare A MT JF: All,196.85
+Fallon Medical Complex,Chest,HCPCS 71045,X-ray of chest; Single View,$252.00,MT,Medicare A MT JF: All,176.23
+Fallon Medical Complex,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$451.00,MT,Medicare A MT JF: All,288.64
+Fallon Medical Complex,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$498.00,MT,Medicare A MT JF: All,318.72
+Fallon Medical Complex,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$302.00,MT,Medicare A MT JF: All,231.39
+Fallon Medical Complex,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$290.00,MT,Medicare A MT JF: All,185.60
+Fallon Medical Complex,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$296.00,MT,Medicare A MT JF: All,189.44
+Fallon Medical Complex,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$255.00,MT,Medicare A MT JF: All,178.78
+Fallon Medical Complex,Lower Limbs,HCPCS 73630,X-ray exam of foot,$293.00,MT,Medicare A MT JF: All,195.93
+Fallon Medical Complex,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$281.00,MT,Medicare A MT JF: All,204.63
+Fallon Medical Complex,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$239.00,MT,Medicare A MT JF: All,167.04
+Fallon Medical Complex,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$243.00,MT,Medicare A MT JF: All,155.52
+Fallon Medical Complex,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$355.00,MT,Medicare A MT JF: All,249.32
+Fallon Medical Complex,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$284.00,MT,Medicare A MT JF: All,194.30
+Fallon Medical Complex,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$424.00,MT,Medicare A MT JF: All,288.33
+Fallon Medical Complex,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$350.00,MT,Medicare A MT JF: All,226.62
+Fallon Medical Complex,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$260.00,MT,Medicare A MT JF: All,166.40
+Fallon Medical Complex,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$218.00,MT,Medicare A MT JF: All,178.18
+Fallon Medical Complex,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$287.00,MT,Medicare A MT JF: All,194.82
+Fallon Medical Complex,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$284.00,MT,Medicare A MT JF: All,188.93
+Fallon Medical Complex,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$274.00,MT,Medicare A MT JF: All,174.08
+Fallon Medical Complex,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$303.00,MT,Medicare A MT JF: All,193.92
+Fallon Medical Complex,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$100.00,MT,Medicare A MT JF: All,36.53
+Fallon Medical Complex,Soft Tissue,HCPCS 97597,Debridement of open wound,$288.00,MT,Medicare A MT JF: All,195.50
+Fallon Medical Complex,Soft Tissue,HCPCS 97602,Non-selective debridement,$149.00,MT,Medicare A MT JF: All,98.53
+Fallon Medical Complex,Vascular,HCPCS 36416,Collection of capillary blood specimen,$24.00,MT,Medicare A MT JF: All,15.90
+Fallon Medical Complex,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$520.00,MT,Medicare A MT JF: All,438.40

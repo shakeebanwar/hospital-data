@@ -1,0 +1,944 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State,plan_name,price
+Sidney Health Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$2,157.65",MT,AETNA COMMERCIAL,741.00
+Sidney Health Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$2,157.65",MT,BLUE CROSS COMMERCIAL,372.83
+Sidney Health Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$2,157.65",MT,UNITED HEALTHCARE COMMERCIAL,5312.93
+Sidney Health Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$2,157.65",MT,UNIVERSITY HEALTH PLANS COMMERCIAL,5096.62
+Sidney Health Center,Emergency Care,HCPCS 99281,Emergency Level 1,$285.62,MT,AETNA COMMERCIAL,319.03
+Sidney Health Center,Emergency Care,HCPCS 99281,Emergency Level 1,$285.62,MT,BLUE CROSS COMMERCIAL,119.91
+Sidney Health Center,Emergency Care,HCPCS 99281,Emergency Level 1,$285.62,MT,BLUE CROSS MEDICARE ADVANTAGE,433.58
+Sidney Health Center,Emergency Care,HCPCS 99281,Emergency Level 1,$285.62,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,299.92
+Sidney Health Center,Emergency Care,HCPCS 99281,Emergency Level 1,$285.62,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),627.41
+Sidney Health Center,Emergency Care,HCPCS 99281,Emergency Level 1,$285.62,MT,UMR COMMERCIAL,295.42
+Sidney Health Center,Emergency Care,HCPCS 99281,Emergency Level 1,$285.62,MT,UNITED HEALTHCARE COMMERCIAL,348.16
+Sidney Health Center,Emergency Care,HCPCS 99281,Emergency Level 1,$285.62,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,404.36
+Sidney Health Center,Emergency Care,HCPCS 99282,Emergency Level 2,$285.62,MT,AETNA COMMERCIAL,319.03
+Sidney Health Center,Emergency Care,HCPCS 99282,Emergency Level 2,$285.62,MT,BLUE CROSS COMMERCIAL,119.91
+Sidney Health Center,Emergency Care,HCPCS 99282,Emergency Level 2,$285.62,MT,BLUE CROSS MEDICARE ADVANTAGE,433.58
+Sidney Health Center,Emergency Care,HCPCS 99282,Emergency Level 2,$285.62,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,299.92
+Sidney Health Center,Emergency Care,HCPCS 99282,Emergency Level 2,$285.62,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),627.41
+Sidney Health Center,Emergency Care,HCPCS 99282,Emergency Level 2,$285.62,MT,UMR COMMERCIAL,295.42
+Sidney Health Center,Emergency Care,HCPCS 99282,Emergency Level 2,$285.62,MT,UNITED HEALTHCARE COMMERCIAL,348.16
+Sidney Health Center,Emergency Care,HCPCS 99282,Emergency Level 2,$285.62,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,404.36
+Sidney Health Center,Emergency Care,HCPCS 99283,Emergency Level 3,$285.62,MT,AETNA COMMERCIAL,319.03
+Sidney Health Center,Emergency Care,HCPCS 99283,Emergency Level 3,$285.62,MT,BLUE CROSS COMMERCIAL,119.91
+Sidney Health Center,Emergency Care,HCPCS 99283,Emergency Level 3,$285.62,MT,BLUE CROSS MEDICARE ADVANTAGE,433.58
+Sidney Health Center,Emergency Care,HCPCS 99283,Emergency Level 3,$285.62,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,299.92
+Sidney Health Center,Emergency Care,HCPCS 99283,Emergency Level 3,$285.62,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),627.41
+Sidney Health Center,Emergency Care,HCPCS 99283,Emergency Level 3,$285.62,MT,UMR COMMERCIAL,295.42
+Sidney Health Center,Emergency Care,HCPCS 99283,Emergency Level 3,$285.62,MT,UNITED HEALTHCARE COMMERCIAL,348.16
+Sidney Health Center,Emergency Care,HCPCS 99283,Emergency Level 3,$285.62,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,404.36
+Sidney Health Center,Emergency Care,HCPCS 99284,Emergency Level 4,$285.62,MT,AETNA COMMERCIAL,319.03
+Sidney Health Center,Emergency Care,HCPCS 99284,Emergency Level 4,$285.62,MT,BLUE CROSS COMMERCIAL,119.91
+Sidney Health Center,Emergency Care,HCPCS 99284,Emergency Level 4,$285.62,MT,BLUE CROSS MEDICARE ADVANTAGE,433.58
+Sidney Health Center,Emergency Care,HCPCS 99284,Emergency Level 4,$285.62,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,299.92
+Sidney Health Center,Emergency Care,HCPCS 99284,Emergency Level 4,$285.62,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),627.41
+Sidney Health Center,Emergency Care,HCPCS 99284,Emergency Level 4,$285.62,MT,UMR COMMERCIAL,295.42
+Sidney Health Center,Emergency Care,HCPCS 99284,Emergency Level 4,$285.62,MT,UNITED HEALTHCARE COMMERCIAL,348.16
+Sidney Health Center,Emergency Care,HCPCS 99284,Emergency Level 4,$285.62,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,404.36
+Sidney Health Center,Emergency Care,HCPCS 99285,Emergency Level 5,$285.62,MT,AETNA COMMERCIAL,319.03
+Sidney Health Center,Emergency Care,HCPCS 99285,Emergency Level 5,$285.62,MT,BLUE CROSS COMMERCIAL,119.91
+Sidney Health Center,Emergency Care,HCPCS 99285,Emergency Level 5,$285.62,MT,BLUE CROSS MEDICARE ADVANTAGE,433.58
+Sidney Health Center,Emergency Care,HCPCS 99285,Emergency Level 5,$285.62,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,299.92
+Sidney Health Center,Emergency Care,HCPCS 99285,Emergency Level 5,$285.62,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),627.41
+Sidney Health Center,Emergency Care,HCPCS 99285,Emergency Level 5,$285.62,MT,UMR COMMERCIAL,295.42
+Sidney Health Center,Emergency Care,HCPCS 99285,Emergency Level 5,$285.62,MT,UNITED HEALTHCARE COMMERCIAL,348.16
+Sidney Health Center,Emergency Care,HCPCS 99285,Emergency Level 5,$285.62,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,404.36
+Sidney Health Center,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$105.40,MT,AETNA COMMERCIAL,153.87
+Sidney Health Center,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$105.40,MT,BLUE CROSS COMMERCIAL,135.70
+Sidney Health Center,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$105.40,MT,BLUE CROSS MEDICARE ADVANTAGE,130.43
+Sidney Health Center,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$105.40,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,120.47
+Sidney Health Center,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$105.40,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),196.54
+Sidney Health Center,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$105.40,MT,UMR COMMERCIAL,120.17
+Sidney Health Center,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$105.40,MT,UNITED HEALTHCARE COMMERCIAL,141.13
+Sidney Health Center,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$105.40,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,132.07
+Sidney Health Center,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$105.40,MT,AETNA COMMERCIAL,153.87
+Sidney Health Center,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$105.40,MT,BLUE CROSS COMMERCIAL,135.70
+Sidney Health Center,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$105.40,MT,BLUE CROSS MEDICARE ADVANTAGE,130.43
+Sidney Health Center,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$105.40,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,120.47
+Sidney Health Center,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$105.40,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),196.54
+Sidney Health Center,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$105.40,MT,UMR COMMERCIAL,120.17
+Sidney Health Center,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$105.40,MT,UNITED HEALTHCARE COMMERCIAL,141.13
+Sidney Health Center,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$105.40,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,132.07
+Sidney Health Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$105.40,MT,AETNA COMMERCIAL,153.87
+Sidney Health Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$105.40,MT,BLUE CROSS COMMERCIAL,135.70
+Sidney Health Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$105.40,MT,BLUE CROSS MEDICARE ADVANTAGE,130.43
+Sidney Health Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$105.40,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,120.47
+Sidney Health Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$105.40,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),196.54
+Sidney Health Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$105.40,MT,UMR COMMERCIAL,120.17
+Sidney Health Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$105.40,MT,UNITED HEALTHCARE COMMERCIAL,141.13
+Sidney Health Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$105.40,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,132.07
+Sidney Health Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$105.40,MT,AETNA COMMERCIAL,153.87
+Sidney Health Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$105.40,MT,BLUE CROSS COMMERCIAL,135.70
+Sidney Health Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$105.40,MT,BLUE CROSS MEDICARE ADVANTAGE,130.43
+Sidney Health Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$105.40,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,120.47
+Sidney Health Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$105.40,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),196.54
+Sidney Health Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$105.40,MT,UMR COMMERCIAL,120.17
+Sidney Health Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$105.40,MT,UNITED HEALTHCARE COMMERCIAL,141.13
+Sidney Health Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$105.40,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,132.07
+Sidney Health Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$105.40,MT,AETNA COMMERCIAL,153.87
+Sidney Health Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$105.40,MT,BLUE CROSS COMMERCIAL,135.70
+Sidney Health Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$105.40,MT,BLUE CROSS MEDICARE ADVANTAGE,130.43
+Sidney Health Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$105.40,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,120.47
+Sidney Health Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$105.40,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),196.54
+Sidney Health Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$105.40,MT,UMR COMMERCIAL,120.17
+Sidney Health Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$105.40,MT,UNITED HEALTHCARE COMMERCIAL,141.13
+Sidney Health Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$105.40,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,132.07
+Sidney Health Center,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$82.33,MT,BLUE CROSS COMMERCIAL,91.11
+Sidney Health Center,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$82.33,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,75.06
+Sidney Health Center,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$82.33,MT,BLUE CROSS COMMERCIAL,91.11
+Sidney Health Center,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$82.33,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,75.06
+Sidney Health Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$11.86,MT,AETNA COMMERCIAL,13.60
+Sidney Health Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$11.86,MT,BLUE CROSS COMMERCIAL,3.22
+Sidney Health Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$11.86,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,17.36
+Sidney Health Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$11.86,MT,UNITED HEALTHCARE COMMERCIAL,16.89
+Sidney Health Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$11.86,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,18.43
+Sidney Health Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$23.03,MT,AETNA COMMERCIAL,39.90
+Sidney Health Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$23.03,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,38.37
+Sidney Health Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$23.03,MT,UNITED HEALTHCARE COMMERCIAL,33.93
+Sidney Health Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$23.03,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,30.07
+Sidney Health Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$41.48,MT,AETNA COMMERCIAL,78.38
+Sidney Health Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$41.48,MT,BLUE CROSS COMMERCIAL,52.91
+Sidney Health Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$41.48,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,62.82
+Sidney Health Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$41.48,MT,UMR COMMERCIAL,77.27
+Sidney Health Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$41.48,MT,UNITED HEALTHCARE COMMERCIAL,54.69
+Sidney Health Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$41.48,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,55.29
+Sidney Health Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$41.48,MT,AETNA COMMERCIAL,78.38
+Sidney Health Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$41.48,MT,BLUE CROSS COMMERCIAL,52.91
+Sidney Health Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$41.48,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,62.82
+Sidney Health Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$41.48,MT,UMR COMMERCIAL,77.27
+Sidney Health Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$41.48,MT,UNITED HEALTHCARE COMMERCIAL,54.69
+Sidney Health Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$41.48,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,55.29
+Sidney Health Center,Blood,HCPCS 85610,"Blood test, clotting time",$19.62,MT,AETNA COMMERCIAL,33.25
+Sidney Health Center,Blood,HCPCS 85610,"Blood test, clotting time",$19.62,MT,BLUE CROSS COMMERCIAL,18.82
+Sidney Health Center,Blood,HCPCS 85610,"Blood test, clotting time",$19.62,MT,BLUE CROSS MEDICARE ADVANTAGE,35.00
+Sidney Health Center,Blood,HCPCS 85610,"Blood test, clotting time",$19.62,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,32.29
+Sidney Health Center,Blood,HCPCS 85610,"Blood test, clotting time",$19.62,MT,UMR COMMERCIAL,33.25
+Sidney Health Center,Blood,HCPCS 85610,"Blood test, clotting time",$19.62,MT,UNITED HEALTHCARE COMMERCIAL,33.25
+Sidney Health Center,Blood,HCPCS 85610,"Blood test, clotting time",$19.62,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,30.18
+Sidney Health Center,Blood,HCPCS 85730,Coagulation assessment blood test,$45.80,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,64.54
+Sidney Health Center,Blood,HCPCS 85730,Coagulation assessment blood test,$45.80,MT,UMR COMMERCIAL,67.45
+Sidney Health Center,Blood,HCPCS 85730,Coagulation assessment blood test,$45.80,MT,UNITED HEALTHCARE COMMERCIAL,68.78
+Sidney Health Center,Blood,HCPCS 85730,Coagulation assessment blood test,$45.80,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,72.27
+Sidney Health Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$50.93,MT,AETNA COMMERCIAL,77.65
+Sidney Health Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$50.93,MT,BLUE CROSS COMMERCIAL,73.10
+Sidney Health Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$50.93,MT,BLUE CROSS MEDICARE ADVANTAGE,71.03
+Sidney Health Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$50.93,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,73.93
+Sidney Health Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$50.93,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),79.80
+Sidney Health Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$50.93,MT,UMR COMMERCIAL,77.17
+Sidney Health Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$50.93,MT,UNITED HEALTHCARE COMMERCIAL,72.28
+Sidney Health Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$50.93,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,72.53
+Sidney Health Center,Blood,HCPCS 85027,"Complete blood count, automated",$50.93,MT,AETNA COMMERCIAL,77.65
+Sidney Health Center,Blood,HCPCS 85027,"Complete blood count, automated",$50.93,MT,BLUE CROSS COMMERCIAL,73.10
+Sidney Health Center,Blood,HCPCS 85027,"Complete blood count, automated",$50.93,MT,BLUE CROSS MEDICARE ADVANTAGE,71.03
+Sidney Health Center,Blood,HCPCS 85027,"Complete blood count, automated",$50.93,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,73.93
+Sidney Health Center,Blood,HCPCS 85027,"Complete blood count, automated",$50.93,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),79.80
+Sidney Health Center,Blood,HCPCS 85027,"Complete blood count, automated",$50.93,MT,UMR COMMERCIAL,77.17
+Sidney Health Center,Blood,HCPCS 85027,"Complete blood count, automated",$50.93,MT,UNITED HEALTHCARE COMMERCIAL,72.28
+Sidney Health Center,Blood,HCPCS 85027,"Complete blood count, automated",$50.93,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,72.53
+Sidney Health Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$16.69,MT,AETNA COMMERCIAL,22.80
+Sidney Health Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$16.69,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,22.80
+Sidney Health Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$16.69,MT,UMR COMMERCIAL,22.80
+Sidney Health Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$16.69,MT,UNITED HEALTHCARE COMMERCIAL,22.27
+Sidney Health Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$16.69,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,23.28
+Sidney Health Center,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$113.20,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,182.40
+Sidney Health Center,Chemistry,HCPCS 82040,Albumin (protein) level,$28.03,MT,AETNA COMMERCIAL,45.60
+Sidney Health Center,Chemistry,HCPCS 82040,Albumin (protein) level,$28.03,MT,BLUE CROSS COMMERCIAL,48.23
+Sidney Health Center,Chemistry,HCPCS 82040,Albumin (protein) level,$28.03,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,42.43
+Sidney Health Center,Chemistry,HCPCS 82040,Albumin (protein) level,$28.03,MT,UMR COMMERCIAL,30.88
+Sidney Health Center,Chemistry,HCPCS 82040,Albumin (protein) level,$28.03,MT,UNITED HEALTHCARE COMMERCIAL,41.17
+Sidney Health Center,Chemistry,HCPCS 82040,Albumin (protein) level,$28.03,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,45.35
+Sidney Health Center,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$90.02,MT,BLUE CROSS COMMERCIAL,73.91
+Sidney Health Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$66.80,MT,UNITED HEALTHCARE COMMERCIAL,107.35
+Sidney Health Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$36.01,MT,AETNA COMMERCIAL,54.15
+Sidney Health Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$36.01,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,53.91
+Sidney Health Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$36.01,MT,UMR COMMERCIAL,54.15
+Sidney Health Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$36.01,MT,UNITED HEALTHCARE COMMERCIAL,54.15
+Sidney Health Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$36.01,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,55.29
+Sidney Health Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$110.55,MT,AETNA COMMERCIAL,166.25
+Sidney Health Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$110.55,MT,UNITED HEALTHCARE COMMERCIAL,166.25
+Sidney Health Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$69.58,MT,AETNA COMMERCIAL,105.45
+Sidney Health Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$69.58,MT,BLUE CROSS COMMERCIAL,92.59
+Sidney Health Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$69.58,MT,BLUE CROSS MEDICARE ADVANTAGE,77.15
+Sidney Health Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$69.58,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,104.99
+Sidney Health Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$69.58,MT,UMR COMMERCIAL,97.69
+Sidney Health Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$69.58,MT,UNITED HEALTHCARE COMMERCIAL,104.60
+Sidney Health Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$69.58,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,107.67
+Sidney Health Center,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$79.59,MT,UMR COMMERCIAL,119.70
+Sidney Health Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$35.04,MT,BLUE CROSS COMMERCIAL,53.69
+Sidney Health Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$35.04,MT,BLUE CROSS MEDICARE ADVANTAGE,59.00
+Sidney Health Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$35.04,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,57.03
+Sidney Health Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$35.04,MT,UMR COMMERCIAL,31.83
+Sidney Health Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$35.04,MT,UNITED HEALTHCARE COMMERCIAL,52.95
+Sidney Health Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$35.04,MT,BLUE CROSS COMMERCIAL,53.69
+Sidney Health Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$35.04,MT,BLUE CROSS MEDICARE ADVANTAGE,59.00
+Sidney Health Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$35.04,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,57.03
+Sidney Health Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$35.04,MT,UMR COMMERCIAL,31.83
+Sidney Health Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$35.04,MT,UNITED HEALTHCARE COMMERCIAL,52.95
+Sidney Health Center,Chemistry,HCPCS 82565,Blood creatinine level,$30.54,MT,AETNA COMMERCIAL,44.27
+Sidney Health Center,Chemistry,HCPCS 82565,Blood creatinine level,$30.54,MT,BLUE CROSS COMMERCIAL,55.51
+Sidney Health Center,Chemistry,HCPCS 82565,Blood creatinine level,$30.54,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,37.28
+Sidney Health Center,Chemistry,HCPCS 82565,Blood creatinine level,$30.54,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),42.75
+Sidney Health Center,Chemistry,HCPCS 82565,Blood creatinine level,$30.54,MT,UMR COMMERCIAL,38.00
+Sidney Health Center,Chemistry,HCPCS 82565,Blood creatinine level,$30.54,MT,UNITED HEALTHCARE COMMERCIAL,43.84
+Sidney Health Center,Chemistry,HCPCS 82565,Blood creatinine level,$30.54,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,45.87
+Sidney Health Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$25.96,MT,AETNA COMMERCIAL,35.15
+Sidney Health Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$25.96,MT,BLUE CROSS MEDICARE ADVANTAGE,17.76
+Sidney Health Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$25.96,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,33.80
+Sidney Health Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$25.96,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),48.45
+Sidney Health Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$25.96,MT,UMR COMMERCIAL,35.15
+Sidney Health Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$25.96,MT,UNITED HEALTHCARE COMMERCIAL,38.95
+Sidney Health Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$25.96,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,49.47
+Sidney Health Center,Chemistry,HCPCS 84132,Blood potassium level,$24.22,MT,AETNA COMMERCIAL,38.95
+Sidney Health Center,Chemistry,HCPCS 84132,Blood potassium level,$24.22,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),31.35
+Sidney Health Center,Chemistry,HCPCS 84132,Blood potassium level,$24.22,MT,UMR COMMERCIAL,38.95
+Sidney Health Center,Chemistry,HCPCS 84295,Blood sodium level,$23.06,MT,BLUE CROSS COMMERCIAL,36.40
+Sidney Health Center,Chemistry,HCPCS 84295,Blood sodium level,$23.06,MT,UNITED HEALTHCARE COMMERCIAL,37.05
+Sidney Health Center,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$23.37,MT,UNITED HEALTHCARE COMMERCIAL,35.15
+Sidney Health Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$53.32,MT,AETNA COMMERCIAL,80.30
+Sidney Health Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$53.32,MT,BLUE CROSS COMMERCIAL,77.30
+Sidney Health Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$53.32,MT,BLUE CROSS MEDICARE ADVANTAGE,55.42
+Sidney Health Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$53.32,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,79.60
+Sidney Health Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$53.32,MT,UMR COMMERCIAL,80.46
+Sidney Health Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$53.32,MT,UNITED HEALTHCARE COMMERCIAL,78.70
+Sidney Health Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$53.32,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,82.27
+Sidney Health Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$90.65,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,138.70
+Sidney Health Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$90.65,MT,UNITED HEALTHCARE COMMERCIAL,90.35
+Sidney Health Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$90.65,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,141.62
+Sidney Health Center,Chemistry,HCPCS 82533,Cortisol Measurement,$92.86,MT,BLUE CROSS COMMERCIAL,126.49
+Sidney Health Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$36.01,MT,AETNA COMMERCIAL,54.15
+Sidney Health Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$36.01,MT,BLUE CROSS MEDICARE ADVANTAGE,57.00
+Sidney Health Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$36.01,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,49.48
+Sidney Health Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$36.01,MT,UMR COMMERCIAL,54.15
+Sidney Health Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$36.01,MT,UNITED HEALTHCARE COMMERCIAL,54.15
+Sidney Health Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$36.01,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,55.29
+Sidney Health Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$70.12,MT,AETNA COMMERCIAL,105.45
+Sidney Health Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$70.12,MT,BLUE CROSS COMMERCIAL,111.00
+Sidney Health Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$70.12,MT,BLUE CROSS MEDICARE ADVANTAGE,78.81
+Sidney Health Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$70.12,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,105.45
+Sidney Health Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$70.12,MT,UMR COMMERCIAL,105.45
+Sidney Health Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$70.12,MT,UNITED HEALTHCARE COMMERCIAL,101.27
+Sidney Health Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$70.12,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,107.67
+Sidney Health Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$188.25,MT,UNITED HEALTHCARE COMMERCIAL,283.10
+Sidney Health Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$64.42,MT,AETNA COMMERCIAL,97.47
+Sidney Health Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$64.42,MT,BLUE CROSS COMMERCIAL,97.37
+Sidney Health Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$64.42,MT,BLUE CROSS MEDICARE ADVANTAGE,51.36
+Sidney Health Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$64.42,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,101.65
+Sidney Health Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$64.42,MT,UNITED HEALTHCARE COMMERCIAL,80.20
+Sidney Health Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$64.42,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,103.79
+Sidney Health Center,Chemistry,HCPCS 82746,Folic acid; serum,$69.76,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,111.15
+Sidney Health Center,Chemistry,HCPCS 82746,Folic acid; serum,$69.76,MT,UMR COMMERCIAL,111.15
+Sidney Health Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$72.86,MT,AETNA COMMERCIAL,111.15
+Sidney Health Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$72.86,MT,BLUE CROSS MEDICARE ADVANTAGE,91.79
+Sidney Health Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$72.86,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,113.49
+Sidney Health Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$25.90,MT,AETNA COMMERCIAL,38.95
+Sidney Health Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$25.90,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,38.16
+Sidney Health Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$25.90,MT,UMR COMMERCIAL,38.95
+Sidney Health Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$25.90,MT,UNITED HEALTHCARE COMMERCIAL,38.95
+Sidney Health Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$25.90,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,39.77
+Sidney Health Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$30.32,MT,AETNA COMMERCIAL,44.40
+Sidney Health Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$30.32,MT,BLUE CROSS COMMERCIAL,27.18
+Sidney Health Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$30.32,MT,BLUE CROSS MEDICARE ADVANTAGE,35.52
+Sidney Health Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$30.32,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,45.46
+Sidney Health Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$30.32,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),45.60
+Sidney Health Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$30.32,MT,UMR COMMERCIAL,45.60
+Sidney Health Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$30.32,MT,UNITED HEALTHCARE COMMERCIAL,45.60
+Sidney Health Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$30.32,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,46.56
+Sidney Health Center,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$90.96,MT,AETNA COMMERCIAL,136.80
+Sidney Health Center,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$90.96,MT,UMR COMMERCIAL,136.80
+Sidney Health Center,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$90.96,MT,UNITED HEALTHCARE COMMERCIAL,136.80
+Sidney Health Center,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$90.96,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,139.68
+Sidney Health Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$125.08,MT,UMR COMMERCIAL,188.10
+Sidney Health Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$125.08,MT,UNITED HEALTHCARE COMMERCIAL,188.10
+Sidney Health Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$125.08,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,192.06
+Sidney Health Center,Chemistry,HCPCS 83020,Hemoglobin Measurement,$72.19,MT,AETNA COMMERCIAL,111.63
+Sidney Health Center,Chemistry,HCPCS 83020,Hemoglobin Measurement,$72.19,MT,BLUE CROSS COMMERCIAL,103.66
+Sidney Health Center,Chemistry,HCPCS 83020,Hemoglobin Measurement,$72.19,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,108.30
+Sidney Health Center,Chemistry,HCPCS 83020,Hemoglobin Measurement,$72.19,MT,UMR COMMERCIAL,102.60
+Sidney Health Center,Chemistry,HCPCS 83020,Hemoglobin Measurement,$72.19,MT,UNITED HEALTHCARE COMMERCIAL,111.63
+Sidney Health Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$110.76,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,125.40
+Sidney Health Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$110.76,MT,UMR COMMERCIAL,187.15
+Sidney Health Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$110.76,MT,UNITED HEALTHCARE COMMERCIAL,187.15
+Sidney Health Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$91.81,MT,BLUE CROSS COMMERCIAL,107.38
+Sidney Health Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$91.81,MT,UMR COMMERCIAL,112.10
+Sidney Health Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$91.81,MT,UNITED HEALTHCARE COMMERCIAL,190.00
+Sidney Health Center,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$101.70,MT,AETNA COMMERCIAL,152.95
+Sidney Health Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$84.65,MT,UNITED HEALTHCARE COMMERCIAL,127.30
+Sidney Health Center,Chemistry,HCPCS 82330,Ionized Calcium,$67.61,MT,BLUE CROSS COMMERCIAL,66.25
+Sidney Health Center,Chemistry,HCPCS 82330,Ionized Calcium,$67.61,MT,BLUE CROSS MEDICARE ADVANTAGE,52.80
+Sidney Health Center,Chemistry,HCPCS 82330,Ionized Calcium,$67.61,MT,UNITED HEALTHCARE COMMERCIAL,50.60
+Sidney Health Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$40.43,MT,AETNA COMMERCIAL,60.80
+Sidney Health Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$40.43,MT,BLUE CROSS COMMERCIAL,58.24
+Sidney Health Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$40.43,MT,BLUE CROSS MEDICARE ADVANTAGE,30.72
+Sidney Health Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$40.43,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,60.80
+Sidney Health Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$40.43,MT,UMR COMMERCIAL,60.80
+Sidney Health Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$40.43,MT,UNITED HEALTHCARE COMMERCIAL,48.74
+Sidney Health Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$40.43,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,62.08
+Sidney Health Center,Chemistry,HCPCS 83540,Iron level,$32.22,MT,AETNA COMMERCIAL,48.45
+Sidney Health Center,Chemistry,HCPCS 83540,Iron level,$32.22,MT,BLUE CROSS COMMERCIAL,46.41
+Sidney Health Center,Chemistry,HCPCS 83540,Iron level,$32.22,MT,BLUE CROSS MEDICARE ADVANTAGE,24.48
+Sidney Health Center,Chemistry,HCPCS 83540,Iron level,$32.22,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,48.45
+Sidney Health Center,Chemistry,HCPCS 83540,Iron level,$32.22,MT,UMR COMMERCIAL,48.45
+Sidney Health Center,Chemistry,HCPCS 83540,Iron level,$32.22,MT,UNITED HEALTHCARE COMMERCIAL,39.53
+Sidney Health Center,Chemistry,HCPCS 83540,Iron level,$32.22,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,49.47
+Sidney Health Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$43.59,MT,AETNA COMMERCIAL,65.55
+Sidney Health Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$43.59,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,64.58
+Sidney Health Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$43.59,MT,UMR COMMERCIAL,65.55
+Sidney Health Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$43.59,MT,UNITED HEALTHCARE COMMERCIAL,65.55
+Sidney Health Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$43.59,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,66.93
+Sidney Health Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$40.43,MT,AETNA COMMERCIAL,60.80
+Sidney Health Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$40.43,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,59.64
+Sidney Health Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$40.43,MT,UMR COMMERCIAL,60.80
+Sidney Health Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$40.43,MT,UNITED HEALTHCARE COMMERCIAL,60.80
+Sidney Health Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$40.43,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,62.08
+Sidney Health Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$29.31,MT,AETNA COMMERCIAL,64.60
+Sidney Health Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$29.31,MT,UMR COMMERCIAL,38.95
+Sidney Health Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$29.31,MT,UNITED HEALTHCARE COMMERCIAL,38.95
+Sidney Health Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$105.18,MT,UNITED HEALTHCARE COMMERCIAL,171.95
+Sidney Health Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$105.18,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,175.57
+Sidney Health Center,Chemistry,HCPCS 83021,Liver function blood test panel,$72.19,MT,AETNA COMMERCIAL,111.63
+Sidney Health Center,Chemistry,HCPCS 83021,Liver function blood test panel,$72.19,MT,BLUE CROSS COMMERCIAL,103.66
+Sidney Health Center,Chemistry,HCPCS 83021,Liver function blood test panel,$72.19,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,108.30
+Sidney Health Center,Chemistry,HCPCS 83021,Liver function blood test panel,$72.19,MT,UMR COMMERCIAL,102.60
+Sidney Health Center,Chemistry,HCPCS 83021,Liver function blood test panel,$72.19,MT,UNITED HEALTHCARE COMMERCIAL,111.63
+Sidney Health Center,Chemistry,HCPCS 83735,Magnesium Level,$43.33,MT,AETNA COMMERCIAL,63.65
+Sidney Health Center,Chemistry,HCPCS 83735,Magnesium Level,$43.33,MT,BLUE CROSS MEDICARE ADVANTAGE,67.00
+Sidney Health Center,Chemistry,HCPCS 83735,Magnesium Level,$43.33,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,63.06
+Sidney Health Center,Chemistry,HCPCS 83735,Magnesium Level,$43.33,MT,UMR COMMERCIAL,63.65
+Sidney Health Center,Chemistry,HCPCS 83735,Magnesium Level,$43.33,MT,UNITED HEALTHCARE COMMERCIAL,55.44
+Sidney Health Center,Chemistry,HCPCS 83735,Magnesium Level,$43.33,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,64.99
+Sidney Health Center,Chemistry,HCPCS 82542,Mass spectrometry,$116.55,MT,UNITED HEALTHCARE COMMERCIAL,285.00
+Sidney Health Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$71.38,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,107.35
+Sidney Health Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$71.38,MT,UNITED HEALTHCARE COMMERCIAL,51.98
+Sidney Health Center,Chemistry,HCPCS 83945,Oxalate level,$54.96,MT,BLUE CROSS COMMERCIAL,79.17
+Sidney Health Center,Chemistry,HCPCS 83945,Oxalate level,$54.96,MT,BLUE CROSS MEDICARE ADVANTAGE,41.76
+Sidney Health Center,Chemistry,HCPCS 83970,Parathormone,$128.73,MT,AETNA COMMERCIAL,196.65
+Sidney Health Center,Chemistry,HCPCS 83970,Parathormone,$128.73,MT,BLUE CROSS COMMERCIAL,182.91
+Sidney Health Center,Chemistry,HCPCS 83970,Parathormone,$128.73,MT,BLUE CROSS MEDICARE ADVANTAGE,96.48
+Sidney Health Center,Chemistry,HCPCS 83970,Parathormone,$128.73,MT,UNITED HEALTHCARE COMMERCIAL,190.95
+Sidney Health Center,Chemistry,HCPCS 83970,Parathormone,$128.73,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,194.97
+Sidney Health Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$46.47,MT,BLUE CROSS COMMERCIAL,23.26
+Sidney Health Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$46.47,MT,BLUE CROSS MEDICARE ADVANTAGE,46.08
+Sidney Health Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$46.47,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,76.48
+Sidney Health Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$46.47,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),42.75
+Sidney Health Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$46.47,MT,UNITED HEALTHCARE COMMERCIAL,49.67
+Sidney Health Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$126.34,MT,UNITED HEALTHCARE COMMERCIAL,190.00
+Sidney Health Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$126.34,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,194.00
+Sidney Health Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$46.47,MT,BLUE CROSS COMMERCIAL,23.26
+Sidney Health Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$46.47,MT,BLUE CROSS MEDICARE ADVANTAGE,46.08
+Sidney Health Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$46.47,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,76.48
+Sidney Health Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$46.47,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),42.75
+Sidney Health Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$46.47,MT,UNITED HEALTHCARE COMMERCIAL,49.67
+Sidney Health Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$140.69,MT,BLUE CROSS MEDICARE ADVANTAGE,94.56
+Sidney Health Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$140.69,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,222.78
+Sidney Health Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$140.69,MT,UMR COMMERCIAL,187.15
+Sidney Health Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$140.69,MT,UNITED HEALTHCARE COMMERCIAL,209.76
+Sidney Health Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$140.69,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,227.47
+Sidney Health Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$140.69,MT,BLUE CROSS MEDICARE ADVANTAGE,94.56
+Sidney Health Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$140.69,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,222.78
+Sidney Health Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$140.69,MT,UMR COMMERCIAL,187.15
+Sidney Health Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$140.69,MT,UNITED HEALTHCARE COMMERCIAL,209.76
+Sidney Health Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$140.69,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,227.47
+Sidney Health Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$69.58,MT,AETNA COMMERCIAL,105.45
+Sidney Health Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$69.58,MT,BLUE CROSS COMMERCIAL,92.59
+Sidney Health Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$69.58,MT,BLUE CROSS MEDICARE ADVANTAGE,77.15
+Sidney Health Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$69.58,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,104.99
+Sidney Health Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$69.58,MT,UMR COMMERCIAL,97.69
+Sidney Health Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$69.58,MT,UNITED HEALTHCARE COMMERCIAL,104.60
+Sidney Health Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$69.58,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,107.67
+Sidney Health Center,Chemistry,HCPCS 84155,"Total protein level, blood",$46.47,MT,BLUE CROSS COMMERCIAL,23.26
+Sidney Health Center,Chemistry,HCPCS 84155,"Total protein level, blood",$46.47,MT,BLUE CROSS MEDICARE ADVANTAGE,46.08
+Sidney Health Center,Chemistry,HCPCS 84155,"Total protein level, blood",$46.47,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,76.48
+Sidney Health Center,Chemistry,HCPCS 84155,"Total protein level, blood",$46.47,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),42.75
+Sidney Health Center,Chemistry,HCPCS 84155,"Total protein level, blood",$46.47,MT,UNITED HEALTHCARE COMMERCIAL,49.67
+Sidney Health Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$46.47,MT,BLUE CROSS COMMERCIAL,23.26
+Sidney Health Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$46.47,MT,BLUE CROSS MEDICARE ADVANTAGE,46.08
+Sidney Health Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$46.47,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,76.48
+Sidney Health Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$46.47,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),42.75
+Sidney Health Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$46.47,MT,UNITED HEALTHCARE COMMERCIAL,49.67
+Sidney Health Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$46.47,MT,BLUE CROSS COMMERCIAL,23.26
+Sidney Health Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$46.47,MT,BLUE CROSS MEDICARE ADVANTAGE,46.08
+Sidney Health Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$46.47,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,76.48
+Sidney Health Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$46.47,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),42.75
+Sidney Health Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$46.47,MT,UNITED HEALTHCARE COMMERCIAL,49.67
+Sidney Health Center,Chemistry,HCPCS 84560,Uric acid level,$29.24,MT,AETNA COMMERCIAL,41.80
+Sidney Health Center,Chemistry,HCPCS 84560,Uric acid level,$29.24,MT,BLUE CROSS COMMERCIAL,36.40
+Sidney Health Center,Chemistry,HCPCS 84560,Uric acid level,$29.24,MT,BLUE CROSS MEDICARE ADVANTAGE,54.00
+Sidney Health Center,Chemistry,HCPCS 84560,Uric acid level,$29.24,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,51.30
+Sidney Health Center,Chemistry,HCPCS 84560,Uric acid level,$29.24,MT,UNITED HEALTHCARE COMMERCIAL,39.90
+Sidney Health Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$29.24,MT,AETNA COMMERCIAL,41.80
+Sidney Health Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$29.24,MT,BLUE CROSS COMMERCIAL,36.40
+Sidney Health Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$29.24,MT,BLUE CROSS MEDICARE ADVANTAGE,54.00
+Sidney Health Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$29.24,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,51.30
+Sidney Health Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$29.24,MT,UNITED HEALTHCARE COMMERCIAL,39.90
+Sidney Health Center,Chemistry,HCPCS 82340,Urine calcium level,$67.61,MT,BLUE CROSS COMMERCIAL,66.25
+Sidney Health Center,Chemistry,HCPCS 82340,Urine calcium level,$67.61,MT,BLUE CROSS MEDICARE ADVANTAGE,52.80
+Sidney Health Center,Chemistry,HCPCS 82340,Urine calcium level,$67.61,MT,UNITED HEALTHCARE COMMERCIAL,50.60
+Sidney Health Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$28.03,MT,AETNA COMMERCIAL,45.60
+Sidney Health Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$28.03,MT,BLUE CROSS COMMERCIAL,48.23
+Sidney Health Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$28.03,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,42.43
+Sidney Health Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$28.03,MT,UMR COMMERCIAL,30.88
+Sidney Health Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$28.03,MT,UNITED HEALTHCARE COMMERCIAL,41.17
+Sidney Health Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$28.03,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,45.35
+Sidney Health Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$44.85,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,67.45
+Sidney Health Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$44.85,MT,UNITED HEALTHCARE COMMERCIAL,67.45
+Sidney Health Center,Chemistry,HCPCS 84300,Urine sodium level,$23.06,MT,BLUE CROSS COMMERCIAL,36.40
+Sidney Health Center,Chemistry,HCPCS 84300,Urine sodium level,$23.06,MT,UNITED HEALTHCARE COMMERCIAL,37.05
+Sidney Health Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$90.33,MT,AETNA COMMERCIAL,135.85
+Sidney Health Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$90.33,MT,BLUE CROSS COMMERCIAL,143.00
+Sidney Health Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$90.33,MT,BLUE CROSS MEDICARE ADVANTAGE,93.43
+Sidney Health Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$90.33,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,135.85
+Sidney Health Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$90.33,MT,UMR COMMERCIAL,135.85
+Sidney Health Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$90.33,MT,UNITED HEALTHCARE COMMERCIAL,131.47
+Sidney Health Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$90.33,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,138.71
+Sidney Health Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$92.86,MT,UNITED HEALTHCARE COMMERCIAL,139.65
+Sidney Health Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$43.49,MT,AETNA COMMERCIAL,68.40
+Sidney Health Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$43.49,MT,BLUE CROSS COMMERCIAL,52.28
+Sidney Health Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$43.49,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,73.15
+Sidney Health Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$43.49,MT,UMR COMMERCIAL,68.40
+Sidney Health Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$43.49,MT,UNITED HEALTHCARE COMMERCIAL,72.36
+Sidney Health Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$43.49,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,74.69
+Sidney Health Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$96.02,MT,UMR COMMERCIAL,209.00
+Sidney Health Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$81.06,MT,AETNA COMMERCIAL,114.84
+Sidney Health Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$81.06,MT,BLUE CROSS COMMERCIAL,118.40
+Sidney Health Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$81.06,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,129.49
+Sidney Health Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$81.06,MT,UMR COMMERCIAL,112.72
+Sidney Health Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$81.06,MT,UNITED HEALTHCARE COMMERCIAL,126.23
+Sidney Health Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$81.06,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,142.83
+Sidney Health Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$81.06,MT,AETNA COMMERCIAL,114.84
+Sidney Health Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$81.06,MT,BLUE CROSS COMMERCIAL,118.40
+Sidney Health Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$81.06,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,129.49
+Sidney Health Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$81.06,MT,UMR COMMERCIAL,112.72
+Sidney Health Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$81.06,MT,UNITED HEALTHCARE COMMERCIAL,126.23
+Sidney Health Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$81.06,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,142.83
+Sidney Health Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$760.57,MT,UMR COMMERCIAL,1143.80
+Sidney Health Center,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$97.00,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,173.53
+Sidney Health Center,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$97.00,MT,UNITED HEALTHCARE COMMERCIAL,63.94
+Sidney Health Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$42.96,MT,AETNA COMMERCIAL,64.60
+Sidney Health Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$42.96,MT,BLUE CROSS COMMERCIAL,68.00
+Sidney Health Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$42.96,MT,BLUE CROSS MEDICARE ADVANTAGE,68.00
+Sidney Health Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$42.96,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,63.94
+Sidney Health Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$42.96,MT,UMR COMMERCIAL,64.60
+Sidney Health Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$42.96,MT,UNITED HEALTHCARE COMMERCIAL,64.60
+Sidney Health Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$42.96,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,65.96
+Sidney Health Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$17.06,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,25.65
+Sidney Health Center,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$91.60,MT,AETNA COMMERCIAL,98.80
+Sidney Health Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$81.06,MT,AETNA COMMERCIAL,114.84
+Sidney Health Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$81.06,MT,BLUE CROSS COMMERCIAL,118.40
+Sidney Health Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$81.06,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,129.49
+Sidney Health Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$81.06,MT,UMR COMMERCIAL,112.72
+Sidney Health Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$81.06,MT,UNITED HEALTHCARE COMMERCIAL,126.23
+Sidney Health Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$81.06,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,142.83
+Sidney Health Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$91.32,MT,UNITED HEALTHCARE COMMERCIAL,142.69
+Sidney Health Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$91.32,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,145.69
+Sidney Health Center,Immunology,HCPCS 86431,Rheumatoid factor level,$20.55,MT,AETNA COMMERCIAL,30.40
+Sidney Health Center,Immunology,HCPCS 86431,Rheumatoid factor level,$20.55,MT,BLUE CROSS MEDICARE ADVANTAGE,32.00
+Sidney Health Center,Immunology,HCPCS 86431,Rheumatoid factor level,$20.55,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,30.40
+Sidney Health Center,Immunology,HCPCS 86431,Rheumatoid factor level,$20.55,MT,UMR COMMERCIAL,31.35
+Sidney Health Center,Immunology,HCPCS 86431,Rheumatoid factor level,$20.55,MT,UNITED HEALTHCARE COMMERCIAL,31.03
+Sidney Health Center,Immunology,HCPCS 86431,Rheumatoid factor level,$20.55,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,31.04
+Sidney Health Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$26.74,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,42.75
+Sidney Health Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$26.74,MT,UMR COMMERCIAL,42.75
+Sidney Health Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$26.74,MT,UNITED HEALTHCARE COMMERCIAL,35.15
+Sidney Health Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$26.74,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,43.65
+Sidney Health Center,Immunology,HCPCS 86592,Syphilis Detection Test,$40.94,MT,AETNA COMMERCIAL,61.75
+Sidney Health Center,Immunology,HCPCS 86592,Syphilis Detection Test,$40.94,MT,BLUE CROSS COMMERCIAL,58.29
+Sidney Health Center,Immunology,HCPCS 86592,Syphilis Detection Test,$40.94,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,61.75
+Sidney Health Center,Immunology,HCPCS 86592,Syphilis Detection Test,$40.94,MT,UMR COMMERCIAL,61.75
+Sidney Health Center,Immunology,HCPCS 86592,Syphilis Detection Test,$40.94,MT,UNITED HEALTHCARE COMMERCIAL,61.75
+Sidney Health Center,Immunology,HCPCS 86592,Syphilis Detection Test,$40.94,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,63.05
+Sidney Health Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$47.91,MT,AETNA COMMERCIAL,77.90
+Sidney Health Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$47.91,MT,BLUE CROSS COMMERCIAL,67.96
+Sidney Health Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$47.91,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,71.39
+Sidney Health Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$47.91,MT,UMR COMMERCIAL,75.05
+Sidney Health Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$47.91,MT,UNITED HEALTHCARE COMMERCIAL,83.60
+Sidney Health Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$62.27,MT,BLUE CROSS COMMERCIAL,92.00
+Sidney Health Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$62.27,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,93.10
+Sidney Health Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$62.27,MT,UMR COMMERCIAL,93.10
+Sidney Health Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$62.27,MT,UNITED HEALTHCARE COMMERCIAL,93.10
+Sidney Health Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$62.27,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,95.06
+Sidney Health Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$61.12,MT,AETNA COMMERCIAL,90.25
+Sidney Health Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$61.12,MT,BLUE CROSS COMMERCIAL,88.83
+Sidney Health Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$61.12,MT,BLUE CROSS MEDICARE ADVANTAGE,95.00
+Sidney Health Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$61.12,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,92.63
+Sidney Health Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$61.12,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),90.25
+Sidney Health Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$61.12,MT,UMR COMMERCIAL,90.25
+Sidney Health Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$61.12,MT,UNITED HEALTHCARE COMMERCIAL,91.66
+Sidney Health Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$61.12,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,93.70
+Sidney Health Center,Microbiology,HCPCS 87491,Chlamydia Test,$46.64,MT,AETNA COMMERCIAL,70.30
+Sidney Health Center,Microbiology,HCPCS 87491,Chlamydia Test,$46.64,MT,BLUE CROSS COMMERCIAL,67.70
+Sidney Health Center,Microbiology,HCPCS 87491,Chlamydia Test,$46.64,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,69.17
+Sidney Health Center,Microbiology,HCPCS 87491,Chlamydia Test,$46.64,MT,UMR COMMERCIAL,70.30
+Sidney Health Center,Microbiology,HCPCS 87491,Chlamydia Test,$46.64,MT,UNITED HEALTHCARE COMMERCIAL,70.30
+Sidney Health Center,Microbiology,HCPCS 87491,Chlamydia Test,$46.64,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,71.78
+Sidney Health Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$114.34,MT,BLUE CROSS COMMERCIAL,51.31
+Sidney Health Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$114.34,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,161.33
+Sidney Health Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$114.34,MT,UNITED HEALTHCARE COMMERCIAL,171.95
+Sidney Health Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$96.02,MT,BLUE CROSS COMMERCIAL,141.19
+Sidney Health Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$96.02,MT,BLUE CROSS MEDICARE ADVANTAGE,152.00
+Sidney Health Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$81.06,MT,AETNA COMMERCIAL,114.84
+Sidney Health Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$81.06,MT,BLUE CROSS COMMERCIAL,118.40
+Sidney Health Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$81.06,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,129.49
+Sidney Health Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$81.06,MT,UMR COMMERCIAL,112.72
+Sidney Health Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$81.06,MT,UNITED HEALTHCARE COMMERCIAL,126.23
+Sidney Health Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$81.06,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,142.83
+Sidney Health Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$50.31,MT,AETNA COMMERCIAL,77.90
+Sidney Health Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$50.31,MT,BLUE CROSS COMMERCIAL,72.41
+Sidney Health Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$50.31,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,76.64
+Sidney Health Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$50.31,MT,UMR COMMERCIAL,77.90
+Sidney Health Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$50.31,MT,UNITED HEALTHCARE COMMERCIAL,77.90
+Sidney Health Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$50.31,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,75.66
+Sidney Health Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$43.49,MT,AETNA COMMERCIAL,68.40
+Sidney Health Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$43.49,MT,BLUE CROSS COMMERCIAL,52.28
+Sidney Health Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$43.49,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,73.15
+Sidney Health Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$43.49,MT,UMR COMMERCIAL,68.40
+Sidney Health Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$43.49,MT,UNITED HEALTHCARE COMMERCIAL,72.36
+Sidney Health Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$43.49,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,74.69
+Sidney Health Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$64.27,MT,AETNA COMMERCIAL,98.80
+Sidney Health Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$64.27,MT,BLUE CROSS COMMERCIAL,92.40
+Sidney Health Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$64.27,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,95.63
+Sidney Health Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$64.27,MT,UMR COMMERCIAL,98.80
+Sidney Health Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$64.27,MT,UNITED HEALTHCARE COMMERCIAL,96.90
+Sidney Health Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$64.27,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,91.18
+Sidney Health Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$64.43,MT,BLUE CROSS COMMERCIAL,92.82
+Sidney Health Center,Microbiology,HCPCS 87177,Smear for Parasites,$60.64,MT,AETNA COMMERCIAL,91.20
+Sidney Health Center,Microbiology,HCPCS 87177,Smear for Parasites,$60.64,MT,BLUE CROSS COMMERCIAL,87.36
+Sidney Health Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$33.87,MT,AETNA COMMERCIAL,74.10
+Sidney Health Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$33.87,MT,BLUE CROSS COMMERCIAL,46.14
+Sidney Health Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$33.87,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,42.18
+Sidney Health Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$33.87,MT,UMR COMMERCIAL,52.25
+Sidney Health Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$33.87,MT,UNITED HEALTHCARE COMMERCIAL,58.90
+Sidney Health Center,Microbiology,HCPCS 87045,Stool Culture,$43.21,MT,AETNA COMMERCIAL,63.65
+Sidney Health Center,Microbiology,HCPCS 87045,Stool Culture,$43.21,MT,BLUE CROSS COMMERCIAL,63.71
+Sidney Health Center,Microbiology,HCPCS 87045,Stool Culture,$43.21,MT,BLUE CROSS MEDICARE ADVANTAGE,67.00
+Sidney Health Center,Microbiology,HCPCS 87045,Stool Culture,$43.21,MT,UNITED HEALTHCARE COMMERCIAL,63.65
+Sidney Health Center,Microbiology,HCPCS 87045,Stool Culture,$43.21,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,67.90
+Sidney Health Center,Microbiology,HCPCS 87880,Strep Test,$35.47,MT,BLUE CROSS COMMERCIAL,22.32
+Sidney Health Center,Microbiology,HCPCS 87880,Strep Test,$35.47,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,23.97
+Sidney Health Center,Microbiology,HCPCS 87880,Strep Test,$35.47,MT,UNITED HEALTHCARE COMMERCIAL,53.00
+Sidney Health Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$34.74,MT,BLUE CROSS COMMERCIAL,22.34
+Sidney Health Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$34.74,MT,UNITED HEALTHCARE COMMERCIAL,47.00
+Sidney Health Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$40.94,MT,AETNA COMMERCIAL,61.75
+Sidney Health Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$40.94,MT,BLUE CROSS COMMERCIAL,58.29
+Sidney Health Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$40.94,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,61.75
+Sidney Health Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$40.94,MT,UMR COMMERCIAL,61.75
+Sidney Health Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$40.94,MT,UNITED HEALTHCARE COMMERCIAL,61.75
+Sidney Health Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$40.94,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,63.05
+Sidney Health Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$77.70,MT,UNITED HEALTHCARE COMMERCIAL,116.85
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$62.54,MT,AETNA COMMERCIAL,94.05
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$62.54,MT,BLUE CROSS MEDICARE ADVANTAGE,99.00
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$62.54,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,93.41
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$62.54,MT,UMR COMMERCIAL,94.05
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$62.54,MT,UNITED HEALTHCARE COMMERCIAL,93.71
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$62.54,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,96.03
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$78.33,MT,AETNA COMMERCIAL,117.80
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$78.33,MT,BLUE CROSS MEDICARE ADVANTAGE,94.40
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$78.33,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,116.17
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$78.33,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),117.80
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$78.33,MT,UMR COMMERCIAL,117.80
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$78.33,MT,UNITED HEALTHCARE COMMERCIAL,105.94
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$78.33,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,120.28
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$64.43,MT,AETNA COMMERCIAL,96.90
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$64.43,MT,BLUE CROSS COMMERCIAL,102.00
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$64.43,MT,BLUE CROSS MEDICARE ADVANTAGE,57.63
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$64.43,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,96.90
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$64.43,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),96.90
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$64.43,MT,UMR COMMERCIAL,96.90
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$64.43,MT,UNITED HEALTHCARE COMMERCIAL,93.90
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$64.43,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,98.94
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$41.06,MT,BLUE CROSS COMMERCIAL,59.15
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$41.06,MT,UNITED HEALTHCARE COMMERCIAL,61.75
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$60.64,MT,AETNA COMMERCIAL,91.20
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$60.64,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,90.54
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$60.64,MT,UMR COMMERCIAL,91.20
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$60.64,MT,UNITED HEALTHCARE COMMERCIAL,91.20
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$60.64,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,93.12
+Sidney Health Center,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$146.55,MT,BLUE CROSS COMMERCIAL,211.12
+Sidney Health Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$81.28,MT,AETNA COMMERCIAL,123.50
+Sidney Health Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$120.93,MT,AETNA COMMERCIAL,110.20
+Sidney Health Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$120.93,MT,BLUE CROSS COMMERCIAL,181.06
+Sidney Health Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$120.93,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,182.81
+Sidney Health Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$120.93,MT,UNITED HEALTHCARE COMMERCIAL,193.91
+Sidney Health Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$120.93,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,188.18
+Sidney Health Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$49.27,MT,AETNA COMMERCIAL,74.10
+Sidney Health Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$144.79,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),220.40
+Sidney Health Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$144.79,MT,UNITED HEALTHCARE COMMERCIAL,106.72
+Sidney Health Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$90.33,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,138.71
+Sidney Health Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$45.64,MT,AETNA COMMERCIAL,61.75
+Sidney Health Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$45.64,MT,BLUE CROSS COMMERCIAL,65.25
+Sidney Health Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$45.64,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,75.39
+Sidney Health Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$45.64,MT,UMR COMMERCIAL,61.75
+Sidney Health Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$45.64,MT,UNITED HEALTHCARE COMMERCIAL,65.29
+Sidney Health Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$45.64,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,95.55
+Sidney Health Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$45.64,MT,AETNA COMMERCIAL,61.75
+Sidney Health Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$45.64,MT,BLUE CROSS COMMERCIAL,65.25
+Sidney Health Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$45.64,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,75.39
+Sidney Health Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$45.64,MT,UMR COMMERCIAL,61.75
+Sidney Health Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$45.64,MT,UNITED HEALTHCARE COMMERCIAL,65.29
+Sidney Health Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$45.64,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,95.55
+Sidney Health Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$58.03,MT,AETNA COMMERCIAL,88.35
+Sidney Health Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$58.03,MT,BLUE CROSS COMMERCIAL,81.38
+Sidney Health Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$58.03,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,88.35
+Sidney Health Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$58.03,MT,UMR COMMERCIAL,88.35
+Sidney Health Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$58.03,MT,UNITED HEALTHCARE COMMERCIAL,88.35
+Sidney Health Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$58.03,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,90.21
+Sidney Health Center,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$65.07,MT,BLUE CROSS COMMERCIAL,93.73
+Sidney Health Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$58.03,MT,AETNA COMMERCIAL,88.35
+Sidney Health Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$58.03,MT,BLUE CROSS COMMERCIAL,81.38
+Sidney Health Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$58.03,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,88.35
+Sidney Health Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$58.03,MT,UMR COMMERCIAL,88.35
+Sidney Health Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$58.03,MT,UNITED HEALTHCARE COMMERCIAL,88.35
+Sidney Health Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$58.03,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,90.21
+Sidney Health Center,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$14.21,MT,BLUE CROSS COMMERCIAL,4.70
+Sidney Health Center,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$14.21,MT,UNITED HEALTHCARE COMMERCIAL,23.75
+Sidney Health Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$21.94,MT,AETNA COMMERCIAL,34.52
+Sidney Health Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$21.94,MT,BLUE CROSS COMMERCIAL,33.65
+Sidney Health Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$21.94,MT,BLUE CROSS MEDICARE ADVANTAGE,28.00
+Sidney Health Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$21.94,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,31.55
+Sidney Health Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$21.94,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),36.10
+Sidney Health Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$21.94,MT,UMR COMMERCIAL,34.32
+Sidney Health Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$21.94,MT,UNITED HEALTHCARE COMMERCIAL,33.00
+Sidney Health Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$21.94,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,30.92
+Sidney Health Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$21.94,MT,AETNA COMMERCIAL,34.52
+Sidney Health Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$21.94,MT,BLUE CROSS COMMERCIAL,33.65
+Sidney Health Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$21.94,MT,BLUE CROSS MEDICARE ADVANTAGE,28.00
+Sidney Health Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$21.94,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,31.55
+Sidney Health Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$21.94,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),36.10
+Sidney Health Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$21.94,MT,UMR COMMERCIAL,34.32
+Sidney Health Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$21.94,MT,UNITED HEALTHCARE COMMERCIAL,33.00
+Sidney Health Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$21.94,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,30.92
+Sidney Health Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$26.02,MT,AETNA COMMERCIAL,44.65
+Sidney Health Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$26.02,MT,BLUE CROSS COMMERCIAL,21.12
+Sidney Health Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$26.02,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,43.77
+Sidney Health Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$26.02,MT,UMR COMMERCIAL,44.65
+Sidney Health Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$26.02,MT,UNITED HEALTHCARE COMMERCIAL,37.72
+Sidney Health Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$26.02,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,45.59
+Sidney Health Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$690.68,MT,BLUE CROSS COMMERCIAL,36.93
+Sidney Health Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$690.68,MT,UMR COMMERCIAL,1140.57
+Sidney Health Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$690.68,MT,UNITED HEALTHCARE COMMERCIAL,988.88
+Sidney Health Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$690.68,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,849.61
+Sidney Health Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$157.08,MT,AETNA COMMERCIAL,238.45
+Sidney Health Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$157.08,MT,BLUE CROSS MEDICARE ADVANTAGE,207.49
+Sidney Health Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$157.08,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,237.12
+Sidney Health Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$157.08,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),238.45
+Sidney Health Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$157.08,MT,UMR COMMERCIAL,238.45
+Sidney Health Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$157.08,MT,UNITED HEALTHCARE COMMERCIAL,225.08
+Sidney Health Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$157.08,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,243.47
+Sidney Health Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$146.80,MT,AETNA COMMERCIAL,159.93
+Sidney Health Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$146.80,MT,BLUE CROSS MEDICARE ADVANTAGE,345.00
+Sidney Health Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$146.80,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,156.11
+Sidney Health Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$146.80,MT,UNITED HEALTHCARE COMMERCIAL,128.73
+Sidney Health Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,$135.60,MT,UNITED HEALTHCARE COMMERCIAL,203.93
+Sidney Health Center,Pulmonary,HCPCS 94640,Aerosol Treatment,$295.36,MT,BLUE CROSS COMMERCIAL,26.80
+Sidney Health Center,Pulmonary,HCPCS 94640,Aerosol Treatment,$295.36,MT,UMR COMMERCIAL,307.88
+Sidney Health Center,Pulmonary,HCPCS 94640,Aerosol Treatment,$295.36,MT,UNITED HEALTHCARE COMMERCIAL,571.37
+Sidney Health Center,Sleep,HCPCS 95810,Sleep study,"$1,924.45",MT,UMR COMMERCIAL,3088.45
+Sidney Health Center,Sleep,HCPCS 95810,Sleep study,"$1,924.45",MT,UNITED HEALTHCARE COMMERCIAL,3099.85
+Sidney Health Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$275.83,MT,AETNA COMMERCIAL,426.08
+Sidney Health Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$275.83,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,438.58
+Sidney Health Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$275.83,MT,UNITED HEALTHCARE COMMERCIAL,409.02
+Sidney Health Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$275.83,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,415.89
+Sidney Health Center,Breast,HCPCS 77067,Mammogram Screening,$273.42,MT,AETNA COMMERCIAL,411.35
+Sidney Health Center,Breast,HCPCS 77067,Mammogram Screening,$273.42,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,407.19
+Sidney Health Center,Breast,HCPCS 77067,Mammogram Screening,$273.42,MT,UMR COMMERCIAL,411.35
+Sidney Health Center,Breast,HCPCS 77067,Mammogram Screening,$273.42,MT,UNITED HEALTHCARE COMMERCIAL,411.35
+Sidney Health Center,Breast,HCPCS 77067,Mammogram Screening,$273.42,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,419.11
+Sidney Health Center,Breast,HCPCS 77066,Mammography of both breasts,$275.83,MT,AETNA COMMERCIAL,426.08
+Sidney Health Center,Breast,HCPCS 77066,Mammography of both breasts,$275.83,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,438.58
+Sidney Health Center,Breast,HCPCS 77066,Mammography of both breasts,$275.83,MT,UNITED HEALTHCARE COMMERCIAL,409.02
+Sidney Health Center,Breast,HCPCS 77066,Mammography of both breasts,$275.83,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,415.89
+Sidney Health Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,630.25",MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,2587.91
+Sidney Health Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,630.25",MT,UNITED HEALTHCARE COMMERCIAL,2179.17
+Sidney Health Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$819.47,MT,AETNA COMMERCIAL,1369.90
+Sidney Health Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$819.47,MT,UMR COMMERCIAL,1227.40
+Sidney Health Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$819.47,MT,UNITED HEALTHCARE COMMERCIAL,1312.90
+Sidney Health Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$819.47,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,1034.16
+Sidney Health Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$776.95,MT,AETNA COMMERCIAL,1200.80
+Sidney Health Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$776.95,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,1200.80
+Sidney Health Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$776.95,MT,UMR COMMERCIAL,1080.15
+Sidney Health Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$776.95,MT,UNITED HEALTHCARE COMMERCIAL,1197.29
+Sidney Health Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,552.88",MT,AETNA COMMERCIAL,2202.05
+Sidney Health Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,552.88",MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,2046.67
+Sidney Health Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,552.88",MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),2131.84
+Sidney Health Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,552.88",MT,UMR COMMERCIAL,2148.90
+Sidney Health Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,552.88",MT,UNITED HEALTHCARE COMMERCIAL,2261.94
+Sidney Health Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,552.88",MT,UNIVERSITY HEALTH PLANS COMMERCIAL,2475.14
+Sidney Health Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,552.88",MT,AETNA COMMERCIAL,2202.05
+Sidney Health Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,552.88",MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,2046.67
+Sidney Health Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,552.88",MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),2131.84
+Sidney Health Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,552.88",MT,UMR COMMERCIAL,2148.90
+Sidney Health Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,552.88",MT,UNITED HEALTHCARE COMMERCIAL,2261.94
+Sidney Health Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,552.88",MT,UNIVERSITY HEALTH PLANS COMMERCIAL,2475.14
+Sidney Health Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$543.24,MT,AETNA COMMERCIAL,879.43
+Sidney Health Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$543.24,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,833.05
+Sidney Health Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$543.24,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),792.30
+Sidney Health Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$543.24,MT,UMR COMMERCIAL,789.04
+Sidney Health Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$543.24,MT,UNITED HEALTHCARE COMMERCIAL,741.28
+Sidney Health Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$543.24,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,808.98
+Sidney Health Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,157.30",MT,AETNA COMMERCIAL,1197.62
+Sidney Health Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,157.30",MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,1079.69
+Sidney Health Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,157.30",MT,UMR COMMERCIAL,2410.15
+Sidney Health Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,157.30",MT,UNITED HEALTHCARE COMMERCIAL,1335.87
+Sidney Health Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,157.30",MT,UNIVERSITY HEALTH PLANS COMMERCIAL,1664.67
+Sidney Health Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$944.60,MT,AETNA COMMERCIAL,1424.05
+Sidney Health Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$944.60,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,1354.16
+Sidney Health Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$944.60,MT,UMR COMMERCIAL,1403.15
+Sidney Health Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$944.60,MT,UNITED HEALTHCARE COMMERCIAL,1292.14
+Sidney Health Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$944.60,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,1454.03
+Sidney Health Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,369.71",MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,1597.90
+Sidney Health Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,369.71",MT,UNITED HEALTHCARE COMMERCIAL,1794.42
+Sidney Health Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,010.09",MT,UMR COMMERCIAL,1519.05
+Sidney Health Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$765.89,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,1166.72
+Sidney Health Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$765.89,MT,UMR COMMERCIAL,1148.55
+Sidney Health Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$765.89,MT,UNITED HEALTHCARE COMMERCIAL,1151.59
+Sidney Health Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$765.89,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,1172.73
+Sidney Health Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$1,716.17",MT,AETNA COMMERCIAL,2273.35
+Sidney Health Center,MRI,HCPCS 72141,MRI neck spine without contrast material,$765.89,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,1166.72
+Sidney Health Center,MRI,HCPCS 72141,MRI neck spine without contrast material,$765.89,MT,UMR COMMERCIAL,1148.55
+Sidney Health Center,MRI,HCPCS 72141,MRI neck spine without contrast material,$765.89,MT,UNITED HEALTHCARE COMMERCIAL,1151.59
+Sidney Health Center,MRI,HCPCS 72141,MRI neck spine without contrast material,$765.89,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,1172.73
+Sidney Health Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,025.65",MT,UNITED HEALTHCARE COMMERCIAL,2991.87
+Sidney Health Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$814.26,MT,AETNA COMMERCIAL,990.85
+Sidney Health Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$814.26,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,1302.45
+Sidney Health Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$814.26,MT,UNITED HEALTHCARE COMMERCIAL,1250.52
+Sidney Health Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,039.96",MT,AETNA COMMERCIAL,3226.20
+Sidney Health Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,039.96",MT,UMR COMMERCIAL,2944.05
+Sidney Health Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,039.96",MT,UNITED HEALTHCARE COMMERCIAL,2780.65
+Sidney Health Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$882.48,MT,AETNA COMMERCIAL,1327.15
+Sidney Health Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$882.48,MT,UMR COMMERCIAL,1327.15
+Sidney Health Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$882.48,MT,UNITED HEALTHCARE COMMERCIAL,1327.15
+Sidney Health Center,MRI,HCPCS 73721,MRI scan of leg joint,$653.01,MT,AETNA COMMERCIAL,1184.65
+Sidney Health Center,MRI,HCPCS 73721,MRI scan of leg joint,$653.01,MT,BLUE CROSS COMMERCIAL,277.19
+Sidney Health Center,MRI,HCPCS 73721,MRI scan of leg joint,$653.01,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,1184.65
+Sidney Health Center,MRI,HCPCS 73721,MRI scan of leg joint,$653.01,MT,UMR COMMERCIAL,622.10
+Sidney Health Center,MRI,HCPCS 73721,MRI scan of leg joint,$653.01,MT,UNITED HEALTHCARE COMMERCIAL,1184.65
+Sidney Health Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$351.36,MT,AETNA COMMERCIAL,525.03
+Sidney Health Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$351.36,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,591.58
+Sidney Health Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$351.36,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),657.40
+Sidney Health Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$351.36,MT,UMR COMMERCIAL,413.06
+Sidney Health Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$351.36,MT,UNITED HEALTHCARE COMMERCIAL,437.24
+Sidney Health Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$351.36,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,379.27
+Sidney Health Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$226.40,MT,UMR COMMERCIAL,279.78
+Sidney Health Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$226.40,MT,UNITED HEALTHCARE COMMERCIAL,380.95
+Sidney Health Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$226.40,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,388.97
+Sidney Health Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$516.84,MT,AETNA COMMERCIAL,827.45
+Sidney Health Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$516.84,MT,UMR COMMERCIAL,827.45
+Sidney Health Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$516.84,MT,UNITED HEALTHCARE COMMERCIAL,727.07
+Sidney Health Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$380.43,MT,AETNA COMMERCIAL,684.95
+Sidney Health Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$380.43,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,625.85
+Sidney Health Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$380.43,MT,UNITED HEALTHCARE COMMERCIAL,578.55
+Sidney Health Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$380.43,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,699.37
+Sidney Health Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$380.43,MT,AETNA COMMERCIAL,684.95
+Sidney Health Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$380.43,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,625.85
+Sidney Health Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$380.43,MT,UNITED HEALTHCARE COMMERCIAL,578.55
+Sidney Health Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$380.43,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,699.37
+Sidney Health Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$288.69,MT,UNITED HEALTHCARE COMMERCIAL,434.15
+Sidney Health Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$277.81,MT,AETNA COMMERCIAL,417.05
+Sidney Health Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$277.81,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,400.85
+Sidney Health Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$277.81,MT,UMR COMMERCIAL,422.75
+Sidney Health Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$277.81,MT,UNITED HEALTHCARE COMMERCIAL,412.62
+Sidney Health Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$277.81,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,431.65
+Sidney Health Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$181.80,MT,AETNA COMMERCIAL,262.20
+Sidney Health Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$181.80,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,283.80
+Sidney Health Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$181.80,MT,UMR COMMERCIAL,280.41
+Sidney Health Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$181.80,MT,UNITED HEALTHCARE COMMERCIAL,268.06
+Sidney Health Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$181.80,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,284.10
+Sidney Health Center,Chest,HCPCS 71045,X-ray of chest; Single View,$181.80,MT,AETNA COMMERCIAL,262.20
+Sidney Health Center,Chest,HCPCS 71045,X-ray of chest; Single View,$181.80,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,283.80
+Sidney Health Center,Chest,HCPCS 71045,X-ray of chest; Single View,$181.80,MT,UMR COMMERCIAL,280.41
+Sidney Health Center,Chest,HCPCS 71045,X-ray of chest; Single View,$181.80,MT,UNITED HEALTHCARE COMMERCIAL,268.06
+Sidney Health Center,Chest,HCPCS 71045,X-ray of chest; Single View,$181.80,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,284.10
+Sidney Health Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$132.03,MT,UNITED HEALTHCARE COMMERCIAL,198.55
+Sidney Health Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$127.60,MT,UNITED HEALTHCARE COMMERCIAL,191.90
+Sidney Health Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$126.76,MT,AETNA COMMERCIAL,162.45
+Sidney Health Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$126.76,MT,UNITED HEALTHCARE COMMERCIAL,204.73
+Sidney Health Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$126.76,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,165.87
+Sidney Health Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$166.14,MT,UMR COMMERCIAL,249.85
+Sidney Health Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$166.14,MT,UNITED HEALTHCARE COMMERCIAL,249.85
+Sidney Health Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$246.36,MT,UMR COMMERCIAL,370.50
+Sidney Health Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$246.36,MT,UNITED HEALTHCARE COMMERCIAL,370.50
+Sidney Health Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$180.28,MT,AETNA COMMERCIAL,253.53
+Sidney Health Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$180.28,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,293.55
+Sidney Health Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$180.28,MT,UMR COMMERCIAL,282.15
+Sidney Health Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$180.28,MT,UNITED HEALTHCARE COMMERCIAL,268.57
+Sidney Health Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$180.28,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,289.00
+Sidney Health Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$157.08,MT,AETNA COMMERCIAL,236.55
+Sidney Health Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$157.08,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,239.85
+Sidney Health Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$157.08,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),171.95
+Sidney Health Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$157.08,MT,UMR COMMERCIAL,227.05
+Sidney Health Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$157.08,MT,UNITED HEALTHCARE COMMERCIAL,247.15
+Sidney Health Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$157.08,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,235.95
+Sidney Health Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$180.28,MT,AETNA COMMERCIAL,253.53
+Sidney Health Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$180.28,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,293.55
+Sidney Health Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$180.28,MT,UMR COMMERCIAL,282.15
+Sidney Health Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$180.28,MT,UNITED HEALTHCARE COMMERCIAL,268.57
+Sidney Health Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$180.28,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,289.00
+Sidney Health Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$157.08,MT,AETNA COMMERCIAL,236.55
+Sidney Health Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$157.08,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,239.85
+Sidney Health Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$157.08,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),171.95
+Sidney Health Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$157.08,MT,UMR COMMERCIAL,227.05
+Sidney Health Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$157.08,MT,UNITED HEALTHCARE COMMERCIAL,247.15
+Sidney Health Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$157.08,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,235.95
+Sidney Health Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$85.28,MT,UNITED HEALTHCARE COMMERCIAL,128.25
+Sidney Health Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$180.28,MT,AETNA COMMERCIAL,253.53
+Sidney Health Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$180.28,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,293.55
+Sidney Health Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$180.28,MT,UMR COMMERCIAL,282.15
+Sidney Health Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$180.28,MT,UNITED HEALTHCARE COMMERCIAL,268.57
+Sidney Health Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$180.28,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,289.00
+Sidney Health Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$150.98,MT,UNITED HEALTHCARE COMMERCIAL,227.05
+Sidney Health Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$157.08,MT,AETNA COMMERCIAL,236.55
+Sidney Health Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$157.08,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,239.85
+Sidney Health Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$157.08,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),171.95
+Sidney Health Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$157.08,MT,UMR COMMERCIAL,227.05
+Sidney Health Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$157.08,MT,UNITED HEALTHCARE COMMERCIAL,247.15
+Sidney Health Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$157.08,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,235.95
+Sidney Health Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$157.08,MT,AETNA COMMERCIAL,236.55
+Sidney Health Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$157.08,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,239.85
+Sidney Health Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$157.08,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),171.95
+Sidney Health Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$157.08,MT,UMR COMMERCIAL,227.05
+Sidney Health Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$157.08,MT,UNITED HEALTHCARE COMMERCIAL,247.15
+Sidney Health Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$157.08,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,235.95
+Sidney Health Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$333.58,MT,AETNA COMMERCIAL,334.40
+Sidney Health Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$333.58,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,302.58
+Sidney Health Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$333.58,MT,UMR COMMERCIAL,634.60
+Sidney Health Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$333.58,MT,UNITED HEALTHCARE COMMERCIAL,505.88
+Sidney Health Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$333.58,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,647.96
+Sidney Health Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$333.58,MT,AETNA COMMERCIAL,334.40
+Sidney Health Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$333.58,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,302.58
+Sidney Health Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$333.58,MT,UMR COMMERCIAL,634.60
+Sidney Health Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$333.58,MT,UNITED HEALTHCARE COMMERCIAL,505.88
+Sidney Health Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$333.58,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,647.96
+Sidney Health Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$185.38,MT,AETNA COMMERCIAL,287.85
+Sidney Health Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$185.38,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,235.60
+Sidney Health Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$185.38,MT,UMR COMMERCIAL,16.22
+Sidney Health Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$185.38,MT,UNITED HEALTHCARE COMMERCIAL,330.60
+Sidney Health Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$185.38,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,293.91
+Sidney Health Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$156.16,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,238.45
+Sidney Health Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$156.16,MT,UMR COMMERCIAL,145.35
+Sidney Health Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$156.16,MT,UNITED HEALTHCARE COMMERCIAL,252.23
+Sidney Health Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$156.16,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,244.12
+Sidney Health Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$111.72,MT,AETNA COMMERCIAL,183.35
+Sidney Health Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$111.72,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,137.75
+Sidney Health Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$111.72,MT,UMR COMMERCIAL,198.55
+Sidney Health Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$111.72,MT,UNITED HEALTHCARE COMMERCIAL,137.37
+Sidney Health Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$111.72,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,202.73
+Sidney Health Center,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$227.41,MT,AETNA COMMERCIAL,475.00
+Sidney Health Center,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$227.41,MT,UNITED HEALTHCARE COMMERCIAL,325.38
+Sidney Health Center,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$227.41,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,281.30
+Sidney Health Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$161.50,MT,AETNA COMMERCIAL,213.56
+Sidney Health Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$161.50,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,270.01
+Sidney Health Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$161.50,MT,UMR COMMERCIAL,287.85
+Sidney Health Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$161.50,MT,UNITED HEALTHCARE COMMERCIAL,230.49
+Sidney Health Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$161.50,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,268.93
+Sidney Health Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$161.50,MT,AETNA COMMERCIAL,213.56
+Sidney Health Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$161.50,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,270.01
+Sidney Health Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$161.50,MT,UMR COMMERCIAL,287.85
+Sidney Health Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$161.50,MT,UNITED HEALTHCARE COMMERCIAL,230.49
+Sidney Health Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$161.50,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,268.93
+Sidney Health Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$175.14,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),190.00
+Sidney Health Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$175.14,MT,UMR COMMERCIAL,287.85
+Sidney Health Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$175.14,MT,UNITED HEALTHCARE COMMERCIAL,271.54
+Sidney Health Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$161.50,MT,AETNA COMMERCIAL,213.56
+Sidney Health Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$161.50,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,270.01
+Sidney Health Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$161.50,MT,UMR COMMERCIAL,287.85
+Sidney Health Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$161.50,MT,UNITED HEALTHCARE COMMERCIAL,230.49
+Sidney Health Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$161.50,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,268.93
+Sidney Health Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$161.50,MT,AETNA COMMERCIAL,213.56
+Sidney Health Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$161.50,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,270.01
+Sidney Health Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$161.50,MT,UMR COMMERCIAL,287.85
+Sidney Health Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$161.50,MT,UNITED HEALTHCARE COMMERCIAL,230.49
+Sidney Health Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$161.50,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,268.93
+Sidney Health Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$6,512.10",MT,AETNA COMMERCIAL,7007.75
+Sidney Health Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$6,512.10",MT,BLUE CROSS COMMERCIAL,558.07
+Sidney Health Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$6,512.10",MT,UNITED HEALTHCARE COMMERCIAL,15012.21
+Sidney Health Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$6,512.10",MT,UNIVERSITY HEALTH PLANS COMMERCIAL,13024.76
+Sidney Health Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$113.91,MT,UMR COMMERCIAL,97.35
+Sidney Health Center,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$113.91,MT,UMR COMMERCIAL,97.35
+Sidney Health Center,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$25,008.99",MT,BLUE CROSS COMMERCIAL,23242.86
+Sidney Health Center,Breast,HCPCS 19301,Partial removal of breast,"$4,689.04",MT,UNITED HEALTHCARE COMMERCIAL,6849.00
+Sidney Health Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,182.12",MT,AETNA COMMERCIAL,1940.67
+Sidney Health Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,182.12",MT,BLUE CROSS COMMERCIAL,318.89
+Sidney Health Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,182.12",MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,1464.96
+Sidney Health Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,182.12",MT,UNITED HEALTHCARE COMMERCIAL,2319.21
+Sidney Health Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,351.49",MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,92.20
+Sidney Health Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,351.49",MT,UMR COMMERCIAL,953.85
+Sidney Health Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,351.49",MT,UNITED HEALTHCARE COMMERCIAL,120.36
+Sidney Health Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,354.66",MT,BLUE CROSS COMMERCIAL,438.48
+Sidney Health Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,354.66",MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,1859.07
+Sidney Health Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,354.66",MT,UNITED HEALTHCARE COMMERCIAL,1544.99
+Sidney Health Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,354.66",MT,BLUE CROSS COMMERCIAL,438.48
+Sidney Health Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,354.66",MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,1859.07
+Sidney Health Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,354.66",MT,UNITED HEALTHCARE COMMERCIAL,1544.99
+Sidney Health Center,Digestive,HCPCS 43239,EGD and biopsy,"$1,195.05",MT,AETNA COMMERCIAL,3187.37
+Sidney Health Center,Digestive,HCPCS 43239,EGD and biopsy,"$1,195.05",MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,1444.76
+Sidney Health Center,Digestive,HCPCS 43239,EGD and biopsy,"$1,195.05",MT,UNITED HEALTHCARE COMMERCIAL,2222.99
+Sidney Health Center,Digestive,HCPCS 43239,EGD and biopsy,"$1,195.05",MT,UNIVERSITY HEALTH PLANS COMMERCIAL,1703.86
+Sidney Health Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$22,333.33",MT,BLUE CROSS COMMERCIAL,23362.80
+Sidney Health Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$22,333.33",MT,UNITED HEALTHCARE COMMERCIAL,20233.11
+Sidney Health Center,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$12,906.19",MT,UNITED HEALTHCARE COMMERCIAL,15631.34
+Sidney Health Center,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$12,906.19",MT,UNIVERSITY HEALTH PLANS COMMERCIAL,16797.24
+Sidney Health Center,General,HCPCS 10060,Drainage of Abscess,$284.11,MT,BLUE CROSS COMMERCIAL,209.99
+Sidney Health Center,General,HCPCS 10060,Drainage of Abscess,$284.11,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,240.01
+Sidney Health Center,General,HCPCS 10060,Drainage of Abscess,$284.11,MT,UMR COMMERCIAL,142.18
+Sidney Health Center,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple","$1,132.58",MT,BLUE CROSS COMMERCIAL,209.27
+Sidney Health Center,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple","$1,132.58",MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,235.32
+Sidney Health Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$355.30,MT,BLUE CROSS COMMERCIAL,100.14
+Sidney Health Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$355.30,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,291.86
+Sidney Health Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$355.30,MT,UNITED HEALTHCARE COMMERCIAL,402.29
+Sidney Health Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$355.30,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,85.22
+Sidney Health Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$355.30,MT,BLUE CROSS COMMERCIAL,100.14
+Sidney Health Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$355.30,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,291.86
+Sidney Health Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$355.30,MT,UNITED HEALTHCARE COMMERCIAL,402.29
+Sidney Health Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$355.30,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,85.22
+Sidney Health Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$355.30,MT,BLUE CROSS COMMERCIAL,100.14
+Sidney Health Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$355.30,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,291.86
+Sidney Health Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$355.30,MT,UNITED HEALTHCARE COMMERCIAL,402.29
+Sidney Health Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$355.30,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,85.22
+Sidney Health Center,Head,HCPCS 69436,Create eardrum opening,"$1,882.11",MT,AETNA COMMERCIAL,2769.38
+Sidney Health Center,Head,HCPCS 69436,Create eardrum opening,"$1,882.11",MT,BLUE CROSS COMMERCIAL,677.67
+Sidney Health Center,Head,HCPCS 69436,Create eardrum opening,"$1,882.11",MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,3565.42
+Sidney Health Center,Head,HCPCS 69436,Create eardrum opening,"$1,882.11",MT,UMR COMMERCIAL,3113.91
+Sidney Health Center,Head,HCPCS 69436,Create eardrum opening,"$1,882.11",MT,UNITED HEALTHCARE COMMERCIAL,3117.97
+Sidney Health Center,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$3,517.60",MT,BLUE CROSS COMMERCIAL,447.69
+Sidney Health Center,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$3,517.60",MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,4650.10
+Sidney Health Center,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$3,517.60",MT,UMR COMMERCIAL,6015.92
+Sidney Health Center,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$3,517.60",MT,UNITED HEALTHCARE COMMERCIAL,6068.40
+Sidney Health Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$665.33,MT,BLUE CROSS COMMERCIAL,162.38
+Sidney Health Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$665.33,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,259.53
+Sidney Health Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$665.33,MT,UMR COMMERCIAL,456.48
+Sidney Health Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$665.33,MT,UNITED HEALTHCARE COMMERCIAL,263.28
+Sidney Health Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$665.33,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,305.12
+Sidney Health Center,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,$665.33,MT,BLUE CROSS COMMERCIAL,162.38
+Sidney Health Center,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,$665.33,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,259.53
+Sidney Health Center,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,$665.33,MT,UMR COMMERCIAL,456.48
+Sidney Health Center,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,$665.33,MT,UNITED HEALTHCARE COMMERCIAL,263.28
+Sidney Health Center,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,$665.33,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,305.12
+Sidney Health Center,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$433.59,MT,BLUE CROSS COMMERCIAL,211.58
+Sidney Health Center,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$433.59,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,197.29
+Sidney Health Center,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$433.59,MT,UMR COMMERCIAL,225.26
+Sidney Health Center,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$433.59,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,191.11
+Sidney Health Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$288.25,MT,BLUE CROSS COMMERCIAL,264.55
+Sidney Health Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$288.25,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,661.53
+Sidney Health Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$288.25,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),400.90
+Sidney Health Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$288.25,MT,UNITED HEALTHCARE COMMERCIAL,376.42
+Sidney Health Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$288.25,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,99.26
+Sidney Health Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$28,741.80",MT,AETNA COMMERCIAL,24817.69
+Sidney Health Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$28,741.80",MT,BLUE CROSS COMMERCIAL,24984.69
+Sidney Health Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$28,741.80",MT,UNITED HEALTHCARE COMMERCIAL,32112.33
+Sidney Health Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$3,702.59",MT,UNITED HEALTHCARE COMMERCIAL,6225.13
+Sidney Health Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$15,808.56",MT,BLUE CROSS COMMERCIAL,13771.95
+Sidney Health Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$15,808.56",MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,13996.73
+Sidney Health Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$15,808.56",MT,UNITED HEALTHCARE COMMERCIAL,10311.82
+Sidney Health Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$8,461.78",MT,AETNA COMMERCIAL,5259.72
+Sidney Health Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$8,461.78",MT,BLUE CROSS COMMERCIAL,6231.98
+Sidney Health Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$8,461.78",MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,7546.57
+Sidney Health Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$8,461.78",MT,UMR COMMERCIAL,8052.15
+Sidney Health Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$8,461.78",MT,UNITED HEALTHCARE COMMERCIAL,6855.39
+Sidney Health Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$130.87,MT,BLUE CROSS COMMERCIAL,89.40
+Sidney Health Center,Vascular,HCPCS 36416,Collection of capillary blood specimen,$15.74,MT,AETNA COMMERCIAL,23.69
+Sidney Health Center,Vascular,HCPCS 36416,Collection of capillary blood specimen,$15.74,MT,BLUE CROSS COMMERCIAL,22.48
+Sidney Health Center,Vascular,HCPCS 36416,Collection of capillary blood specimen,$15.74,MT,BLUE CROSS MEDICARE ADVANTAGE,20.65
+Sidney Health Center,Vascular,HCPCS 36416,Collection of capillary blood specimen,$15.74,MT,CIGNA HEALTH AND LIFE INSURANCE COMPANY COMMERCIAL,23.40
+Sidney Health Center,Vascular,HCPCS 36416,Collection of capillary blood specimen,$15.74,MT,PACIFICSOURCE HEALTH PLANS Preferred Provider Organization (PPO),23.75
+Sidney Health Center,Vascular,HCPCS 36416,Collection of capillary blood specimen,$15.74,MT,UMR COMMERCIAL,23.46
+Sidney Health Center,Vascular,HCPCS 36416,Collection of capillary blood specimen,$15.74,MT,UNITED HEALTHCARE COMMERCIAL,23.14
+Sidney Health Center,Vascular,HCPCS 36416,Collection of capillary blood specimen,$15.74,MT,UNIVERSITY HEALTH PLANS COMMERCIAL,24.25
