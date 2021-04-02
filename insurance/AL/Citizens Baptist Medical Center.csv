@@ -1,0 +1,778 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State,plan_name,price
+Citizens Baptist Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$16,495.97",AK,Commercial Insurance hmo,3079.25
+Citizens Baptist Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$16,495.97",AK,Commercial Insurance pos,3079.25
+Citizens Baptist Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$16,495.97",AK,Commercial Insurance ppo,3079.25
+Citizens Baptist Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$16,495.97",AK,Simpra ppo,6158.49
+Citizens Baptist Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$16,495.97",AK,VIVA Health ppo,1539.62
+Citizens Baptist Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$16,495.97",AK,VIVA Health hmo,1539.62
+Citizens Baptist Medical Center,Speech,HCPCS 92507,Speech Therapy,"$1,060.34",AK,Commercial Insurance hmo,197.93
+Citizens Baptist Medical Center,Speech,HCPCS 92507,Speech Therapy,"$1,060.34",AK,Commercial Insurance pos,197.93
+Citizens Baptist Medical Center,Speech,HCPCS 92507,Speech Therapy,"$1,060.34",AK,Commercial Insurance ppo,197.93
+Citizens Baptist Medical Center,Speech,HCPCS 92507,Speech Therapy,"$1,060.34",AK,Simpra ppo,388.79
+Citizens Baptist Medical Center,Speech,HCPCS 92507,Speech Therapy,"$1,060.34",AK,VIVA Health ppo,98.97
+Citizens Baptist Medical Center,Speech,HCPCS 92507,Speech Therapy,"$1,060.34",AK,VIVA Health hmo,98.97
+Citizens Baptist Medical Center,Speech,HCPCS 92610,Swallow Evaluation,$307.33,AK,Commercial Insurance hmo,57.37
+Citizens Baptist Medical Center,Speech,HCPCS 92610,Swallow Evaluation,$307.33,AK,Commercial Insurance pos,57.37
+Citizens Baptist Medical Center,Speech,HCPCS 92610,Swallow Evaluation,$307.33,AK,Commercial Insurance ppo,57.37
+Citizens Baptist Medical Center,Speech,HCPCS 92610,Swallow Evaluation,$307.33,AK,Simpra ppo,112.69
+Citizens Baptist Medical Center,Speech,HCPCS 92610,Swallow Evaluation,$307.33,AK,VIVA Health ppo,28.68
+Citizens Baptist Medical Center,Speech,HCPCS 92610,Swallow Evaluation,$307.33,AK,VIVA Health hmo,28.68
+Citizens Baptist Medical Center,Speech,HCPCS 92526,Swallow Treatment,$572.63,AK,Commercial Insurance hmo,106.89
+Citizens Baptist Medical Center,Speech,HCPCS 92526,Swallow Treatment,$572.63,AK,Commercial Insurance pos,106.89
+Citizens Baptist Medical Center,Speech,HCPCS 92526,Swallow Treatment,$572.63,AK,Commercial Insurance ppo,106.89
+Citizens Baptist Medical Center,Speech,HCPCS 92526,Swallow Treatment,$572.63,AK,Simpra ppo,209.96
+Citizens Baptist Medical Center,Speech,HCPCS 92526,Swallow Treatment,$572.63,AK,VIVA Health ppo,53.45
+Citizens Baptist Medical Center,Speech,HCPCS 92526,Swallow Treatment,$572.63,AK,VIVA Health hmo,53.45
+Citizens Baptist Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$55.31,AK,Commercial Insurance hmo,10.32
+Citizens Baptist Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$55.31,AK,Commercial Insurance pos,10.32
+Citizens Baptist Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$55.31,AK,Commercial Insurance ppo,10.32
+Citizens Baptist Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$55.31,AK,Simpra ppo,20.65
+Citizens Baptist Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$55.31,AK,VIVA Health ppo,1.11
+Citizens Baptist Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$55.31,AK,VIVA Health hmo,1.11
+Citizens Baptist Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$121.25,AK,Commercial Insurance hmo,22.63
+Citizens Baptist Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$121.25,AK,Commercial Insurance pos,22.63
+Citizens Baptist Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$121.25,AK,Commercial Insurance ppo,22.63
+Citizens Baptist Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$121.25,AK,Simpra ppo,44.46
+Citizens Baptist Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$121.25,AK,VIVA Health ppo,2.43
+Citizens Baptist Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$121.25,AK,VIVA Health hmo,2.43
+Citizens Baptist Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$84.70,AK,Commercial Insurance hmo,15.81
+Citizens Baptist Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$84.70,AK,Commercial Insurance pos,15.81
+Citizens Baptist Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$84.70,AK,Commercial Insurance ppo,15.81
+Citizens Baptist Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$84.70,AK,Simpra ppo,31.62
+Citizens Baptist Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$84.70,AK,VIVA Health ppo,1.69
+Citizens Baptist Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$84.70,AK,VIVA Health hmo,1.69
+Citizens Baptist Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$86.66,AK,Commercial Insurance hmo,16.18
+Citizens Baptist Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$86.66,AK,Commercial Insurance pos,16.18
+Citizens Baptist Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$86.66,AK,Commercial Insurance ppo,16.18
+Citizens Baptist Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$86.66,AK,Simpra ppo,31.77
+Citizens Baptist Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$86.66,AK,VIVA Health ppo,1.73
+Citizens Baptist Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$86.66,AK,VIVA Health hmo,1.73
+Citizens Baptist Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$169.82,AK,Commercial Insurance hmo,31.70
+Citizens Baptist Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$169.82,AK,Commercial Insurance pos,31.70
+Citizens Baptist Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$169.82,AK,Commercial Insurance ppo,31.70
+Citizens Baptist Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$169.82,AK,Simpra ppo,63.40
+Citizens Baptist Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$169.82,AK,VIVA Health ppo,3.40
+Citizens Baptist Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$169.82,AK,VIVA Health hmo,3.40
+Citizens Baptist Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$147.01,AK,Commercial Insurance hmo,27.44
+Citizens Baptist Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$147.01,AK,Commercial Insurance pos,27.44
+Citizens Baptist Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$147.01,AK,Commercial Insurance ppo,27.44
+Citizens Baptist Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$147.01,AK,Simpra ppo,54.88
+Citizens Baptist Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$147.01,AK,VIVA Health ppo,2.94
+Citizens Baptist Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$147.01,AK,VIVA Health hmo,2.94
+Citizens Baptist Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$6,306.95",AK,Commercial Insurance hmo,1177.30
+Citizens Baptist Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$6,306.95",AK,Commercial Insurance pos,1177.30
+Citizens Baptist Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$6,306.95",AK,Commercial Insurance ppo,1177.30
+Citizens Baptist Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$6,306.95",AK,Simpra ppo,2312.55
+Citizens Baptist Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$6,306.95",AK,VIVA Health ppo,588.65
+Citizens Baptist Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$6,306.95",AK,VIVA Health hmo,588.65
+Citizens Baptist Medical Center,Chemistry,HCPCS 82140,Ammonia level,$170.80,AK,Commercial Insurance hmo,31.88
+Citizens Baptist Medical Center,Chemistry,HCPCS 82140,Ammonia level,$170.80,AK,Commercial Insurance pos,31.88
+Citizens Baptist Medical Center,Chemistry,HCPCS 82140,Ammonia level,$170.80,AK,Commercial Insurance ppo,31.88
+Citizens Baptist Medical Center,Chemistry,HCPCS 82140,Ammonia level,$170.80,AK,Simpra ppo,63.76
+Citizens Baptist Medical Center,Chemistry,HCPCS 82140,Ammonia level,$170.80,AK,VIVA Health ppo,3.42
+Citizens Baptist Medical Center,Chemistry,HCPCS 82140,Ammonia level,$170.80,AK,VIVA Health hmo,3.42
+Citizens Baptist Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$198.59,AK,Commercial Insurance hmo,37.07
+Citizens Baptist Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$198.59,AK,Commercial Insurance pos,37.07
+Citizens Baptist Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$198.59,AK,Commercial Insurance ppo,37.07
+Citizens Baptist Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$198.59,AK,Simpra ppo,72.81
+Citizens Baptist Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$198.59,AK,VIVA Health ppo,3.97
+Citizens Baptist Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$198.59,AK,VIVA Health hmo,3.97
+Citizens Baptist Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$347.62,AK,Commercial Insurance hmo,64.89
+Citizens Baptist Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$347.62,AK,Commercial Insurance pos,64.89
+Citizens Baptist Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$347.62,AK,Commercial Insurance ppo,64.89
+Citizens Baptist Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$347.62,AK,Simpra ppo,129.78
+Citizens Baptist Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$347.62,AK,VIVA Health ppo,6.95
+Citizens Baptist Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$347.62,AK,VIVA Health hmo,6.95
+Citizens Baptist Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$64.59,AK,Commercial Insurance hmo,12.06
+Citizens Baptist Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$64.59,AK,Commercial Insurance pos,12.06
+Citizens Baptist Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$64.59,AK,Commercial Insurance ppo,12.06
+Citizens Baptist Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$64.59,AK,Simpra ppo,24.11
+Citizens Baptist Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$64.59,AK,VIVA Health ppo,1.29
+Citizens Baptist Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$64.59,AK,VIVA Health hmo,1.29
+Citizens Baptist Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$183.49,AK,Commercial Insurance hmo,34.25
+Citizens Baptist Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$183.49,AK,Commercial Insurance pos,34.25
+Citizens Baptist Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$183.49,AK,Commercial Insurance ppo,34.25
+Citizens Baptist Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$183.49,AK,Simpra ppo,68.50
+Citizens Baptist Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$183.49,AK,VIVA Health ppo,3.67
+Citizens Baptist Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$183.49,AK,VIVA Health hmo,3.67
+Citizens Baptist Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$59.74,AK,Commercial Insurance hmo,11.15
+Citizens Baptist Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$59.74,AK,Commercial Insurance pos,11.15
+Citizens Baptist Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$59.74,AK,Commercial Insurance ppo,11.15
+Citizens Baptist Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$59.74,AK,Simpra ppo,21.90
+Citizens Baptist Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$59.74,AK,VIVA Health ppo,1.19
+Citizens Baptist Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$59.74,AK,VIVA Health hmo,1.19
+Citizens Baptist Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$637.69,AK,Commercial Insurance hmo,119.04
+Citizens Baptist Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$637.69,AK,Commercial Insurance pos,119.04
+Citizens Baptist Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$637.69,AK,Commercial Insurance ppo,119.04
+Citizens Baptist Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$637.69,AK,Simpra ppo,238.07
+Citizens Baptist Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$637.69,AK,VIVA Health ppo,12.75
+Citizens Baptist Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$637.69,AK,VIVA Health hmo,12.75
+Citizens Baptist Medical Center,Chemistry,HCPCS 82310,Calcium level,$198.18,AK,Commercial Insurance hmo,36.99
+Citizens Baptist Medical Center,Chemistry,HCPCS 82310,Calcium level,$198.18,AK,Commercial Insurance pos,36.99
+Citizens Baptist Medical Center,Chemistry,HCPCS 82310,Calcium level,$198.18,AK,Commercial Insurance ppo,36.99
+Citizens Baptist Medical Center,Chemistry,HCPCS 82310,Calcium level,$198.18,AK,Simpra ppo,72.67
+Citizens Baptist Medical Center,Chemistry,HCPCS 82310,Calcium level,$198.18,AK,VIVA Health ppo,3.96
+Citizens Baptist Medical Center,Chemistry,HCPCS 82310,Calcium level,$198.18,AK,VIVA Health hmo,3.96
+Citizens Baptist Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$103.46,AK,Commercial Insurance hmo,19.31
+Citizens Baptist Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$103.46,AK,Commercial Insurance pos,19.31
+Citizens Baptist Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$103.46,AK,Commercial Insurance ppo,19.31
+Citizens Baptist Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$103.46,AK,Simpra ppo,38.63
+Citizens Baptist Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$103.46,AK,VIVA Health ppo,2.07
+Citizens Baptist Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$103.46,AK,VIVA Health hmo,2.07
+Citizens Baptist Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$162.82,AK,Commercial Insurance hmo,30.39
+Citizens Baptist Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$162.82,AK,Commercial Insurance pos,30.39
+Citizens Baptist Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$162.82,AK,Commercial Insurance ppo,30.39
+Citizens Baptist Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$162.82,AK,Simpra ppo,60.79
+Citizens Baptist Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$162.82,AK,VIVA Health ppo,3.26
+Citizens Baptist Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$162.82,AK,VIVA Health hmo,3.26
+Citizens Baptist Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$132.00,AK,Commercial Insurance hmo,24.64
+Citizens Baptist Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$132.00,AK,Commercial Insurance pos,24.64
+Citizens Baptist Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$132.00,AK,Commercial Insurance ppo,24.64
+Citizens Baptist Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$132.00,AK,Simpra ppo,49.28
+Citizens Baptist Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$132.00,AK,VIVA Health ppo,2.64
+Citizens Baptist Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$132.00,AK,VIVA Health hmo,2.64
+Citizens Baptist Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$153.57,AK,Commercial Insurance hmo,28.67
+Citizens Baptist Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$153.57,AK,Commercial Insurance pos,28.67
+Citizens Baptist Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$153.57,AK,Commercial Insurance ppo,28.67
+Citizens Baptist Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$153.57,AK,Simpra ppo,57.33
+Citizens Baptist Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$153.57,AK,VIVA Health ppo,3.07
+Citizens Baptist Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$153.57,AK,VIVA Health hmo,3.07
+Citizens Baptist Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$186.83,AK,Commercial Insurance hmo,34.87
+Citizens Baptist Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$186.83,AK,Commercial Insurance pos,34.87
+Citizens Baptist Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$186.83,AK,Commercial Insurance ppo,34.87
+Citizens Baptist Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$186.83,AK,Simpra ppo,69.75
+Citizens Baptist Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$186.83,AK,VIVA Health ppo,3.74
+Citizens Baptist Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$186.83,AK,VIVA Health hmo,3.74
+Citizens Baptist Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$396.65,AK,Commercial Insurance hmo,74.04
+Citizens Baptist Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$396.65,AK,Commercial Insurance pos,74.04
+Citizens Baptist Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$396.65,AK,Commercial Insurance ppo,74.04
+Citizens Baptist Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$396.65,AK,Simpra ppo,148.08
+Citizens Baptist Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$396.65,AK,VIVA Health ppo,7.93
+Citizens Baptist Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$396.65,AK,VIVA Health hmo,7.93
+Citizens Baptist Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$258.75,AK,Commercial Insurance hmo,48.30
+Citizens Baptist Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$258.75,AK,Commercial Insurance pos,48.30
+Citizens Baptist Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$258.75,AK,Commercial Insurance ppo,48.30
+Citizens Baptist Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$258.75,AK,Simpra ppo,96.60
+Citizens Baptist Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$258.75,AK,VIVA Health ppo,5.18
+Citizens Baptist Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$258.75,AK,VIVA Health hmo,5.18
+Citizens Baptist Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$163.20,AK,Commercial Insurance hmo,30.46
+Citizens Baptist Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$163.20,AK,Commercial Insurance pos,30.46
+Citizens Baptist Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$163.20,AK,Commercial Insurance ppo,30.46
+Citizens Baptist Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$163.20,AK,Simpra ppo,60.93
+Citizens Baptist Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$163.20,AK,VIVA Health ppo,3.26
+Citizens Baptist Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$163.20,AK,VIVA Health hmo,3.26
+Citizens Baptist Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$75.00,AK,Commercial Insurance hmo,14.00
+Citizens Baptist Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$75.00,AK,Commercial Insurance pos,14.00
+Citizens Baptist Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$75.00,AK,Commercial Insurance ppo,14.00
+Citizens Baptist Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$75.00,AK,Simpra ppo,28.00
+Citizens Baptist Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$75.00,AK,VIVA Health ppo,1.50
+Citizens Baptist Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$75.00,AK,VIVA Health hmo,1.50
+Citizens Baptist Medical Center,Chemistry,HCPCS 83540,Iron level,$134.00,AK,Commercial Insurance hmo,25.01
+Citizens Baptist Medical Center,Chemistry,HCPCS 83540,Iron level,$134.00,AK,Commercial Insurance pos,25.01
+Citizens Baptist Medical Center,Chemistry,HCPCS 83540,Iron level,$134.00,AK,Commercial Insurance ppo,25.01
+Citizens Baptist Medical Center,Chemistry,HCPCS 83540,Iron level,$134.00,AK,Simpra ppo,50.03
+Citizens Baptist Medical Center,Chemistry,HCPCS 83540,Iron level,$134.00,AK,VIVA Health ppo,2.68
+Citizens Baptist Medical Center,Chemistry,HCPCS 83540,Iron level,$134.00,AK,VIVA Health hmo,2.68
+Citizens Baptist Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$313.39,AK,Commercial Insurance hmo,58.50
+Citizens Baptist Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$313.39,AK,Commercial Insurance pos,58.50
+Citizens Baptist Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$313.39,AK,Commercial Insurance ppo,58.50
+Citizens Baptist Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$313.39,AK,Simpra ppo,114.91
+Citizens Baptist Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$313.39,AK,VIVA Health ppo,6.27
+Citizens Baptist Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$313.39,AK,VIVA Health hmo,6.27
+Citizens Baptist Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$581.75,AK,Commercial Insurance hmo,108.59
+Citizens Baptist Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$581.75,AK,Commercial Insurance pos,108.59
+Citizens Baptist Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$581.75,AK,Commercial Insurance ppo,108.59
+Citizens Baptist Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$581.75,AK,Simpra ppo,213.31
+Citizens Baptist Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$581.75,AK,VIVA Health ppo,11.64
+Citizens Baptist Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$581.75,AK,VIVA Health hmo,11.64
+Citizens Baptist Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$90.77,AK,Commercial Insurance hmo,16.94
+Citizens Baptist Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$90.77,AK,Commercial Insurance pos,16.94
+Citizens Baptist Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$90.77,AK,Commercial Insurance ppo,16.94
+Citizens Baptist Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$90.77,AK,Simpra ppo,33.89
+Citizens Baptist Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$90.77,AK,VIVA Health ppo,1.82
+Citizens Baptist Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$90.77,AK,VIVA Health hmo,1.82
+Citizens Baptist Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$183.38,AK,Commercial Insurance hmo,34.23
+Citizens Baptist Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$183.38,AK,Commercial Insurance pos,34.23
+Citizens Baptist Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$183.38,AK,Commercial Insurance ppo,34.23
+Citizens Baptist Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$183.38,AK,Simpra ppo,67.24
+Citizens Baptist Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$183.38,AK,VIVA Health ppo,3.67
+Citizens Baptist Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$183.38,AK,VIVA Health hmo,3.67
+Citizens Baptist Medical Center,Chemistry,HCPCS 83970,Parathormone,$168.32,AK,Commercial Insurance hmo,31.42
+Citizens Baptist Medical Center,Chemistry,HCPCS 83970,Parathormone,$168.32,AK,Commercial Insurance pos,31.42
+Citizens Baptist Medical Center,Chemistry,HCPCS 83970,Parathormone,$168.32,AK,Commercial Insurance ppo,31.42
+Citizens Baptist Medical Center,Chemistry,HCPCS 83970,Parathormone,$168.32,AK,Simpra ppo,61.72
+Citizens Baptist Medical Center,Chemistry,HCPCS 83970,Parathormone,$168.32,AK,VIVA Health ppo,3.37
+Citizens Baptist Medical Center,Chemistry,HCPCS 83970,Parathormone,$168.32,AK,VIVA Health hmo,3.37
+Citizens Baptist Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$271.75,AK,Commercial Insurance hmo,50.73
+Citizens Baptist Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$271.75,AK,Commercial Insurance pos,50.73
+Citizens Baptist Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$271.75,AK,Commercial Insurance ppo,50.73
+Citizens Baptist Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$271.75,AK,Simpra ppo,99.64
+Citizens Baptist Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$271.75,AK,VIVA Health ppo,5.43
+Citizens Baptist Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$271.75,AK,VIVA Health hmo,5.43
+Citizens Baptist Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$262.84,AK,Commercial Insurance hmo,49.06
+Citizens Baptist Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$262.84,AK,Commercial Insurance pos,49.06
+Citizens Baptist Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$262.84,AK,Commercial Insurance ppo,49.06
+Citizens Baptist Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$262.84,AK,Simpra ppo,98.13
+Citizens Baptist Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$262.84,AK,VIVA Health ppo,5.26
+Citizens Baptist Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$262.84,AK,VIVA Health hmo,5.26
+Citizens Baptist Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$136.98,AK,Commercial Insurance hmo,25.57
+Citizens Baptist Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$136.98,AK,Commercial Insurance pos,25.57
+Citizens Baptist Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$136.98,AK,Commercial Insurance ppo,25.57
+Citizens Baptist Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$136.98,AK,Simpra ppo,51.14
+Citizens Baptist Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$136.98,AK,VIVA Health ppo,2.74
+Citizens Baptist Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$136.98,AK,VIVA Health hmo,2.74
+Citizens Baptist Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$198.30,AK,Commercial Insurance hmo,37.02
+Citizens Baptist Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$198.30,AK,Commercial Insurance pos,37.02
+Citizens Baptist Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$198.30,AK,Commercial Insurance ppo,37.02
+Citizens Baptist Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$198.30,AK,Simpra ppo,74.03
+Citizens Baptist Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$198.30,AK,VIVA Health ppo,3.97
+Citizens Baptist Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$198.30,AK,VIVA Health hmo,3.97
+Citizens Baptist Medical Center,Chemistry,HCPCS 84478,Triglycerides level,$83.68,AK,Commercial Insurance hmo,15.62
+Citizens Baptist Medical Center,Chemistry,HCPCS 84478,Triglycerides level,$83.68,AK,Commercial Insurance pos,15.62
+Citizens Baptist Medical Center,Chemistry,HCPCS 84478,Triglycerides level,$83.68,AK,Commercial Insurance ppo,15.62
+Citizens Baptist Medical Center,Chemistry,HCPCS 84478,Triglycerides level,$83.68,AK,Simpra ppo,30.68
+Citizens Baptist Medical Center,Chemistry,HCPCS 84478,Triglycerides level,$83.68,AK,VIVA Health ppo,1.67
+Citizens Baptist Medical Center,Chemistry,HCPCS 84478,Triglycerides level,$83.68,AK,VIVA Health hmo,1.67
+Citizens Baptist Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$167.62,AK,Commercial Insurance hmo,31.29
+Citizens Baptist Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$167.62,AK,Commercial Insurance pos,31.29
+Citizens Baptist Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$167.62,AK,Commercial Insurance ppo,31.29
+Citizens Baptist Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$167.62,AK,Simpra ppo,61.46
+Citizens Baptist Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$167.62,AK,VIVA Health ppo,3.35
+Citizens Baptist Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$167.62,AK,VIVA Health hmo,3.35
+Citizens Baptist Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$132.89,AK,Commercial Insurance hmo,24.81
+Citizens Baptist Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$132.89,AK,Commercial Insurance pos,24.81
+Citizens Baptist Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$132.89,AK,Commercial Insurance ppo,24.81
+Citizens Baptist Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$132.89,AK,Simpra ppo,49.61
+Citizens Baptist Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$132.89,AK,VIVA Health ppo,2.66
+Citizens Baptist Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$132.89,AK,VIVA Health hmo,2.66
+Citizens Baptist Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$153.31,AK,Commercial Insurance hmo,28.62
+Citizens Baptist Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$153.31,AK,Commercial Insurance pos,28.62
+Citizens Baptist Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$153.31,AK,Commercial Insurance ppo,28.62
+Citizens Baptist Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$153.31,AK,Simpra ppo,56.21
+Citizens Baptist Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$153.31,AK,VIVA Health ppo,3.07
+Citizens Baptist Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$153.31,AK,VIVA Health hmo,3.07
+Citizens Baptist Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$99.50,AK,Commercial Insurance hmo,18.57
+Citizens Baptist Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$99.50,AK,Commercial Insurance pos,18.57
+Citizens Baptist Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$99.50,AK,Commercial Insurance ppo,18.57
+Citizens Baptist Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$99.50,AK,Simpra ppo,37.15
+Citizens Baptist Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$99.50,AK,VIVA Health ppo,1.99
+Citizens Baptist Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$99.50,AK,VIVA Health hmo,1.99
+Citizens Baptist Medical Center,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$301.88,AK,Commercial Insurance hmo,56.35
+Citizens Baptist Medical Center,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$301.88,AK,Commercial Insurance pos,56.35
+Citizens Baptist Medical Center,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$301.88,AK,Commercial Insurance ppo,56.35
+Citizens Baptist Medical Center,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$301.88,AK,Simpra ppo,110.69
+Citizens Baptist Medical Center,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$301.88,AK,VIVA Health ppo,6.04
+Citizens Baptist Medical Center,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$301.88,AK,VIVA Health hmo,6.04
+Citizens Baptist Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$103.91,AK,Commercial Insurance hmo,19.40
+Citizens Baptist Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$103.91,AK,Commercial Insurance pos,19.40
+Citizens Baptist Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$103.91,AK,Commercial Insurance ppo,19.40
+Citizens Baptist Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$103.91,AK,Simpra ppo,38.10
+Citizens Baptist Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$103.91,AK,VIVA Health ppo,2.08
+Citizens Baptist Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$103.91,AK,VIVA Health hmo,2.08
+Citizens Baptist Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$201.33,AK,Commercial Insurance hmo,37.58
+Citizens Baptist Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$201.33,AK,Commercial Insurance pos,37.58
+Citizens Baptist Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$201.33,AK,Commercial Insurance ppo,37.58
+Citizens Baptist Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$201.33,AK,Simpra ppo,75.16
+Citizens Baptist Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$201.33,AK,VIVA Health ppo,4.03
+Citizens Baptist Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$201.33,AK,VIVA Health hmo,4.03
+Citizens Baptist Medical Center,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$263.00,AK,Commercial Insurance hmo,49.09
+Citizens Baptist Medical Center,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$263.00,AK,Commercial Insurance pos,49.09
+Citizens Baptist Medical Center,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$263.00,AK,Commercial Insurance ppo,49.09
+Citizens Baptist Medical Center,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$263.00,AK,Simpra ppo,98.19
+Citizens Baptist Medical Center,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$263.00,AK,VIVA Health ppo,5.26
+Citizens Baptist Medical Center,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$263.00,AK,VIVA Health hmo,5.26
+Citizens Baptist Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$726.67,AK,Commercial Insurance hmo,135.64
+Citizens Baptist Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$726.67,AK,Commercial Insurance pos,135.64
+Citizens Baptist Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$726.67,AK,Commercial Insurance ppo,135.64
+Citizens Baptist Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$726.67,AK,Simpra ppo,271.29
+Citizens Baptist Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$726.67,AK,VIVA Health ppo,14.53
+Citizens Baptist Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$726.67,AK,VIVA Health hmo,14.53
+Citizens Baptist Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$165.27,AK,Commercial Insurance hmo,30.85
+Citizens Baptist Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$165.27,AK,Commercial Insurance pos,30.85
+Citizens Baptist Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$165.27,AK,Commercial Insurance ppo,30.85
+Citizens Baptist Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$165.27,AK,Simpra ppo,61.70
+Citizens Baptist Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$165.27,AK,VIVA Health ppo,3.31
+Citizens Baptist Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$165.27,AK,VIVA Health hmo,3.31
+Citizens Baptist Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$182.18,AK,Commercial Insurance hmo,34.01
+Citizens Baptist Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$182.18,AK,Commercial Insurance pos,34.01
+Citizens Baptist Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$182.18,AK,Commercial Insurance ppo,34.01
+Citizens Baptist Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$182.18,AK,Simpra ppo,68.01
+Citizens Baptist Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$182.18,AK,VIVA Health ppo,3.64
+Citizens Baptist Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$182.18,AK,VIVA Health hmo,3.64
+Citizens Baptist Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$354.75,AK,Commercial Insurance hmo,66.22
+Citizens Baptist Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$354.75,AK,Commercial Insurance pos,66.22
+Citizens Baptist Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$354.75,AK,Commercial Insurance ppo,66.22
+Citizens Baptist Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$354.75,AK,Simpra ppo,132.44
+Citizens Baptist Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$354.75,AK,VIVA Health ppo,7.10
+Citizens Baptist Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$354.75,AK,VIVA Health hmo,7.10
+Citizens Baptist Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$244.75,AK,Commercial Insurance hmo,45.69
+Citizens Baptist Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$244.75,AK,Commercial Insurance pos,45.69
+Citizens Baptist Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$244.75,AK,Commercial Insurance ppo,45.69
+Citizens Baptist Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$244.75,AK,Simpra ppo,91.37
+Citizens Baptist Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$244.75,AK,VIVA Health ppo,4.89
+Citizens Baptist Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$244.75,AK,VIVA Health hmo,4.89
+Citizens Baptist Medical Center,Microbiology,HCPCS 87045,Stool Culture,$204.65,AK,Commercial Insurance hmo,38.20
+Citizens Baptist Medical Center,Microbiology,HCPCS 87045,Stool Culture,$204.65,AK,Commercial Insurance pos,38.20
+Citizens Baptist Medical Center,Microbiology,HCPCS 87045,Stool Culture,$204.65,AK,Commercial Insurance ppo,38.20
+Citizens Baptist Medical Center,Microbiology,HCPCS 87045,Stool Culture,$204.65,AK,Simpra ppo,76.40
+Citizens Baptist Medical Center,Microbiology,HCPCS 87045,Stool Culture,$204.65,AK,VIVA Health ppo,4.09
+Citizens Baptist Medical Center,Microbiology,HCPCS 87045,Stool Culture,$204.65,AK,VIVA Health hmo,4.09
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,"$1,704.72",AK,Commercial Insurance hmo,318.21
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,"$1,704.72",AK,Commercial Insurance pos,318.21
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,"$1,704.72",AK,Commercial Insurance ppo,318.21
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,"$1,704.72",AK,Simpra ppo,625.06
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,"$1,704.72",AK,VIVA Health ppo,34.09
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,"$1,704.72",AK,VIVA Health hmo,34.09
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$92.21,AK,Commercial Insurance hmo,17.21
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$92.21,AK,Commercial Insurance pos,17.21
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$92.21,AK,Commercial Insurance ppo,17.21
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$92.21,AK,Simpra ppo,33.81
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$92.21,AK,VIVA Health ppo,1.84
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$92.21,AK,VIVA Health hmo,1.84
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$183.79,AK,Commercial Insurance hmo,34.31
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$183.79,AK,Commercial Insurance pos,34.31
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$183.79,AK,Commercial Insurance ppo,34.31
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$183.79,AK,Simpra ppo,67.39
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$183.79,AK,VIVA Health ppo,3.68
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$183.79,AK,VIVA Health hmo,3.68
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$278.24,AK,Commercial Insurance hmo,51.94
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$278.24,AK,Commercial Insurance pos,51.94
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$278.24,AK,Commercial Insurance ppo,51.94
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$278.24,AK,Simpra ppo,103.87
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$278.24,AK,VIVA Health ppo,5.56
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$278.24,AK,VIVA Health hmo,5.56
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$110.83,AK,Commercial Insurance hmo,20.69
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$110.83,AK,Commercial Insurance pos,20.69
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$110.83,AK,Commercial Insurance ppo,20.69
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$110.83,AK,Simpra ppo,41.38
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$110.83,AK,VIVA Health ppo,2.22
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$110.83,AK,VIVA Health hmo,2.22
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$170.16,AK,Commercial Insurance hmo,31.76
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$170.16,AK,Commercial Insurance pos,31.76
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$170.16,AK,Commercial Insurance ppo,31.76
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$170.16,AK,Simpra ppo,63.53
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$170.16,AK,VIVA Health ppo,3.40
+Citizens Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$170.16,AK,VIVA Health hmo,3.40
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$157.28,AK,Commercial Insurance hmo,29.36
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$157.28,AK,Commercial Insurance pos,29.36
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$157.28,AK,Commercial Insurance ppo,29.36
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$157.28,AK,Simpra ppo,58.72
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$157.28,AK,VIVA Health ppo,3.15
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$157.28,AK,VIVA Health hmo,3.15
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$210.38,AK,Commercial Insurance hmo,39.27
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$210.38,AK,Commercial Insurance pos,39.27
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$210.38,AK,Commercial Insurance ppo,39.27
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$210.38,AK,Simpra ppo,77.14
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$210.38,AK,VIVA Health ppo,4.21
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$210.38,AK,VIVA Health hmo,4.21
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$115.61,AK,Commercial Insurance hmo,21.58
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$115.61,AK,Commercial Insurance pos,21.58
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$115.61,AK,Commercial Insurance ppo,21.58
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$115.61,AK,Simpra ppo,43.16
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$115.61,AK,VIVA Health ppo,2.31
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$115.61,AK,VIVA Health hmo,2.31
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$143.25,AK,Commercial Insurance hmo,26.74
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$143.25,AK,Commercial Insurance pos,26.74
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$143.25,AK,Commercial Insurance ppo,26.74
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$143.25,AK,Simpra ppo,52.53
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$143.25,AK,VIVA Health ppo,2.87
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$143.25,AK,VIVA Health hmo,2.87
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$87.33,AK,Commercial Insurance hmo,16.30
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$87.33,AK,Commercial Insurance pos,16.30
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$87.33,AK,Commercial Insurance ppo,16.30
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$87.33,AK,Simpra ppo,32.60
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$87.33,AK,VIVA Health ppo,1.75
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$87.33,AK,VIVA Health hmo,1.75
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$154.61,AK,Commercial Insurance hmo,28.86
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$154.61,AK,Commercial Insurance pos,28.86
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$154.61,AK,Commercial Insurance ppo,28.86
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$154.61,AK,Simpra ppo,57.72
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$154.61,AK,VIVA Health ppo,3.09
+Citizens Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$154.61,AK,VIVA Health hmo,3.09
+Citizens Baptist Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$87.92,AK,Commercial Insurance hmo,16.41
+Citizens Baptist Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$87.92,AK,Commercial Insurance pos,16.41
+Citizens Baptist Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$87.92,AK,Commercial Insurance ppo,16.41
+Citizens Baptist Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$87.92,AK,Simpra ppo,32.24
+Citizens Baptist Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$87.92,AK,VIVA Health ppo,1.76
+Citizens Baptist Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$87.92,AK,VIVA Health hmo,1.76
+Citizens Baptist Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$49.50,AK,Commercial Insurance hmo,9.24
+Citizens Baptist Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$49.50,AK,Commercial Insurance pos,9.24
+Citizens Baptist Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$49.50,AK,Commercial Insurance ppo,9.24
+Citizens Baptist Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$49.50,AK,Simpra ppo,18.15
+Citizens Baptist Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$49.50,AK,VIVA Health ppo,0.99
+Citizens Baptist Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$49.50,AK,VIVA Health hmo,0.99
+Citizens Baptist Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$112.44,AK,Commercial Insurance hmo,20.99
+Citizens Baptist Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$112.44,AK,Commercial Insurance pos,20.99
+Citizens Baptist Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$112.44,AK,Commercial Insurance ppo,20.99
+Citizens Baptist Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$112.44,AK,Simpra ppo,41.98
+Citizens Baptist Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$112.44,AK,VIVA Health ppo,2.25
+Citizens Baptist Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$112.44,AK,VIVA Health hmo,2.25
+Citizens Baptist Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$85.52,AK,Commercial Insurance hmo,15.96
+Citizens Baptist Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$85.52,AK,Commercial Insurance pos,15.96
+Citizens Baptist Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$85.52,AK,Commercial Insurance ppo,15.96
+Citizens Baptist Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$85.52,AK,Simpra ppo,31.36
+Citizens Baptist Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$85.52,AK,VIVA Health ppo,1.71
+Citizens Baptist Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$85.52,AK,VIVA Health hmo,1.71
+Citizens Baptist Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$220.90,AK,Commercial Insurance hmo,41.23
+Citizens Baptist Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$220.90,AK,Commercial Insurance pos,41.23
+Citizens Baptist Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$220.90,AK,Commercial Insurance ppo,41.23
+Citizens Baptist Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$220.90,AK,Simpra ppo,81.00
+Citizens Baptist Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$220.90,AK,VIVA Health ppo,4.42
+Citizens Baptist Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$220.90,AK,VIVA Health hmo,4.42
+Citizens Baptist Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$245.44,AK,Commercial Insurance hmo,45.82
+Citizens Baptist Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$245.44,AK,Commercial Insurance pos,45.82
+Citizens Baptist Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$245.44,AK,Commercial Insurance ppo,45.82
+Citizens Baptist Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$245.44,AK,Simpra ppo,91.63
+Citizens Baptist Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$245.44,AK,VIVA Health ppo,4.91
+Citizens Baptist Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$245.44,AK,VIVA Health hmo,4.91
+Citizens Baptist Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$14,425.34",AK,Commercial Insurance hmo,2692.73
+Citizens Baptist Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$14,425.34",AK,Commercial Insurance pos,2692.73
+Citizens Baptist Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$14,425.34",AK,Commercial Insurance ppo,2692.73
+Citizens Baptist Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$14,425.34",AK,Simpra ppo,5385.46
+Citizens Baptist Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$14,425.34",AK,VIVA Health ppo,577.01
+Citizens Baptist Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$14,425.34",AK,VIVA Health hmo,577.01
+Citizens Baptist Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$10,011.36",AK,Commercial Insurance hmo,1868.79
+Citizens Baptist Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$10,011.36",AK,Commercial Insurance pos,1868.79
+Citizens Baptist Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$10,011.36",AK,Commercial Insurance ppo,1868.79
+Citizens Baptist Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$10,011.36",AK,Simpra ppo,3737.57
+Citizens Baptist Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$10,011.36",AK,VIVA Health ppo,400.45
+Citizens Baptist Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$10,011.36",AK,VIVA Health hmo,400.45
+Citizens Baptist Medical Center,Sleep,HCPCS 95810,Sleep study,"$8,400.05",AK,Commercial Insurance hmo,1568.01
+Citizens Baptist Medical Center,Sleep,HCPCS 95810,Sleep study,"$8,400.05",AK,Commercial Insurance pos,1568.01
+Citizens Baptist Medical Center,Sleep,HCPCS 95810,Sleep study,"$8,400.05",AK,Commercial Insurance ppo,1568.01
+Citizens Baptist Medical Center,Sleep,HCPCS 95810,Sleep study,"$8,400.05",AK,Simpra ppo,3080.02
+Citizens Baptist Medical Center,Sleep,HCPCS 95810,Sleep study,"$8,400.05",AK,VIVA Health ppo,336.00
+Citizens Baptist Medical Center,Sleep,HCPCS 95810,Sleep study,"$8,400.05",AK,VIVA Health hmo,336.00
+Citizens Baptist Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$811.14,AK,Commercial Insurance hmo,151.41
+Citizens Baptist Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$811.14,AK,Commercial Insurance pos,151.41
+Citizens Baptist Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$811.14,AK,Commercial Insurance ppo,151.41
+Citizens Baptist Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$811.14,AK,Simpra ppo,302.83
+Citizens Baptist Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$811.14,AK,VIVA Health ppo,75.71
+Citizens Baptist Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$811.14,AK,VIVA Health hmo,75.71
+Citizens Baptist Medical Center,Breast,HCPCS 77067,Mammogram Screening,$443.44,AK,Commercial Insurance hmo,82.78
+Citizens Baptist Medical Center,Breast,HCPCS 77067,Mammogram Screening,$443.44,AK,Commercial Insurance pos,82.78
+Citizens Baptist Medical Center,Breast,HCPCS 77067,Mammogram Screening,$443.44,AK,Commercial Insurance ppo,82.78
+Citizens Baptist Medical Center,Breast,HCPCS 77067,Mammogram Screening,$443.44,AK,Simpra ppo,165.55
+Citizens Baptist Medical Center,Breast,HCPCS 77067,Mammogram Screening,$443.44,AK,VIVA Health ppo,41.39
+Citizens Baptist Medical Center,Breast,HCPCS 77067,Mammogram Screening,$443.44,AK,VIVA Health hmo,41.39
+Citizens Baptist Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$812.63,AK,Commercial Insurance hmo,151.69
+Citizens Baptist Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$812.63,AK,Commercial Insurance pos,151.69
+Citizens Baptist Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$812.63,AK,Commercial Insurance ppo,151.69
+Citizens Baptist Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$812.63,AK,Simpra ppo,303.38
+Citizens Baptist Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$812.63,AK,VIVA Health ppo,75.85
+Citizens Baptist Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$812.63,AK,VIVA Health hmo,75.85
+Citizens Baptist Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,982.88",AK,Commercial Insurance hmo,743.47
+Citizens Baptist Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,982.88",AK,Commercial Insurance pos,743.47
+Citizens Baptist Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,982.88",AK,Commercial Insurance ppo,743.47
+Citizens Baptist Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,982.88",AK,Simpra ppo,1486.94
+Citizens Baptist Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,982.88",AK,VIVA Health ppo,371.74
+Citizens Baptist Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,982.88",AK,VIVA Health hmo,371.74
+Citizens Baptist Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$4,624.86",AK,Commercial Insurance hmo,863.31
+Citizens Baptist Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$4,624.86",AK,Commercial Insurance pos,863.31
+Citizens Baptist Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$4,624.86",AK,Commercial Insurance ppo,863.31
+Citizens Baptist Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$4,624.86",AK,Simpra ppo,1726.61
+Citizens Baptist Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$4,624.86",AK,VIVA Health ppo,431.65
+Citizens Baptist Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$4,624.86",AK,VIVA Health hmo,431.65
+Citizens Baptist Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$12,628.28",AK,Commercial Insurance hmo,2357.28
+Citizens Baptist Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$12,628.28",AK,Commercial Insurance pos,2357.28
+Citizens Baptist Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$12,628.28",AK,Commercial Insurance ppo,2357.28
+Citizens Baptist Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$12,628.28",AK,Simpra ppo,4714.56
+Citizens Baptist Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$12,628.28",AK,VIVA Health ppo,1178.64
+Citizens Baptist Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$12,628.28",AK,VIVA Health hmo,1178.64
+Citizens Baptist Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$12,125.69",AK,Commercial Insurance hmo,2263.46
+Citizens Baptist Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$12,125.69",AK,Commercial Insurance pos,2263.46
+Citizens Baptist Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$12,125.69",AK,Commercial Insurance ppo,2263.46
+Citizens Baptist Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$12,125.69",AK,Simpra ppo,4446.08
+Citizens Baptist Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$12,125.69",AK,VIVA Health ppo,1131.73
+Citizens Baptist Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$12,125.69",AK,VIVA Health hmo,1131.73
+Citizens Baptist Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$6,277.17",AK,Commercial Insurance hmo,1171.74
+Citizens Baptist Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$6,277.17",AK,Commercial Insurance pos,1171.74
+Citizens Baptist Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$6,277.17",AK,Commercial Insurance ppo,1171.74
+Citizens Baptist Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$6,277.17",AK,Simpra ppo,2301.63
+Citizens Baptist Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$6,277.17",AK,VIVA Health ppo,585.87
+Citizens Baptist Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$6,277.17",AK,VIVA Health hmo,585.87
+Citizens Baptist Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$5,129.33",AK,Commercial Insurance hmo,957.48
+Citizens Baptist Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$5,129.33",AK,Commercial Insurance pos,957.48
+Citizens Baptist Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$5,129.33",AK,Commercial Insurance ppo,957.48
+Citizens Baptist Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$5,129.33",AK,Simpra ppo,1880.76
+Citizens Baptist Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$5,129.33",AK,VIVA Health ppo,478.74
+Citizens Baptist Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$5,129.33",AK,VIVA Health hmo,478.74
+Citizens Baptist Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,564.34",AK,Commercial Insurance hmo,478.68
+Citizens Baptist Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,564.34",AK,Commercial Insurance pos,478.68
+Citizens Baptist Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,564.34",AK,Commercial Insurance ppo,478.68
+Citizens Baptist Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,564.34",AK,Simpra ppo,957.35
+Citizens Baptist Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,564.34",AK,VIVA Health ppo,239.34
+Citizens Baptist Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,564.34",AK,VIVA Health hmo,239.34
+Citizens Baptist Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$5,633.63",AK,Commercial Insurance hmo,1051.61
+Citizens Baptist Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$5,633.63",AK,Commercial Insurance pos,1051.61
+Citizens Baptist Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$5,633.63",AK,Commercial Insurance ppo,1051.61
+Citizens Baptist Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$5,633.63",AK,Simpra ppo,2103.22
+Citizens Baptist Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$5,633.63",AK,VIVA Health ppo,525.81
+Citizens Baptist Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$5,633.63",AK,VIVA Health hmo,525.81
+Citizens Baptist Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$4,558.50",AK,Commercial Insurance hmo,850.92
+Citizens Baptist Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$4,558.50",AK,Commercial Insurance pos,850.92
+Citizens Baptist Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$4,558.50",AK,Commercial Insurance ppo,850.92
+Citizens Baptist Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$4,558.50",AK,Simpra ppo,1701.84
+Citizens Baptist Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$4,558.50",AK,VIVA Health ppo,425.46
+Citizens Baptist Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$4,558.50",AK,VIVA Health hmo,425.46
+Citizens Baptist Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$6,417.83",AK,Commercial Insurance hmo,1197.99
+Citizens Baptist Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$6,417.83",AK,Commercial Insurance pos,1197.99
+Citizens Baptist Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$6,417.83",AK,Commercial Insurance ppo,1197.99
+Citizens Baptist Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$6,417.83",AK,Simpra ppo,2395.99
+Citizens Baptist Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$6,417.83",AK,VIVA Health ppo,599.00
+Citizens Baptist Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$6,417.83",AK,VIVA Health hmo,599.00
+Citizens Baptist Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$11,299.88",AK,Commercial Insurance hmo,2109.31
+Citizens Baptist Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$11,299.88",AK,Commercial Insurance pos,2109.31
+Citizens Baptist Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$11,299.88",AK,Commercial Insurance ppo,2109.31
+Citizens Baptist Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$11,299.88",AK,Simpra ppo,4143.29
+Citizens Baptist Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$11,299.88",AK,VIVA Health ppo,1054.66
+Citizens Baptist Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$11,299.88",AK,VIVA Health hmo,1054.66
+Citizens Baptist Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$7,244.49",AK,Commercial Insurance hmo,1352.30
+Citizens Baptist Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$7,244.49",AK,Commercial Insurance pos,1352.30
+Citizens Baptist Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$7,244.49",AK,Commercial Insurance ppo,1352.30
+Citizens Baptist Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$7,244.49",AK,Simpra ppo,2704.61
+Citizens Baptist Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$7,244.49",AK,VIVA Health ppo,676.15
+Citizens Baptist Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$7,244.49",AK,VIVA Health hmo,676.15
+Citizens Baptist Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$6,768.00",AK,Commercial Insurance hmo,1263.36
+Citizens Baptist Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$6,768.00",AK,Commercial Insurance pos,1263.36
+Citizens Baptist Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$6,768.00",AK,Commercial Insurance ppo,1263.36
+Citizens Baptist Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$6,768.00",AK,Simpra ppo,2526.72
+Citizens Baptist Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$6,768.00",AK,VIVA Health ppo,631.68
+Citizens Baptist Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$6,768.00",AK,VIVA Health hmo,631.68
+Citizens Baptist Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$7,571.14",AK,Commercial Insurance hmo,1413.28
+Citizens Baptist Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$7,571.14",AK,Commercial Insurance pos,1413.28
+Citizens Baptist Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$7,571.14",AK,Commercial Insurance ppo,1413.28
+Citizens Baptist Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$7,571.14",AK,Simpra ppo,2776.08
+Citizens Baptist Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$7,571.14",AK,VIVA Health ppo,706.64
+Citizens Baptist Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$7,571.14",AK,VIVA Health hmo,706.64
+Citizens Baptist Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$9,542.42",AK,Commercial Insurance hmo,1781.25
+Citizens Baptist Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$9,542.42",AK,Commercial Insurance pos,1781.25
+Citizens Baptist Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$9,542.42",AK,Commercial Insurance ppo,1781.25
+Citizens Baptist Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$9,542.42",AK,Simpra ppo,3562.50
+Citizens Baptist Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$9,542.42",AK,VIVA Health ppo,890.63
+Citizens Baptist Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$9,542.42",AK,VIVA Health hmo,890.63
+Citizens Baptist Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$5,047.13",AK,Commercial Insurance hmo,942.13
+Citizens Baptist Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$5,047.13",AK,Commercial Insurance pos,942.13
+Citizens Baptist Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$5,047.13",AK,Commercial Insurance ppo,942.13
+Citizens Baptist Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$5,047.13",AK,Simpra ppo,1850.62
+Citizens Baptist Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$5,047.13",AK,VIVA Health ppo,471.07
+Citizens Baptist Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$5,047.13",AK,VIVA Health hmo,471.07
+Citizens Baptist Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$7,759.65",AK,Commercial Insurance hmo,1448.47
+Citizens Baptist Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$7,759.65",AK,Commercial Insurance pos,1448.47
+Citizens Baptist Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$7,759.65",AK,Commercial Insurance ppo,1448.47
+Citizens Baptist Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$7,759.65",AK,Simpra ppo,2896.94
+Citizens Baptist Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$7,759.65",AK,VIVA Health ppo,724.23
+Citizens Baptist Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$7,759.65",AK,VIVA Health hmo,724.23
+Citizens Baptist Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$913.79,AK,Commercial Insurance hmo,170.57
+Citizens Baptist Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$913.79,AK,Commercial Insurance pos,170.57
+Citizens Baptist Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$913.79,AK,Commercial Insurance ppo,170.57
+Citizens Baptist Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$913.79,AK,Simpra ppo,335.05
+Citizens Baptist Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$913.79,AK,VIVA Health ppo,85.29
+Citizens Baptist Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$913.79,AK,VIVA Health hmo,85.29
+Citizens Baptist Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$2,094.62",AK,Commercial Insurance hmo,391.00
+Citizens Baptist Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$2,094.62",AK,Commercial Insurance pos,391.00
+Citizens Baptist Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$2,094.62",AK,Commercial Insurance ppo,391.00
+Citizens Baptist Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$2,094.62",AK,Simpra ppo,781.99
+Citizens Baptist Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$2,094.62",AK,VIVA Health ppo,195.50
+Citizens Baptist Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$2,094.62",AK,VIVA Health hmo,195.50
+Citizens Baptist Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,110.94",AK,Commercial Insurance hmo,207.38
+Citizens Baptist Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,110.94",AK,Commercial Insurance pos,207.38
+Citizens Baptist Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,110.94",AK,Commercial Insurance ppo,207.38
+Citizens Baptist Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,110.94",AK,Simpra ppo,414.75
+Citizens Baptist Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,110.94",AK,VIVA Health ppo,103.69
+Citizens Baptist Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,110.94",AK,VIVA Health hmo,103.69
+Citizens Baptist Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,428.75",AK,Commercial Insurance hmo,266.70
+Citizens Baptist Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,428.75",AK,Commercial Insurance pos,266.70
+Citizens Baptist Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,428.75",AK,Commercial Insurance ppo,266.70
+Citizens Baptist Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,428.75",AK,Simpra ppo,523.88
+Citizens Baptist Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,428.75",AK,VIVA Health ppo,133.35
+Citizens Baptist Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,428.75",AK,VIVA Health hmo,133.35
+Citizens Baptist Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$895.25,AK,Commercial Insurance hmo,167.11
+Citizens Baptist Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$895.25,AK,Commercial Insurance pos,167.11
+Citizens Baptist Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$895.25,AK,Commercial Insurance ppo,167.11
+Citizens Baptist Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$895.25,AK,Simpra ppo,328.26
+Citizens Baptist Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$895.25,AK,VIVA Health ppo,83.56
+Citizens Baptist Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$895.25,AK,VIVA Health hmo,83.56
+Citizens Baptist Medical Center,X-ray,HCPCS 71046,X-ray of chest; 2 Views,$346.52,AK,Commercial Insurance hmo,64.68
+Citizens Baptist Medical Center,X-ray,HCPCS 71046,X-ray of chest; 2 Views,$346.52,AK,Commercial Insurance pos,64.68
+Citizens Baptist Medical Center,X-ray,HCPCS 71046,X-ray of chest; 2 Views,$346.52,AK,Commercial Insurance ppo,64.68
+Citizens Baptist Medical Center,X-ray,HCPCS 71046,X-ray of chest; 2 Views,$346.52,AK,Simpra ppo,129.37
+Citizens Baptist Medical Center,X-ray,HCPCS 71046,X-ray of chest; 2 Views,$346.52,AK,VIVA Health ppo,32.34
+Citizens Baptist Medical Center,X-ray,HCPCS 71046,X-ray of chest; 2 Views,$346.52,AK,VIVA Health hmo,32.34
+Citizens Baptist Medical Center,X-ray,HCPCS 71045,X-ray of chest; Single View,$245.77,AK,Commercial Insurance hmo,45.88
+Citizens Baptist Medical Center,X-ray,HCPCS 71045,X-ray of chest; Single View,$245.77,AK,Commercial Insurance pos,45.88
+Citizens Baptist Medical Center,X-ray,HCPCS 71045,X-ray of chest; Single View,$245.77,AK,Commercial Insurance ppo,45.88
+Citizens Baptist Medical Center,X-ray,HCPCS 71045,X-ray of chest; Single View,$245.77,AK,Simpra ppo,90.11
+Citizens Baptist Medical Center,X-ray,HCPCS 71045,X-ray of chest; Single View,$245.77,AK,VIVA Health ppo,22.94
+Citizens Baptist Medical Center,X-ray,HCPCS 71045,X-ray of chest; Single View,$245.77,AK,VIVA Health hmo,22.94
+Citizens Baptist Medical Center,X-ray,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$799.50,AK,Commercial Insurance hmo,149.24
+Citizens Baptist Medical Center,X-ray,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$799.50,AK,Commercial Insurance pos,149.24
+Citizens Baptist Medical Center,X-ray,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$799.50,AK,Commercial Insurance ppo,149.24
+Citizens Baptist Medical Center,X-ray,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$799.50,AK,Simpra ppo,293.15
+Citizens Baptist Medical Center,X-ray,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$799.50,AK,VIVA Health ppo,74.62
+Citizens Baptist Medical Center,X-ray,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$799.50,AK,VIVA Health hmo,74.62
+Citizens Baptist Medical Center,X-ray,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$714.21,AK,Commercial Insurance hmo,133.32
+Citizens Baptist Medical Center,X-ray,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$714.21,AK,Commercial Insurance pos,133.32
+Citizens Baptist Medical Center,X-ray,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$714.21,AK,Commercial Insurance ppo,133.32
+Citizens Baptist Medical Center,X-ray,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$714.21,AK,Simpra ppo,261.88
+Citizens Baptist Medical Center,X-ray,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$714.21,AK,VIVA Health ppo,66.66
+Citizens Baptist Medical Center,X-ray,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$714.21,AK,VIVA Health hmo,66.66
+Citizens Baptist Medical Center,X-ray,HCPCS 73600,"X-ray Ankle, 2 Views",$817.60,AK,Commercial Insurance hmo,152.62
+Citizens Baptist Medical Center,X-ray,HCPCS 73600,"X-ray Ankle, 2 Views",$817.60,AK,Commercial Insurance pos,152.62
+Citizens Baptist Medical Center,X-ray,HCPCS 73600,"X-ray Ankle, 2 Views",$817.60,AK,Commercial Insurance ppo,152.62
+Citizens Baptist Medical Center,X-ray,HCPCS 73600,"X-ray Ankle, 2 Views",$817.60,AK,Simpra ppo,305.24
+Citizens Baptist Medical Center,X-ray,HCPCS 73600,"X-ray Ankle, 2 Views",$817.60,AK,VIVA Health ppo,76.31
+Citizens Baptist Medical Center,X-ray,HCPCS 73600,"X-ray Ankle, 2 Views",$817.60,AK,VIVA Health hmo,76.31
+Citizens Baptist Medical Center,X-ray,HCPCS 73610,"X-ray Ankle, 3 Views",$953.55,AK,Commercial Insurance hmo,178.00
+Citizens Baptist Medical Center,X-ray,HCPCS 73610,"X-ray Ankle, 3 Views",$953.55,AK,Commercial Insurance pos,178.00
+Citizens Baptist Medical Center,X-ray,HCPCS 73610,"X-ray Ankle, 3 Views",$953.55,AK,Commercial Insurance ppo,178.00
+Citizens Baptist Medical Center,X-ray,HCPCS 73610,"X-ray Ankle, 3 Views",$953.55,AK,Simpra ppo,355.99
+Citizens Baptist Medical Center,X-ray,HCPCS 73610,"X-ray Ankle, 3 Views",$953.55,AK,VIVA Health ppo,89.00
+Citizens Baptist Medical Center,X-ray,HCPCS 73610,"X-ray Ankle, 3 Views",$953.55,AK,VIVA Health hmo,89.00
+Citizens Baptist Medical Center,X-ray,HCPCS 73630,X-ray exam of foot,$932.72,AK,Commercial Insurance hmo,174.11
+Citizens Baptist Medical Center,X-ray,HCPCS 73630,X-ray exam of foot,$932.72,AK,Commercial Insurance pos,174.11
+Citizens Baptist Medical Center,X-ray,HCPCS 73630,X-ray exam of foot,$932.72,AK,Commercial Insurance ppo,174.11
+Citizens Baptist Medical Center,X-ray,HCPCS 73630,X-ray exam of foot,$932.72,AK,Simpra ppo,342.00
+Citizens Baptist Medical Center,X-ray,HCPCS 73630,X-ray exam of foot,$932.72,AK,VIVA Health ppo,87.05
+Citizens Baptist Medical Center,X-ray,HCPCS 73630,X-ray exam of foot,$932.72,AK,VIVA Health hmo,87.05
+Citizens Baptist Medical Center,X-ray,HCPCS 73562,"X-ray exam of knee, 3 views","$1,066.55",AK,Commercial Insurance hmo,199.09
+Citizens Baptist Medical Center,X-ray,HCPCS 73562,"X-ray exam of knee, 3 views","$1,066.55",AK,Commercial Insurance pos,199.09
+Citizens Baptist Medical Center,X-ray,HCPCS 73562,"X-ray exam of knee, 3 views","$1,066.55",AK,Commercial Insurance ppo,199.09
+Citizens Baptist Medical Center,X-ray,HCPCS 73562,"X-ray exam of knee, 3 views","$1,066.55",AK,Simpra ppo,398.18
+Citizens Baptist Medical Center,X-ray,HCPCS 73562,"X-ray exam of knee, 3 views","$1,066.55",AK,VIVA Health ppo,99.54
+Citizens Baptist Medical Center,X-ray,HCPCS 73562,"X-ray exam of knee, 3 views","$1,066.55",AK,VIVA Health hmo,99.54
+Citizens Baptist Medical Center,X-ray,HCPCS 73552,"X-ray Femur, 2 Views",$463.69,AK,Commercial Insurance hmo,86.56
+Citizens Baptist Medical Center,X-ray,HCPCS 73552,"X-ray Femur, 2 Views",$463.69,AK,Commercial Insurance pos,86.56
+Citizens Baptist Medical Center,X-ray,HCPCS 73552,"X-ray Femur, 2 Views",$463.69,AK,Commercial Insurance ppo,86.56
+Citizens Baptist Medical Center,X-ray,HCPCS 73552,"X-ray Femur, 2 Views",$463.69,AK,Simpra ppo,173.11
+Citizens Baptist Medical Center,X-ray,HCPCS 73552,"X-ray Femur, 2 Views",$463.69,AK,VIVA Health ppo,43.28
+Citizens Baptist Medical Center,X-ray,HCPCS 73552,"X-ray Femur, 2 Views",$463.69,AK,VIVA Health hmo,43.28
+Citizens Baptist Medical Center,X-ray,HCPCS 73560,"X-ray Knee, 1-2 Views",$831.47,AK,Commercial Insurance hmo,155.21
+Citizens Baptist Medical Center,X-ray,HCPCS 73560,"X-ray Knee, 1-2 Views",$831.47,AK,Commercial Insurance pos,155.21
+Citizens Baptist Medical Center,X-ray,HCPCS 73560,"X-ray Knee, 1-2 Views",$831.47,AK,Commercial Insurance ppo,155.21
+Citizens Baptist Medical Center,X-ray,HCPCS 73560,"X-ray Knee, 1-2 Views",$831.47,AK,Simpra ppo,310.42
+Citizens Baptist Medical Center,X-ray,HCPCS 73560,"X-ray Knee, 1-2 Views",$831.47,AK,VIVA Health ppo,77.60
+Citizens Baptist Medical Center,X-ray,HCPCS 73560,"X-ray Knee, 1-2 Views",$831.47,AK,VIVA Health hmo,77.60
+Citizens Baptist Medical Center,X-ray,HCPCS 73564,"X-ray Knee, 4 or More Views","$1,498.05",AK,Commercial Insurance hmo,279.64
+Citizens Baptist Medical Center,X-ray,HCPCS 73564,"X-ray Knee, 4 or More Views","$1,498.05",AK,Commercial Insurance pos,279.64
+Citizens Baptist Medical Center,X-ray,HCPCS 73564,"X-ray Knee, 4 or More Views","$1,498.05",AK,Commercial Insurance ppo,279.64
+Citizens Baptist Medical Center,X-ray,HCPCS 73564,"X-ray Knee, 4 or More Views","$1,498.05",AK,Simpra ppo,559.27
+Citizens Baptist Medical Center,X-ray,HCPCS 73564,"X-ray Knee, 4 or More Views","$1,498.05",AK,VIVA Health ppo,139.82
+Citizens Baptist Medical Center,X-ray,HCPCS 73564,"X-ray Knee, 4 or More Views","$1,498.05",AK,VIVA Health hmo,139.82
+Citizens Baptist Medical Center,X-ray,HCPCS 73590,"X-ray Lower Leg, 2 Views",$631.50,AK,Commercial Insurance hmo,117.88
+Citizens Baptist Medical Center,X-ray,HCPCS 73590,"X-ray Lower Leg, 2 Views",$631.50,AK,Commercial Insurance pos,117.88
+Citizens Baptist Medical Center,X-ray,HCPCS 73590,"X-ray Lower Leg, 2 Views",$631.50,AK,Commercial Insurance ppo,117.88
+Citizens Baptist Medical Center,X-ray,HCPCS 73590,"X-ray Lower Leg, 2 Views",$631.50,AK,Simpra ppo,231.55
+Citizens Baptist Medical Center,X-ray,HCPCS 73590,"X-ray Lower Leg, 2 Views",$631.50,AK,VIVA Health ppo,58.94
+Citizens Baptist Medical Center,X-ray,HCPCS 73590,"X-ray Lower Leg, 2 Views",$631.50,AK,VIVA Health hmo,58.94
+Citizens Baptist Medical Center,X-ray,HCPCS 72110,"X-ray, lower back, minimum four views",$998.60,AK,Commercial Insurance hmo,186.41
+Citizens Baptist Medical Center,X-ray,HCPCS 72110,"X-ray, lower back, minimum four views",$998.60,AK,Commercial Insurance pos,186.41
+Citizens Baptist Medical Center,X-ray,HCPCS 72110,"X-ray, lower back, minimum four views",$998.60,AK,Commercial Insurance ppo,186.41
+Citizens Baptist Medical Center,X-ray,HCPCS 72110,"X-ray, lower back, minimum four views",$998.60,AK,Simpra ppo,366.15
+Citizens Baptist Medical Center,X-ray,HCPCS 72110,"X-ray, lower back, minimum four views",$998.60,AK,VIVA Health ppo,93.20
+Citizens Baptist Medical Center,X-ray,HCPCS 72110,"X-ray, lower back, minimum four views",$998.60,AK,VIVA Health hmo,93.20
+Citizens Baptist Medical Center,X-ray,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views","$1,100.42",AK,Commercial Insurance hmo,205.41
+Citizens Baptist Medical Center,X-ray,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views","$1,100.42",AK,Commercial Insurance pos,205.41
+Citizens Baptist Medical Center,X-ray,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views","$1,100.42",AK,Commercial Insurance ppo,205.41
+Citizens Baptist Medical Center,X-ray,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views","$1,100.42",AK,Simpra ppo,410.82
+Citizens Baptist Medical Center,X-ray,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views","$1,100.42",AK,VIVA Health ppo,102.71
+Citizens Baptist Medical Center,X-ray,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views","$1,100.42",AK,VIVA Health hmo,102.71
+Citizens Baptist Medical Center,X-ray,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$788.55,AK,Commercial Insurance hmo,147.20
+Citizens Baptist Medical Center,X-ray,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$788.55,AK,Commercial Insurance pos,147.20
+Citizens Baptist Medical Center,X-ray,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$788.55,AK,Commercial Insurance ppo,147.20
+Citizens Baptist Medical Center,X-ray,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$788.55,AK,Simpra ppo,289.14
+Citizens Baptist Medical Center,X-ray,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$788.55,AK,VIVA Health ppo,73.60
+Citizens Baptist Medical Center,X-ray,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$788.55,AK,VIVA Health hmo,73.60
+Citizens Baptist Medical Center,X-ray,HCPCS 73140,"X-ray Fingers, 2 Views",$594.19,AK,Commercial Insurance hmo,110.92
+Citizens Baptist Medical Center,X-ray,HCPCS 73140,"X-ray Fingers, 2 Views",$594.19,AK,Commercial Insurance pos,110.92
+Citizens Baptist Medical Center,X-ray,HCPCS 73140,"X-ray Fingers, 2 Views",$594.19,AK,Commercial Insurance ppo,110.92
+Citizens Baptist Medical Center,X-ray,HCPCS 73140,"X-ray Fingers, 2 Views",$594.19,AK,Simpra ppo,221.83
+Citizens Baptist Medical Center,X-ray,HCPCS 73140,"X-ray Fingers, 2 Views",$594.19,AK,VIVA Health ppo,55.46
+Citizens Baptist Medical Center,X-ray,HCPCS 73140,"X-ray Fingers, 2 Views",$594.19,AK,VIVA Health hmo,55.46
+Citizens Baptist Medical Center,X-ray,HCPCS 73120,"X-ray Hand, 2 Views",$558.75,AK,Commercial Insurance hmo,104.30
+Citizens Baptist Medical Center,X-ray,HCPCS 73120,"X-ray Hand, 2 Views",$558.75,AK,Commercial Insurance pos,104.30
+Citizens Baptist Medical Center,X-ray,HCPCS 73120,"X-ray Hand, 2 Views",$558.75,AK,Commercial Insurance ppo,104.30
+Citizens Baptist Medical Center,X-ray,HCPCS 73120,"X-ray Hand, 2 Views",$558.75,AK,Simpra ppo,208.60
+Citizens Baptist Medical Center,X-ray,HCPCS 73120,"X-ray Hand, 2 Views",$558.75,AK,VIVA Health ppo,52.15
+Citizens Baptist Medical Center,X-ray,HCPCS 73120,"X-ray Hand, 2 Views",$558.75,AK,VIVA Health hmo,52.15
+Citizens Baptist Medical Center,X-ray,HCPCS 73130,"X-ray Hand, 3 Views",$800.25,AK,Commercial Insurance hmo,149.38
+Citizens Baptist Medical Center,X-ray,HCPCS 73130,"X-ray Hand, 3 Views",$800.25,AK,Commercial Insurance pos,149.38
+Citizens Baptist Medical Center,X-ray,HCPCS 73130,"X-ray Hand, 3 Views",$800.25,AK,Commercial Insurance ppo,149.38
+Citizens Baptist Medical Center,X-ray,HCPCS 73130,"X-ray Hand, 3 Views",$800.25,AK,Simpra ppo,298.76
+Citizens Baptist Medical Center,X-ray,HCPCS 73130,"X-ray Hand, 3 Views",$800.25,AK,VIVA Health ppo,74.69
+Citizens Baptist Medical Center,X-ray,HCPCS 73130,"X-ray Hand, 3 Views",$800.25,AK,VIVA Health hmo,74.69
+Citizens Baptist Medical Center,X-ray,HCPCS 73030,"X-ray Shoulder, 2 Views",$992.73,AK,Commercial Insurance hmo,185.31
+Citizens Baptist Medical Center,X-ray,HCPCS 73030,"X-ray Shoulder, 2 Views",$992.73,AK,Commercial Insurance pos,185.31
+Citizens Baptist Medical Center,X-ray,HCPCS 73030,"X-ray Shoulder, 2 Views",$992.73,AK,Commercial Insurance ppo,185.31
+Citizens Baptist Medical Center,X-ray,HCPCS 73030,"X-ray Shoulder, 2 Views",$992.73,AK,Simpra ppo,364.00
+Citizens Baptist Medical Center,X-ray,HCPCS 73030,"X-ray Shoulder, 2 Views",$992.73,AK,VIVA Health ppo,92.65
+Citizens Baptist Medical Center,X-ray,HCPCS 73030,"X-ray Shoulder, 2 Views",$992.73,AK,VIVA Health hmo,92.65
+Citizens Baptist Medical Center,X-ray,HCPCS 73090,"X-ray Upper Arm, 2 Views",$762.75,AK,Commercial Insurance hmo,142.38
+Citizens Baptist Medical Center,X-ray,HCPCS 73090,"X-ray Upper Arm, 2 Views",$762.75,AK,Commercial Insurance pos,142.38
+Citizens Baptist Medical Center,X-ray,HCPCS 73090,"X-ray Upper Arm, 2 Views",$762.75,AK,Commercial Insurance ppo,142.38
+Citizens Baptist Medical Center,X-ray,HCPCS 73090,"X-ray Upper Arm, 2 Views",$762.75,AK,Simpra ppo,279.68
+Citizens Baptist Medical Center,X-ray,HCPCS 73090,"X-ray Upper Arm, 2 Views",$762.75,AK,VIVA Health ppo,71.19
+Citizens Baptist Medical Center,X-ray,HCPCS 73090,"X-ray Upper Arm, 2 Views",$762.75,AK,VIVA Health hmo,71.19
+Citizens Baptist Medical Center,X-ray,HCPCS 73100,"X-ray Wrist, 3 Views",$703.88,AK,Commercial Insurance hmo,131.39
+Citizens Baptist Medical Center,X-ray,HCPCS 73100,"X-ray Wrist, 3 Views",$703.88,AK,Commercial Insurance pos,131.39
+Citizens Baptist Medical Center,X-ray,HCPCS 73100,"X-ray Wrist, 3 Views",$703.88,AK,Commercial Insurance ppo,131.39
+Citizens Baptist Medical Center,X-ray,HCPCS 73100,"X-ray Wrist, 3 Views",$703.88,AK,Simpra ppo,262.78
+Citizens Baptist Medical Center,X-ray,HCPCS 73100,"X-ray Wrist, 3 Views",$703.88,AK,VIVA Health ppo,65.70
+Citizens Baptist Medical Center,X-ray,HCPCS 73100,"X-ray Wrist, 3 Views",$703.88,AK,VIVA Health hmo,65.70
+Citizens Baptist Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$11,181.25",AK,Commercial Insurance hmo,2087.17
+Citizens Baptist Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$11,181.25",AK,Commercial Insurance pos,2087.17
+Citizens Baptist Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$11,181.25",AK,Commercial Insurance ppo,2087.17
+Citizens Baptist Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$11,181.25",AK,Simpra ppo,4099.79
+Citizens Baptist Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$11,181.25",AK,VIVA Health ppo,447.25
+Citizens Baptist Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$11,181.25",AK,VIVA Health hmo,447.25
+Citizens Baptist Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$3,497.86",AK,Commercial Insurance hmo,652.93
+Citizens Baptist Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$3,497.86",AK,Commercial Insurance pos,652.93
+Citizens Baptist Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$3,497.86",AK,Commercial Insurance ppo,652.93
+Citizens Baptist Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$3,497.86",AK,Simpra ppo,1305.87
+Citizens Baptist Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$3,497.86",AK,VIVA Health ppo,559.66
+Citizens Baptist Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$3,497.86",AK,VIVA Health hmo,559.66
+Citizens Baptist Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$6,469.89",AK,Commercial Insurance hmo,1207.71
+Citizens Baptist Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$6,469.89",AK,Commercial Insurance pos,1207.71
+Citizens Baptist Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$6,469.89",AK,Commercial Insurance ppo,1207.71
+Citizens Baptist Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$6,469.89",AK,Simpra ppo,2415.43
+Citizens Baptist Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$6,469.89",AK,VIVA Health ppo,1035.18
+Citizens Baptist Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$6,469.89",AK,VIVA Health hmo,1035.18
+Citizens Baptist Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$7,198.91",AK,Commercial Insurance hmo,1343.80
+Citizens Baptist Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$7,198.91",AK,Commercial Insurance pos,1343.80
+Citizens Baptist Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$7,198.91",AK,Commercial Insurance ppo,1343.80
+Citizens Baptist Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$7,198.91",AK,Simpra ppo,2687.59
+Citizens Baptist Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$7,198.91",AK,VIVA Health ppo,1151.83
+Citizens Baptist Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$7,198.91",AK,VIVA Health hmo,1151.83
+Citizens Baptist Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$7,740.91",AK,Commercial Insurance hmo,1444.97
+Citizens Baptist Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$7,740.91",AK,Commercial Insurance pos,1444.97
+Citizens Baptist Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$7,740.91",AK,Commercial Insurance ppo,1444.97
+Citizens Baptist Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$7,740.91",AK,Simpra ppo,2838.33
+Citizens Baptist Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$7,740.91",AK,VIVA Health ppo,1238.55
+Citizens Baptist Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$7,740.91",AK,VIVA Health hmo,1238.55
+Citizens Baptist Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$6,973.00",AK,Commercial Insurance hmo,1301.63
+Citizens Baptist Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$6,973.00",AK,Commercial Insurance pos,1301.63
+Citizens Baptist Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$6,973.00",AK,Commercial Insurance ppo,1301.63
+Citizens Baptist Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$6,973.00",AK,Simpra ppo,2603.25
+Citizens Baptist Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$6,973.00",AK,VIVA Health ppo,278.92
+Citizens Baptist Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$6,973.00",AK,VIVA Health hmo,278.92
+Citizens Baptist Medical Center,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$6,838.61",AK,Commercial Insurance hmo,1276.54
+Citizens Baptist Medical Center,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$6,838.61",AK,Commercial Insurance pos,1276.54
+Citizens Baptist Medical Center,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$6,838.61",AK,Commercial Insurance ppo,1276.54
+Citizens Baptist Medical Center,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$6,838.61",AK,Simpra ppo,2507.49
+Citizens Baptist Medical Center,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$6,838.61",AK,VIVA Health ppo,273.54
+Citizens Baptist Medical Center,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$6,838.61",AK,VIVA Health hmo,273.54
+Citizens Baptist Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$65,663.86",AK,Simpra ppo,24076.75
+Citizens Baptist Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$65,663.86",AK,VIVA Health ppo,15759.33
+Citizens Baptist Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$65,663.86",AK,VIVA Health hmo,15759.33
+Citizens Baptist Medical Center,Ocular,HCPCS 66984,Cataract removal,"$13,020.72",AK,Commercial Insurance hmo,2430.53
+Citizens Baptist Medical Center,Ocular,HCPCS 66984,Cataract removal,"$13,020.72",AK,Commercial Insurance pos,2430.53
+Citizens Baptist Medical Center,Ocular,HCPCS 66984,Cataract removal,"$13,020.72",AK,Commercial Insurance ppo,2430.53
+Citizens Baptist Medical Center,Ocular,HCPCS 66984,Cataract removal,"$13,020.72",AK,Simpra ppo,4861.07
+Citizens Baptist Medical Center,Ocular,HCPCS 66984,Cataract removal,"$13,020.72",AK,VIVA Health ppo,520.83
+Citizens Baptist Medical Center,Ocular,HCPCS 66984,Cataract removal,"$13,020.72",AK,VIVA Health hmo,520.83
+Citizens Baptist Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$6,082.31",AK,Commercial Insurance hmo,1135.36
+Citizens Baptist Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$6,082.31",AK,Commercial Insurance pos,1135.36
+Citizens Baptist Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$6,082.31",AK,Commercial Insurance ppo,1135.36
+Citizens Baptist Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$6,082.31",AK,Simpra ppo,2230.18
+Citizens Baptist Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$6,082.31",AK,VIVA Health ppo,567.68
+Citizens Baptist Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$6,082.31",AK,VIVA Health hmo,567.68

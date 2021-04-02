@@ -1,0 +1,35 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Sacred Heart Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes",-,FL
+Sacred Heart Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,-,FL
+Sacred Heart Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,-,FL
+Sacred Heart Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,-,FL
+Sacred Heart Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,-,FL
+Sacred Heart Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,-,FL
+Sacred Heart Hospital,Cardiovascular,HCPCS 93015,"Cardiovascular stress test, with interpretation and report",-,FL
+Sacred Heart Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",-,FL
+Sacred Heart Hospital,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",-,FL
+Sacred Heart Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",-,FL
+Sacred Heart Hospital,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,-,FL
+Sacred Heart Hospital,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,-,FL
+Sacred Heart Hospital,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,-,FL
+Sacred Heart Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,-,FL
+Sacred Heart Hospital,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,FL
+Sacred Heart Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,FL
+Sacred Heart Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,-,FL
+Sacred Heart Hospital,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,FL
+Sacred Heart Hospital,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,FL
+Sacred Heart Hospital,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,FL
+Sacred Heart Hospital,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,FL
+Sacred Heart Hospital,Cardiac,HCPCS 93452,Diagnostic heart catheterization,-,FL
+Sacred Heart Hospital,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),-,FL
+Sacred Heart Hospital,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",-,FL
+Sacred Heart Hospital,Cardiac,MSDRG 247,Implant drug-eluting stent,-,FL
+Sacred Heart Hospital,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,FL
+Sacred Heart Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,FL
+Sacred Heart Hospital,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,FL
+Sacred Heart Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,FL
+Sacred Heart Hospital,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,FL
+Sacred Heart Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,FL
+Sacred Heart Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,FL
+Sacred Heart Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,FL
+Sacred Heart Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,-,FL

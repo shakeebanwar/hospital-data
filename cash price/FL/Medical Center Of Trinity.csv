@@ -1,0 +1,249 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Medical Center Of Trinity,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$581.56,FL
+Medical Center Of Trinity,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$5,478.89",FL
+Medical Center Of Trinity,Emergency Care,HCPCS 99281,Emergency Level 1,"$1,383.67",FL
+Medical Center Of Trinity,Emergency Care,HCPCS 99282,Emergency Level 2,"$2,160.61",FL
+Medical Center Of Trinity,Emergency Care,HCPCS 99283,Emergency Level 3,"$2,897.10",FL
+Medical Center Of Trinity,Emergency Care,HCPCS 99284,Emergency Level 4,"$3,014.96",FL
+Medical Center Of Trinity,Emergency Care,HCPCS 99285,Emergency Level 5,"$4,210.33",FL
+Medical Center Of Trinity,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min","$1,330.72",FL
+Medical Center Of Trinity,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min","$1,552.72",FL
+Medical Center Of Trinity,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$886.74,FL
+Medical Center Of Trinity,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min","$1,035.29",FL
+Medical Center Of Trinity,Psychology,HCPCS 90853,Group psychotherapy,$460.57,FL
+Medical Center Of Trinity,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$870.24,FL
+Medical Center Of Trinity,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$648.54,FL
+Medical Center Of Trinity,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$533.49,FL
+Medical Center Of Trinity,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$609.70,FL
+Medical Center Of Trinity,Blood,HCPCS 85018,"Blood count, hemoglobin",$270.31,FL
+Medical Center Of Trinity,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$270.31,FL
+Medical Center Of Trinity,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,"$1,522.98",FL
+Medical Center Of Trinity,Blood,HCPCS 85610,"Blood test, clotting time",$883.06,FL
+Medical Center Of Trinity,Blood,HCPCS 85730,Coagulation assessment blood test,$996.69,FL
+Medical Center Of Trinity,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$883.06,FL
+Medical Center Of Trinity,Blood,HCPCS 85027,"Complete blood count, automated",$19.98,FL
+Medical Center Of Trinity,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$15.23,FL
+Medical Center Of Trinity,Blood,HCPCS 85660,Red blood cell sickling measurement,$3.64,FL
+Medical Center Of Trinity,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$495.72,FL
+Medical Center Of Trinity,Blood,HCPCS 85041,"Red blood count, automated test",$1.08,FL
+Medical Center Of Trinity,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$26.40,FL
+Medical Center Of Trinity,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$6.21,FL
+Medical Center Of Trinity,Chemistry,HCPCS 82040,Albumin (protein) level,$293.73,FL
+Medical Center Of Trinity,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$42.56,FL
+Medical Center Of Trinity,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$8.21,FL
+Medical Center Of Trinity,Chemistry,HCPCS 82140,Ammonia level,$888.73,FL
+Medical Center Of Trinity,Chemistry,HCPCS 82150,Amylase (enzyme) level,"$1,061.62",FL
+Medical Center Of Trinity,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$37.04,FL
+Medical Center Of Trinity,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,"$2,508.73",FL
+Medical Center Of Trinity,Chemistry,HCPCS 84439,Assay of free thyroxine,$569.70,FL
+Medical Center Of Trinity,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$54.23,FL
+Medical Center Of Trinity,Chemistry,HCPCS 82248,Bilirubin level (Direct),$873.99,FL
+Medical Center Of Trinity,Chemistry,HCPCS 82247,Bilirubin level (Total),$12.60,FL
+Medical Center Of Trinity,Chemistry,HCPCS 82565,Blood creatinine level,$693.91,FL
+Medical Center Of Trinity,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$787.55,FL
+Medical Center Of Trinity,Chemistry,HCPCS 84295,Blood sodium level,$495.71,FL
+Medical Center Of Trinity,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)","$1,011.04",FL
+Medical Center Of Trinity,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$500.99,FL
+Medical Center Of Trinity,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)","$1,210.76",FL
+Medical Center Of Trinity,Chemistry,HCPCS 82310,Calcium level,$859.66,FL
+Medical Center Of Trinity,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$382.06,FL
+Medical Center Of Trinity,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$31.23,FL
+Medical Center Of Trinity,Chemistry,HCPCS 82465,Cholesterol level,$31.59,FL
+Medical Center Of Trinity,Chemistry,HCPCS 82525,Copper level,$5.40,FL
+Medical Center Of Trinity,Chemistry,HCPCS 82533,Cortisol Measurement,$23.00,FL
+Medical Center Of Trinity,Chemistry,HCPCS 84681,C-peptide (protein) level,$47.37,FL
+Medical Center Of Trinity,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,"$1,122.79",FL
+Medical Center Of Trinity,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$829.06,FL
+Medical Center Of Trinity,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$5.28,FL
+Medical Center Of Trinity,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$10.55,FL
+Medical Center Of Trinity,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$457.20,FL
+Medical Center Of Trinity,Chemistry,HCPCS 82746,Folic acid; serum,$761.86,FL
+Medical Center Of Trinity,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$11.17,FL
+Medical Center Of Trinity,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$906.47,FL
+Medical Center Of Trinity,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$333.36,FL
+Medical Center Of Trinity,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$32.62,FL
+Medical Center Of Trinity,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$32.62,FL
+Medical Center Of Trinity,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$45.99,FL
+Medical Center Of Trinity,Chemistry,HCPCS 83718,HDL cholesterol level,$958.93,FL
+Medical Center Of Trinity,Chemistry,HCPCS 83020,Hemoglobin Measurement,$32.62,FL
+Medical Center Of Trinity,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$85.11,FL
+Medical Center Of Trinity,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$10.80,FL
+Medical Center Of Trinity,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$35.71,FL
+Medical Center Of Trinity,Chemistry,HCPCS 83525,Insulin Measurement; Total,$42.56,FL
+Medical Center Of Trinity,Chemistry,HCPCS 82330,Ionized Calcium,$225.40,FL
+Medical Center Of Trinity,Chemistry,HCPCS 83550,Iron Binding Capacity,$610.48,FL
+Medical Center Of Trinity,Chemistry,HCPCS 83540,Iron level,$631.63,FL
+Medical Center Of Trinity,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$801.89,FL
+Medical Center Of Trinity,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,"$1,077.86",FL
+Medical Center Of Trinity,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level","$1,148.08",FL
+Medical Center Of Trinity,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$32.62,FL
+Medical Center Of Trinity,Chemistry,HCPCS 83021,Liver function blood test panel,$10.53,FL
+Medical Center Of Trinity,Chemistry,HCPCS 83735,Magnesium Level,$410.76,FL
+Medical Center Of Trinity,Chemistry,HCPCS 82542,Mass spectrometry,$221.00,FL
+Medical Center Of Trinity,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$15.12,FL
+Medical Center Of Trinity,Chemistry,HCPCS 83970,Parathormone,$18.20,FL
+Medical Center Of Trinity,Chemistry,HCPCS 84157,Prealbumin (protein) level,$668.62,FL
+Medical Center Of Trinity,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$134.95,FL
+Medical Center Of Trinity,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$23.00,FL
+Medical Center Of Trinity,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$32.62,FL
+Medical Center Of Trinity,Chemistry,HCPCS 82270,Stool analysis for blood,$218.22,FL
+Medical Center Of Trinity,Chemistry,HCPCS 84403,Testosterone (hormone) level,$3.52,FL
+Medical Center Of Trinity,Chemistry,HCPCS 84402,Testosterone Level; Free,$3.52,FL
+Medical Center Of Trinity,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$32.62,FL
+Medical Center Of Trinity,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$26.40,FL
+Medical Center Of Trinity,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$32.62,FL
+Medical Center Of Trinity,Chemistry,HCPCS 84155,"Total protein level, blood",$416.43,FL
+Medical Center Of Trinity,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$787.55,FL
+Medical Center Of Trinity,Chemistry,HCPCS 84166,Troponin (protein) analysis,$7.00,FL
+Medical Center Of Trinity,Chemistry,HCPCS 84560,Uric acid level,$2.00,FL
+Medical Center Of Trinity,Chemistry,HCPCS 84550,"Uric acid level, blood",$901.17,FL
+Medical Center Of Trinity,Chemistry,HCPCS 82340,Urine calcium level,$866.82,FL
+Medical Center Of Trinity,Chemistry,HCPCS 82436,Urine chloride level,$363.94,FL
+Medical Center Of Trinity,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$32.62,FL
+Medical Center Of Trinity,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$560.65,FL
+Medical Center Of Trinity,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$17.28,FL
+Medical Center Of Trinity,Chemistry,HCPCS 84133,Urine potassium level,$500.99,FL
+Medical Center Of Trinity,Chemistry,HCPCS 84300,Urine sodium level,$500.99,FL
+Medical Center Of Trinity,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$34.56,FL
+Medical Center Of Trinity,Chemistry,HCPCS 84630,Zinc level,$4.62,FL
+Medical Center Of Trinity,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$10.80,FL
+Medical Center Of Trinity,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$36.04,FL
+Medical Center Of Trinity,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$6.16,FL
+Medical Center Of Trinity,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$10.80,FL
+Medical Center Of Trinity,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$58.59,FL
+Medical Center Of Trinity,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$41.04,FL
+Medical Center Of Trinity,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$23.66,FL
+Medical Center Of Trinity,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$5.40,FL
+Medical Center Of Trinity,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$24.57,FL
+Medical Center Of Trinity,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$7.92,FL
+Medical Center Of Trinity,Immunology,HCPCS 86140,Measurement C-reactive protein,$570.08,FL
+Medical Center Of Trinity,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$3.51,FL
+Medical Center Of Trinity,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$5.00,FL
+Medical Center Of Trinity,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$5.28,FL
+Medical Center Of Trinity,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$5.72,FL
+Medical Center Of Trinity,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),"$1,063.52",FL
+Medical Center Of Trinity,Immunology,HCPCS 86580,Skin test for tuberculosis,$34.02,FL
+Medical Center Of Trinity,Immunology,HCPCS 86592,Syphilis Detection Test,$1.76,FL
+Medical Center Of Trinity,Immunology,HCPCS 86361,T cell count and ratio,$83.41,FL
+Medical Center Of Trinity,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$127.68,FL
+Medical Center Of Trinity,Immunology,HCPCS 86359,"T cells count, total",$16.39,FL
+Medical Center Of Trinity,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$1.19,FL
+Medical Center Of Trinity,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$136.67,FL
+Medical Center Of Trinity,Microbiology,HCPCS 87070,"Bacterial Culture, any source ","$1,755.54",FL
+Medical Center Of Trinity,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,"$1,261.73",FL
+Medical Center Of Trinity,Microbiology,HCPCS 87491,Chlamydia Test,$225.76,FL
+Medical Center Of Trinity,Microbiology,HCPCS 87635,Covid-19 current infection test,$51.30,FL
+Medical Center Of Trinity,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$436.06,FL
+Medical Center Of Trinity,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$436.06,FL
+Medical Center Of Trinity,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$84.24,FL
+Medical Center Of Trinity,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$23.00,FL
+Medical Center Of Trinity,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$96.77,FL
+Medical Center Of Trinity,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$225.76,FL
+Medical Center Of Trinity,Microbiology,HCPCS 87517,Hepatitis B Detection,$79.17,FL
+Medical Center Of Trinity,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$235.96,FL
+Medical Center Of Trinity,Microbiology,HCPCS 86735,Mumps virus antibody test,$43.47,FL
+Medical Center Of Trinity,Microbiology,HCPCS 86747,Parvovirus antibody test,$12.31,FL
+Medical Center Of Trinity,Microbiology,HCPCS 86762,Rubella virus antibody test,$10.53,FL
+Medical Center Of Trinity,Microbiology,HCPCS 86765,Rubeola virus antibody test,$31.59,FL
+Medical Center Of Trinity,Microbiology,HCPCS 87207,Smear for infectious agents,$32.62,FL
+Medical Center Of Trinity,Microbiology,HCPCS 87177,Smear for Parasites,$80.31,FL
+Medical Center Of Trinity,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$32.62,FL
+Medical Center Of Trinity,Microbiology,HCPCS 87045,Stool Culture,"$2,051.15",FL
+Medical Center Of Trinity,Microbiology,HCPCS 87880,Strep Test,"$1,126.57",FL
+Medical Center Of Trinity,Microbiology,HCPCS 87804,Test for Influenza Virus,$569.70,FL
+Medical Center Of Trinity,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$7.92,FL
+Medical Center Of Trinity,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$45.63,FL
+Medical Center Of Trinity,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$65.98,FL
+Medical Center Of Trinity,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$109.08,FL
+Medical Center Of Trinity,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,"$1,636.61",FL
+Medical Center Of Trinity,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$35.10,FL
+Medical Center Of Trinity,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)","$1,827.65",FL
+Medical Center Of Trinity,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,"$2,413.20",FL
+Medical Center Of Trinity,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$7.02,FL
+Medical Center Of Trinity,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$545.55,FL
+Medical Center Of Trinity,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$103.68,FL
+Medical Center Of Trinity,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$82.04,FL
+Medical Center Of Trinity,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$609.35,FL
+Medical Center Of Trinity,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,"$2,723.54",FL
+Medical Center Of Trinity,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$11.44,FL
+Medical Center Of Trinity,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$962.34,FL
+Medical Center Of Trinity,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$838.12,FL
+Medical Center Of Trinity,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,"$1,427.47",FL
+Medical Center Of Trinity,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$267.02,FL
+Medical Center Of Trinity,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$829.06,FL
+Medical Center Of Trinity,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$729.78,FL
+Medical Center Of Trinity,Transfusion,HCPCS 86900,"Blood Typing, ABO",$249.18,FL
+Medical Center Of Trinity,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$248.79,FL
+Medical Center Of Trinity,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$344.09,FL
+Medical Center Of Trinity,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$107.99,FL
+Medical Center Of Trinity,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$177.07,FL
+Medical Center Of Trinity,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$120.69,FL
+Medical Center Of Trinity,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$8.10,FL
+Medical Center Of Trinity,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$46.31,FL
+Medical Center Of Trinity,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$5,705.13",FL
+Medical Center Of Trinity,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$42.90,FL
+Medical Center Of Trinity,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$501.85,FL
+Medical Center Of Trinity,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$2,898.19",FL
+Medical Center Of Trinity,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$6,952.71",FL
+Medical Center Of Trinity,Pulmonary,HCPCS 94729,CO Diffusion Capacity,$546.90,FL
+Medical Center Of Trinity,Pulmonary,HCPCS 94640,Nebulizer Treatment,$142.74,FL
+Medical Center Of Trinity,Pulmonary,HCPCS 94010,Spirometry - breathing test,$38.88,FL
+Medical Center Of Trinity,Sleep,HCPCS 95810,Sleep study,"$6,367.09",FL
+Medical Center Of Trinity,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$51.36,FL
+Medical Center Of Trinity,Breast,HCPCS 77067,Mammogram Screening,$307.51,FL
+Medical Center Of Trinity,Breast,HCPCS 77066,Mammography of both breasts,$667.48,FL
+Medical Center Of Trinity,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$21,492.87",FL
+Medical Center Of Trinity,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$13,420.10",FL
+Medical Center Of Trinity,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$18,646.83",FL
+Medical Center Of Trinity,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$12,192.45",FL
+Medical Center Of Trinity,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$24,964.69",FL
+Medical Center Of Trinity,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$21,755.43",FL
+Medical Center Of Trinity,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$19,695.59",FL
+Medical Center Of Trinity,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$14,196.17",FL
+Medical Center Of Trinity,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$16,370.07",FL
+Medical Center Of Trinity,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$16,284.98",FL
+Medical Center Of Trinity,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$14,665.12",FL
+Medical Center Of Trinity,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$14,631.09",FL
+Medical Center Of Trinity,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$13,283.92",FL
+Medical Center Of Trinity,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$6,881.04",FL
+Medical Center Of Trinity,MRI,HCPCS 72146,MRI chest spine without contrast material,"$6,290.98",FL
+Medical Center Of Trinity,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$6,290.98",FL
+Medical Center Of Trinity,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$7,199.55",FL
+Medical Center Of Trinity,MRI,HCPCS 72141,MRI neck spine without contrast material,"$6,290.98",FL
+Medical Center Of Trinity,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$7,199.55",FL
+Medical Center Of Trinity,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$9,324.19",FL
+Medical Center Of Trinity,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$7,199.55",FL
+Medical Center Of Trinity,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$6,290.98",FL
+Medical Center Of Trinity,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$2,853.40",FL
+Medical Center Of Trinity,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,"$1,496.43",FL
+Medical Center Of Trinity,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$3,844.16",FL
+Medical Center Of Trinity,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$3,186.22",FL
+Medical Center Of Trinity,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$1,263.41",FL
+Medical Center Of Trinity,Ultrasound,HCPCS 76881,Ultrasound Joint Soft Tissue - Complete,"$8,284.25",FL
+Medical Center Of Trinity,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$5,603.69",FL
+Medical Center Of Trinity,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$2,092.35",FL
+Medical Center Of Trinity,Ultrasound,HCPCS 76857,Ultrasound of pelvis,"$2,316.19",FL
+Medical Center Of Trinity,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$4,183.23",FL
+Medical Center Of Trinity,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,464.86",FL
+Medical Center Of Trinity,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views","$2,957.29",FL
+Medical Center Of Trinity,Chest,HCPCS 71046,X-ray of chest; 2 Views,$909.79,FL
+Medical Center Of Trinity,Chest,HCPCS 71045,X-ray of chest; Single View,$697.51,FL
+Medical Center Of Trinity,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views","$2,988.31",FL
+Medical Center Of Trinity,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views","$2,225.72",FL
+Medical Center Of Trinity,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$939.39,FL
+Medical Center Of Trinity,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views","$2,957.29",FL
+Medical Center Of Trinity,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,"$2,003.23",FL
+Medical Center Of Trinity,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views","$3,416.30",FL
+Medical Center Of Trinity,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views","$1,525.18",FL
+Medical Center Of Trinity,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views","$2,116.64",FL
+Medical Center Of Trinity,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views","$1,945.50",FL
+Medical Center Of Trinity,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views","$2,220.38",FL
+Medical Center Of Trinity,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$4,007.75",FL
+Medical Center Of Trinity,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views","$2,085.61",FL
+Medical Center Of Trinity,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views","$3,004.00",FL
+Medical Center Of Trinity,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views","$1,883.13",FL
+Medical Center Of Trinity,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers","$3,358.76",FL
+Medical Center Of Trinity,Soft Tissue,HCPCS 97597,Debridement of open wound,"$1,242.26",FL
+Medical Center Of Trinity,Soft Tissue,HCPCS 97602,Non-selective debridement,$715.20,FL
+Medical Center Of Trinity,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$363.00,FL
+Medical Center Of Trinity,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$453.73,FL

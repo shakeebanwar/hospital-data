@@ -1,0 +1,334 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Holy Cross Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$375.00,FL
+Holy Cross Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$825.00,FL
+Holy Cross Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$1,055.00",FL
+Holy Cross Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,300.00",FL
+Holy Cross Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,600.00",FL
+Holy Cross Hospital,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$639.57,FL
+Holy Cross Hospital,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$989.07,FL
+Holy Cross Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$275.00,FL
+Holy Cross Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$350.00,FL
+Holy Cross Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$250.00,FL
+Holy Cross Hospital,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$304.00,FL
+Holy Cross Hospital,Speech,HCPCS 92507,Speech Therapy,$197.00,FL
+Holy Cross Hospital,Speech,HCPCS 92610,Swallow Evaluation,$253.00,FL
+Holy Cross Hospital,Speech,HCPCS 92526,Swallow Treatment,$177.62,FL
+Holy Cross Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$15.00,FL
+Holy Cross Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$67.00,FL
+Holy Cross Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$15.00,FL
+Holy Cross Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$40.00,FL
+Holy Cross Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$86.72,FL
+Holy Cross Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$233.09,FL
+Holy Cross Hospital,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$70.00,FL
+Holy Cross Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$352.02,FL
+Holy Cross Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$22.00,FL
+Holy Cross Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$31.00,FL
+Holy Cross Hospital,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$17.78,FL
+Holy Cross Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$35.00,FL
+Holy Cross Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$227.52,FL
+Holy Cross Hospital,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$25.60,FL
+Holy Cross Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$17.78,FL
+Holy Cross Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$7.04,FL
+Holy Cross Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$10.99,FL
+Holy Cross Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$6.06,FL
+Holy Cross Hospital,Chemistry,HCPCS 82140,Ammonia level,$14.04,FL
+Holy Cross Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$7.24,FL
+Holy Cross Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$11.14,FL
+Holy Cross Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$356.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$85.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$10.92,FL
+Holy Cross Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$34.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$26.11,FL
+Holy Cross Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$34.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$2.04,FL
+Holy Cross Hospital,Chemistry,HCPCS 84132,Blood potassium level,$42.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 84295,Blood sodium level,$21.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$2.50,FL
+Holy Cross Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$38.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 82310,Calcium level,$34.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$66.50,FL
+Holy Cross Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$13.76,FL
+Holy Cross Hospital,Chemistry,HCPCS 82465,Cholesterol level,$2.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 82525,Copper level,$8.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$9.30,FL
+Holy Cross Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$25.70,FL
+Holy Cross Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$1.46,FL
+Holy Cross Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$46.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$14.40,FL
+Holy Cross Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$13.33,FL
+Holy Cross Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$90.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$45.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$8.83,FL
+Holy Cross Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$28.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$60.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$95.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$120.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$52.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 83718,HDL cholesterol level,$1.70,FL
+Holy Cross Hospital,Chemistry,HCPCS 83020,Hemoglobin Measurement,$21.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$11.90,FL
+Holy Cross Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$12.30,FL
+Holy Cross Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$25.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$6.50,FL
+Holy Cross Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$7.56,FL
+Holy Cross Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$56.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 83540,Iron level,$46.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$2.32,FL
+Holy Cross Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$4.80,FL
+Holy Cross Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$3.05,FL
+Holy Cross Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$26.92,FL
+Holy Cross Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$91.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$12.89,FL
+Holy Cross Hospital,Chemistry,HCPCS 83735,Magnesium Level,$8.73,FL
+Holy Cross Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$9.30,FL
+Holy Cross Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$12.50,FL
+Holy Cross Hospital,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$16.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 83945,Oxalate level,$3.78,FL
+Holy Cross Hospital,Chemistry,HCPCS 83970,Parathormone,$110.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$6.68,FL
+Holy Cross Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$24.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$60.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$105.00,FL
+Holy Cross Hospital,Chemistry,HCPCS A9270,Selenium (vitamin) level,$1.10,FL
+Holy Cross Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$21.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$79.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$13.13,FL
+Holy Cross Hospital,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$3.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$25.20,FL
+Holy Cross Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$4.40,FL
+Holy Cross Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$34.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$95.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$10.80,FL
+Holy Cross Hospital,Chemistry,HCPCS 84560,Uric acid level,$1.86,FL
+Holy Cross Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$28.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 82340,Urine calcium level,$5.76,FL
+Holy Cross Hospital,Chemistry,HCPCS 82436,Urine chloride level,$35.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$79.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$32.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$24.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 84133,Urine potassium level,$4.14,FL
+Holy Cross Hospital,Chemistry,HCPCS 84300,Urine sodium level,$4.68,FL
+Holy Cross Hospital,Chemistry,HCPCS 84591,Vitamin B-6 level,$57.50,FL
+Holy Cross Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$9.00,FL
+Holy Cross Hospital,Chemistry,HCPCS 84630,Zinc level,$7.37,FL
+Holy Cross Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$6.50,FL
+Holy Cross Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$7.00,FL
+Holy Cross Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$3.33,FL
+Holy Cross Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$12.50,FL
+Holy Cross Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$56.00,FL
+Holy Cross Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$80.00,FL
+Holy Cross Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$7.78,FL
+Holy Cross Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$66.00,FL
+Holy Cross Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$5.83,FL
+Holy Cross Hospital,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$167.00,FL
+Holy Cross Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$6.39,FL
+Holy Cross Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$4.72,FL
+Holy Cross Hospital,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$8.33,FL
+Holy Cross Hospital,Immunology,HCPCS 86161,Measurement of complement (immune system proteins),$15.30,FL
+Holy Cross Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$6.23,FL
+Holy Cross Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$10.00,FL
+Holy Cross Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$2.40,FL
+Holy Cross Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$15.00,FL
+Holy Cross Hospital,Immunology,HCPCS 86580,Skin test for tuberculosis,$30.00,FL
+Holy Cross Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$82.00,FL
+Holy Cross Hospital,Immunology,HCPCS 86361,T cell count and ratio,$13.64,FL
+Holy Cross Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$4.13,FL
+Holy Cross Hospital,Immunology,HCPCS 86359,"T cells count, total",$22.28,FL
+Holy Cross Hospital,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$6.67,FL
+Holy Cross Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$243.60,FL
+Holy Cross Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$48.79,FL
+Holy Cross Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$8.78,FL
+Holy Cross Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$108.00,FL
+Holy Cross Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$27.50,FL
+Holy Cross Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$70.00,FL
+Holy Cross Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$57.00,FL
+Holy Cross Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$57.04,FL
+Holy Cross Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$8.79,FL
+Holy Cross Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$76.98,FL
+Holy Cross Hospital,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$18.14,FL
+Holy Cross Hospital,Microbiology,HCPCS 87624,HPV Detection,$20.00,FL
+Holy Cross Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$6.50,FL
+Holy Cross Hospital,Microbiology,HCPCS 86747,Parvovirus antibody test,$22.25,FL
+Holy Cross Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$4.00,FL
+Holy Cross Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$4.44,FL
+Holy Cross Hospital,Microbiology,HCPCS 87207,Smear for infectious agents,$53.46,FL
+Holy Cross Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$71.00,FL
+Holy Cross Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$35.00,FL
+Holy Cross Hospital,Microbiology,HCPCS 87045,Stool Culture,$69.00,FL
+Holy Cross Hospital,Microbiology,HCPCS 87880,Strep Test,$23.00,FL
+Holy Cross Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$25.00,FL
+Holy Cross Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$6.00,FL
+Holy Cross Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$5.56,FL
+Holy Cross Hospital,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$93.00,FL
+Holy Cross Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$214.00,FL
+Holy Cross Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$284.76,FL
+Holy Cross Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$404.61,FL
+Holy Cross Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$22.02,FL
+Holy Cross Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$47.34,FL
+Holy Cross Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$52.98,FL
+Holy Cross Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$181.98,FL
+Holy Cross Hospital,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$10.45,FL
+Holy Cross Hospital,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$13.86,FL
+Holy Cross Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$84.00,FL
+Holy Cross Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$130.00,FL
+Holy Cross Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$80.00,FL
+Holy Cross Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$42.00,FL
+Holy Cross Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$73.00,FL
+Holy Cross Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$84.00,FL
+Holy Cross Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$64.00,FL
+Holy Cross Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$84.00,FL
+Holy Cross Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$42.00,FL
+Holy Cross Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$57.93,FL
+Holy Cross Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$53.97,FL
+Holy Cross Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$308.00,FL
+Holy Cross Hospital,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$45.00,FL
+Holy Cross Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$24.00,FL
+Holy Cross Hospital,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$200.00,FL
+Holy Cross Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$56.81,FL
+Holy Cross Hospital,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$25.00,FL
+Holy Cross Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$201.68,FL
+Holy Cross Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$228.61,FL
+Holy Cross Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$22.00,FL
+Holy Cross Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$1,100.00",FL
+Holy Cross Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$435.78,FL
+Holy Cross Hospital,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$325.00,FL
+Holy Cross Hospital,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$1,864.00",FL
+Holy Cross Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,029.00",FL
+Holy Cross Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,$196.00,FL
+Holy Cross Hospital,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$320.79,FL
+Holy Cross Hospital,Pulmonary,HCPCS 94618,Pulmonary stress test,$207.00,FL
+Holy Cross Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$400.00,FL
+Holy Cross Hospital,Sleep,HCPCS 95810,Sleep study,"$5,017.00",FL
+Holy Cross Hospital,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$91.05,FL
+Holy Cross Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$250.00,FL
+Holy Cross Hospital,Breast,HCPCS 77067,Mammogram Screening,$485.00,FL
+Holy Cross Hospital,Breast,HCPCS 77066,Mammography of both breasts,$475.00,FL
+Holy Cross Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$2,400.00",FL
+Holy Cross Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$2,742.00",FL
+Holy Cross Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$2,202.09",FL
+Holy Cross Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,000.00",FL
+Holy Cross Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$5,946.00",FL
+Holy Cross Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$5,518.84",FL
+Holy Cross Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$4,500.00",FL
+Holy Cross Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$2,934.00",FL
+Holy Cross Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$3,800.00",FL
+Holy Cross Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$2,868.00",FL
+Holy Cross Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,400.00",FL
+Holy Cross Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$2,984.00",FL
+Holy Cross Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$2,600.00",FL
+Holy Cross Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$2,407.92",FL
+Holy Cross Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,671.00",FL
+Holy Cross Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,974.00",FL
+Holy Cross Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$4,895.00",FL
+Holy Cross Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,571.00",FL
+Holy Cross Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$4,233.00",FL
+Holy Cross Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$3,132.00",FL
+Holy Cross Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,529.00",FL
+Holy Cross Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,846.10",FL
+Holy Cross Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,666.34",FL
+Holy Cross Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$2,498.23",FL
+Holy Cross Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$617.00,FL
+Holy Cross Hospital,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$661.00,FL
+Holy Cross Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$881.00,FL
+Holy Cross Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$670.00,FL
+Holy Cross Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$977.00,FL
+Holy Cross Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$350.00,FL
+Holy Cross Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$230.00,FL
+Holy Cross Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$451.00,FL
+Holy Cross Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$775.00,FL
+Holy Cross Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$773.00,FL
+Holy Cross Hospital,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$613.00,FL
+Holy Cross Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$696.00,FL
+Holy Cross Hospital,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views","$1,796.00",FL
+Holy Cross Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$340.00,FL
+Holy Cross Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$312.63,FL
+Holy Cross Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$280.00,FL
+Holy Cross Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$150.00,FL
+Holy Cross Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$95.00,FL
+Holy Cross Hospital,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$559.00,FL
+Holy Cross Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$200.00,FL
+Holy Cross Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$250.00,FL
+Holy Cross Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$100.00,FL
+Holy Cross Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$275.00,FL
+Holy Cross Hospital,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$198.00,FL
+Holy Cross Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$120.00,FL
+Holy Cross Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$450.00,FL
+Holy Cross Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$332.00,FL
+Holy Cross Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$397.00,FL
+Holy Cross Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$499.00,FL
+Holy Cross Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$320.00,FL
+Holy Cross Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$468.00,FL
+Holy Cross Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$461.00,FL
+Holy Cross Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$120.00,FL
+Holy Cross Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$350.00,FL
+Holy Cross Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$350.00,FL
+Holy Cross Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$362.36,FL
+Holy Cross Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$713.00,FL
+Holy Cross Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$504.00,FL
+Holy Cross Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$840.00,FL
+Holy Cross Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$530.00,FL
+Holy Cross Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$500.00,FL
+Holy Cross Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$430.00,FL
+Holy Cross Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$494.00,FL
+Holy Cross Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$364.00,FL
+Holy Cross Hospital,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$438.00,FL
+Holy Cross Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$412.00,FL
+Holy Cross Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$418.00,FL
+Holy Cross Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$541.00,FL
+Holy Cross Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$400.00,FL
+Holy Cross Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$416.00,FL
+Holy Cross Hospital,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$37,634.00",FL
+Holy Cross Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$21,586.44",FL
+Holy Cross Hospital,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$1,248.00",FL
+Holy Cross Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$24,196.32",FL
+Holy Cross Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$175.00,FL
+Holy Cross Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$115.00,FL
+Holy Cross Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$45,123.00",FL
+Holy Cross Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$22,605.71",FL
+Holy Cross Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$14,196.67",FL
+Holy Cross Hospital,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$15,583.25",FL
+Holy Cross Hospital,Breast,HCPCS 19301,Partial removal of breast,"$12,598.13",FL
+Holy Cross Hospital,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$175,924.00",FL
+Holy Cross Hospital,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$128,550.00",FL
+Holy Cross Hospital,Cardiac,HCPCS 33249,Defibrillator complete system,"$35,640.00",FL
+Holy Cross Hospital,Cardiac,HCPCS 33240,Defibrillator generator,"$24,217.00",FL
+Holy Cross Hospital,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$21,499.00",FL
+Holy Cross Hospital,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$9,463.00",FL
+Holy Cross Hospital,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$420.00,FL
+Holy Cross Hospital,Cardiac,MSDRG 247,Implant drug-eluting stent,"$78,974.00",FL
+Holy Cross Hospital,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$73,478.00",FL
+Holy Cross Hospital,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$17,008.00",FL
+Holy Cross Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$3,013.31",FL
+Holy Cross Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$2,719.06",FL
+Holy Cross Hospital,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$3,133.27",FL
+Holy Cross Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$2,921.85",FL
+Holy Cross Hospital,Digestive,HCPCS 43235,EGD,"$3,038.01",FL
+Holy Cross Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$2,775.81",FL
+Holy Cross Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$39,729.00",FL
+Holy Cross Hospital,General,HCPCS 10060,Drainage of Abscess,$425.00,FL
+Holy Cross Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$566.00,FL
+Holy Cross Hospital,General,HCPCS 55866,Prostatectomy,"$23,276.32",FL
+Holy Cross Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$182.00,FL
+Holy Cross Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$313.00,FL
+Holy Cross Hospital,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$232.34,FL
+Holy Cross Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$313.00,FL
+Holy Cross Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$145.00,FL
+Holy Cross Hospital,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$124,577.00",FL
+Holy Cross Hospital,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,"$1,062.91",FL
+Holy Cross Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$2,323.00",FL
+Holy Cross Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$4,381.03",FL
+Holy Cross Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$54,727.00",FL
+Holy Cross Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$17,830.94",FL
+Holy Cross Hospital,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$7,557.91",FL
+Holy Cross Hospital,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$89,528.00",FL
+Holy Cross Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$121,489.00",FL
+Holy Cross Hospital,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$252.00,FL
+Holy Cross Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$17,912.38",FL
+Holy Cross Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$21,109.00",FL
+Holy Cross Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$18,578.00",FL
+Holy Cross Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$257.00,FL
+Holy Cross Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$240.00,FL
+Holy Cross Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$8.00,FL
+Holy Cross Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,738.00",FL
+Holy Cross Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,050.00",FL
+Holy Cross Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,912.00",FL

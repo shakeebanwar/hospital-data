@@ -1,0 +1,251 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Blake Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$2,689.00",FL
+Blake Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$5,799.00",FL
+Blake Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,"$1,309.00",FL
+Blake Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,"$1,788.00",FL
+Blake Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$2,344.00",FL
+Blake Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$3,072.00",FL
+Blake Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$4,023.00",FL
+Blake Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$135.00,FL
+Blake Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$160.00,FL
+Blake Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$110.00,FL
+Blake Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$298.00,FL
+Blake Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$298.00,FL
+Blake Medical Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$637.00,FL
+Blake Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$637.00,FL
+Blake Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$752.00,FL
+Blake Medical Center,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$5.00,FL
+Blake Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$598.00,FL
+Blake Medical Center,Blood,HCPCS 85008,Microscopic examination for white blood cells,$131.00,FL
+Blake Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$186.00,FL
+Blake Medical Center,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$25.00,FL
+Blake Medical Center,Blood,HCPCS 85660,Red blood cell sickling measurement,$505.00,FL
+Blake Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$1,459.00",FL
+Blake Medical Center,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$30.00,FL
+Blake Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$13.00,FL
+Blake Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$359.00,FL
+Blake Medical Center,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$6.00,FL
+Blake Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$8.00,FL
+Blake Medical Center,Chemistry,HCPCS 82140,Ammonia level,$686.00,FL
+Blake Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$814.00,FL
+Blake Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$37.00,FL
+Blake Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$674.00,FL
+Blake Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$490.00,FL
+Blake Medical Center,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$10.00,FL
+Blake Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$380.00,FL
+Blake Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$444.00,FL
+Blake Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$505.00,FL
+Blake Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$637.00,FL
+Blake Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$448.00,FL
+Blake Medical Center,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$600.00,FL
+Blake Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$505.00,FL
+Blake Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)","$1,267.00",FL
+Blake Medical Center,Chemistry,HCPCS 82310,Calcium level,$659.00,FL
+Blake Medical Center,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$448.00,FL
+Blake Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$4.25,FL
+Blake Medical Center,Chemistry,HCPCS 82465,Cholesterol level,$10.00,FL
+Blake Medical Center,Chemistry,HCPCS 82525,Copper level,$16.56,FL
+Blake Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$2.80,FL
+Blake Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$12.42,FL
+Blake Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$864.00,FL
+Blake Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$3.50,FL
+Blake Medical Center,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$21.00,FL
+Blake Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$25.00,FL
+Blake Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$186.00,FL
+Blake Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$3.50,FL
+Blake Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$4.14,FL
+Blake Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$598.00,FL
+Blake Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$367.00,FL
+Blake Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$5.00,FL
+Blake Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$4.00,FL
+Blake Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$4.70,FL
+Blake Medical Center,Chemistry,HCPCS 83718,HDL cholesterol level,$739.00,FL
+Blake Medical Center,Chemistry,HCPCS 83020,Hemoglobin Measurement,$15.75,FL
+Blake Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$20.75,FL
+Blake Medical Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$19.32,FL
+Blake Medical Center,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$35.71,FL
+Blake Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$4.14,FL
+Blake Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$225.00,FL
+Blake Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$322.00,FL
+Blake Medical Center,Chemistry,HCPCS 83540,Iron level,$98.00,FL
+Blake Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$686.00,FL
+Blake Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$637.00,FL
+Blake Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$774.00,FL
+Blake Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$4.50,FL
+Blake Medical Center,Chemistry,HCPCS 83021,Liver function blood test panel,$15.48,FL
+Blake Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$545.00,FL
+Blake Medical Center,Chemistry,HCPCS 82542,Mass spectrometry,$50.00,FL
+Blake Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$20.00,FL
+Blake Medical Center,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$9.37,FL
+Blake Medical Center,Chemistry,HCPCS 83945,Oxalate level,$35.18,FL
+Blake Medical Center,Chemistry,HCPCS 83970,Parathormone,$13.80,FL
+Blake Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$545.00,FL
+Blake Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$65.10,FL
+Blake Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$322.01,FL
+Blake Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$7.00,FL
+Blake Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$367.00,FL
+Blake Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$7.00,FL
+Blake Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$24.00,FL
+Blake Medical Center,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$2.00,FL
+Blake Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$637.00,FL
+Blake Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$545.00,FL
+Blake Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$505.00,FL
+Blake Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$10.83,FL
+Blake Medical Center,Chemistry,HCPCS 84560,Uric acid level,$407.00,FL
+Blake Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$598.00,FL
+Blake Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$407.00,FL
+Blake Medical Center,Chemistry,HCPCS 82436,Urine chloride level,$316.00,FL
+Blake Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$170.00,FL
+Blake Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$505.00,FL
+Blake Medical Center,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$9.21,FL
+Blake Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$316.00,FL
+Blake Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$316.00,FL
+Blake Medical Center,Chemistry,HCPCS 84591,Vitamin B-6 level,$40.00,FL
+Blake Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$18.00,FL
+Blake Medical Center,Chemistry,HCPCS 84630,Zinc level,$9.20,FL
+Blake Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$18.98,FL
+Blake Medical Center,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$7.82,FL
+Blake Medical Center,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$7.00,FL
+Blake Medical Center,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$3.25,FL
+Blake Medical Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$24.00,FL
+Blake Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$30.00,FL
+Blake Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$7.00,FL
+Blake Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$3.00,FL
+Blake Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$35.00,FL
+Blake Medical Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$11.04,FL
+Blake Medical Center,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$10.00,FL
+Blake Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$322.00,FL
+Blake Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$69.00,FL
+Blake Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$3.00,FL
+Blake Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$13.16,FL
+Blake Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$2.50,FL
+Blake Medical Center,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$70.00,FL
+Blake Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$637.00,FL
+Blake Medical Center,Immunology,HCPCS 86580,Skin test for tuberculosis,$20.00,FL
+Blake Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$4.00,FL
+Blake Medical Center,Immunology,HCPCS 86361,T cell count and ratio,$19.00,FL
+Blake Medical Center,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$50.60,FL
+Blake Medical Center,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$5.00,FL
+Blake Medical Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$127.00,FL
+Blake Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ","$1,267.00",FL
+Blake Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$553.00,FL
+Blake Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$76.00,FL
+Blake Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$112.56,FL
+Blake Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$611.00,FL
+Blake Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$383.00,FL
+Blake Medical Center,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$225.00,FL
+Blake Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$2.50,FL
+Blake Medical Center,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$92.00,FL
+Blake Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$76.00,FL
+Blake Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$219.00,FL
+Blake Medical Center,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$383.00,FL
+Blake Medical Center,Microbiology,HCPCS 86735,Mumps virus antibody test,$35.00,FL
+Blake Medical Center,Microbiology,HCPCS 86747,Parvovirus antibody test,$18.50,FL
+Blake Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$35.00,FL
+Blake Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$35.00,FL
+Blake Medical Center,Microbiology,HCPCS 87207,Smear for infectious agents,$152.00,FL
+Blake Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$13.25,FL
+Blake Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$535.00,FL
+Blake Medical Center,Microbiology,HCPCS 87045,Stool Culture,"$1,317.00",FL
+Blake Medical Center,Microbiology,HCPCS 87880,Strep Test,$505.00,FL
+Blake Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$573.00,FL
+Blake Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$7.00,FL
+Blake Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$35.00,FL
+Blake Medical Center,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$61.09,FL
+Blake Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$67.00,FL
+Blake Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,"$1,652.00",FL
+Blake Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$35.00,FL
+Blake Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$870.00,FL
+Blake Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,"$1,297.00",FL
+Blake Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$35.00,FL
+Blake Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$341.00,FL
+Blake Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$16.19,FL
+Blake Medical Center,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$16.56,FL
+Blake Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$864.00,FL
+Blake Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,"$1,003.00",FL
+Blake Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$10.59,FL
+Blake Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$659.00,FL
+Blake Medical Center,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$814.00,FL
+Blake Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$864.00,FL
+Blake Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$50.00,FL
+Blake Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$598.00,FL
+Blake Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$617.00,FL
+Blake Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$294.00,FL
+Blake Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$22.00,FL
+Blake Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$878.00,FL
+Blake Medical Center,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$219.00,FL
+Blake Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$294.00,FL
+Blake Medical Center,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$22.00,FL
+Blake Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$294.00,FL
+Blake Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$20.00,FL
+Blake Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$20.00,FL
+Blake Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$593.00,FL
+Blake Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$2,335.00",FL
+Blake Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$35.00,FL
+Blake Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,"$1,241.00",FL
+Blake Medical Center,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$4,210.00",FL
+Blake Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$3,458.00",FL
+Blake Medical Center,Pulmonary,HCPCS 94729,CO Diffusion Capacity,$694.00,FL
+Blake Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,$190.00,FL
+Blake Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$45.00,FL
+Blake Medical Center,Sleep,HCPCS 95810,Sleep study,"$4,179.00",FL
+Blake Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$35.00,FL
+Blake Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$243.00,FL
+Blake Medical Center,Breast,HCPCS 77067,Mammogram Screening,$243.00,FL
+Blake Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$294.00,FL
+Blake Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$15,239.00",FL
+Blake Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$12,237.00",FL
+Blake Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$10,789.00",FL
+Blake Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$10,655.00",FL
+Blake Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$31,834.00",FL
+Blake Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$29,408.00",FL
+Blake Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$25,666.00",FL
+Blake Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$14,105.00",FL
+Blake Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$15,305.00",FL
+Blake Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$14,333.00",FL
+Blake Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$5,834.00",FL
+Blake Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$15,305.00",FL
+Blake Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$11,231.00",FL
+Blake Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$3,751.00",FL
+Blake Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$6,196.00",FL
+Blake Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$6,043.00",FL
+Blake Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$7,517.00",FL
+Blake Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$5,925.00",FL
+Blake Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$6,720.00",FL
+Blake Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$5,697.00",FL
+Blake Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$7,109.00",FL
+Blake Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$5,691.00",FL
+Blake Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$2,567.00",FL
+Blake Medical Center,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,"$2,250.00",FL
+Blake Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$3,082.00",FL
+Blake Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$2,294.00",FL
+Blake Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$5,180.00",FL
+Blake Medical Center,Ultrasound,HCPCS 76881,Ultrasound Joint Soft Tissue - Complete,"$2,294.00",FL
+Blake Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$5,230.00",FL
+Blake Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$471.00,FL
+Blake Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,"$1,803.00",FL
+Blake Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$2,852.00",FL
+Blake Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$2,543.00",FL
+Blake Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views","$2,674.00",FL
+Blake Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,"$1,814.00",FL
+Blake Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,"$1,679.00",FL
+Blake Medical Center,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views","$2,182.00",FL
+Blake Medical Center,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views","$1,117.00",FL
+Blake Medical Center,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,"$1,766.00",FL
+Blake Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views","$1,375.00",FL
+Blake Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,"$1,309.00",FL
+Blake Medical Center,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views","$2,182.00",FL
+Blake Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views","$2,888.00",FL
+Blake Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views","$1,549.00",FL
+Blake Medical Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views","$1,309.00",FL
+Blake Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$998.00,FL
+Blake Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views","$1,594.00",FL
+Blake Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$2,550.00",FL
+Blake Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views","$1,942.00",FL
+Blake Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views","$2,264.00",FL
+Blake Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views","$1,895.00",FL
+Blake Medical Center,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers","$2,081.00",FL
+Blake Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$500.00,FL
+Blake Medical Center,Soft Tissue,HCPCS 97602,Non-selective debridement,$550.00,FL
+Blake Medical Center,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$243.00,FL
+Blake Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,481.00",FL

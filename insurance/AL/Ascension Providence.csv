@@ -1,0 +1,910 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State,plan_name,price
+Ascension Providence,Sleep,HCPCS 95810,Sleep study,-,AK,MS STATE PUB SCH EMP 1389 C33,750.00
+Ascension Providence,Sleep,HCPCS 95810,Sleep study,-,AK,MEDICARE 2NDARY PAYR 1389 N00,750.00
+Ascension Providence,Sleep,HCPCS 95810,Sleep study,-,AK,BLUE CROSS OP 1389 B14,750.00
+Ascension Providence,Sleep,HCPCS 95810,Sleep study,-,AK,BLUE CROSS IN 1CHART 1389 S00,750.00
+Ascension Providence,Sleep,HCPCS 95810,Sleep study,-,AK,BLUE CROSS 1389 B60,750.00
+Ascension Providence,Sleep,HCPCS 95810,Sleep study,-,AK,BLUE CROSS 1389 B15,750.00
+Ascension Providence,Sleep,HCPCS 95810,Sleep study,-,AK,BLUE CROSS 1389 B08,750.00
+Ascension Providence,Sleep,HCPCS 95810,Sleep study,-,AK,BLUE ADVANTAGE 1389 M10,750.00
+Ascension Providence,Sleep,HCPCS 95810,Sleep study,-,AK,BC SUPPLEMENT 1389 B10,750.00
+Ascension Providence,Sleep,HCPCS 95810,Sleep study,-,AK,BC STATE OF AL 1389 B35,750.00
+Ascension Providence,Sleep,HCPCS 95810,Sleep study,-,AK,BC FEP OP 1389 B57,750.00
+Ascension Providence,Sleep,HCPCS 95810,Sleep study,-,AK,BC FED GOVT BASIC OP 1389 B59,750.00
+Ascension Providence,Sleep,HCPCS 95810,Sleep study,-,AK,BC FEB HO 1389 B03,750.00
+Ascension Providence,Sleep,HCPCS 95810,Sleep study,-,AK,BC BS OUT OF STATE 1389 S04,750.00
+Ascension Providence,Sleep,HCPCS 95810,Sleep study,-,AK,BC BS OUT OF STATE 1389 S02,750.00
+Ascension Providence,Sleep,HCPCS 95810,Sleep study,-,AK,BC BS OUT OF STATE 1389 S01,750.00
+Ascension Providence,Sleep,HCPCS 95810,Sleep study,-,AK,BC BS OF TEXAS 1389 S11,750.00
+Ascension Providence,Sleep,HCPCS 95810,Sleep study,-,AK,BC BS OF MISSISSIPPI 1389 S05,750.00
+Ascension Providence,Sleep,HCPCS 95810,Sleep study,-,AK,BC BS OF LOUISIANA 1389 S09,750.00
+Ascension Providence,Sleep,HCPCS 95810,Sleep study,-,AK,BC BS OF GEORGIA 1389 S08,750.00
+Ascension Providence,Sleep,HCPCS 95810,Sleep study,-,AK,BC BS OF FL 1389 S07,750.00
+Ascension Providence,Sleep,HCPCS 95810,Sleep study,-,AK,BC BS OF CALIFORNIA 1389 S06,750.00
+Ascension Providence,Sleep,HCPCS 95810,Sleep study,-,AK,BC AL PUB ED EMP 1389 B02,750.00
+Ascension Providence,Sleep,HCPCS 95810,Sleep study,-,AK,BCBS PGX MARKETPLACE 1389 B61,750.00
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,MS STATE PUB SCH EMP 1389 C33,5351.00
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,MEDICARE 2NDARY PAYR 1389 N00,5351.00
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,BLUE CROSS OP 1389 B14,5351.00
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,BLUE CROSS IN 1CHART 1389 S00,5351.00
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,BLUE CROSS 1389 B60,5351.00
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,BLUE CROSS 1389 B15,5351.00
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,BLUE CROSS 1389 B08,5351.00
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,BLUE ADVANTAGE 1389 M10,5351.00
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,BC SUPPLEMENT 1389 B10,5351.00
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,BC STATE OF AL 1389 B35,5351.00
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,BC FEP OP 1389 B57,5351.00
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,BC FED GOVT BASIC OP 1389 B59,5351.00
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,BC FEB HO 1389 B03,5351.00
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,BC BS OUT OF STATE 1389 S04,5351.00
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,BC BS OUT OF STATE 1389 S02,5351.00
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,BC BS OUT OF STATE 1389 S01,5351.00
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,BC BS OF TEXAS 1389 S11,5351.00
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,BC BS OF MISSISSIPPI 1389 S05,5351.00
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,BC BS OF LOUISIANA 1389 S09,5351.00
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,BC BS OF GEORGIA 1389 S08,5351.00
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,BC BS OF FL 1389 S07,5351.00
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,BC BS OF CALIFORNIA 1389 S06,5351.00
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,BC AL PUB ED EMP 1389 B02,5351.00
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,BCBS PGX MARKETPLACE 1389 B61,5351.00
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,  None   1391   None  ,8763.15
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,Viva Medicare Adv 1379 M86,6640.61
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,VIVA MCARE PLUS 1404 M04,6640.61
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,VIVA MCARE PLUS 1379 M04,6640.61
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,TRIWEST VA 161 I48,6324.39
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,SIMPRA ADVAN 1396 M44,6324.39
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,SIMPRA ADVAN 1374 M44,6324.39
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,MERCY LIFE OF ALA 1373 I56,6324.39
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,MEDICARE COMPLETE 1403 N81,6324.39
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,MEDICARE COMPLETE 1376 N81,6324.39
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,MEDICARE COMPLETE 1376 M80,6324.39
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,PROV HOSP EMP WC 1392 K03,6656.40
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,INS MISC MCAR HMO OP 1374 N01,6324.39
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,HUMANA MEDICARE PLAN 1406 N90,6324.39
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,HUMANA MEDICARE PLAN 1402 M90,6324.39
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,HUMANA 1417 I78,11648.70
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,HP SNRS 1ST 1368 N52,6324.39
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,FOX EVERETT 120 F06,8537.93
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,COVENTRY FIRSTHEALTH 1392 I51,6656.40
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,COVENANT HOSPICE 1369 I82,6324.39
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,CIGNA HEALTHSPRINGS 1401 N53,6324.39
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,CIGNA HEALTHSPRINGS 1401 M53,6324.39
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,CIGNA HEALTHSPRINGS 1368 N53,6324.39
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,CIGNA HEALTHSPRINGS 1368 M53,6324.39
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,CIGNA 1391 I88,8763.15
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,CIGNA 1368 I88,6324.39
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,BLUE ADVANT PRO FEE 1366 N10,6324.39
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,BLUE ADVANTAGE 1400 M10,6008.17
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,BLUE ADVANTAGE 1376 N15,6324.39
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,BLUE ADVANTAGE 1366 N11,6324.39
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,BLUE ADVANTAGE 1366 M10,6324.39
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,APWU PPO OP 1391 I20,8763.15
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,AMBETTER MAGNOLIA HE 1374 D29,6324.39
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,AETNA MEDICARE ADVAN 1398 M93,6324.39
+Ascension Providence,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,AK,AETNA MEDICARE ADVAN 1364 M93,6324.39
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,MS STATE PUB SCH EMP 1389 C33,5351.00
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,MEDICARE 2NDARY PAYR 1389 N00,5351.00
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,BLUE CROSS OP 1389 B14,5351.00
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,BLUE CROSS IN 1CHART 1389 S00,5351.00
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,BLUE CROSS 1389 B60,5351.00
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,BLUE CROSS 1389 B15,5351.00
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,BLUE CROSS 1389 B08,5351.00
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,BLUE ADVANTAGE 1389 M10,5351.00
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,BC SUPPLEMENT 1389 B10,5351.00
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,BC STATE OF AL 1389 B35,5351.00
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,BC FEP OP 1389 B57,5351.00
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,BC FED GOVT BASIC OP 1389 B59,5351.00
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,BC FEB HO 1389 B03,5351.00
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,BC BS OUT OF STATE 1389 S04,5351.00
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,BC BS OUT OF STATE 1389 S02,5351.00
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,BC BS OUT OF STATE 1389 S01,5351.00
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,BC BS OF TEXAS 1389 S11,5351.00
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,BC BS OF MISSISSIPPI 1389 S05,5351.00
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,BC BS OF LOUISIANA 1389 S09,5351.00
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,BC BS OF GEORGIA 1389 S08,5351.00
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,BC BS OF FL 1389 S07,5351.00
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,BC BS OF CALIFORNIA 1389 S06,5351.00
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,BC AL PUB ED EMP 1389 B02,5351.00
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,BCBS PGX MARKETPLACE 1389 B61,5351.00
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,  None   1391   None  ,10388.76
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,Viva Medicare Adv 1379 M86,7872.48
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,VIVA MCARE PLUS 1404 M04,7872.48
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,VIVA MCARE PLUS 1379 M04,7872.48
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,TRIWEST VA 161 I48,7497.60
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,SIMPRA ADVAN 1396 M44,7497.60
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,SIMPRA ADVAN 1374 M44,7497.60
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,MERCY LIFE OF ALA 1373 I56,7497.60
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,MEDICARE COMPLETE 1403 N81,7497.60
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,MEDICARE COMPLETE 1376 N81,7497.60
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,MEDICARE COMPLETE 1376 M80,7497.60
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,PROV HOSP EMP WC 1392 K03,7891.20
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,INS MISC MCAR HMO OP 1374 N01,7497.60
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,HUMANA MEDICARE PLAN 1406 N90,7497.60
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,HUMANA MEDICARE PLAN 1402 M90,7497.60
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,HUMANA 1417 I78,13809.60
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,HP SNRS 1ST 1368 N52,7497.60
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,FOX EVERETT 120 F06,10121.77
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,COVENTRY FIRSTHEALTH 1392 I51,7891.20
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,COVENANT HOSPICE 1369 I82,7497.60
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,CIGNA HEALTHSPRINGS 1401 N53,7497.60
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,CIGNA HEALTHSPRINGS 1401 M53,7497.60
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,CIGNA HEALTHSPRINGS 1368 N53,7497.60
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,CIGNA HEALTHSPRINGS 1368 M53,7497.60
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,CIGNA 1391 I88,10388.76
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,CIGNA 1368 I88,7497.60
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,BLUE ADVANT PRO FEE 1366 N10,7497.60
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,BLUE ADVANTAGE 1400 M10,7122.72
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,BLUE ADVANTAGE 1376 N15,7497.60
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,BLUE ADVANTAGE 1366 N11,7497.60
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,BLUE ADVANTAGE 1366 M10,7497.60
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,APWU PPO OP 1391 I20,10388.76
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,AMBETTER MAGNOLIA HE 1374 D29,7497.60
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,AETNA MEDICARE ADVAN 1398 M93,7497.60
+Ascension Providence,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,AK,AETNA MEDICARE ADVAN 1364 M93,7497.60
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,MS STATE PUB SCH EMP 1389 C33,8919.00
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,MEDICARE 2NDARY PAYR 1389 N00,8919.00
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,BLUE CROSS OP 1389 B14,8919.00
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,BLUE CROSS IN 1CHART 1389 S00,8919.00
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,BLUE CROSS 1389 B60,8919.00
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,BLUE CROSS 1389 B15,8919.00
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,BLUE CROSS 1389 B08,8919.00
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,BLUE ADVANTAGE 1389 M10,8919.00
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,BC SUPPLEMENT 1389 B10,8919.00
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,BC STATE OF AL 1389 B35,8919.00
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,BC FEP OP 1389 B57,8919.00
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,BC FED GOVT BASIC OP 1389 B59,8919.00
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,BC FEB HO 1389 B03,8919.00
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,BC BS OUT OF STATE 1389 S04,8919.00
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,BC BS OUT OF STATE 1389 S02,8919.00
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,BC BS OUT OF STATE 1389 S01,8919.00
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,BC BS OF TEXAS 1389 S11,8919.00
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,BC BS OF MISSISSIPPI 1389 S05,8919.00
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,BC BS OF LOUISIANA 1389 S09,8919.00
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,BC BS OF GEORGIA 1389 S08,8919.00
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,BC BS OF FL 1389 S07,8919.00
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,BC BS OF CALIFORNIA 1389 S06,8919.00
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,BC AL PUB ED EMP 1389 B02,8919.00
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,BCBS PGX MARKETPLACE 1389 B61,8919.00
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,  None   1391   None  ,41484.76
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,Viva Medicare Adv 1379 M86,31436.67
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,VIVA MCARE PLUS 1404 M04,31436.67
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,VIVA MCARE PLUS 1379 M04,31436.67
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,TRIWEST VA 161 I48,29939.66
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,SIMPRA ADVAN 1396 M44,29939.66
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,SIMPRA ADVAN 1374 M44,29939.66
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,MERCY LIFE OF ALA 1373 I56,29939.66
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,MEDICARE COMPLETE 1403 N81,29939.66
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,MEDICARE COMPLETE 1376 N81,29939.66
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,MEDICARE COMPLETE 1376 M80,29939.66
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,PROV HOSP EMP WC 1392 K03,31511.40
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,INS MISC MCAR HMO OP 1374 N01,29939.66
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,HUMANA MEDICARE PLAN 1406 N90,29939.66
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,HUMANA MEDICARE PLAN 1402 M90,29939.66
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,HUMANA 1417 I78,55144.95
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,HP SNRS 1ST 1368 N52,29939.66
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,FOX EVERETT 120 F06,40418.57
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,COVENTRY FIRSTHEALTH 1392 I51,31511.40
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,COVENANT HOSPICE 1369 I82,29939.66
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,CIGNA HEALTHSPRINGS 1401 N53,29939.66
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,CIGNA HEALTHSPRINGS 1401 M53,29939.66
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,CIGNA HEALTHSPRINGS 1368 N53,29939.66
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,CIGNA HEALTHSPRINGS 1368 M53,29939.66
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,CIGNA 1391 I88,41484.76
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,CIGNA 1368 I88,29939.66
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,BLUE ADVANT PRO FEE 1366 N10,29939.66
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,BLUE ADVANTAGE 1400 M10,28442.66
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,BLUE ADVANTAGE 1376 N15,29939.66
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,BLUE ADVANTAGE 1366 N11,29939.66
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,BLUE ADVANTAGE 1366 M10,29939.66
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,APWU PPO OP 1391 I20,41484.76
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,AMBETTER MAGNOLIA HE 1374 D29,29939.66
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,AETNA MEDICARE ADVAN 1398 M93,29939.66
+Ascension Providence,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,AK,AETNA MEDICARE ADVAN 1364 M93,29939.66
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,MS STATE PUB SCH EMP 1389 C33,5351.00
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,MEDICARE 2NDARY PAYR 1389 N00,5351.00
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,BLUE CROSS OP 1389 B14,5351.00
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,BLUE CROSS IN 1CHART 1389 S00,5351.00
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,BLUE CROSS 1389 B60,5351.00
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,BLUE CROSS 1389 B15,5351.00
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,BLUE CROSS 1389 B08,5351.00
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,BLUE ADVANTAGE 1389 M10,5351.00
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,BC SUPPLEMENT 1389 B10,5351.00
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,BC STATE OF AL 1389 B35,5351.00
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,BC FEP OP 1389 B57,5351.00
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,BC FED GOVT BASIC OP 1389 B59,5351.00
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,BC FEB HO 1389 B03,5351.00
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,BC BS OUT OF STATE 1389 S04,5351.00
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,BC BS OUT OF STATE 1389 S02,5351.00
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,BC BS OUT OF STATE 1389 S01,5351.00
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,BC BS OF TEXAS 1389 S11,5351.00
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,BC BS OF MISSISSIPPI 1389 S05,5351.00
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,BC BS OF LOUISIANA 1389 S09,5351.00
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,BC BS OF GEORGIA 1389 S08,5351.00
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,BC BS OF FL 1389 S07,5351.00
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,BC BS OF CALIFORNIA 1389 S06,5351.00
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,BC AL PUB ED EMP 1389 B02,5351.00
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,BCBS PGX MARKETPLACE 1389 B61,5351.00
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,  None   1391   None  ,82387.36
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,Viva Medicare Adv 1379 M86,62432.18
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,VIVA MCARE PLUS 1404 M04,62432.18
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,VIVA MCARE PLUS 1379 M04,62432.18
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,TRIWEST VA 161 I48,59459.18
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,SIMPRA ADVAN 1396 M44,59459.18
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,SIMPRA ADVAN 1374 M44,59459.18
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,MERCY LIFE OF ALA 1373 I56,59459.18
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,MEDICARE COMPLETE 1403 N81,59459.18
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,MEDICARE COMPLETE 1376 N81,59459.18
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,MEDICARE COMPLETE 1376 M80,59459.18
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,PROV HOSP EMP WC 1392 K03,62580.60
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,INS MISC MCAR HMO OP 1374 N01,59459.18
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,HUMANA MEDICARE PLAN 1406 N90,59459.18
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,HUMANA MEDICARE PLAN 1402 M90,59459.18
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,HUMANA 1417 I78,109516.05
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,HP SNRS 1ST 1368 N52,59459.18
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,FOX EVERETT 120 F06,80269.95
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,COVENTRY FIRSTHEALTH 1392 I51,62580.60
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,COVENANT HOSPICE 1369 I82,59459.18
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,CIGNA HEALTHSPRINGS 1401 N53,59459.18
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,CIGNA HEALTHSPRINGS 1401 M53,59459.18
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,CIGNA HEALTHSPRINGS 1368 N53,59459.18
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,CIGNA HEALTHSPRINGS 1368 M53,59459.18
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,CIGNA 1391 I88,82387.36
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,CIGNA 1368 I88,59459.18
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,BLUE ADVANT PRO FEE 1366 N10,59459.18
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,BLUE ADVANTAGE 1400 M10,56486.19
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,BLUE ADVANTAGE 1376 N15,59459.18
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,BLUE ADVANTAGE 1366 N11,59459.18
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,BLUE ADVANTAGE 1366 M10,59459.18
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,APWU PPO OP 1391 I20,82387.36
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,AMBETTER MAGNOLIA HE 1374 D29,59459.18
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,AETNA MEDICARE ADVAN 1398 M93,59459.18
+Ascension Providence,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,AK,AETNA MEDICARE ADVAN 1364 M93,59459.18
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,MS STATE PUB SCH EMP 1389 C33,5351.00
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,MEDICARE 2NDARY PAYR 1389 N00,5351.00
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,BLUE CROSS OP 1389 B14,5351.00
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,BLUE CROSS IN 1CHART 1389 S00,5351.00
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,BLUE CROSS 1389 B60,5351.00
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,BLUE CROSS 1389 B15,5351.00
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,BLUE CROSS 1389 B08,5351.00
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,BLUE ADVANTAGE 1389 M10,5351.00
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,BC SUPPLEMENT 1389 B10,5351.00
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,BC STATE OF AL 1389 B35,5351.00
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,BC FEP OP 1389 B57,5351.00
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,BC FED GOVT BASIC OP 1389 B59,5351.00
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,BC FEB HO 1389 B03,5351.00
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,BC BS OUT OF STATE 1389 S04,5351.00
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,BC BS OUT OF STATE 1389 S02,5351.00
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,BC BS OUT OF STATE 1389 S01,5351.00
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,BC BS OF TEXAS 1389 S11,5351.00
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,BC BS OF MISSISSIPPI 1389 S05,5351.00
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,BC BS OF LOUISIANA 1389 S09,5351.00
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,BC BS OF GEORGIA 1389 S08,5351.00
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,BC BS OF FL 1389 S07,5351.00
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,BC BS OF CALIFORNIA 1389 S06,5351.00
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,BC AL PUB ED EMP 1389 B02,5351.00
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,BCBS PGX MARKETPLACE 1389 B61,5351.00
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,  None   1391   None  ,42002.14
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,Viva Medicare Adv 1379 M86,31828.73
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,VIVA MCARE PLUS 1404 M04,31828.73
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,VIVA MCARE PLUS 1379 M04,31828.73
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,TRIWEST VA 161 I48,30313.06
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,SIMPRA ADVAN 1396 M44,30313.06
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,SIMPRA ADVAN 1374 M44,30313.06
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,MERCY LIFE OF ALA 1373 I56,30313.06
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,MEDICARE COMPLETE 1403 N81,30313.06
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,MEDICARE COMPLETE 1376 N81,30313.06
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,MEDICARE COMPLETE 1376 M80,30313.06
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,PROV HOSP EMP WC 1392 K03,31904.40
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,INS MISC MCAR HMO OP 1374 N01,30313.06
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,HUMANA MEDICARE PLAN 1406 N90,30313.06
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,HUMANA MEDICARE PLAN 1402 M90,30313.06
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,HUMANA 1417 I78,55832.70
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,HP SNRS 1ST 1368 N52,30313.06
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,FOX EVERETT 120 F06,40922.66
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,COVENTRY FIRSTHEALTH 1392 I51,31904.40
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,COVENANT HOSPICE 1369 I82,30313.06
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,CIGNA HEALTHSPRINGS 1401 N53,30313.06
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,CIGNA HEALTHSPRINGS 1401 M53,30313.06
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,CIGNA HEALTHSPRINGS 1368 N53,30313.06
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,CIGNA HEALTHSPRINGS 1368 M53,30313.06
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,CIGNA 1391 I88,42002.14
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,CIGNA 1368 I88,30313.06
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,BLUE ADVANT PRO FEE 1366 N10,30313.06
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,BLUE ADVANTAGE 1400 M10,28797.39
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,BLUE ADVANTAGE 1376 N15,30313.06
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,BLUE ADVANTAGE 1366 N11,30313.06
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,BLUE ADVANTAGE 1366 M10,30313.06
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,APWU PPO OP 1391 I20,42002.14
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,AMBETTER MAGNOLIA HE 1374 D29,30313.06
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,AETNA MEDICARE ADVAN 1398 M93,30313.06
+Ascension Providence,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,AK,AETNA MEDICARE ADVAN 1364 M93,30313.06
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,MS STATE PUB SCH EMP 1389 C33,5351.00
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,MEDICARE 2NDARY PAYR 1389 N00,5351.00
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,BLUE CROSS OP 1389 B14,5351.00
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,BLUE CROSS IN 1CHART 1389 S00,5351.00
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,BLUE CROSS 1389 B60,5351.00
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,BLUE CROSS 1389 B15,5351.00
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,BLUE CROSS 1389 B08,5351.00
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,BLUE ADVANTAGE 1389 M10,5351.00
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,BC SUPPLEMENT 1389 B10,5351.00
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,BC STATE OF AL 1389 B35,5351.00
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,BC FEP OP 1389 B57,5351.00
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,BC FED GOVT BASIC OP 1389 B59,5351.00
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,BC FEB HO 1389 B03,5351.00
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,BC BS OUT OF STATE 1389 S04,5351.00
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,BC BS OUT OF STATE 1389 S02,5351.00
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,BC BS OUT OF STATE 1389 S01,5351.00
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,BC BS OF TEXAS 1389 S11,5351.00
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,BC BS OF MISSISSIPPI 1389 S05,5351.00
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,BC BS OF LOUISIANA 1389 S09,5351.00
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,BC BS OF GEORGIA 1389 S08,5351.00
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,BC BS OF FL 1389 S07,5351.00
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,BC BS OF CALIFORNIA 1389 S06,5351.00
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,BC AL PUB ED EMP 1389 B02,5351.00
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,BCBS PGX MARKETPLACE 1389 B61,5351.00
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,  None   1391   None  ,32234.24
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,Viva Medicare Adv 1379 M86,24426.73
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,VIVA MCARE PLUS 1404 M04,24426.73
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,VIVA MCARE PLUS 1379 M04,24426.73
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,TRIWEST VA 161 I48,23263.54
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,SIMPRA ADVAN 1396 M44,23263.54
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,SIMPRA ADVAN 1374 M44,23263.54
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,MERCY LIFE OF ALA 1373 I56,23263.54
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,MEDICARE COMPLETE 1403 N81,23263.54
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,MEDICARE COMPLETE 1376 N81,23263.54
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,MEDICARE COMPLETE 1376 M80,23263.54
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,PROV HOSP EMP WC 1392 K03,24484.80
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,INS MISC MCAR HMO OP 1374 N01,23263.54
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,HUMANA MEDICARE PLAN 1406 N90,23263.54
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,HUMANA MEDICARE PLAN 1402 M90,23263.54
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,HUMANA 1417 I78,42848.40
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,HP SNRS 1ST 1368 N52,23263.54
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,FOX EVERETT 120 F06,31405.80
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,COVENTRY FIRSTHEALTH 1392 I51,24484.80
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,COVENANT HOSPICE 1369 I82,23263.54
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,CIGNA HEALTHSPRINGS 1401 N53,23263.54
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,CIGNA HEALTHSPRINGS 1401 M53,23263.54
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,CIGNA HEALTHSPRINGS 1368 N53,23263.54
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,CIGNA HEALTHSPRINGS 1368 M53,23263.54
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,CIGNA 1391 I88,32234.24
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,CIGNA 1368 I88,23263.54
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,BLUE ADVANT PRO FEE 1366 N10,23263.54
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,BLUE ADVANTAGE 1400 M10,22100.35
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,BLUE ADVANTAGE 1376 N15,23263.54
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,BLUE ADVANTAGE 1366 N11,23263.54
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,BLUE ADVANTAGE 1366 M10,23263.54
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,APWU PPO OP 1391 I20,32234.24
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,AMBETTER MAGNOLIA HE 1374 D29,23263.54
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,AETNA MEDICARE ADVAN 1398 M93,23263.54
+Ascension Providence,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,AK,AETNA MEDICARE ADVAN 1364 M93,23263.54
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,MS STATE PUB SCH EMP 1389 C33,8919.00
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,MEDICARE 2NDARY PAYR 1389 N00,8919.00
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,BLUE CROSS OP 1389 B14,8919.00
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,BLUE CROSS IN 1CHART 1389 S00,8919.00
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,BLUE CROSS 1389 B60,8919.00
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,BLUE CROSS 1389 B15,8919.00
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,BLUE CROSS 1389 B08,8919.00
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,BLUE ADVANTAGE 1389 M10,8919.00
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,BC SUPPLEMENT 1389 B10,8919.00
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,BC STATE OF AL 1389 B35,8919.00
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,BC FEP OP 1389 B57,8919.00
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,BC FED GOVT BASIC OP 1389 B59,8919.00
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,BC FEB HO 1389 B03,8919.00
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,BC BS OUT OF STATE 1389 S04,8919.00
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,BC BS OUT OF STATE 1389 S02,8919.00
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,BC BS OUT OF STATE 1389 S01,8919.00
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,BC BS OF TEXAS 1389 S11,8919.00
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,BC BS OF MISSISSIPPI 1389 S05,8919.00
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,BC BS OF LOUISIANA 1389 S09,8919.00
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,BC BS OF GEORGIA 1389 S08,8919.00
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,BC BS OF FL 1389 S07,8919.00
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,BC BS OF CALIFORNIA 1389 S06,8919.00
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,BC AL PUB ED EMP 1389 B02,8919.00
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,BCBS PGX MARKETPLACE 1389 B61,8919.00
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,  None   1391   None  ,15704.79
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,Viva Medicare Adv 1379 M86,11900.91
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,VIVA MCARE PLUS 1404 M04,11900.91
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,VIVA MCARE PLUS 1379 M04,11900.91
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,TRIWEST VA 161 I48,11334.19
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,SIMPRA ADVAN 1396 M44,11334.19
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,SIMPRA ADVAN 1374 M44,11334.19
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,MERCY LIFE OF ALA 1373 I56,11334.19
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,MEDICARE COMPLETE 1403 N81,11334.19
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,MEDICARE COMPLETE 1376 N81,11334.19
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,MEDICARE COMPLETE 1376 M80,11334.19
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,PROV HOSP EMP WC 1392 K03,11929.20
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,INS MISC MCAR HMO OP 1374 N01,11334.19
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,HUMANA MEDICARE PLAN 1406 N90,11334.19
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,HUMANA MEDICARE PLAN 1402 M90,11334.19
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,HUMANA 1417 I78,20876.10
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,HP SNRS 1ST 1368 N52,11334.19
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,FOX EVERETT 120 F06,15301.17
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,COVENTRY FIRSTHEALTH 1392 I51,11929.20
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,COVENANT HOSPICE 1369 I82,11334.19
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,CIGNA HEALTHSPRINGS 1401 N53,11334.19
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,CIGNA HEALTHSPRINGS 1401 M53,11334.19
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,CIGNA HEALTHSPRINGS 1368 N53,11334.19
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,CIGNA HEALTHSPRINGS 1368 M53,11334.19
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,CIGNA 1391 I88,15704.79
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,CIGNA 1368 I88,11334.19
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,BLUE ADVANT PRO FEE 1366 N10,11334.19
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,BLUE ADVANTAGE 1400 M10,10767.47
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,BLUE ADVANTAGE 1376 N15,11334.19
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,BLUE ADVANTAGE 1366 N11,11334.19
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,BLUE ADVANTAGE 1366 M10,11334.19
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,APWU PPO OP 1391 I20,15704.79
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,AMBETTER MAGNOLIA HE 1374 D29,11334.19
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,AETNA MEDICARE ADVAN 1398 M93,11334.19
+Ascension Providence,Cardiac,MSDRG 247,Implant drug-eluting stent,-,AK,AETNA MEDICARE ADVAN 1364 M93,11334.19
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,MS STATE PUB SCH EMP 1389 C33,8919.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,MEDICARE 2NDARY PAYR 1389 N00,8919.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,BLUE CROSS OP 1389 B14,8919.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,BLUE CROSS IN 1CHART 1389 S00,8919.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,BLUE CROSS 1389 B60,8919.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,BLUE CROSS 1389 B15,8919.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,BLUE CROSS 1389 B08,8919.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,BLUE ADVANTAGE 1389 M10,8919.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,BC SUPPLEMENT 1389 B10,8919.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,BC STATE OF AL 1389 B35,8919.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,BC FEP OP 1389 B57,8919.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,BC FED GOVT BASIC OP 1389 B59,8919.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,BC FEB HO 1389 B03,8919.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,BC BS OUT OF STATE 1389 S04,8919.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,BC BS OUT OF STATE 1389 S02,8919.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,BC BS OUT OF STATE 1389 S01,8919.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,BC BS OF TEXAS 1389 S11,8919.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,BC BS OF MISSISSIPPI 1389 S05,8919.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,BC BS OF LOUISIANA 1389 S09,8919.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,BC BS OF GEORGIA 1389 S08,8919.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,BC BS OF FL 1389 S07,8919.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,BC BS OF CALIFORNIA 1389 S06,8919.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,BC AL PUB ED EMP 1389 B02,8919.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,BCBS PGX MARKETPLACE 1389 B61,8919.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,  None   1391   None  ,16316.96
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,Viva Medicare Adv 1379 M86,12364.81
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,VIVA MCARE PLUS 1404 M04,12364.81
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,VIVA MCARE PLUS 1379 M04,12364.81
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,TRIWEST VA 161 I48,11776.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,SIMPRA ADVAN 1396 M44,11776.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,SIMPRA ADVAN 1374 M44,11776.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,MERCY LIFE OF ALA 1373 I56,11776.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,MEDICARE COMPLETE 1403 N81,11776.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,MEDICARE COMPLETE 1376 N81,11776.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,MEDICARE COMPLETE 1376 M80,11776.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,PROV HOSP EMP WC 1392 K03,12394.20
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,INS MISC MCAR HMO OP 1374 N01,11776.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,HUMANA MEDICARE PLAN 1406 N90,11776.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,HUMANA MEDICARE PLAN 1402 M90,11776.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,HUMANA 1417 I78,21689.85
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,HP SNRS 1ST 1368 N52,11776.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,FOX EVERETT 120 F06,15897.61
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,COVENTRY FIRSTHEALTH 1392 I51,12394.20
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,COVENANT HOSPICE 1369 I82,11776.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,CIGNA HEALTHSPRINGS 1401 N53,11776.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,CIGNA HEALTHSPRINGS 1401 M53,11776.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,CIGNA HEALTHSPRINGS 1368 N53,11776.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,CIGNA HEALTHSPRINGS 1368 M53,11776.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,CIGNA 1391 I88,16316.96
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,CIGNA 1368 I88,11776.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,BLUE ADVANT PRO FEE 1366 N10,11776.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,BLUE ADVANTAGE 1400 M10,11187.19
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,BLUE ADVANTAGE 1376 N15,11776.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,BLUE ADVANTAGE 1366 N11,11776.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,BLUE ADVANTAGE 1366 M10,11776.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,APWU PPO OP 1391 I20,16316.96
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,AMBETTER MAGNOLIA HE 1374 D29,11776.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,AETNA MEDICARE ADVAN 1398 M93,11776.00
+Ascension Providence,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,AK,AETNA MEDICARE ADVAN 1364 M93,11776.00
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,MS STATE PUB SCH EMP 1389 C33,5351.00
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,MEDICARE 2NDARY PAYR 1389 N00,5351.00
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,BLUE CROSS OP 1389 B14,5351.00
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,BLUE CROSS IN 1CHART 1389 S00,5351.00
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,BLUE CROSS 1389 B60,5351.00
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,BLUE CROSS 1389 B15,5351.00
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,BLUE CROSS 1389 B08,5351.00
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,BLUE ADVANTAGE 1389 M10,5351.00
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,BC SUPPLEMENT 1389 B10,5351.00
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,BC STATE OF AL 1389 B35,5351.00
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,BC FEP OP 1389 B57,5351.00
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,BC FED GOVT BASIC OP 1389 B59,5351.00
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,BC FEB HO 1389 B03,5351.00
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,BC BS OUT OF STATE 1389 S04,5351.00
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,BC BS OUT OF STATE 1389 S02,5351.00
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,BC BS OUT OF STATE 1389 S01,5351.00
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,BC BS OF TEXAS 1389 S11,5351.00
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,BC BS OF MISSISSIPPI 1389 S05,5351.00
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,BC BS OF LOUISIANA 1389 S09,5351.00
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,BC BS OF GEORGIA 1389 S08,5351.00
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,BC BS OF FL 1389 S07,5351.00
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,BC BS OF CALIFORNIA 1389 S06,5351.00
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,BC AL PUB ED EMP 1389 B02,5351.00
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,BCBS PGX MARKETPLACE 1389 B61,5351.00
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,  None   1391   None  ,8944.04
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,Viva Medicare Adv 1379 M86,6777.69
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,VIVA MCARE PLUS 1404 M04,6777.69
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,VIVA MCARE PLUS 1379 M04,6777.69
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,TRIWEST VA 161 I48,6454.94
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,SIMPRA ADVAN 1396 M44,6454.94
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,SIMPRA ADVAN 1374 M44,6454.94
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,MERCY LIFE OF ALA 1373 I56,6454.94
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,MEDICARE COMPLETE 1403 N81,6454.94
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,MEDICARE COMPLETE 1376 N81,6454.94
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,MEDICARE COMPLETE 1376 M80,6454.94
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,PROV HOSP EMP WC 1392 K03,6793.80
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,INS MISC MCAR HMO OP 1374 N01,6454.94
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,HUMANA MEDICARE PLAN 1406 N90,6454.94
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,HUMANA MEDICARE PLAN 1402 M90,6454.94
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,HUMANA 1417 I78,11889.15
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,HP SNRS 1ST 1368 N52,6454.94
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,FOX EVERETT 120 F06,8714.17
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,COVENTRY FIRSTHEALTH 1392 I51,6793.80
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,COVENANT HOSPICE 1369 I82,6454.94
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,CIGNA HEALTHSPRINGS 1401 N53,6454.94
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,CIGNA HEALTHSPRINGS 1401 M53,6454.94
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,CIGNA HEALTHSPRINGS 1368 N53,6454.94
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,CIGNA HEALTHSPRINGS 1368 M53,6454.94
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,CIGNA 1391 I88,8944.04
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,CIGNA 1368 I88,6454.94
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,BLUE ADVANT PRO FEE 1366 N10,6454.94
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,BLUE ADVANTAGE 1400 M10,6132.19
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,BLUE ADVANTAGE 1376 N15,6454.94
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,BLUE ADVANTAGE 1366 N11,6454.94
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,BLUE ADVANTAGE 1366 M10,6454.94
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,APWU PPO OP 1391 I20,8944.04
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,AMBETTER MAGNOLIA HE 1374 D29,6454.94
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,AETNA MEDICARE ADVAN 1398 M93,6454.94
+Ascension Providence,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,AK,AETNA MEDICARE ADVAN 1364 M93,6454.94
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,MS STATE PUB SCH EMP 1389 C33,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,MEDICARE 2NDARY PAYR 1389 N00,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,BLUE CROSS OP 1389 B14,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,BLUE CROSS IN 1CHART 1389 S00,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,BLUE CROSS 1389 B60,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,BLUE CROSS 1389 B15,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,BLUE CROSS 1389 B08,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,BLUE ADVANTAGE 1389 M10,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,BC SUPPLEMENT 1389 B10,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,BC STATE OF AL 1389 B35,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,BC FEP OP 1389 B57,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,BC FED GOVT BASIC OP 1389 B59,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,BC FEB HO 1389 B03,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,BC BS OUT OF STATE 1389 S04,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,BC BS OUT OF STATE 1389 S02,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,BC BS OUT OF STATE 1389 S01,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,BC BS OF TEXAS 1389 S11,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,BC BS OF MISSISSIPPI 1389 S05,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,BC BS OF LOUISIANA 1389 S09,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,BC BS OF GEORGIA 1389 S08,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,BC BS OF FL 1389 S07,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,BC BS OF CALIFORNIA 1389 S06,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,BC AL PUB ED EMP 1389 B02,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,BCBS PGX MARKETPLACE 1389 B61,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,  None   1391   None  ,37844.11
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,Viva Medicare Adv 1379 M86,28677.82
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,VIVA MCARE PLUS 1404 M04,28677.82
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,VIVA MCARE PLUS 1379 M04,28677.82
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,TRIWEST VA 161 I48,27312.20
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,SIMPRA ADVAN 1396 M44,27312.20
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,SIMPRA ADVAN 1374 M44,27312.20
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,MERCY LIFE OF ALA 1373 I56,27312.20
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,MEDICARE COMPLETE 1403 N81,27312.20
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,MEDICARE COMPLETE 1376 N81,27312.20
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,MEDICARE COMPLETE 1376 M80,27312.20
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,PROV HOSP EMP WC 1392 K03,28746.00
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,INS MISC MCAR HMO OP 1374 N01,27312.20
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,HUMANA MEDICARE PLAN 1406 N90,27312.20
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,HUMANA MEDICARE PLAN 1402 M90,27312.20
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,HUMANA 1417 I78,50305.50
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,HP SNRS 1ST 1368 N52,27312.20
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,FOX EVERETT 120 F06,36871.49
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,COVENTRY FIRSTHEALTH 1392 I51,28746.00
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,COVENANT HOSPICE 1369 I82,27312.20
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,CIGNA HEALTHSPRINGS 1401 N53,27312.20
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,CIGNA HEALTHSPRINGS 1401 M53,27312.20
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,CIGNA HEALTHSPRINGS 1368 N53,27312.20
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,CIGNA HEALTHSPRINGS 1368 M53,27312.20
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,CIGNA 1391 I88,37844.11
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,CIGNA 1368 I88,27312.20
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,BLUE ADVANT PRO FEE 1366 N10,27312.20
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,BLUE ADVANTAGE 1400 M10,25946.57
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,BLUE ADVANTAGE 1376 N15,27312.20
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,BLUE ADVANTAGE 1366 N11,27312.20
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,BLUE ADVANTAGE 1366 M10,27312.20
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,APWU PPO OP 1391 I20,37844.11
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,AMBETTER MAGNOLIA HE 1374 D29,27312.20
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,AETNA MEDICARE ADVAN 1398 M93,27312.20
+Ascension Providence,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,AK,AETNA MEDICARE ADVAN 1364 M93,27312.20
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,MS STATE PUB SCH EMP 1389 C33,20518.00
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,MEDICARE 2NDARY PAYR 1389 N00,20518.00
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,BLUE CROSS OP 1389 B14,20518.00
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,BLUE CROSS IN 1CHART 1389 S00,20518.00
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,BLUE CROSS 1389 B60,20518.00
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,BLUE CROSS 1389 B15,20518.00
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,BLUE CROSS 1389 B08,20518.00
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,BLUE ADVANTAGE 1389 M10,20518.00
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,BC SUPPLEMENT 1389 B10,20518.00
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,BC STATE OF AL 1389 B35,20518.00
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,BC FEP OP 1389 B57,20518.00
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,BC FED GOVT BASIC OP 1389 B59,20518.00
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,BC FEB HO 1389 B03,20518.00
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,BC BS OUT OF STATE 1389 S04,20518.00
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,BC BS OUT OF STATE 1389 S02,20518.00
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,BC BS OUT OF STATE 1389 S01,20518.00
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,BC BS OF TEXAS 1389 S11,20518.00
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,BC BS OF MISSISSIPPI 1389 S05,20518.00
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,BC BS OF LOUISIANA 1389 S09,20518.00
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,BC BS OF GEORGIA 1389 S08,20518.00
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,BC BS OF FL 1389 S07,20518.00
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,BC BS OF CALIFORNIA 1389 S06,20518.00
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,BC AL PUB ED EMP 1389 B02,20518.00
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,BCBS PGX MARKETPLACE 1389 B61,20518.00
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,  None   1391   None  ,15007.31
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,Viva Medicare Adv 1379 M86,11372.36
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,VIVA MCARE PLUS 1404 M04,11372.36
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,VIVA MCARE PLUS 1379 M04,11372.36
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,TRIWEST VA 161 I48,10830.82
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,SIMPRA ADVAN 1396 M44,10830.82
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,SIMPRA ADVAN 1374 M44,10830.82
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,MERCY LIFE OF ALA 1373 I56,10830.82
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,MEDICARE COMPLETE 1403 N81,10830.82
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,MEDICARE COMPLETE 1376 N81,10830.82
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,MEDICARE COMPLETE 1376 M80,10830.82
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,PROV HOSP EMP WC 1392 K03,11399.40
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,INS MISC MCAR HMO OP 1374 N01,10830.82
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,HUMANA MEDICARE PLAN 1406 N90,10830.82
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,HUMANA MEDICARE PLAN 1402 M90,10830.82
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,HUMANA 1417 I78,19948.95
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,HP SNRS 1ST 1368 N52,10830.82
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,FOX EVERETT 120 F06,14621.61
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,COVENTRY FIRSTHEALTH 1392 I51,11399.40
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,COVENANT HOSPICE 1369 I82,10830.82
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,CIGNA HEALTHSPRINGS 1401 N53,10830.82
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,CIGNA HEALTHSPRINGS 1401 M53,10830.82
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,CIGNA HEALTHSPRINGS 1368 N53,10830.82
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,CIGNA HEALTHSPRINGS 1368 M53,10830.82
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,CIGNA 1391 I88,15007.31
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,CIGNA 1368 I88,10830.82
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,BLUE ADVANT PRO FEE 1366 N10,10830.82
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,BLUE ADVANTAGE 1400 M10,10289.27
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,BLUE ADVANTAGE 1376 N15,10830.82
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,BLUE ADVANTAGE 1366 N11,10830.82
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,BLUE ADVANTAGE 1366 M10,10830.82
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,APWU PPO OP 1391 I20,15007.31
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,AMBETTER MAGNOLIA HE 1374 D29,10830.82
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,AETNA MEDICARE ADVAN 1398 M93,10830.82
+Ascension Providence,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,AK,AETNA MEDICARE ADVAN 1364 M93,10830.82
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,MS STATE PUB SCH EMP 1389 C33,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,MEDICARE 2NDARY PAYR 1389 N00,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,BLUE CROSS OP 1389 B14,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,BLUE CROSS IN 1CHART 1389 S00,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,BLUE CROSS 1389 B60,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,BLUE CROSS 1389 B15,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,BLUE CROSS 1389 B08,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,BLUE ADVANTAGE 1389 M10,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,BC SUPPLEMENT 1389 B10,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,BC STATE OF AL 1389 B35,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,BC FEP OP 1389 B57,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,BC FED GOVT BASIC OP 1389 B59,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,BC FEB HO 1389 B03,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,BC BS OUT OF STATE 1389 S04,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,BC BS OUT OF STATE 1389 S02,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,BC BS OUT OF STATE 1389 S01,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,BC BS OF TEXAS 1389 S11,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,BC BS OF MISSISSIPPI 1389 S05,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,BC BS OF LOUISIANA 1389 S09,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,BC BS OF GEORGIA 1389 S08,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,BC BS OF FL 1389 S07,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,BC BS OF CALIFORNIA 1389 S06,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,BC AL PUB ED EMP 1389 B02,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,BCBS PGX MARKETPLACE 1389 B61,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,  None   1391   None  ,20065.04
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,Viva Medicare Adv 1379 M86,15205.05
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,VIVA MCARE PLUS 1404 M04,15205.05
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,VIVA MCARE PLUS 1379 M04,15205.05
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,TRIWEST VA 161 I48,14480.99
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,SIMPRA ADVAN 1396 M44,14480.99
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,SIMPRA ADVAN 1374 M44,14480.99
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,MERCY LIFE OF ALA 1373 I56,14480.99
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,MEDICARE COMPLETE 1403 N81,14480.99
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,MEDICARE COMPLETE 1376 N81,14480.99
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,MEDICARE COMPLETE 1376 M80,14480.99
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,PROV HOSP EMP WC 1392 K03,15241.20
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,INS MISC MCAR HMO OP 1374 N01,14480.99
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,HUMANA MEDICARE PLAN 1406 N90,14480.99
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,HUMANA MEDICARE PLAN 1402 M90,14480.99
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,HUMANA 1417 I78,26672.10
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,HP SNRS 1ST 1368 N52,14480.99
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,FOX EVERETT 120 F06,19549.35
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,COVENTRY FIRSTHEALTH 1392 I51,15241.20
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,COVENANT HOSPICE 1369 I82,14480.99
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,CIGNA HEALTHSPRINGS 1401 N53,14480.99
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,CIGNA HEALTHSPRINGS 1401 M53,14480.99
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,CIGNA HEALTHSPRINGS 1368 N53,14480.99
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,CIGNA HEALTHSPRINGS 1368 M53,14480.99
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,CIGNA 1391 I88,20065.04
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,CIGNA 1368 I88,14480.99
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,BLUE ADVANT PRO FEE 1366 N10,14480.99
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,BLUE ADVANTAGE 1400 M10,13756.94
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,BLUE ADVANTAGE 1376 N15,14480.99
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,BLUE ADVANTAGE 1366 N11,14480.99
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,BLUE ADVANTAGE 1366 M10,14480.99
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,APWU PPO OP 1391 I20,20065.04
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,AMBETTER MAGNOLIA HE 1374 D29,14480.99
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,AETNA MEDICARE ADVAN 1398 M93,14480.99
+Ascension Providence,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,AK,AETNA MEDICARE ADVAN 1364 M93,14480.99
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,MS STATE PUB SCH EMP 1389 C33,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,MEDICARE 2NDARY PAYR 1389 N00,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,BLUE CROSS OP 1389 B14,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,BLUE CROSS IN 1CHART 1389 S00,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,BLUE CROSS 1389 B60,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,BLUE CROSS 1389 B15,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,BLUE CROSS 1389 B08,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,BLUE ADVANTAGE 1389 M10,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,BC SUPPLEMENT 1389 B10,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,BC STATE OF AL 1389 B35,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,BC FEP OP 1389 B57,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,BC FED GOVT BASIC OP 1389 B59,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,BC FEB HO 1389 B03,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,BC BS OUT OF STATE 1389 S04,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,BC BS OUT OF STATE 1389 S02,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,BC BS OUT OF STATE 1389 S01,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,BC BS OF TEXAS 1389 S11,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,BC BS OF MISSISSIPPI 1389 S05,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,BC BS OF LOUISIANA 1389 S09,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,BC BS OF GEORGIA 1389 S08,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,BC BS OF FL 1389 S07,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,BC BS OF CALIFORNIA 1389 S06,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,BC AL PUB ED EMP 1389 B02,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,BCBS PGX MARKETPLACE 1389 B61,8919.00
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,  None   1391   None  ,31064.40
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,Viva Medicare Adv 1379 M86,23540.24
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,VIVA MCARE PLUS 1404 M04,23540.24
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,VIVA MCARE PLUS 1379 M04,23540.24
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,TRIWEST VA 161 I48,22419.26
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,SIMPRA ADVAN 1396 M44,22419.26
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,SIMPRA ADVAN 1374 M44,22419.26
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,MERCY LIFE OF ALA 1373 I56,22419.26
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,MEDICARE COMPLETE 1403 N81,22419.26
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,MEDICARE COMPLETE 1376 N81,22419.26
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,MEDICARE COMPLETE 1376 M80,22419.26
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,PROV HOSP EMP WC 1392 K03,23596.20
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,INS MISC MCAR HMO OP 1374 N01,22419.26
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,HUMANA MEDICARE PLAN 1406 N90,22419.26
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,HUMANA MEDICARE PLAN 1402 M90,22419.26
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,HUMANA 1417 I78,41293.35
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,HP SNRS 1ST 1368 N52,22419.26
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,FOX EVERETT 120 F06,30266.02
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,COVENTRY FIRSTHEALTH 1392 I51,23596.20
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,COVENANT HOSPICE 1369 I82,22419.26
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,CIGNA HEALTHSPRINGS 1401 N53,22419.26
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,CIGNA HEALTHSPRINGS 1401 M53,22419.26
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,CIGNA HEALTHSPRINGS 1368 N53,22419.26
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,CIGNA HEALTHSPRINGS 1368 M53,22419.26
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,CIGNA 1391 I88,31064.40
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,CIGNA 1368 I88,22419.26
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,BLUE ADVANT PRO FEE 1366 N10,22419.26
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,BLUE ADVANTAGE 1400 M10,21298.28
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,BLUE ADVANTAGE 1376 N15,22419.26
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,BLUE ADVANTAGE 1366 N11,22419.26
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,BLUE ADVANTAGE 1366 M10,22419.26
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,APWU PPO OP 1391 I20,31064.40
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,AMBETTER MAGNOLIA HE 1374 D29,22419.26
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,AETNA MEDICARE ADVAN 1398 M93,22419.26
+Ascension Providence,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,AK,AETNA MEDICARE ADVAN 1364 M93,22419.26
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,MS STATE PUB SCH EMP 1389 C33,1790.00
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,MEDICARE 2NDARY PAYR 1389 N00,1790.00
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,BLUE CROSS OP 1389 B14,1790.00
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,BLUE CROSS IN 1CHART 1389 S00,1790.00
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,BLUE CROSS 1389 B60,1790.00
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,BLUE CROSS 1389 B15,1790.00
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,BLUE CROSS 1389 B08,1790.00
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,BLUE ADVANTAGE 1389 M10,1790.00
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,BC SUPPLEMENT 1389 B10,1790.00
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,BC STATE OF AL 1389 B35,1790.00
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,BC FEP OP 1389 B57,1790.00
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,BC FED GOVT BASIC OP 1389 B59,1790.00
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,BC FEB HO 1389 B03,1790.00
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,BC BS OUT OF STATE 1389 S04,1790.00
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,BC BS OUT OF STATE 1389 S02,1790.00
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,BC BS OUT OF STATE 1389 S01,1790.00
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,BC BS OF TEXAS 1389 S11,1790.00
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,BC BS OF MISSISSIPPI 1389 S05,1790.00
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,BC BS OF LOUISIANA 1389 S09,1790.00
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,BC BS OF GEORGIA 1389 S08,1790.00
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,BC BS OF FL 1389 S07,1790.00
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,BC BS OF CALIFORNIA 1389 S06,1790.00
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,BC AL PUB ED EMP 1389 B02,1790.00
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,BCBS PGX MARKETPLACE 1389 B61,1790.00
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,  None   1391   None  ,7007.20
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,Viva Medicare Adv 1379 M86,5309.98
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,VIVA MCARE PLUS 1404 M04,5309.98
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,VIVA MCARE PLUS 1379 M04,5309.98
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,TRIWEST VA 161 I48,5057.12
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,SIMPRA ADVAN 1396 M44,5057.12
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,SIMPRA ADVAN 1374 M44,5057.12
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,MERCY LIFE OF ALA 1373 I56,5057.12
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,MEDICARE COMPLETE 1403 N81,5057.12
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,MEDICARE COMPLETE 1376 N81,5057.12
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,MEDICARE COMPLETE 1376 M80,5057.12
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,PROV HOSP EMP WC 1392 K03,5322.60
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,INS MISC MCAR HMO OP 1374 N01,5057.12
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,HUMANA MEDICARE PLAN 1406 N90,5057.12
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,HUMANA MEDICARE PLAN 1402 M90,5057.12
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,HUMANA 1417 I78,9314.55
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,HP SNRS 1ST 1368 N52,5057.12
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,FOX EVERETT 120 F06,6827.11
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,COVENTRY FIRSTHEALTH 1392 I51,5322.60
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,COVENANT HOSPICE 1369 I82,5057.12
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,CIGNA HEALTHSPRINGS 1401 N53,5057.12
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,CIGNA HEALTHSPRINGS 1401 M53,5057.12
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,CIGNA HEALTHSPRINGS 1368 N53,5057.12
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,CIGNA HEALTHSPRINGS 1368 M53,5057.12
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,CIGNA 1391 I88,7007.20
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,CIGNA 1368 I88,5057.12
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,BLUE ADVANT PRO FEE 1366 N10,5057.12
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,BLUE ADVANTAGE 1400 M10,4804.26
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,BLUE ADVANTAGE 1376 N15,5057.12
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,BLUE ADVANTAGE 1366 N11,5057.12
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,BLUE ADVANTAGE 1366 M10,5057.12
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,APWU PPO OP 1391 I20,7007.20
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,AMBETTER MAGNOLIA HE 1374 D29,5057.12
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,AETNA MEDICARE ADVAN 1398 M93,5057.12
+Ascension Providence,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,AK,AETNA MEDICARE ADVAN 1364 M93,5057.12
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,MS STATE PUB SCH EMP 1389 C33,1790.00
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,MEDICARE 2NDARY PAYR 1389 N00,1790.00
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,BLUE CROSS OP 1389 B14,1790.00
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,BLUE CROSS IN 1CHART 1389 S00,1790.00
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,BLUE CROSS 1389 B60,1790.00
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,BLUE CROSS 1389 B15,1790.00
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,BLUE CROSS 1389 B08,1790.00
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,BLUE ADVANTAGE 1389 M10,1790.00
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,BC SUPPLEMENT 1389 B10,1790.00
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,BC STATE OF AL 1389 B35,1790.00
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,BC FEP OP 1389 B57,1790.00
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,BC FED GOVT BASIC OP 1389 B59,1790.00
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,BC FEB HO 1389 B03,1790.00
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,BC BS OUT OF STATE 1389 S04,1790.00
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,BC BS OUT OF STATE 1389 S02,1790.00
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,BC BS OUT OF STATE 1389 S01,1790.00
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,BC BS OF TEXAS 1389 S11,1790.00
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,BC BS OF MISSISSIPPI 1389 S05,1790.00
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,BC BS OF LOUISIANA 1389 S09,1790.00
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,BC BS OF GEORGIA 1389 S08,1790.00
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,BC BS OF FL 1389 S07,1790.00
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,BC BS OF CALIFORNIA 1389 S06,1790.00
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,BC AL PUB ED EMP 1389 B02,1790.00
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,BCBS PGX MARKETPLACE 1389 B61,1790.00
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,  None   1391   None  ,5064.05
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,Viva Medicare Adv 1379 M86,3837.48
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,VIVA MCARE PLUS 1404 M04,3837.48
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,VIVA MCARE PLUS 1379 M04,3837.48
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,TRIWEST VA 161 I48,3654.74
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,SIMPRA ADVAN 1396 M44,3654.74
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,SIMPRA ADVAN 1374 M44,3654.74
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,MERCY LIFE OF ALA 1373 I56,3654.74
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,MEDICARE COMPLETE 1403 N81,3654.74
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,MEDICARE COMPLETE 1376 N81,3654.74
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,MEDICARE COMPLETE 1376 M80,3654.74
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,PROV HOSP EMP WC 1392 K03,3846.60
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,INS MISC MCAR HMO OP 1374 N01,3654.74
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,HUMANA MEDICARE PLAN 1406 N90,3654.74
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,HUMANA MEDICARE PLAN 1402 M90,3654.74
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,HUMANA 1417 I78,6731.55
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,HP SNRS 1ST 1368 N52,3654.74
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,FOX EVERETT 120 F06,4933.90
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,COVENTRY FIRSTHEALTH 1392 I51,3846.60
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,COVENANT HOSPICE 1369 I82,3654.74
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,CIGNA HEALTHSPRINGS 1401 N53,3654.74
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,CIGNA HEALTHSPRINGS 1401 M53,3654.74
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,CIGNA HEALTHSPRINGS 1368 N53,3654.74
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,CIGNA HEALTHSPRINGS 1368 M53,3654.74
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,CIGNA 1391 I88,5064.05
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,CIGNA 1368 I88,3654.74
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,BLUE ADVANT PRO FEE 1366 N10,3654.74
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,BLUE ADVANTAGE 1400 M10,3472.00
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,BLUE ADVANTAGE 1376 N15,3654.74
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,BLUE ADVANTAGE 1366 N11,3654.74
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,BLUE ADVANTAGE 1366 M10,3654.74
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,APWU PPO OP 1391 I20,5064.05
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,AMBETTER MAGNOLIA HE 1374 D29,3654.74
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,AETNA MEDICARE ADVAN 1398 M93,3654.74
+Ascension Providence,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,AK,AETNA MEDICARE ADVAN 1364 M93,3654.74

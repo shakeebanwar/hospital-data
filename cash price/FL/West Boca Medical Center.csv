@@ -1,0 +1,143 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+West Boca Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$20,275.90",FL
+West Boca Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$15,908.09",FL
+West Boca Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$10,646.95",FL
+West Boca Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$19,376.30",FL
+West Boca Medical Center,Hospital,HCPCS 99218,Hospital Observation per Hour,"$23,792.59",FL
+West Boca Medical Center,Speech,HCPCS 92507,Speech Therapy,"$2,807.44",FL
+West Boca Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$13,175.67",FL
+West Boca Medical Center,Speech,HCPCS 92526,Swallow Treatment,"$1,505.36",FL
+West Boca Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$63.29,FL
+West Boca Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$72.47,FL
+West Boca Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$186.62,FL
+West Boca Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$198.10,FL
+West Boca Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$208.29,FL
+West Boca Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$376.79,FL
+West Boca Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$107.81,FL
+West Boca Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$3,480.98",FL
+West Boca Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$376.70,FL
+West Boca Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$614.80,FL
+West Boca Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$445.97,FL
+West Boca Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$116.20,FL
+West Boca Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$340.41,FL
+West Boca Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$248.03,FL
+West Boca Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$336.77,FL
+West Boca Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,"$1,235.90",FL
+West Boca Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$336.46,FL
+West Boca Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$267.80,FL
+West Boca Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$516.08,FL
+West Boca Medical Center,Chemistry,HCPCS 83540,Iron level,$241.69,FL
+West Boca Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$183.90,FL
+West Boca Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$332.56,FL
+West Boca Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$311.06,FL
+West Boca Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$234.19,FL
+West Boca Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$185.63,FL
+West Boca Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$172.75,FL
+West Boca Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$247.71,FL
+West Boca Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$251.21,FL
+West Boca Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$249.00,FL
+West Boca Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$292.50,FL
+West Boca Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$560.22,FL
+West Boca Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$545.12,FL
+West Boca Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$6.56,FL
+West Boca Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$6.67,FL
+West Boca Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$78.18,FL
+West Boca Medical Center,Microbiology,HCPCS 87045,Stool Culture,$354.75,FL
+West Boca Medical Center,Microbiology,HCPCS 87880,Streptoccus,$357.66,FL
+West Boca Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$471.79,FL
+West Boca Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$896.81,FL
+West Boca Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$469.10,FL
+West Boca Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$248.12,FL
+West Boca Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$654.68,FL
+West Boca Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$197.12,FL
+West Boca Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,"$3,336.81",FL
+West Boca Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$116.21,FL
+West Boca Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$135.94,FL
+West Boca Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$425.99,FL
+West Boca Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$216.23,FL
+West Boca Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$224.00,FL
+West Boca Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$115.50,FL
+West Boca Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$26,446.04",FL
+West Boca Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$41,152.11",FL
+West Boca Medical Center,Sleep,HCPCS 95810,Sleep study,"$6,590.72",FL
+West Boca Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$221.48,FL
+West Boca Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$292.88,FL
+West Boca Medical Center,Breast,HCPCS 77067,Mammogram Screening,$426.12,FL
+West Boca Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$562.22,FL
+West Boca Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$3,937.45",FL
+West Boca Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$4,171.35",FL
+West Boca Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$3,534.51",FL
+West Boca Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$6,788.90",FL
+West Boca Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$6,255.52",FL
+West Boca Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,263.53",FL
+West Boca Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$4,159.16",FL
+West Boca Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$4,449.00",FL
+West Boca Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$5,455.39",FL
+West Boca Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$3,900.94",FL
+West Boca Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$5,562.07",FL
+West Boca Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$4,416.67",FL
+West Boca Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$7,450.01",FL
+West Boca Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$4,217.16",FL
+West Boca Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$4,374.36",FL
+West Boca Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,362.75",FL
+West Boca Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,257.89",FL
+West Boca Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,868.47",FL
+West Boca Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,115.87",FL
+West Boca Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,"$1,580.38",FL
+West Boca Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,506.14",FL
+West Boca Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,339.94",FL
+West Boca Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$687.09,FL
+West Boca Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$446.13,FL
+West Boca Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$756.75,FL
+West Boca Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$544.55,FL
+West Boca Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$507.20,FL
+West Boca Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$417.07,FL
+West Boca Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$733.16,FL
+West Boca Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$728.70,FL
+West Boca Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$659.12,FL
+West Boca Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$434.61,FL
+West Boca Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$821.47,FL
+West Boca Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$729.79,FL
+West Boca Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,011.25",FL
+West Boca Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$706.00,FL
+West Boca Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$950.12,FL
+West Boca Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$710.46,FL
+West Boca Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$483.32,FL
+West Boca Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$640.81,FL
+West Boca Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$530.83,FL
+West Boca Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$564.56,FL
+West Boca Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$762.14,FL
+West Boca Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$34,360.58",FL
+West Boca Medical Center,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$35,507.35",FL
+West Boca Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$31,008.86",FL
+West Boca Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$16,791.62",FL
+West Boca Medical Center,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$51,382.01",FL
+West Boca Medical Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$42,333.98",FL
+West Boca Medical Center,Breast,HCPCS 19125,Excision of breast lesion,"$23,904.19",FL
+West Boca Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$23,027.50",FL
+West Boca Medical Center,Breast,HCPCS 19301,Partial removal of breast,"$30,530.87",FL
+West Boca Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$12,414.76",FL
+West Boca Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$15,696.98",FL
+West Boca Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$14,696.59",FL
+West Boca Medical Center,Digestive,HCPCS 43235,EGD,"$13,281.48",FL
+West Boca Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$20,879.67",FL
+West Boca Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$44,816.89",FL
+West Boca Medical Center,General,HCPCS 55700,Biopsy of prostate gland,"$30,629.63",FL
+West Boca Medical Center,General,HCPCS 10060,Drainage of Abscess,"$2,214.34",FL
+West Boca Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$9,708.02",FL
+West Boca Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$2,668.63",FL
+West Boca Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$1,457.25",FL
+West Boca Medical Center,Head,HCPCS 69436,Create eardrum opening,"$13,994.18",FL
+West Boca Medical Center,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$19,889.26",FL
+West Boca Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$3,480.35",FL
+West Boca Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$81,129.38",FL
+West Boca Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$26,668.19",FL
+West Boca Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$46,934.61",FL
+West Boca Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$129,597.76",FL
+West Boca Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$188,717.78",FL
+West Boca Medical Center,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$47,541.34",FL
+West Boca Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$20,556.49",FL
+West Boca Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$36,724.79",FL
+West Boca Medical Center,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$31,348.54",FL
+West Boca Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$28,302.49",FL
+West Boca Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$3,579.12",FL

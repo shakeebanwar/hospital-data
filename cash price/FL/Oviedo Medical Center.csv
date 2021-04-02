@@ -1,0 +1,248 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Oviedo Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$3,463.00",FL
+Oviedo Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$7,932.50",FL
+Oviedo Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,"$1,201.50",FL
+Oviedo Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,"$2,100.75",FL
+Oviedo Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,584.50",FL
+Oviedo Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$5,692.75",FL
+Oviedo Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$7,742.75",FL
+Oviedo Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$773.75,FL
+Oviedo Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$773.75,FL
+Oviedo Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$470.50,FL
+Oviedo Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$56.25,FL
+Oviedo Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$93.00,FL
+Oviedo Medical Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$135.75,FL
+Oviedo Medical Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$93.00,FL
+Oviedo Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$164.75,FL
+Oviedo Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$200.25,FL
+Oviedo Medical Center,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$52.50,FL
+Oviedo Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$244.25,FL
+Oviedo Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$47.75,FL
+Oviedo Medical Center,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$71.70,FL
+Oviedo Medical Center,Blood,HCPCS 85660,Red blood cell sickling measurement,$69.50,FL
+Oviedo Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$431.50,FL
+Oviedo Medical Center,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$41.40,FL
+Oviedo Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$13.00,FL
+Oviedo Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$73.25,FL
+Oviedo Medical Center,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$6.00,FL
+Oviedo Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$254.25,FL
+Oviedo Medical Center,Chemistry,HCPCS 82140,Ammonia level,$271.25,FL
+Oviedo Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$135.75,FL
+Oviedo Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$12.00,FL
+Oviedo Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$207.75,FL
+Oviedo Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$35.50,FL
+Oviedo Medical Center,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$10.80,FL
+Oviedo Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$96.50,FL
+Oviedo Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$96.50,FL
+Oviedo Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$162.50,FL
+Oviedo Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$35.50,FL
+Oviedo Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$58.50,FL
+Oviedo Medical Center,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$101.25,FL
+Oviedo Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$58.50,FL
+Oviedo Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$106.25,FL
+Oviedo Medical Center,Chemistry,HCPCS 82310,Calcium level,$106.25,FL
+Oviedo Medical Center,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$58.50,FL
+Oviedo Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$12.00,FL
+Oviedo Medical Center,Chemistry,HCPCS 82465,Cholesterol level,$271.25,FL
+Oviedo Medical Center,Chemistry,HCPCS 82525,Copper level,$5.00,FL
+Oviedo Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$2.80,FL
+Oviedo Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$10.00,FL
+Oviedo Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$294.50,FL
+Oviedo Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$3.50,FL
+Oviedo Medical Center,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$6.00,FL
+Oviedo Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$9.77,FL
+Oviedo Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$163.75,FL
+Oviedo Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$3.50,FL
+Oviedo Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$99.00,FL
+Oviedo Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$222.25,FL
+Oviedo Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$105.00,FL
+Oviedo Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$5.00,FL
+Oviedo Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$4.00,FL
+Oviedo Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$4.50,FL
+Oviedo Medical Center,Chemistry,HCPCS 83718,HDL cholesterol level,$185.75,FL
+Oviedo Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$15.00,FL
+Oviedo Medical Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$19.32,FL
+Oviedo Medical Center,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$44.00,FL
+Oviedo Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$4.14,FL
+Oviedo Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$108.75,FL
+Oviedo Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$105.00,FL
+Oviedo Medical Center,Chemistry,HCPCS 83540,Iron level,$98.00,FL
+Oviedo Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$244.25,FL
+Oviedo Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$285.00,FL
+Oviedo Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$101.25,FL
+Oviedo Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$4.50,FL
+Oviedo Medical Center,Chemistry,HCPCS 83021,Liver function blood test panel,$11.25,FL
+Oviedo Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$101.25,FL
+Oviedo Medical Center,Chemistry,HCPCS 82542,Mass spectrometry,$166.00,FL
+Oviedo Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$23.24,FL
+Oviedo Medical Center,Chemistry,HCPCS 83918,Organic acid level,$315.00,FL
+Oviedo Medical Center,Chemistry,HCPCS 83945,Oxalate level,$111.64,FL
+Oviedo Medical Center,Chemistry,HCPCS 83970,Parathormone,$39.58,FL
+Oviedo Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$294.50,FL
+Oviedo Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$198.00,FL
+Oviedo Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$4.00,FL
+Oviedo Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$6.50,FL
+Oviedo Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$127.25,FL
+Oviedo Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$4.00,FL
+Oviedo Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$4.00,FL
+Oviedo Medical Center,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$106.25,FL
+Oviedo Medical Center,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$30.00,FL
+Oviedo Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$106.25,FL
+Oviedo Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$86.75,FL
+Oviedo Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$294.50,FL
+Oviedo Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$7.00,FL
+Oviedo Medical Center,Chemistry,HCPCS 84560,Uric acid level,$2.65,FL
+Oviedo Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$101.25,FL
+Oviedo Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$4.51,FL
+Oviedo Medical Center,Chemistry,HCPCS 82436,Urine chloride level,$41.50,FL
+Oviedo Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$96.50,FL
+Oviedo Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$112.25,FL
+Oviedo Medical Center,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$5.18,FL
+Oviedo Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$102.75,FL
+Oviedo Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$29.25,FL
+Oviedo Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$35.00,FL
+Oviedo Medical Center,Chemistry,HCPCS 84630,Zinc level,$5.25,FL
+Oviedo Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$18.98,FL
+Oviedo Medical Center,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$5.00,FL
+Oviedo Medical Center,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$3.33,FL
+Oviedo Medical Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$78.00,FL
+Oviedo Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$5.00,FL
+Oviedo Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$7.00,FL
+Oviedo Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$3.00,FL
+Oviedo Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$73.25,FL
+Oviedo Medical Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$10.00,FL
+Oviedo Medical Center,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$16.67,FL
+Oviedo Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$139.50,FL
+Oviedo Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$4.00,FL
+Oviedo Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$3.00,FL
+Oviedo Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$13.16,FL
+Oviedo Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$5.52,FL
+Oviedo Medical Center,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$27.88,FL
+Oviedo Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$140.50,FL
+Oviedo Medical Center,Immunology,HCPCS 86580,Skin test for tuberculosis,$32.75,FL
+Oviedo Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$127.25,FL
+Oviedo Medical Center,Immunology,HCPCS 86361,T cell count and ratio,$113.75,FL
+Oviedo Medical Center,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$50.00,FL
+Oviedo Medical Center,Immunology,HCPCS 86359,"T cells count, total",$26.05,FL
+Oviedo Medical Center,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$8.28,FL
+Oviedo Medical Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$31.75,FL
+Oviedo Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$497.50,FL
+Oviedo Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$497.50,FL
+Oviedo Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$18.00,FL
+Oviedo Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$228.50,FL
+Oviedo Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$162.50,FL
+Oviedo Medical Center,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$50.00,FL
+Oviedo Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$2.50,FL
+Oviedo Medical Center,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$92.00,FL
+Oviedo Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$18.00,FL
+Oviedo Medical Center,Microbiology,HCPCS 87517,Hepatitis B Detection,$90.00,FL
+Oviedo Medical Center,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$18.75,FL
+Oviedo Medical Center,Microbiology,HCPCS 86735,Mumps virus antibody test,$3.00,FL
+Oviedo Medical Center,Microbiology,HCPCS 86747,Parvovirus antibody test,$14.00,FL
+Oviedo Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$3.00,FL
+Oviedo Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$3.50,FL
+Oviedo Medical Center,Microbiology,HCPCS 87207,Smear for infectious agents,$58.73,FL
+Oviedo Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$14.20,FL
+Oviedo Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$31.75,FL
+Oviedo Medical Center,Microbiology,HCPCS 87045,Stool Culture,$497.50,FL
+Oviedo Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$222.25,FL
+Oviedo Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$7.00,FL
+Oviedo Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$4.25,FL
+Oviedo Medical Center,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$61.09,FL
+Oviedo Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$16.00,FL
+Oviedo Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$208.75,FL
+Oviedo Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$251.75,FL
+Oviedo Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$372.50,FL
+Oviedo Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$222.25,FL
+Oviedo Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$231.00,FL
+Oviedo Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$56.25,FL
+Oviedo Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$10.45,FL
+Oviedo Medical Center,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$13.86,FL
+Oviedo Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$99.00,FL
+Oviedo Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$457.25,FL
+Oviedo Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$13.00,FL
+Oviedo Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$101.25,FL
+Oviedo Medical Center,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$101.25,FL
+Oviedo Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$101.25,FL
+Oviedo Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$38.00,FL
+Oviedo Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$139.50,FL
+Oviedo Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$139.50,FL
+Oviedo Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$14.50,FL
+Oviedo Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$108.75,FL
+Oviedo Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$295.00,FL
+Oviedo Medical Center,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$186.75,FL
+Oviedo Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$19.00,FL
+Oviedo Medical Center,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$200.00,FL
+Oviedo Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$29.00,FL
+Oviedo Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$32.75,FL
+Oviedo Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$147.75,FL
+Oviedo Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$73.25,FL
+Oviedo Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$7,059.75",FL
+Oviedo Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$62.25,FL
+Oviedo Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,"$3,121.25",FL
+Oviedo Medical Center,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$1,610.50",FL
+Oviedo Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$2,617.25",FL
+Oviedo Medical Center,Pulmonary,HCPCS 94729,CO Diffusion Capacity,$779.50,FL
+Oviedo Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,$171.25,FL
+Oviedo Medical Center,Pulmonary,HCPCS 94618,Pulmonary stress test,$475.25,FL
+Oviedo Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$62.00,FL
+Oviedo Medical Center,Sleep,HCPCS 95810,Sleep study,"$10,781.25",FL
+Oviedo Medical Center,Breast,HCPCS 77067,Mammogram Screening,$764.75,FL
+Oviedo Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$764.75,FL
+Oviedo Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$10,766.25",FL
+Oviedo Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$11,640.25",FL
+Oviedo Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$11,314.25",FL
+Oviedo Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$7,116.00",FL
+Oviedo Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$17,304.00",FL
+Oviedo Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$17,304.00",FL
+Oviedo Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$17,304.00",FL
+Oviedo Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$11,964.25",FL
+Oviedo Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$13,845.00",FL
+Oviedo Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$11,620.00",FL
+Oviedo Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$11,296.25",FL
+Oviedo Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$11,568.25",FL
+Oviedo Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$7,441.25",FL
+Oviedo Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$7,666.75",FL
+Oviedo Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$4,059.25",FL
+Oviedo Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$4,121.50",FL
+Oviedo Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$13,800.00",FL
+Oviedo Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$4,121.50",FL
+Oviedo Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$13,764.25",FL
+Oviedo Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$7,690.25",FL
+Oviedo Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$16,114.75",FL
+Oviedo Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$13,762.25",FL
+Oviedo Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$2,602.25",FL
+Oviedo Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,817.75",FL
+Oviedo Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$2,693.25",FL
+Oviedo Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$1,812.00",FL
+Oviedo Medical Center,Ultrasound,HCPCS 76881,Ultrasound Joint Soft Tissue - Complete,"$1,103.00",FL
+Oviedo Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$3,737.75",FL
+Oviedo Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,241.50",FL
+Oviedo Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,"$1,294.25",FL
+Oviedo Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$3,099.00",FL
+Oviedo Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$2,776.00",FL
+Oviedo Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views","$6,164.00",FL
+Oviedo Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,"$1,469.75",FL
+Oviedo Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,"$1,429.50",FL
+Oviedo Medical Center,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views","$1,802.25",FL
+Oviedo Medical Center,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views","$1,802.25",FL
+Oviedo Medical Center,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,"$2,185.00",FL
+Oviedo Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views","$1,762.00",FL
+Oviedo Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,"$1,467.25",FL
+Oviedo Medical Center,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views","$1,143.00",FL
+Oviedo Medical Center,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views","$2,858.50",FL
+Oviedo Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$474.00,FL
+Oviedo Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$286.25,FL
+Oviedo Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views","$1,787.00",FL
+Oviedo Medical Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$638.00,FL
+Oviedo Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,"$1,951.00",FL
+Oviedo Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$286.25,FL
+Oviedo Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$2,457.00",FL
+Oviedo Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views","$1,744.00",FL
+Oviedo Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views","$2,953.75",FL
+Oviedo Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views","$1,744.00",FL
+Oviedo Medical Center,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers","$1,755.25",FL
+Oviedo Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,"$2,393.50",FL
+Oviedo Medical Center,Soft Tissue,HCPCS 97602,Non-selective debridement,$476.25,FL
+Oviedo Medical Center,Vascular,HCPCS 36416,Collection of capillary blood specimen,$73.25,FL
+Oviedo Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$536.00,FL

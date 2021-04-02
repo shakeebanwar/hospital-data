@@ -1,0 +1,405 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+AdventHealth Zephyrhills ,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$2,743.90",FL
+AdventHealth Zephyrhills ,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$3,237.11",FL
+AdventHealth Zephyrhills ,Emergency Care,HCPCS 99281,Emergency Level 1,$159.64,FL
+AdventHealth Zephyrhills ,Emergency Care,HCPCS 99282,Emergency Level 2,$409.61,FL
+AdventHealth Zephyrhills ,Emergency Care,HCPCS 99283,Emergency Level 3,$809.61,FL
+AdventHealth Zephyrhills ,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,334.05",FL
+AdventHealth Zephyrhills ,Emergency Care,HCPCS 99285,Emergency Level 5,"$2,514.72",FL
+AdventHealth Zephyrhills ,Hospital,HCPCS 99234,Hospital observation care discharge,$138.00,FL
+AdventHealth Zephyrhills ,Hospital,HCPCS 99219,Hospital observation care typically 30 minutes,$139.00,FL
+AdventHealth Zephyrhills ,Hospital,HCPCS 99235,"Hospital observation or inpatient care moderate severity, 50 minutes per day",$173.00,FL
+AdventHealth Zephyrhills ,Hospital,HCPCS 99218,Hospital Observation per Hour,$103.00,FL
+AdventHealth Zephyrhills ,Hospital,HCPCS 99224,"Subsequent observation care, typically 25 minutes per day",$41.00,FL
+AdventHealth Zephyrhills ,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$135.00,FL
+AdventHealth Zephyrhills ,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$156.00,FL
+AdventHealth Zephyrhills ,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$423.58,FL
+AdventHealth Zephyrhills ,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$604.93,FL
+AdventHealth Zephyrhills ,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$340.18,FL
+AdventHealth Zephyrhills ,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$202.96,FL
+AdventHealth Zephyrhills ,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$240.26,FL
+AdventHealth Zephyrhills ,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$296.21,FL
+AdventHealth Zephyrhills ,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$296.21,FL
+AdventHealth Zephyrhills ,Psychology,HCPCS 90853,Group psychotherapy,$215.04,FL
+AdventHealth Zephyrhills ,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$144.00,FL
+AdventHealth Zephyrhills ,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$71.00,FL
+AdventHealth Zephyrhills ,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$94.00,FL
+AdventHealth Zephyrhills ,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$140.00,FL
+AdventHealth Zephyrhills ,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$327.15,FL
+AdventHealth Zephyrhills ,Speech,HCPCS 92507,Speech Therapy,$216.61,FL
+AdventHealth Zephyrhills ,Speech,HCPCS 92610,Swallow Evaluation,$317.26,FL
+AdventHealth Zephyrhills ,Speech,HCPCS 92526,Swallow Treatment,$292.21,FL
+AdventHealth Zephyrhills ,Blood,HCPCS 85018,"Blood count, hemoglobin",$48.81,FL
+AdventHealth Zephyrhills ,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$61.06,FL
+AdventHealth Zephyrhills ,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$113.82,FL
+AdventHealth Zephyrhills ,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$224.50,FL
+AdventHealth Zephyrhills ,Blood,HCPCS 85610,"Blood test, clotting time",$156.92,FL
+AdventHealth Zephyrhills ,Blood,HCPCS 85730,Coagulation assessment blood test,$167.57,FL
+AdventHealth Zephyrhills ,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$53.26,FL
+AdventHealth Zephyrhills ,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$229.38,FL
+AdventHealth Zephyrhills ,Blood,HCPCS 85027,"Complete blood count, automated",$192.96,FL
+AdventHealth Zephyrhills ,Blood,HCPCS 85008,Microscopic examination for white blood cells,$55.04,FL
+AdventHealth Zephyrhills ,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$124.58,FL
+AdventHealth Zephyrhills ,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$94.82,FL
+AdventHealth Zephyrhills ,Blood,HCPCS 85660,Red blood cell sickling measurement,$45.23,FL
+AdventHealth Zephyrhills ,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$422.86,FL
+AdventHealth Zephyrhills ,Blood,HCPCS 85041,"Red blood count, automated test",$62.97,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$49.88,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$99.34,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82040,Albumin (protein) level,$73.70,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$19.17,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$80.74,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82140,Ammonia level,$238.58,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82150,Amylase (enzyme) level,$204.56,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$37.55,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$260.93,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 84439,Assay of free thyroxine,$130.96,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$41.61,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82248,Bilirubin level (Direct),$115.44,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82247,Bilirubin level (Total),$139.49,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82565,Blood creatinine level,$101.67,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$31.50,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$6.00,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 84132,Blood potassium level,$103.95,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 84295,Blood sodium level,$134.83,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$111.89,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$208.80,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82310,Calcium level,$143.76,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$109.71,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$112.90,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82465,Cholesterol level,$168.68,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82525,Copper level,$31.92,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82533,Cortisol Measurement,$221.82,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 84681,C-peptide (protein) level,$53.55,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$172.33,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$156.56,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$65.00,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$99.04,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$193.51,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82746,Folic acid; serum,$157.51,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$23.94,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$183.77,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$136.78,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$48.38,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$73.62,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$67.32,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 83718,HDL cholesterol level,$113.34,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 83020,Hemoglobin Measurement,$35.82,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$132.37,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$69.89,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$157.03,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 83525,Insulin Measurement; Total,$36.91,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82330,Ionized Calcium,$119.36,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 83550,Iron Binding Capacity,$115.71,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 83540,Iron level,$172.46,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$101.87,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 83721,LDL cholesterol level,$64.48,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$209.96,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$230.42,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$90.32,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 83021,Liver function blood test panel,$58.89,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 83735,Magnesium Level,$119.63,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82542,Mass spectrometry,$78.15,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$37.08,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$31.65,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 83918,Organic acid level,$111.54,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 83945,Oxalate level,$34.93,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 83970,Parathormone,$217.97,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$16.66,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 84157,Prealbumin (protein) level,$134.04,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$29.14,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$86.57,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$27.62,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS A9270,Selenium (vitamin) level,$84.00,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82270,Stool analysis for blood,$60.68,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 84403,Testosterone (hormone) level,$66.40,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 84402,Testosterone Level; Free,$76.20,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$16.62,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$278.93,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$35.54,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 84155,"Total protein level, blood",$139.43,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$39.07,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 84166,Troponin (protein) analysis,$109.01,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 84560,Uric acid level,$116.02,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 84550,"Uric acid level, blood",$142.73,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82340,Urine calcium level,$102.11,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82436,Urine chloride level,$59.72,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$90.16,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$84.42,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$93.76,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 84133,Urine potassium level,$106.04,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 84300,Urine sodium level,$116.83,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 84591,Vitamin B-6 level,$44.15,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$61.02,FL
+AdventHealth Zephyrhills ,Chemistry,HCPCS 84630,Zinc level,$56.52,FL
+AdventHealth Zephyrhills ,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$149.95,FL
+AdventHealth Zephyrhills ,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$37.02,FL
+AdventHealth Zephyrhills ,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$27.66,FL
+AdventHealth Zephyrhills ,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$33.91,FL
+AdventHealth Zephyrhills ,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$97.22,FL
+AdventHealth Zephyrhills ,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$88.87,FL
+AdventHealth Zephyrhills ,Immunology,HCPCS 86318,Covid-19 antibody test,$19.00,FL
+AdventHealth Zephyrhills ,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$37.35,FL
+AdventHealth Zephyrhills ,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$44.12,FL
+AdventHealth Zephyrhills ,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$90.61,FL
+AdventHealth Zephyrhills ,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$38.54,FL
+AdventHealth Zephyrhills ,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$57.48,FL
+AdventHealth Zephyrhills ,Immunology,HCPCS 86140,Measurement C-reactive protein,$101.53,FL
+AdventHealth Zephyrhills ,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$13.43,FL
+AdventHealth Zephyrhills ,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$123.54,FL
+AdventHealth Zephyrhills ,Immunology,HCPCS 86161,Measurement of complement (immune system proteins),$31.62,FL
+AdventHealth Zephyrhills ,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$107.18,FL
+AdventHealth Zephyrhills ,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$54.42,FL
+AdventHealth Zephyrhills ,Immunology,HCPCS 86431,Rheumatoid factor level,$102.14,FL
+AdventHealth Zephyrhills ,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$192.19,FL
+AdventHealth Zephyrhills ,Immunology,HCPCS 86580,Skin test for tuberculosis,$23.08,FL
+AdventHealth Zephyrhills ,Immunology,HCPCS 86592,Syphilis Detection Test,$98.39,FL
+AdventHealth Zephyrhills ,Immunology,HCPCS 86361,T cell count and ratio,$67.20,FL
+AdventHealth Zephyrhills ,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$120.85,FL
+AdventHealth Zephyrhills ,Immunology,HCPCS 86359,"T cells count, total",$20.00,FL
+AdventHealth Zephyrhills ,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$40.90,FL
+AdventHealth Zephyrhills ,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$181.86,FL
+AdventHealth Zephyrhills ,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$140.09,FL
+AdventHealth Zephyrhills ,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$87.86,FL
+AdventHealth Zephyrhills ,Microbiology,HCPCS 87491,Chlamydia Test,$89.27,FL
+AdventHealth Zephyrhills ,Microbiology,HCPCS 87635,Covid-19 current infection test,$52.00,FL
+AdventHealth Zephyrhills ,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$125.02,FL
+AdventHealth Zephyrhills ,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$38.51,FL
+AdventHealth Zephyrhills ,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$110.20,FL
+AdventHealth Zephyrhills ,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$83.68,FL
+AdventHealth Zephyrhills ,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$218.90,FL
+AdventHealth Zephyrhills ,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$88.67,FL
+AdventHealth Zephyrhills ,Microbiology,HCPCS 87517,Hepatitis B Detection,$110.20,FL
+AdventHealth Zephyrhills ,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$61.93,FL
+AdventHealth Zephyrhills ,Microbiology,HCPCS 87624,HPV Detection,$90.26,FL
+AdventHealth Zephyrhills ,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$94.89,FL
+AdventHealth Zephyrhills ,Microbiology,HCPCS 86735,Mumps virus antibody test,$113.87,FL
+AdventHealth Zephyrhills ,Microbiology,HCPCS 86747,Parvovirus antibody test,$38.66,FL
+AdventHealth Zephyrhills ,Microbiology,HCPCS 86762,Rubella virus antibody test,$109.18,FL
+AdventHealth Zephyrhills ,Microbiology,HCPCS 86765,Rubeola virus antibody test,$61.14,FL
+AdventHealth Zephyrhills ,Microbiology,HCPCS 87207,Smear for infectious agents,$84.53,FL
+AdventHealth Zephyrhills ,Microbiology,HCPCS 87177,Smear for Parasites,$110.06,FL
+AdventHealth Zephyrhills ,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$138.24,FL
+AdventHealth Zephyrhills ,Microbiology,HCPCS 87045,Stool Culture,$154.00,FL
+AdventHealth Zephyrhills ,Microbiology,HCPCS 87880,Strep Test,$141.99,FL
+AdventHealth Zephyrhills ,Microbiology,HCPCS 87804,Test for Influenza Virus,$77.31,FL
+AdventHealth Zephyrhills ,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$26.99,FL
+AdventHealth Zephyrhills ,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$48.91,FL
+AdventHealth Zephyrhills ,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$168.13,FL
+AdventHealth Zephyrhills ,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$200.94,FL
+AdventHealth Zephyrhills ,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$261.29,FL
+AdventHealth Zephyrhills ,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$418.58,FL
+AdventHealth Zephyrhills ,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$308.64,FL
+AdventHealth Zephyrhills ,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$385.40,FL
+AdventHealth Zephyrhills ,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$370.42,FL
+AdventHealth Zephyrhills ,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$343.79,FL
+AdventHealth Zephyrhills ,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$121.12,FL
+AdventHealth Zephyrhills ,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$82.80,FL
+AdventHealth Zephyrhills ,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$135.49,FL
+AdventHealth Zephyrhills ,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$107.27,FL
+AdventHealth Zephyrhills ,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$584.79,FL
+AdventHealth Zephyrhills ,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$104.09,FL
+AdventHealth Zephyrhills ,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$99.60,FL
+AdventHealth Zephyrhills ,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$294.68,FL
+AdventHealth Zephyrhills ,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$185.03,FL
+AdventHealth Zephyrhills ,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$94.54,FL
+AdventHealth Zephyrhills ,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$275.55,FL
+AdventHealth Zephyrhills ,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$189.98,FL
+AdventHealth Zephyrhills ,Transfusion,HCPCS 86900,"Blood Typing, ABO",$54.14,FL
+AdventHealth Zephyrhills ,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$54.69,FL
+AdventHealth Zephyrhills ,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$178.01,FL
+AdventHealth Zephyrhills ,Transfusion,HCPCS 86945,"Irradiation blood product, each unit","$1,393.63",FL
+AdventHealth Zephyrhills ,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$116.16,FL
+AdventHealth Zephyrhills ,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$147.24,FL
+AdventHealth Zephyrhills ,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$57.08,FL
+AdventHealth Zephyrhills ,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$23.12,FL
+AdventHealth Zephyrhills ,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$97.98,FL
+AdventHealth Zephyrhills ,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$146.44,FL
+AdventHealth Zephyrhills ,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$196.36,FL
+AdventHealth Zephyrhills ,Cardiovascular,HCPCS 93015,"Cardiovascular stress test, with interpretation and report",$70.00,FL
+AdventHealth Zephyrhills ,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$1,504.20",FL
+AdventHealth Zephyrhills ,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$17.00,FL
+AdventHealth Zephyrhills ,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$387.19,FL
+AdventHealth Zephyrhills ,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$156.85,FL
+AdventHealth Zephyrhills ,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$708.20,FL
+AdventHealth Zephyrhills ,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$9.00,FL
+AdventHealth Zephyrhills ,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$1,959.25",FL
+AdventHealth Zephyrhills ,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$2,161.34",FL
+AdventHealth Zephyrhills ,Pulmonary,HCPCS 94640,Aerosol Treatment,$70.21,FL
+AdventHealth Zephyrhills ,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$235.46,FL
+AdventHealth Zephyrhills ,Pulmonary,HCPCS 94618,Pulmonary stress test,$379.75,FL
+AdventHealth Zephyrhills ,Pulmonary,HCPCS 94010,Spirometry - breathing test,$328.99,FL
+AdventHealth Zephyrhills ,Sleep,HCPCS 95810,Sleep study,"$3,230.50",FL
+AdventHealth Zephyrhills ,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$113.50,FL
+AdventHealth Zephyrhills ,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$266.98,FL
+AdventHealth Zephyrhills ,Breast,HCPCS 77067,Mammogram Screening,$312.56,FL
+AdventHealth Zephyrhills ,Breast,HCPCS 77066,Mammography of both breasts,$287.02,FL
+AdventHealth Zephyrhills ,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,711.17",FL
+AdventHealth Zephyrhills ,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$3,229.73",FL
+AdventHealth Zephyrhills ,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,205.86",FL
+AdventHealth Zephyrhills ,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$3,111.71",FL
+AdventHealth Zephyrhills ,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$6,275.59",FL
+AdventHealth Zephyrhills ,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$6,259.51",FL
+AdventHealth Zephyrhills ,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,873.40",FL
+AdventHealth Zephyrhills ,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$3,231.33",FL
+AdventHealth Zephyrhills ,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$3,739.62",FL
+AdventHealth Zephyrhills ,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,053.89",FL
+AdventHealth Zephyrhills ,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$3,251.56",FL
+AdventHealth Zephyrhills ,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$4,044.14",FL
+AdventHealth Zephyrhills ,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$3,901.84",FL
+AdventHealth Zephyrhills ,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$2,987.05",FL
+AdventHealth Zephyrhills ,MRI,HCPCS 72146,MRI chest spine without contrast material,"$3,105.69",FL
+AdventHealth Zephyrhills ,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$3,038.14",FL
+AdventHealth Zephyrhills ,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$4,376.43",FL
+AdventHealth Zephyrhills ,MRI,HCPCS 72141,MRI neck spine without contrast material,"$3,070.48",FL
+AdventHealth Zephyrhills ,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$4,298.45",FL
+AdventHealth Zephyrhills ,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$4,182.92",FL
+AdventHealth Zephyrhills ,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,921.82",FL
+AdventHealth Zephyrhills ,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,867.22",FL
+AdventHealth Zephyrhills ,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$3,030.48",FL
+AdventHealth Zephyrhills ,MRI,HCPCS 73721,MRI scan of leg joint,"$3,838.24",FL
+AdventHealth Zephyrhills ,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$1,662.45",FL
+AdventHealth Zephyrhills ,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$970.57,FL
+AdventHealth Zephyrhills ,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,402.66",FL
+AdventHealth Zephyrhills ,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,266.26",FL
+AdventHealth Zephyrhills ,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$1,527.55",FL
+AdventHealth Zephyrhills ,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$2,720.13",FL
+AdventHealth Zephyrhills ,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,312.45",FL
+AdventHealth Zephyrhills ,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$928.30,FL
+AdventHealth Zephyrhills ,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,443.94",FL
+AdventHealth Zephyrhills ,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,547.65",FL
+AdventHealth Zephyrhills ,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,"$1,007.43",FL
+AdventHealth Zephyrhills ,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views","$1,141.47",FL
+AdventHealth Zephyrhills ,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$811.10,FL
+AdventHealth Zephyrhills ,Chest,HCPCS 71046,X-ray of chest; 2 Views,$600.48,FL
+AdventHealth Zephyrhills ,Chest,HCPCS 71045,X-ray of chest; Single View,$448.84,FL
+AdventHealth Zephyrhills ,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$487.19,FL
+AdventHealth Zephyrhills ,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views","$1,234.07",FL
+AdventHealth Zephyrhills ,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$625.58,FL
+AdventHealth Zephyrhills ,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$663.25,FL
+AdventHealth Zephyrhills ,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views","$1,140.28",FL
+AdventHealth Zephyrhills ,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$371.27,FL
+AdventHealth Zephyrhills ,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$474.08,FL
+AdventHealth Zephyrhills ,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views","$1,065.02",FL
+AdventHealth Zephyrhills ,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$51.00,FL
+AdventHealth Zephyrhills ,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views","$1,044.74",FL
+AdventHealth Zephyrhills ,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$597.34,FL
+AdventHealth Zephyrhills ,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$524.12,FL
+AdventHealth Zephyrhills ,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$479.68,FL
+AdventHealth Zephyrhills ,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$778.54,FL
+AdventHealth Zephyrhills ,Lower Limbs,HCPCS 73565,X-ray Both Knees,"$1,103.60",FL
+AdventHealth Zephyrhills ,Lower Limbs,HCPCS 73630,X-ray exam of foot,$531.25,FL
+AdventHealth Zephyrhills ,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$689.50,FL
+AdventHealth Zephyrhills ,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$668.45,FL
+AdventHealth Zephyrhills ,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$480.99,FL
+AdventHealth Zephyrhills ,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$448.73,FL
+AdventHealth Zephyrhills ,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$575.15,FL
+AdventHealth Zephyrhills ,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$811.16,FL
+AdventHealth Zephyrhills ,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$661.44,FL
+AdventHealth Zephyrhills ,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,214.88",FL
+AdventHealth Zephyrhills ,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$866.16,FL
+AdventHealth Zephyrhills ,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views","$1,154.63",FL
+AdventHealth Zephyrhills ,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$942.34,FL
+AdventHealth Zephyrhills ,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$587.38,FL
+AdventHealth Zephyrhills ,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$445.59,FL
+AdventHealth Zephyrhills ,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$598.24,FL
+AdventHealth Zephyrhills ,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$524.67,FL
+AdventHealth Zephyrhills ,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$574.34,FL
+AdventHealth Zephyrhills ,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$871.13,FL
+AdventHealth Zephyrhills ,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$619.86,FL
+AdventHealth Zephyrhills ,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$744.73,FL
+AdventHealth Zephyrhills ,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,$384.00,FL
+AdventHealth Zephyrhills ,Abdomenal,HCPCS 47562,Cholecystectomy,$717.00,FL
+AdventHealth Zephyrhills ,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,$774.00,FL
+AdventHealth Zephyrhills ,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,$411.00,FL
+AdventHealth Zephyrhills ,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,$435.00,FL
+AdventHealth Zephyrhills ,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,$210.00,FL
+AdventHealth Zephyrhills ,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),$560.00,FL
+AdventHealth Zephyrhills ,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$433.72,FL
+AdventHealth Zephyrhills ,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$46.00,FL
+AdventHealth Zephyrhills ,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,"$1,673.00",FL
+AdventHealth Zephyrhills ,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),$647.00,FL
+AdventHealth Zephyrhills ,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,$762.00,FL
+AdventHealth Zephyrhills ,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,$461.00,FL
+AdventHealth Zephyrhills ,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,$914.00,FL
+AdventHealth Zephyrhills ,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$1,004.00",FL
+AdventHealth Zephyrhills ,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$19,714.14",FL
+AdventHealth Zephyrhills ,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),$631.00,FL
+AdventHealth Zephyrhills ,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),$477.00,FL
+AdventHealth Zephyrhills ,Breast,HCPCS 19101,Biopsy of breast,$345.00,FL
+AdventHealth Zephyrhills ,Breast,HCPCS 19325,Breast enlargement using prosthetic implant,$675.00,FL
+AdventHealth Zephyrhills ,Breast,HCPCS 19125,Excision of breast lesion,$584.00,FL
+AdventHealth Zephyrhills ,Breast,HCPCS 19120,Excision of cyst of breast,$527.00,FL
+AdventHealth Zephyrhills ,Breast,HCPCS 19301,Partial removal of breast,$705.00,FL
+AdventHealth Zephyrhills ,Breast,HCPCS 19318,Reduction mammaplasty,"$1,153.00",FL
+AdventHealth Zephyrhills ,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$1,291.00",FL
+AdventHealth Zephyrhills ,Breast,HCPCS 19303,Total removal of breast,"$1,030.00",FL
+AdventHealth Zephyrhills ,Cardiac,HCPCS 33249,Defibrillator complete system,"$9,442.67",FL
+AdventHealth Zephyrhills ,Cardiac,HCPCS 33240,Defibrillator generator,"$25,310.14",FL
+AdventHealth Zephyrhills ,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$8,459.55",FL
+AdventHealth Zephyrhills ,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$5,947.54",FL
+AdventHealth Zephyrhills ,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$733.90,FL
+AdventHealth Zephyrhills ,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$10,687.42",FL
+AdventHealth Zephyrhills ,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",$335.00,FL
+AdventHealth Zephyrhills ,Digestive,HCPCS 45380,"Colonoscopy, with biopsy",$428.00,FL
+AdventHealth Zephyrhills ,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal",$477.00,FL
+AdventHealth Zephyrhills ,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)",$448.00,FL
+AdventHealth Zephyrhills ,Digestive,HCPCS 43235,EGD,$280.00,FL
+AdventHealth Zephyrhills ,Digestive,HCPCS 43239,EGD and biopsy,$373.00,FL
+AdventHealth Zephyrhills ,Digestive,HCPCS 43775,Gastric Sleeve (Outpatient),"$1,220.00",FL
+AdventHealth Zephyrhills ,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,$531.00,FL
+AdventHealth Zephyrhills ,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,$504.00,FL
+AdventHealth Zephyrhills ,Digestive,HCPCS 45391,Ultrasound of lower large bowel using an endoscope,$269.00,FL
+AdventHealth Zephyrhills ,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,$918.00,FL
+AdventHealth Zephyrhills ,General,HCPCS 55700,Biopsy of prostate gland,$897.20,FL
+AdventHealth Zephyrhills ,General,HCPCS 10060,Drainage of Abscess,$542.56,FL
+AdventHealth Zephyrhills ,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$432.75,FL
+AdventHealth Zephyrhills ,General,HCPCS 55866,Prostatectomy,"$1,526.00",FL
+AdventHealth Zephyrhills ,General,HCPCS 69200,Removal of foreign body from ear canal,$82.00,FL
+AdventHealth Zephyrhills ,General,HCPCS 60240,Removal of thyroid,$975.00,FL
+AdventHealth Zephyrhills ,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$280.24,FL
+AdventHealth Zephyrhills ,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$176.00,FL
+AdventHealth Zephyrhills ,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$135.63,FL
+AdventHealth Zephyrhills ,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$172.79,FL
+AdventHealth Zephyrhills ,Head,HCPCS 69436,Create eardrum opening,$161.00,FL
+AdventHealth Zephyrhills ,Head,HCPCS 69930,Implantation of cochlear device,"$1,251.00",FL
+AdventHealth Zephyrhills ,Head,HCPCS 67028,Injection of drug into the eye,$102.00,FL
+AdventHealth Zephyrhills ,Head,HCPCS 69631,Repair of eardrum,$893.00,FL
+AdventHealth Zephyrhills ,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),$259.00,FL
+AdventHealth Zephyrhills ,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),$298.00,FL
+AdventHealth Zephyrhills ,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$291.00,FL
+AdventHealth Zephyrhills ,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$1,176.32",FL
+AdventHealth Zephyrhills ,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$1,133.49",FL
+AdventHealth Zephyrhills ,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$1,535.56",FL
+AdventHealth Zephyrhills ,Musculoskeletal,HCPCS 27200,Insertion of Breathing Tube Using an Endoscope,$194.00,FL
+AdventHealth Zephyrhills ,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$894.87,FL
+AdventHealth Zephyrhills ,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,$565.00,FL
+AdventHealth Zephyrhills ,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,$650.00,FL
+AdventHealth Zephyrhills ,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,$379.00,FL
+AdventHealth Zephyrhills ,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,$705.00,FL
+AdventHealth Zephyrhills ,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,$186.00,FL
+AdventHealth Zephyrhills ,Musculoskeletal,HCPCS 22612,Spine arthrodesis,"$1,706.00",FL
+AdventHealth Zephyrhills ,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$280.41,FL
+AdventHealth Zephyrhills ,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,$945.00,FL
+AdventHealth Zephyrhills ,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$1,369.00",FL
+AdventHealth Zephyrhills ,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,$754.00,FL
+AdventHealth Zephyrhills ,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,$690.00,FL
+AdventHealth Zephyrhills ,Obstetrics,HCPCS 58545,Removal of uterine fibroid tumors using an endoscope,$953.00,FL
+AdventHealth Zephyrhills ,Obstetrics,HCPCS 59400,Routine obstetric care,"$2,296.00",FL
+AdventHealth Zephyrhills ,Obstetrics,HCPCS 59510,"Routine obstetric care for cesarean delivery, including pre-and postdelivery care","$2,539.00",FL
+AdventHealth Zephyrhills ,Obstetrics,HCPCS 59610,Routine obstetric care for vaginal delivery after prior cesarean delivery including pre-and post-delivery care,"$2,410.00",FL
+AdventHealth Zephyrhills ,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries",$981.00,FL
+AdventHealth Zephyrhills ,Ocular,HCPCS 66984,Cataract removal,$547.00,FL
+AdventHealth Zephyrhills ,Ocular,HCPCS 66982,Cataract removal with insertion of lens,$751.00,FL
+AdventHealth Zephyrhills ,Ocular,HCPCS 66821,Laser cataract removal,$330.00,FL
+AdventHealth Zephyrhills ,Ocular,HCPCS 67311,Realignment of the eye with repair of eye muscle,$597.00,FL
+AdventHealth Zephyrhills ,Ocular,HCPCS 65426,Removal or relocation of corneal conjunctiva,$659.00,FL
+AdventHealth Zephyrhills ,Ocular,HCPCS 67108,Repair of detached retina,"$1,201.00",FL
+AdventHealth Zephyrhills ,Ocular,HCPCS 65756,Transplant of outer layer of corneal tissue,"$1,186.00",FL
+AdventHealth Zephyrhills ,Soft Tissue,HCPCS 97597,Debridement of open wound,$135.41,FL
+AdventHealth Zephyrhills ,Soft Tissue,HCPCS 97602,Non-selective debridement,$226.38,FL
+AdventHealth Zephyrhills ,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$28.00,FL
+AdventHealth Zephyrhills ,Vascular,HCPCS 36416,Collection of capillary blood specimen,$36.60,FL
+AdventHealth Zephyrhills ,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),$215.00,FL
+AdventHealth Zephyrhills ,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,079.47",FL
+AdventHealth Zephyrhills ,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,910.73",FL

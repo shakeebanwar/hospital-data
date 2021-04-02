@@ -1,0 +1,254 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Jfk Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$2,511.00",FL
+Jfk Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$6,667.00",FL
+Jfk Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$836.00,FL
+Jfk Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,"$1,235.00",FL
+Jfk Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$2,015.00",FL
+Jfk Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$2,866.00",FL
+Jfk Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$4,623.00",FL
+Jfk Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$433.00,FL
+Jfk Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min","$1,155.00",FL
+Jfk Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$344.00,FL
+Jfk Medical Center,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$625.00,FL
+Jfk Medical Center,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$592.00,FL
+Jfk Medical Center,Psychology,HCPCS 90853,Group psychotherapy,$308.00,FL
+Jfk Medical Center,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$582.00,FL
+Jfk Medical Center,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$451.00,FL
+Jfk Medical Center,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$582.00,FL
+Jfk Medical Center,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$582.00,FL
+Jfk Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$119.00,FL
+Jfk Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$119.00,FL
+Jfk Medical Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$29.00,FL
+Jfk Medical Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,"$2,576.00",FL
+Jfk Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$237.00,FL
+Jfk Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$246.00,FL
+Jfk Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$472.00,FL
+Jfk Medical Center,Blood,HCPCS 85008,Microscopic examination for white blood cells,$102.00,FL
+Jfk Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$175.00,FL
+Jfk Medical Center,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$52.00,FL
+Jfk Medical Center,Blood,HCPCS 85660,Red blood cell sickling measurement,"$1,008.00",FL
+Jfk Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$994.00,FL
+Jfk Medical Center,Blood,HCPCS 85041,"Red blood count, automated test",$13.00,FL
+Jfk Medical Center,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$216.00,FL
+Jfk Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$141.00,FL
+Jfk Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$79.00,FL
+Jfk Medical Center,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$52.00,FL
+Jfk Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$62.00,FL
+Jfk Medical Center,Chemistry,HCPCS 82140,Ammonia level,$702.00,FL
+Jfk Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$63.00,FL
+Jfk Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$34.00,FL
+Jfk Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$544.00,FL
+Jfk Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$85.00,FL
+Jfk Medical Center,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$104.00,FL
+Jfk Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$920.00,FL
+Jfk Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$963.00,FL
+Jfk Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$316.00,FL
+Jfk Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$405.00,FL
+Jfk Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$119.00,FL
+Jfk Medical Center,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$769.00,FL
+Jfk Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$119.00,FL
+Jfk Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$216.00,FL
+Jfk Medical Center,Chemistry,HCPCS 82310,Calcium level,$191.00,FL
+Jfk Medical Center,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$129.00,FL
+Jfk Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$494.00,FL
+Jfk Medical Center,Chemistry,HCPCS 82465,Cholesterol level,$523.00,FL
+Jfk Medical Center,Chemistry,HCPCS 82525,Copper level,$121.00,FL
+Jfk Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$58.00,FL
+Jfk Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$76.00,FL
+Jfk Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$280.00,FL
+Jfk Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$123.00,FL
+Jfk Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$133.00,FL
+Jfk Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$49.00,FL
+Jfk Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$126.00,FL
+Jfk Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$35.00,FL
+Jfk Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$888.00,FL
+Jfk Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$29.00,FL
+Jfk Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$67.00,FL
+Jfk Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$67.00,FL
+Jfk Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$104.00,FL
+Jfk Medical Center,Chemistry,HCPCS 83718,HDL cholesterol level,$135.00,FL
+Jfk Medical Center,Chemistry,HCPCS 83020,Hemoglobin Measurement,$56.00,FL
+Jfk Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$259.00,FL
+Jfk Medical Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$99.00,FL
+Jfk Medical Center,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$35.71,FL
+Jfk Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$98.00,FL
+Jfk Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$52.00,FL
+Jfk Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$33.00,FL
+Jfk Medical Center,Chemistry,HCPCS 83540,Iron level,$97.00,FL
+Jfk Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$191.00,FL
+Jfk Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,"$1,445.00",FL
+Jfk Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level","$1,170.00",FL
+Jfk Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$366.00,FL
+Jfk Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$191.00,FL
+Jfk Medical Center,Chemistry,HCPCS 82542,Mass spectrometry,$32.00,FL
+Jfk Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$34.00,FL
+Jfk Medical Center,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$72.00,FL
+Jfk Medical Center,Chemistry,HCPCS 83945,Oxalate level,$82.00,FL
+Jfk Medical Center,Chemistry,HCPCS 83970,Parathormone,$150.00,FL
+Jfk Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$697.00,FL
+Jfk Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$224.00,FL
+Jfk Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$72.00,FL
+Jfk Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$39.00,FL
+Jfk Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$87.00,FL
+Jfk Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$97.00,FL
+Jfk Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$4.00,FL
+Jfk Medical Center,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$173.00,FL
+Jfk Medical Center,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$185.00,FL
+Jfk Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$146.00,FL
+Jfk Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$294.00,FL
+Jfk Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$36.00,FL
+Jfk Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$106.00,FL
+Jfk Medical Center,Chemistry,HCPCS 84560,Uric acid level,$33.00,FL
+Jfk Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$552.00,FL
+Jfk Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$45.00,FL
+Jfk Medical Center,Chemistry,HCPCS 82436,Urine chloride level,$18.00,FL
+Jfk Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$44.00,FL
+Jfk Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$136.00,FL
+Jfk Medical Center,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$97.00,FL
+Jfk Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$38.00,FL
+Jfk Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$21.00,FL
+Jfk Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$280.00,FL
+Jfk Medical Center,Chemistry,HCPCS 84630,Zinc level,$75.00,FL
+Jfk Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$176.00,FL
+Jfk Medical Center,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$112.00,FL
+Jfk Medical Center,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$72.00,FL
+Jfk Medical Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$224.00,FL
+Jfk Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$191.00,FL
+Jfk Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$173.00,FL
+Jfk Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$44.00,FL
+Jfk Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$39.00,FL
+Jfk Medical Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$99.00,FL
+Jfk Medical Center,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$87.00,FL
+Jfk Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$177.00,FL
+Jfk Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$27.00,FL
+Jfk Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$45.00,FL
+Jfk Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$54.00,FL
+Jfk Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$39.00,FL
+Jfk Medical Center,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$778.00,FL
+Jfk Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$623.00,FL
+Jfk Medical Center,Immunology,HCPCS 86580,Skin test for tuberculosis,$102.00,FL
+Jfk Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$245.00,FL
+Jfk Medical Center,Immunology,HCPCS 86361,T cell count and ratio,$203.00,FL
+Jfk Medical Center,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$171.00,FL
+Jfk Medical Center,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$58.00,FL
+Jfk Medical Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$29.00,FL
+Jfk Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$677.00,FL
+Jfk Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$319.00,FL
+Jfk Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$280.00,FL
+Jfk Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$51.66,FL
+Jfk Medical Center,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$40.73,FL
+Jfk Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$383.00,FL
+Jfk Medical Center,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$662.00,FL
+Jfk Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$280.00,FL
+Jfk Medical Center,Microbiology,HCPCS 87517,Hepatitis B Detection,$404.00,FL
+Jfk Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$125.00,FL
+Jfk Medical Center,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$189.00,FL
+Jfk Medical Center,Microbiology,HCPCS 86735,Mumps virus antibody test,$49.00,FL
+Jfk Medical Center,Microbiology,HCPCS 86747,Parvovirus antibody test,$91.00,FL
+Jfk Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$81.00,FL
+Jfk Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$87.00,FL
+Jfk Medical Center,Microbiology,HCPCS 87207,Smear for infectious agents,$697.00,FL
+Jfk Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$35.00,FL
+Jfk Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$158.00,FL
+Jfk Medical Center,Microbiology,HCPCS 87045,Stool Culture,$739.00,FL
+Jfk Medical Center,Microbiology,HCPCS 87880,Strep Test,$156.00,FL
+Jfk Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$156.00,FL
+Jfk Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$49.00,FL
+Jfk Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$110.00,FL
+Jfk Medical Center,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$83.00,FL
+Jfk Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$994.00,FL
+Jfk Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,"$1,238.00",FL
+Jfk Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals","$2,108.00",FL
+Jfk Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$406.00,FL
+Jfk Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,"$1,620.00",FL
+Jfk Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,"$2,042.00",FL
+Jfk Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,"$1,325.00",FL
+Jfk Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$72.00,FL
+Jfk Medical Center,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$65.00,FL
+Jfk Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$163.00,FL
+Jfk Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$793.00,FL
+Jfk Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$11.00,FL
+Jfk Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$27.00,FL
+Jfk Medical Center,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$862.00,FL
+Jfk Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,"$1,256.00",FL
+Jfk Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$91.00,FL
+Jfk Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,"$1,115.00",FL
+Jfk Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$215.00,FL
+Jfk Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$16.00,FL
+Jfk Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$16.00,FL
+Jfk Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,"$1,196.00",FL
+Jfk Medical Center,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$30.00,FL
+Jfk Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$106.00,FL
+Jfk Medical Center,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$220.00,FL
+Jfk Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$31.00,FL
+Jfk Medical Center,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$119.00,FL
+Jfk Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$81.00,FL
+Jfk Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope","$1,043.00",FL
+Jfk Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$160.00,FL
+Jfk Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$4,882.00",FL
+Jfk Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$839.00,FL
+Jfk Medical Center,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,"$3,272.00",FL
+Jfk Medical Center,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$5,931.00",FL
+Jfk Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,890.00",FL
+Jfk Medical Center,Pulmonary,HCPCS 94729,CO Diffusion Capacity,"$1,531.00",FL
+Jfk Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,$351.00,FL
+Jfk Medical Center,Pulmonary,HCPCS 94618,Pulmonary stress test,$422.00,FL
+Jfk Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$397.00,FL
+Jfk Medical Center,Sleep,HCPCS 95810,Sleep study,"$9,457.00",FL
+Jfk Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$77.00,FL
+Jfk Medical Center,Breast,HCPCS 77067,Mammogram Screening,$449.00,FL
+Jfk Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$449.00,FL
+Jfk Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$8,839.00",FL
+Jfk Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$11,494.00",FL
+Jfk Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$10,566.00",FL
+Jfk Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$9,564.00",FL
+Jfk Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$28,944.00",FL
+Jfk Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$25,408.00",FL
+Jfk Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$22,530.00",FL
+Jfk Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$13,019.00",FL
+Jfk Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$13,881.00",FL
+Jfk Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$13,019.00",FL
+Jfk Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$11,006.00",FL
+Jfk Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$12,392.00",FL
+Jfk Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$10,929.00",FL
+Jfk Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$5,276.00",FL
+Jfk Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$4,919.00",FL
+Jfk Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$4,919.00",FL
+Jfk Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$7,031.00",FL
+Jfk Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$4,904.00",FL
+Jfk Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$7,031.00",FL
+Jfk Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$7,291.00",FL
+Jfk Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$7,031.00",FL
+Jfk Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$4,734.00",FL
+Jfk Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$839.00,FL
+Jfk Medical Center,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$629.00,FL
+Jfk Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$2,561.00",FL
+Jfk Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$3,576.00",FL
+Jfk Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$2,579.00",FL
+Jfk Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$4,991.00",FL
+Jfk Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,742.00",FL
+Jfk Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$977.00,FL
+Jfk Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$3,659.00",FL
+Jfk Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$2,725.00",FL
+Jfk Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,"$2,492.00",FL
+Jfk Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$797.00,FL
+Jfk Medical Center,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views","$3,958.00",FL
+Jfk Medical Center,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views","$3,580.00",FL
+Jfk Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views","$3,651.00",FL
+Jfk Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,"$2,757.00",FL
+Jfk Medical Center,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views","$2,796.00",FL
+Jfk Medical Center,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views","$4,128.00",FL
+Jfk Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views","$2,627.00",FL
+Jfk Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views","$2,426.00",FL
+Jfk Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views","$3,034.00",FL
+Jfk Medical Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views","$2,523.00",FL
+Jfk Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$407.00,FL
+Jfk Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views","$3,804.00",FL
+Jfk Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$6,044.00",FL
+Jfk Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views","$4,170.00",FL
+Jfk Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views","$6,639.00",FL
+Jfk Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views","$4,204.00",FL
+Jfk Medical Center,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers","$2,582.00",FL
+Jfk Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$748.00,FL
+Jfk Medical Center,Soft Tissue,HCPCS 97602,Non-selective debridement,$232.00,FL
+Jfk Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$2,211.00",FL

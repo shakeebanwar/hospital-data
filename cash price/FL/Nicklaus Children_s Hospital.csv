@@ -1,0 +1,339 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Nicklaus Children's Hospital,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$743.16,FL
+Nicklaus Children's Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,129.51",FL
+Nicklaus Children's Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$238.69,FL
+Nicklaus Children's Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$382.57,FL
+Nicklaus Children's Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$663.71,FL
+Nicklaus Children's Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,012.10",FL
+Nicklaus Children's Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,380.88",FL
+Nicklaus Children's Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$272.87,FL
+Nicklaus Children's Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$322.48,FL
+Nicklaus Children's Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$223.26,FL
+Nicklaus Children's Hospital,Psychology,HCPCS 90853,Group psychotherapy,$160.97,FL
+Nicklaus Children's Hospital,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$180.26,FL
+Nicklaus Children's Hospital,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$366.58,FL
+Nicklaus Children's Hospital,Speech,HCPCS 92507,Speech Therapy,$159.87,FL
+Nicklaus Children's Hospital,Speech,HCPCS 92610,Swallow Evaluation,$377.61,FL
+Nicklaus Children's Hospital,Speech,HCPCS 92526,Swallow Treatment,$159.87,FL
+Nicklaus Children's Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$47.96,FL
+Nicklaus Children's Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$52.37,FL
+Nicklaus Children's Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$24.26,FL
+Nicklaus Children's Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$55.93,FL
+Nicklaus Children's Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$71.11,FL
+Nicklaus Children's Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$73.32,FL
+Nicklaus Children's Hospital,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$34.00,FL
+Nicklaus Children's Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$79.93,FL
+Nicklaus Children's Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$85.45,FL
+Nicklaus Children's Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$25.50,FL
+Nicklaus Children's Hospital,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$26.16,FL
+Nicklaus Children's Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$39.14,FL
+Nicklaus Children's Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$408.00,FL
+Nicklaus Children's Hospital,Blood,HCPCS 85041,"Red blood count, automated test",$45.21,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$123.48,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$410.68,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$65.05,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$100.33,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$97.02,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 82140,Ammonia level,$38.84,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$50.72,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$178.06,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$88.20,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$31.42,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$94.82,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$60.09,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$34.18,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$15.54,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 84132,Blood potassium level,$36.39,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 84295,Blood sodium level,$66.15,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$68.36,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$46.86,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 82310,Calcium level,$39.14,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$55.68,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$80.78,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 82465,Cholesterol level,$82.14,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 82525,Copper level,$104.74,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$73.02,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$122.93,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$100.88,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$99.78,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$202.86,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$245.31,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$151.60,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$113.56,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$36.39,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$71.11,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$41.95,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$77.68,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$126.24,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$72.77,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 83718,HDL cholesterol level,$122.93,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 83020,Hemoglobin Measurement,$76.08,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$59.04,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$24.81,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$27.79,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$110.25,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$100.88,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$75.52,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 83540,Iron level,$49.62,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$66.15,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$119.07,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$29.22,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$78.83,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$62.14,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$40.16,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 83735,Magnesium Level,$110.25,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$229.32,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$145.53,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$58.99,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 83918,Organic acid level,$353.35,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 83945,Oxalate level,$31.42,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 83970,Parathormone,$160.97,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$69.46,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$143.88,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$96.50,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$27.57,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$70.44,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$353.91,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$84.90,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$250.27,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$24.86,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$93.72,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$36.94,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 84560,Uric acid level,$59.54,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$48.51,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 82340,Urine calcium level,$44.65,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 82436,Urine chloride level,$77.18,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$54.38,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$66.70,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 84133,Urine potassium level,$57.88,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 84300,Urine sodium level,$73.32,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 84591,Vitamin B-6 level,$128.44,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$30.32,FL
+Nicklaus Children's Hospital,Chemistry,HCPCS 84630,Zinc level,$110.80,FL
+Nicklaus Children's Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$18.62,FL
+Nicklaus Children's Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$46.86,FL
+Nicklaus Children's Hospital,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$9.93,FL
+Nicklaus Children's Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$46.86,FL
+Nicklaus Children's Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$53.56,FL
+Nicklaus Children's Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$47.96,FL
+Nicklaus Children's Hospital,Immunology,HCPCS 86318,Covid-19 antibody test,$96.47,FL
+Nicklaus Children's Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$54.03,FL
+Nicklaus Children's Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$45.21,FL
+Nicklaus Children's Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$55.13,FL
+Nicklaus Children's Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$6.62,FL
+Nicklaus Children's Hospital,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$481.43,FL
+Nicklaus Children's Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$38.59,FL
+Nicklaus Children's Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$5.46,FL
+Nicklaus Children's Hospital,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$74.97,FL
+Nicklaus Children's Hospital,Immunology,HCPCS 86161,Measurement of complement (immune system proteins),$257.44,FL
+Nicklaus Children's Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$46.86,FL
+Nicklaus Children's Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$59.40,FL
+Nicklaus Children's Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$16.54,FL
+Nicklaus Children's Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$90.96,FL
+Nicklaus Children's Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$106.12,FL
+Nicklaus Children's Hospital,Immunology,HCPCS 86359,"T cells count, total",$106.12,FL
+Nicklaus Children's Hospital,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$116.32,FL
+Nicklaus Children's Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$20.50,FL
+Nicklaus Children's Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$74.42,FL
+Nicklaus Children's Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$31.67,FL
+Nicklaus Children's Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$95.50,FL
+Nicklaus Children's Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$59.85,FL
+Nicklaus Children's Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$25.91,FL
+Nicklaus Children's Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$40.53,FL
+Nicklaus Children's Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$190.00,FL
+Nicklaus Children's Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$40.53,FL
+Nicklaus Children's Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$260.74,FL
+Nicklaus Children's Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$101.50,FL
+Nicklaus Children's Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$211.13,FL
+Nicklaus Children's Hospital,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$62.85,FL
+Nicklaus Children's Hospital,Microbiology,HCPCS 87624,HPV Detection,$144.00,FL
+Nicklaus Children's Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$91.51,FL
+Nicklaus Children's Hospital,Microbiology,HCPCS 86747,Parvovirus antibody test,$93.72,FL
+Nicklaus Children's Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$101.98,FL
+Nicklaus Children's Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$26.25,FL
+Nicklaus Children's Hospital,Microbiology,HCPCS 87207,Smear for infectious agents,$39.14,FL
+Nicklaus Children's Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$40.80,FL
+Nicklaus Children's Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$32.53,FL
+Nicklaus Children's Hospital,Microbiology,HCPCS 87045,Stool Culture,$111.91,FL
+Nicklaus Children's Hospital,Microbiology,HCPCS 87880,Strep Test,$31.42,FL
+Nicklaus Children's Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$59.54,FL
+Nicklaus Children's Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$94.82,FL
+Nicklaus Children's Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$113.01,FL
+Nicklaus Children's Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$246.38,FL
+Nicklaus Children's Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$46.55,FL
+Nicklaus Children's Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$175.85,FL
+Nicklaus Children's Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$82.69,FL
+Nicklaus Children's Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$227.67,FL
+Nicklaus Children's Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$98.13,FL
+Nicklaus Children's Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$741.43,FL
+Nicklaus Children's Hospital,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$229.32,FL
+Nicklaus Children's Hospital,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$221.05,FL
+Nicklaus Children's Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$124.03,FL
+Nicklaus Children's Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$131.75,FL
+Nicklaus Children's Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$105.84,FL
+Nicklaus Children's Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$61.74,FL
+Nicklaus Children's Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$77.73,FL
+Nicklaus Children's Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$79.38,FL
+Nicklaus Children's Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$120.25,FL
+Nicklaus Children's Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$90.41,FL
+Nicklaus Children's Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$117.97,FL
+Nicklaus Children's Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$24.50,FL
+Nicklaus Children's Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$24.50,FL
+Nicklaus Children's Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$229.87,FL
+Nicklaus Children's Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$24.50,FL
+Nicklaus Children's Hospital,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$25.25,FL
+Nicklaus Children's Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$31.00,FL
+Nicklaus Children's Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$12.68,FL
+Nicklaus Children's Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$21.50,FL
+Nicklaus Children's Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$32.11,FL
+Nicklaus Children's Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$200.66,FL
+Nicklaus Children's Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$228.77,FL
+Nicklaus Children's Hospital,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$50.72,FL
+Nicklaus Children's Hospital,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$853.89,FL
+Nicklaus Children's Hospital,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),$796.01,FL
+Nicklaus Children's Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,$813.65,FL
+Nicklaus Children's Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,$132.58,FL
+Nicklaus Children's Hospital,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$197.90,FL
+Nicklaus Children's Hospital,Pulmonary,HCPCS 94618,Pulmonary stress test,$479.59,FL
+Nicklaus Children's Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$181.92,FL
+Nicklaus Children's Hospital,Sleep,HCPCS 95810,Sleep study,"$2,902.89",FL
+Nicklaus Children's Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,050.69",FL
+Nicklaus Children's Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,146.60",FL
+Nicklaus Children's Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$870.98,FL
+Nicklaus Children's Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$765.14,FL
+Nicklaus Children's Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,852.75",FL
+Nicklaus Children's Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,611.31",FL
+Nicklaus Children's Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,207.79",FL
+Nicklaus Children's Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,180.23",FL
+Nicklaus Children's Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,533.03",FL
+Nicklaus Children's Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,298.20",FL
+Nicklaus Children's Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,202.28",FL
+Nicklaus Children's Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$891.37,FL
+Nicklaus Children's Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,235.35",FL
+Nicklaus Children's Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,074.94",FL
+Nicklaus Children's Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,200.59",FL
+Nicklaus Children's Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,200.59",FL
+Nicklaus Children's Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$3,185.68",FL
+Nicklaus Children's Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,746.68",FL
+Nicklaus Children's Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$2,993.29",FL
+Nicklaus Children's Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,787.12",FL
+Nicklaus Children's Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,739.45",FL
+Nicklaus Children's Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,934.31",FL
+Nicklaus Children's Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,064.43",FL
+Nicklaus Children's Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$1,529.72",FL
+Nicklaus Children's Hospital,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$360.52,FL
+Nicklaus Children's Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$389.19,FL
+Nicklaus Children's Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$879.80,FL
+Nicklaus Children's Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$603.62,FL
+Nicklaus Children's Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$490.06,FL
+Nicklaus Children's Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$321.38,FL
+Nicklaus Children's Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$444.86,FL
+Nicklaus Children's Hospital,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$556.77,FL
+Nicklaus Children's Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$385.88,FL
+Nicklaus Children's Hospital,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$372.10,FL
+Nicklaus Children's Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$319.18,FL
+Nicklaus Children's Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$192.39,FL
+Nicklaus Children's Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$335.71,FL
+Nicklaus Children's Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$273.97,FL
+Nicklaus Children's Hospital,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$476.83,FL
+Nicklaus Children's Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$455.34,FL
+Nicklaus Children's Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$224.36,FL
+Nicklaus Children's Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$349.50,FL
+Nicklaus Children's Hospital,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$334.06,FL
+Nicklaus Children's Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$171.99,FL
+Nicklaus Children's Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$250.82,FL
+Nicklaus Children's Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$254.13,FL
+Nicklaus Children's Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$239.25,FL
+Nicklaus Children's Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$323.59,FL
+Nicklaus Children's Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$200.66,FL
+Nicklaus Children's Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$245.31,FL
+Nicklaus Children's Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$214.99,FL
+Nicklaus Children's Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$240.90,FL
+Nicklaus Children's Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$184.12,FL
+Nicklaus Children's Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$144.98,FL
+Nicklaus Children's Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$183.57,FL
+Nicklaus Children's Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$255.78,FL
+Nicklaus Children's Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$303.19,FL
+Nicklaus Children's Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$367.14,FL
+Nicklaus Children's Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$292.72,FL
+Nicklaus Children's Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$382.57,FL
+Nicklaus Children's Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$250.82,FL
+Nicklaus Children's Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$282.79,FL
+Nicklaus Children's Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$160.97,FL
+Nicklaus Children's Hospital,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$286.65,FL
+Nicklaus Children's Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$177.51,FL
+Nicklaus Children's Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$183.57,FL
+Nicklaus Children's Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$192.94,FL
+Nicklaus Children's Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$214.44,FL
+Nicklaus Children's Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$297.13,FL
+Nicklaus Children's Hospital,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$22,360.50",FL
+Nicklaus Children's Hospital,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$3,294.59",FL
+Nicklaus Children's Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$6,835.21",FL
+Nicklaus Children's Hospital,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$7,120.71",FL
+Nicklaus Children's Hospital,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,"$4,658.39",FL
+Nicklaus Children's Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$5,806.57",FL
+Nicklaus Children's Hospital,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$2,688.89",FL
+Nicklaus Children's Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$2,636.64",FL
+Nicklaus Children's Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$210.58,FL
+Nicklaus Children's Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$210.58,FL
+Nicklaus Children's Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$27,149.07",FL
+Nicklaus Children's Hospital,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$4,085.42",FL
+Nicklaus Children's Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$3,700.11",FL
+Nicklaus Children's Hospital,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$3,376.79",FL
+Nicklaus Children's Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$3,775.50",FL
+Nicklaus Children's Hospital,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$1,647.30",FL
+Nicklaus Children's Hospital,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$2,743.94",FL
+Nicklaus Children's Hospital,Breast,HCPCS 19325,Breast enlargement using prosthetic implant,"$4,356.69",FL
+Nicklaus Children's Hospital,Breast,HCPCS 19120,Excision of cyst of breast,"$3,057.68",FL
+Nicklaus Children's Hospital,Breast,HCPCS 19318,Reduction mammaplasty,"$5,412.68",FL
+Nicklaus Children's Hospital,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,"$74,213.66",FL
+Nicklaus Children's Hospital,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),"$623,696.23",FL
+Nicklaus Children's Hospital,Cardiac,HCPCS 33249,Defibrillator complete system,"$4,383.54",FL
+Nicklaus Children's Hospital,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$4,658.07",FL
+Nicklaus Children's Hospital,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$2,852.17",FL
+Nicklaus Children's Hospital,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$319.73,FL
+Nicklaus Children's Hospital,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$4,207.69",FL
+Nicklaus Children's Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",$611.72,FL
+Nicklaus Children's Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,104.37",FL
+Nicklaus Children's Hospital,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,509.90",FL
+Nicklaus Children's Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,163.51",FL
+Nicklaus Children's Hospital,Digestive,HCPCS 43235,EGD,"$3,504.74",FL
+Nicklaus Children's Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$1,353.59",FL
+Nicklaus Children's Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$21,029.40",FL
+Nicklaus Children's Hospital,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$4,159.75",FL
+Nicklaus Children's Hospital,General,HCPCS 10060,Drainage of Abscess,$465.15,FL
+Nicklaus Children's Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$229.61,FL
+Nicklaus Children's Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$144.43,FL
+Nicklaus Children's Hospital,General,HCPCS 60240,Removal of thyroid,"$13,286.44",FL
+Nicklaus Children's Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$248.07,FL
+Nicklaus Children's Hospital,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$267.36,FL
+Nicklaus Children's Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$248.07,FL
+Nicklaus Children's Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$248.07,FL
+Nicklaus Children's Hospital,Head,HCPCS 69436,Create eardrum opening,"$1,738.80",FL
+Nicklaus Children's Hospital,Head,HCPCS 69930,Implantation of cochlear device,"$44,879.01",FL
+Nicklaus Children's Hospital,Head,HCPCS 67028,Injection of drug into the eye,$492.77,FL
+Nicklaus Children's Hospital,Head,HCPCS 69631,Repair of eardrum,"$5,394.47",FL
+Nicklaus Children's Hospital,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$2,079.90",FL
+Nicklaus Children's Hospital,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$1,571.75",FL
+Nicklaus Children's Hospital,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,"$2,409.81",FL
+Nicklaus Children's Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$858.30,FL
+Nicklaus Children's Hospital,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,$858.30,FL
+Nicklaus Children's Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$1,305.01",FL
+Nicklaus Children's Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$671.43,FL
+Nicklaus Children's Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$127,700.41",FL
+Nicklaus Children's Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$3,585.12",FL
+Nicklaus Children's Hospital,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$2,357.29",FL
+Nicklaus Children's Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$101,465.42",FL
+Nicklaus Children's Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$12,976.16",FL
+Nicklaus Children's Hospital,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$5,251.47",FL
+Nicklaus Children's Hospital,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$5,520.51",FL
+Nicklaus Children's Hospital,Ocular,HCPCS 66984,Cataract removal,"$7,273.63",FL
+Nicklaus Children's Hospital,Ocular,HCPCS 66982,Cataract removal with insertion of lens,"$7,753.90",FL
+Nicklaus Children's Hospital,Ocular,HCPCS 67311,Realignment of the eye with repair of eye muscle,"$2,229.08",FL
+Nicklaus Children's Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$223.74,FL
+Nicklaus Children's Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$127.10,FL
+Nicklaus Children's Hospital,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$143.33,FL
+Nicklaus Children's Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$18.45,FL
+Nicklaus Children's Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,206.69",FL
+Nicklaus Children's Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$654.94,FL
+Nicklaus Children's Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,097.54",FL

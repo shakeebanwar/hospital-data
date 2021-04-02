@@ -1,0 +1,591 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State,plan_name,price
+Brookwood Baptist Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$44,620.48",AK,Multiplan hmo,50569.87
+Brookwood Baptist Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$44,620.48",AK,Multiplan pos,50569.87
+Brookwood Baptist Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$44,620.48",AK,Multiplan ppo,50569.87
+Brookwood Baptist Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$44,620.48",AK,VIVA Health ppo,5354.46
+Brookwood Baptist Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$44,620.48",AK,VIVA Health hmo,5354.46
+Brookwood Baptist Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$33,502.34",AK,Multiplan hmo,37969.32
+Brookwood Baptist Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$33,502.34",AK,Multiplan pos,37969.32
+Brookwood Baptist Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$33,502.34",AK,Multiplan ppo,37969.32
+Brookwood Baptist Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$33,502.34",AK,VIVA Health ppo,4020.28
+Brookwood Baptist Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$33,502.34",AK,VIVA Health hmo,4020.28
+Brookwood Baptist Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$545.25,AK,Multiplan hmo,617.95
+Brookwood Baptist Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$545.25,AK,Multiplan pos,617.95
+Brookwood Baptist Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$545.25,AK,Multiplan ppo,617.95
+Brookwood Baptist Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$545.25,AK,VIVA Health ppo,65.43
+Brookwood Baptist Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$545.25,AK,VIVA Health hmo,65.43
+Brookwood Baptist Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$2,881.93",AK,Multiplan hmo,3266.18
+Brookwood Baptist Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$2,881.93",AK,Multiplan pos,3266.18
+Brookwood Baptist Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$2,881.93",AK,Multiplan ppo,3266.18
+Brookwood Baptist Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$2,881.93",AK,VIVA Health ppo,345.83
+Brookwood Baptist Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$2,881.93",AK,VIVA Health hmo,345.83
+Brookwood Baptist Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$7,034.39",AK,Multiplan hmo,7972.31
+Brookwood Baptist Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$7,034.39",AK,Multiplan pos,7972.31
+Brookwood Baptist Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$7,034.39",AK,Multiplan ppo,7972.31
+Brookwood Baptist Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$7,034.39",AK,VIVA Health ppo,844.13
+Brookwood Baptist Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$7,034.39",AK,VIVA Health hmo,844.13
+Brookwood Baptist Medical Center,Hospital,HCPCS 99218,Hospital Observation per Hour,"$35,853.20",AK,Multiplan hmo,40633.63
+Brookwood Baptist Medical Center,Hospital,HCPCS 99218,Hospital Observation per Hour,"$35,853.20",AK,Multiplan pos,40633.63
+Brookwood Baptist Medical Center,Hospital,HCPCS 99218,Hospital Observation per Hour,"$35,853.20",AK,Multiplan ppo,40633.63
+Brookwood Baptist Medical Center,Hospital,HCPCS 99218,Hospital Observation per Hour,"$35,853.20",AK,VIVA Health ppo,4302.38
+Brookwood Baptist Medical Center,Hospital,HCPCS 99218,Hospital Observation per Hour,"$35,853.20",AK,VIVA Health hmo,4302.38
+Brookwood Baptist Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min","$8,661.91",AK,Multiplan hmo,9816.83
+Brookwood Baptist Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min","$8,661.91",AK,Multiplan pos,9816.83
+Brookwood Baptist Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min","$8,661.91",AK,Multiplan ppo,9816.83
+Brookwood Baptist Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min","$8,661.91",AK,VIVA Health ppo,1039.43
+Brookwood Baptist Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min","$8,661.91",AK,VIVA Health hmo,1039.43
+Brookwood Baptist Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$69,549.75",AK,Multiplan hmo,78823.05
+Brookwood Baptist Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$69,549.75",AK,Multiplan pos,78823.05
+Brookwood Baptist Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$69,549.75",AK,Multiplan ppo,78823.05
+Brookwood Baptist Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$69,549.75",AK,VIVA Health ppo,8345.97
+Brookwood Baptist Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$69,549.75",AK,VIVA Health hmo,8345.97
+Brookwood Baptist Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$148.03,AK,Multiplan hmo,167.76
+Brookwood Baptist Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$148.03,AK,Multiplan pos,167.76
+Brookwood Baptist Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$148.03,AK,Multiplan ppo,167.76
+Brookwood Baptist Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$148.03,AK,VIVA Health ppo,92.76
+Brookwood Baptist Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$148.03,AK,VIVA Health hmo,92.76
+Brookwood Baptist Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$70.57,AK,Multiplan hmo,79.98
+Brookwood Baptist Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$70.57,AK,Multiplan pos,79.98
+Brookwood Baptist Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$70.57,AK,Multiplan ppo,79.98
+Brookwood Baptist Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$70.57,AK,VIVA Health ppo,8.18
+Brookwood Baptist Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$70.57,AK,VIVA Health hmo,8.18
+Brookwood Baptist Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$124.41,AK,Multiplan hmo,141.00
+Brookwood Baptist Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$124.41,AK,Multiplan pos,141.00
+Brookwood Baptist Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$124.41,AK,Multiplan ppo,141.00
+Brookwood Baptist Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$124.41,AK,VIVA Health ppo,77.96
+Brookwood Baptist Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$124.41,AK,VIVA Health hmo,77.96
+Brookwood Baptist Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$199.07,AK,Multiplan hmo,225.61
+Brookwood Baptist Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$199.07,AK,Multiplan pos,225.61
+Brookwood Baptist Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$199.07,AK,Multiplan ppo,225.61
+Brookwood Baptist Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$199.07,AK,VIVA Health ppo,124.75
+Brookwood Baptist Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$199.07,AK,VIVA Health hmo,124.75
+Brookwood Baptist Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$741.10,AK,Multiplan hmo,839.91
+Brookwood Baptist Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$741.10,AK,Multiplan pos,839.91
+Brookwood Baptist Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$741.10,AK,Multiplan ppo,839.91
+Brookwood Baptist Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$741.10,AK,VIVA Health ppo,228.60
+Brookwood Baptist Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$741.10,AK,VIVA Health hmo,228.60
+Brookwood Baptist Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$88.35,AK,Multiplan hmo,100.13
+Brookwood Baptist Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$88.35,AK,Multiplan pos,100.13
+Brookwood Baptist Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$88.35,AK,Multiplan ppo,100.13
+Brookwood Baptist Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$88.35,AK,VIVA Health ppo,55.37
+Brookwood Baptist Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$88.35,AK,VIVA Health hmo,55.37
+Brookwood Baptist Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$19,802.69",AK,Multiplan hmo,22443.04
+Brookwood Baptist Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$19,802.69",AK,Multiplan pos,22443.04
+Brookwood Baptist Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$19,802.69",AK,Multiplan ppo,22443.04
+Brookwood Baptist Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$19,802.69",AK,VIVA Health ppo,2376.32
+Brookwood Baptist Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$19,802.69",AK,VIVA Health hmo,2376.32
+Brookwood Baptist Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$360.40,AK,Multiplan hmo,408.45
+Brookwood Baptist Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$360.40,AK,Multiplan pos,408.45
+Brookwood Baptist Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$360.40,AK,Multiplan ppo,408.45
+Brookwood Baptist Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$360.40,AK,VIVA Health ppo,225.85
+Brookwood Baptist Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$360.40,AK,VIVA Health hmo,225.85
+Brookwood Baptist Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$192.50,AK,Multiplan hmo,218.16
+Brookwood Baptist Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$192.50,AK,Multiplan pos,218.16
+Brookwood Baptist Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$192.50,AK,Multiplan ppo,218.16
+Brookwood Baptist Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$192.50,AK,VIVA Health ppo,120.63
+Brookwood Baptist Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$192.50,AK,VIVA Health hmo,120.63
+Brookwood Baptist Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$271.51,AK,Multiplan hmo,307.71
+Brookwood Baptist Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$271.51,AK,Multiplan pos,307.71
+Brookwood Baptist Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$271.51,AK,Multiplan ppo,307.71
+Brookwood Baptist Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$271.51,AK,VIVA Health ppo,170.14
+Brookwood Baptist Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$271.51,AK,VIVA Health hmo,170.14
+Brookwood Baptist Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$124.18,AK,Multiplan hmo,140.73
+Brookwood Baptist Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$124.18,AK,Multiplan pos,140.73
+Brookwood Baptist Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$124.18,AK,Multiplan ppo,140.73
+Brookwood Baptist Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$124.18,AK,VIVA Health ppo,77.82
+Brookwood Baptist Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$124.18,AK,VIVA Health hmo,77.82
+Brookwood Baptist Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$198.77,AK,Multiplan hmo,225.28
+Brookwood Baptist Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$198.77,AK,Multiplan pos,225.28
+Brookwood Baptist Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$198.77,AK,Multiplan ppo,225.28
+Brookwood Baptist Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$198.77,AK,VIVA Health ppo,124.56
+Brookwood Baptist Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$198.77,AK,VIVA Health hmo,124.56
+Brookwood Baptist Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$172.52,AK,Multiplan hmo,195.52
+Brookwood Baptist Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$172.52,AK,Multiplan pos,195.52
+Brookwood Baptist Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$172.52,AK,Multiplan ppo,195.52
+Brookwood Baptist Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$172.52,AK,VIVA Health ppo,108.11
+Brookwood Baptist Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$172.52,AK,VIVA Health hmo,108.11
+Brookwood Baptist Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$172.92,AK,Multiplan hmo,195.98
+Brookwood Baptist Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$172.92,AK,Multiplan pos,195.98
+Brookwood Baptist Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$172.92,AK,Multiplan ppo,195.98
+Brookwood Baptist Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$172.92,AK,VIVA Health ppo,108.36
+Brookwood Baptist Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$172.92,AK,VIVA Health hmo,108.36
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$478.99,AK,Multiplan hmo,542.85
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$478.99,AK,Multiplan pos,542.85
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$478.99,AK,Multiplan ppo,542.85
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$478.99,AK,VIVA Health ppo,300.17
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$478.99,AK,VIVA Health hmo,300.17
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$90.01,AK,Multiplan hmo,102.01
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$90.01,AK,Multiplan pos,102.01
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$90.01,AK,Multiplan ppo,102.01
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$90.01,AK,VIVA Health ppo,56.40
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$90.01,AK,VIVA Health hmo,56.40
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83540,Iron level,$140.28,AK,Multiplan hmo,158.98
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83540,Iron level,$140.28,AK,Multiplan pos,158.98
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83540,Iron level,$140.28,AK,Multiplan ppo,158.98
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83540,Iron level,$140.28,AK,VIVA Health ppo,87.91
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83540,Iron level,$140.28,AK,VIVA Health hmo,87.91
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$106.19,AK,Multiplan hmo,120.34
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$106.19,AK,Multiplan pos,120.34
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$106.19,AK,Multiplan ppo,120.34
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$106.19,AK,VIVA Health ppo,66.54
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$106.19,AK,VIVA Health hmo,66.54
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$305.91,AK,Multiplan hmo,346.70
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$305.91,AK,Multiplan pos,346.70
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$305.91,AK,Multiplan ppo,346.70
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$305.91,AK,VIVA Health ppo,191.70
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$305.91,AK,VIVA Health hmo,191.70
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$140.39,AK,Multiplan hmo,159.11
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$140.39,AK,Multiplan pos,159.11
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$140.39,AK,Multiplan ppo,159.11
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$140.39,AK,VIVA Health ppo,87.98
+Brookwood Baptist Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$140.39,AK,VIVA Health hmo,87.98
+Brookwood Baptist Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$72.80,AK,Multiplan hmo,82.50
+Brookwood Baptist Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$72.80,AK,Multiplan pos,82.50
+Brookwood Baptist Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$72.80,AK,Multiplan ppo,82.50
+Brookwood Baptist Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$72.80,AK,VIVA Health ppo,45.62
+Brookwood Baptist Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$72.80,AK,VIVA Health hmo,45.62
+Brookwood Baptist Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$222.78,AK,Multiplan hmo,252.48
+Brookwood Baptist Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$222.78,AK,Multiplan pos,252.48
+Brookwood Baptist Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$222.78,AK,Multiplan ppo,252.48
+Brookwood Baptist Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$222.78,AK,VIVA Health ppo,139.61
+Brookwood Baptist Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$222.78,AK,VIVA Health hmo,139.61
+Brookwood Baptist Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$316.50,AK,Multiplan hmo,358.70
+Brookwood Baptist Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$316.50,AK,Multiplan pos,358.70
+Brookwood Baptist Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$316.50,AK,Multiplan ppo,358.70
+Brookwood Baptist Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$316.50,AK,VIVA Health ppo,198.34
+Brookwood Baptist Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$316.50,AK,VIVA Health hmo,198.34
+Brookwood Baptist Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$158.27,AK,Multiplan hmo,179.38
+Brookwood Baptist Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$158.27,AK,Multiplan pos,179.38
+Brookwood Baptist Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$158.27,AK,Multiplan ppo,179.38
+Brookwood Baptist Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$158.27,AK,VIVA Health ppo,99.18
+Brookwood Baptist Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$158.27,AK,VIVA Health hmo,99.18
+Brookwood Baptist Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$302.27,AK,Multiplan hmo,342.58
+Brookwood Baptist Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$302.27,AK,Multiplan pos,342.58
+Brookwood Baptist Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$302.27,AK,Multiplan ppo,342.58
+Brookwood Baptist Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$302.27,AK,VIVA Health ppo,189.42
+Brookwood Baptist Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$302.27,AK,VIVA Health hmo,189.42
+Brookwood Baptist Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$192.07,AK,Multiplan hmo,217.68
+Brookwood Baptist Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$192.07,AK,Multiplan pos,217.68
+Brookwood Baptist Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$192.07,AK,Multiplan ppo,217.68
+Brookwood Baptist Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$192.07,AK,VIVA Health ppo,120.36
+Brookwood Baptist Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$192.07,AK,VIVA Health hmo,120.36
+Brookwood Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$322.87,AK,Multiplan hmo,365.92
+Brookwood Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$322.87,AK,Multiplan pos,365.92
+Brookwood Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$322.87,AK,Multiplan ppo,365.92
+Brookwood Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$322.87,AK,VIVA Health ppo,76.87
+Brookwood Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$322.87,AK,VIVA Health hmo,76.87
+Brookwood Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$463.52,AK,Multiplan hmo,525.33
+Brookwood Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$463.52,AK,Multiplan pos,525.33
+Brookwood Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$463.52,AK,Multiplan ppo,525.33
+Brookwood Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$463.52,AK,VIVA Health ppo,290.47
+Brookwood Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$463.52,AK,VIVA Health hmo,290.47
+Brookwood Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$428.34,AK,Multiplan hmo,485.45
+Brookwood Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$428.34,AK,Multiplan pos,485.45
+Brookwood Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$428.34,AK,Multiplan ppo,485.45
+Brookwood Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$428.34,AK,VIVA Health ppo,268.43
+Brookwood Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$428.34,AK,VIVA Health hmo,268.43
+Brookwood Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$321.90,AK,Multiplan hmo,364.82
+Brookwood Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$321.90,AK,Multiplan pos,364.82
+Brookwood Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$321.90,AK,Multiplan ppo,364.82
+Brookwood Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$321.90,AK,VIVA Health ppo,201.72
+Brookwood Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$321.90,AK,VIVA Health hmo,201.72
+Brookwood Baptist Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$205.33,AK,Multiplan hmo,232.70
+Brookwood Baptist Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$205.33,AK,Multiplan pos,232.70
+Brookwood Baptist Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$205.33,AK,Multiplan ppo,232.70
+Brookwood Baptist Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$205.33,AK,VIVA Health ppo,128.67
+Brookwood Baptist Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$205.33,AK,VIVA Health hmo,128.67
+Brookwood Baptist Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$207.56,AK,Multiplan hmo,235.24
+Brookwood Baptist Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$207.56,AK,Multiplan pos,235.24
+Brookwood Baptist Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$207.56,AK,Multiplan ppo,235.24
+Brookwood Baptist Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$207.56,AK,VIVA Health ppo,130.07
+Brookwood Baptist Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$207.56,AK,VIVA Health hmo,130.07
+Brookwood Baptist Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$143.31,AK,Multiplan hmo,162.42
+Brookwood Baptist Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$143.31,AK,Multiplan pos,162.42
+Brookwood Baptist Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$143.31,AK,Multiplan ppo,162.42
+Brookwood Baptist Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$143.31,AK,VIVA Health ppo,89.81
+Brookwood Baptist Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$143.31,AK,VIVA Health hmo,89.81
+Brookwood Baptist Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$149.48,AK,Multiplan hmo,169.41
+Brookwood Baptist Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$149.48,AK,Multiplan pos,169.41
+Brookwood Baptist Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$149.48,AK,Multiplan ppo,169.41
+Brookwood Baptist Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$149.48,AK,VIVA Health ppo,93.68
+Brookwood Baptist Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$149.48,AK,VIVA Health hmo,93.68
+Brookwood Baptist Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$194.66,AK,Multiplan hmo,220.62
+Brookwood Baptist Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$194.66,AK,Multiplan pos,220.62
+Brookwood Baptist Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$194.66,AK,Multiplan ppo,220.62
+Brookwood Baptist Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$194.66,AK,VIVA Health ppo,121.99
+Brookwood Baptist Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$194.66,AK,VIVA Health hmo,121.99
+Brookwood Baptist Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$451.07,AK,Multiplan hmo,511.21
+Brookwood Baptist Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$451.07,AK,Multiplan pos,511.21
+Brookwood Baptist Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$451.07,AK,Multiplan ppo,511.21
+Brookwood Baptist Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$451.07,AK,VIVA Health ppo,65.75
+Brookwood Baptist Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$451.07,AK,VIVA Health hmo,65.75
+Brookwood Baptist Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$15,287.04",AK,Multiplan hmo,17325.31
+Brookwood Baptist Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$15,287.04",AK,Multiplan pos,17325.31
+Brookwood Baptist Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$15,287.04",AK,Multiplan ppo,17325.31
+Brookwood Baptist Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$15,287.04",AK,VIVA Health ppo,2564.75
+Brookwood Baptist Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$15,287.04",AK,VIVA Health hmo,2564.75
+Brookwood Baptist Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$72,750.46",AK,Multiplan hmo,82450.52
+Brookwood Baptist Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$72,750.46",AK,Multiplan pos,82450.52
+Brookwood Baptist Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$72,750.46",AK,Multiplan ppo,82450.52
+Brookwood Baptist Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$72,750.46",AK,VIVA Health ppo,6548.03
+Brookwood Baptist Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$72,750.46",AK,VIVA Health hmo,6548.03
+Brookwood Baptist Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,007.26",AK,Multiplan hmo,1141.56
+Brookwood Baptist Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,007.26",AK,Multiplan pos,1141.56
+Brookwood Baptist Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,007.26",AK,Multiplan ppo,1141.56
+Brookwood Baptist Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,007.26",AK,VIVA Health ppo,174.59
+Brookwood Baptist Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,007.26",AK,VIVA Health hmo,174.59
+Brookwood Baptist Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$90,089.89",AK,Multiplan hmo,102101.87
+Brookwood Baptist Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$90,089.89",AK,Multiplan pos,102101.87
+Brookwood Baptist Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$90,089.89",AK,Multiplan ppo,102101.87
+Brookwood Baptist Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$90,089.89",AK,VIVA Health ppo,10810.79
+Brookwood Baptist Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$90,089.89",AK,VIVA Health hmo,10810.79
+Brookwood Baptist Medical Center,Sleep,HCPCS 95810,Sleep study,"$9,333.38",AK,Multiplan hmo,10577.83
+Brookwood Baptist Medical Center,Sleep,HCPCS 95810,Sleep study,"$9,333.38",AK,Multiplan pos,10577.83
+Brookwood Baptist Medical Center,Sleep,HCPCS 95810,Sleep study,"$9,333.38",AK,Multiplan ppo,10577.83
+Brookwood Baptist Medical Center,Sleep,HCPCS 95810,Sleep study,"$9,333.38",AK,VIVA Health ppo,1368.90
+Brookwood Baptist Medical Center,Sleep,HCPCS 95810,Sleep study,"$9,333.38",AK,VIVA Health hmo,1368.90
+Brookwood Baptist Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$3,277.49",AK,Multiplan hmo,3714.48
+Brookwood Baptist Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$3,277.49",AK,Multiplan pos,3714.48
+Brookwood Baptist Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$3,277.49",AK,Multiplan ppo,3714.48
+Brookwood Baptist Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$3,277.49",AK,VIVA Health ppo,568.10
+Brookwood Baptist Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$3,277.49",AK,VIVA Health hmo,568.10
+Brookwood Baptist Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$5,420.39",AK,Multiplan hmo,6143.10
+Brookwood Baptist Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$5,420.39",AK,Multiplan pos,6143.10
+Brookwood Baptist Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$5,420.39",AK,Multiplan ppo,6143.10
+Brookwood Baptist Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$5,420.39",AK,VIVA Health ppo,939.53
+Brookwood Baptist Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$5,420.39",AK,VIVA Health hmo,939.53
+Brookwood Baptist Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$3,695.33",AK,Multiplan hmo,4188.04
+Brookwood Baptist Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$3,695.33",AK,Multiplan pos,4188.04
+Brookwood Baptist Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$3,695.33",AK,Multiplan ppo,4188.04
+Brookwood Baptist Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$3,695.33",AK,VIVA Health ppo,640.52
+Brookwood Baptist Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$3,695.33",AK,VIVA Health hmo,640.52
+Brookwood Baptist Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$10,280.42",AK,Multiplan hmo,11651.15
+Brookwood Baptist Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$10,280.42",AK,Multiplan pos,11651.15
+Brookwood Baptist Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$10,280.42",AK,Multiplan ppo,11651.15
+Brookwood Baptist Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$10,280.42",AK,VIVA Health ppo,1781.94
+Brookwood Baptist Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$10,280.42",AK,VIVA Health hmo,1781.94
+Brookwood Baptist Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$8,303.45",AK,Multiplan hmo,9410.57
+Brookwood Baptist Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$8,303.45",AK,Multiplan pos,9410.57
+Brookwood Baptist Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$8,303.45",AK,Multiplan ppo,9410.57
+Brookwood Baptist Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$8,303.45",AK,VIVA Health ppo,1439.26
+Brookwood Baptist Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$8,303.45",AK,VIVA Health hmo,1439.26
+Brookwood Baptist Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,273.73",AK,Multiplan hmo,4843.56
+Brookwood Baptist Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,273.73",AK,Multiplan pos,4843.56
+Brookwood Baptist Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,273.73",AK,Multiplan ppo,4843.56
+Brookwood Baptist Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,273.73",AK,VIVA Health ppo,740.78
+Brookwood Baptist Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,273.73",AK,VIVA Health hmo,740.78
+Brookwood Baptist Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$3,625.46",AK,Multiplan hmo,4108.86
+Brookwood Baptist Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$3,625.46",AK,Multiplan pos,4108.86
+Brookwood Baptist Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$3,625.46",AK,Multiplan ppo,4108.86
+Brookwood Baptist Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$3,625.46",AK,VIVA Health ppo,239.03
+Brookwood Baptist Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$3,625.46",AK,VIVA Health hmo,239.03
+Brookwood Baptist Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$6,342.29",AK,Multiplan hmo,7187.92
+Brookwood Baptist Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$6,342.29",AK,Multiplan pos,7187.92
+Brookwood Baptist Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$6,342.29",AK,Multiplan ppo,7187.92
+Brookwood Baptist Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$6,342.29",AK,VIVA Health ppo,1099.33
+Brookwood Baptist Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$6,342.29",AK,VIVA Health hmo,1099.33
+Brookwood Baptist Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$6,857.76",AK,Multiplan hmo,7772.13
+Brookwood Baptist Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$6,857.76",AK,Multiplan pos,7772.13
+Brookwood Baptist Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$6,857.76",AK,Multiplan ppo,7772.13
+Brookwood Baptist Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$6,857.76",AK,VIVA Health ppo,1188.68
+Brookwood Baptist Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$6,857.76",AK,VIVA Health hmo,1188.68
+Brookwood Baptist Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$5,515.14",AK,Multiplan hmo,6250.49
+Brookwood Baptist Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$5,515.14",AK,Multiplan pos,6250.49
+Brookwood Baptist Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$5,515.14",AK,Multiplan ppo,6250.49
+Brookwood Baptist Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$5,515.14",AK,VIVA Health ppo,955.96
+Brookwood Baptist Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$5,515.14",AK,VIVA Health hmo,955.96
+Brookwood Baptist Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$6,835.34",AK,Multiplan hmo,7746.71
+Brookwood Baptist Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$6,835.34",AK,Multiplan pos,7746.71
+Brookwood Baptist Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$6,835.34",AK,Multiplan ppo,7746.71
+Brookwood Baptist Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$6,835.34",AK,VIVA Health ppo,1184.79
+Brookwood Baptist Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$6,835.34",AK,VIVA Health hmo,1184.79
+Brookwood Baptist Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$6,313.75",AK,Multiplan hmo,7155.58
+Brookwood Baptist Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$6,313.75",AK,Multiplan pos,7155.58
+Brookwood Baptist Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$6,313.75",AK,Multiplan ppo,7155.58
+Brookwood Baptist Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$6,313.75",AK,VIVA Health ppo,1094.38
+Brookwood Baptist Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$6,313.75",AK,VIVA Health hmo,1094.38
+Brookwood Baptist Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$3,198.32",AK,Multiplan hmo,3624.76
+Brookwood Baptist Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$3,198.32",AK,Multiplan pos,3624.76
+Brookwood Baptist Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$3,198.32",AK,Multiplan ppo,3624.76
+Brookwood Baptist Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$3,198.32",AK,VIVA Health ppo,554.37
+Brookwood Baptist Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$3,198.32",AK,VIVA Health hmo,554.37
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$922.48,AK,Multiplan hmo,1045.47
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$922.48,AK,Multiplan pos,1045.47
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$922.48,AK,Multiplan ppo,1045.47
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$922.48,AK,VIVA Health ppo,159.90
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$922.48,AK,VIVA Health hmo,159.90
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$850.32,AK,Multiplan hmo,963.70
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$850.32,AK,Multiplan pos,963.70
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$850.32,AK,Multiplan ppo,963.70
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$850.32,AK,VIVA Health ppo,147.39
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$850.32,AK,VIVA Health hmo,147.39
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$1,967.69",AK,Multiplan hmo,2230.05
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$1,967.69",AK,Multiplan pos,2230.05
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$1,967.69",AK,Multiplan ppo,2230.05
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$1,967.69",AK,VIVA Health ppo,341.07
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$1,967.69",AK,VIVA Health hmo,341.07
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$2,693.91",AK,Multiplan hmo,3053.10
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$2,693.91",AK,Multiplan pos,3053.10
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$2,693.91",AK,Multiplan ppo,3053.10
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$2,693.91",AK,VIVA Health ppo,466.94
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$2,693.91",AK,VIVA Health hmo,466.94
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,112.56",AK,Multiplan hmo,1260.90
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,112.56",AK,Multiplan pos,1260.90
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,112.56",AK,Multiplan ppo,1260.90
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,112.56",AK,VIVA Health ppo,192.84
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,112.56",AK,VIVA Health hmo,192.84
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,320.98",AK,Multiplan hmo,1497.11
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,320.98",AK,Multiplan pos,1497.11
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,320.98",AK,Multiplan ppo,1497.11
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,320.98",AK,VIVA Health ppo,228.97
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,320.98",AK,VIVA Health hmo,228.97
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,650.10",AK,Multiplan hmo,1870.11
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,650.10",AK,Multiplan pos,1870.11
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,650.10",AK,Multiplan ppo,1870.11
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,650.10",AK,VIVA Health ppo,286.02
+Brookwood Baptist Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,650.10",AK,VIVA Health hmo,286.02
+Brookwood Baptist Medical Center,X-ray,HCPCS 71046,X-ray of chest; 2 Views,$979.90,AK,Multiplan hmo,1110.55
+Brookwood Baptist Medical Center,X-ray,HCPCS 71046,X-ray of chest; 2 Views,$979.90,AK,Multiplan pos,1110.55
+Brookwood Baptist Medical Center,X-ray,HCPCS 71046,X-ray of chest; 2 Views,$979.90,AK,Multiplan ppo,1110.55
+Brookwood Baptist Medical Center,X-ray,HCPCS 71046,X-ray of chest; 2 Views,$979.90,AK,VIVA Health ppo,131.77
+Brookwood Baptist Medical Center,X-ray,HCPCS 71046,X-ray of chest; 2 Views,$979.90,AK,VIVA Health hmo,131.77
+Brookwood Baptist Medical Center,X-ray,HCPCS 71045,X-ray of chest; Single View,$595.79,AK,Multiplan hmo,675.22
+Brookwood Baptist Medical Center,X-ray,HCPCS 71045,X-ray of chest; Single View,$595.79,AK,Multiplan pos,675.22
+Brookwood Baptist Medical Center,X-ray,HCPCS 71045,X-ray of chest; Single View,$595.79,AK,Multiplan ppo,675.22
+Brookwood Baptist Medical Center,X-ray,HCPCS 71045,X-ray of chest; Single View,$595.79,AK,VIVA Health ppo,103.27
+Brookwood Baptist Medical Center,X-ray,HCPCS 71045,X-ray of chest; Single View,$595.79,AK,VIVA Health hmo,103.27
+Brookwood Baptist Medical Center,X-ray,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$763.04,AK,Multiplan hmo,864.78
+Brookwood Baptist Medical Center,X-ray,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$763.04,AK,Multiplan pos,864.78
+Brookwood Baptist Medical Center,X-ray,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$763.04,AK,Multiplan ppo,864.78
+Brookwood Baptist Medical Center,X-ray,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$763.04,AK,VIVA Health ppo,132.26
+Brookwood Baptist Medical Center,X-ray,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$763.04,AK,VIVA Health hmo,132.26
+Brookwood Baptist Medical Center,X-ray,HCPCS 73610,"X-ray Ankle, 3 Views","$1,288.00",AK,Multiplan hmo,1459.73
+Brookwood Baptist Medical Center,X-ray,HCPCS 73610,"X-ray Ankle, 3 Views","$1,288.00",AK,Multiplan pos,1459.73
+Brookwood Baptist Medical Center,X-ray,HCPCS 73610,"X-ray Ankle, 3 Views","$1,288.00",AK,Multiplan ppo,1459.73
+Brookwood Baptist Medical Center,X-ray,HCPCS 73610,"X-ray Ankle, 3 Views","$1,288.00",AK,VIVA Health ppo,223.25
+Brookwood Baptist Medical Center,X-ray,HCPCS 73610,"X-ray Ankle, 3 Views","$1,288.00",AK,VIVA Health hmo,223.25
+Brookwood Baptist Medical Center,X-ray,HCPCS 73630,X-ray exam of foot,"$1,114.70",AK,Multiplan hmo,1263.32
+Brookwood Baptist Medical Center,X-ray,HCPCS 73630,X-ray exam of foot,"$1,114.70",AK,Multiplan pos,1263.32
+Brookwood Baptist Medical Center,X-ray,HCPCS 73630,X-ray exam of foot,"$1,114.70",AK,Multiplan ppo,1263.32
+Brookwood Baptist Medical Center,X-ray,HCPCS 73630,X-ray exam of foot,"$1,114.70",AK,VIVA Health ppo,193.21
+Brookwood Baptist Medical Center,X-ray,HCPCS 73630,X-ray exam of foot,"$1,114.70",AK,VIVA Health hmo,193.21
+Brookwood Baptist Medical Center,X-ray,HCPCS 73620,"X-ray Foot, 2 Views",$739.88,AK,Multiplan hmo,838.53
+Brookwood Baptist Medical Center,X-ray,HCPCS 73620,"X-ray Foot, 2 Views",$739.88,AK,Multiplan pos,838.53
+Brookwood Baptist Medical Center,X-ray,HCPCS 73620,"X-ray Foot, 2 Views",$739.88,AK,Multiplan ppo,838.53
+Brookwood Baptist Medical Center,X-ray,HCPCS 73620,"X-ray Foot, 2 Views",$739.88,AK,VIVA Health ppo,128.25
+Brookwood Baptist Medical Center,X-ray,HCPCS 73620,"X-ray Foot, 2 Views",$739.88,AK,VIVA Health hmo,128.25
+Brookwood Baptist Medical Center,X-ray,HCPCS 73564,"X-ray Knee, 4 or More Views","$1,241.54",AK,Multiplan hmo,1407.07
+Brookwood Baptist Medical Center,X-ray,HCPCS 73564,"X-ray Knee, 4 or More Views","$1,241.54",AK,Multiplan pos,1407.07
+Brookwood Baptist Medical Center,X-ray,HCPCS 73564,"X-ray Knee, 4 or More Views","$1,241.54",AK,Multiplan ppo,1407.07
+Brookwood Baptist Medical Center,X-ray,HCPCS 73564,"X-ray Knee, 4 or More Views","$1,241.54",AK,VIVA Health ppo,215.20
+Brookwood Baptist Medical Center,X-ray,HCPCS 73564,"X-ray Knee, 4 or More Views","$1,241.54",AK,VIVA Health hmo,215.20
+Brookwood Baptist Medical Center,X-ray,HCPCS 73590,"X-ray Lower Leg, 2 Views","$1,136.50",AK,Multiplan hmo,1288.03
+Brookwood Baptist Medical Center,X-ray,HCPCS 73590,"X-ray Lower Leg, 2 Views","$1,136.50",AK,Multiplan pos,1288.03
+Brookwood Baptist Medical Center,X-ray,HCPCS 73590,"X-ray Lower Leg, 2 Views","$1,136.50",AK,Multiplan ppo,1288.03
+Brookwood Baptist Medical Center,X-ray,HCPCS 73590,"X-ray Lower Leg, 2 Views","$1,136.50",AK,VIVA Health ppo,196.99
+Brookwood Baptist Medical Center,X-ray,HCPCS 73590,"X-ray Lower Leg, 2 Views","$1,136.50",AK,VIVA Health hmo,196.99
+Brookwood Baptist Medical Center,X-ray,HCPCS 72110,"X-ray, lower back, minimum four views","$1,990.61",AK,Multiplan hmo,2256.03
+Brookwood Baptist Medical Center,X-ray,HCPCS 72110,"X-ray, lower back, minimum four views","$1,990.61",AK,Multiplan pos,2256.03
+Brookwood Baptist Medical Center,X-ray,HCPCS 72110,"X-ray, lower back, minimum four views","$1,990.61",AK,Multiplan ppo,2256.03
+Brookwood Baptist Medical Center,X-ray,HCPCS 72110,"X-ray, lower back, minimum four views","$1,990.61",AK,VIVA Health ppo,345.04
+Brookwood Baptist Medical Center,X-ray,HCPCS 72110,"X-ray, lower back, minimum four views","$1,990.61",AK,VIVA Health hmo,345.04
+Brookwood Baptist Medical Center,X-ray,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views","$1,187.40",AK,Multiplan hmo,1345.72
+Brookwood Baptist Medical Center,X-ray,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views","$1,187.40",AK,Multiplan pos,1345.72
+Brookwood Baptist Medical Center,X-ray,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views","$1,187.40",AK,Multiplan ppo,1345.72
+Brookwood Baptist Medical Center,X-ray,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views","$1,187.40",AK,VIVA Health ppo,205.82
+Brookwood Baptist Medical Center,X-ray,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views","$1,187.40",AK,VIVA Health hmo,205.82
+Brookwood Baptist Medical Center,X-ray,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views","$1,010.03",AK,Multiplan hmo,1144.70
+Brookwood Baptist Medical Center,X-ray,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views","$1,010.03",AK,Multiplan pos,1144.70
+Brookwood Baptist Medical Center,X-ray,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views","$1,010.03",AK,Multiplan ppo,1144.70
+Brookwood Baptist Medical Center,X-ray,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views","$1,010.03",AK,VIVA Health ppo,175.07
+Brookwood Baptist Medical Center,X-ray,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views","$1,010.03",AK,VIVA Health hmo,175.07
+Brookwood Baptist Medical Center,X-ray,HCPCS 73130,"X-ray Hand, 3 Views","$1,072.82",AK,Multiplan hmo,1215.87
+Brookwood Baptist Medical Center,X-ray,HCPCS 73130,"X-ray Hand, 3 Views","$1,072.82",AK,Multiplan pos,1215.87
+Brookwood Baptist Medical Center,X-ray,HCPCS 73130,"X-ray Hand, 3 Views","$1,072.82",AK,Multiplan ppo,1215.87
+Brookwood Baptist Medical Center,X-ray,HCPCS 73130,"X-ray Hand, 3 Views","$1,072.82",AK,VIVA Health ppo,185.96
+Brookwood Baptist Medical Center,X-ray,HCPCS 73130,"X-ray Hand, 3 Views","$1,072.82",AK,VIVA Health hmo,185.96
+Brookwood Baptist Medical Center,X-ray,HCPCS 73030,"X-ray Shoulder, 2 Views","$1,362.89",AK,Multiplan hmo,1544.61
+Brookwood Baptist Medical Center,X-ray,HCPCS 73030,"X-ray Shoulder, 2 Views","$1,362.89",AK,Multiplan pos,1544.61
+Brookwood Baptist Medical Center,X-ray,HCPCS 73030,"X-ray Shoulder, 2 Views","$1,362.89",AK,Multiplan ppo,1544.61
+Brookwood Baptist Medical Center,X-ray,HCPCS 73030,"X-ray Shoulder, 2 Views","$1,362.89",AK,VIVA Health ppo,236.23
+Brookwood Baptist Medical Center,X-ray,HCPCS 73030,"X-ray Shoulder, 2 Views","$1,362.89",AK,VIVA Health hmo,236.23
+Brookwood Baptist Medical Center,X-ray,HCPCS 73090,"X-ray Upper Arm, 2 Views","$1,016.91",AK,Multiplan hmo,1152.50
+Brookwood Baptist Medical Center,X-ray,HCPCS 73090,"X-ray Upper Arm, 2 Views","$1,016.91",AK,Multiplan pos,1152.50
+Brookwood Baptist Medical Center,X-ray,HCPCS 73090,"X-ray Upper Arm, 2 Views","$1,016.91",AK,Multiplan ppo,1152.50
+Brookwood Baptist Medical Center,X-ray,HCPCS 73090,"X-ray Upper Arm, 2 Views","$1,016.91",AK,VIVA Health ppo,176.26
+Brookwood Baptist Medical Center,X-ray,HCPCS 73090,"X-ray Upper Arm, 2 Views","$1,016.91",AK,VIVA Health hmo,176.26
+Brookwood Baptist Medical Center,X-ray,HCPCS 73110,"X-ray Wrist, 3+ Views","$1,038.67",AK,Multiplan hmo,1177.16
+Brookwood Baptist Medical Center,X-ray,HCPCS 73110,"X-ray Wrist, 3+ Views","$1,038.67",AK,Multiplan pos,1177.16
+Brookwood Baptist Medical Center,X-ray,HCPCS 73110,"X-ray Wrist, 3+ Views","$1,038.67",AK,Multiplan ppo,1177.16
+Brookwood Baptist Medical Center,X-ray,HCPCS 73110,"X-ray Wrist, 3+ Views","$1,038.67",AK,VIVA Health ppo,180.04
+Brookwood Baptist Medical Center,X-ray,HCPCS 73110,"X-ray Wrist, 3+ Views","$1,038.67",AK,VIVA Health hmo,180.04
+Brookwood Baptist Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$41,634.63",AK,Multiplan hmo,47185.91
+Brookwood Baptist Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$41,634.63",AK,Multiplan pos,47185.91
+Brookwood Baptist Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$41,634.63",AK,Multiplan ppo,47185.91
+Brookwood Baptist Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$41,634.63",AK,VIVA Health ppo,6661.54
+Brookwood Baptist Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$41,634.63",AK,VIVA Health hmo,6661.54
+Brookwood Baptist Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$57,936.46",AK,Multiplan hmo,65661.32
+Brookwood Baptist Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$57,936.46",AK,Multiplan pos,65661.32
+Brookwood Baptist Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$57,936.46",AK,Multiplan ppo,65661.32
+Brookwood Baptist Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$57,936.46",AK,VIVA Health ppo,9269.83
+Brookwood Baptist Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$57,936.46",AK,VIVA Health hmo,9269.83
+Brookwood Baptist Medical Center,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$36,154.75",AK,Multiplan hmo,40975.38
+Brookwood Baptist Medical Center,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$36,154.75",AK,Multiplan pos,40975.38
+Brookwood Baptist Medical Center,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$36,154.75",AK,Multiplan ppo,40975.38
+Brookwood Baptist Medical Center,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$36,154.75",AK,VIVA Health ppo,2892.38
+Brookwood Baptist Medical Center,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$36,154.75",AK,VIVA Health hmo,2892.38
+Brookwood Baptist Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$40,484.99",AK,Multiplan hmo,45882.99
+Brookwood Baptist Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$40,484.99",AK,Multiplan pos,45882.99
+Brookwood Baptist Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$40,484.99",AK,Multiplan ppo,45882.99
+Brookwood Baptist Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$40,484.99",AK,VIVA Health ppo,6477.60
+Brookwood Baptist Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$40,484.99",AK,VIVA Health hmo,6477.60
+Brookwood Baptist Medical Center,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$17,035.28",AK,Multiplan hmo,19306.65
+Brookwood Baptist Medical Center,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$17,035.28",AK,Multiplan pos,19306.65
+Brookwood Baptist Medical Center,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$17,035.28",AK,Multiplan ppo,19306.65
+Brookwood Baptist Medical Center,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$17,035.28",AK,VIVA Health ppo,1362.82
+Brookwood Baptist Medical Center,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$17,035.28",AK,VIVA Health hmo,1362.82
+Brookwood Baptist Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$37,829.72",AK,Multiplan hmo,42873.68
+Brookwood Baptist Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$37,829.72",AK,Multiplan pos,42873.68
+Brookwood Baptist Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$37,829.72",AK,Multiplan ppo,42873.68
+Brookwood Baptist Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$37,829.72",AK,VIVA Health ppo,6052.75
+Brookwood Baptist Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$37,829.72",AK,VIVA Health hmo,6052.75
+Brookwood Baptist Medical Center,Breast,HCPCS 19301,Partial removal of breast,"$45,735.50",AK,Multiplan hmo,51833.56
+Brookwood Baptist Medical Center,Breast,HCPCS 19301,Partial removal of breast,"$45,735.50",AK,Multiplan pos,51833.56
+Brookwood Baptist Medical Center,Breast,HCPCS 19301,Partial removal of breast,"$45,735.50",AK,Multiplan ppo,51833.56
+Brookwood Baptist Medical Center,Breast,HCPCS 19301,Partial removal of breast,"$45,735.50",AK,VIVA Health ppo,7317.68
+Brookwood Baptist Medical Center,Breast,HCPCS 19301,Partial removal of breast,"$45,735.50",AK,VIVA Health hmo,7317.68
+Brookwood Baptist Medical Center,Cardiac,MSDRG 216,Cardiac valve procedure,"$512,801.11",AK,Multiplan hmo,683734.81
+Brookwood Baptist Medical Center,Cardiac,MSDRG 216,Cardiac valve procedure,"$512,801.11",AK,Multiplan pos,683734.81
+Brookwood Baptist Medical Center,Cardiac,MSDRG 216,Cardiac valve procedure,"$512,801.11",AK,Multiplan ppo,683734.81
+Brookwood Baptist Medical Center,Cardiac,MSDRG 216,Cardiac valve procedure,"$512,801.11",AK,VIVA Health ppo,75210.83
+Brookwood Baptist Medical Center,Cardiac,MSDRG 216,Cardiac valve procedure,"$512,801.11",AK,VIVA Health hmo,75210.83
+Brookwood Baptist Medical Center,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$39,709.85",AK,Multiplan hmo,45004.50
+Brookwood Baptist Medical Center,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$39,709.85",AK,Multiplan pos,45004.50
+Brookwood Baptist Medical Center,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$39,709.85",AK,Multiplan ppo,45004.50
+Brookwood Baptist Medical Center,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$39,709.85",AK,VIVA Health ppo,4235.72
+Brookwood Baptist Medical Center,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$39,709.85",AK,VIVA Health hmo,4235.72
+Brookwood Baptist Medical Center,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers","$24,920.30",AK,Multiplan hmo,28243.01
+Brookwood Baptist Medical Center,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers","$24,920.30",AK,Multiplan pos,28243.01
+Brookwood Baptist Medical Center,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers","$24,920.30",AK,Multiplan ppo,28243.01
+Brookwood Baptist Medical Center,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers","$24,920.30",AK,VIVA Health ppo,3009.22
+Brookwood Baptist Medical Center,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers","$24,920.30",AK,VIVA Health hmo,3009.22
+Brookwood Baptist Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$8,738.07",AK,Multiplan hmo,9903.15
+Brookwood Baptist Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$8,738.07",AK,Multiplan pos,9903.15
+Brookwood Baptist Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$8,738.07",AK,Multiplan ppo,9903.15
+Brookwood Baptist Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$8,738.07",AK,VIVA Health ppo,1281.58
+Brookwood Baptist Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$8,738.07",AK,VIVA Health hmo,1281.58
+Brookwood Baptist Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$9,874.88",AK,Multiplan hmo,11191.53
+Brookwood Baptist Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$9,874.88",AK,Multiplan pos,11191.53
+Brookwood Baptist Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$9,874.88",AK,Multiplan ppo,11191.53
+Brookwood Baptist Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$9,874.88",AK,VIVA Health ppo,1448.32
+Brookwood Baptist Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$9,874.88",AK,VIVA Health hmo,1448.32
+Brookwood Baptist Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$9,627.70",AK,Multiplan hmo,10911.39
+Brookwood Baptist Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$9,627.70",AK,Multiplan pos,10911.39
+Brookwood Baptist Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$9,627.70",AK,Multiplan ppo,10911.39
+Brookwood Baptist Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$9,627.70",AK,VIVA Health ppo,1627.79
+Brookwood Baptist Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$9,627.70",AK,VIVA Health hmo,1627.79
+Brookwood Baptist Medical Center,Digestive,HCPCS 43235,EGD,"$11,459.66",AK,Multiplan hmo,12987.61
+Brookwood Baptist Medical Center,Digestive,HCPCS 43235,EGD,"$11,459.66",AK,Multiplan pos,12987.61
+Brookwood Baptist Medical Center,Digestive,HCPCS 43235,EGD,"$11,459.66",AK,Multiplan ppo,12987.61
+Brookwood Baptist Medical Center,Digestive,HCPCS 43235,EGD,"$11,459.66",AK,VIVA Health ppo,1680.75
+Brookwood Baptist Medical Center,Digestive,HCPCS 43235,EGD,"$11,459.66",AK,VIVA Health hmo,1680.75
+Brookwood Baptist Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$9,940.96",AK,Multiplan hmo,11266.42
+Brookwood Baptist Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$9,940.96",AK,Multiplan pos,11266.42
+Brookwood Baptist Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$9,940.96",AK,Multiplan ppo,11266.42
+Brookwood Baptist Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$9,940.96",AK,VIVA Health ppo,1458.01
+Brookwood Baptist Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$9,940.96",AK,VIVA Health hmo,1458.01
+Brookwood Baptist Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$52,373.59",AK,Multiplan hmo,69831.45
+Brookwood Baptist Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$52,373.59",AK,Multiplan pos,69831.45
+Brookwood Baptist Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$52,373.59",AK,Multiplan ppo,69831.45
+Brookwood Baptist Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$52,373.59",AK,VIVA Health ppo,9418.25
+Brookwood Baptist Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$52,373.59",AK,VIVA Health hmo,9418.25
+Brookwood Baptist Medical Center,General,HCPCS 55700,Biopsy of prostate gland,"$27,499.77",AK,Multiplan hmo,31166.41
+Brookwood Baptist Medical Center,General,HCPCS 55700,Biopsy of prostate gland,"$27,499.77",AK,Multiplan pos,31166.41
+Brookwood Baptist Medical Center,General,HCPCS 55700,Biopsy of prostate gland,"$27,499.77",AK,Multiplan ppo,31166.41
+Brookwood Baptist Medical Center,General,HCPCS 55700,Biopsy of prostate gland,"$27,499.77",AK,VIVA Health ppo,3666.64
+Brookwood Baptist Medical Center,General,HCPCS 55700,Biopsy of prostate gland,"$27,499.77",AK,VIVA Health hmo,3666.64
+Brookwood Baptist Medical Center,General,HCPCS 55866,Prostatectomy,"$104,600.28",AK,Multiplan hmo,118546.98
+Brookwood Baptist Medical Center,General,HCPCS 55866,Prostatectomy,"$104,600.28",AK,Multiplan pos,118546.98
+Brookwood Baptist Medical Center,General,HCPCS 55866,Prostatectomy,"$104,600.28",AK,Multiplan ppo,118546.98
+Brookwood Baptist Medical Center,General,HCPCS 55866,Prostatectomy,"$104,600.28",AK,VIVA Health ppo,13946.70
+Brookwood Baptist Medical Center,General,HCPCS 55866,Prostatectomy,"$104,600.28",AK,VIVA Health hmo,13946.70
+Brookwood Baptist Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$4,681.72",AK,Multiplan hmo,5305.95
+Brookwood Baptist Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$4,681.72",AK,Multiplan pos,5305.95
+Brookwood Baptist Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$4,681.72",AK,Multiplan ppo,5305.95
+Brookwood Baptist Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$4,681.72",AK,VIVA Health ppo,686.65
+Brookwood Baptist Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$4,681.72",AK,VIVA Health hmo,686.65
+Brookwood Baptist Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$110,430.05",AK,Multiplan hmo,147240.07
+Brookwood Baptist Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$110,430.05",AK,Multiplan pos,147240.07
+Brookwood Baptist Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$110,430.05",AK,Multiplan ppo,147240.07
+Brookwood Baptist Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$110,430.05",AK,VIVA Health ppo,11214.82
+Brookwood Baptist Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$110,430.05",AK,VIVA Health hmo,11214.82
+Brookwood Baptist Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$39,548.27",AK,Multiplan hmo,44821.38
+Brookwood Baptist Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$39,548.27",AK,Multiplan pos,44821.38
+Brookwood Baptist Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$39,548.27",AK,Multiplan ppo,44821.38
+Brookwood Baptist Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$39,548.27",AK,VIVA Health ppo,3954.83
+Brookwood Baptist Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$39,548.27",AK,VIVA Health hmo,3954.83
+Brookwood Baptist Medical Center,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$50,144.21",AK,Multiplan hmo,56830.10
+Brookwood Baptist Medical Center,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$50,144.21",AK,Multiplan pos,56830.10
+Brookwood Baptist Medical Center,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$50,144.21",AK,Multiplan ppo,56830.10
+Brookwood Baptist Medical Center,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$50,144.21",AK,VIVA Health ppo,5014.42
+Brookwood Baptist Medical Center,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$50,144.21",AK,VIVA Health hmo,5014.42
+Brookwood Baptist Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$52,263.98",AK,Multiplan hmo,59232.51
+Brookwood Baptist Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$52,263.98",AK,Multiplan pos,59232.51
+Brookwood Baptist Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$52,263.98",AK,Multiplan ppo,59232.51
+Brookwood Baptist Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$52,263.98",AK,VIVA Health ppo,5226.40
+Brookwood Baptist Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$52,263.98",AK,VIVA Health hmo,5226.40
+Brookwood Baptist Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$136,267.24",AK,Multiplan hmo,181689.65
+Brookwood Baptist Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$136,267.24",AK,Multiplan pos,181689.65
+Brookwood Baptist Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$136,267.24",AK,Multiplan ppo,181689.65
+Brookwood Baptist Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$136,267.24",AK,VIVA Health ppo,19985.86
+Brookwood Baptist Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$136,267.24",AK,VIVA Health hmo,19985.86
+Brookwood Baptist Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$131,741.71",AK,Multiplan hmo,252957.32
+Brookwood Baptist Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$131,741.71",AK,Multiplan pos,252957.32
+Brookwood Baptist Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$131,741.71",AK,Multiplan ppo,252957.32
+Brookwood Baptist Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$131,741.71",AK,VIVA Health ppo,13174.17
+Brookwood Baptist Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$131,741.71",AK,VIVA Health hmo,13174.17
+Brookwood Baptist Medical Center,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$46,322.57",AK,Multiplan hmo,52498.92
+Brookwood Baptist Medical Center,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$46,322.57",AK,Multiplan pos,52498.92
+Brookwood Baptist Medical Center,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$46,322.57",AK,Multiplan ppo,52498.92
+Brookwood Baptist Medical Center,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$46,322.57",AK,VIVA Health ppo,6176.34
+Brookwood Baptist Medical Center,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$46,322.57",AK,VIVA Health hmo,6176.34
+Brookwood Baptist Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$27,620.22",AK,Multiplan hmo,31302.92
+Brookwood Baptist Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$27,620.22",AK,Multiplan pos,31302.92
+Brookwood Baptist Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$27,620.22",AK,Multiplan ppo,31302.92
+Brookwood Baptist Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$27,620.22",AK,VIVA Health ppo,3682.70
+Brookwood Baptist Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$27,620.22",AK,VIVA Health hmo,3682.70
+Brookwood Baptist Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$42,361.60",AK,Multiplan hmo,56482.13
+Brookwood Baptist Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$42,361.60",AK,Multiplan pos,56482.13
+Brookwood Baptist Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$42,361.60",AK,Multiplan ppo,56482.13
+Brookwood Baptist Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$42,361.60",AK,VIVA Health ppo,10486.73
+Brookwood Baptist Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$42,361.60",AK,VIVA Health hmo,10486.73
+Brookwood Baptist Medical Center,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$42,039.89",AK,Multiplan hmo,47645.20
+Brookwood Baptist Medical Center,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$42,039.89",AK,Multiplan pos,47645.20
+Brookwood Baptist Medical Center,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$42,039.89",AK,Multiplan ppo,47645.20
+Brookwood Baptist Medical Center,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$42,039.89",AK,VIVA Health ppo,5605.32
+Brookwood Baptist Medical Center,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$42,039.89",AK,VIVA Health hmo,5605.32
+Brookwood Baptist Medical Center,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$36,758.15",AK,Multiplan hmo,41659.24
+Brookwood Baptist Medical Center,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$36,758.15",AK,Multiplan pos,41659.24
+Brookwood Baptist Medical Center,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$36,758.15",AK,Multiplan ppo,41659.24
+Brookwood Baptist Medical Center,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$36,758.15",AK,VIVA Health ppo,4901.09
+Brookwood Baptist Medical Center,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$36,758.15",AK,VIVA Health hmo,4901.09
+Brookwood Baptist Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$29,673.89",AK,Multiplan hmo,39565.18
+Brookwood Baptist Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$29,673.89",AK,Multiplan pos,39565.18
+Brookwood Baptist Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$29,673.89",AK,Multiplan ppo,39565.18
+Brookwood Baptist Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$29,673.89",AK,VIVA Health ppo,6232.16
+Brookwood Baptist Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$29,673.89",AK,VIVA Health hmo,6232.16
+Brookwood Baptist Medical Center,Ocular,HCPCS 66984,Cataract removal,"$27,592.44",AK,Multiplan hmo,31271.43
+Brookwood Baptist Medical Center,Ocular,HCPCS 66984,Cataract removal,"$27,592.44",AK,Multiplan pos,31271.43
+Brookwood Baptist Medical Center,Ocular,HCPCS 66984,Cataract removal,"$27,592.44",AK,Multiplan ppo,31271.43
+Brookwood Baptist Medical Center,Ocular,HCPCS 66984,Cataract removal,"$27,592.44",AK,VIVA Health ppo,12508.57
+Brookwood Baptist Medical Center,Ocular,HCPCS 66984,Cataract removal,"$27,592.44",AK,VIVA Health hmo,12508.57
+Brookwood Baptist Medical Center,Ocular,HCPCS 66821,Laser cataract removal,"$5,345.65",AK,Multiplan hmo,6058.40
+Brookwood Baptist Medical Center,Ocular,HCPCS 66821,Laser cataract removal,"$5,345.65",AK,Multiplan pos,6058.40
+Brookwood Baptist Medical Center,Ocular,HCPCS 66821,Laser cataract removal,"$5,345.65",AK,Multiplan ppo,6058.40
+Brookwood Baptist Medical Center,Ocular,HCPCS 66821,Laser cataract removal,"$5,345.65",AK,VIVA Health ppo,2423.36
+Brookwood Baptist Medical Center,Ocular,HCPCS 66821,Laser cataract removal,"$5,345.65",AK,VIVA Health hmo,2423.36
+Brookwood Baptist Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$26,756.51",AK,Multiplan hmo,30324.04
+Brookwood Baptist Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$26,756.51",AK,Multiplan pos,30324.04
+Brookwood Baptist Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$26,756.51",AK,Multiplan ppo,30324.04
+Brookwood Baptist Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$26,756.51",AK,VIVA Health ppo,3210.78
+Brookwood Baptist Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$26,756.51",AK,VIVA Health hmo,3210.78

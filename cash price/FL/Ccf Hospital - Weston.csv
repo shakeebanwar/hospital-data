@@ -1,0 +1,88 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Ccf Hospital - Weston,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$346.45,FL
+Ccf Hospital - Weston,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes",$731.90,FL
+Ccf Hospital - Weston,Emergency Care,HCPCS 99281,Emergency Level 1,$77.35,FL
+Ccf Hospital - Weston,Emergency Care,HCPCS 99282,Emergency Level 2,$157.30,FL
+Ccf Hospital - Weston,Emergency Care,HCPCS 99283,Emergency Level 3,$272.35,FL
+Ccf Hospital - Weston,Emergency Care,HCPCS 99284,Emergency Level 4,$389.35,FL
+Ccf Hospital - Weston,Emergency Care,HCPCS 99285,Emergency Level 5,$540.80,FL
+Ccf Hospital - Weston,Hospital,HCPCS 99234,Hospital observation care discharge,$195.65,FL
+Ccf Hospital - Weston,Hospital,HCPCS 99219,Hospital observation care typically 30 minutes,$254.80,FL
+Ccf Hospital - Weston,Hospital,HCPCS 99235,"Hospital observation or inpatient care moderate severity, 50 minutes per day",$256.75,FL
+Ccf Hospital - Weston,Hospital,HCPCS 99218,Hospital Observation per Hour,$91.00,FL
+Ccf Hospital - Weston,Hospital,HCPCS 99224,"Subsequent observation care, typically 25 minutes per day",$62.40,FL
+Ccf Hospital - Weston,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$250.25,FL
+Ccf Hospital - Weston,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$328.90,FL
+Ccf Hospital - Weston,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$174.85,FL
+Ccf Hospital - Weston,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$291.20,FL
+Ccf Hospital - Weston,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$346.45,FL
+Ccf Hospital - Weston,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$167.05,FL
+Ccf Hospital - Weston,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$55.50,FL
+Ccf Hospital - Weston,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$29.25,FL
+Ccf Hospital - Weston,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),$463.45,FL
+Ccf Hospital - Weston,Sleep,HCPCS 95810,Sleep study,$558.35,FL
+Ccf Hospital - Weston,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$522.60,FL
+Ccf Hospital - Weston,Chest,HCPCS 71046,X-ray of chest; 2 Views,$183.30,FL
+Ccf Hospital - Weston,Chest,HCPCS 71045,X-ray of chest; Single View,$147.55,FL
+Ccf Hospital - Weston,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$1,619.80",FL
+Ccf Hospital - Weston,Abdomenal,HCPCS 47562,Cholecystectomy,"$2,314.00",FL
+Ccf Hospital - Weston,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$2,314.00",FL
+Ccf Hospital - Weston,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,"$1,545.70",FL
+Ccf Hospital - Weston,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,$920.40,FL
+Ccf Hospital - Weston,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,$694.85,FL
+Ccf Hospital - Weston,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$1,545.70",FL
+Ccf Hospital - Weston,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$268.45,FL
+Ccf Hospital - Weston,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,"$7,710.30",FL
+Ccf Hospital - Weston,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$1,851.20",FL
+Ccf Hospital - Weston,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$2,776.80",FL
+Ccf Hospital - Weston,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$1,387.75",FL
+Ccf Hospital - Weston,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$2,803.45",FL
+Ccf Hospital - Weston,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$3,049.15",FL
+Ccf Hospital - Weston,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$2,851.55",FL
+Ccf Hospital - Weston,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$1,851.20",FL
+Ccf Hospital - Weston,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$1,387.75",FL
+Ccf Hospital - Weston,Breast,HCPCS 19325,Breast enlargement using prosthetic implant,"$2,619.50",FL
+Ccf Hospital - Weston,Breast,HCPCS 19125,Excision of breast lesion,"$1,777.10",FL
+Ccf Hospital - Weston,Breast,HCPCS 19120,Excision of cyst of breast,"$1,851.20",FL
+Ccf Hospital - Weston,Breast,HCPCS 19301,Partial removal of breast,"$1,037.40",FL
+Ccf Hospital - Weston,Breast,HCPCS 19318,Reduction mammaplasty,"$4,470.70",FL
+Ccf Hospital - Weston,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$3,238.95",FL
+Ccf Hospital - Weston,Breast,HCPCS 19303,Total removal of breast,"$2,470.65",FL
+Ccf Hospital - Weston,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$1,062.10",FL
+Ccf Hospital - Weston,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,082.25",FL
+Ccf Hospital - Weston,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,387.75",FL
+Ccf Hospital - Weston,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,387.75",FL
+Ccf Hospital - Weston,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,545.70",FL
+Ccf Hospital - Weston,Digestive,HCPCS 43235,EGD,$768.95,FL
+Ccf Hospital - Weston,Digestive,HCPCS 43239,EGD and biopsy,$926.25,FL
+Ccf Hospital - Weston,Digestive,HCPCS 43775,Gastric Sleeve (Outpatient),"$4,693.00",FL
+Ccf Hospital - Weston,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$1,387.75",FL
+Ccf Hospital - Weston,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$1,387.75",FL
+Ccf Hospital - Weston,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$2,314.00",FL
+Ccf Hospital - Weston,General,HCPCS 55700,Biopsy of prostate gland,$768.95,FL
+Ccf Hospital - Weston,General,HCPCS 10060,Drainage of Abscess,$305.50,FL
+Ccf Hospital - Weston,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$389.35,FL
+Ccf Hospital - Weston,General,HCPCS 55866,Prostatectomy,"$5,396.30",FL
+Ccf Hospital - Weston,General,HCPCS 69200,Removal of foreign body from ear canal,$369.20,FL
+Ccf Hospital - Weston,General,HCPCS 60240,Removal of thyroid,"$2,932.80",FL
+Ccf Hospital - Weston,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$389.35,FL
+Ccf Hospital - Weston,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$619.45,FL
+Ccf Hospital - Weston,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$389.35,FL
+Ccf Hospital - Weston,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$389.35,FL
+Ccf Hospital - Weston,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),$926.25,FL
+Ccf Hospital - Weston,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$768.95,FL
+Ccf Hospital - Weston,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$179.40,FL
+Ccf Hospital - Weston,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$2,157.35",FL
+Ccf Hospital - Weston,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$2,082.60",FL
+Ccf Hospital - Weston,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,"$1,545.70",FL
+Ccf Hospital - Weston,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$2,314.00",FL
+Ccf Hospital - Weston,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$2,314.00",FL
+Ccf Hospital - Weston,Musculoskeletal,HCPCS 22612,Spine arthrodesis,"$5,785.00",FL
+Ccf Hospital - Weston,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$3,082.95",FL
+Ccf Hospital - Weston,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$1,001.00",FL
+Ccf Hospital - Weston,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$2,314.00",FL
+Ccf Hospital - Weston,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$2,082.60",FL
+Ccf Hospital - Weston,Obstetrics,HCPCS 58545,Removal of uterine fibroid tumors using an endoscope,"$2,776.80",FL
+Ccf Hospital - Weston,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries","$2,851.55",FL
+Ccf Hospital - Weston,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),$768.95,FL
+Ccf Hospital - Weston,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,$768.95,FL

@@ -1,0 +1,263 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Orange Park Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$3,994.92",FL
+Orange Park Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$9,838.58",FL
+Orange Park Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$761.66,FL
+Orange Park Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,"$2,283.81",FL
+Orange Park Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,348.73",FL
+Orange Park Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$5,223.14",FL
+Orange Park Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$9,581.98",FL
+Orange Park Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min","$2,849.52",FL
+Orange Park Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min","$3,097.96",FL
+Orange Park Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min","$2,608.07",FL
+Orange Park Medical Center,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min","$1,115.08",FL
+Orange Park Medical Center,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$760.49,FL
+Orange Park Medical Center,Psychology,HCPCS 90853,Group psychotherapy,$999.60,FL
+Orange Park Medical Center,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$980.94,FL
+Orange Park Medical Center,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient","$1,192.06",FL
+Orange Park Medical Center,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient","$1,781.09",FL
+Orange Park Medical Center,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$598.36,FL
+Orange Park Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$264.77,FL
+Orange Park Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$237.95,FL
+Orange Park Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$493.39,FL
+Orange Park Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$975.11,FL
+Orange Park Medical Center,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$86.31,FL
+Orange Park Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$699.84,FL
+Orange Park Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$557.54,FL
+Orange Park Medical Center,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$174.96,FL
+Orange Park Medical Center,Blood,HCPCS 85660,Red blood cell sickling measurement,$38.00,FL
+Orange Park Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$515.55,FL
+Orange Park Medical Center,Blood,HCPCS 85041,"Red blood count, automated test",$299.76,FL
+Orange Park Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$13.00,FL
+Orange Park Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$606.53,FL
+Orange Park Medical Center,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$166.80,FL
+Orange Park Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$208.79,FL
+Orange Park Medical Center,Chemistry,HCPCS 82140,Ammonia level,$606.53,FL
+Orange Park Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$823.48,FL
+Orange Park Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$4.50,FL
+Orange Park Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$208.79,FL
+Orange Park Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$75.82,FL
+Orange Park Medical Center,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$198.29,FL
+Orange Park Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$575.04,FL
+Orange Park Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$575.04,FL
+Orange Park Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$575.04,FL
+Orange Park Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$675.35,FL
+Orange Park Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$587.87,FL
+Orange Park Medical Center,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$381.41,FL
+Orange Park Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$557.54,FL
+Orange Park Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)","$1,530.32",FL
+Orange Park Medical Center,Chemistry,HCPCS 82310,Calcium level,$548.21,FL
+Orange Park Medical Center,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$548.21,FL
+Orange Park Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$236.78,FL
+Orange Park Medical Center,Chemistry,HCPCS 82465,Cholesterol level,$753.49,FL
+Orange Park Medical Center,Chemistry,HCPCS 82525,Copper level,$7.00,FL
+Orange Park Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$20.00,FL
+Orange Park Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$237.95,FL
+Orange Park Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$958.78,FL
+Orange Park Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$186.62,FL
+Orange Park Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$12.00,FL
+Orange Park Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$404.74,FL
+Orange Park Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$181.96,FL
+Orange Park Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$4.00,FL
+Orange Park Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$653.18,FL
+Orange Park Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$363.92,FL
+Orange Park Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$228.61,FL
+Orange Park Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$228.61,FL
+Orange Park Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$26.83,FL
+Orange Park Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$211.12,FL
+Orange Park Medical Center,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$9.00,FL
+Orange Park Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$144.63,FL
+Orange Park Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$90.98,FL
+Orange Park Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$801.32,FL
+Orange Park Medical Center,Chemistry,HCPCS 83540,Iron level,$340.59,FL
+Orange Park Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$388.41,FL
+Orange Park Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$861.97,FL
+Orange Park Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$606.53,FL
+Orange Park Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$178.46,FL
+Orange Park Medical Center,Chemistry,HCPCS 83021,Liver function blood test panel,$160.96,FL
+Orange Park Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$635.69,FL
+Orange Park Medical Center,Chemistry,HCPCS 82542,Mass spectrometry,$57.50,FL
+Orange Park Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$26.84,FL
+Orange Park Medical Center,Chemistry,HCPCS 83945,Oxalate level,$11.64,FL
+Orange Park Medical Center,Chemistry,HCPCS 83970,Parathormone,$13.80,FL
+Orange Park Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$415.24,FL
+Orange Park Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$45.00,FL
+Orange Park Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$240.28,FL
+Orange Park Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$127.14,FL
+Orange Park Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$237.95,FL
+Orange Park Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$317.26,FL
+Orange Park Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$24.00,FL
+Orange Park Medical Center,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$863.14,FL
+Orange Park Medical Center,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$30.00,FL
+Orange Park Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$958.78,FL
+Orange Park Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$415.24,FL
+Orange Park Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$415.24,FL
+Orange Park Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$221.62,FL
+Orange Park Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$606.53,FL
+Orange Park Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$477.06,FL
+Orange Park Medical Center,Chemistry,HCPCS 82436,Urine chloride level,$449.06,FL
+Orange Park Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$3.50,FL
+Orange Park Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$299.76,FL
+Orange Park Medical Center,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$9.20,FL
+Orange Park Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$354.59,FL
+Orange Park Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$499.22,FL
+Orange Park Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$10.00,FL
+Orange Park Medical Center,Chemistry,HCPCS 84630,Zinc level,$4.28,FL
+Orange Park Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$15.46,FL
+Orange Park Medical Center,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$40.00,FL
+Orange Park Medical Center,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$7.00,FL
+Orange Park Medical Center,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$163.30,FL
+Orange Park Medical Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$16.18,FL
+Orange Park Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$166.80,FL
+Orange Park Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$167.96,FL
+Orange Park Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$149.30,FL
+Orange Park Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$122.47,FL
+Orange Park Medical Center,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$278.77,FL
+Orange Park Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$404.74,FL
+Orange Park Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$4.00,FL
+Orange Park Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$155.13,FL
+Orange Park Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$181.96,FL
+Orange Park Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$72.32,FL
+Orange Park Medical Center,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$149.30,FL
+Orange Park Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$741.83,FL
+Orange Park Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$55.99,FL
+Orange Park Medical Center,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$89.81,FL
+Orange Park Medical Center,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$197.12,FL
+Orange Park Medical Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$34.99,FL
+Orange Park Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$58.32,FL
+Orange Park Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,"$1,248.05",FL
+Orange Park Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$346.42,FL
+Orange Park Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$40.70,FL
+Orange Park Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$48.00,FL
+Orange Park Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$653.18,FL
+Orange Park Medical Center,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$50.00,FL
+Orange Park Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$117.81,FL
+Orange Park Medical Center,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$92.00,FL
+Orange Park Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$346.42,FL
+Orange Park Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$292.77,FL
+Orange Park Medical Center,Microbiology,HCPCS 86735,Mumps virus antibody test,$163.30,FL
+Orange Park Medical Center,Microbiology,HCPCS 86747,Parvovirus antibody test,$14.00,FL
+Orange Park Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$6.11,FL
+Orange Park Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$160.96,FL
+Orange Park Medical Center,Microbiology,HCPCS 87207,Smear for infectious agents,$39.66,FL
+Orange Park Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$113.14,FL
+Orange Park Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$68.82,FL
+Orange Park Medical Center,Microbiology,HCPCS 87045,Stool Culture,"$1,653.96",FL
+Orange Park Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$57.15,FL
+Orange Park Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$18.30,FL
+Orange Park Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$160.96,FL
+Orange Park Medical Center,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$115.47,FL
+Orange Park Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$554.04,FL
+Orange Park Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,"$2,160.17",FL
+Orange Park Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals","$2,062.20",FL
+Orange Park Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$863.14,FL
+Orange Park Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,"$2,080.86",FL
+Orange Park Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,"$1,925.73",FL
+Orange Park Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$812.98,FL
+Orange Park Medical Center,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$218.12,FL
+Orange Park Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$459.56,FL
+Orange Park Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,"$7,441.63",FL
+Orange Park Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$10.59,FL
+Orange Park Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$564.54,FL
+Orange Park Medical Center,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,"$1,063.76",FL
+Orange Park Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,"$1,101.08",FL
+Orange Park Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$48.00,FL
+Orange Park Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$699.84,FL
+Orange Park Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$914.46,FL
+Orange Park Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$35.00,FL
+Orange Park Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$62.99,FL
+Orange Park Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$315.00,FL
+Orange Park Medical Center,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$46.66,FL
+Orange Park Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$97.98,FL
+Orange Park Medical Center,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$180.00,FL
+Orange Park Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$40.00,FL
+Orange Park Medical Center,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$29.16,FL
+Orange Park Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$639.19,FL
+Orange Park Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope","$1,188.56",FL
+Orange Park Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,"$1,034.60",FL
+Orange Park Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$4,964.20",FL
+Orange Park Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$1,354.23",FL
+Orange Park Medical Center,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,"$1,329.28",FL
+Orange Park Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,"$2,821.89",FL
+Orange Park Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,639.68",FL
+Orange Park Medical Center,Pulmonary,HCPCS 94729,CO Diffusion Capacity,"$1,488.33",FL
+Orange Park Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,$306.76,FL
+Orange Park Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$980.94,FL
+Orange Park Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$749.76,FL
+Orange Park Medical Center,Breast,HCPCS 77067,Mammogram Screening,$826.51,FL
+Orange Park Medical Center,Breast,HCPCS 77066,Mammography of both breasts,"$1,059.00",FL
+Orange Park Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$16,305.11",FL
+Orange Park Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$12,632.11",FL
+Orange Park Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$11,414.39",FL
+Orange Park Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$12,132.89",FL
+Orange Park Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$14,599.83",FL
+Orange Park Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$7,928.02",FL
+Orange Park Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$12,780.24",FL
+Orange Park Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$14,379.38",FL
+Orange Park Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$14,379.38",FL
+Orange Park Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$14,274.40",FL
+Orange Park Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$11,992.92",FL
+Orange Park Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$13,418.27",FL
+Orange Park Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$13,259.64",FL
+Orange Park Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$8,005.00",FL
+Orange Park Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$10,094.03",FL
+Orange Park Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$10,094.03",FL
+Orange Park Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$10,621.24",FL
+Orange Park Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$8,571.87",FL
+Orange Park Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$10,621.24",FL
+Orange Park Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$16,581.54",FL
+Orange Park Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$16,925.63",FL
+Orange Park Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$10,621.24",FL
+Orange Park Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$10,589.75",FL
+Orange Park Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$16,925.63",FL
+Orange Park Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$3,412.84",FL
+Orange Park Medical Center,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,"$1,283.71",FL
+Orange Park Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$8,048.21",FL
+Orange Park Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$3,237.08",FL
+Orange Park Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$3,350.55",FL
+Orange Park Medical Center,Ultrasound,HCPCS 76881,Ultrasound Joint Soft Tissue - Complete,"$1,495.07",FL
+Orange Park Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$8,048.21",FL
+Orange Park Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$3,923.43",FL
+Orange Park Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,"$3,555.23",FL
+Orange Park Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$4,173.72",FL
+Orange Park Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$2,812.15",FL
+Orange Park Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views","$2,635.28",FL
+Orange Park Medical Center,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views","$2,258.17",FL
+Orange Park Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,"$2,203.66",FL
+Orange Park Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,"$1,161.35",FL
+Orange Park Medical Center,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views","$2,589.67",FL
+Orange Park Medical Center,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views","$1,690.85",FL
+Orange Park Medical Center,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,"$2,675.32",FL
+Orange Park Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views","$1,952.26",FL
+Orange Park Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,"$1,588.51",FL
+Orange Park Medical Center,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$256.96,FL
+Orange Park Medical Center,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views","$3,550.78",FL
+Orange Park Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$493.91,FL
+Orange Park Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$299.24,FL
+Orange Park Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views","$1,646.35",FL
+Orange Park Medical Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views","$1,643.01",FL
+Orange Park Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views","$1,674.16",FL
+Orange Park Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views","$1,674.16",FL
+Orange Park Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,"$1,510.64",FL
+Orange Park Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,"$1,762.04",FL
+Orange Park Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$299.24,FL
+Orange Park Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views","$1,624.10",FL
+Orange Park Medical Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views","$1,359.35",FL
+Orange Park Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views","$1,396.06",FL
+Orange Park Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views","$1,510.64",FL
+Orange Park Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views","$1,746.47",FL
+Orange Park Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$3,892.29",FL
+Orange Park Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views","$1,907.77",FL
+Orange Park Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views","$2,463.97",FL
+Orange Park Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views","$1,952.26",FL
+Orange Park Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views","$1,726.44",FL
+Orange Park Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views","$1,463.92",FL
+Orange Park Medical Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views","$1,394.95",FL
+Orange Park Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views","$1,656.36",FL
+Orange Park Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views","$1,853.26",FL
+Orange Park Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views","$1,669.71",FL
+Orange Park Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views","$1,643.01",FL
+Orange Park Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views","$1,643.01",FL
+Orange Park Medical Center,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$108.48,FL
+Orange Park Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$794.32,FL
+Orange Park Medical Center,Soft Tissue,HCPCS 97602,Non-selective debridement,$419.90,FL
+Orange Park Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$815.31,FL
