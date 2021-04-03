@@ -1,0 +1,229 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Rice Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$665.00,TX
+Rice Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes",$603.33,TX
+Rice Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$37.80,TX
+Rice Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$56.70,TX
+Rice Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$535.08,TX
+Rice Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,$253.40,TX
+Rice Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,$373.80,TX
+Rice Medical Center,Hospital,HCPCS 99234,Hospital observation care discharge,$102.20,TX
+Rice Medical Center,Hospital,HCPCS 99219,Hospital observation care typically 30 minutes,$139.30,TX
+Rice Medical Center,Hospital,HCPCS 99235,"Hospital observation or inpatient care moderate severity, 50 minutes per day",$139.30,TX
+Rice Medical Center,Hospital,HCPCS 99218,Hospital Observation per Hour,$102.20,TX
+Rice Medical Center,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$98.70,TX
+Rice Medical Center,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$106.40,TX
+Rice Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$371.00,TX
+Rice Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$371.00,TX
+Rice Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$332.15,TX
+Rice Medical Center,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$136.50,TX
+Rice Medical Center,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$162.40,TX
+Rice Medical Center,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$231.70,TX
+Rice Medical Center,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$231.70,TX
+Rice Medical Center,Psychology,HCPCS 90853,Group psychotherapy,$128.80,TX
+Rice Medical Center,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$238.70,TX
+Rice Medical Center,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$128.80,TX
+Rice Medical Center,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$231.70,TX
+Rice Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$271.18,TX
+Rice Medical Center,Speech,HCPCS 92507,Speech Therapy,$67.20,TX
+Rice Medical Center,Speech,HCPCS 92610,Swallow Evaluation,$193.83,TX
+Rice Medical Center,Speech,HCPCS 92526,Swallow Treatment,$67.20,TX
+Rice Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$19.11,TX
+Rice Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$19.11,TX
+Rice Medical Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$31.50,TX
+Rice Medical Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$28.00,TX
+Rice Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$48.23,TX
+Rice Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$29.40,TX
+Rice Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$25.90,TX
+Rice Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$53.20,TX
+Rice Medical Center,Blood,HCPCS 85008,Microscopic examination for white blood cells,$28.70,TX
+Rice Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$28.21,TX
+Rice Medical Center,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$182.91,TX
+Rice Medical Center,Blood,HCPCS 85660,Red blood cell sickling measurement,$52.50,TX
+Rice Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$356.30,TX
+Rice Medical Center,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$128.80,TX
+Rice Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$174.30,TX
+Rice Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$24.57,TX
+Rice Medical Center,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$78.40,TX
+Rice Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$264.60,TX
+Rice Medical Center,Chemistry,HCPCS 82140,Ammonia level,$100.10,TX
+Rice Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$39.20,TX
+Rice Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$16.10,TX
+Rice Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$220.22,TX
+Rice Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$95.55,TX
+Rice Medical Center,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$82.81,TX
+Rice Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$24.57,TX
+Rice Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$40.95,TX
+Rice Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$19.11,TX
+Rice Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$21.84,TX
+Rice Medical Center,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$14.70,TX
+Rice Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$23.66,TX
+Rice Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$22.75,TX
+Rice Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$68.60,TX
+Rice Medical Center,Chemistry,HCPCS 82310,Calcium level,$25.48,TX
+Rice Medical Center,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$19.11,TX
+Rice Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$143.78,TX
+Rice Medical Center,Chemistry,HCPCS 82465,Cholesterol level,$23.10,TX
+Rice Medical Center,Chemistry,HCPCS 82525,Copper level,$13.30,TX
+Rice Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$126.49,TX
+Rice Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$125.58,TX
+Rice Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$29.40,TX
+Rice Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$63.70,TX
+Rice Medical Center,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$147.00,TX
+Rice Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$212.03,TX
+Rice Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$62.30,TX
+Rice Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$58.80,TX
+Rice Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$73.71,TX
+Rice Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$62.79,TX
+Rice Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$44.10,TX
+Rice Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, chorionic (reproductive hormone) level",$49.70,TX
+Rice Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$105.00,TX
+Rice Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$97.37,TX
+Rice Medical Center,Chemistry,HCPCS 83718,HDL cholesterol level,$43.40,TX
+Rice Medical Center,Chemistry,HCPCS 83020,Hemoglobin Measurement,$37.80,TX
+Rice Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$160.16,TX
+Rice Medical Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$115.50,TX
+Rice Medical Center,Chemistry,HCPCS 83520,IgE (immune system protein) level,$112.00,TX
+Rice Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$86.45,TX
+Rice Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$78.40,TX
+Rice Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$56.00,TX
+Rice Medical Center,Chemistry,HCPCS 83540,Iron level,$46.90,TX
+Rice Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$57.33,TX
+Rice Medical Center,Chemistry,HCPCS 83721,LDL cholesterol level,$47.60,TX
+Rice Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$67.34,TX
+Rice Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$23.10,TX
+Rice Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$103.74,TX
+Rice Medical Center,Chemistry,HCPCS 83021,Liver function blood test panel,$63.00,TX
+Rice Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$71.89,TX
+Rice Medical Center,Chemistry,HCPCS 82542,Mass spectrometry,$104.30,TX
+Rice Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$126.49,TX
+Rice Medical Center,Chemistry,HCPCS 83945,Oxalate level,$66.50,TX
+Rice Medical Center,Chemistry,HCPCS 83970,Parathormone,$215.67,TX
+Rice Medical Center,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$38.50,TX
+Rice Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$19.11,TX
+Rice Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$189.28,TX
+Rice Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$56.70,TX
+Rice Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$93.73,TX
+Rice Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$21.84,TX
+Rice Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$114.80,TX
+Rice Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$105.00,TX
+Rice Medical Center,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$26.60,TX
+Rice Medical Center,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$200.20,TX
+Rice Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$26.60,TX
+Rice Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$35.00,TX
+Rice Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$55.51,TX
+Rice Medical Center,Chemistry,HCPCS 84478,Triglycerides level,$50.96,TX
+Rice Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$18.20,TX
+Rice Medical Center,Chemistry,HCPCS 84560,Uric acid level,$42.70,TX
+Rice Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$23.10,TX
+Rice Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$44.10,TX
+Rice Medical Center,Chemistry,HCPCS 82436,Urine chloride level,$46.20,TX
+Rice Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$56.70,TX
+Rice Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$56.00,TX
+Rice Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$4.90,TX
+Rice Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$41.30,TX
+Rice Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$160.16,TX
+Rice Medical Center,Chemistry,HCPCS 84630,Zinc level,$12.60,TX
+Rice Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$106.40,TX
+Rice Medical Center,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$91.91,TX
+Rice Medical Center,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$63.00,TX
+Rice Medical Center,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$61.60,TX
+Rice Medical Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$60.20,TX
+Rice Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$107.38,TX
+Rice Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$67.34,TX
+Rice Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$53.90,TX
+Rice Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$49.70,TX
+Rice Medical Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$48.30,TX
+Rice Medical Center,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$141.05,TX
+Rice Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$69.16,TX
+Rice Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$27.30,TX
+Rice Medical Center,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$93.80,TX
+Rice Medical Center,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$94.50,TX
+Rice Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$65.10,TX
+Rice Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$95.55,TX
+Rice Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$49.00,TX
+Rice Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$53.90,TX
+Rice Medical Center,Immunology,HCPCS 86580,Skin test for tuberculosis,$17.50,TX
+Rice Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$61.88,TX
+Rice Medical Center,Immunology,HCPCS 86361,T cell count and ratio,$126.00,TX
+Rice Medical Center,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$134.40,TX
+Rice Medical Center,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$67.90,TX
+Rice Medical Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$46.20,TX
+Rice Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$48.30,TX
+Rice Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$36.92,TX
+Rice Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$121.10,TX
+Rice Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$105.00,TX
+Rice Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$137.20,TX
+Rice Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$13.30,TX
+Rice Medical Center,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$46.90,TX
+Rice Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$45.50,TX
+Rice Medical Center,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$304.50,TX
+Rice Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$121.10,TX
+Rice Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$96.60,TX
+Rice Medical Center,Microbiology,HCPCS 87624,HPV Detection,$70.70,TX
+Rice Medical Center,Microbiology,HCPCS 86735,Mumps virus antibody test,$69.30,TX
+Rice Medical Center,Microbiology,HCPCS 86747,Parvovirus antibody test,$67.20,TX
+Rice Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$63.70,TX
+Rice Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$67.90,TX
+Rice Medical Center,Microbiology,HCPCS 87207,Smear for infectious agents,$55.30,TX
+Rice Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$48.30,TX
+Rice Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$70.07,TX
+Rice Medical Center,Microbiology,HCPCS 87045,Stool Culture,$29.40,TX
+Rice Medical Center,Microbiology,HCPCS 87880,Streptoccus,$14.70,TX
+Rice Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$86.45,TX
+Rice Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$61.88,TX
+Rice Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$94.64,TX
+Rice Medical Center,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$200.20,TX
+Rice Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$314.86,TX
+Rice Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$34.30,TX
+Rice Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$56.70,TX
+Rice Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$135.80,TX
+Rice Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$106.40,TX
+Rice Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$34.30,TX
+Rice Medical Center,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$184.10,TX
+Rice Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$125.58,TX
+Rice Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$18.20,TX
+Rice Medical Center,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$144.69,TX
+Rice Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$58.10,TX
+Rice Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$180.18,TX
+Rice Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$137.41,TX
+Rice Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$70.98,TX
+Rice Medical Center,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$113.75,TX
+Rice Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$65.10,TX
+Rice Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$190.19,TX
+Rice Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$94.50,TX
+Rice Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$113.40,TX
+Rice Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$50.05,TX
+Rice Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$49.14,TX
+Rice Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$129.22,TX
+Rice Medical Center,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$31.50,TX
+Rice Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$61.88,TX
+Rice Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$94.64,TX
+Rice Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$20.30,TX
+Rice Medical Center,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$18.90,TX
+Rice Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$44.59,TX
+Rice Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$46.41,TX
+Rice Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$749.84,TX
+Rice Medical Center,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$53.90,TX
+Rice Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$228.41,TX
+Rice Medical Center,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$30.10,TX
+Rice Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,$700.70,TX
+Rice Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,$23.10,TX
+Rice Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$55.51,TX
+Rice Medical Center,Sleep,HCPCS 95810,Sleep study,"$1,415.40",TX
+Rice Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$193.20,TX
+Rice Medical Center,Breast,HCPCS 77067,Mammogram Screening,$35.00,TX
+Rice Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$385.70,TX
+Rice Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,787.10",TX
+Rice Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,749.02",TX
+Rice Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$675.50,TX
+Rice Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$739.20,TX
+Rice Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,770.30",TX
+Rice Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,440.60",TX
+Rice Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,177.75",TX
+Rice Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,871.87",TX
+Rice Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$2,186.73",TX
+Rice Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$930.30,TX
+Rice Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,308.30",TX
+Rice Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,395.80",TX
+Rice Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,834.56",TX
+Rice Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$2,072.70",TX

@@ -1,0 +1,297 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Medical Center Health System,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,499.36",TX
+Medical Center Health System,Emergency Care,HCPCS 99281,Emergency Level 1,$555.72,TX
+Medical Center Health System,Emergency Care,HCPCS 99282,Emergency Level 2,$555.72,TX
+Medical Center Health System,Emergency Care,HCPCS 99283,Emergency Level 3,$555.72,TX
+Medical Center Health System,Emergency Care,HCPCS 99284,Emergency Level 4,$555.72,TX
+Medical Center Health System,Emergency Care,HCPCS 99285,Emergency Level 5,$555.72,TX
+Medical Center Health System,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$127.41,TX
+Medical Center Health System,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$127.41,TX
+Medical Center Health System,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$127.41,TX
+Medical Center Health System,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$105.50,TX
+Medical Center Health System,Speech,HCPCS 92610,Swallow Evaluation,$102.20,TX
+Medical Center Health System,Blood,HCPCS 85018,"Blood count, hemoglobin",$4.76,TX
+Medical Center Health System,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$12.94,TX
+Medical Center Health System,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$10.87,TX
+Medical Center Health System,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$10.87,TX
+Medical Center Health System,Blood,HCPCS 85610,"Blood test, clotting time",$31.58,TX
+Medical Center Health System,Blood,HCPCS 85730,Coagulation assessment blood test,$35.30,TX
+Medical Center Health System,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$25.83,TX
+Medical Center Health System,Blood,HCPCS 85027,"Complete blood count, automated",$25.83,TX
+Medical Center Health System,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$15.11,TX
+Medical Center Health System,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$62.05,TX
+Medical Center Health System,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$37.11,TX
+Medical Center Health System,Chemistry,HCPCS 82040,Albumin (protein) level,$11.04,TX
+Medical Center Health System,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$50.26,TX
+Medical Center Health System,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$49.40,TX
+Medical Center Health System,Chemistry,HCPCS 82140,Ammonia level,$29.91,TX
+Medical Center Health System,Chemistry,HCPCS 82150,Amylase (enzyme) level,$44.89,TX
+Medical Center Health System,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$118.72,TX
+Medical Center Health System,Chemistry,HCPCS 84439,Assay of free thyroxine,$21.90,TX
+Medical Center Health System,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$27.02,TX
+Medical Center Health System,Chemistry,HCPCS 82248,Bilirubin level (Direct),$12.56,TX
+Medical Center Health System,Chemistry,HCPCS 82247,Bilirubin level (Total),$12.56,TX
+Medical Center Health System,Chemistry,HCPCS 82565,Blood creatinine level,$12.82,TX
+Medical Center Health System,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$7.56,TX
+Medical Center Health System,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$7.56,TX
+Medical Center Health System,Chemistry,HCPCS 84132,Blood potassium level,$12.86,TX
+Medical Center Health System,Chemistry,HCPCS 84295,Blood sodium level,$11.63,TX
+Medical Center Health System,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$23.41,TX
+Medical Center Health System,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$26.34,TX
+Medical Center Health System,Chemistry,HCPCS 82310,Calcium level,$15.14,TX
+Medical Center Health System,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$30.95,TX
+Medical Center Health System,Chemistry,HCPCS 82465,Cholesterol level,$15.98,TX
+Medical Center Health System,Chemistry,HCPCS 82525,Copper level,$39.42,TX
+Medical Center Health System,Chemistry,HCPCS 82533,Cortisol Measurement,$24.14,TX
+Medical Center Health System,Chemistry,HCPCS 84681,C-peptide (protein) level,$14.28,TX
+Medical Center Health System,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$26.99,TX
+Medical Center Health System,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$18.84,TX
+Medical Center Health System,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$75.95,TX
+Medical Center Health System,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$23.65,TX
+Medical Center Health System,Chemistry,HCPCS 82746,Folic acid; serum,$36.97,TX
+Medical Center Health System,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$34.04,TX
+Medical Center Health System,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$21.49,TX
+Medical Center Health System,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$17.82,TX
+Medical Center Health System,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$22.32,TX
+Medical Center Health System,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$35.05,TX
+Medical Center Health System,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$50.68,TX
+Medical Center Health System,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$38.55,TX
+Medical Center Health System,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$21.44,TX
+Medical Center Health System,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$60.08,TX
+Medical Center Health System,Chemistry,HCPCS 83525,Insulin Measurement; Total,$14.17,TX
+Medical Center Health System,Chemistry,HCPCS 82330,Ionized Calcium,$15.14,TX
+Medical Center Health System,Chemistry,HCPCS 83550,Iron Binding Capacity,$12.31,TX
+Medical Center Health System,Chemistry,HCPCS 83540,Iron level,$15.66,TX
+Medical Center Health System,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$30.34,TX
+Medical Center Health System,Chemistry,HCPCS 83721,LDL cholesterol level,$28.84,TX
+Medical Center Health System,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$49.05,TX
+Medical Center Health System,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$21.05,TX
+Medical Center Health System,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$30.71,TX
+Medical Center Health System,Chemistry,HCPCS 83735,Magnesium Level,$24.54,TX
+Medical Center Health System,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$37.61,TX
+Medical Center Health System,Chemistry,HCPCS 83918,Organic acid level,$65.59,TX
+Medical Center Health System,Chemistry,HCPCS 83970,Parathormone,$64.50,TX
+Medical Center Health System,Chemistry,HCPCS 84157,Prealbumin (protein) level,$20.89,TX
+Medical Center Health System,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$60.08,TX
+Medical Center Health System,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$21.26,TX
+Medical Center Health System,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$20.89,TX
+Medical Center Health System,Chemistry,HCPCS 82270,Stool analysis for blood,$14.49,TX
+Medical Center Health System,Chemistry,HCPCS 84403,Testosterone (hormone) level,$32.60,TX
+Medical Center Health System,Chemistry,HCPCS 84402,Testosterone Level; Free,$32.60,TX
+Medical Center Health System,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$36.40,TX
+Medical Center Health System,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$21.90,TX
+Medical Center Health System,Chemistry,HCPCS 84155,"Total protein level, blood",$20.89,TX
+Medical Center Health System,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$20.89,TX
+Medical Center Health System,Chemistry,HCPCS 84166,Troponin (protein) analysis,$20.89,TX
+Medical Center Health System,Chemistry,HCPCS 84550,"Uric acid level, blood",$12.82,TX
+Medical Center Health System,Chemistry,HCPCS 82340,Urine calcium level,$15.14,TX
+Medical Center Health System,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$11.04,TX
+Medical Center Health System,Chemistry,HCPCS 84133,Urine potassium level,$12.86,TX
+Medical Center Health System,Chemistry,HCPCS 84300,Urine sodium level,$11.63,TX
+Medical Center Health System,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$33.22,TX
+Medical Center Health System,Chemistry,HCPCS 84630,Zinc level,$36.00,TX
+Medical Center Health System,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$19.98,TX
+Medical Center Health System,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$30.07,TX
+Medical Center Health System,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$19.16,TX
+Medical Center Health System,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$19.16,TX
+Medical Center Health System,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$23.35,TX
+Medical Center Health System,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$39.65,TX
+Medical Center Health System,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$23.35,TX
+Medical Center Health System,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$23.35,TX
+Medical Center Health System,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$26.17,TX
+Medical Center Health System,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$35.15,TX
+Medical Center Health System,Immunology,HCPCS 86140,Measurement C-reactive protein,$22.98,TX
+Medical Center Health System,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$7.39,TX
+Medical Center Health System,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$42.65,TX
+Medical Center Health System,Immunology,HCPCS 86161,Measurement of complement (immune system proteins),$40.39,TX
+Medical Center Health System,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$23.35,TX
+Medical Center Health System,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$26.15,TX
+Medical Center Health System,Immunology,HCPCS 86431,Rheumatoid factor level,$20.18,TX
+Medical Center Health System,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$12.95,TX
+Medical Center Health System,Immunology,HCPCS 86592,Syphilis Detection Test,$9.94,TX
+Medical Center Health System,Immunology,HCPCS 86361,T cell count and ratio,$57.17,TX
+Medical Center Health System,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$57.17,TX
+Medical Center Health System,Immunology,HCPCS 86359,"T cells count, total",$57.17,TX
+Medical Center Health System,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$14.61,TX
+Medical Center Health System,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$49.71,TX
+Medical Center Health System,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$20.38,TX
+Medical Center Health System,Microbiology,HCPCS 87491,Chlamydia Test,$30.04,TX
+Medical Center Health System,Microbiology,HCPCS 87635,Covid-19 current infection test,$66.53,TX
+Medical Center Health System,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$57.78,TX
+Medical Center Health System,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$15.49,TX
+Medical Center Health System,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$97.02,TX
+Medical Center Health System,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$23.35,TX
+Medical Center Health System,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$60.46,TX
+Medical Center Health System,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$23.77,TX
+Medical Center Health System,Microbiology,HCPCS 87517,Hepatitis B Detection,$84.23,TX
+Medical Center Health System,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$17.61,TX
+Medical Center Health System,Microbiology,HCPCS 87624,HPV Detection,$28.81,TX
+Medical Center Health System,Microbiology,HCPCS 86735,Mumps virus antibody test,$12.04,TX
+Medical Center Health System,Microbiology,HCPCS 86762,Rubella virus antibody test,$20.13,TX
+Medical Center Health System,Microbiology,HCPCS 86765,Rubeola virus antibody test,$13.44,TX
+Medical Center Health System,Microbiology,HCPCS 87207,Smear for infectious agents,$24.50,TX
+Medical Center Health System,Microbiology,HCPCS 87177,Smear for Parasites,$31.43,TX
+Medical Center Health System,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$24.50,TX
+Medical Center Health System,Microbiology,HCPCS 87045,Stool Culture,$54.14,TX
+Medical Center Health System,Microbiology,HCPCS 87880,Strep Test,$49.07,TX
+Medical Center Health System,Microbiology,HCPCS 87804,Test for Influenza Virus,$26.30,TX
+Medical Center Health System,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$9.94,TX
+Medical Center Health System,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$26.70,TX
+Medical Center Health System,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$81.73,TX
+Medical Center Health System,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$49.11,TX
+Medical Center Health System,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$66.60,TX
+Medical Center Health System,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$29.26,TX
+Medical Center Health System,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$52.83,TX
+Medical Center Health System,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$61.11,TX
+Medical Center Health System,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$83.16,TX
+Medical Center Health System,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$38.78,TX
+Medical Center Health System,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$46.78,TX
+Medical Center Health System,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$22.37,TX
+Medical Center Health System,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$20.57,TX
+Medical Center Health System,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$36.68,TX
+Medical Center Health System,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$25.60,TX
+Medical Center Health System,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$60.90,TX
+Medical Center Health System,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$27.69,TX
+Medical Center Health System,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$21.56,TX
+Medical Center Health System,Transfusion,HCPCS 86900,"Blood Typing, ABO",$27.96,TX
+Medical Center Health System,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$27.96,TX
+Medical Center Health System,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$50.12,TX
+Medical Center Health System,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$26.01,TX
+Medical Center Health System,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$4.92,TX
+Medical Center Health System,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$19.70,TX
+Medical Center Health System,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$19.70,TX
+Medical Center Health System,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$35.73,TX
+Medical Center Health System,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$650.70,TX
+Medical Center Health System,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$92.37,TX
+Medical Center Health System,Cardiovascular,HCPCS 93975,Ultrasound Heart,$189.08,TX
+Medical Center Health System,Pulmonary,HCPCS 94640,Aerosol Treatment,$121.28,TX
+Medical Center Health System,Pulmonary,HCPCS 94010,Spirometry - breathing test,$180.00,TX
+Medical Center Health System,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$85.46,TX
+Medical Center Health System,Breast,HCPCS 77067,Mammogram Screening,$77.00,TX
+Medical Center Health System,Breast,HCPCS 77066,Mammography of both breasts,$85.46,TX
+Medical Center Health System,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,$870.47,TX
+Medical Center Health System,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$756.84,TX
+Medical Center Health System,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$648.34,TX
+Medical Center Health System,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$579.04,TX
+Medical Center Health System,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,539.63",TX
+Medical Center Health System,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,539.63",TX
+Medical Center Health System,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,165.92",TX
+Medical Center Health System,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,047.54",TX
+Medical Center Health System,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,047.54",TX
+Medical Center Health System,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,009.82",TX
+Medical Center Health System,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$696.92,TX
+Medical Center Health System,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$860.71,TX
+Medical Center Health System,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$840.13,TX
+Medical Center Health System,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)",$712.43,TX
+Medical Center Health System,MRI,HCPCS 72146,MRI chest spine without contrast material,$799.09,TX
+Medical Center Health System,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$799.09,TX
+Medical Center Health System,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$1,222.22",TX
+Medical Center Health System,MRI,HCPCS 72141,MRI neck spine without contrast material,$799.09,TX
+Medical Center Health System,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,142.94",TX
+Medical Center Health System,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,119.43",TX
+Medical Center Health System,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,103.84",TX
+Medical Center Health System,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$861.56,TX
+Medical Center Health System,MRI,HCPCS 73721,MRI scan of leg joint,$741.97,TX
+Medical Center Health System,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$190.09,TX
+Medical Center Health System,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$225.12,TX
+Medical Center Health System,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$218.40,TX
+Medical Center Health System,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$208.88,TX
+Medical Center Health System,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$230.28,TX
+Medical Center Health System,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$230.28,TX
+Medical Center Health System,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$257.04,TX
+Medical Center Health System,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$203.28,TX
+Medical Center Health System,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$116.13,TX
+Medical Center Health System,Chest,HCPCS 71046,X-ray of chest; 2 Views,$117.02,TX
+Medical Center Health System,Chest,HCPCS 71045,X-ray of chest; Single View,$117.02,TX
+Medical Center Health System,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$95.48,TX
+Medical Center Health System,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$143.08,TX
+Medical Center Health System,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$84.56,TX
+Medical Center Health System,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$160.09,TX
+Medical Center Health System,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$123.45,TX
+Medical Center Health System,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$158.48,TX
+Medical Center Health System,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$140.70,TX
+Medical Center Health System,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$126.84,TX
+Medical Center Health System,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$129.57,TX
+Medical Center Health System,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$129.57,TX
+Medical Center Health System,Lower Limbs,HCPCS 73565,X-ray Both Knees,$165.00,TX
+Medical Center Health System,Lower Limbs,HCPCS 73630,X-ray exam of foot,$129.57,TX
+Medical Center Health System,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$165.00,TX
+Medical Center Health System,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$121.40,TX
+Medical Center Health System,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$129.57,TX
+Medical Center Health System,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$99.40,TX
+Medical Center Health System,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$165.00,TX
+Medical Center Health System,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$165.00,TX
+Medical Center Health System,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$108.08,TX
+Medical Center Health System,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$153.58,TX
+Medical Center Health System,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$151.36,TX
+Medical Center Health System,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$151.36,TX
+Medical Center Health System,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$124.70,TX
+Medical Center Health System,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$103.00,TX
+Medical Center Health System,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$124.88,TX
+Medical Center Health System,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$130.26,TX
+Medical Center Health System,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$130.26,TX
+Medical Center Health System,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$128.66,TX
+Medical Center Health System,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$130.26,TX
+Medical Center Health System,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$130.26,TX
+Medical Center Health System,Abdomenal,HCPCS 47562,Cholecystectomy,"$3,560.56",TX
+Medical Center Health System,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$3,560.56",TX
+Medical Center Health System,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,"$3,248.61",TX
+Medical Center Health System,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$3,248.61",TX
+Medical Center Health System,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$3,404.12",TX
+Medical Center Health System,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$203.95,TX
+Medical Center Health System,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$203.95,TX
+Medical Center Health System,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$12,094.76",TX
+Medical Center Health System,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$4,691.64",TX
+Medical Center Health System,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$4,691.64",TX
+Medical Center Health System,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$4,691.64",TX
+Medical Center Health System,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$1,803.36",TX
+Medical Center Health System,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$3,404.12",TX
+Medical Center Health System,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$2,374.08",TX
+Medical Center Health System,Breast,HCPCS 19301,Partial removal of breast,"$3,077.13",TX
+Medical Center Health System,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),"$51,663.80",TX
+Medical Center Health System,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$41,531.98",TX
+Medical Center Health System,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$41,531.98",TX
+Medical Center Health System,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$6,411.32",TX
+Medical Center Health System,Cardiac,MSDRG 247,Implant drug-eluting stent,"$19,637.73",TX
+Medical Center Health System,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,045.94",TX
+Medical Center Health System,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,082.72",TX
+Medical Center Health System,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,052.19",TX
+Medical Center Health System,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,052.19",TX
+Medical Center Health System,Digestive,HCPCS 43235,EGD,"$1,135.74",TX
+Medical Center Health System,Digestive,HCPCS 43239,EGD and biopsy,"$1,028.99",TX
+Medical Center Health System,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$7,713.72",TX
+Medical Center Health System,General,HCPCS 10060,Drainage of Abscess,$404.26,TX
+Medical Center Health System,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$457.36,TX
+Medical Center Health System,General,HCPCS 69200,Removal of foreign body from ear canal,$478.20,TX
+Medical Center Health System,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$505.95,TX
+Medical Center Health System,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$505.95,TX
+Medical Center Health System,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$505.95,TX
+Medical Center Health System,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$505.95,TX
+Medical Center Health System,Head,HCPCS 69436,Create eardrum opening,$980.04,TX
+Medical Center Health System,Head,HCPCS 69631,Repair of eardrum,"$5,149.73",TX
+Medical Center Health System,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$1,699.47",TX
+Medical Center Health System,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$1,951.53",TX
+Medical Center Health System,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$11,271.75",TX
+Medical Center Health System,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$974.78,TX
+Medical Center Health System,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,$974.78,TX
+Medical Center Health System,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$1,247.85",TX
+Medical Center Health System,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$719.42,TX
+Medical Center Health System,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$17,266.17",TX
+Medical Center Health System,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$2,753.54",TX
+Medical Center Health System,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$24,539.87",TX
+Medical Center Health System,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$11,271.75",TX
+Medical Center Health System,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$2,306.49",TX
+Medical Center Health System,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$5,422.96",TX
+Medical Center Health System,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$3,366.69",TX
+Medical Center Health System,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$3,125.15",TX
+Medical Center Health System,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$3,161.00",TX
+Medical Center Health System,Ocular,HCPCS 66984,Cataract removal,"$3,384.54",TX
+Medical Center Health System,Ocular,HCPCS 66982,Cataract removal with insertion of lens,"$3,384.54",TX
+Medical Center Health System,Ocular,HCPCS 67108,Repair of detached retina,"$6,421.80",TX
+Medical Center Health System,Soft Tissue,HCPCS 97597,Debridement of open wound,$333.00,TX
+Medical Center Health System,Soft Tissue,HCPCS 97602,Non-selective debridement,$333.00,TX
+Medical Center Health System,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$42.84,TX
+Medical Center Health System,Vascular,HCPCS 36416,Collection of capillary blood specimen,$4.58,TX
+Medical Center Health System,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,693.84",TX
+Medical Center Health System,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$827.77,TX
+Medical Center Health System,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,$655.85,TX

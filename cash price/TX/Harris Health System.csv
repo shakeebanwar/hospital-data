@@ -1,0 +1,97 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Harris Health System,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$116.01,TX
+Harris Health System,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$116.01,TX
+Harris Health System,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$116.01,TX
+Harris Health System,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$131.45,TX
+Harris Health System,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$131.45,TX
+Harris Health System,Psychology,HCPCS 90853,Group psychotherapy,$78.59,TX
+Harris Health System,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$131.45,TX
+Harris Health System,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$131.45,TX
+Harris Health System,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$131.45,TX
+Harris Health System,Blood,HCPCS 85610,"Blood test, clotting time",$4.29,TX
+Harris Health System,Blood,HCPCS 85730,Coagulation assessment blood test,$74.46,TX
+Harris Health System,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$7.77,TX
+Harris Health System,Blood,HCPCS 85027,"Complete blood count, automated",$6.47,TX
+Harris Health System,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$16.80,TX
+Harris Health System,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$8.46,TX
+Harris Health System,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$10.56,TX
+Harris Health System,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$13.39,TX
+Harris Health System,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$8.68,TX
+Harris Health System,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$8.17,TX
+Harris Health System,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$47.81,TX
+Harris Health System,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$3.48,TX
+Harris Health System,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$2.25,TX
+Harris Health System,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$3.17,TX
+Harris Health System,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$253.27,TX
+Harris Health System,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$55.05,TX
+Harris Health System,Pulmonary,HCPCS 94640,Aerosol Treatment,$184.08,TX
+Harris Health System,Pulmonary,HCPCS 94010,Spirometry - breathing test,$138.44,TX
+Harris Health System,Sleep,HCPCS 95810,Sleep study,$909.55,TX
+Harris Health System,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$175.22,TX
+Harris Health System,Breast,HCPCS 77067,Mammogram Screening,$142.04,TX
+Harris Health System,Breast,HCPCS 77066,Mammography of both breasts,$142.04,TX
+Harris Health System,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,$182.34,TX
+Harris Health System,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$112.15,TX
+Harris Health System,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$112.15,TX
+Harris Health System,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,$382.10,TX
+Harris Health System,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$233.19,TX
+Harris Health System,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$182.34,TX
+Harris Health System,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$112.15,TX
+Harris Health System,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$182.34,TX
+Harris Health System,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$233.19,TX
+Harris Health System,MRI,HCPCS 70553,MRI scan of brain before and after contrast,$382.10,TX
+Harris Health System,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$233.19,TX
+Harris Health System,MRI,HCPCS 73721,MRI scan of leg joint,$233.19,TX
+Harris Health System,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$112.15,TX
+Harris Health System,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$112.15,TX
+Harris Health System,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$112.15,TX
+Harris Health System,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$112.15,TX
+Harris Health System,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$112.15,TX
+Harris Health System,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$112.15,TX
+Harris Health System,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$112.15,TX
+Harris Health System,Chest,HCPCS 71046,X-ray of chest; 2 Views,$79.86,TX
+Harris Health System,Chest,HCPCS 71045,X-ray of chest; Single View,$79.86,TX
+Harris Health System,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$79.86,TX
+Harris Health System,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$79.86,TX
+Harris Health System,Lower Limbs,HCPCS 73565,X-ray Both Knees,$79.86,TX
+Harris Health System,Lower Limbs,HCPCS 73630,X-ray exam of foot,$79.86,TX
+Harris Health System,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$79.86,TX
+Harris Health System,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$79.86,TX
+Harris Health System,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$79.86,TX
+Harris Health System,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$112.15,TX
+Harris Health System,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$112.15,TX
+Harris Health System,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$79.86,TX
+Harris Health System,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$79.86,TX
+Harris Health System,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$79.86,TX
+Harris Health System,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$79.86,TX
+Harris Health System,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$79.86,TX
+Harris Health System,Abdomenal,HCPCS 47562,Cholecystectomy,"$4,836.90",TX
+Harris Health System,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$3,111.39",TX
+Harris Health System,Breast,HCPCS 19120,Excision of cyst of breast,"$3,031.55",TX
+Harris Health System,Cardiac,MSDRG 216,Cardiac valve procedure,"$66,277.85",TX
+Harris Health System,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$2,851.83",TX
+Harris Health System,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",$764.38,TX
+Harris Health System,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,004.88",TX
+Harris Health System,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,004.88",TX
+Harris Health System,Digestive,HCPCS 43235,EGD,$786.44,TX
+Harris Health System,Digestive,HCPCS 43239,EGD and biopsy,$786.44,TX
+Harris Health System,Digestive,HCPCS 45391,Ultrasound of lower large bowel using an endoscope,"$1,004.88",TX
+Harris Health System,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$7,195.18",TX
+Harris Health System,General,HCPCS 55700,Biopsy of prostate gland,"$1,772.72",TX
+Harris Health System,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$319.72,TX
+Harris Health System,General,HCPCS 55866,Prostatectomy,"$8,418.66",TX
+Harris Health System,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$319.72,TX
+Harris Health System,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$4,853.73",TX
+Harris Health System,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$215.78,TX
+Harris Health System,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$625.46,TX
+Harris Health System,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$812.59,TX
+Harris Health System,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$261.94,TX
+Harris Health System,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$12,072.87",TX
+Harris Health System,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$2,739.26",TX
+Harris Health System,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$2,242.04",TX
+Harris Health System,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$16,141.65",TX
+Harris Health System,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$24,990.26",TX
+Harris Health System,Ocular,HCPCS 66984,Cataract removal,"$2,023.19",TX
+Harris Health System,Ocular,HCPCS 66821,Laser cataract removal,$507.26,TX
+Harris Health System,Soft Tissue,HCPCS 97597,Debridement of open wound,$174.85,TX
+Harris Health System,Soft Tissue,HCPCS 97602,Non-selective debridement,$174.85,TX

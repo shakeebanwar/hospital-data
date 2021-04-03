@@ -1,0 +1,580 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State,plan_name,price
+Princeton Baptist Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$39,852.55",AL,Commercial Insurance hmo,7439.14
+Princeton Baptist Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$39,852.55",AL,Commercial Insurance pos,7439.14
+Princeton Baptist Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$39,852.55",AL,Commercial Insurance ppo,7439.14
+Princeton Baptist Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$39,852.55",AL,Simpra ppo,7173.46
+Princeton Baptist Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$39,852.55",AL,VIVA Health ppo,3719.57
+Princeton Baptist Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$39,852.55",AL,VIVA Health hmo,3719.57
+Princeton Baptist Medical Center,Speech,HCPCS 92507,Speech Therapy,"$4,080.44",AL,Commercial Insurance hmo,761.68
+Princeton Baptist Medical Center,Speech,HCPCS 92507,Speech Therapy,"$4,080.44",AL,Commercial Insurance pos,761.68
+Princeton Baptist Medical Center,Speech,HCPCS 92507,Speech Therapy,"$4,080.44",AL,Commercial Insurance ppo,761.68
+Princeton Baptist Medical Center,Speech,HCPCS 92507,Speech Therapy,"$4,080.44",AL,Simpra ppo,734.48
+Princeton Baptist Medical Center,Speech,HCPCS 92507,Speech Therapy,"$4,080.44",AL,VIVA Health ppo,380.84
+Princeton Baptist Medical Center,Speech,HCPCS 92507,Speech Therapy,"$4,080.44",AL,VIVA Health hmo,380.84
+Princeton Baptist Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$7,891.61",AL,Commercial Insurance hmo,1473.10
+Princeton Baptist Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$7,891.61",AL,Commercial Insurance pos,1473.10
+Princeton Baptist Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$7,891.61",AL,Commercial Insurance ppo,1473.10
+Princeton Baptist Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$7,891.61",AL,Simpra ppo,1420.49
+Princeton Baptist Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$7,891.61",AL,VIVA Health ppo,736.55
+Princeton Baptist Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$7,891.61",AL,VIVA Health hmo,736.55
+Princeton Baptist Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$36.24,AL,Commercial Insurance hmo,6.76
+Princeton Baptist Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$36.24,AL,Commercial Insurance pos,6.76
+Princeton Baptist Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$36.24,AL,Commercial Insurance ppo,6.76
+Princeton Baptist Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$36.24,AL,Simpra ppo,0.48
+Princeton Baptist Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$36.24,AL,VIVA Health ppo,3.14
+Princeton Baptist Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$36.24,AL,VIVA Health hmo,3.14
+Princeton Baptist Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$115.70,AL,Commercial Insurance hmo,21.60
+Princeton Baptist Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$115.70,AL,Commercial Insurance pos,21.60
+Princeton Baptist Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$115.70,AL,Commercial Insurance ppo,21.60
+Princeton Baptist Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$115.70,AL,Simpra ppo,1.54
+Princeton Baptist Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$115.70,AL,VIVA Health ppo,10.03
+Princeton Baptist Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$115.70,AL,VIVA Health hmo,10.03
+Princeton Baptist Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$130.36,AL,Commercial Insurance hmo,24.33
+Princeton Baptist Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$130.36,AL,Commercial Insurance pos,24.33
+Princeton Baptist Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$130.36,AL,Commercial Insurance ppo,24.33
+Princeton Baptist Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$130.36,AL,Simpra ppo,23.46
+Princeton Baptist Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$130.36,AL,VIVA Health ppo,11.30
+Princeton Baptist Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$130.36,AL,VIVA Health hmo,11.30
+Princeton Baptist Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$149.02,AL,Commercial Insurance hmo,27.82
+Princeton Baptist Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$149.02,AL,Commercial Insurance pos,27.82
+Princeton Baptist Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$149.02,AL,Commercial Insurance ppo,27.82
+Princeton Baptist Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$149.02,AL,Simpra ppo,26.82
+Princeton Baptist Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$149.02,AL,VIVA Health ppo,12.91
+Princeton Baptist Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$149.02,AL,VIVA Health hmo,12.91
+Princeton Baptist Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$121.67,AL,Commercial Insurance hmo,22.71
+Princeton Baptist Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$121.67,AL,Commercial Insurance pos,22.71
+Princeton Baptist Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$121.67,AL,Commercial Insurance ppo,22.71
+Princeton Baptist Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$121.67,AL,Simpra ppo,1.62
+Princeton Baptist Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$121.67,AL,VIVA Health ppo,6.47
+Princeton Baptist Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$121.67,AL,VIVA Health hmo,6.47
+Princeton Baptist Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$9,393.17",AL,Commercial Insurance hmo,1753.39
+Princeton Baptist Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$9,393.17",AL,Commercial Insurance pos,1753.39
+Princeton Baptist Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$9,393.17",AL,Commercial Insurance ppo,1753.39
+Princeton Baptist Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$9,393.17",AL,Simpra ppo,1690.77
+Princeton Baptist Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$9,393.17",AL,VIVA Health ppo,876.70
+Princeton Baptist Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$9,393.17",AL,VIVA Health hmo,876.70
+Princeton Baptist Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$175.91,AL,Commercial Insurance hmo,32.84
+Princeton Baptist Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$175.91,AL,Commercial Insurance pos,32.84
+Princeton Baptist Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$175.91,AL,Commercial Insurance ppo,32.84
+Princeton Baptist Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$175.91,AL,Simpra ppo,31.66
+Princeton Baptist Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$175.91,AL,VIVA Health ppo,15.25
+Princeton Baptist Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$175.91,AL,VIVA Health hmo,15.25
+Princeton Baptist Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$94.82,AL,Commercial Insurance hmo,17.70
+Princeton Baptist Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$94.82,AL,Commercial Insurance pos,17.70
+Princeton Baptist Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$94.82,AL,Commercial Insurance ppo,17.70
+Princeton Baptist Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$94.82,AL,Simpra ppo,1.26
+Princeton Baptist Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$94.82,AL,VIVA Health ppo,8.22
+Princeton Baptist Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$94.82,AL,VIVA Health hmo,8.22
+Princeton Baptist Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$49.69,AL,Commercial Insurance hmo,9.28
+Princeton Baptist Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$49.69,AL,Commercial Insurance pos,9.28
+Princeton Baptist Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$49.69,AL,Commercial Insurance ppo,9.28
+Princeton Baptist Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$49.69,AL,Simpra ppo,8.94
+Princeton Baptist Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$49.69,AL,VIVA Health ppo,4.31
+Princeton Baptist Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$49.69,AL,VIVA Health hmo,4.31
+Princeton Baptist Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$66.86,AL,Commercial Insurance hmo,12.48
+Princeton Baptist Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$66.86,AL,Commercial Insurance pos,12.48
+Princeton Baptist Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$66.86,AL,Commercial Insurance ppo,12.48
+Princeton Baptist Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$66.86,AL,Simpra ppo,12.04
+Princeton Baptist Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$66.86,AL,VIVA Health ppo,5.79
+Princeton Baptist Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$66.86,AL,VIVA Health hmo,5.79
+Princeton Baptist Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$53.64,AL,Commercial Insurance hmo,10.01
+Princeton Baptist Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$53.64,AL,Commercial Insurance pos,10.01
+Princeton Baptist Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$53.64,AL,Commercial Insurance ppo,10.01
+Princeton Baptist Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$53.64,AL,Simpra ppo,0.72
+Princeton Baptist Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$53.64,AL,VIVA Health ppo,4.65
+Princeton Baptist Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$53.64,AL,VIVA Health hmo,4.65
+Princeton Baptist Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$138.46,AL,Commercial Insurance hmo,25.85
+Princeton Baptist Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$138.46,AL,Commercial Insurance pos,25.85
+Princeton Baptist Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$138.46,AL,Commercial Insurance ppo,25.85
+Princeton Baptist Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$138.46,AL,Simpra ppo,1.85
+Princeton Baptist Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$138.46,AL,VIVA Health ppo,12.00
+Princeton Baptist Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$138.46,AL,VIVA Health hmo,12.00
+Princeton Baptist Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$178.49,AL,Commercial Insurance hmo,33.32
+Princeton Baptist Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$178.49,AL,Commercial Insurance pos,33.32
+Princeton Baptist Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$178.49,AL,Commercial Insurance ppo,33.32
+Princeton Baptist Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$178.49,AL,Simpra ppo,32.13
+Princeton Baptist Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$178.49,AL,VIVA Health ppo,15.47
+Princeton Baptist Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$178.49,AL,VIVA Health hmo,15.47
+Princeton Baptist Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$116.98,AL,Commercial Insurance hmo,21.84
+Princeton Baptist Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$116.98,AL,Commercial Insurance pos,21.84
+Princeton Baptist Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$116.98,AL,Commercial Insurance ppo,21.84
+Princeton Baptist Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$116.98,AL,Simpra ppo,1.56
+Princeton Baptist Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$116.98,AL,VIVA Health ppo,10.14
+Princeton Baptist Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$116.98,AL,VIVA Health hmo,10.14
+Princeton Baptist Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$87.00,AL,Commercial Insurance hmo,16.24
+Princeton Baptist Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$87.00,AL,Commercial Insurance pos,16.24
+Princeton Baptist Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$87.00,AL,Commercial Insurance ppo,16.24
+Princeton Baptist Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$87.00,AL,Simpra ppo,15.66
+Princeton Baptist Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$87.00,AL,VIVA Health ppo,7.54
+Princeton Baptist Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$87.00,AL,VIVA Health hmo,7.54
+Princeton Baptist Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$103.53,AL,Commercial Insurance hmo,19.33
+Princeton Baptist Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$103.53,AL,Commercial Insurance pos,19.33
+Princeton Baptist Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$103.53,AL,Commercial Insurance ppo,19.33
+Princeton Baptist Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$103.53,AL,Simpra ppo,1.38
+Princeton Baptist Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$103.53,AL,VIVA Health ppo,8.97
+Princeton Baptist Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$103.53,AL,VIVA Health hmo,8.97
+Princeton Baptist Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$97.04,AL,Commercial Insurance hmo,18.11
+Princeton Baptist Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$97.04,AL,Commercial Insurance pos,18.11
+Princeton Baptist Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$97.04,AL,Commercial Insurance ppo,18.11
+Princeton Baptist Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$97.04,AL,Simpra ppo,17.47
+Princeton Baptist Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$97.04,AL,VIVA Health ppo,8.41
+Princeton Baptist Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$97.04,AL,VIVA Health hmo,8.41
+Princeton Baptist Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$118.27,AL,Commercial Insurance hmo,22.08
+Princeton Baptist Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$118.27,AL,Commercial Insurance pos,22.08
+Princeton Baptist Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$118.27,AL,Commercial Insurance ppo,22.08
+Princeton Baptist Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$118.27,AL,Simpra ppo,21.29
+Princeton Baptist Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$118.27,AL,VIVA Health ppo,10.25
+Princeton Baptist Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$118.27,AL,VIVA Health hmo,10.25
+Princeton Baptist Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$71.23,AL,Commercial Insurance hmo,13.30
+Princeton Baptist Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$71.23,AL,Commercial Insurance pos,13.30
+Princeton Baptist Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$71.23,AL,Commercial Insurance ppo,13.30
+Princeton Baptist Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$71.23,AL,Simpra ppo,12.82
+Princeton Baptist Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$71.23,AL,VIVA Health ppo,6.17
+Princeton Baptist Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$71.23,AL,VIVA Health hmo,6.17
+Princeton Baptist Medical Center,Chemistry,HCPCS 83540,Iron level,$21.75,AL,Commercial Insurance hmo,4.06
+Princeton Baptist Medical Center,Chemistry,HCPCS 83540,Iron level,$21.75,AL,Commercial Insurance pos,4.06
+Princeton Baptist Medical Center,Chemistry,HCPCS 83540,Iron level,$21.75,AL,Commercial Insurance ppo,4.06
+Princeton Baptist Medical Center,Chemistry,HCPCS 83540,Iron level,$21.75,AL,Simpra ppo,0.29
+Princeton Baptist Medical Center,Chemistry,HCPCS 83540,Iron level,$21.75,AL,VIVA Health ppo,1.89
+Princeton Baptist Medical Center,Chemistry,HCPCS 83540,Iron level,$21.75,AL,VIVA Health hmo,1.89
+Princeton Baptist Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$103.61,AL,Commercial Insurance hmo,19.34
+Princeton Baptist Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$103.61,AL,Commercial Insurance pos,19.34
+Princeton Baptist Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$103.61,AL,Commercial Insurance ppo,19.34
+Princeton Baptist Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$103.61,AL,Simpra ppo,1.38
+Princeton Baptist Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$103.61,AL,VIVA Health ppo,8.98
+Princeton Baptist Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$103.61,AL,VIVA Health hmo,8.98
+Princeton Baptist Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$173.25,AL,Commercial Insurance hmo,32.34
+Princeton Baptist Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$173.25,AL,Commercial Insurance pos,32.34
+Princeton Baptist Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$173.25,AL,Commercial Insurance ppo,32.34
+Princeton Baptist Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$173.25,AL,Simpra ppo,2.31
+Princeton Baptist Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$173.25,AL,VIVA Health ppo,15.02
+Princeton Baptist Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$173.25,AL,VIVA Health hmo,15.02
+Princeton Baptist Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$65.46,AL,Commercial Insurance hmo,12.22
+Princeton Baptist Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$65.46,AL,Commercial Insurance pos,12.22
+Princeton Baptist Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$65.46,AL,Commercial Insurance ppo,12.22
+Princeton Baptist Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$65.46,AL,Simpra ppo,11.78
+Princeton Baptist Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$65.46,AL,VIVA Health ppo,5.67
+Princeton Baptist Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$65.46,AL,VIVA Health hmo,5.67
+Princeton Baptist Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$76.18,AL,Commercial Insurance hmo,14.22
+Princeton Baptist Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$76.18,AL,Commercial Insurance pos,14.22
+Princeton Baptist Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$76.18,AL,Commercial Insurance ppo,14.22
+Princeton Baptist Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$76.18,AL,Simpra ppo,1.02
+Princeton Baptist Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$76.18,AL,VIVA Health ppo,6.60
+Princeton Baptist Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$76.18,AL,VIVA Health hmo,6.60
+Princeton Baptist Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$115.18,AL,Commercial Insurance hmo,21.50
+Princeton Baptist Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$115.18,AL,Commercial Insurance pos,21.50
+Princeton Baptist Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$115.18,AL,Commercial Insurance ppo,21.50
+Princeton Baptist Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$115.18,AL,Simpra ppo,1.54
+Princeton Baptist Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$115.18,AL,VIVA Health ppo,9.98
+Princeton Baptist Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$115.18,AL,VIVA Health hmo,9.98
+Princeton Baptist Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$84.08,AL,Commercial Insurance hmo,15.70
+Princeton Baptist Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$84.08,AL,Commercial Insurance pos,15.70
+Princeton Baptist Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$84.08,AL,Commercial Insurance ppo,15.70
+Princeton Baptist Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$84.08,AL,Simpra ppo,1.12
+Princeton Baptist Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$84.08,AL,VIVA Health ppo,7.29
+Princeton Baptist Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$84.08,AL,VIVA Health hmo,7.29
+Princeton Baptist Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$24.24,AL,Commercial Insurance hmo,4.52
+Princeton Baptist Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$24.24,AL,Commercial Insurance pos,4.52
+Princeton Baptist Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$24.24,AL,Commercial Insurance ppo,4.52
+Princeton Baptist Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$24.24,AL,Simpra ppo,4.36
+Princeton Baptist Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$24.24,AL,VIVA Health ppo,2.10
+Princeton Baptist Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$24.24,AL,VIVA Health hmo,2.10
+Princeton Baptist Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$110.63,AL,Commercial Insurance hmo,20.65
+Princeton Baptist Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$110.63,AL,Commercial Insurance pos,20.65
+Princeton Baptist Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$110.63,AL,Commercial Insurance ppo,20.65
+Princeton Baptist Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$110.63,AL,Simpra ppo,19.91
+Princeton Baptist Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$110.63,AL,VIVA Health ppo,9.59
+Princeton Baptist Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$110.63,AL,VIVA Health hmo,9.59
+Princeton Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$285.59,AL,Commercial Insurance hmo,53.31
+Princeton Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$285.59,AL,Commercial Insurance pos,53.31
+Princeton Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$285.59,AL,Commercial Insurance ppo,53.31
+Princeton Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$285.59,AL,Simpra ppo,51.41
+Princeton Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$285.59,AL,VIVA Health ppo,30.95
+Princeton Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$285.59,AL,VIVA Health hmo,30.95
+Princeton Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$125.63,AL,Commercial Insurance hmo,23.45
+Princeton Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$125.63,AL,Commercial Insurance pos,23.45
+Princeton Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$125.63,AL,Commercial Insurance ppo,23.45
+Princeton Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$125.63,AL,Simpra ppo,22.61
+Princeton Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$125.63,AL,VIVA Health ppo,10.89
+Princeton Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$125.63,AL,VIVA Health hmo,10.89
+Princeton Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$109.85,AL,Commercial Insurance hmo,20.50
+Princeton Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$109.85,AL,Commercial Insurance pos,20.50
+Princeton Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$109.85,AL,Commercial Insurance ppo,20.50
+Princeton Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$109.85,AL,Simpra ppo,19.77
+Princeton Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$109.85,AL,VIVA Health ppo,9.52
+Princeton Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$109.85,AL,VIVA Health hmo,9.52
+Princeton Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$42.38,AL,Commercial Insurance hmo,7.91
+Princeton Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$42.38,AL,Commercial Insurance pos,7.91
+Princeton Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$42.38,AL,Commercial Insurance ppo,7.91
+Princeton Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$42.38,AL,Simpra ppo,0.57
+Princeton Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$42.38,AL,VIVA Health ppo,3.67
+Princeton Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$42.38,AL,VIVA Health hmo,3.67
+Princeton Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$41.78,AL,Commercial Insurance hmo,7.80
+Princeton Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$41.78,AL,Commercial Insurance pos,7.80
+Princeton Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$41.78,AL,Commercial Insurance ppo,7.80
+Princeton Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$41.78,AL,Simpra ppo,0.56
+Princeton Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$41.78,AL,VIVA Health ppo,3.62
+Princeton Baptist Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$41.78,AL,VIVA Health hmo,3.62
+Princeton Baptist Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$234.43,AL,Commercial Insurance hmo,43.76
+Princeton Baptist Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$234.43,AL,Commercial Insurance pos,43.76
+Princeton Baptist Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$234.43,AL,Commercial Insurance ppo,43.76
+Princeton Baptist Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$234.43,AL,Simpra ppo,3.13
+Princeton Baptist Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$234.43,AL,VIVA Health ppo,20.32
+Princeton Baptist Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$234.43,AL,VIVA Health hmo,20.32
+Princeton Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$868.29,AL,Commercial Insurance hmo,162.08
+Princeton Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$868.29,AL,Commercial Insurance pos,162.08
+Princeton Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$868.29,AL,Commercial Insurance ppo,162.08
+Princeton Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$868.29,AL,Simpra ppo,11.58
+Princeton Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$868.29,AL,VIVA Health ppo,75.25
+Princeton Baptist Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$868.29,AL,VIVA Health hmo,75.25
+Princeton Baptist Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$87.32,AL,Commercial Insurance hmo,16.30
+Princeton Baptist Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$87.32,AL,Commercial Insurance pos,16.30
+Princeton Baptist Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$87.32,AL,Commercial Insurance ppo,16.30
+Princeton Baptist Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$87.32,AL,Simpra ppo,15.72
+Princeton Baptist Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$87.32,AL,VIVA Health ppo,7.57
+Princeton Baptist Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$87.32,AL,VIVA Health hmo,7.57
+Princeton Baptist Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$41.15,AL,Commercial Insurance hmo,7.68
+Princeton Baptist Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$41.15,AL,Commercial Insurance pos,7.68
+Princeton Baptist Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$41.15,AL,Commercial Insurance ppo,7.68
+Princeton Baptist Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$41.15,AL,Simpra ppo,7.41
+Princeton Baptist Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$41.15,AL,VIVA Health ppo,3.57
+Princeton Baptist Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$41.15,AL,VIVA Health hmo,3.57
+Princeton Baptist Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$242.72,AL,Commercial Insurance hmo,45.31
+Princeton Baptist Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$242.72,AL,Commercial Insurance pos,45.31
+Princeton Baptist Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$242.72,AL,Commercial Insurance ppo,45.31
+Princeton Baptist Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$242.72,AL,Simpra ppo,3.24
+Princeton Baptist Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$242.72,AL,VIVA Health ppo,21.04
+Princeton Baptist Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$242.72,AL,VIVA Health hmo,21.04
+Princeton Baptist Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$137.83,AL,Commercial Insurance hmo,25.73
+Princeton Baptist Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$137.83,AL,Commercial Insurance pos,25.73
+Princeton Baptist Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$137.83,AL,Commercial Insurance ppo,25.73
+Princeton Baptist Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$137.83,AL,Simpra ppo,24.81
+Princeton Baptist Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$137.83,AL,VIVA Health ppo,11.95
+Princeton Baptist Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$137.83,AL,VIVA Health hmo,11.95
+Princeton Baptist Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$87.17,AL,Commercial Insurance hmo,16.27
+Princeton Baptist Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$87.17,AL,Commercial Insurance pos,16.27
+Princeton Baptist Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$87.17,AL,Commercial Insurance ppo,16.27
+Princeton Baptist Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$87.17,AL,Simpra ppo,15.69
+Princeton Baptist Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$87.17,AL,VIVA Health ppo,7.55
+Princeton Baptist Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$87.17,AL,VIVA Health hmo,7.55
+Princeton Baptist Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$102.03,AL,Commercial Insurance hmo,19.05
+Princeton Baptist Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$102.03,AL,Commercial Insurance pos,19.05
+Princeton Baptist Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$102.03,AL,Commercial Insurance ppo,19.05
+Princeton Baptist Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$102.03,AL,Simpra ppo,1.36
+Princeton Baptist Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$102.03,AL,VIVA Health ppo,8.84
+Princeton Baptist Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$102.03,AL,VIVA Health hmo,8.84
+Princeton Baptist Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$139.31,AL,Commercial Insurance hmo,26.01
+Princeton Baptist Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$139.31,AL,Commercial Insurance pos,26.01
+Princeton Baptist Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$139.31,AL,Commercial Insurance ppo,26.01
+Princeton Baptist Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$139.31,AL,Simpra ppo,1.86
+Princeton Baptist Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$139.31,AL,VIVA Health ppo,12.07
+Princeton Baptist Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$139.31,AL,VIVA Health hmo,12.07
+Princeton Baptist Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$33,133.43",AL,Commercial Insurance hmo,6184.91
+Princeton Baptist Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$33,133.43",AL,Commercial Insurance pos,6184.91
+Princeton Baptist Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$33,133.43",AL,Commercial Insurance ppo,6184.91
+Princeton Baptist Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$33,133.43",AL,Simpra ppo,5964.02
+Princeton Baptist Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$33,133.43",AL,VIVA Health ppo,797.39
+Princeton Baptist Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$33,133.43",AL,VIVA Health hmo,797.39
+Princeton Baptist Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$53,733.23",AL,Commercial Insurance hmo,10030.20
+Princeton Baptist Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$53,733.23",AL,Commercial Insurance pos,10030.20
+Princeton Baptist Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$53,733.23",AL,Commercial Insurance ppo,10030.20
+Princeton Baptist Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$53,733.23",AL,Simpra ppo,716.44
+Princeton Baptist Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$53,733.23",AL,VIVA Health ppo,5015.10
+Princeton Baptist Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$53,733.23",AL,VIVA Health hmo,5015.10
+Princeton Baptist Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,"$11,346.08",AL,Commercial Insurance hmo,2117.93
+Princeton Baptist Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,"$11,346.08",AL,Commercial Insurance pos,2117.93
+Princeton Baptist Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,"$11,346.08",AL,Commercial Insurance ppo,2117.93
+Princeton Baptist Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,"$11,346.08",AL,Simpra ppo,2042.29
+Princeton Baptist Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,"$11,346.08",AL,VIVA Health ppo,1058.97
+Princeton Baptist Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,"$11,346.08",AL,VIVA Health hmo,1058.97
+Princeton Baptist Medical Center,Sleep,HCPCS 95810,Sleep study,"$6,083.07",AL,Commercial Insurance hmo,1135.51
+Princeton Baptist Medical Center,Sleep,HCPCS 95810,Sleep study,"$6,083.07",AL,Commercial Insurance pos,1135.51
+Princeton Baptist Medical Center,Sleep,HCPCS 95810,Sleep study,"$6,083.07",AL,Commercial Insurance ppo,1135.51
+Princeton Baptist Medical Center,Sleep,HCPCS 95810,Sleep study,"$6,083.07",AL,Simpra ppo,81.11
+Princeton Baptist Medical Center,Sleep,HCPCS 95810,Sleep study,"$6,083.07",AL,VIVA Health ppo,1459.94
+Princeton Baptist Medical Center,Sleep,HCPCS 95810,Sleep study,"$6,083.07",AL,VIVA Health hmo,1459.94
+Princeton Baptist Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$404.74,AL,Commercial Insurance hmo,75.55
+Princeton Baptist Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$404.74,AL,Commercial Insurance pos,75.55
+Princeton Baptist Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$404.74,AL,Commercial Insurance ppo,75.55
+Princeton Baptist Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$404.74,AL,Simpra ppo,72.85
+Princeton Baptist Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$404.74,AL,VIVA Health ppo,43.17
+Princeton Baptist Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$404.74,AL,VIVA Health hmo,43.17
+Princeton Baptist Medical Center,Breast,HCPCS 77067,Mammogram Screening,$473.36,AL,Commercial Insurance hmo,88.36
+Princeton Baptist Medical Center,Breast,HCPCS 77067,Mammogram Screening,$473.36,AL,Commercial Insurance pos,88.36
+Princeton Baptist Medical Center,Breast,HCPCS 77067,Mammogram Screening,$473.36,AL,Commercial Insurance ppo,88.36
+Princeton Baptist Medical Center,Breast,HCPCS 77067,Mammogram Screening,$473.36,AL,Simpra ppo,85.20
+Princeton Baptist Medical Center,Breast,HCPCS 77067,Mammogram Screening,$473.36,AL,VIVA Health ppo,50.49
+Princeton Baptist Medical Center,Breast,HCPCS 77067,Mammogram Screening,$473.36,AL,VIVA Health hmo,50.49
+Princeton Baptist Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$507.92,AL,Commercial Insurance hmo,94.81
+Princeton Baptist Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$507.92,AL,Commercial Insurance pos,94.81
+Princeton Baptist Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$507.92,AL,Commercial Insurance ppo,94.81
+Princeton Baptist Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$507.92,AL,Simpra ppo,91.42
+Princeton Baptist Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$507.92,AL,VIVA Health ppo,54.18
+Princeton Baptist Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$507.92,AL,VIVA Health hmo,54.18
+Princeton Baptist Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$6,136.10",AL,Commercial Insurance hmo,1145.41
+Princeton Baptist Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$6,136.10",AL,Commercial Insurance pos,1145.41
+Princeton Baptist Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$6,136.10",AL,Commercial Insurance ppo,1145.41
+Princeton Baptist Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$6,136.10",AL,Simpra ppo,1104.50
+Princeton Baptist Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$6,136.10",AL,VIVA Health ppo,654.52
+Princeton Baptist Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$6,136.10",AL,VIVA Health hmo,654.52
+Princeton Baptist Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$4,766.66",AL,Commercial Insurance hmo,889.78
+Princeton Baptist Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$4,766.66",AL,Commercial Insurance pos,889.78
+Princeton Baptist Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$4,766.66",AL,Commercial Insurance ppo,889.78
+Princeton Baptist Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$4,766.66",AL,Simpra ppo,858.00
+Princeton Baptist Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$4,766.66",AL,VIVA Health ppo,508.44
+Princeton Baptist Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$4,766.66",AL,VIVA Health hmo,508.44
+Princeton Baptist Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$3,316.88",AL,Commercial Insurance hmo,619.15
+Princeton Baptist Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$3,316.88",AL,Commercial Insurance pos,619.15
+Princeton Baptist Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$3,316.88",AL,Commercial Insurance ppo,619.15
+Princeton Baptist Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$3,316.88",AL,Simpra ppo,44.23
+Princeton Baptist Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$3,316.88",AL,VIVA Health ppo,353.80
+Princeton Baptist Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$3,316.88",AL,VIVA Health hmo,353.80
+Princeton Baptist Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$11,509.83",AL,Commercial Insurance hmo,2148.50
+Princeton Baptist Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$11,509.83",AL,Commercial Insurance pos,2148.50
+Princeton Baptist Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$11,509.83",AL,Commercial Insurance ppo,2148.50
+Princeton Baptist Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$11,509.83",AL,Simpra ppo,153.46
+Princeton Baptist Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$11,509.83",AL,VIVA Health ppo,1227.72
+Princeton Baptist Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$11,509.83",AL,VIVA Health hmo,1227.72
+Princeton Baptist Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$11,291.78",AL,Commercial Insurance hmo,2107.80
+Princeton Baptist Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$11,291.78",AL,Commercial Insurance pos,2107.80
+Princeton Baptist Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$11,291.78",AL,Commercial Insurance ppo,2107.80
+Princeton Baptist Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$11,291.78",AL,Simpra ppo,2032.52
+Princeton Baptist Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$11,291.78",AL,VIVA Health ppo,1204.46
+Princeton Baptist Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$11,291.78",AL,VIVA Health hmo,1204.46
+Princeton Baptist Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$8,798.39",AL,Commercial Insurance hmo,1642.37
+Princeton Baptist Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$8,798.39",AL,Commercial Insurance pos,1642.37
+Princeton Baptist Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$8,798.39",AL,Commercial Insurance ppo,1642.37
+Princeton Baptist Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$8,798.39",AL,Simpra ppo,117.31
+Princeton Baptist Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$8,798.39",AL,VIVA Health ppo,938.49
+Princeton Baptist Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$8,798.39",AL,VIVA Health hmo,938.49
+Princeton Baptist Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$5,315.24",AL,Commercial Insurance hmo,992.18
+Princeton Baptist Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$5,315.24",AL,Commercial Insurance pos,992.18
+Princeton Baptist Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$5,315.24",AL,Commercial Insurance ppo,992.18
+Princeton Baptist Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$5,315.24",AL,Simpra ppo,956.74
+Princeton Baptist Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$5,315.24",AL,VIVA Health ppo,566.96
+Princeton Baptist Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$5,315.24",AL,VIVA Health hmo,566.96
+Princeton Baptist Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,934.36",AL,Commercial Insurance hmo,547.75
+Princeton Baptist Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,934.36",AL,Commercial Insurance pos,547.75
+Princeton Baptist Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,934.36",AL,Commercial Insurance ppo,547.75
+Princeton Baptist Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,934.36",AL,Simpra ppo,528.18
+Princeton Baptist Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,934.36",AL,VIVA Health ppo,313.00
+Princeton Baptist Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,934.36",AL,VIVA Health hmo,313.00
+Princeton Baptist Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$4,587.28",AL,Commercial Insurance hmo,856.29
+Princeton Baptist Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$4,587.28",AL,Commercial Insurance pos,856.29
+Princeton Baptist Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$4,587.28",AL,Commercial Insurance ppo,856.29
+Princeton Baptist Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$4,587.28",AL,Simpra ppo,61.16
+Princeton Baptist Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$4,587.28",AL,VIVA Health ppo,489.31
+Princeton Baptist Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$4,587.28",AL,VIVA Health hmo,489.31
+Princeton Baptist Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$6,277.31",AL,Commercial Insurance hmo,1171.77
+Princeton Baptist Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$6,277.31",AL,Commercial Insurance pos,1171.77
+Princeton Baptist Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$6,277.31",AL,Commercial Insurance ppo,1171.77
+Princeton Baptist Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$6,277.31",AL,Simpra ppo,1129.92
+Princeton Baptist Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$6,277.31",AL,VIVA Health ppo,669.58
+Princeton Baptist Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$6,277.31",AL,VIVA Health hmo,669.58
+Princeton Baptist Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$4,400.60",AL,Commercial Insurance hmo,821.44
+Princeton Baptist Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$4,400.60",AL,Commercial Insurance pos,821.44
+Princeton Baptist Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$4,400.60",AL,Commercial Insurance ppo,821.44
+Princeton Baptist Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$4,400.60",AL,Simpra ppo,58.67
+Princeton Baptist Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$4,400.60",AL,VIVA Health ppo,469.40
+Princeton Baptist Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$4,400.60",AL,VIVA Health hmo,469.40
+Princeton Baptist Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$4,155.63",AL,Commercial Insurance hmo,775.72
+Princeton Baptist Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$4,155.63",AL,Commercial Insurance pos,775.72
+Princeton Baptist Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$4,155.63",AL,Commercial Insurance ppo,775.72
+Princeton Baptist Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$4,155.63",AL,Simpra ppo,55.41
+Princeton Baptist Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$4,155.63",AL,VIVA Health ppo,443.27
+Princeton Baptist Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$4,155.63",AL,VIVA Health hmo,443.27
+Princeton Baptist Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$6,826.65",AL,Commercial Insurance hmo,1274.31
+Princeton Baptist Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$6,826.65",AL,Commercial Insurance pos,1274.31
+Princeton Baptist Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$6,826.65",AL,Commercial Insurance ppo,1274.31
+Princeton Baptist Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$6,826.65",AL,Simpra ppo,91.02
+Princeton Baptist Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$6,826.65",AL,VIVA Health ppo,728.18
+Princeton Baptist Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$6,826.65",AL,VIVA Health hmo,728.18
+Princeton Baptist Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$4,543.58",AL,Commercial Insurance hmo,848.14
+Princeton Baptist Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$4,543.58",AL,Commercial Insurance pos,848.14
+Princeton Baptist Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$4,543.58",AL,Commercial Insurance ppo,848.14
+Princeton Baptist Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$4,543.58",AL,Simpra ppo,60.58
+Princeton Baptist Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$4,543.58",AL,VIVA Health ppo,484.65
+Princeton Baptist Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$4,543.58",AL,VIVA Health hmo,484.65
+Princeton Baptist Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$4,769.12",AL,Commercial Insurance hmo,890.23
+Princeton Baptist Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$4,769.12",AL,Commercial Insurance pos,890.23
+Princeton Baptist Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$4,769.12",AL,Commercial Insurance ppo,890.23
+Princeton Baptist Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$4,769.12",AL,Simpra ppo,63.59
+Princeton Baptist Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$4,769.12",AL,VIVA Health ppo,508.71
+Princeton Baptist Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$4,769.12",AL,VIVA Health hmo,508.71
+Princeton Baptist Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$920.37,AL,Commercial Insurance hmo,171.80
+Princeton Baptist Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$920.37,AL,Commercial Insurance pos,171.80
+Princeton Baptist Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$920.37,AL,Commercial Insurance ppo,171.80
+Princeton Baptist Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$920.37,AL,Simpra ppo,165.67
+Princeton Baptist Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$920.37,AL,VIVA Health ppo,98.17
+Princeton Baptist Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$920.37,AL,VIVA Health hmo,98.17
+Princeton Baptist Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,294.42",AL,Commercial Insurance hmo,241.62
+Princeton Baptist Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,294.42",AL,Commercial Insurance pos,241.62
+Princeton Baptist Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,294.42",AL,Commercial Insurance ppo,241.62
+Princeton Baptist Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,294.42",AL,Simpra ppo,233.00
+Princeton Baptist Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,294.42",AL,VIVA Health ppo,138.07
+Princeton Baptist Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,294.42",AL,VIVA Health hmo,138.07
+Princeton Baptist Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$795.47,AL,Commercial Insurance hmo,148.49
+Princeton Baptist Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$795.47,AL,Commercial Insurance pos,148.49
+Princeton Baptist Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$795.47,AL,Commercial Insurance ppo,148.49
+Princeton Baptist Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$795.47,AL,Simpra ppo,143.19
+Princeton Baptist Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$795.47,AL,VIVA Health ppo,84.85
+Princeton Baptist Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$795.47,AL,VIVA Health hmo,84.85
+Princeton Baptist Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,026.17",AL,Commercial Insurance hmo,191.55
+Princeton Baptist Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,026.17",AL,Commercial Insurance pos,191.55
+Princeton Baptist Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,026.17",AL,Commercial Insurance ppo,191.55
+Princeton Baptist Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,026.17",AL,Simpra ppo,184.71
+Princeton Baptist Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,026.17",AL,VIVA Health ppo,109.46
+Princeton Baptist Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,026.17",AL,VIVA Health hmo,109.46
+Princeton Baptist Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$582.19,AL,Commercial Insurance hmo,108.68
+Princeton Baptist Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$582.19,AL,Commercial Insurance pos,108.68
+Princeton Baptist Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$582.19,AL,Commercial Insurance ppo,108.68
+Princeton Baptist Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$582.19,AL,Simpra ppo,7.76
+Princeton Baptist Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$582.19,AL,VIVA Health ppo,62.10
+Princeton Baptist Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$582.19,AL,VIVA Health hmo,62.10
+Princeton Baptist Medical Center,X-ray,HCPCS 71046,X-ray of chest; 2 Views,$284.69,AL,Commercial Insurance hmo,53.14
+Princeton Baptist Medical Center,X-ray,HCPCS 71046,X-ray of chest; 2 Views,$284.69,AL,Commercial Insurance pos,53.14
+Princeton Baptist Medical Center,X-ray,HCPCS 71046,X-ray of chest; 2 Views,$284.69,AL,Commercial Insurance ppo,53.14
+Princeton Baptist Medical Center,X-ray,HCPCS 71046,X-ray of chest; 2 Views,$284.69,AL,Simpra ppo,3.80
+Princeton Baptist Medical Center,X-ray,HCPCS 71046,X-ray of chest; 2 Views,$284.69,AL,VIVA Health ppo,30.37
+Princeton Baptist Medical Center,X-ray,HCPCS 71046,X-ray of chest; 2 Views,$284.69,AL,VIVA Health hmo,30.37
+Princeton Baptist Medical Center,X-ray,HCPCS 71045,X-ray of chest; Single View,$626.19,AL,Commercial Insurance hmo,116.89
+Princeton Baptist Medical Center,X-ray,HCPCS 71045,X-ray of chest; Single View,$626.19,AL,Commercial Insurance pos,116.89
+Princeton Baptist Medical Center,X-ray,HCPCS 71045,X-ray of chest; Single View,$626.19,AL,Commercial Insurance ppo,116.89
+Princeton Baptist Medical Center,X-ray,HCPCS 71045,X-ray of chest; Single View,$626.19,AL,Simpra ppo,8.35
+Princeton Baptist Medical Center,X-ray,HCPCS 71045,X-ray of chest; Single View,$626.19,AL,VIVA Health ppo,66.79
+Princeton Baptist Medical Center,X-ray,HCPCS 71045,X-ray of chest; Single View,$626.19,AL,VIVA Health hmo,66.79
+Princeton Baptist Medical Center,X-ray,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$421.47,AL,Commercial Insurance hmo,78.67
+Princeton Baptist Medical Center,X-ray,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$421.47,AL,Commercial Insurance pos,78.67
+Princeton Baptist Medical Center,X-ray,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$421.47,AL,Commercial Insurance ppo,78.67
+Princeton Baptist Medical Center,X-ray,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$421.47,AL,Simpra ppo,5.62
+Princeton Baptist Medical Center,X-ray,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$421.47,AL,VIVA Health ppo,44.96
+Princeton Baptist Medical Center,X-ray,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$421.47,AL,VIVA Health hmo,44.96
+Princeton Baptist Medical Center,X-ray,HCPCS 73600,"X-ray Ankle, 2 Views",$526.00,AL,Commercial Insurance hmo,98.19
+Princeton Baptist Medical Center,X-ray,HCPCS 73600,"X-ray Ankle, 2 Views",$526.00,AL,Commercial Insurance pos,98.19
+Princeton Baptist Medical Center,X-ray,HCPCS 73600,"X-ray Ankle, 2 Views",$526.00,AL,Commercial Insurance ppo,98.19
+Princeton Baptist Medical Center,X-ray,HCPCS 73600,"X-ray Ankle, 2 Views",$526.00,AL,Simpra ppo,7.01
+Princeton Baptist Medical Center,X-ray,HCPCS 73600,"X-ray Ankle, 2 Views",$526.00,AL,VIVA Health ppo,56.11
+Princeton Baptist Medical Center,X-ray,HCPCS 73600,"X-ray Ankle, 2 Views",$526.00,AL,VIVA Health hmo,56.11
+Princeton Baptist Medical Center,X-ray,HCPCS 73610,"X-ray Ankle, 3 Views",$655.61,AL,Commercial Insurance hmo,122.38
+Princeton Baptist Medical Center,X-ray,HCPCS 73610,"X-ray Ankle, 3 Views",$655.61,AL,Commercial Insurance pos,122.38
+Princeton Baptist Medical Center,X-ray,HCPCS 73610,"X-ray Ankle, 3 Views",$655.61,AL,Commercial Insurance ppo,122.38
+Princeton Baptist Medical Center,X-ray,HCPCS 73610,"X-ray Ankle, 3 Views",$655.61,AL,Simpra ppo,118.01
+Princeton Baptist Medical Center,X-ray,HCPCS 73610,"X-ray Ankle, 3 Views",$655.61,AL,VIVA Health ppo,69.93
+Princeton Baptist Medical Center,X-ray,HCPCS 73610,"X-ray Ankle, 3 Views",$655.61,AL,VIVA Health hmo,69.93
+Princeton Baptist Medical Center,X-ray,HCPCS 73630,X-ray exam of foot,$592.67,AL,Commercial Insurance hmo,110.63
+Princeton Baptist Medical Center,X-ray,HCPCS 73630,X-ray exam of foot,$592.67,AL,Commercial Insurance pos,110.63
+Princeton Baptist Medical Center,X-ray,HCPCS 73630,X-ray exam of foot,$592.67,AL,Commercial Insurance ppo,110.63
+Princeton Baptist Medical Center,X-ray,HCPCS 73630,X-ray exam of foot,$592.67,AL,Simpra ppo,106.68
+Princeton Baptist Medical Center,X-ray,HCPCS 73630,X-ray exam of foot,$592.67,AL,VIVA Health ppo,63.22
+Princeton Baptist Medical Center,X-ray,HCPCS 73630,X-ray exam of foot,$592.67,AL,VIVA Health hmo,63.22
+Princeton Baptist Medical Center,X-ray,HCPCS 73560,"X-ray Knee, 1-2 Views",$532.37,AL,Commercial Insurance hmo,99.37
+Princeton Baptist Medical Center,X-ray,HCPCS 73560,"X-ray Knee, 1-2 Views",$532.37,AL,Commercial Insurance pos,99.37
+Princeton Baptist Medical Center,X-ray,HCPCS 73560,"X-ray Knee, 1-2 Views",$532.37,AL,Commercial Insurance ppo,99.37
+Princeton Baptist Medical Center,X-ray,HCPCS 73560,"X-ray Knee, 1-2 Views",$532.37,AL,Simpra ppo,7.10
+Princeton Baptist Medical Center,X-ray,HCPCS 73560,"X-ray Knee, 1-2 Views",$532.37,AL,VIVA Health ppo,56.79
+Princeton Baptist Medical Center,X-ray,HCPCS 73560,"X-ray Knee, 1-2 Views",$532.37,AL,VIVA Health hmo,56.79
+Princeton Baptist Medical Center,X-ray,HCPCS 73564,"X-ray Knee, 4 or More Views",$846.39,AL,Commercial Insurance hmo,157.99
+Princeton Baptist Medical Center,X-ray,HCPCS 73564,"X-ray Knee, 4 or More Views",$846.39,AL,Commercial Insurance pos,157.99
+Princeton Baptist Medical Center,X-ray,HCPCS 73564,"X-ray Knee, 4 or More Views",$846.39,AL,Commercial Insurance ppo,157.99
+Princeton Baptist Medical Center,X-ray,HCPCS 73564,"X-ray Knee, 4 or More Views",$846.39,AL,Simpra ppo,11.29
+Princeton Baptist Medical Center,X-ray,HCPCS 73564,"X-ray Knee, 4 or More Views",$846.39,AL,VIVA Health ppo,90.28
+Princeton Baptist Medical Center,X-ray,HCPCS 73564,"X-ray Knee, 4 or More Views",$846.39,AL,VIVA Health hmo,90.28
+Princeton Baptist Medical Center,X-ray,HCPCS 72110,"X-ray, lower back, minimum four views",$914.78,AL,Commercial Insurance hmo,170.76
+Princeton Baptist Medical Center,X-ray,HCPCS 72110,"X-ray, lower back, minimum four views",$914.78,AL,Commercial Insurance pos,170.76
+Princeton Baptist Medical Center,X-ray,HCPCS 72110,"X-ray, lower back, minimum four views",$914.78,AL,Commercial Insurance ppo,170.76
+Princeton Baptist Medical Center,X-ray,HCPCS 72110,"X-ray, lower back, minimum four views",$914.78,AL,Simpra ppo,12.20
+Princeton Baptist Medical Center,X-ray,HCPCS 72110,"X-ray, lower back, minimum four views",$914.78,AL,VIVA Health ppo,97.58
+Princeton Baptist Medical Center,X-ray,HCPCS 72110,"X-ray, lower back, minimum four views",$914.78,AL,VIVA Health hmo,97.58
+Princeton Baptist Medical Center,X-ray,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$612.56,AL,Commercial Insurance hmo,114.35
+Princeton Baptist Medical Center,X-ray,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$612.56,AL,Commercial Insurance pos,114.35
+Princeton Baptist Medical Center,X-ray,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$612.56,AL,Commercial Insurance ppo,114.35
+Princeton Baptist Medical Center,X-ray,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$612.56,AL,Simpra ppo,110.26
+Princeton Baptist Medical Center,X-ray,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$612.56,AL,VIVA Health ppo,65.34
+Princeton Baptist Medical Center,X-ray,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$612.56,AL,VIVA Health hmo,65.34
+Princeton Baptist Medical Center,X-ray,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$762.47,AL,Commercial Insurance hmo,142.33
+Princeton Baptist Medical Center,X-ray,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$762.47,AL,Commercial Insurance pos,142.33
+Princeton Baptist Medical Center,X-ray,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$762.47,AL,Commercial Insurance ppo,142.33
+Princeton Baptist Medical Center,X-ray,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$762.47,AL,Simpra ppo,137.25
+Princeton Baptist Medical Center,X-ray,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$762.47,AL,VIVA Health ppo,81.33
+Princeton Baptist Medical Center,X-ray,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$762.47,AL,VIVA Health hmo,81.33
+Princeton Baptist Medical Center,X-ray,HCPCS 73080,"X-ray Elbow, 3 Views",$523.00,AL,Commercial Insurance hmo,97.63
+Princeton Baptist Medical Center,X-ray,HCPCS 73080,"X-ray Elbow, 3 Views",$523.00,AL,Commercial Insurance pos,97.63
+Princeton Baptist Medical Center,X-ray,HCPCS 73080,"X-ray Elbow, 3 Views",$523.00,AL,Commercial Insurance ppo,97.63
+Princeton Baptist Medical Center,X-ray,HCPCS 73080,"X-ray Elbow, 3 Views",$523.00,AL,Simpra ppo,6.97
+Princeton Baptist Medical Center,X-ray,HCPCS 73080,"X-ray Elbow, 3 Views",$523.00,AL,VIVA Health ppo,55.79
+Princeton Baptist Medical Center,X-ray,HCPCS 73080,"X-ray Elbow, 3 Views",$523.00,AL,VIVA Health hmo,55.79
+Princeton Baptist Medical Center,X-ray,HCPCS 73130,"X-ray Hand, 3 Views",$727.58,AL,Commercial Insurance hmo,135.82
+Princeton Baptist Medical Center,X-ray,HCPCS 73130,"X-ray Hand, 3 Views",$727.58,AL,Commercial Insurance pos,135.82
+Princeton Baptist Medical Center,X-ray,HCPCS 73130,"X-ray Hand, 3 Views",$727.58,AL,Commercial Insurance ppo,135.82
+Princeton Baptist Medical Center,X-ray,HCPCS 73130,"X-ray Hand, 3 Views",$727.58,AL,Simpra ppo,130.96
+Princeton Baptist Medical Center,X-ray,HCPCS 73130,"X-ray Hand, 3 Views",$727.58,AL,VIVA Health ppo,77.61
+Princeton Baptist Medical Center,X-ray,HCPCS 73130,"X-ray Hand, 3 Views",$727.58,AL,VIVA Health hmo,77.61
+Princeton Baptist Medical Center,X-ray,HCPCS 73030,"X-ray Shoulder, 2 Views",$984.52,AL,Commercial Insurance hmo,183.78
+Princeton Baptist Medical Center,X-ray,HCPCS 73030,"X-ray Shoulder, 2 Views",$984.52,AL,Commercial Insurance pos,183.78
+Princeton Baptist Medical Center,X-ray,HCPCS 73030,"X-ray Shoulder, 2 Views",$984.52,AL,Commercial Insurance ppo,183.78
+Princeton Baptist Medical Center,X-ray,HCPCS 73030,"X-ray Shoulder, 2 Views",$984.52,AL,Simpra ppo,13.13
+Princeton Baptist Medical Center,X-ray,HCPCS 73030,"X-ray Shoulder, 2 Views",$984.52,AL,VIVA Health ppo,105.02
+Princeton Baptist Medical Center,X-ray,HCPCS 73030,"X-ray Shoulder, 2 Views",$984.52,AL,VIVA Health hmo,105.02
+Princeton Baptist Medical Center,X-ray,HCPCS 73110,"X-ray Wrist, 3+ Views",$594.64,AL,Commercial Insurance hmo,111.00
+Princeton Baptist Medical Center,X-ray,HCPCS 73110,"X-ray Wrist, 3+ Views",$594.64,AL,Commercial Insurance pos,111.00
+Princeton Baptist Medical Center,X-ray,HCPCS 73110,"X-ray Wrist, 3+ Views",$594.64,AL,Commercial Insurance ppo,111.00
+Princeton Baptist Medical Center,X-ray,HCPCS 73110,"X-ray Wrist, 3+ Views",$594.64,AL,Simpra ppo,7.93
+Princeton Baptist Medical Center,X-ray,HCPCS 73110,"X-ray Wrist, 3+ Views",$594.64,AL,VIVA Health ppo,63.43
+Princeton Baptist Medical Center,X-ray,HCPCS 73110,"X-ray Wrist, 3+ Views",$594.64,AL,VIVA Health hmo,63.43
+Princeton Baptist Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$48,749.91",AL,Commercial Insurance hmo,9099.98
+Princeton Baptist Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$48,749.91",AL,Commercial Insurance pos,9099.98
+Princeton Baptist Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$48,749.91",AL,Commercial Insurance ppo,9099.98
+Princeton Baptist Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$48,749.91",AL,Simpra ppo,650.00
+Princeton Baptist Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$48,749.91",AL,VIVA Health ppo,4549.99
+Princeton Baptist Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$48,749.91",AL,VIVA Health hmo,4549.99
+Princeton Baptist Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$39,851.94",AL,Commercial Insurance hmo,7439.03
+Princeton Baptist Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$39,851.94",AL,Commercial Insurance pos,7439.03
+Princeton Baptist Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$39,851.94",AL,Commercial Insurance ppo,7439.03
+Princeton Baptist Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$39,851.94",AL,Simpra ppo,7173.35
+Princeton Baptist Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$39,851.94",AL,VIVA Health ppo,3719.51
+Princeton Baptist Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$39,851.94",AL,VIVA Health hmo,3719.51
+Princeton Baptist Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$33,096.47",AL,Commercial Insurance hmo,6178.01
+Princeton Baptist Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$33,096.47",AL,Commercial Insurance pos,6178.01
+Princeton Baptist Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$33,096.47",AL,Commercial Insurance ppo,6178.01
+Princeton Baptist Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$33,096.47",AL,Simpra ppo,441.29
+Princeton Baptist Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$33,096.47",AL,VIVA Health ppo,3089.00
+Princeton Baptist Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$33,096.47",AL,VIVA Health hmo,3089.00
+Princeton Baptist Medical Center,Cardiac,MSDRG 216,Cardiac valve procedure,"$413,138.57",AL,Simpra ppo,74364.94
+Princeton Baptist Medical Center,Cardiac,MSDRG 216,Cardiac valve procedure,"$413,138.57",AL,VIVA Health ppo,57748.55
+Princeton Baptist Medical Center,Cardiac,MSDRG 216,Cardiac valve procedure,"$413,138.57",AL,VIVA Health hmo,57748.55
+Princeton Baptist Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$5,505.41",AL,Commercial Insurance hmo,1027.68
+Princeton Baptist Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$5,505.41",AL,Commercial Insurance pos,1027.68
+Princeton Baptist Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$5,505.41",AL,Commercial Insurance ppo,1027.68
+Princeton Baptist Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$5,505.41",AL,Simpra ppo,990.97
+Princeton Baptist Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$5,505.41",AL,VIVA Health ppo,1174.49
+Princeton Baptist Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$5,505.41",AL,VIVA Health hmo,1174.49
+Princeton Baptist Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$5,721.21",AL,Commercial Insurance hmo,1067.96
+Princeton Baptist Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$5,721.21",AL,Commercial Insurance pos,1067.96
+Princeton Baptist Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$5,721.21",AL,Commercial Insurance ppo,1067.96
+Princeton Baptist Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$5,721.21",AL,Simpra ppo,76.28
+Princeton Baptist Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$5,721.21",AL,VIVA Health ppo,1220.52
+Princeton Baptist Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$5,721.21",AL,VIVA Health hmo,1220.52
+Princeton Baptist Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$5,911.77",AL,Commercial Insurance hmo,1103.53
+Princeton Baptist Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$5,911.77",AL,Commercial Insurance pos,1103.53
+Princeton Baptist Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$5,911.77",AL,Commercial Insurance ppo,1103.53
+Princeton Baptist Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$5,911.77",AL,Simpra ppo,78.82
+Princeton Baptist Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$5,911.77",AL,VIVA Health ppo,1261.18
+Princeton Baptist Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$5,911.77",AL,VIVA Health hmo,1261.18
+Princeton Baptist Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$8,399.87",AL,Commercial Insurance hmo,1567.97
+Princeton Baptist Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$8,399.87",AL,Commercial Insurance pos,1567.97
+Princeton Baptist Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$8,399.87",AL,Commercial Insurance ppo,1567.97
+Princeton Baptist Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$8,399.87",AL,Simpra ppo,1511.98
+Princeton Baptist Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$8,399.87",AL,VIVA Health ppo,1791.97
+Princeton Baptist Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$8,399.87",AL,VIVA Health hmo,1791.97
+Princeton Baptist Medical Center,Digestive,HCPCS 43235,EGD,"$7,866.29",AL,Commercial Insurance hmo,1468.37
+Princeton Baptist Medical Center,Digestive,HCPCS 43235,EGD,"$7,866.29",AL,Commercial Insurance pos,1468.37
+Princeton Baptist Medical Center,Digestive,HCPCS 43235,EGD,"$7,866.29",AL,Commercial Insurance ppo,1468.37
+Princeton Baptist Medical Center,Digestive,HCPCS 43235,EGD,"$7,866.29",AL,Simpra ppo,1415.93
+Princeton Baptist Medical Center,Digestive,HCPCS 43235,EGD,"$7,866.29",AL,VIVA Health ppo,1678.14
+Princeton Baptist Medical Center,Digestive,HCPCS 43235,EGD,"$7,866.29",AL,VIVA Health hmo,1678.14
+Princeton Baptist Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$8,082.74",AL,Commercial Insurance hmo,1508.78
+Princeton Baptist Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$8,082.74",AL,Commercial Insurance pos,1508.78
+Princeton Baptist Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$8,082.74",AL,Commercial Insurance ppo,1508.78
+Princeton Baptist Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$8,082.74",AL,Simpra ppo,107.77
+Princeton Baptist Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$8,082.74",AL,VIVA Health ppo,1724.32
+Princeton Baptist Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$8,082.74",AL,VIVA Health hmo,1724.32

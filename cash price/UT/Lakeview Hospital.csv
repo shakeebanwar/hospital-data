@@ -1,0 +1,246 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Lakeview Hospital,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$1,598.46",UT
+Lakeview Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$6,148.99",UT
+Lakeview Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$51.41,UT
+Lakeview Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$856.11,UT
+Lakeview Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$1,619.67",UT
+Lakeview Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$2,695.60",UT
+Lakeview Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$3,896.87",UT
+Lakeview Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min","$1,008.39",UT
+Lakeview Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min","$1,519.86",UT
+Lakeview Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$417.70,UT
+Lakeview Hospital,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$671.29,UT
+Lakeview Hospital,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$529.24,UT
+Lakeview Hospital,Psychology,HCPCS 90853,Group psychotherapy,$294.81,UT
+Lakeview Hospital,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$555.33,UT
+Lakeview Hospital,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$472.06,UT
+Lakeview Hospital,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$529.24,UT
+Lakeview Hospital,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$539.83,UT
+Lakeview Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$58.35,UT
+Lakeview Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$58.35,UT
+Lakeview Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$110.48,UT
+Lakeview Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$263.16,UT
+Lakeview Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$95.59,UT
+Lakeview Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$115.01,UT
+Lakeview Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$110.48,UT
+Lakeview Hospital,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$582.58,UT
+Lakeview Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$1,686.19",UT
+Lakeview Hospital,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$647.10,UT
+Lakeview Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$412.08,UT
+Lakeview Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$66.63,UT
+Lakeview Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$211.84,UT
+Lakeview Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$205.20,UT
+Lakeview Hospital,Chemistry,HCPCS 82140,Ammonia level,$190.33,UT
+Lakeview Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$98.88,UT
+Lakeview Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$334.31,UT
+Lakeview Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$302.86,UT
+Lakeview Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$159.71,UT
+Lakeview Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$259.83,UT
+Lakeview Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$62.89,UT
+Lakeview Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$62.89,UT
+Lakeview Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$79.86,UT
+Lakeview Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$74.07,UT
+Lakeview Hospital,Chemistry,HCPCS 84295,Blood sodium level,$62.89,UT
+Lakeview Hospital,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$69.51,UT
+Lakeview Hospital,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$62.89,UT
+Lakeview Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$213.51,UT
+Lakeview Hospital,Chemistry,HCPCS 82310,Calcium level,$79.46,UT
+Lakeview Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$62.89,UT
+Lakeview Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$349.22,UT
+Lakeview Hospital,Chemistry,HCPCS 82465,Cholesterol level,$62.89,UT
+Lakeview Hospital,Chemistry,HCPCS 82525,Copper level,$211.84,UT
+Lakeview Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$291.29,UT
+Lakeview Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$354.18,UT
+Lakeview Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$79.86,UT
+Lakeview Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$205.20,UT
+Lakeview Hospital,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$503.14,UT
+Lakeview Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$433.63,UT
+Lakeview Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$205.20,UT
+Lakeview Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$173.36,UT
+Lakeview Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$213.51,UT
+Lakeview Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$98.88,UT
+Lakeview Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$142.33,UT
+Lakeview Hospital,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$306.17,UT
+Lakeview Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$329.36,UT
+Lakeview Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$190.33,UT
+Lakeview Hospital,Chemistry,HCPCS 83718,HDL cholesterol level,$103.86,UT
+Lakeview Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$662.00,UT
+Lakeview Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$372.39,UT
+Lakeview Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$276.38,UT
+Lakeview Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$205.20,UT
+Lakeview Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$230.05,UT
+Lakeview Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$101.77,UT
+Lakeview Hospital,Chemistry,HCPCS 83540,Iron level,$66.63,UT
+Lakeview Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$63.30,UT
+Lakeview Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$124.93,UT
+Lakeview Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$69.51,UT
+Lakeview Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$100.14,UT
+Lakeview Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$177.09,UT
+Lakeview Hospital,Chemistry,HCPCS 83735,Magnesium Level,$74.07,UT
+Lakeview Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$297.97,UT
+Lakeview Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$201.91,UT
+Lakeview Hospital,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$149.39,UT
+Lakeview Hospital,Chemistry,HCPCS 83918,Organic acid level,$707.62,UT
+Lakeview Hospital,Chemistry,HCPCS 83945,Oxalate level,$486.56,UT
+Lakeview Hospital,Chemistry,HCPCS 83970,Parathormone,$385.61,UT
+Lakeview Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$79.86,UT
+Lakeview Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$509.74,UT
+Lakeview Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$268.12,UT
+Lakeview Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$183.72,UT
+Lakeview Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$254.89,UT
+Lakeview Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$284.67,UT
+Lakeview Hospital,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$108.00,UT
+Lakeview Hospital,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$693.46,UT
+Lakeview Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$110.48,UT
+Lakeview Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$69.93,UT
+Lakeview Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$88.54,UT
+Lakeview Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$196.95,UT
+Lakeview Hospital,Chemistry,HCPCS 84560,Uric acid level,$78.20,UT
+Lakeview Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$62.89,UT
+Lakeview Hospital,Chemistry,HCPCS 82340,Urine calcium level,$108.00,UT
+Lakeview Hospital,Chemistry,HCPCS 82436,Urine chloride level,$76.55,UT
+Lakeview Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$205.20,UT
+Lakeview Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$110.07,UT
+Lakeview Hospital,Chemistry,HCPCS 84133,Urine potassium level,$62.89,UT
+Lakeview Hospital,Chemistry,HCPCS 84300,Urine sodium level,$62.89,UT
+Lakeview Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$385.61,UT
+Lakeview Hospital,Chemistry,HCPCS 84630,Zinc level,$226.74,UT
+Lakeview Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$254.89,UT
+Lakeview Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$230.05,UT
+Lakeview Hospital,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$220.13,UT
+Lakeview Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$157.22,UT
+Lakeview Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$286.32,UT
+Lakeview Hospital,Immunology,HCPCS 86318,Covid-19 antibody test,$301.21,UT
+Lakeview Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$397.21,UT
+Lakeview Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$253.23,UT
+Lakeview Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$235.01,UT
+Lakeview Hospital,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$196.95,UT
+Lakeview Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$138.62,UT
+Lakeview Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$82.77,UT
+Lakeview Hospital,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$268.12,UT
+Lakeview Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$289.62,UT
+Lakeview Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$365.75,UT
+Lakeview Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$144.00,UT
+Lakeview Hospital,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$337.64,UT
+Lakeview Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$98.88,UT
+Lakeview Hospital,Immunology,HCPCS 86580,Skin test for tuberculosis,$53.79,UT
+Lakeview Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$66.63,UT
+Lakeview Hospital,Immunology,HCPCS 86361,T cell count and ratio,$236.66,UT
+Lakeview Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$430.61,UT
+Lakeview Hospital,Immunology,HCPCS 86359,"T cells count, total",$299.56,UT
+Lakeview Hospital,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$66.63,UT
+Lakeview Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$86.90,UT
+Lakeview Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$138.62,UT
+Lakeview Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$166.75,UT
+Lakeview Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$196.95,UT
+Lakeview Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$48.10,UT
+Lakeview Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$264.79,UT
+Lakeview Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$246.59,UT
+Lakeview Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$835.78,UT
+Lakeview Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$244.94,UT
+Lakeview Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$551.12,UT
+Lakeview Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$196.95,UT
+Lakeview Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$973.17,UT
+Lakeview Hospital,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$234.12,UT
+Lakeview Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$100.56,UT
+Lakeview Hospital,Microbiology,HCPCS 86747,Parvovirus antibody test,$302.86,UT
+Lakeview Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$156.83,UT
+Lakeview Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$138.62,UT
+Lakeview Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$453.48,UT
+Lakeview Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$238.33,UT
+Lakeview Hospital,Microbiology,HCPCS 87045,Stool Culture,$200.26,UT
+Lakeview Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$182.04,UT
+Lakeview Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$78.20,UT
+Lakeview Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$79.86,UT
+Lakeview Hospital,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$867.32,UT
+Lakeview Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$610.71,UT
+Lakeview Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$196.95,UT
+Lakeview Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$287.97,UT
+Lakeview Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$238.33,UT
+Lakeview Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$211.84,UT
+Lakeview Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$220.13,UT
+Lakeview Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$150.20,UT
+Lakeview Hospital,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$60.45,UT
+Lakeview Hospital,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$268.12,UT
+Lakeview Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$211.84,UT
+Lakeview Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$289.04,UT
+Lakeview Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$124.93,UT
+Lakeview Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$187.01,UT
+Lakeview Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$132.40,UT
+Lakeview Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$335.97,UT
+Lakeview Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$211.84,UT
+Lakeview Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$165.09,UT
+Lakeview Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$71.99,UT
+Lakeview Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$71.99,UT
+Lakeview Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$71.99,UT
+Lakeview Hospital,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$127.85,UT
+Lakeview Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$127.85,UT
+Lakeview Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$82.77,UT
+Lakeview Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$124.93,UT
+Lakeview Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$129.50,UT
+Lakeview Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$2,011.51",UT
+Lakeview Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$297.98,UT
+Lakeview Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,$676.98,UT
+Lakeview Hospital,Pulmonary,HCPCS 94729,CO Diffusion Capacity,$705.22,UT
+Lakeview Hospital,Pulmonary,HCPCS 94640,Nebulizer Treatment,$260.98,UT
+Lakeview Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$705.22,UT
+Lakeview Hospital,Sleep,HCPCS 95810,Sleep study,"$8,862.25",UT
+Lakeview Hospital,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$66.14,UT
+Lakeview Hospital,Breast,HCPCS 77067,Mammogram Screening,$841.34,UT
+Lakeview Hospital,Breast,HCPCS 77066,Mammography of both breasts,$926.09,UT
+Lakeview Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,534.98",UT
+Lakeview Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$2,886.67",UT
+Lakeview Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$2,886.67",UT
+Lakeview Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,216.67",UT
+Lakeview Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$9,042.36",UT
+Lakeview Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$7,626.58",UT
+Lakeview Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,688.93",UT
+Lakeview Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$3,813.31",UT
+Lakeview Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$4,521.18",UT
+Lakeview Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$3,813.31",UT
+Lakeview Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,886.67",UT
+Lakeview Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$3,813.31",UT
+Lakeview Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$3,813.31",UT
+Lakeview Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$2,945.95",UT
+Lakeview Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,945.95",UT
+Lakeview Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,945.95",UT
+Lakeview Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$4,213.59",UT
+Lakeview Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,945.95",UT
+Lakeview Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$4,213.59",UT
+Lakeview Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$4,213.59",UT
+Lakeview Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$4,213.59",UT
+Lakeview Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,945.95",UT
+Lakeview Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$1,038.13",UT
+Lakeview Hospital,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$539.65,UT
+Lakeview Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,038.13",UT
+Lakeview Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,038.13",UT
+Lakeview Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$790.69,UT
+Lakeview Hospital,Ultrasound,HCPCS 76881,Ultrasound Joint Soft Tissue - Complete,$595.19,UT
+Lakeview Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,038.13",UT
+Lakeview Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,038.13",UT
+Lakeview Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$660.92,UT
+Lakeview Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,038.13",UT
+Lakeview Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,038.13",UT
+Lakeview Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$800.89,UT
+Lakeview Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$227.17,UT
+Lakeview Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$227.17,UT
+Lakeview Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$465.05,UT
+Lakeview Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$465.05,UT
+Lakeview Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$465.05,UT
+Lakeview Hospital,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$465.05,UT
+Lakeview Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$465.05,UT
+Lakeview Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$465.05,UT
+Lakeview Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$499.49,UT
+Lakeview Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$800.89,UT
+Lakeview Hospital,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$429.56,UT
+Lakeview Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$499.49,UT
+Lakeview Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$800.89,UT
+Lakeview Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$465.05,UT
+Lakeview Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$800.89,UT
+Lakeview Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$465.05,UT
+Lakeview Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$465.05,UT
+Lakeview Hospital,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$560.62,UT
+Lakeview Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$445.27,UT
+Lakeview Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$328.48,UT
+Lakeview Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$35.59,UT
+Lakeview Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,286.47",UT

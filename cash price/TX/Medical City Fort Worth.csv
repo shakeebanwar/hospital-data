@@ -1,0 +1,261 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Medical City Fort Worth,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$3,648.24",TX
+Medical City Fort Worth,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$11,992.32",TX
+Medical City Fort Worth,Emergency Care,HCPCS 99281,Emergency Level 1,$583.20,TX
+Medical City Fort Worth,Emergency Care,HCPCS 99282,Emergency Level 2,$988.20,TX
+Medical City Fort Worth,Emergency Care,HCPCS 99283,Emergency Level 3,"$2,270.16",TX
+Medical City Fort Worth,Emergency Care,HCPCS 99284,Emergency Level 4,"$3,627.72",TX
+Medical City Fort Worth,Emergency Care,HCPCS 99285,Emergency Level 5,"$5,276.88",TX
+Medical City Fort Worth,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$157.62,TX
+Medical City Fort Worth,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$188.51,TX
+Medical City Fort Worth,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$142.71,TX
+Medical City Fort Worth,Blood,HCPCS 85018,"Blood count, hemoglobin",$135.26,TX
+Medical City Fort Worth,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$135.26,TX
+Medical City Fort Worth,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$396.18,TX
+Medical City Fort Worth,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$543.15,TX
+Medical City Fort Worth,Blood,HCPCS 85610,"Blood test, clotting time",$289.68,TX
+Medical City Fort Worth,Blood,HCPCS 85730,Coagulation assessment blood test,$354.65,TX
+Medical City Fort Worth,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$335.48,TX
+Medical City Fort Worth,Blood,HCPCS 85027,"Complete blood count, automated",$391.92,TX
+Medical City Fort Worth,Blood,HCPCS 85008,Microscopic examination for white blood cells,$113.96,TX
+Medical City Fort Worth,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$158.69,TX
+Medical City Fort Worth,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$783.84,TX
+Medical City Fort Worth,Blood,HCPCS 85660,Red blood cell sickling measurement,$92.66,TX
+Medical City Fort Worth,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$737.64,TX
+Medical City Fort Worth,Blood,HCPCS 85041,"Red blood count, automated test",$178.92,TX
+Medical City Fort Worth,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,"$1,810.50",TX
+Medical City Fort Worth,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,"$1,083.11",TX
+Medical City Fort Worth,Chemistry,HCPCS 82040,Albumin (protein) level,$309.92,TX
+Medical City Fort Worth,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$451.56,TX
+Medical City Fort Worth,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$492.03,TX
+Medical City Fort Worth,Chemistry,HCPCS 82140,Ammonia level,$558.06,TX
+Medical City Fort Worth,Chemistry,HCPCS 82150,Amylase (enzyme) level,$424.94,TX
+Medical City Fort Worth,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$596.40,TX
+Medical City Fort Worth,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,"$1,132.10",TX
+Medical City Fort Worth,Chemistry,HCPCS 84439,Assay of free thyroxine,$447.30,TX
+Medical City Fort Worth,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$654.98,TX
+Medical City Fort Worth,Chemistry,HCPCS 82248,Bilirubin level (Direct),$453.69,TX
+Medical City Fort Worth,Chemistry,HCPCS 82247,Bilirubin level (Total),$363.17,TX
+Medical City Fort Worth,Chemistry,HCPCS 82565,Blood creatinine level,$344.00,TX
+Medical City Fort Worth,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$291.81,TX
+Medical City Fort Worth,Chemistry,HCPCS 84295,Blood sodium level,$340.80,TX
+Medical City Fort Worth,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$567.65,TX
+Medical City Fort Worth,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$340.80,TX
+Medical City Fort Worth,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$621.96,TX
+Medical City Fort Worth,Chemistry,HCPCS 82310,Calcium level,$357.84,TX
+Medical City Fort Worth,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$309.92,TX
+Medical City Fort Worth,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$728.46,TX
+Medical City Fort Worth,Chemistry,HCPCS 82465,Cholesterol level,$310.98,TX
+Medical City Fort Worth,Chemistry,HCPCS 82525,Copper level,$471.80,TX
+Medical City Fort Worth,Chemistry,HCPCS 82533,Cortisol Measurement,$482.45,TX
+Medical City Fort Worth,Chemistry,HCPCS 84681,C-peptide (protein) level,$476.06,TX
+Medical City Fort Worth,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$570.84,TX
+Medical City Fort Worth,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$451.56,TX
+Medical City Fort Worth,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,"$1,160.85",TX
+Medical City Fort Worth,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level","$1,545.32",TX
+Medical City Fort Worth,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$451.56,TX
+Medical City Fort Worth,Chemistry,HCPCS 82746,Folic acid; serum,$493.10,TX
+Medical City Fort Worth,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$344.00,TX
+Medical City Fort Worth,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$414.29,TX
+Medical City Fort Worth,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$418.55,TX
+Medical City Fort Worth,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$880.76,TX
+Medical City Fort Worth,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$489.90,TX
+Medical City Fort Worth,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$477.12,TX
+Medical City Fort Worth,Chemistry,HCPCS 83718,HDL cholesterol level,$440.91,TX
+Medical City Fort Worth,Chemistry,HCPCS 83020,Hemoglobin Measurement,$392.99,TX
+Medical City Fort Worth,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$916.97,TX
+Medical City Fort Worth,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$731.66,TX
+Medical City Fort Worth,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,"$1,000.04",TX
+Medical City Fort Worth,Chemistry,HCPCS 83525,Insulin Measurement; Total,$440.91,TX
+Medical City Fort Worth,Chemistry,HCPCS 82330,Ionized Calcium,$596.40,TX
+Medical City Fort Worth,Chemistry,HCPCS 83550,Iron Binding Capacity,$484.58,TX
+Medical City Fort Worth,Chemistry,HCPCS 83540,Iron level,$428.13,TX
+Medical City Fort Worth,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$386.60,TX
+Medical City Fort Worth,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$531.44,TX
+Medical City Fort Worth,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$414.29,TX
+Medical City Fort Worth,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$541.02,TX
+Medical City Fort Worth,Chemistry,HCPCS 83735,Magnesium Level,$489.90,TX
+Medical City Fort Worth,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$478.19,TX
+Medical City Fort Worth,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$198.09,TX
+Medical City Fort Worth,Chemistry,HCPCS 83918,Organic acid level,$711.42,TX
+Medical City Fort Worth,Chemistry,HCPCS 83945,Oxalate level,$646.46,TX
+Medical City Fort Worth,Chemistry,HCPCS 83970,Parathormone,"$1,062.87",TX
+Medical City Fort Worth,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$300.33,TX
+Medical City Fort Worth,Chemistry,HCPCS 84157,Prealbumin (protein) level,$314.18,TX
+Medical City Fort Worth,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,"$1,144.88",TX
+Medical City Fort Worth,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$581.49,TX
+Medical City Fort Worth,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$718.88,TX
+Medical City Fort Worth,Chemistry,HCPCS 82270,Stool analysis for blood,$189.57,TX
+Medical City Fort Worth,Chemistry,HCPCS 84403,Testosterone (hormone) level,$924.42,TX
+Medical City Fort Worth,Chemistry,HCPCS 84402,Testosterone Level; Free,$924.42,TX
+Medical City Fort Worth,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$502.68,TX
+Medical City Fort Worth,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,"$1,170.44",TX
+Medical City Fort Worth,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$508.01,TX
+Medical City Fort Worth,Chemistry,HCPCS 84155,"Total protein level, blood",$314.18,TX
+Medical City Fort Worth,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$282.23,TX
+Medical City Fort Worth,Chemistry,HCPCS 84166,Troponin (protein) analysis,$473.93,TX
+Medical City Fort Worth,Chemistry,HCPCS 84560,Uric acid level,$282.23,TX
+Medical City Fort Worth,Chemistry,HCPCS 84550,"Uric acid level, blood",$314.18,TX
+Medical City Fort Worth,Chemistry,HCPCS 82340,Urine calcium level,$385.53,TX
+Medical City Fort Worth,Chemistry,HCPCS 82436,Urine chloride level,$325.89,TX
+Medical City Fort Worth,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$373.82,TX
+Medical City Fort Worth,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$368.49,TX
+Medical City Fort Worth,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$548.48,TX
+Medical City Fort Worth,Chemistry,HCPCS 84133,Urine potassium level,$368.49,TX
+Medical City Fort Worth,Chemistry,HCPCS 84300,Urine sodium level,$368.49,TX
+Medical City Fort Worth,Chemistry,HCPCS 84591,Vitamin B-6 level,$612.38,TX
+Medical City Fort Worth,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,"$1,233.27",TX
+Medical City Fort Worth,Chemistry,HCPCS 84630,Zinc level,$389.79,TX
+Medical City Fort Worth,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$459.02,TX
+Medical City Fort Worth,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$510.14,TX
+Medical City Fort Worth,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$320.57,TX
+Medical City Fort Worth,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$699.71,TX
+Medical City Fort Worth,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$797.69,TX
+Medical City Fort Worth,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$560.19,TX
+Medical City Fort Worth,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$404.70,TX
+Medical City Fort Worth,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$380.21,TX
+Medical City Fort Worth,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$597.47,TX
+Medical City Fort Worth,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$944.66,TX
+Medical City Fort Worth,Immunology,HCPCS 86140,Measurement C-reactive protein,$476.06,TX
+Medical City Fort Worth,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$209.81,TX
+Medical City Fort Worth,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$379.14,TX
+Medical City Fort Worth,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$407.90,TX
+Medical City Fort Worth,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$451.56,TX
+Medical City Fort Worth,Immunology,HCPCS 86431,Rheumatoid factor level,$316.31,TX
+Medical City Fort Worth,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$718.88,TX
+Medical City Fort Worth,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$297.14,TX
+Medical City Fort Worth,Immunology,HCPCS 86580,Skin test for tuberculosis,$201.29,TX
+Medical City Fort Worth,Immunology,HCPCS 86592,Syphilis Detection Test,$314.18,TX
+Medical City Fort Worth,Immunology,HCPCS 86361,T cell count and ratio,$300.33,TX
+Medical City Fort Worth,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio","$2,943.66",TX
+Medical City Fort Worth,Immunology,HCPCS 86359,"T cells count, total",$195.96,TX
+Medical City Fort Worth,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$435.59,TX
+Medical City Fort Worth,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$55.38,TX
+Medical City Fort Worth,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$344.00,TX
+Medical City Fort Worth,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$316.31,TX
+Medical City Fort Worth,Microbiology,HCPCS 87491,Chlamydia Test,$283.29,TX
+Medical City Fort Worth,Microbiology,HCPCS 87635,Covid-19 current infection test,$56.10,TX
+Medical City Fort Worth,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$902.06,TX
+Medical City Fort Worth,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$745.50,TX
+Medical City Fort Worth,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification","$1,337.64",TX
+Medical City Fort Worth,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$386.60,TX
+Medical City Fort Worth,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification","$1,978.77",TX
+Medical City Fort Worth,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$283.29,TX
+Medical City Fort Worth,Microbiology,HCPCS 87517,Hepatitis B Detection,$534.63,TX
+Medical City Fort Worth,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$986.19,TX
+Medical City Fort Worth,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$745.50,TX
+Medical City Fort Worth,Microbiology,HCPCS 86735,Mumps virus antibody test,$471.80,TX
+Medical City Fort Worth,Microbiology,HCPCS 86747,Parvovirus antibody test,$454.76,TX
+Medical City Fort Worth,Microbiology,HCPCS 86762,Rubella virus antibody test,$397.25,TX
+Medical City Fort Worth,Microbiology,HCPCS 86765,Rubeola virus antibody test,$633.68,TX
+Medical City Fort Worth,Microbiology,HCPCS 87207,Smear for infectious agents,$301.40,TX
+Medical City Fort Worth,Microbiology,HCPCS 87177,Smear for Parasites,$415.35,TX
+Medical City Fort Worth,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$234.30,TX
+Medical City Fort Worth,Microbiology,HCPCS 87045,Stool Culture,$404.70,TX
+Medical City Fort Worth,Microbiology,HCPCS 87880,Strep Test,$250.28,TX
+Medical City Fort Worth,Microbiology,HCPCS 87804,Test for Influenza Virus,$255.60,TX
+Medical City Fort Worth,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$519.72,TX
+Medical City Fort Worth,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$711.42,TX
+Medical City Fort Worth,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$108.63,TX
+Medical City Fort Worth,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,"$2,106.57",TX
+Medical City Fort Worth,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,"$1,018.14",TX
+Medical City Fort Worth,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals","$1,371.72",TX
+Medical City Fort Worth,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$96.92,TX
+Medical City Fort Worth,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$947.85,TX
+Medical City Fort Worth,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,"$1,102.28",TX
+Medical City Fort Worth,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,"$1,068.20",TX
+Medical City Fort Worth,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$530.37,TX
+Medical City Fort Worth,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$830.70,TX
+Medical City Fort Worth,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$881.82,TX
+Medical City Fort Worth,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$632.61,TX
+Medical City Fort Worth,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,"$1,326.99",TX
+Medical City Fort Worth,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$421.74,TX
+Medical City Fort Worth,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$476.06,TX
+Medical City Fort Worth,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$632.61,TX
+Medical City Fort Worth,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$768.93,TX
+Medical City Fort Worth,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$534.63,TX
+Medical City Fort Worth,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$613.44,TX
+Medical City Fort Worth,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$596.40,TX
+Medical City Fort Worth,Transfusion,HCPCS 86900,"Blood Typing, ABO",$253.47,TX
+Medical City Fort Worth,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$253.47,TX
+Medical City Fort Worth,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$441.98,TX
+Medical City Fort Worth,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$142.56,TX
+Medical City Fort Worth,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$286.49,TX
+Medical City Fort Worth,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$253.47,TX
+Medical City Fort Worth,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$314.18,TX
+Medical City Fort Worth,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$162.95,TX
+Medical City Fort Worth,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$182.12,TX
+Medical City Fort Worth,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$270.51,TX
+Medical City Fort Worth,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$404.70,TX
+Medical City Fort Worth,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$3,300.03",TX
+Medical City Fort Worth,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$439.27,TX
+Medical City Fort Worth,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$371.69,TX
+Medical City Fort Worth,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,"$1,576.14",TX
+Medical City Fort Worth,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$10,150.95",TX
+Medical City Fort Worth,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$2,634.81",TX
+Medical City Fort Worth,Pulmonary,HCPCS 94729,CO Diffusion Capacity,"$1,264.16",TX
+Medical City Fort Worth,Pulmonary,HCPCS 94640,Nebulizer Treatment,$457.95,TX
+Medical City Fort Worth,Pulmonary,HCPCS 94010,Spirometry - breathing test,$590.01,TX
+Medical City Fort Worth,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$7,851.18",TX
+Medical City Fort Worth,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$7,375.13",TX
+Medical City Fort Worth,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$4,272.78",TX
+Medical City Fort Worth,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$3,455.93",TX
+Medical City Fort Worth,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$15,751.35",TX
+Medical City Fort Worth,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$12,841.77",TX
+Medical City Fort Worth,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$11,177.18",TX
+Medical City Fort Worth,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$8,280.38",TX
+Medical City Fort Worth,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$8,990.73",TX
+Medical City Fort Worth,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$7,116.33",TX
+Medical City Fort Worth,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$6,158.90",TX
+Medical City Fort Worth,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$6,364.44",TX
+Medical City Fort Worth,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$6,260.07",TX
+Medical City Fort Worth,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$3,995.88",TX
+Medical City Fort Worth,MRI,HCPCS 72146,MRI chest spine without contrast material,"$5,711.60",TX
+Medical City Fort Worth,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$5,934.18",TX
+Medical City Fort Worth,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$7,481.63",TX
+Medical City Fort Worth,MRI,HCPCS 72141,MRI neck spine without contrast material,"$5,793.60",TX
+Medical City Fort Worth,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$7,709.54",TX
+Medical City Fort Worth,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$10,334.76",TX
+Medical City Fort Worth,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$7,253.72",TX
+Medical City Fort Worth,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$5,544.39",TX
+Medical City Fort Worth,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$1,632.65",TX
+Medical City Fort Worth,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,"$1,285.46",TX
+Medical City Fort Worth,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,258.83",TX
+Medical City Fort Worth,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,034.12",TX
+Medical City Fort Worth,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$641.13,TX
+Medical City Fort Worth,Ultrasound,HCPCS 76881,Ultrasound Joint Soft Tissue - Complete,$948.92,TX
+Medical City Fort Worth,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,299.30",TX
+Medical City Fort Worth,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,039.44",TX
+Medical City Fort Worth,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$648.59,TX
+Medical City Fort Worth,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,332.32",TX
+Medical City Fort Worth,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,159.79",TX
+Medical City Fort Worth,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$902.06,TX
+Medical City Fort Worth,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$723.14,TX
+Medical City Fort Worth,Chest,HCPCS 71046,X-ray of chest; 2 Views,$906.32,TX
+Medical City Fort Worth,Chest,HCPCS 71045,X-ray of chest; Single View,$699.71,TX
+Medical City Fort Worth,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views","$1,055.42",TX
+Medical City Fort Worth,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$642.20,TX
+Medical City Fort Worth,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$937.20,TX
+Medical City Fort Worth,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$613.44,TX
+Medical City Fort Worth,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$505.88,TX
+Medical City Fort Worth,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views","$1,299.30",TX
+Medical City Fort Worth,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$961.70,TX
+Medical City Fort Worth,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$569.78,TX
+Medical City Fort Worth,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$577.23,TX
+Medical City Fort Worth,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$577.23,TX
+Medical City Fort Worth,Lower Limbs,HCPCS 73565,X-ray Both Knees,$744.44,TX
+Medical City Fort Worth,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$583.62,TX
+Medical City Fort Worth,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,471.83",TX
+Medical City Fort Worth,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$667.76,TX
+Medical City Fort Worth,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views","$1,714.65",TX
+Medical City Fort Worth,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$627.29,TX
+Medical City Fort Worth,Cardiac,HCPCS 33249,Defibrillator complete system,"$22,874.88",TX
+Medical City Fort Worth,Cardiac,HCPCS 33240,Defibrillator generator,"$17,167.26",TX
+Medical City Fort Worth,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$21,572.85",TX
+Medical City Fort Worth,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$16,261.50",TX
+Medical City Fort Worth,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers","$1,800.42",TX
+Medical City Fort Worth,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$21,669.42",TX
+Medical City Fort Worth,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$2,081.18",TX
+Medical City Fort Worth,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$7,221.66",TX
+Medical City Fort Worth,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,019.52",TX
+Medical City Fort Worth,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$6,372.51",TX

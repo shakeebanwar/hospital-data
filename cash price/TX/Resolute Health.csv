@@ -1,0 +1,152 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Resolute Health,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$25,411.07",TX
+Resolute Health,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$24,741.83",TX
+Resolute Health,Emergency Care,HCPCS 99281,Emergency Level 1,$306.40,TX
+Resolute Health,Emergency Care,HCPCS 99282,Emergency Level 2,"$1,405.45",TX
+Resolute Health,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,087.63",TX
+Resolute Health,Emergency Care,HCPCS 99284,Emergency Level 4,"$11,092.13",TX
+Resolute Health,Emergency Care,HCPCS 99285,Emergency Level 5,"$11,222.81",TX
+Resolute Health,Hospital,HCPCS 99218,Hospital Observation per Hour,"$22,438.46",TX
+Resolute Health,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min","$2,421.54",TX
+Resolute Health,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,"$28,638.98",TX
+Resolute Health,Speech,HCPCS 92610,Swallow Evaluation,"$28,838.49",TX
+Resolute Health,Blood,HCPCS 85018,"Blood count, hemoglobin",$115.01,TX
+Resolute Health,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$108.74,TX
+Resolute Health,Blood,HCPCS 85610,"Blood test, clotting time",$193.94,TX
+Resolute Health,Blood,HCPCS 85730,Coagulation assessment blood test,$288.91,TX
+Resolute Health,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$318.29,TX
+Resolute Health,Blood,HCPCS 85027,"Complete blood count, automated",$229.74,TX
+Resolute Health,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$135.41,TX
+Resolute Health,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$9,490.16",TX
+Resolute Health,Chemistry,HCPCS 82140,Ammonia level,$176.59,TX
+Resolute Health,Chemistry,HCPCS 82150,Amylase (enzyme) level,$366.18,TX
+Resolute Health,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$494.51,TX
+Resolute Health,Chemistry,HCPCS 84439,Assay of free thyroxine,$301.64,TX
+Resolute Health,Chemistry,HCPCS 82248,Bilirubin level (Direct),$184.46,TX
+Resolute Health,Chemistry,HCPCS 82565,Blood creatinine level,$338.91,TX
+Resolute Health,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$170.40,TX
+Resolute Health,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$459.35,TX
+Resolute Health,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$205.10,TX
+Resolute Health,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$315.65,TX
+Resolute Health,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$370.35,TX
+Resolute Health,Chemistry,HCPCS 82746,Folic acid; serum,$331.82,TX
+Resolute Health,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$304.01,TX
+Resolute Health,Chemistry,HCPCS 82330,Ionized Calcium,$312.33,TX
+Resolute Health,Chemistry,HCPCS 83550,Iron Binding Capacity,$110.37,TX
+Resolute Health,Chemistry,HCPCS 83540,Iron level,$198.98,TX
+Resolute Health,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$273.79,TX
+Resolute Health,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$356.40,TX
+Resolute Health,Chemistry,HCPCS 83735,Magnesium Level,$151.72,TX
+Resolute Health,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$186.17,TX
+Resolute Health,Chemistry,HCPCS 84550,"Uric acid level, blood",$250.25,TX
+Resolute Health,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$563.33,TX
+Resolute Health,Immunology,HCPCS 86140,Measurement C-reactive protein,$266.87,TX
+Resolute Health,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$471.24,TX
+Resolute Health,Microbiology,HCPCS 87491,Chlamydia Test,$348.32,TX
+Resolute Health,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$291.86,TX
+Resolute Health,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$555.32,TX
+Resolute Health,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$182.60,TX
+Resolute Health,Microbiology,HCPCS 86762,Rubella virus antibody test,$288.20,TX
+Resolute Health,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$360.13,TX
+Resolute Health,Microbiology,HCPCS 87880,Streptoccus,$136.99,TX
+Resolute Health,Microbiology,HCPCS 87804,Test for Influenza Virus,$200.17,TX
+Resolute Health,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$256.79,TX
+Resolute Health,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$617.50,TX
+Resolute Health,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals","$1,008.71",TX
+Resolute Health,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$524.80,TX
+Resolute Health,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$383.91,TX
+Resolute Health,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$708.24,TX
+Resolute Health,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$404.18,TX
+Resolute Health,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,"$1,552.28",TX
+Resolute Health,Transfusion,HCPCS 86900,"Blood Typing, ABO",$169.10,TX
+Resolute Health,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$169.00,TX
+Resolute Health,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$284.44,TX
+Resolute Health,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$133.17,TX
+Resolute Health,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$271.78,TX
+Resolute Health,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$357.38,TX
+Resolute Health,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$18,714.39",TX
+Resolute Health,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$11,344.55",TX
+Resolute Health,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$49,330.43",TX
+Resolute Health,Sleep,HCPCS 95810,Sleep study,"$8,584.30",TX
+Resolute Health,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$7,123.02",TX
+Resolute Health,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,664.84",TX
+Resolute Health,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$4,416.91",TX
+Resolute Health,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$12,982.86",TX
+Resolute Health,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$11,805.32",TX
+Resolute Health,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$5,117.27",TX
+Resolute Health,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$4,202.86",TX
+Resolute Health,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$5,823.70",TX
+Resolute Health,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$5,999.63",TX
+Resolute Health,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$8,054.16",TX
+Resolute Health,MRI,HCPCS 72141,MRI neck spine without contrast material,"$8,993.83",TX
+Resolute Health,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$8,631.53",TX
+Resolute Health,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$5,813.33",TX
+Resolute Health,MRI,HCPCS 73721,MRI scan of leg joint,"$7,267.29",TX
+Resolute Health,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$2,132.24",TX
+Resolute Health,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$2,072.50",TX
+Resolute Health,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,481.70",TX
+Resolute Health,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$1,975.21",TX
+Resolute Health,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,862.91",TX
+Resolute Health,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,792.76",TX
+Resolute Health,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,687.22",TX
+Resolute Health,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,466.99",TX
+Resolute Health,Chest,HCPCS 71046,X-ray of chest; 2 Views,$890.18,TX
+Resolute Health,Chest,HCPCS 71045,X-ray of chest; Single View,$694.50,TX
+Resolute Health,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$869.74,TX
+Resolute Health,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$551.71,TX
+Resolute Health,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$581.86,TX
+Resolute Health,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$899.56,TX
+Resolute Health,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views","$1,179.05",TX
+Resolute Health,Lower Limbs,HCPCS 73630,X-ray exam of foot,"$1,127.02",TX
+Resolute Health,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$839.66,TX
+Resolute Health,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views","$1,012.82",TX
+Resolute Health,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$910.57,TX
+Resolute Health,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$740.42,TX
+Resolute Health,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$922.71,TX
+Resolute Health,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,880.84",TX
+Resolute Health,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views","$1,198.10",TX
+Resolute Health,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views","$1,380.83",TX
+Resolute Health,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views","$1,082.25",TX
+Resolute Health,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$975.82,TX
+Resolute Health,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views","$1,007.33",TX
+Resolute Health,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views","$1,065.06",TX
+Resolute Health,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$940.10,TX
+Resolute Health,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$678.06,TX
+Resolute Health,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$691.37,TX
+Resolute Health,Abdomenal,HCPCS 47562,Cholecystectomy,"$42,700.70",TX
+Resolute Health,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$49,324.20",TX
+Resolute Health,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$57,342.38",TX
+Resolute Health,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$50,334.75",TX
+Resolute Health,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$49,013.48",TX
+Resolute Health,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$48,296.50",TX
+Resolute Health,Breast,HCPCS 19120,Excision of cyst of breast,"$31,744.05",TX
+Resolute Health,Breast,HCPCS 19301,Partial removal of breast,"$44,522.91",TX
+Resolute Health,Cardiac,MSDRG 216,Cardiac valve procedure,"$447,287.31",TX
+Resolute Health,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$57,840.15",TX
+Resolute Health,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$15,028.32",TX
+Resolute Health,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$17,616.21",TX
+Resolute Health,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$18,175.62",TX
+Resolute Health,Digestive,HCPCS 43235,EGD,"$31,622.31",TX
+Resolute Health,Digestive,HCPCS 43239,EGD and biopsy,"$20,570.93",TX
+Resolute Health,Digestive,HCPCS 45391,Ultrasound of lower large bowel using an endoscope,"$12,427.16",TX
+Resolute Health,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$67,915.83",TX
+Resolute Health,General,HCPCS 10060,Drainage of Abscess,"$18,650.54",TX
+Resolute Health,General,HCPCS 55866,Prostatectomy,"$90,176.37",TX
+Resolute Health,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$26,704.26",TX
+Resolute Health,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$12,716.15",TX
+Resolute Health,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$10,211.48",TX
+Resolute Health,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$101,308.01",TX
+Resolute Health,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$30,502.96",TX
+Resolute Health,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$66,106.36",TX
+Resolute Health,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$136,110.64",TX
+Resolute Health,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$130,220.27",TX
+Resolute Health,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot","$1,163.17",TX
+Resolute Health,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$65,596.97",TX
+Resolute Health,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$35,890.35",TX
+Resolute Health,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$27,974.37",TX
+Resolute Health,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$38,955.47",TX
+Resolute Health,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$18,137.41",TX
+Resolute Health,Ocular,HCPCS 66984,Cataract removal,"$34,086.23",TX
+Resolute Health,Ocular,HCPCS 66821,Laser cataract removal,"$8,743.89",TX
+Resolute Health,Soft Tissue,HCPCS 97597,Debridement of open wound,"$3,744.89",TX
+Resolute Health,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$7,940.18",TX

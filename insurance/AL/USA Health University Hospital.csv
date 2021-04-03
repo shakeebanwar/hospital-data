@@ -1,0 +1,759 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State,plan_name,price
+USA Health University Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$2,307.73",AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),630.51
+USA Health University Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$2,307.73",AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),186.99
+USA Health University Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$2,307.73",AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),216.88
+USA Health University Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$2,307.73",AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,216.88
+USA Health University Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$2,307.73",AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,1421.47
+USA Health University Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$2,307.73",AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,691.48
+USA Health University Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$694.16,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,303.62
+USA Health University Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$694.16,AL,HUMANA INC. Medicaid,166.33
+USA Health University Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$694.16,AL,MAGNOLIA HEALTH PLAN INC. Medicaid,555.68
+USA Health University Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$694.16,AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,305.68
+USA Health University Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$694.16,AL,UMR Preferred Provider Organization (PPO),367.27
+USA Health University Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$694.16,AL,UNITED HEALTHCARE INSURANCE COMPANY Exclusive Provider Organization (EPO),467.00
+USA Health University Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$694.16,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization,335.88
+USA Health University Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$694.16,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,323.41
+USA Health University Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$694.16,AL,UNITED HEALTHCARE INSURANCE COMPANY Medicaid,72.97
+USA Health University Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$694.16,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),273.93
+USA Health University Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$694.16,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,363.61
+USA Health University Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$694.16,AL,"VIVA HEALTH, INC. Health Maintenance Organization",380.17
+USA Health University Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$694.16,AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,250.28
+USA Health University Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$694.16,AL,AETNA Health Maintenance Organization,196.70
+USA Health University Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$694.16,AL,AETNA Point of Service (POS),419.19
+USA Health University Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$694.16,AL,AETNA Preferred Provider Organization (PPO),344.20
+USA Health University Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$694.16,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),312.87
+USA Health University Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$694.16,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),408.82
+USA Health University Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$694.16,AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),337.41
+USA Health University Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$694.16,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,303.62
+USA Health University Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$694.16,AL,HUMANA INC. Medicaid,166.33
+USA Health University Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$694.16,AL,MAGNOLIA HEALTH PLAN INC. Medicaid,555.68
+USA Health University Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$694.16,AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,305.68
+USA Health University Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$694.16,AL,UMR Preferred Provider Organization (PPO),367.27
+USA Health University Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$694.16,AL,UNITED HEALTHCARE INSURANCE COMPANY Exclusive Provider Organization (EPO),467.00
+USA Health University Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$694.16,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization,335.88
+USA Health University Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$694.16,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,323.41
+USA Health University Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$694.16,AL,UNITED HEALTHCARE INSURANCE COMPANY Medicaid,72.97
+USA Health University Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$694.16,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),273.93
+USA Health University Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$694.16,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,363.61
+USA Health University Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$694.16,AL,"VIVA HEALTH, INC. Health Maintenance Organization",380.17
+USA Health University Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$694.16,AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,250.28
+USA Health University Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$694.16,AL,AETNA Health Maintenance Organization,196.70
+USA Health University Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$694.16,AL,AETNA Point of Service (POS),419.19
+USA Health University Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$694.16,AL,AETNA Preferred Provider Organization (PPO),344.20
+USA Health University Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$694.16,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),312.87
+USA Health University Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$694.16,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),408.82
+USA Health University Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$694.16,AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),337.41
+USA Health University Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$694.16,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,303.62
+USA Health University Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$694.16,AL,HUMANA INC. Medicaid,166.33
+USA Health University Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$694.16,AL,MAGNOLIA HEALTH PLAN INC. Medicaid,555.68
+USA Health University Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$694.16,AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,305.68
+USA Health University Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$694.16,AL,UMR Preferred Provider Organization (PPO),367.27
+USA Health University Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$694.16,AL,UNITED HEALTHCARE INSURANCE COMPANY Exclusive Provider Organization (EPO),467.00
+USA Health University Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$694.16,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization,335.88
+USA Health University Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$694.16,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,323.41
+USA Health University Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$694.16,AL,UNITED HEALTHCARE INSURANCE COMPANY Medicaid,72.97
+USA Health University Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$694.16,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),273.93
+USA Health University Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$694.16,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,363.61
+USA Health University Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$694.16,AL,"VIVA HEALTH, INC. Health Maintenance Organization",380.17
+USA Health University Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$694.16,AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,250.28
+USA Health University Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$694.16,AL,AETNA Health Maintenance Organization,196.70
+USA Health University Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$694.16,AL,AETNA Point of Service (POS),419.19
+USA Health University Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$694.16,AL,AETNA Preferred Provider Organization (PPO),344.20
+USA Health University Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$694.16,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),312.87
+USA Health University Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$694.16,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),408.82
+USA Health University Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$694.16,AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),337.41
+USA Health University Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$694.16,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,303.62
+USA Health University Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$694.16,AL,HUMANA INC. Medicaid,166.33
+USA Health University Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$694.16,AL,MAGNOLIA HEALTH PLAN INC. Medicaid,555.68
+USA Health University Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$694.16,AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,305.68
+USA Health University Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$694.16,AL,UMR Preferred Provider Organization (PPO),367.27
+USA Health University Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$694.16,AL,UNITED HEALTHCARE INSURANCE COMPANY Exclusive Provider Organization (EPO),467.00
+USA Health University Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$694.16,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization,335.88
+USA Health University Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$694.16,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,323.41
+USA Health University Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$694.16,AL,UNITED HEALTHCARE INSURANCE COMPANY Medicaid,72.97
+USA Health University Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$694.16,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),273.93
+USA Health University Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$694.16,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,363.61
+USA Health University Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$694.16,AL,"VIVA HEALTH, INC. Health Maintenance Organization",380.17
+USA Health University Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$694.16,AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,250.28
+USA Health University Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$694.16,AL,AETNA Health Maintenance Organization,196.70
+USA Health University Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$694.16,AL,AETNA Point of Service (POS),419.19
+USA Health University Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$694.16,AL,AETNA Preferred Provider Organization (PPO),344.20
+USA Health University Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$694.16,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),312.87
+USA Health University Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$694.16,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),408.82
+USA Health University Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$694.16,AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),337.41
+USA Health University Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$694.16,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,303.62
+USA Health University Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$694.16,AL,HUMANA INC. Medicaid,166.33
+USA Health University Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$694.16,AL,MAGNOLIA HEALTH PLAN INC. Medicaid,555.68
+USA Health University Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$694.16,AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,305.68
+USA Health University Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$694.16,AL,UMR Preferred Provider Organization (PPO),367.27
+USA Health University Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$694.16,AL,UNITED HEALTHCARE INSURANCE COMPANY Exclusive Provider Organization (EPO),467.00
+USA Health University Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$694.16,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization,335.88
+USA Health University Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$694.16,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,323.41
+USA Health University Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$694.16,AL,UNITED HEALTHCARE INSURANCE COMPANY Medicaid,72.97
+USA Health University Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$694.16,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),273.93
+USA Health University Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$694.16,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,363.61
+USA Health University Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$694.16,AL,"VIVA HEALTH, INC. Health Maintenance Organization",380.17
+USA Health University Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$694.16,AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,250.28
+USA Health University Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$694.16,AL,AETNA Health Maintenance Organization,196.70
+USA Health University Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$694.16,AL,AETNA Point of Service (POS),419.19
+USA Health University Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$694.16,AL,AETNA Preferred Provider Organization (PPO),344.20
+USA Health University Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$694.16,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),312.87
+USA Health University Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$694.16,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),408.82
+USA Health University Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$694.16,AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),337.41
+USA Health University Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$259.15,AL,AETNA Point of Service (POS),235.37
+USA Health University Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$259.15,AL,AETNA Preferred Provider Organization (PPO),226.33
+USA Health University Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$259.15,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),36.56
+USA Health University Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$259.15,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),105.21
+USA Health University Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$259.15,AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),84.85
+USA Health University Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$259.15,AL,GOLDEN RULE INSURANCE COMPANY Preferred Provider Organization (PPO),47.10
+USA Health University Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$259.15,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,82.71
+USA Health University Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$259.15,AL,HUMANA INC. Medicaid,118.13
+USA Health University Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$259.15,AL,MAGNOLIA HEALTH PLAN INC. Medicaid,17.85
+USA Health University Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$259.15,AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,89.09
+USA Health University Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$259.15,AL,UMR Preferred Provider Organization (PPO),60.66
+USA Health University Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$259.15,AL,UNITED HEALTHCARE INSURANCE COMPANY Exclusive Provider Organization (EPO),102.06
+USA Health University Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$259.15,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization,43.53
+USA Health University Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$259.15,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,62.16
+USA Health University Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$259.15,AL,UNITED HEALTHCARE INSURANCE COMPANY Medicaid,156.95
+USA Health University Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$259.15,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),68.98
+USA Health University Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$259.15,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,91.06
+USA Health University Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$259.15,AL,"VIVA HEALTH, INC. Health Maintenance Organization",76.90
+USA Health University Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$259.15,AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,78.07
+USA Health University Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$259.15,AL,AETNA Point of Service (POS),235.37
+USA Health University Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$259.15,AL,AETNA Preferred Provider Organization (PPO),226.33
+USA Health University Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$259.15,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),36.56
+USA Health University Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$259.15,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),105.21
+USA Health University Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$259.15,AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),84.85
+USA Health University Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$259.15,AL,GOLDEN RULE INSURANCE COMPANY Preferred Provider Organization (PPO),47.10
+USA Health University Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$259.15,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,82.71
+USA Health University Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$259.15,AL,HUMANA INC. Medicaid,118.13
+USA Health University Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$259.15,AL,MAGNOLIA HEALTH PLAN INC. Medicaid,17.85
+USA Health University Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$259.15,AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,89.09
+USA Health University Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$259.15,AL,UMR Preferred Provider Organization (PPO),60.66
+USA Health University Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$259.15,AL,UNITED HEALTHCARE INSURANCE COMPANY Exclusive Provider Organization (EPO),102.06
+USA Health University Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$259.15,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization,43.53
+USA Health University Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$259.15,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,62.16
+USA Health University Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$259.15,AL,UNITED HEALTHCARE INSURANCE COMPANY Medicaid,156.95
+USA Health University Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$259.15,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),68.98
+USA Health University Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$259.15,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,91.06
+USA Health University Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$259.15,AL,"VIVA HEALTH, INC. Health Maintenance Organization",76.90
+USA Health University Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$259.15,AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,78.07
+USA Health University Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$259.15,AL,AETNA Point of Service (POS),235.37
+USA Health University Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$259.15,AL,AETNA Preferred Provider Organization (PPO),226.33
+USA Health University Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$259.15,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),36.56
+USA Health University Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$259.15,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),105.21
+USA Health University Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$259.15,AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),84.85
+USA Health University Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$259.15,AL,GOLDEN RULE INSURANCE COMPANY Preferred Provider Organization (PPO),47.10
+USA Health University Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$259.15,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,82.71
+USA Health University Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$259.15,AL,HUMANA INC. Medicaid,118.13
+USA Health University Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$259.15,AL,MAGNOLIA HEALTH PLAN INC. Medicaid,17.85
+USA Health University Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$259.15,AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,89.09
+USA Health University Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$259.15,AL,UMR Preferred Provider Organization (PPO),60.66
+USA Health University Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$259.15,AL,UNITED HEALTHCARE INSURANCE COMPANY Exclusive Provider Organization (EPO),102.06
+USA Health University Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$259.15,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization,43.53
+USA Health University Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$259.15,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,62.16
+USA Health University Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$259.15,AL,UNITED HEALTHCARE INSURANCE COMPANY Medicaid,156.95
+USA Health University Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$259.15,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),68.98
+USA Health University Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$259.15,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,91.06
+USA Health University Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$259.15,AL,"VIVA HEALTH, INC. Health Maintenance Organization",76.90
+USA Health University Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$259.15,AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,78.07
+USA Health University Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$259.15,AL,AETNA Point of Service (POS),235.37
+USA Health University Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$259.15,AL,AETNA Preferred Provider Organization (PPO),226.33
+USA Health University Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$259.15,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),36.56
+USA Health University Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$259.15,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),105.21
+USA Health University Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$259.15,AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),84.85
+USA Health University Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$259.15,AL,GOLDEN RULE INSURANCE COMPANY Preferred Provider Organization (PPO),47.10
+USA Health University Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$259.15,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,82.71
+USA Health University Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$259.15,AL,HUMANA INC. Medicaid,118.13
+USA Health University Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$259.15,AL,MAGNOLIA HEALTH PLAN INC. Medicaid,17.85
+USA Health University Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$259.15,AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,89.09
+USA Health University Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$259.15,AL,UMR Preferred Provider Organization (PPO),60.66
+USA Health University Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$259.15,AL,UNITED HEALTHCARE INSURANCE COMPANY Exclusive Provider Organization (EPO),102.06
+USA Health University Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$259.15,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization,43.53
+USA Health University Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$259.15,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,62.16
+USA Health University Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$259.15,AL,UNITED HEALTHCARE INSURANCE COMPANY Medicaid,156.95
+USA Health University Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$259.15,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),68.98
+USA Health University Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$259.15,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,91.06
+USA Health University Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$259.15,AL,"VIVA HEALTH, INC. Health Maintenance Organization",76.90
+USA Health University Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$259.15,AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,78.07
+USA Health University Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$6.82,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,2.13
+USA Health University Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$6.82,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,2.13
+USA Health University Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$36.58,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),16.75
+USA Health University Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$30.61,AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,4.12
+USA Health University Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$30.61,AL,UMR Preferred Provider Organization (PPO),10.12
+USA Health University Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$30.61,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,30.41
+USA Health University Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$30.61,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),2.31
+USA Health University Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$30.61,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,3.87
+USA Health University Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$30.61,AL,"VIVA HEALTH, INC. Health Maintenance Organization",24.50
+USA Health University Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$30.61,AL,AETNA Point of Service (POS),15.21
+USA Health University Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$30.61,AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,4.32
+USA Health University Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$30.61,AL,AETNA Preferred Provider Organization (PPO),27.50
+USA Health University Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$30.61,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),6.06
+USA Health University Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$30.61,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),21.84
+USA Health University Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$30.61,AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),4.31
+USA Health University Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$30.61,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,4.29
+USA Health University Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$30.61,AL,MAGNOLIA HEALTH PLAN INC. Medicaid,3.91
+USA Health University Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$30.90,AL,AETNA Point of Service (POS),26.13
+USA Health University Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$30.90,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),3.23
+USA Health University Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$30.90,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),22.08
+USA Health University Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$30.90,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,6.01
+USA Health University Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$30.90,AL,MAGNOLIA HEALTH PLAN INC. Medicaid,5.80
+USA Health University Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$30.90,AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,5.77
+USA Health University Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$30.90,AL,UMR Preferred Provider Organization (PPO),11.66
+USA Health University Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$30.90,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,28.01
+USA Health University Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$30.90,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),3.52
+USA Health University Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$30.90,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,5.53
+USA Health University Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$30.90,AL,"VIVA HEALTH, INC. Health Maintenance Organization",24.50
+USA Health University Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$36.91,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,7.62
+USA Health University Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$36.91,AL,HUMANA INC. Medicaid,5.83
+USA Health University Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$36.91,AL,MAGNOLIA HEALTH PLAN INC. Medicaid,6.96
+USA Health University Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$36.91,AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,7.15
+USA Health University Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$36.91,AL,UMR Preferred Provider Organization (PPO),7.91
+USA Health University Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$36.91,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,22.72
+USA Health University Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$36.91,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),4.59
+USA Health University Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$36.91,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,6.66
+USA Health University Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$36.91,AL,"VIVA HEALTH, INC. Health Maintenance Organization",26.24
+USA Health University Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$36.91,AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,7.60
+USA Health University Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$36.91,AL,AETNA Health Maintenance Organization,7.77
+USA Health University Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$36.91,AL,AETNA Point of Service (POS),27.42
+USA Health University Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$36.91,AL,AETNA Preferred Provider Organization (PPO),22.93
+USA Health University Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$36.91,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),9.83
+USA Health University Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$36.91,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),26.24
+USA Health University Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$36.91,AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),7.67
+USA Health University Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$36.91,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,7.62
+USA Health University Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$36.91,AL,HUMANA INC. Medicaid,5.83
+USA Health University Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$36.91,AL,MAGNOLIA HEALTH PLAN INC. Medicaid,6.96
+USA Health University Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$36.91,AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,7.15
+USA Health University Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$36.91,AL,UMR Preferred Provider Organization (PPO),7.91
+USA Health University Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$36.91,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,22.72
+USA Health University Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$36.91,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),4.59
+USA Health University Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$36.91,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,6.66
+USA Health University Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$36.91,AL,"VIVA HEALTH, INC. Health Maintenance Organization",26.24
+USA Health University Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$36.91,AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,7.60
+USA Health University Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$36.91,AL,AETNA Health Maintenance Organization,7.77
+USA Health University Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$36.91,AL,AETNA Point of Service (POS),27.42
+USA Health University Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$36.91,AL,AETNA Preferred Provider Organization (PPO),22.93
+USA Health University Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$36.91,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),9.83
+USA Health University Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$36.91,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),26.24
+USA Health University Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$36.91,AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),7.67
+USA Health University Hospital,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$77.29,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),6.38
+USA Health University Hospital,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$77.29,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),74.00
+USA Health University Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$22.94,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,5.51
+USA Health University Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$161.82,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,38.62
+USA Health University Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$55.05,AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),4.95
+USA Health University Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$55.05,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,5.78
+USA Health University Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$55.05,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,2.93
+USA Health University Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$55.05,AL,"VIVA HEALTH, INC. Health Maintenance Organization",64.50
+USA Health University Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$55.05,AL,AETNA Point of Service (POS),5.78
+USA Health University Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$55.05,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),4.66
+USA Health University Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$55.05,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),23.88
+USA Health University Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$66.34,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),8.41
+USA Health University Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$66.34,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,13.44
+USA Health University Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$78.12,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),16.37
+USA Health University Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$78.12,AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),16.77
+USA Health University Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$78.12,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,16.77
+USA Health University Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$78.12,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),9.84
+USA Health University Hospital,Chemistry,HCPCS 82140,Ammonia level,$52.08,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),8.55
+USA Health University Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$47.02,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),7.53
+USA Health University Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$47.02,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),24.64
+USA Health University Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$47.02,AL,MAGNOLIA HEALTH PLAN INC. Medicaid,6.48
+USA Health University Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$47.02,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),3.81
+USA Health University Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$47.02,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,6.16
+USA Health University Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$72.54,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),13.99
+USA Health University Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$83.08,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),16.83
+USA Health University Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$83.08,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),31.15
+USA Health University Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$83.08,AL,UNITED HEALTHCARE INSURANCE COMPANY Medicaid,29.72
+USA Health University Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$83.08,AL,"VIVA HEALTH, INC. Health Maintenance Organization",67.00
+USA Health University Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$59.20,AL,AETNA Point of Service (POS),9.02
+USA Health University Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$59.20,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),11.33
+USA Health University Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$59.20,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),36.04
+USA Health University Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$59.20,AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),9.02
+USA Health University Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$59.20,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,8.81
+USA Health University Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$59.20,AL,MAGNOLIA HEALTH PLAN INC. Medicaid,9.02
+USA Health University Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$59.20,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,6.43
+USA Health University Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$59.20,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),5.29
+USA Health University Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$59.20,AL,"VIVA HEALTH, INC. Health Maintenance Organization",14.00
+USA Health University Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$59.20,AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,7.63
+USA Health University Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$87.67,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),23.29
+USA Health University Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$87.67,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),76.20
+USA Health University Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$87.67,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,16.18
+USA Health University Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$22.94,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),7.44
+USA Health University Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$22.94,AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),5.02
+USA Health University Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$22.94,AL,UMR Preferred Provider Organization (PPO),2.95
+USA Health University Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$13.09,AL,AETNA Point of Service (POS),5.12
+USA Health University Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$13.09,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),6.77
+USA Health University Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$13.09,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),6.40
+USA Health University Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$13.09,AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),5.12
+USA Health University Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$13.09,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,5.15
+USA Health University Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$13.09,AL,MAGNOLIA HEALTH PLAN INC. Medicaid,4.61
+USA Health University Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$13.09,AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,5.46
+USA Health University Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$13.09,AL,UMR Preferred Provider Organization (PPO),3.01
+USA Health University Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$13.09,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,4.64
+USA Health University Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$13.09,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),3.01
+USA Health University Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$13.09,AL,"VIVA HEALTH, INC. Health Maintenance Organization",8.00
+USA Health University Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$13.09,AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,5.15
+USA Health University Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$3.75,AL,AETNA Point of Service (POS),3.30
+USA Health University Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$3.75,AL,AETNA Preferred Provider Organization (PPO),3.30
+USA Health University Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$3.75,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),2.53
+USA Health University Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$3.75,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),2.73
+USA Health University Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$3.75,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,3.28
+USA Health University Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$3.75,AL,UMR Preferred Provider Organization (PPO),4.92
+USA Health University Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$3.75,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,5.55
+USA Health University Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$3.75,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),1.37
+USA Health University Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$3.75,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,2.95
+USA Health University Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$3.75,AL,"VIVA HEALTH, INC. Health Maintenance Organization",3.00
+USA Health University Hospital,Chemistry,HCPCS 84132,Blood potassium level,$25.17,AL,AETNA Point of Service (POS),4.76
+USA Health University Hospital,Chemistry,HCPCS 84132,Blood potassium level,$25.17,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),4.28
+USA Health University Hospital,Chemistry,HCPCS 84132,Blood potassium level,$25.17,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),2.53
+USA Health University Hospital,Chemistry,HCPCS 84132,Blood potassium level,$25.17,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,4.73
+USA Health University Hospital,Chemistry,HCPCS 84132,Blood potassium level,$25.17,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,3.36
+USA Health University Hospital,Chemistry,HCPCS 84132,Blood potassium level,$25.17,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,4.28
+USA Health University Hospital,Chemistry,HCPCS 84132,Blood potassium level,$25.17,AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,4.73
+USA Health University Hospital,Chemistry,HCPCS 84295,Blood sodium level,$16.41,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),5.99
+USA Health University Hospital,Chemistry,HCPCS 84295,Blood sodium level,$16.41,AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),4.81
+USA Health University Hospital,Chemistry,HCPCS 84295,Blood sodium level,$16.41,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,5.06
+USA Health University Hospital,Chemistry,HCPCS 84295,Blood sodium level,$16.41,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,4.33
+USA Health University Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$82.90,AL,AETNA Point of Service (POS),59.48
+USA Health University Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$82.90,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),22.34
+USA Health University Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$82.90,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),52.10
+USA Health University Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$82.90,AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),16.80
+USA Health University Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$82.90,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,16.80
+USA Health University Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$82.90,AL,UMR Preferred Provider Organization (PPO),9.86
+USA Health University Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$82.90,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,10.62
+USA Health University Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$82.90,AL,UNITED HEALTHCARE INSURANCE COMPANY Medicaid,48.58
+USA Health University Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$82.90,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),9.86
+USA Health University Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$82.90,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,16.80
+USA Health University Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$82.90,AL,"VIVA HEALTH, INC. Health Maintenance Organization",73.55
+USA Health University Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$82.90,AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,18.67
+USA Health University Hospital,Chemistry,HCPCS 82310,Calcium level,$24.39,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),11.50
+USA Health University Hospital,Chemistry,HCPCS 82310,Calcium level,$24.39,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,5.16
+USA Health University Hospital,Chemistry,HCPCS 82310,Calcium level,$24.39,AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,14.59
+USA Health University Hospital,Chemistry,HCPCS 82310,Calcium level,$24.39,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,5.16
+USA Health University Hospital,Chemistry,HCPCS 82310,Calcium level,$24.39,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,12.31
+USA Health University Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$84.57,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),16.74
+USA Health University Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$84.57,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),69.60
+USA Health University Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$84.57,AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,18.20
+USA Health University Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$84.57,AL,UMR Preferred Provider Organization (PPO),11.13
+USA Health University Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$84.57,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,93.32
+USA Health University Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$84.57,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),11.13
+USA Health University Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$58.28,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),11.56
+USA Health University Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$58.28,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,16.30
+USA Health University Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$24.01,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),7.49
+USA Health University Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$24.01,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),2.72
+USA Health University Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$24.01,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,6.51
+USA Health University Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$24.01,AL,MAGNOLIA HEALTH PLAN INC. Medicaid,6.19
+USA Health University Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$24.01,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,40.00
+USA Health University Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$24.01,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,5.86
+USA Health University Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$24.01,AL,"VIVA HEALTH, INC. Health Maintenance Organization",20.21
+USA Health University Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$24.01,AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,7.23
+USA Health University Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$38.97,AL,AETNA Point of Service (POS),15.08
+USA Health University Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$38.97,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),18.59
+USA Health University Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$38.97,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),16.22
+USA Health University Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$38.97,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,15.08
+USA Health University Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$38.97,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,9.25
+USA Health University Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$213.90,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),48.26
+USA Health University Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$213.90,AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,41.07
+USA Health University Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$66.30,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),7.99
+USA Health University Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$66.30,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,13.64
+USA Health University Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$66.30,AL,"VIVA HEALTH, INC. Health Maintenance Organization",53.50
+USA Health University Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$66.30,AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,14.39
+USA Health University Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$66.30,AL,AETNA Point of Service (POS),36.25
+USA Health University Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$66.30,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),14.41
+USA Health University Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$66.30,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),54.36
+USA Health University Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$66.30,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,13.63
+USA Health University Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$66.30,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,7.70
+USA Health University Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$74.16,AL,AETNA Point of Service (POS),14.70
+USA Health University Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$74.16,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),12.35
+USA Health University Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$74.16,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),8.87
+USA Health University Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$74.16,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,14.70
+USA Health University Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$74.16,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,11.06
+USA Health University Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$35.76,AL,AETNA Point of Service (POS),75.90
+USA Health University Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$35.76,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),14.47
+USA Health University Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$35.76,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),21.02
+USA Health University Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$35.76,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,9.12
+USA Health University Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$35.76,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,3.91
+USA Health University Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$35.76,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,9.31
+USA Health University Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$12.40,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),5.65
+USA Health University Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$12.40,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,7.20
+USA Health University Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$12.40,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,3.02
+USA Health University Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$46.47,AL,AETNA Point of Service (POS),42.35
+USA Health University Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$46.47,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),15.04
+USA Health University Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$46.47,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),35.83
+USA Health University Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$46.47,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,9.71
+USA Health University Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$46.47,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,77.00
+USA Health University Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$46.47,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),7.46
+USA Health University Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$46.47,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,9.71
+USA Health University Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$46.47,AL,"VIVA HEALTH, INC. Health Maintenance Organization",7.57
+USA Health University Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$46.47,AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,9.71
+USA Health University Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$19.22,AL,AETNA Point of Service (POS),17.05
+USA Health University Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$19.22,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),11.27
+USA Health University Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$19.22,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,18.58
+USA Health University Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$19.22,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),10.91
+USA Health University Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$19.22,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,18.52
+USA Health University Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$55.80,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),8.47
+USA Health University Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$55.80,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,90.00
+USA Health University Hospital,Chemistry,HCPCS 83020,Hemoglobin Measurement,$36.77,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,18.05
+USA Health University Hospital,Chemistry,HCPCS 83020,Hemoglobin Measurement,$36.77,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),19.76
+USA Health University Hospital,Chemistry,HCPCS 83020,Hemoglobin Measurement,$36.77,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),28.96
+USA Health University Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$44.02,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),36.07
+USA Health University Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$57.66,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),11.56
+USA Health University Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$294.71,AL,AETNA Point of Service (POS),18.40
+USA Health University Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$294.71,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),16.64
+USA Health University Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$294.71,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,18.40
+USA Health University Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$294.71,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,17.27
+USA Health University Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$50.22,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),17.48
+USA Health University Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$50.22,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,11.43
+USA Health University Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$50.22,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,11.43
+USA Health University Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$50.22,AL,AETNA Point of Service (POS),44.55
+USA Health University Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$24.39,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),11.50
+USA Health University Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$24.39,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,5.16
+USA Health University Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$24.39,AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,14.59
+USA Health University Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$24.39,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,5.16
+USA Health University Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$24.39,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,12.31
+USA Health University Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$53.94,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),8.42
+USA Health University Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$53.94,AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),8.74
+USA Health University Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$53.94,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,8.74
+USA Health University Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$53.94,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,6.21
+USA Health University Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$53.94,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,7.87
+USA Health University Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$53.94,AL,"VIVA HEALTH, INC. Health Maintenance Organization",43.50
+USA Health University Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$53.94,AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,9.23
+USA Health University Hospital,Chemistry,HCPCS 83540,Iron level,$55.80,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),7.49
+USA Health University Hospital,Chemistry,HCPCS 83540,Iron level,$55.80,AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),6.47
+USA Health University Hospital,Chemistry,HCPCS 83540,Iron level,$55.80,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,6.47
+USA Health University Hospital,Chemistry,HCPCS 83540,Iron level,$55.80,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,4.60
+USA Health University Hospital,Chemistry,HCPCS 83540,Iron level,$55.80,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,5.82
+USA Health University Hospital,Chemistry,HCPCS 83540,Iron level,$55.80,AL,"VIVA HEALTH, INC. Health Maintenance Organization",45.00
+USA Health University Hospital,Chemistry,HCPCS 83540,Iron level,$55.80,AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,6.83
+USA Health University Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$19.80,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),7.34
+USA Health University Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$19.80,AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),6.04
+USA Health University Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$19.80,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,6.04
+USA Health University Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$19.80,AL,MAGNOLIA HEALTH PLAN INC. Medicaid,5.44
+USA Health University Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$19.80,AL,UMR Preferred Provider Organization (PPO),3.54
+USA Health University Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$19.80,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,32.00
+USA Health University Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$19.80,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),3.54
+USA Health University Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$40.82,AL,AETNA Point of Service (POS),36.30
+USA Health University Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$40.82,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),5.26
+USA Health University Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$40.82,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),22.50
+USA Health University Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$40.82,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,6.89
+USA Health University Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$40.82,AL,MAGNOLIA HEALTH PLAN INC. Medicaid,6.89
+USA Health University Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$40.82,AL,UMR Preferred Provider Organization (PPO),14.58
+USA Health University Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$40.82,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),4.04
+USA Health University Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$40.82,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,6.55
+USA Health University Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$40.82,AL,"VIVA HEALTH, INC. Health Maintenance Organization",30.00
+USA Health University Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$9.92,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),4.77
+USA Health University Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,$851.55,AL,AETNA Point of Service (POS),478.39
+USA Health University Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,$851.55,AL,AETNA Preferred Provider Organization (PPO),800.00
+USA Health University Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,$851.55,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),359.06
+USA Health University Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,$851.55,AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),205.24
+USA Health University Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,$851.55,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,247.26
+USA Health University Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,$851.55,AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,197.03
+USA Health University Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,$851.55,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,326.09
+USA Health University Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,$851.55,AL,UNITED HEALTHCARE INSURANCE COMPANY Medicaid,60.77
+USA Health University Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,$851.55,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),836.00
+USA Health University Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,$851.55,AL,"VIVA HEALTH, INC. Health Maintenance Organization",687.00
+USA Health University Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,$851.55,AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,296.29
+USA Health University Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,648.98",AL,AETNA Point of Service (POS),450.49
+USA Health University Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,648.98",AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,321.38
+USA Health University Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,648.98",AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,339.33
+USA Health University Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,648.98",AL,UNITED HEALTHCARE INSURANCE COMPANY Medicaid,67.26
+USA Health University Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,648.98",AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),621.67
+USA Health University Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,648.98",AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),569.94
+USA Health University Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,648.98",AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),1149.62
+USA Health University Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,648.98",AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),344.17
+USA Health University Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,648.98",AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,336.30
+USA Health University Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,648.98",AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,336.30
+USA Health University Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$851.88,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),266.48
+USA Health University Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$851.88,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,205.24
+USA Health University Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$851.88,AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,197.03
+USA Health University Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$851.88,AL,UNITED HEALTHCARE INSURANCE COMPANY Medicaid,41.05
+USA Health University Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,923.43",AL,AETNA Point of Service (POS),549.26
+USA Health University Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,923.43",AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),610.04
+USA Health University Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,923.43",AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),620.25
+USA Health University Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,923.43",AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,424.37
+USA Health University Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,923.43",AL,MAGNOLIA HEALTH PLAN INC. Medicaid,444.55
+USA Health University Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,923.43",AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,625.81
+USA Health University Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,923.43",AL,UMR Preferred Provider Organization (PPO),836.00
+USA Health University Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,923.43",AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,388.08
+USA Health University Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,923.43",AL,UNITED HEALTHCARE INSURANCE COMPANY Medicaid,72.01
+USA Health University Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,923.43",AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),836.00
+USA Health University Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,923.43",AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,458.79
+USA Health University Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,923.43",AL,"VIVA HEALTH, INC. Health Maintenance Organization",815.88
+USA Health University Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,923.43",AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,332.08
+USA Health University Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$865.58,AL,AETNA Point of Service (POS),497.95
+USA Health University Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$865.58,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),313.15
+USA Health University Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$865.58,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),615.00
+USA Health University Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$865.58,AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),205.24
+USA Health University Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$865.58,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,205.24
+USA Health University Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$865.58,AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,194.04
+USA Health University Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$865.58,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,239.38
+USA Health University Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$865.58,AL,UNITED HEALTHCARE INSURANCE COMPANY Medicaid,41.05
+USA Health University Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$865.58,AL,"VIVA HEALTH, INC. Health Maintenance Organization",703.50
+USA Health University Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$865.58,AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,203.06
+USA Health University Hospital,MRI,HCPCS 73721,MRI scan of leg joint,$850.51,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),361.43
+USA Health University Hospital,MRI,HCPCS 73721,MRI scan of leg joint,$850.51,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),615.00
+USA Health University Hospital,MRI,HCPCS 73721,MRI scan of leg joint,$850.51,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,206.19
+USA Health University Hospital,MRI,HCPCS 73721,MRI scan of leg joint,$850.51,AL,MAGNOLIA HEALTH PLAN INC. Medicaid,187.70
+USA Health University Hospital,MRI,HCPCS 73721,MRI scan of leg joint,$850.51,AL,UNITED HEALTHCARE INSURANCE COMPANY Exclusive Provider Organization (EPO),836.00
+USA Health University Hospital,MRI,HCPCS 73721,MRI scan of leg joint,$850.51,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,203.85
+USA Health University Hospital,MRI,HCPCS 73721,MRI scan of leg joint,$850.51,AL,"VIVA HEALTH, INC. Health Maintenance Organization",687.00
+USA Health University Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$205.10,AL,"VIVA HEALTH, INC. Health Maintenance Organization",75.00
+USA Health University Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$205.10,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),150.69
+USA Health University Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$166.18,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),226.98
+USA Health University Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$166.18,AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),88.27
+USA Health University Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$166.18,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,98.71
+USA Health University Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$166.18,AL,UMR Preferred Provider Organization (PPO),145.26
+USA Health University Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$166.18,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,115.74
+USA Health University Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$166.18,AL,UNITED HEALTHCARE INSURANCE COMPANY Medicaid,19.74
+USA Health University Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$166.18,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),145.26
+USA Health University Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$166.18,AL,"VIVA HEALTH, INC. Health Maintenance Organization",134.50
+USA Health University Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$166.18,AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,98.71
+USA Health University Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$166.78,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),211.99
+USA Health University Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$166.78,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,99.32
+USA Health University Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$166.78,AL,UMR Preferred Provider Organization (PPO),145.26
+USA Health University Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$166.78,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,98.71
+USA Health University Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$166.78,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),145.26
+USA Health University Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$166.78,AL,"VIVA HEALTH, INC. Health Maintenance Organization",134.50
+USA Health University Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$209.03,AL,AETNA Point of Service (POS),143.82
+USA Health University Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$209.03,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),243.82
+USA Health University Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$209.03,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),180.60
+USA Health University Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$209.03,AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),98.32
+USA Health University Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$209.03,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,98.65
+USA Health University Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$209.03,AL,MAGNOLIA HEALTH PLAN INC. Medicaid,89.78
+USA Health University Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$209.03,AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,94.76
+USA Health University Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$209.03,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,98.49
+USA Health University Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$209.03,AL,UNITED HEALTHCARE INSURANCE COMPANY Medicaid,19.74
+USA Health University Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$209.03,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),178.74
+USA Health University Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$209.03,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,90.69
+USA Health University Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$209.03,AL,"VIVA HEALTH, INC. Health Maintenance Organization",165.50
+USA Health University Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$209.03,AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,98.71
+USA Health University Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$209.03,AL,AETNA Point of Service (POS),143.82
+USA Health University Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$209.03,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),243.82
+USA Health University Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$209.03,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),180.60
+USA Health University Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$209.03,AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),98.32
+USA Health University Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$209.03,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,98.65
+USA Health University Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$209.03,AL,MAGNOLIA HEALTH PLAN INC. Medicaid,89.78
+USA Health University Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$209.03,AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,94.76
+USA Health University Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$209.03,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,98.49
+USA Health University Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$209.03,AL,UNITED HEALTHCARE INSURANCE COMPANY Medicaid,19.74
+USA Health University Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$209.03,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),178.74
+USA Health University Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$209.03,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,90.69
+USA Health University Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$209.03,AL,"VIVA HEALTH, INC. Health Maintenance Organization",165.50
+USA Health University Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$209.03,AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,98.71
+USA Health University Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$162.54,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),141.03
+USA Health University Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$162.54,AL,UMR Preferred Provider Organization (PPO),59.41
+USA Health University Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$162.54,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),141.03
+USA Health University Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$162.54,AL,UMR Preferred Provider Organization (PPO),59.41
+USA Health University Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$146.94,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),109.51
+USA Health University Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$146.94,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,99.62
+USA Health University Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$146.94,AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,96.51
+USA Health University Hospital,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$171.22,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),209.06
+USA Health University Hospital,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$171.22,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,90.02
+USA Health University Hospital,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$171.22,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,99.62
+USA Health University Hospital,X-ray,HCPCS 71046,X-ray of chest; 2 Views,$96.22,AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,64.45
+USA Health University Hospital,X-ray,HCPCS 71046,X-ray of chest; 2 Views,$96.22,AL,UMR Preferred Provider Organization (PPO),102.23
+USA Health University Hospital,X-ray,HCPCS 71046,X-ray of chest; 2 Views,$96.22,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization,70.29
+USA Health University Hospital,X-ray,HCPCS 71046,X-ray of chest; 2 Views,$96.22,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,68.91
+USA Health University Hospital,X-ray,HCPCS 71046,X-ray of chest; 2 Views,$96.22,AL,UNITED HEALTHCARE INSURANCE COMPANY Medicaid,52.03
+USA Health University Hospital,X-ray,HCPCS 71046,X-ray of chest; 2 Views,$96.22,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),86.81
+USA Health University Hospital,X-ray,HCPCS 71046,X-ray of chest; 2 Views,$96.22,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,60.62
+USA Health University Hospital,X-ray,HCPCS 71046,X-ray of chest; 2 Views,$96.22,AL,"VIVA HEALTH, INC. Health Maintenance Organization",78.19
+USA Health University Hospital,X-ray,HCPCS 71046,X-ray of chest; 2 Views,$96.22,AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,66.10
+USA Health University Hospital,X-ray,HCPCS 71046,X-ray of chest; 2 Views,$96.22,AL,AETNA Health Maintenance Organization,70.29
+USA Health University Hospital,X-ray,HCPCS 71046,X-ray of chest; 2 Views,$96.22,AL,AETNA Point of Service (POS),85.53
+USA Health University Hospital,X-ray,HCPCS 71046,X-ray of chest; 2 Views,$96.22,AL,AETNA Preferred Provider Organization (PPO),79.75
+USA Health University Hospital,X-ray,HCPCS 71046,X-ray of chest; 2 Views,$96.22,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),83.10
+USA Health University Hospital,X-ray,HCPCS 71046,X-ray of chest; 2 Views,$96.22,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),81.04
+USA Health University Hospital,X-ray,HCPCS 71046,X-ray of chest; 2 Views,$96.22,AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),61.94
+USA Health University Hospital,X-ray,HCPCS 71046,X-ray of chest; 2 Views,$96.22,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,69.68
+USA Health University Hospital,X-ray,HCPCS 71046,X-ray of chest; 2 Views,$96.22,AL,MAGNOLIA HEALTH PLAN INC. Medicaid,63.92
+USA Health University Hospital,X-ray,HCPCS 71045,X-ray of chest; Single View,$96.22,AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,64.45
+USA Health University Hospital,X-ray,HCPCS 71045,X-ray of chest; Single View,$96.22,AL,UMR Preferred Provider Organization (PPO),102.23
+USA Health University Hospital,X-ray,HCPCS 71045,X-ray of chest; Single View,$96.22,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization,70.29
+USA Health University Hospital,X-ray,HCPCS 71045,X-ray of chest; Single View,$96.22,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,68.91
+USA Health University Hospital,X-ray,HCPCS 71045,X-ray of chest; Single View,$96.22,AL,UNITED HEALTHCARE INSURANCE COMPANY Medicaid,52.03
+USA Health University Hospital,X-ray,HCPCS 71045,X-ray of chest; Single View,$96.22,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),86.81
+USA Health University Hospital,X-ray,HCPCS 71045,X-ray of chest; Single View,$96.22,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,60.62
+USA Health University Hospital,X-ray,HCPCS 71045,X-ray of chest; Single View,$96.22,AL,"VIVA HEALTH, INC. Health Maintenance Organization",78.19
+USA Health University Hospital,X-ray,HCPCS 71045,X-ray of chest; Single View,$96.22,AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,66.10
+USA Health University Hospital,X-ray,HCPCS 71045,X-ray of chest; Single View,$96.22,AL,AETNA Health Maintenance Organization,70.29
+USA Health University Hospital,X-ray,HCPCS 71045,X-ray of chest; Single View,$96.22,AL,AETNA Point of Service (POS),85.53
+USA Health University Hospital,X-ray,HCPCS 71045,X-ray of chest; Single View,$96.22,AL,AETNA Preferred Provider Organization (PPO),79.75
+USA Health University Hospital,X-ray,HCPCS 71045,X-ray of chest; Single View,$96.22,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),83.10
+USA Health University Hospital,X-ray,HCPCS 71045,X-ray of chest; Single View,$96.22,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),81.04
+USA Health University Hospital,X-ray,HCPCS 71045,X-ray of chest; Single View,$96.22,AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),61.94
+USA Health University Hospital,X-ray,HCPCS 71045,X-ray of chest; Single View,$96.22,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,69.68
+USA Health University Hospital,X-ray,HCPCS 71045,X-ray of chest; Single View,$96.22,AL,MAGNOLIA HEALTH PLAN INC. Medicaid,63.92
+USA Health University Hospital,X-ray,HCPCS 77076,X-ray of jaw joints on both sides of the face,$577.96,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,98.71
+USA Health University Hospital,X-ray,HCPCS 77076,X-ray of jaw joints on both sides of the face,$577.96,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),597.78
+USA Health University Hospital,X-ray,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$74.17,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,37.31
+USA Health University Hospital,X-ray,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$70.87,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),88.26
+USA Health University Hospital,X-ray,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$70.87,AL,UNITED HEALTHCARE INSURANCE COMPANY Medicaid,90.00
+USA Health University Hospital,X-ray,HCPCS 73610,"X-ray Ankle, 3 Views",$78.39,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),89.69
+USA Health University Hospital,X-ray,HCPCS 73610,"X-ray Ankle, 3 Views",$78.39,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),93.64
+USA Health University Hospital,X-ray,HCPCS 73610,"X-ray Ankle, 3 Views",$78.39,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,31.35
+USA Health University Hospital,X-ray,HCPCS 73610,"X-ray Ankle, 3 Views",$78.39,AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,51.14
+USA Health University Hospital,X-ray,HCPCS 73630,X-ray exam of foot,$78.39,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),89.69
+USA Health University Hospital,X-ray,HCPCS 73630,X-ray exam of foot,$78.39,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),93.64
+USA Health University Hospital,X-ray,HCPCS 73630,X-ray exam of foot,$78.39,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,31.35
+USA Health University Hospital,X-ray,HCPCS 73630,X-ray exam of foot,$78.39,AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,51.14
+USA Health University Hospital,X-ray,HCPCS 73562,"X-ray exam of knee, 3 views",$61.89,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),110.33
+USA Health University Hospital,X-ray,HCPCS 73562,"X-ray exam of knee, 3 views",$61.89,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),60.86
+USA Health University Hospital,X-ray,HCPCS 73562,"X-ray exam of knee, 3 views",$61.89,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,71.58
+USA Health University Hospital,X-ray,HCPCS 73562,"X-ray exam of knee, 3 views",$61.89,AL,"VIVA HEALTH, INC. Health Maintenance Organization",72.50
+USA Health University Hospital,X-ray,HCPCS 73552,"X-ray Femur, 2 Views",$64.14,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,38.69
+USA Health University Hospital,X-ray,HCPCS 73620,"X-ray Foot, 2 Views",$78.39,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),89.69
+USA Health University Hospital,X-ray,HCPCS 73620,"X-ray Foot, 2 Views",$78.39,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),93.64
+USA Health University Hospital,X-ray,HCPCS 73620,"X-ray Foot, 2 Views",$78.39,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,31.35
+USA Health University Hospital,X-ray,HCPCS 73620,"X-ray Foot, 2 Views",$78.39,AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,51.14
+USA Health University Hospital,X-ray,HCPCS 73560,"X-ray Knee, 1-2 Views",$61.89,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),110.33
+USA Health University Hospital,X-ray,HCPCS 73560,"X-ray Knee, 1-2 Views",$61.89,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),60.86
+USA Health University Hospital,X-ray,HCPCS 73560,"X-ray Knee, 1-2 Views",$61.89,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,71.58
+USA Health University Hospital,X-ray,HCPCS 73560,"X-ray Knee, 1-2 Views",$61.89,AL,"VIVA HEALTH, INC. Health Maintenance Organization",72.50
+USA Health University Hospital,X-ray,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$88.27,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),84.58
+USA Health University Hospital,X-ray,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$88.27,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,98.71
+USA Health University Hospital,X-ray,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$88.27,AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,94.76
+USA Health University Hospital,X-ray,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$88.27,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,114.82
+USA Health University Hospital,X-ray,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$80.97,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),44.30
+USA Health University Hospital,X-ray,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$80.97,AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),54.57
+USA Health University Hospital,X-ray,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$80.97,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,35.08
+USA Health University Hospital,X-ray,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$80.97,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),44.30
+USA Health University Hospital,X-ray,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$80.97,AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),54.57
+USA Health University Hospital,X-ray,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$80.97,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,35.08
+USA Health University Hospital,X-ray,HCPCS 73140,"X-ray Fingers, 2 Views",$71.30,AL,"VIVA HEALTH, INC. Health Maintenance Organization",57.50
+USA Health University Hospital,X-ray,HCPCS 73090,"X-ray Forearm, 2 Views",$58.28,AL,UMR Preferred Provider Organization (PPO),94.00
+USA Health University Hospital,X-ray,HCPCS 73090,"X-ray Forearm, 2 Views",$58.28,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,94.00
+USA Health University Hospital,X-ray,HCPCS 73120,"X-ray Hand, 2 Views",$61.67,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),49.94
+USA Health University Hospital,X-ray,HCPCS 73120,"X-ray Hand, 2 Views",$61.67,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),58.42
+USA Health University Hospital,X-ray,HCPCS 73120,"X-ray Hand, 2 Views",$61.67,AL,MAGNOLIA HEALTH PLAN INC. Medicaid,50.72
+USA Health University Hospital,X-ray,HCPCS 73120,"X-ray Hand, 2 Views",$61.67,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,122.50
+USA Health University Hospital,X-ray,HCPCS 73120,"X-ray Hand, 2 Views",$61.67,AL,"VIVA HEALTH, INC. Health Maintenance Organization",42.00
+USA Health University Hospital,X-ray,HCPCS 73130,"X-ray Hand, 3 Views",$61.67,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),49.94
+USA Health University Hospital,X-ray,HCPCS 73130,"X-ray Hand, 3 Views",$61.67,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),58.42
+USA Health University Hospital,X-ray,HCPCS 73130,"X-ray Hand, 3 Views",$61.67,AL,MAGNOLIA HEALTH PLAN INC. Medicaid,50.72
+USA Health University Hospital,X-ray,HCPCS 73130,"X-ray Hand, 3 Views",$61.67,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,122.50
+USA Health University Hospital,X-ray,HCPCS 73130,"X-ray Hand, 3 Views",$61.67,AL,"VIVA HEALTH, INC. Health Maintenance Organization",42.00
+USA Health University Hospital,X-ray,HCPCS 73030,"X-ray Shoulder, 2 Views",$104.72,AL,AETNA Preferred Provider Organization (PPO),95.15
+USA Health University Hospital,X-ray,HCPCS 73030,"X-ray Shoulder, 2 Views",$104.72,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),89.30
+USA Health University Hospital,X-ray,HCPCS 73030,"X-ray Shoulder, 2 Views",$104.72,AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),9.32
+USA Health University Hospital,X-ray,HCPCS 73030,"X-ray Shoulder, 2 Views",$104.72,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,104.96
+USA Health University Hospital,X-ray,HCPCS 73030,"X-ray Shoulder, 2 Views",$104.72,AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,24.42
+USA Health University Hospital,X-ray,HCPCS 73100,"X-ray Wrist, 3 Views",$61.67,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),49.94
+USA Health University Hospital,X-ray,HCPCS 73100,"X-ray Wrist, 3 Views",$61.67,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),58.42
+USA Health University Hospital,X-ray,HCPCS 73100,"X-ray Wrist, 3 Views",$61.67,AL,MAGNOLIA HEALTH PLAN INC. Medicaid,50.72
+USA Health University Hospital,X-ray,HCPCS 73100,"X-ray Wrist, 3 Views",$61.67,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,122.50
+USA Health University Hospital,X-ray,HCPCS 73100,"X-ray Wrist, 3 Views",$61.67,AL,"VIVA HEALTH, INC. Health Maintenance Organization",42.00
+USA Health University Hospital,X-ray,HCPCS 73110,"X-ray Wrist, 3+ Views",$61.67,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),49.94
+USA Health University Hospital,X-ray,HCPCS 73110,"X-ray Wrist, 3+ Views",$61.67,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),58.42
+USA Health University Hospital,X-ray,HCPCS 73110,"X-ray Wrist, 3+ Views",$61.67,AL,MAGNOLIA HEALTH PLAN INC. Medicaid,50.72
+USA Health University Hospital,X-ray,HCPCS 73110,"X-ray Wrist, 3+ Views",$61.67,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,122.50
+USA Health University Hospital,X-ray,HCPCS 73110,"X-ray Wrist, 3+ Views",$61.67,AL,"VIVA HEALTH, INC. Health Maintenance Organization",42.00
+USA Health University Hospital,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$2,717.81",AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),1391.68
+USA Health University Hospital,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$2,717.81",AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,1560.24
+USA Health University Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$6,670.22",AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),6145.53
+USA Health University Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$6,670.22",AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),3481.13
+USA Health University Hospital,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$6,670.22",AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),6145.53
+USA Health University Hospital,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$6,670.22",AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),3481.13
+USA Health University Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$5,459.05",AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),5059.28
+USA Health University Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$5,459.05",AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,3591.87
+USA Health University Hospital,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$3,205.41",AL,AETNA Point of Service (POS),1478.16
+USA Health University Hospital,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$3,205.41",AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),1858.83
+USA Health University Hospital,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$3,205.41",AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,966.65
+USA Health University Hospital,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$3,205.41",AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,2673.76
+USA Health University Hospital,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$3,205.41",AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),477.00
+USA Health University Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$4,495.58",AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),1834.31
+USA Health University Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$4,495.58",AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,2738.46
+USA Health University Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$4,495.58",AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,2738.46
+USA Health University Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$183.74,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),57.14
+USA Health University Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$183.74,AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),121.87
+USA Health University Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$183.74,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,42.54
+USA Health University Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$183.74,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,85.28
+USA Health University Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$183.74,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),57.14
+USA Health University Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$183.74,AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),121.87
+USA Health University Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$183.74,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,42.54
+USA Health University Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$183.74,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,85.28
+USA Health University Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$16,804.02",AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),11995.12
+USA Health University Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$16,804.02",AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),20128.56
+USA Health University Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$16,804.02",AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,7296.00
+USA Health University Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$16,804.02",AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,32990.00
+USA Health University Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$16,804.02",AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,13324.09
+USA Health University Hospital,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$6,472.61",AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),4711.88
+USA Health University Hospital,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$6,472.61",AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),3363.02
+USA Health University Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$6,709.16",AL,AETNA Point of Service (POS),4091.95
+USA Health University Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$6,709.16",AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),4377.26
+USA Health University Hospital,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$6,709.16",AL,AETNA Point of Service (POS),4091.95
+USA Health University Hospital,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$6,709.16",AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),4377.26
+USA Health University Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$4,418.34",AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),2770.95
+USA Health University Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$4,418.34",AL,UMR Preferred Provider Organization (PPO),3082.08
+USA Health University Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$4,418.34",AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,1993.87
+USA Health University Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$4,418.34",AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),2598.00
+USA Health University Hospital,Breast,HCPCS 19325,Breast enlargement using prosthetic implant,$304.64,AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),152.06
+USA Health University Hospital,Breast,HCPCS 19301,Partial removal of breast,"$3,292.83",AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,1544.17
+USA Health University Hospital,Breast,HCPCS 19318,Reduction mammaplasty,"$7,875.62",AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),12863.12
+USA Health University Hospital,Breast,HCPCS 19318,Reduction mammaplasty,"$7,875.62",AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,4612.59
+USA Health University Hospital,Breast,HCPCS 19318,Reduction mammaplasty,"$7,875.62",AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,1594.59
+USA Health University Hospital,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),"$158,039.61",AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),81096.14
+USA Health University Hospital,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),"$158,039.61",AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),139045.76
+USA Health University Hospital,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),"$158,039.61",AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,24853.07
+USA Health University Hospital,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),"$158,039.61",AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,69711.42
+USA Health University Hospital,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$40,529.48",AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),41044.50
+USA Health University Hospital,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$40,529.48",AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,55072.72
+USA Health University Hospital,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$40,529.48",AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),41044.50
+USA Health University Hospital,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$40,529.48",AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,55072.72
+USA Health University Hospital,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$4,784.95",AL,AETNA Health Maintenance Organization,4363.01
+USA Health University Hospital,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$4,784.95",AL,AETNA Point of Service (POS),3640.13
+USA Health University Hospital,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$4,784.95",AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),3460.94
+USA Health University Hospital,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$4,784.95",AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),2932.18
+USA Health University Hospital,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$4,784.95",AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,2558.46
+USA Health University Hospital,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$4,784.95",AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),2852.25
+USA Health University Hospital,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$4,784.95",AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,2741.64
+USA Health University Hospital,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$4,784.95",AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,2409.61
+USA Health University Hospital,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$4,784.95",AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,3039.44
+USA Health University Hospital,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$4,784.95",AL,"VIVA HEALTH, INC. Health Maintenance Organization",4809.14
+USA Health University Hospital,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$4,784.95",AL,AETNA Health Maintenance Organization,4363.01
+USA Health University Hospital,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$4,784.95",AL,AETNA Point of Service (POS),3640.13
+USA Health University Hospital,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$4,784.95",AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),3460.94
+USA Health University Hospital,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$4,784.95",AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),2932.18
+USA Health University Hospital,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$4,784.95",AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,2558.46
+USA Health University Hospital,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$4,784.95",AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),2852.25
+USA Health University Hospital,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$4,784.95",AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,2741.64
+USA Health University Hospital,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$4,784.95",AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,2409.61
+USA Health University Hospital,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$4,784.95",AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,3039.44
+USA Health University Hospital,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$4,784.95",AL,"VIVA HEALTH, INC. Health Maintenance Organization",4809.14
+USA Health University Hospital,Cardiac,MSDRG 247,Implant drug-eluting stent,"$26,666.79",AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),26728.80
+USA Health University Hospital,Cardiac,MSDRG 247,Implant drug-eluting stent,"$26,666.79",AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),15893.20
+USA Health University Hospital,Cardiac,MSDRG 247,Implant drug-eluting stent,"$26,666.79",AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,22335.21
+USA Health University Hospital,Cardiac,MSDRG 247,Implant drug-eluting stent,"$26,666.79",AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,19109.49
+USA Health University Hospital,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$18,770.90",AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,9029.09
+USA Health University Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,195.76",AL,AETNA Point of Service (POS),956.85
+USA Health University Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,195.76",AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),978.28
+USA Health University Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,195.76",AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),739.76
+USA Health University Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,195.76",AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),589.87
+USA Health University Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,195.76",AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,528.52
+USA Health University Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,195.76",AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,484.53
+USA Health University Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,195.76",AL,UMR Preferred Provider Organization (PPO),729.00
+USA Health University Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,195.76",AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,646.82
+USA Health University Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,195.76",AL,UNITED HEALTHCARE INSURANCE COMPANY Point of Service (POS),477.00
+USA Health University Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,195.76",AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,553.92
+USA Health University Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,195.76",AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,656.04
+USA Health University Hospital,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$4,190.20",AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),3363.02
+USA Health University Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$12,175.66",AL,"VIVA HEALTH, INC. Health Maintenance Organization",7966.63
+USA Health University Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$12,175.66",AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),54300.63
+USA Health University Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$12,175.66",AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,14175.01
+USA Health University Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$156.12,AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),207.25
+USA Health University Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$156.12,AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),140.72
+USA Health University Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$156.12,AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,153.89
+USA Health University Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$156.12,AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,424.00
+USA Health University Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$3,530.91",AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),2441.43
+USA Health University Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$3,530.91",AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),2106.00
+USA Health University Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$3,530.91",AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,1382.52
+USA Health University Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$3,530.91",AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,1436.57
+USA Health University Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,442.12",AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),890.62
+USA Health University Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,442.12",AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,549.31
+USA Health University Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,442.12",AL,UNITEDHEALTHCARE PLAN OF THE RIVER VALLEY INC Medicaid,1561.63
+USA Health University Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,497.89",AL,BLUE CROSS BLUE SHIELD OF ALABAMA Preferred Provider Organization (PPO),1058.09
+USA Health University Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,497.89",AL,CIGNA HEALTH AND LIFE INSURANCE COMPANY Point of Service (POS),405.22
+USA Health University Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,497.89",AL,CIGNA HEALTHSPRING Preferred Provider Organization (PPO),555.30
+USA Health University Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,497.89",AL,HUMANA INC. Health Maintenance Organization (HMO) Medicare Risk,1082.80
+USA Health University Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,497.89",AL,TRIWEST HEALTHCARE ALLIANCE Indemnity Insurance,533.09
+USA Health University Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,497.89",AL,UNITED HEALTHCARE INSURANCE COMPANY Health Maintenance Organization (HMO) Medicare Risk,555.30
+USA Health University Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,497.89",AL,VIVA MEDICARE PLUS Health Maintenance Organization (HMO) Medicare Risk,114.24

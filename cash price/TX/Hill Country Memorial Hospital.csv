@@ -1,0 +1,296 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Hill Country Memorial Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,335.44",TX
+Hill Country Memorial Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$646.93,TX
+Hill Country Memorial Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$646.93,TX
+Hill Country Memorial Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$646.93,TX
+Hill Country Memorial Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$646.93,TX
+Hill Country Memorial Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$646.93,TX
+Hill Country Memorial Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$123.86,TX
+Hill Country Memorial Hospital,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$149.91,TX
+Hill Country Memorial Hospital,Speech,HCPCS 92507,Speech Therapy,$91.44,TX
+Hill Country Memorial Hospital,Speech,HCPCS 92610,Swallow Evaluation,$141.74,TX
+Hill Country Memorial Hospital,Speech,HCPCS 92526,Swallow Treatment,$108.37,TX
+Hill Country Memorial Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$16.72,TX
+Hill Country Memorial Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$17.86,TX
+Hill Country Memorial Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$43.09,TX
+Hill Country Memorial Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$43.09,TX
+Hill Country Memorial Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$17.96,TX
+Hill Country Memorial Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$39.67,TX
+Hill Country Memorial Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$30.88,TX
+Hill Country Memorial Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$30.88,TX
+Hill Country Memorial Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$23.56,TX
+Hill Country Memorial Hospital,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$66.60,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$137.56,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$31.22,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$62.24,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$35.72,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 82140,Ammonia level,$77.90,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$59.66,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$38.76,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$99.61,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$48.01,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$16.70,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$35.00,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$19.00,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 84132,Blood potassium level,$28.87,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 84295,Blood sodium level,$32.95,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$42.56,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$59.98,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 82310,Calcium level,$31.34,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$49.40,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 82465,Cholesterol level,$33.06,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 82525,Copper level,$37.24,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$57.51,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$58.90,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$55.40,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$43.70,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$70.53,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$112.10,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$63.46,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$42.56,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$34.81,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$34.55,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$32.86,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$61.18,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$60.04,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$28.74,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$70.68,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$55.86,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$81.41,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$50.92,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$31.34,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$47.12,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 83540,Iron level,$44.84,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$25.46,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$47.12,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$52.06,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$30.02,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$77.67,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$64.98,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 83735,Magnesium Level,$45.91,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$88.54,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$69.57,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 83945,Oxalate level,$56.24,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 83970,Parathormone,$67.64,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$25.38,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$81.41,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$60.42,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$25.38,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$64.65,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$64.65,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$18.24,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$123.12,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$48.01,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$25.38,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$25.38,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 84560,Uric acid level,$26.57,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$26.57,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 82340,Urine calcium level,$31.34,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$31.22,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$27.36,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$44.08,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 84133,Urine potassium level,$28.87,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 84300,Urine sodium level,$32.95,TX
+Hill Country Memorial Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$66.97,TX
+Hill Country Memorial Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$85.31,TX
+Hill Country Memorial Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$65.93,TX
+Hill Country Memorial Hospital,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$60.61,TX
+Hill Country Memorial Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$60.61,TX
+Hill Country Memorial Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$47.95,TX
+Hill Country Memorial Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$47.95,TX
+Hill Country Memorial Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$42.94,TX
+Hill Country Memorial Hospital,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$83.03,TX
+Hill Country Memorial Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$38.38,TX
+Hill Country Memorial Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$16.20,TX
+Hill Country Memorial Hospital,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$51.03,TX
+Hill Country Memorial Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$47.95,TX
+Hill Country Memorial Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$37.24,TX
+Hill Country Memorial Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$42.56,TX
+Hill Country Memorial Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$48.26,TX
+Hill Country Memorial Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$29.91,TX
+Hill Country Memorial Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$54.06,TX
+Hill Country Memorial Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$73.06,TX
+Hill Country Memorial Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$113.16,TX
+Hill Country Memorial Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$89.30,TX
+Hill Country Memorial Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$41.80,TX
+Hill Country Memorial Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$47.95,TX
+Hill Country Memorial Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$200.64,TX
+Hill Country Memorial Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$49.02,TX
+Hill Country Memorial Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$205.11,TX
+Hill Country Memorial Hospital,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$61.18,TX
+Hill Country Memorial Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$28.88,TX
+Hill Country Memorial Hospital,Microbiology,HCPCS 86747,Parvovirus antibody test,$41.04,TX
+Hill Country Memorial Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$57.38,TX
+Hill Country Memorial Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$24.70,TX
+Hill Country Memorial Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$47.12,TX
+Hill Country Memorial Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$29.22,TX
+Hill Country Memorial Hospital,Microbiology,HCPCS 87045,Stool Culture,$35.87,TX
+Hill Country Memorial Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$29.91,TX
+Hill Country Memorial Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$47.88,TX
+Hill Country Memorial Hospital,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$182.40,TX
+Hill Country Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$156.18,TX
+Hill Country Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$70.30,TX
+Hill Country Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$55.54,TX
+Hill Country Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$40.47,TX
+Hill Country Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$122.36,TX
+Hill Country Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$106.40,TX
+Hill Country Memorial Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$203.77,TX
+Hill Country Memorial Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$60.04,TX
+Hill Country Memorial Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$60.80,TX
+Hill Country Memorial Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$49.02,TX
+Hill Country Memorial Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$34.20,TX
+Hill Country Memorial Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$66.12,TX
+Hill Country Memorial Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$105.64,TX
+Hill Country Memorial Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$63.84,TX
+Hill Country Memorial Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$66.50,TX
+Hill Country Memorial Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$44.01,TX
+Hill Country Memorial Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$44.01,TX
+Hill Country Memorial Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$28.61,TX
+Hill Country Memorial Hospital,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$53.43,TX
+Hill Country Memorial Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$28.61,TX
+Hill Country Memorial Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$20.63,TX
+Hill Country Memorial Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$20.63,TX
+Hill Country Memorial Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$686.09,TX
+Hill Country Memorial Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$85.88,TX
+Hill Country Memorial Hospital,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$149.16,TX
+Hill Country Memorial Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,$365.01,TX
+Hill Country Memorial Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,$280.25,TX
+Hill Country Memorial Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$431.20,TX
+Hill Country Memorial Hospital,Sleep,HCPCS 95810,Sleep study,"$1,420.28",TX
+Hill Country Memorial Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$123.18,TX
+Hill Country Memorial Hospital,Breast,HCPCS 77067,Mammogram Screening,$105.25,TX
+Hill Country Memorial Hospital,Breast,HCPCS 77066,Mammography of both breasts,$123.18,TX
+Hill Country Memorial Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,039.73",TX
+Hill Country Memorial Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$567.34,TX
+Hill Country Memorial Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$626.22,TX
+Hill Country Memorial Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$567.34,TX
+Hill Country Memorial Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,304.83",TX
+Hill Country Memorial Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,304.83",TX
+Hill Country Memorial Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$755.06,TX
+Hill Country Memorial Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$974.99,TX
+Hill Country Memorial Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,$974.99,TX
+Hill Country Memorial Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$817.82,TX
+Hill Country Memorial Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$565.95,TX
+Hill Country Memorial Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$960.10,TX
+Hill Country Memorial Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$904.20,TX
+Hill Country Memorial Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)",$928.32,TX
+Hill Country Memorial Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,$829.16,TX
+Hill Country Memorial Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$829.16,TX
+Hill Country Memorial Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$1,374.27",TX
+Hill Country Memorial Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,$829.16,TX
+Hill Country Memorial Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,075.43",TX
+Hill Country Memorial Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$763.69,TX
+Hill Country Memorial Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,397.52",TX
+Hill Country Memorial Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,021.28",TX
+Hill Country Memorial Hospital,MRI,HCPCS 73721,MRI scan of leg joint,$768.48,TX
+Hill Country Memorial Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$291.74,TX
+Hill Country Memorial Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$277.23,TX
+Hill Country Memorial Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$350.52,TX
+Hill Country Memorial Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$350.52,TX
+Hill Country Memorial Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$325.59,TX
+Hill Country Memorial Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$325.59,TX
+Hill Country Memorial Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$282.34,TX
+Hill Country Memorial Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$125.83,TX
+Hill Country Memorial Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$125.83,TX
+Hill Country Memorial Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$135.53,TX
+Hill Country Memorial Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$129.20,TX
+Hill Country Memorial Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$126.92,TX
+Hill Country Memorial Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$126.92,TX
+Hill Country Memorial Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$128.22,TX
+Hill Country Memorial Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$144.63,TX
+Hill Country Memorial Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$184.11,TX
+Hill Country Memorial Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$125.54,TX
+Hill Country Memorial Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$110.60,TX
+Hill Country Memorial Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$110.60,TX
+Hill Country Memorial Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$110.60,TX
+Hill Country Memorial Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$134.09,TX
+Hill Country Memorial Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$122.74,TX
+Hill Country Memorial Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$110.60,TX
+Hill Country Memorial Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$116.85,TX
+Hill Country Memorial Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$134.09,TX
+Hill Country Memorial Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$134.09,TX
+Hill Country Memorial Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$124.64,TX
+Hill Country Memorial Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$198.05,TX
+Hill Country Memorial Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$198.05,TX
+Hill Country Memorial Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$166.05,TX
+Hill Country Memorial Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$166.05,TX
+Hill Country Memorial Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$125.96,TX
+Hill Country Memorial Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$112.15,TX
+Hill Country Memorial Hospital,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$111.34,TX
+Hill Country Memorial Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$129.65,TX
+Hill Country Memorial Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$129.65,TX
+Hill Country Memorial Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$133.18,TX
+Hill Country Memorial Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$129.65,TX
+Hill Country Memorial Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$129.65,TX
+Hill Country Memorial Hospital,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$3,054.40",TX
+Hill Country Memorial Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$7,277.17",TX
+Hill Country Memorial Hospital,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$7,277.17",TX
+Hill Country Memorial Hospital,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,"$6,022.29",TX
+Hill Country Memorial Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$6,022.29",TX
+Hill Country Memorial Hospital,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$3,420.32",TX
+Hill Country Memorial Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$4,953.59",TX
+Hill Country Memorial Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$186.62,TX
+Hill Country Memorial Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$17,565.86",TX
+Hill Country Memorial Hospital,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$7,384.89",TX
+Hill Country Memorial Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$8,226.30",TX
+Hill Country Memorial Hospital,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$8,226.30",TX
+Hill Country Memorial Hospital,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$8,226.30",TX
+Hill Country Memorial Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$6,535.85",TX
+Hill Country Memorial Hospital,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$4,953.59",TX
+Hill Country Memorial Hospital,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$4,790.19",TX
+Hill Country Memorial Hospital,Breast,HCPCS 19125,Excision of breast lesion,"$3,875.23",TX
+Hill Country Memorial Hospital,Breast,HCPCS 19120,Excision of cyst of breast,"$3,875.23",TX
+Hill Country Memorial Hospital,Breast,HCPCS 19301,Partial removal of breast,"$3,552.78",TX
+Hill Country Memorial Hospital,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$4,989.59",TX
+Hill Country Memorial Hospital,Breast,HCPCS 19303,Total removal of breast,"$4,989.59",TX
+Hill Country Memorial Hospital,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$5,584.02",TX
+Hill Country Memorial Hospital,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$11,549.98",TX
+Hill Country Memorial Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,103.97",TX
+Hill Country Memorial Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,384.67",TX
+Hill Country Memorial Hospital,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,440.00",TX
+Hill Country Memorial Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,440.00",TX
+Hill Country Memorial Hospital,Digestive,HCPCS 43235,EGD,"$1,817.97",TX
+Hill Country Memorial Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$1,657.02",TX
+Hill Country Memorial Hospital,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$5,483.49",TX
+Hill Country Memorial Hospital,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$5,483.49",TX
+Hill Country Memorial Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$16,604.89",TX
+Hill Country Memorial Hospital,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$2,750.32",TX
+Hill Country Memorial Hospital,General,HCPCS 55700,Biopsy of prostate gland,"$4,152.36",TX
+Hill Country Memorial Hospital,General,HCPCS 10060,Drainage of Abscess,$603.17,TX
+Hill Country Memorial Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple","$2,356.46",TX
+Hill Country Memorial Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$635.44,TX
+Hill Country Memorial Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$708.75,TX
+Hill Country Memorial Hospital,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$708.75,TX
+Hill Country Memorial Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$708.75,TX
+Hill Country Memorial Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$708.75,TX
+Hill Country Memorial Hospital,Head,HCPCS 69436,Create eardrum opening,"$1,792.43",TX
+Hill Country Memorial Hospital,Head,HCPCS 69631,Repair of eardrum,"$6,849.55",TX
+Hill Country Memorial Hospital,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$2,840.04",TX
+Hill Country Memorial Hospital,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$2,858.75",TX
+Hill Country Memorial Hospital,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$913.74,TX
+Hill Country Memorial Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$875.38,TX
+Hill Country Memorial Hospital,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,$875.38,TX
+Hill Country Memorial Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$1,060.03",TX
+Hill Country Memorial Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$444.52,TX
+Hill Country Memorial Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$20,902.01",TX
+Hill Country Memorial Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$3,015.07",TX
+Hill Country Memorial Hospital,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$3,015.07",TX
+Hill Country Memorial Hospital,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,"$25,174.44",TX
+Hill Country Memorial Hospital,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$2,102.52",TX
+Hill Country Memorial Hospital,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$247.66,TX
+Hill Country Memorial Hospital,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$8,219.44",TX
+Hill Country Memorial Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$4,924.01",TX
+Hill Country Memorial Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$4,675.70",TX
+Hill Country Memorial Hospital,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$5,224.35",TX
+Hill Country Memorial Hospital,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$5,809.93",TX
+Hill Country Memorial Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$4,785.05",TX
+Hill Country Memorial Hospital,Ocular,HCPCS 66984,Cataract removal,"$2,038.07",TX
+Hill Country Memorial Hospital,Ocular,HCPCS 66982,Cataract removal with insertion of lens,"$2,038.07",TX
+Hill Country Memorial Hospital,Ocular,HCPCS 65426,Removal or relocation of corneal conjunctiva,"$2,654.37",TX
+Hill Country Memorial Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$260.54,TX
+Hill Country Memorial Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$260.54,TX
+Hill Country Memorial Hospital,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$51.73,TX
+Hill Country Memorial Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$10.22,TX
+Hill Country Memorial Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$2,777.72",TX
+Hill Country Memorial Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$882.61,TX
+Hill Country Memorial Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,$870.84,TX

@@ -1,0 +1,278 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Doctors Hospital Of Laredo,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$3,888.12",TX
+Doctors Hospital Of Laredo,Emergency Care,HCPCS 99281,Emergency Level 1,$122.62,TX
+Doctors Hospital Of Laredo,Emergency Care,HCPCS 99282,Emergency Level 2,$169.66,TX
+Doctors Hospital Of Laredo,Emergency Care,HCPCS 99283,Emergency Level 3,$928.77,TX
+Doctors Hospital Of Laredo,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,487.82",TX
+Doctors Hospital Of Laredo,Emergency Care,HCPCS 99285,Emergency Level 5,"$2,030.76",TX
+Doctors Hospital Of Laredo,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$300.98,TX
+Doctors Hospital Of Laredo,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$393.25,TX
+Doctors Hospital Of Laredo,Speech,HCPCS 92507,Speech Therapy,$366.92,TX
+Doctors Hospital Of Laredo,Speech,HCPCS 92610,Swallow Evaluation,$341.53,TX
+Doctors Hospital Of Laredo,Speech,HCPCS 92526,Swallow Treatment,$353.49,TX
+Doctors Hospital Of Laredo,Blood,HCPCS 85018,"Blood count, hemoglobin",$51.36,TX
+Doctors Hospital Of Laredo,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$77.14,TX
+Doctors Hospital Of Laredo,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$234.45,TX
+Doctors Hospital Of Laredo,Blood,HCPCS 85610,"Blood test, clotting time",$203.06,TX
+Doctors Hospital Of Laredo,Blood,HCPCS 85730,Coagulation assessment blood test,$130.32,TX
+Doctors Hospital Of Laredo,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$91.96,TX
+Doctors Hospital Of Laredo,Blood,HCPCS 85027,"Complete blood count, automated",$112.32,TX
+Doctors Hospital Of Laredo,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$587.08,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$483.24,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 82040,Albumin (protein) level,$90.13,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$181.26,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$224.94,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 82140,Ammonia level,$226.23,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 82150,Amylase (enzyme) level,$170.10,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$357.69,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 84439,Assay of free thyroxine,$251.86,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 82248,Bilirubin level (Direct),$103.86,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 82247,Bilirubin level (Total),$110.68,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 82565,Blood creatinine level,$51.53,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$85.09,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 84132,Blood potassium level,$49.64,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 84295,Blood sodium level,$27.24,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$220.89,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$233.14,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 82310,Calcium level,$87.53,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$239.55,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 82465,Cholesterol level,$119.42,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 82525,Copper level,$171.89,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 82533,Cortisol Measurement,$224.71,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 84681,C-peptide (protein) level,$211.48,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$41.74,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$292.38,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$175.14,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$396.68,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$196.15,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 82746,Folic acid; serum,$209.07,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$185.90,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$164.18,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$164.06,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 83001,"Gonadotropin, chorionic (reproductive hormone) level",$221.06,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$262.29,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$149.52,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$405.20,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$315.43,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 83520,IgE (immune system protein) level,$318.50,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 83525,Insulin Measurement; Total,$144.76,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 82330,Ionized Calcium,$66.78,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 83550,Iron Binding Capacity,$146.44,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 83540,Iron level,$182.80,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$177.80,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$126.86,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$145.93,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$175.04,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 83735,Magnesium Level,$133.94,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 82542,Mass spectrometry,$89.62,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$85.62,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 83970,Parathormone,$512.48,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 84157,Prealbumin (protein) level,$98.42,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$335.15,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$212.81,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$192.59,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS A9270,Selenium (vitamin) level,$14.94,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 82270,Stool analysis for blood,$62.08,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 84403,Testosterone (hormone) level,$315.98,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 84402,Testosterone Level; Free,$226.63,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 84479,"Thyroid Hormone, T3 Measurement, Free",$540.47,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$567.67,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$236.35,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 84155,"Total protein level, blood",$92.36,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$91.75,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 84166,Troponin (protein) analysis,$139.87,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 84550,"Uric acid level, blood",$103.24,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$77.27,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 84300,Urine sodium level,$110.46,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$158.94,TX
+Doctors Hospital Of Laredo,Chemistry,HCPCS 84630,Zinc level,$303.95,TX
+Doctors Hospital Of Laredo,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$204.08,TX
+Doctors Hospital Of Laredo,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$332.83,TX
+Doctors Hospital Of Laredo,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$227.20,TX
+Doctors Hospital Of Laredo,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$160.70,TX
+Doctors Hospital Of Laredo,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$438.66,TX
+Doctors Hospital Of Laredo,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$204.34,TX
+Doctors Hospital Of Laredo,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$350.16,TX
+Doctors Hospital Of Laredo,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$378.63,TX
+Doctors Hospital Of Laredo,Immunology,HCPCS 86140,Measurement C-reactive protein,$100.14,TX
+Doctors Hospital Of Laredo,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$920.64,TX
+Doctors Hospital Of Laredo,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$180.84,TX
+Doctors Hospital Of Laredo,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$250.00,TX
+Doctors Hospital Of Laredo,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$97.02,TX
+Doctors Hospital Of Laredo,Immunology,HCPCS 86592,Syphilis Detection Test,$227.38,TX
+Doctors Hospital Of Laredo,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$362.00,TX
+Doctors Hospital Of Laredo,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$163.31,TX
+Doctors Hospital Of Laredo,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$111.36,TX
+Doctors Hospital Of Laredo,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$172.01,TX
+Doctors Hospital Of Laredo,Microbiology,HCPCS 87491,Chlamydia Test,$158.64,TX
+Doctors Hospital Of Laredo,Microbiology,HCPCS 87635,Covid-19 current infection test,$20.81,TX
+Doctors Hospital Of Laredo,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$275.45,TX
+Doctors Hospital Of Laredo,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$134.97,TX
+Doctors Hospital Of Laredo,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$157.37,TX
+Doctors Hospital Of Laredo,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$98.42,TX
+Doctors Hospital Of Laredo,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$333.95,TX
+Doctors Hospital Of Laredo,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$372.91,TX
+Doctors Hospital Of Laredo,Microbiology,HCPCS 87624,HPV Detection,$294.11,TX
+Doctors Hospital Of Laredo,Microbiology,HCPCS 86735,Mumps virus antibody test,$148.18,TX
+Doctors Hospital Of Laredo,Microbiology,HCPCS 86762,Rubella virus antibody test,$158.50,TX
+Doctors Hospital Of Laredo,Microbiology,HCPCS 86765,Rubeola virus antibody test,$253.14,TX
+Doctors Hospital Of Laredo,Microbiology,HCPCS 87177,Smear for Parasites,$154.92,TX
+Doctors Hospital Of Laredo,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$178.48,TX
+Doctors Hospital Of Laredo,Microbiology,HCPCS 87045,Stool Culture,$187.28,TX
+Doctors Hospital Of Laredo,Microbiology,HCPCS 87804,Test for Influenza Virus,$140.40,TX
+Doctors Hospital Of Laredo,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$170.88,TX
+Doctors Hospital Of Laredo,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$746.36,TX
+Doctors Hospital Of Laredo,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$382.44,TX
+Doctors Hospital Of Laredo,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$423.76,TX
+Doctors Hospital Of Laredo,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$332.46,TX
+Doctors Hospital Of Laredo,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$331.84,TX
+Doctors Hospital Of Laredo,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$313.78,TX
+Doctors Hospital Of Laredo,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$185.88,TX
+Doctors Hospital Of Laredo,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$355.75,TX
+Doctors Hospital Of Laredo,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$223.94,TX
+Doctors Hospital Of Laredo,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$217.63,TX
+Doctors Hospital Of Laredo,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$40.66,TX
+Doctors Hospital Of Laredo,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$131.48,TX
+Doctors Hospital Of Laredo,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$100.68,TX
+Doctors Hospital Of Laredo,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$100.06,TX
+Doctors Hospital Of Laredo,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$308.69,TX
+Doctors Hospital Of Laredo,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$14.12,TX
+Doctors Hospital Of Laredo,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$17.44,TX
+Doctors Hospital Of Laredo,Transfusion,HCPCS 86900,"Blood Typing, ABO",$60.25,TX
+Doctors Hospital Of Laredo,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$60.24,TX
+Doctors Hospital Of Laredo,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$51.60,TX
+Doctors Hospital Of Laredo,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$123.18,TX
+Doctors Hospital Of Laredo,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$120.10,TX
+Doctors Hospital Of Laredo,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$38.52,TX
+Doctors Hospital Of Laredo,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$89.60,TX
+Doctors Hospital Of Laredo,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$207.49,TX
+Doctors Hospital Of Laredo,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$1,096.30",TX
+Doctors Hospital Of Laredo,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$315.95,TX
+Doctors Hospital Of Laredo,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$969.45,TX
+Doctors Hospital Of Laredo,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$0.44,TX
+Doctors Hospital Of Laredo,Cardiovascular,HCPCS 93975,Ultrasound Heart,$613.50,TX
+Doctors Hospital Of Laredo,Pulmonary,HCPCS 94640,Aerosol Treatment,$90.13,TX
+Doctors Hospital Of Laredo,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$150.52,TX
+Doctors Hospital Of Laredo,Sleep,HCPCS 95810,Sleep study,"$5,349.27",TX
+Doctors Hospital Of Laredo,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$49.60,TX
+Doctors Hospital Of Laredo,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$199.10,TX
+Doctors Hospital Of Laredo,Breast,HCPCS 77067,Mammogram Screening,$201.90,TX
+Doctors Hospital Of Laredo,Breast,HCPCS 77066,Mammography of both breasts,$254.64,TX
+Doctors Hospital Of Laredo,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,877.30",TX
+Doctors Hospital Of Laredo,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$2,952.48",TX
+Doctors Hospital Of Laredo,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$2,964.93",TX
+Doctors Hospital Of Laredo,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,582.28",TX
+Doctors Hospital Of Laredo,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$4,433.24",TX
+Doctors Hospital Of Laredo,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$5,688.98",TX
+Doctors Hospital Of Laredo,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,697.78",TX
+Doctors Hospital Of Laredo,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$3,171.01",TX
+Doctors Hospital Of Laredo,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$2,492.26",TX
+Doctors Hospital Of Laredo,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$2,562.96",TX
+Doctors Hospital Of Laredo,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,631.47",TX
+Doctors Hospital Of Laredo,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$3,127.16",TX
+Doctors Hospital Of Laredo,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$2,590.64",TX
+Doctors Hospital Of Laredo,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,991.35",TX
+Doctors Hospital Of Laredo,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,665.99",TX
+Doctors Hospital Of Laredo,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,691.17",TX
+Doctors Hospital Of Laredo,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,658.88",TX
+Doctors Hospital Of Laredo,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,635.44",TX
+Doctors Hospital Of Laredo,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$2,563.71",TX
+Doctors Hospital Of Laredo,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,654.90",TX
+Doctors Hospital Of Laredo,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,263.09",TX
+Doctors Hospital Of Laredo,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,139.05",TX
+Doctors Hospital Of Laredo,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,650.55",TX
+Doctors Hospital Of Laredo,MRI,HCPCS 73721,MRI scan of leg joint,"$2,559.61",TX
+Doctors Hospital Of Laredo,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$518.88,TX
+Doctors Hospital Of Laredo,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$559.82,TX
+Doctors Hospital Of Laredo,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$598.90,TX
+Doctors Hospital Of Laredo,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$480.40,TX
+Doctors Hospital Of Laredo,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$548.08,TX
+Doctors Hospital Of Laredo,Ultrasound,HCPCS 76881,Ultrasound Joint Soft Tissue - Complete,$510.95,TX
+Doctors Hospital Of Laredo,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$994.89,TX
+Doctors Hospital Of Laredo,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$707.80,TX
+Doctors Hospital Of Laredo,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$655.36,TX
+Doctors Hospital Of Laredo,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$524.44,TX
+Doctors Hospital Of Laredo,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$444.24,TX
+Doctors Hospital Of Laredo,Chest,HCPCS 71046,X-ray of chest; 2 Views,$381.22,TX
+Doctors Hospital Of Laredo,Chest,HCPCS 71045,X-ray of chest; Single View,$251.01,TX
+Doctors Hospital Of Laredo,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$322.99,TX
+Doctors Hospital Of Laredo,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$307.08,TX
+Doctors Hospital Of Laredo,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$253.34,TX
+Doctors Hospital Of Laredo,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$382.08,TX
+Doctors Hospital Of Laredo,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$328.78,TX
+Doctors Hospital Of Laredo,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$500.80,TX
+Doctors Hospital Of Laredo,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$585.91,TX
+Doctors Hospital Of Laredo,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$338.30,TX
+Doctors Hospital Of Laredo,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$256.50,TX
+Doctors Hospital Of Laredo,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$275.12,TX
+Doctors Hospital Of Laredo,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$270.64,TX
+Doctors Hospital Of Laredo,Lower Limbs,HCPCS 73630,X-ray exam of foot,$270.86,TX
+Doctors Hospital Of Laredo,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$405.67,TX
+Doctors Hospital Of Laredo,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$332.73,TX
+Doctors Hospital Of Laredo,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$163.84,TX
+Doctors Hospital Of Laredo,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$246.14,TX
+Doctors Hospital Of Laredo,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$304.17,TX
+Doctors Hospital Of Laredo,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$181.96,TX
+Doctors Hospital Of Laredo,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$334.88,TX
+Doctors Hospital Of Laredo,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$487.57,TX
+Doctors Hospital Of Laredo,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$345.98,TX
+Doctors Hospital Of Laredo,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$288.83,TX
+Doctors Hospital Of Laredo,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$275.89,TX
+Doctors Hospital Of Laredo,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$171.11,TX
+Doctors Hospital Of Laredo,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$213.15,TX
+Doctors Hospital Of Laredo,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$258.86,TX
+Doctors Hospital Of Laredo,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$260.09,TX
+Doctors Hospital Of Laredo,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$251.80,TX
+Doctors Hospital Of Laredo,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$315.61,TX
+Doctors Hospital Of Laredo,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$201.76,TX
+Doctors Hospital Of Laredo,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$287.15,TX
+Doctors Hospital Of Laredo,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$32,425.00",TX
+Doctors Hospital Of Laredo,Abdomenal,HCPCS 47562,Cholecystectomy,"$5,490.67",TX
+Doctors Hospital Of Laredo,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$1,319.70",TX
+Doctors Hospital Of Laredo,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$5,271.75",TX
+Doctors Hospital Of Laredo,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$215.37,TX
+Doctors Hospital Of Laredo,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$23,611.45",TX
+Doctors Hospital Of Laredo,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$4,882.04",TX
+Doctors Hospital Of Laredo,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$5,998.61",TX
+Doctors Hospital Of Laredo,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$7,149.97",TX
+Doctors Hospital Of Laredo,Breast,HCPCS 19120,Excision of cyst of breast,"$4,647.62",TX
+Doctors Hospital Of Laredo,Breast,HCPCS 19301,Partial removal of breast,"$3,875.54",TX
+Doctors Hospital Of Laredo,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,"$24,098.60",TX
+Doctors Hospital Of Laredo,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$25,112.67",TX
+Doctors Hospital Of Laredo,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$130,945.34",TX
+Doctors Hospital Of Laredo,Cardiac,HCPCS 33249,Defibrillator complete system,"$57,841.35",TX
+Doctors Hospital Of Laredo,Cardiac,MSDRG 247,Implant drug-eluting stent,"$18,819.72",TX
+Doctors Hospital Of Laredo,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$20,281.52",TX
+Doctors Hospital Of Laredo,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$11,299.60",TX
+Doctors Hospital Of Laredo,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$5,546.18",TX
+Doctors Hospital Of Laredo,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$3,500.84",TX
+Doctors Hospital Of Laredo,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$4,782.08",TX
+Doctors Hospital Of Laredo,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$4,406.99",TX
+Doctors Hospital Of Laredo,Digestive,HCPCS 43235,EGD,"$2,191.10",TX
+Doctors Hospital Of Laredo,Digestive,HCPCS 43239,EGD and biopsy,"$2,219.26",TX
+Doctors Hospital Of Laredo,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$17,797.70",TX
+Doctors Hospital Of Laredo,General,HCPCS 55700,Biopsy of prostate gland,"$3,236.62",TX
+Doctors Hospital Of Laredo,General,HCPCS 10060,Drainage of Abscess,$495.49,TX
+Doctors Hospital Of Laredo,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple","$1,219.30",TX
+Doctors Hospital Of Laredo,General,HCPCS 69200,Removal of foreign body from ear canal,$168.01,TX
+Doctors Hospital Of Laredo,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$394.22,TX
+Doctors Hospital Of Laredo,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$391.95,TX
+Doctors Hospital Of Laredo,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$394.06,TX
+Doctors Hospital Of Laredo,Head,HCPCS 69436,Create eardrum opening,"$1,568.94",TX
+Doctors Hospital Of Laredo,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$35,180.67",TX
+Doctors Hospital Of Laredo,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$4,994.92",TX
+Doctors Hospital Of Laredo,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,"$3,102.68",TX
+Doctors Hospital Of Laredo,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$4,926.12",TX
+Doctors Hospital Of Laredo,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$4,004.55",TX
+Doctors Hospital Of Laredo,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$4,804.98",TX
+Doctors Hospital Of Laredo,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$11,435.01",TX
+Doctors Hospital Of Laredo,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$5,624.84",TX
+Doctors Hospital Of Laredo,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$8,117.20",TX
+Doctors Hospital Of Laredo,Ocular,HCPCS 66984,Cataract removal,"$3,979.59",TX
+Doctors Hospital Of Laredo,Ocular,HCPCS 66982,Cataract removal with insertion of lens,"$4,337.88",TX
+Doctors Hospital Of Laredo,Soft Tissue,HCPCS 97597,Debridement of open wound,$461.92,TX
+Doctors Hospital Of Laredo,Soft Tissue,HCPCS 97602,Non-selective debridement,$358.93,TX
+Doctors Hospital Of Laredo,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$183.60,TX
+Doctors Hospital Of Laredo,Vascular,HCPCS 36416,Collection of capillary blood specimen,$14.78,TX
+Doctors Hospital Of Laredo,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$982.15,TX
+Doctors Hospital Of Laredo,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$2,374.94",TX

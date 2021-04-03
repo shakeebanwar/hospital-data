@@ -1,0 +1,96 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+North Central Surgical Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$412.88,TX
+North Central Surgical Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$617.95,TX
+North Central Surgical Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,221.40",TX
+North Central Surgical Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$19.09,TX
+North Central Surgical Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$27.45,TX
+North Central Surgical Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$19.06,TX
+North Central Surgical Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$39.36,TX
+North Central Surgical Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$9,148.04",TX
+North Central Surgical Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$17.21,TX
+North Central Surgical Hospital,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$32.62,TX
+North Central Surgical Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$18.83,TX
+North Central Surgical Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$124.20,TX
+North Central Surgical Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$29.70,TX
+North Central Surgical Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$48.14,TX
+North Central Surgical Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$32.20,TX
+North Central Surgical Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$32.99,TX
+North Central Surgical Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$31.66,TX
+North Central Surgical Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$7.20,TX
+North Central Surgical Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$7.20,TX
+North Central Surgical Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$11,721.20",TX
+North Central Surgical Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,331.84",TX
+North Central Surgical Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$609.74,TX
+North Central Surgical Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,134.35",TX
+North Central Surgical Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,356.19",TX
+North Central Surgical Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,070.30",TX
+North Central Surgical Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$903.71,TX
+North Central Surgical Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$766.03,TX
+North Central Surgical Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$613.45,TX
+North Central Surgical Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,$795.56,TX
+North Central Surgical Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$795.13,TX
+North Central Surgical Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,$881.65,TX
+North Central Surgical Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,$795.47,TX
+North Central Surgical Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,$886.24,TX
+North Central Surgical Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$812.39,TX
+North Central Surgical Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,$886.45,TX
+North Central Surgical Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$786.28,TX
+North Central Surgical Hospital,MRI,HCPCS 73721,MRI scan of leg joint,$801.46,TX
+North Central Surgical Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$327.31,TX
+North Central Surgical Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$202.46,TX
+North Central Surgical Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$219.94,TX
+North Central Surgical Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$328.58,TX
+North Central Surgical Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$132.04,TX
+North Central Surgical Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$72.52,TX
+North Central Surgical Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$134.56,TX
+North Central Surgical Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$187.85,TX
+North Central Surgical Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$135.00,TX
+North Central Surgical Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$199.75,TX
+North Central Surgical Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$219.60,TX
+North Central Surgical Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$199.66,TX
+North Central Surgical Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$172.16,TX
+North Central Surgical Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$161.40,TX
+North Central Surgical Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$293.80,TX
+North Central Surgical Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$133.24,TX
+North Central Surgical Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$196.80,TX
+North Central Surgical Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$132.00,TX
+North Central Surgical Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$201.53,TX
+North Central Surgical Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$138.56,TX
+North Central Surgical Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$198.42,TX
+North Central Surgical Hospital,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$5,759.87",TX
+North Central Surgical Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$7,924.44",TX
+North Central Surgical Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$10,212.96",TX
+North Central Surgical Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$11,196.85",TX
+North Central Surgical Hospital,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,"$7,519.92",TX
+North Central Surgical Hospital,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$9,636.22",TX
+North Central Surgical Hospital,Breast,HCPCS 19325,Breast enlargement using prosthetic implant,"$8,419.13",TX
+North Central Surgical Hospital,Breast,HCPCS 19120,Excision of cyst of breast,"$4,732.16",TX
+North Central Surgical Hospital,Breast,HCPCS 19301,Partial removal of breast,"$10,135.38",TX
+North Central Surgical Hospital,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$11,840.66",TX
+North Central Surgical Hospital,Breast,HCPCS 19303,Total removal of breast,"$26,014.78",TX
+North Central Surgical Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$3,165.20",TX
+North Central Surgical Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$4,113.11",TX
+North Central Surgical Hospital,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$3,627.58",TX
+North Central Surgical Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$4,837.24",TX
+North Central Surgical Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$4,604.43",TX
+North Central Surgical Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$12,261.10",TX
+North Central Surgical Hospital,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$11,367.59",TX
+North Central Surgical Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$3,276.35",TX
+North Central Surgical Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$1,220.84",TX
+North Central Surgical Hospital,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$57,385.13",TX
+North Central Surgical Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$1,497.11",TX
+North Central Surgical Hospital,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$1,778.12",TX
+North Central Surgical Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$2,326.19",TX
+North Central Surgical Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$1,625.21",TX
+North Central Surgical Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$24,111.55",TX
+North Central Surgical Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$7,602.59",TX
+North Central Surgical Hospital,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$7,886.39",TX
+North Central Surgical Hospital,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,"$56,425.82",TX
+North Central Surgical Hospital,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$16,973.48",TX
+North Central Surgical Hospital,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$18,098.17",TX
+North Central Surgical Hospital,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$32,272.18",TX
+North Central Surgical Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$51,187.28",TX
+North Central Surgical Hospital,Musculoskeletal,HCPCS 22612,Spine arthrodesis,"$79,329.36",TX
+North Central Surgical Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$6,579.46",TX
+North Central Surgical Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$9,148.04",TX
+North Central Surgical Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$6,049.61",TX

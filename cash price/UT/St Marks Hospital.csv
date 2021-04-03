@@ -1,0 +1,207 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+St Marks Hospital,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$4,431.23",UT
+St Marks Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$7,207.01",UT
+St Marks Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$516.33,UT
+St Marks Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$1,112.60",UT
+St Marks Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$1,832.01",UT
+St Marks Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$3,052.75",UT
+St Marks Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$3,977.26",UT
+St Marks Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$296.33,UT
+St Marks Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min","$1,060.52",UT
+St Marks Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$202.75,UT
+St Marks Hospital,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$627.79,UT
+St Marks Hospital,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$311.31,UT
+St Marks Hospital,Psychology,HCPCS 90853,Group psychotherapy,$311.31,UT
+St Marks Hospital,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$627.79,UT
+St Marks Hospital,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$627.79,UT
+St Marks Hospital,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$627.79,UT
+St Marks Hospital,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$627.79,UT
+St Marks Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$132.60,UT
+St Marks Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$34.04,UT
+St Marks Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$122.11,UT
+St Marks Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$273.88,UT
+St Marks Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$44.92,UT
+St Marks Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$139.38,UT
+St Marks Hospital,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$113.82,UT
+St Marks Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$184.05,UT
+St Marks Hospital,Blood,HCPCS 85008,Microscopic examination for white blood cells,$74.09,UT
+St Marks Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$94.65,UT
+St Marks Hospital,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$814.70,UT
+St Marks Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$103.81,UT
+St Marks Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$307.64,UT
+St Marks Hospital,Blood,HCPCS 85041,"Red blood count, automated test",$3.80,UT
+St Marks Hospital,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$113.45,UT
+St Marks Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$411.70,UT
+St Marks Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$64.83,UT
+St Marks Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$249.46,UT
+St Marks Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$216.32,UT
+St Marks Hospital,Chemistry,HCPCS 82140,Ammonia level,$240.75,UT
+St Marks Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$60.50,UT
+St Marks Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$58.35,UT
+St Marks Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$331.47,UT
+St Marks Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$113.82,UT
+St Marks Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$43.21,UT
+St Marks Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$70.65,UT
+St Marks Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$111.23,UT
+St Marks Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$38.82,UT
+St Marks Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$113.82,UT
+St Marks Hospital,Chemistry,HCPCS 84295,Blood sodium level,$123.87,UT
+St Marks Hospital,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$111.23,UT
+St Marks Hospital,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$123.87,UT
+St Marks Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$27.90,UT
+St Marks Hospital,Chemistry,HCPCS 82310,Calcium level,$111.23,UT
+St Marks Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$70.65,UT
+St Marks Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$230.28,UT
+St Marks Hospital,Chemistry,HCPCS 82465,Cholesterol level,$70.65,UT
+St Marks Hospital,Chemistry,HCPCS 82525,Copper level,$279.13,UT
+St Marks Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$230.28,UT
+St Marks Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$284.35,UT
+St Marks Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$138.26,UT
+St Marks Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$230.28,UT
+St Marks Hospital,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$479.73,UT
+St Marks Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$509.38,UT
+St Marks Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$132.60,UT
+St Marks Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$230.28,UT
+St Marks Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$66.99,UT
+St Marks Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$111.23,UT
+St Marks Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$187.11,UT
+St Marks Hospital,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$230.28,UT
+St Marks Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$230.28,UT
+St Marks Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$132.60,UT
+St Marks Hospital,Chemistry,HCPCS 83718,HDL cholesterol level,$149.17,UT
+St Marks Hospital,Chemistry,HCPCS 83020,Hemoglobin Measurement,$113.45,UT
+St Marks Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$265.16,UT
+St Marks Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$371.57,UT
+St Marks Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$202.37,UT
+St Marks Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$81.14,UT
+St Marks Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$308.78,UT
+St Marks Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$190.14,UT
+St Marks Hospital,Chemistry,HCPCS 83540,Iron level,$111.23,UT
+St Marks Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$78.87,UT
+St Marks Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$209.34,UT
+St Marks Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$111.23,UT
+St Marks Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$132.60,UT
+St Marks Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$23.82,UT
+St Marks Hospital,Chemistry,HCPCS 83735,Magnesium Level,$111.23,UT
+St Marks Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$524.89,UT
+St Marks Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$151.27,UT
+St Marks Hospital,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$54.03,UT
+St Marks Hospital,Chemistry,HCPCS 83918,Organic acid level,$432.19,UT
+St Marks Hospital,Chemistry,HCPCS 83945,Oxalate level,$190.14,UT
+St Marks Hospital,Chemistry,HCPCS 83970,Parathormone,$455.32,UT
+St Marks Hospital,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$33.49,UT
+St Marks Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$33.49,UT
+St Marks Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$229.06,UT
+St Marks Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$230.28,UT
+St Marks Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$66.99,UT
+St Marks Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$251.23,UT
+St Marks Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$154.51,UT
+St Marks Hospital,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$135.64,UT
+St Marks Hospital,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$248.51,UT
+St Marks Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$135.64,UT
+St Marks Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$111.23,UT
+St Marks Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$7.60,UT
+St Marks Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$20.05,UT
+St Marks Hospital,Chemistry,HCPCS 84560,Uric acid level,$23.77,UT
+St Marks Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$70.65,UT
+St Marks Hospital,Chemistry,HCPCS 82340,Urine calcium level,$22.69,UT
+St Marks Hospital,Chemistry,HCPCS 82436,Urine chloride level,$111.23,UT
+St Marks Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$216.32,UT
+St Marks Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$149.17,UT
+St Marks Hospital,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,"$1,004.85",UT
+St Marks Hospital,Chemistry,HCPCS 84133,Urine potassium level,$70.65,UT
+St Marks Hospital,Chemistry,HCPCS 84300,Urine sodium level,$70.65,UT
+St Marks Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$572.20,UT
+St Marks Hospital,Chemistry,HCPCS 84630,Zinc level,$190.14,UT
+St Marks Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$30.20,UT
+St Marks Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$40.57,UT
+St Marks Hospital,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$70.65,UT
+St Marks Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$38.01,UT
+St Marks Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$62.38,UT
+St Marks Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$190.14,UT
+St Marks Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$113.82,UT
+St Marks Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$173.58,UT
+St Marks Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$132.60,UT
+St Marks Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$136.14,UT
+St Marks Hospital,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$371.57,UT
+St Marks Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$124.74,UT
+St Marks Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$73.26,UT
+St Marks Hospital,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$98.32,UT
+St Marks Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$273.88,UT
+St Marks Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$251.23,UT
+St Marks Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$86.91,UT
+St Marks Hospital,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$65.90,UT
+St Marks Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$132.60,UT
+St Marks Hospital,Immunology,HCPCS 86580,Skin test for tuberculosis,$127.36,UT
+St Marks Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$24.89,UT
+St Marks Hospital,Immunology,HCPCS 86361,T cell count and ratio,$86.44,UT
+St Marks Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$124.25,UT
+St Marks Hospital,Immunology,HCPCS 86359,"T cells count, total",$52.22,UT
+St Marks Hospital,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$32.41,UT
+St Marks Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$35.33,UT
+St Marks Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$178.83,UT
+St Marks Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$64.98,UT
+St Marks Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$35.41,UT
+St Marks Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$41.80,UT
+St Marks Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$149.10,UT
+St Marks Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$241.55,UT
+St Marks Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$351.15,UT
+St Marks Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$132.60,UT
+St Marks Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$432.19,UT
+St Marks Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$143.49,UT
+St Marks Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$278.58,UT
+St Marks Hospital,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$26.40,UT
+St Marks Hospital,Microbiology,HCPCS 87624,HPV Detection,$147.25,UT
+St Marks Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$230.28,UT
+St Marks Hospital,Microbiology,HCPCS 86747,Parvovirus antibody test,$167.90,UT
+St Marks Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$149.17,UT
+St Marks Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$135.64,UT
+St Marks Hospital,Microbiology,HCPCS 87207,Smear for infectious agents,$339.27,UT
+St Marks Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$251.23,UT
+St Marks Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$63.75,UT
+St Marks Hospital,Microbiology,HCPCS 87045,Stool Culture,$279.13,UT
+St Marks Hospital,Microbiology,HCPCS 87880,Strep Test,$111.23,UT
+St Marks Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$116.01,UT
+St Marks Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$259.94,UT
+St Marks Hospital,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$855.01,UT
+St Marks Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$455.32,UT
+St Marks Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$223.31,UT
+St Marks Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$298.32,UT
+St Marks Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$246.00,UT
+St Marks Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$258.20,UT
+St Marks Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$240.75,UT
+St Marks Hospital,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$371.57,UT
+St Marks Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$160.06,UT
+St Marks Hospital,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$64.83,UT
+St Marks Hospital,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$83.19,UT
+St Marks Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$239.01,UT
+St Marks Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$38.43,UT
+St Marks Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$194.48,UT
+St Marks Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$132.60,UT
+St Marks Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$27.01,UT
+St Marks Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$138.26,UT
+St Marks Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$104.56,UT
+St Marks Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$149.17,UT
+St Marks Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$173.58,UT
+St Marks Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$75.88,UT
+St Marks Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$75.88,UT
+St Marks Hospital,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$164.33,UT
+St Marks Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$92.02,UT
+St Marks Hospital,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$389.70,UT
+St Marks Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$165.29,UT
+St Marks Hospital,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$64.98,UT
+St Marks Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$92.02,UT
+St Marks Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$132.60,UT
+St Marks Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$135.64,UT
+St Marks Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$911.26,UT
+St Marks Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$552.24,UT
+St Marks Hospital,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$1,969.00",UT
+St Marks Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,081.83",UT
+St Marks Hospital,Pulmonary,HCPCS 94729,CO Diffusion Capacity,$527.97,UT
+St Marks Hospital,Pulmonary,HCPCS 94640,Nebulizer Treatment,$153.59,UT
+St Marks Hospital,Pulmonary,HCPCS 94618,Pulmonary stress test,$372.60,UT
+St Marks Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$574.33,UT
+St Marks Hospital,Sleep,HCPCS 95810,Sleep study,"$4,715.56",UT
+St Marks Hospital,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$57.00,UT
+St Marks Hospital,Breast,HCPCS 77067,Mammogram Screening,$594.60,UT
+St Marks Hospital,Breast,HCPCS 77066,Mammography of both breasts,$581.95,UT
