@@ -1,0 +1,246 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Redmond Regional Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$1,420.34",GA
+Redmond Regional Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$6,054.17",GA
+Redmond Regional Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$514.26,GA
+Redmond Regional Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$663.91,GA
+Redmond Regional Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$1,428.51",GA
+Redmond Regional Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,866.59",GA
+Redmond Regional Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$3,549.52",GA
+Redmond Regional Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$804.98,GA
+Redmond Regional Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min","$1,187.35",GA
+Redmond Regional Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$635.36,GA
+Redmond Regional Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$180.87,GA
+Redmond Regional Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$164.37,GA
+Redmond Regional Medical Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,"$1,215.25",GA
+Redmond Regional Medical Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,"$1,641.00",GA
+Redmond Regional Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$156.28,GA
+Redmond Regional Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$369.14,GA
+Redmond Regional Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$610.32,GA
+Redmond Regional Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$285.96,GA
+Redmond Regional Medical Center,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$680.37,GA
+Redmond Regional Medical Center,Blood,HCPCS 85660,Red blood cell sickling measurement,$263.06,GA
+Redmond Regional Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$1,540.97",GA
+Redmond Regional Medical Center,Blood,HCPCS 85041,"Red blood count, automated test",$120.24,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,"$1,735.30",GA
+Redmond Regional Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$670.95,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$164.37,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$320.64,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$377.23,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 82140,Ammonia level,$568.54,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$747.74,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,"$1,107.46",GA
+Redmond Regional Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$444.59,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$417.65,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$606.27,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$230.04,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$479.63,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$163.02,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$175.82,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$126.64,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$292.36,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$312.56,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$662.86,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 82310,Calcium level,$327.39,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$116.88,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$401.49,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 82465,Cholesterol level,$351.64,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 82525,Copper level,$225.00,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$641.30,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$556.42,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$568.54,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$424.40,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,"$1,111.50",GA
+Redmond Regional Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$339.51,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$320.64,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$269.45,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$417.65,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$509.27,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$513.31,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level","$1,157.32",GA
+Redmond Regional Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,"$1,112.85",GA
+Redmond Regional Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$587.41,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 83718,HDL cholesterol level,$207.13,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 83020,Hemoglobin Measurement,$741.00,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,"$1,149.23",GA
+Redmond Regional Medical Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$844.74,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$800.28,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$363.77,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$377.23,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$202.09,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 83540,Iron level,$220.28,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$178.85,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$693.86,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$401.49,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$641.30,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$215.22,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 82542,Mass spectrometry,$230.04,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$470.19,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$392.05,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 83918,Organic acid level,"$2,209.55",GA
+Redmond Regional Medical Center,Chemistry,HCPCS 83945,Oxalate level,$287.30,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 83970,Parathormone,$939.05,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$75.78,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$405.53,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,"$1,476.62",GA
+Redmond Regional Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,"$1,294.74",GA
+Redmond Regional Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$467.50,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$202.09,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,"$1,037.40",GA
+Redmond Regional Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$672.29,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$556.42,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$833.97,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$369.14,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$215.22,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$405.53,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$241.50,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 84560,Uric acid level,$520.04,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$520.04,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$351.64,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 82436,Urine chloride level,$230.04,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$587.41,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$156.28,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$695.20,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$143.14,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$126.64,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$319.30,GA
+Redmond Regional Medical Center,Chemistry,HCPCS 84630,Zinc level,$580.67,GA
+Redmond Regional Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$670.95,GA
+Redmond Regional Medical Center,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$72.40,GA
+Redmond Regional Medical Center,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$67.69,GA
+Redmond Regional Medical Center,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1","$1,063.00",GA
+Redmond Regional Medical Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$373.19,GA
+Redmond Regional Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,"$1,413.30",GA
+Redmond Regional Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,"$1,023.93",GA
+Redmond Regional Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$424.40,GA
+Redmond Regional Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$703.27,GA
+Redmond Regional Medical Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$263.06,GA
+Redmond Regional Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$502.53,GA
+Redmond Regional Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$377.23,GA
+Redmond Regional Medical Center,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$945.79,GA
+Redmond Regional Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$906.72,GA
+Redmond Regional Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$800.28,GA
+Redmond Regional Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$485.02,GA
+Redmond Regional Medical Center,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$479.63,GA
+Redmond Regional Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$470.19,GA
+Redmond Regional Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$728.87,GA
+Redmond Regional Medical Center,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$160.98,GA
+Redmond Regional Medical Center,Immunology,HCPCS 86359,"T cells count, total",$160.98,GA
+Redmond Regional Medical Center,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$591.45,GA
+Redmond Regional Medical Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$282.58,GA
+Redmond Regional Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$693.86,GA
+Redmond Regional Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$833.97,GA
+Redmond Regional Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$43.96,GA
+Redmond Regional Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$115.19,GA
+Redmond Regional Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$910.76,GA
+Redmond Regional Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$614.36,GA
+Redmond Regional Medical Center,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$998.33,GA
+Redmond Regional Medical Center,Microbiology,HCPCS 87517,Hepatitis B Detection,$987.12,GA
+Redmond Regional Medical Center,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$773.33,GA
+Redmond Regional Medical Center,Microbiology,HCPCS 86735,Mumps virus antibody test,$631.88,GA
+Redmond Regional Medical Center,Microbiology,HCPCS 86747,Parvovirus antibody test,$327.39,GA
+Redmond Regional Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$72.40,GA
+Redmond Regional Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$871.69,GA
+Redmond Regional Medical Center,Microbiology,HCPCS 87207,Smear for infectious agents,$467.50,GA
+Redmond Regional Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$631.88,GA
+Redmond Regional Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$487.72,GA
+Redmond Regional Medical Center,Microbiology,HCPCS 87045,Stool Culture,"$1,774.38",GA
+Redmond Regional Medical Center,Microbiology,HCPCS 87880,Strep Test,$660.17,GA
+Redmond Regional Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$606.27,GA
+Redmond Regional Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$433.83,GA
+Redmond Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,"$1,980.50",GA
+Redmond Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$805.68,GA
+Redmond Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$832.63,GA
+Redmond Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$824.54,GA
+Redmond Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,"$1,056.27",GA
+Redmond Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,"$1,025.28",GA
+Redmond Regional Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$758.52,GA
+Redmond Regional Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$621.10,GA
+Redmond Regional Medical Center,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$778.72,GA
+Redmond Regional Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$388.01,GA
+Redmond Regional Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$362.42,GA
+Redmond Regional Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$459.42,GA
+Redmond Regional Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$573.94,GA
+Redmond Regional Medical Center,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$695.20,GA
+Redmond Regional Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$513.31,GA
+Redmond Regional Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$619.75,GA
+Redmond Regional Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,"$1,025.28",GA
+Redmond Regional Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$658.82,GA
+Redmond Regional Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$246.54,GA
+Redmond Regional Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$246.54,GA
+Redmond Regional Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$241.50,GA
+Redmond Regional Medical Center,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$339.51,GA
+Redmond Regional Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$198.72,GA
+Redmond Regional Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$313.91,GA
+Redmond Regional Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$397.45,GA
+Redmond Regional Medical Center,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$363.77,GA
+Redmond Regional Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$433.83,GA
+Redmond Regional Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$782.77,GA
+Redmond Regional Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$720.17,GA
+Redmond Regional Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$772.76,GA
+Redmond Regional Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,"$3,120.95",GA
+Redmond Regional Medical Center,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$3,927.19",GA
+Redmond Regional Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$2,639.21",GA
+Redmond Regional Medical Center,Pulmonary,HCPCS 94729,CO Diffusion Capacity,"$1,053.67",GA
+Redmond Regional Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,$327.75,GA
+Redmond Regional Medical Center,Pulmonary,HCPCS 94618,Pulmonary stress test,$411.64,GA
+Redmond Regional Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$336.37,GA
+Redmond Regional Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$92.66,GA
+Redmond Regional Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$300.56,GA
+Redmond Regional Medical Center,Breast,HCPCS 77067,Mammogram Screening,$142.44,GA
+Redmond Regional Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$307.10,GA
+Redmond Regional Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$6,567.07",GA
+Redmond Regional Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$4,901.84",GA
+Redmond Regional Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$7,479.96",GA
+Redmond Regional Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$5,667.79",GA
+Redmond Regional Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$11,787.27",GA
+Redmond Regional Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$9,904.36",GA
+Redmond Regional Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$9,523.42",GA
+Redmond Regional Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$4,360.36",GA
+Redmond Regional Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$11,787.27",GA
+Redmond Regional Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$6,567.07",GA
+Redmond Regional Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$214.95,GA
+Redmond Regional Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$5,088.23",GA
+Redmond Regional Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$10,577.80",GA
+Redmond Regional Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$8,912.38",GA
+Redmond Regional Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$8,912.38",GA
+Redmond Regional Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$8,912.38",GA
+Redmond Regional Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$4,239.13",GA
+Redmond Regional Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$8,912.38",GA
+Redmond Regional Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$3,984.68",GA
+Redmond Regional Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$5,728.35",GA
+Redmond Regional Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$9,579.36",GA
+Redmond Regional Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$8,912.38",GA
+Redmond Regional Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$2,814.58",GA
+Redmond Regional Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$2,703.90",GA
+Redmond Regional Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$2,649.27",GA
+Redmond Regional Medical Center,Ultrasound,HCPCS 76881,Ultrasound Joint Soft Tissue - Complete,"$3,718.76",GA
+Redmond Regional Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$3,477.25",GA
+Redmond Regional Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$2,675.15",GA
+Redmond Regional Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$3,010.07",GA
+Redmond Regional Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$2,509.84",GA
+Redmond Regional Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views","$2,055.69",GA
+Redmond Regional Medical Center,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views","$1,228.52",GA
+Redmond Regional Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$968.66,GA
+Redmond Regional Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,"$1,100.63",GA
+Redmond Regional Medical Center,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views","$1,684.28",GA
+Redmond Regional Medical Center,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views","$1,244.85",GA
+Redmond Regional Medical Center,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$351.00,GA
+Redmond Regional Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$865.26,GA
+Redmond Regional Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,"$1,096.55",GA
+Redmond Regional Medical Center,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$942.82,GA
+Redmond Regional Medical Center,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views","$2,062.50",GA
+Redmond Regional Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views","$2,489.69",GA
+Redmond Regional Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views","$1,244.85",GA
+Redmond Regional Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views","$1,081.59",GA
+Redmond Regional Medical Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views","$1,492.45",GA
+Redmond Regional Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$869.35,GA
+Redmond Regional Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views","$1,393.14",GA
+Redmond Regional Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views","$1,123.76",GA
+Redmond Regional Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$2,448.88",GA
+Redmond Regional Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views","$1,887.00",GA
+Redmond Regional Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views","$2,323.71",GA
+Redmond Regional Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views","$1,393.14",GA
+Redmond Regional Medical Center,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers","$4,838.55",GA
+Redmond Regional Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$458.55,GA
+Redmond Regional Medical Center,Soft Tissue,HCPCS 97602,Non-selective debridement,$426.92,GA
+Redmond Regional Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,420.22",GA

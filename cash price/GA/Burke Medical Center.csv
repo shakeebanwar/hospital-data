@@ -1,0 +1,148 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Burke Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$200.00,GA
+Burke Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$380.00,GA
+Burke Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$720.00,GA
+Burke Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,000.00",GA
+Burke Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,280.00",GA
+Burke Medical Center,Hospital,HCPCS 99219,Hospital observation care typically 30 minutes,$308.00,GA
+Burke Medical Center,Hospital,HCPCS 99235,"Hospital observation or inpatient care moderate severity, 50 minutes per day",$382.00,GA
+Burke Medical Center,Hospital,HCPCS 99218,Hospital Observation per Hour,$240.00,GA
+Burke Medical Center,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$160.00,GA
+Burke Medical Center,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$200.00,GA
+Burke Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$140.00,GA
+Burke Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$162.00,GA
+Burke Medical Center,Speech,HCPCS 92507,Speech Therapy,$171.00,GA
+Burke Medical Center,Speech,HCPCS 92610,Swallow Evaluation,$162.00,GA
+Burke Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$16.00,GA
+Burke Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$16.00,GA
+Burke Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$27.00,GA
+Burke Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$41.00,GA
+Burke Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$53.00,GA
+Burke Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$44.00,GA
+Burke Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$23.00,GA
+Burke Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$44.00,GA
+Burke Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$61.00,GA
+Burke Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$34.00,GA
+Burke Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$34.00,GA
+Burke Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$35.00,GA
+Burke Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$27.00,GA
+Burke Medical Center,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$14.00,GA
+Burke Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$33.00,GA
+Burke Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$31.00,GA
+Burke Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$114.00,GA
+Burke Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$44.00,GA
+Burke Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$102.00,GA
+Burke Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$93.00,GA
+Burke Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$100.00,GA
+Burke Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$66.00,GA
+Burke Medical Center,Chemistry,HCPCS 83540,Iron level,$44.00,GA
+Burke Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$41.00,GA
+Burke Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$47.00,GA
+Burke Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$46.00,GA
+Burke Medical Center,Chemistry,HCPCS 83970,Parathormone,$281.00,GA
+Burke Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$22.00,GA
+Burke Medical Center,Chemistry,HCPCS 84479,"Thyroid Hormone, T3 Measurement, Free",$44.00,GA
+Burke Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$47.00,GA
+Burke Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$25.00,GA
+Burke Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$31.00,GA
+Burke Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$201.00,GA
+Burke Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$35.00,GA
+Burke Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$35.00,GA
+Burke Medical Center,Immunology,HCPCS 86580,Skin test for tuberculosis,$20.00,GA
+Burke Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$60.00,GA
+Burke Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$55.00,GA
+Burke Medical Center,Microbiology,HCPCS 87045,Stool Culture,$100.00,GA
+Burke Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$20.00,GA
+Burke Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$57.00,GA
+Burke Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$72.00,GA
+Burke Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$91.00,GA
+Burke Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$59.00,GA
+Burke Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$56.00,GA
+Burke Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$90.00,GA
+Burke Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$256.00,GA
+Burke Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$94.00,GA
+Burke Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$77.00,GA
+Burke Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$20.00,GA
+Burke Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$20.00,GA
+Burke Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$371.00,GA
+Burke Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$89.00,GA
+Burke Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$15.00,GA
+Burke Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$21.00,GA
+Burke Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$40.00,GA
+Burke Medical Center,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$40.00,GA
+Burke Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$180.00,GA
+Burke Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$294.00,GA
+Burke Medical Center,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$16.00,GA
+Burke Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,$447.00,GA
+Burke Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$305.00,GA
+Burke Medical Center,Sleep,HCPCS 95810,Sleep study,"$2,075.00",GA
+Burke Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$439.00,GA
+Burke Medical Center,Breast,HCPCS 77067,Mammogram Screening,$375.00,GA
+Burke Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$482.00,GA
+Burke Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,258.00",GA
+Burke Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$644.00,GA
+Burke Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$644.00,GA
+Burke Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$644.00,GA
+Burke Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$2,147.00",GA
+Burke Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,789.00",GA
+Burke Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,135.00",GA
+Burke Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,102.00",GA
+Burke Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,102.00",GA
+Burke Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$644.00,GA
+Burke Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,102.00",GA
+Burke Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,061.00",GA
+Burke Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,061.00",GA
+Burke Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$1,775.00",GA
+Burke Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,061.00",GA
+Burke Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$1,775.00",GA
+Burke Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,061.00",GA
+Burke Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,775.00",GA
+Burke Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,061.00",GA
+Burke Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$1,061.00",GA
+Burke Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$406.00,GA
+Burke Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$406.00,GA
+Burke Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$442.00,GA
+Burke Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$406.00,GA
+Burke Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$406.00,GA
+Burke Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$406.00,GA
+Burke Medical Center,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$442.00,GA
+Burke Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$215.00,GA
+Burke Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$215.00,GA
+Burke Medical Center,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$406.00,GA
+Burke Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$215.00,GA
+Burke Medical Center,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$215.00,GA
+Burke Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$406.00,GA
+Burke Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$215.00,GA
+Burke Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$406.00,GA
+Burke Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$215.00,GA
+Burke Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$215.00,GA
+Burke Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$215.00,GA
+Burke Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$215.00,GA
+Burke Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$215.00,GA
+Burke Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$323.00,GA
+Burke Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$215.00,GA
+Burke Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$406.00,GA
+Burke Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$406.00,GA
+Burke Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$406.00,GA
+Burke Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$215.00,GA
+Burke Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$215.00,GA
+Burke Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$215.00,GA
+Burke Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$215.00,GA
+Burke Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$215.00,GA
+Burke Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$215.00,GA
+Burke Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,420.00",GA
+Burke Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,873.00",GA
+Burke Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,873.00",GA
+Burke Medical Center,Digestive,HCPCS 43235,EGD,"$1,487.00",GA
+Burke Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$1,487.00",GA
+Burke Medical Center,General,HCPCS 10060,Drainage of Abscess,$338.00,GA
+Burke Medical Center,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$622.00,GA
+Burke Medical Center,General,HCPCS 69200,Removal of foreign body from ear canal,$280.00,GA
+Burke Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$338.00,GA
+Burke Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$338.00,GA
+Burke Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$338.00,GA
+Burke Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$489.00,GA
+Burke Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$354.00,GA
+Burke Medical Center,Vascular,HCPCS 36416,Collection of capillary blood specimen,$32.00,GA
+Burke Medical Center,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,572.00",GA
+Burke Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,320.00",GA

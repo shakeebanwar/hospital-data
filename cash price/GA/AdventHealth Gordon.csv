@@ -1,0 +1,404 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+AdventHealth Gordon,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$779.08,GA
+AdventHealth Gordon,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$3,609.14",GA
+AdventHealth Gordon,Emergency Care,HCPCS 99281,Emergency Level 1,$137.00,GA
+AdventHealth Gordon,Emergency Care,HCPCS 99282,Emergency Level 2,$332.29,GA
+AdventHealth Gordon,Emergency Care,HCPCS 99283,Emergency Level 3,$570.99,GA
+AdventHealth Gordon,Emergency Care,HCPCS 99284,Emergency Level 4,$904.65,GA
+AdventHealth Gordon,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,436.33",GA
+AdventHealth Gordon,Hospital,HCPCS 99234,Hospital observation care discharge,$138.00,GA
+AdventHealth Gordon,Hospital,HCPCS 99219,Hospital observation care typically 30 minutes,$139.00,GA
+AdventHealth Gordon,Hospital,HCPCS 99235,"Hospital observation or inpatient care moderate severity, 50 minutes per day",$173.00,GA
+AdventHealth Gordon,Hospital,HCPCS 99218,Hospital Observation per Hour,$103.00,GA
+AdventHealth Gordon,Hospital,HCPCS 99224,"Subsequent observation care, typically 25 minutes per day",$41.00,GA
+AdventHealth Gordon,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$135.00,GA
+AdventHealth Gordon,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$156.00,GA
+AdventHealth Gordon,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$374.36,GA
+AdventHealth Gordon,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$559.86,GA
+AdventHealth Gordon,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$260.78,GA
+AdventHealth Gordon,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$125.00,GA
+AdventHealth Gordon,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$187.00,GA
+AdventHealth Gordon,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$107.00,GA
+AdventHealth Gordon,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$103.00,GA
+AdventHealth Gordon,Psychology,HCPCS 90853,Group psychotherapy,$28.00,GA
+AdventHealth Gordon,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$144.00,GA
+AdventHealth Gordon,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$71.00,GA
+AdventHealth Gordon,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$94.00,GA
+AdventHealth Gordon,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$140.00,GA
+AdventHealth Gordon,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$275.68,GA
+AdventHealth Gordon,Speech,HCPCS 92507,Speech Therapy,$308.95,GA
+AdventHealth Gordon,Speech,HCPCS 92610,Swallow Evaluation,$204.06,GA
+AdventHealth Gordon,Speech,HCPCS 92526,Swallow Treatment,$189.06,GA
+AdventHealth Gordon,Blood,HCPCS 85018,"Blood count, hemoglobin",$32.29,GA
+AdventHealth Gordon,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$29.76,GA
+AdventHealth Gordon,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$18.92,GA
+AdventHealth Gordon,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$27.06,GA
+AdventHealth Gordon,Blood,HCPCS 85610,"Blood test, clotting time",$66.95,GA
+AdventHealth Gordon,Blood,HCPCS 85730,Coagulation assessment blood test,$121.33,GA
+AdventHealth Gordon,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$29.59,GA
+AdventHealth Gordon,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$128.36,GA
+AdventHealth Gordon,Blood,HCPCS 85027,"Complete blood count, automated",$102.57,GA
+AdventHealth Gordon,Blood,HCPCS 85008,Microscopic examination for white blood cells,$4.00,GA
+AdventHealth Gordon,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$33.32,GA
+AdventHealth Gordon,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$76.86,GA
+AdventHealth Gordon,Blood,HCPCS 85660,Red blood cell sickling measurement,$69.47,GA
+AdventHealth Gordon,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$498.28,GA
+AdventHealth Gordon,Blood,HCPCS 85041,"Red blood count, automated test",$4.00,GA
+AdventHealth Gordon,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$287.89,GA
+AdventHealth Gordon,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$67.49,GA
+AdventHealth Gordon,Chemistry,HCPCS 82040,Albumin (protein) level,$37.91,GA
+AdventHealth Gordon,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$22.37,GA
+AdventHealth Gordon,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$24.56,GA
+AdventHealth Gordon,Chemistry,HCPCS 82140,Ammonia level,$122.19,GA
+AdventHealth Gordon,Chemistry,HCPCS 82150,Amylase (enzyme) level,$109.95,GA
+AdventHealth Gordon,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$36.95,GA
+AdventHealth Gordon,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$138.34,GA
+AdventHealth Gordon,Chemistry,HCPCS 84439,Assay of free thyroxine,$110.25,GA
+AdventHealth Gordon,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$38.55,GA
+AdventHealth Gordon,Chemistry,HCPCS 82248,Bilirubin level (Direct),$49.40,GA
+AdventHealth Gordon,Chemistry,HCPCS 82247,Bilirubin level (Total),$79.18,GA
+AdventHealth Gordon,Chemistry,HCPCS 82565,Blood creatinine level,$59.97,GA
+AdventHealth Gordon,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$24.61,GA
+AdventHealth Gordon,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$36.72,GA
+AdventHealth Gordon,Chemistry,HCPCS 84132,Blood potassium level,$42.71,GA
+AdventHealth Gordon,Chemistry,HCPCS 84295,Blood sodium level,$30.57,GA
+AdventHealth Gordon,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$69.63,GA
+AdventHealth Gordon,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$113.51,GA
+AdventHealth Gordon,Chemistry,HCPCS 82310,Calcium level,$68.88,GA
+AdventHealth Gordon,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$35.89,GA
+AdventHealth Gordon,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$119.95,GA
+AdventHealth Gordon,Chemistry,HCPCS 82465,Cholesterol level,$58.86,GA
+AdventHealth Gordon,Chemistry,HCPCS 82525,Copper level,$17.86,GA
+AdventHealth Gordon,Chemistry,HCPCS 82533,Cortisol Measurement,$103.64,GA
+AdventHealth Gordon,Chemistry,HCPCS 84681,C-peptide (protein) level,$50.05,GA
+AdventHealth Gordon,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$92.10,GA
+AdventHealth Gordon,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$89.96,GA
+AdventHealth Gordon,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$45.97,GA
+AdventHealth Gordon,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$151.72,GA
+AdventHealth Gordon,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$87.71,GA
+AdventHealth Gordon,Chemistry,HCPCS 82746,Folic acid; serum,$95.21,GA
+AdventHealth Gordon,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$114.06,GA
+AdventHealth Gordon,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$49.15,GA
+AdventHealth Gordon,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$83.96,GA
+AdventHealth Gordon,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$24.11,GA
+AdventHealth Gordon,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$35.16,GA
+AdventHealth Gordon,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$60.51,GA
+AdventHealth Gordon,Chemistry,HCPCS 83718,HDL cholesterol level,$50.64,GA
+AdventHealth Gordon,Chemistry,HCPCS 83020,Hemoglobin Measurement,$152.70,GA
+AdventHealth Gordon,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$51.45,GA
+AdventHealth Gordon,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$157.43,GA
+AdventHealth Gordon,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$94.78,GA
+AdventHealth Gordon,Chemistry,HCPCS 83525,Insulin Measurement; Total,$41.24,GA
+AdventHealth Gordon,Chemistry,HCPCS 82330,Ionized Calcium,$22.59,GA
+AdventHealth Gordon,Chemistry,HCPCS 83550,Iron Binding Capacity,$65.06,GA
+AdventHealth Gordon,Chemistry,HCPCS 83540,Iron level,$51.29,GA
+AdventHealth Gordon,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$50.44,GA
+AdventHealth Gordon,Chemistry,HCPCS 83721,LDL cholesterol level,$45.73,GA
+AdventHealth Gordon,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$118.28,GA
+AdventHealth Gordon,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$33.74,GA
+AdventHealth Gordon,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$33.22,GA
+AdventHealth Gordon,Chemistry,HCPCS 83021,Liver function blood test panel,$30.22,GA
+AdventHealth Gordon,Chemistry,HCPCS 83735,Magnesium Level,$71.97,GA
+AdventHealth Gordon,Chemistry,HCPCS 82542,Mass spectrometry,$102.37,GA
+AdventHealth Gordon,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$156.01,GA
+AdventHealth Gordon,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$122.70,GA
+AdventHealth Gordon,Chemistry,HCPCS 83918,Organic acid level,$253.32,GA
+AdventHealth Gordon,Chemistry,HCPCS 83945,Oxalate level,$57.83,GA
+AdventHealth Gordon,Chemistry,HCPCS 83970,Parathormone,$270.64,GA
+AdventHealth Gordon,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$9.00,GA
+AdventHealth Gordon,Chemistry,HCPCS 84157,Prealbumin (protein) level,$62.47,GA
+AdventHealth Gordon,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$89.96,GA
+AdventHealth Gordon,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$24.11,GA
+AdventHealth Gordon,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$199.00,GA
+AdventHealth Gordon,Chemistry,HCPCS A9270,Selenium (vitamin) level,$84.00,GA
+AdventHealth Gordon,Chemistry,HCPCS 82270,Stool analysis for blood,$33.39,GA
+AdventHealth Gordon,Chemistry,HCPCS 84403,Testosterone (hormone) level,$176.40,GA
+AdventHealth Gordon,Chemistry,HCPCS 84402,Testosterone Level; Free,$85.22,GA
+AdventHealth Gordon,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$75.96,GA
+AdventHealth Gordon,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$133.07,GA
+AdventHealth Gordon,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$58.12,GA
+AdventHealth Gordon,Chemistry,HCPCS 84155,"Total protein level, blood",$68.11,GA
+AdventHealth Gordon,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$48.86,GA
+AdventHealth Gordon,Chemistry,HCPCS 84166,Troponin (protein) analysis,$125.21,GA
+AdventHealth Gordon,Chemistry,HCPCS 84560,Uric acid level,$76.47,GA
+AdventHealth Gordon,Chemistry,HCPCS 84550,"Uric acid level, blood",$84.71,GA
+AdventHealth Gordon,Chemistry,HCPCS 82340,Urine calcium level,$38.47,GA
+AdventHealth Gordon,Chemistry,HCPCS 82436,Urine chloride level,$55.92,GA
+AdventHealth Gordon,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$29.31,GA
+AdventHealth Gordon,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$95.16,GA
+AdventHealth Gordon,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$53.42,GA
+AdventHealth Gordon,Chemistry,HCPCS 84133,Urine potassium level,$50.90,GA
+AdventHealth Gordon,Chemistry,HCPCS 84300,Urine sodium level,$55.47,GA
+AdventHealth Gordon,Chemistry,HCPCS 84591,Vitamin B-6 level,$84.00,GA
+AdventHealth Gordon,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$39.18,GA
+AdventHealth Gordon,Chemistry,HCPCS 84630,Zinc level,$27.30,GA
+AdventHealth Gordon,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$211.09,GA
+AdventHealth Gordon,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$34.21,GA
+AdventHealth Gordon,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$67.40,GA
+AdventHealth Gordon,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$72.21,GA
+AdventHealth Gordon,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$90.54,GA
+AdventHealth Gordon,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$154.32,GA
+AdventHealth Gordon,Immunology,HCPCS 86318,Covid-19 antibody test,$63.80,GA
+AdventHealth Gordon,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$64.20,GA
+AdventHealth Gordon,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$31.80,GA
+AdventHealth Gordon,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$130.33,GA
+AdventHealth Gordon,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$127.44,GA
+AdventHealth Gordon,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$81.25,GA
+AdventHealth Gordon,Immunology,HCPCS 86140,Measurement C-reactive protein,$117.96,GA
+AdventHealth Gordon,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$10.49,GA
+AdventHealth Gordon,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$59.07,GA
+AdventHealth Gordon,Immunology,HCPCS 86161,Measurement of complement (immune system proteins),$42.68,GA
+AdventHealth Gordon,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$31.80,GA
+AdventHealth Gordon,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$124.54,GA
+AdventHealth Gordon,Immunology,HCPCS 86431,Rheumatoid factor level,$201.01,GA
+AdventHealth Gordon,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$115.85,GA
+AdventHealth Gordon,Immunology,HCPCS 86580,Skin test for tuberculosis,$10.00,GA
+AdventHealth Gordon,Immunology,HCPCS 86592,Syphilis Detection Test,$35.83,GA
+AdventHealth Gordon,Immunology,HCPCS 86361,T cell count and ratio,$199.95,GA
+AdventHealth Gordon,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$199.95,GA
+AdventHealth Gordon,Immunology,HCPCS 86359,"T cells count, total",$42.00,GA
+AdventHealth Gordon,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$85.70,GA
+AdventHealth Gordon,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$43.05,GA
+AdventHealth Gordon,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$20.38,GA
+AdventHealth Gordon,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$89.86,GA
+AdventHealth Gordon,Microbiology,HCPCS 87491,Chlamydia Test,$32.82,GA
+AdventHealth Gordon,Microbiology,HCPCS 87635,Covid-19 current infection test,$52.00,GA
+AdventHealth Gordon,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$108.78,GA
+AdventHealth Gordon,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$109.32,GA
+AdventHealth Gordon,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$205.90,GA
+AdventHealth Gordon,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$30.65,GA
+AdventHealth Gordon,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$212.91,GA
+AdventHealth Gordon,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$37.43,GA
+AdventHealth Gordon,Microbiology,HCPCS 87517,Hepatitis B Detection,$208.35,GA
+AdventHealth Gordon,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$41.19,GA
+AdventHealth Gordon,Microbiology,HCPCS 87624,HPV Detection,$86.01,GA
+AdventHealth Gordon,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$28.35,GA
+AdventHealth Gordon,Microbiology,HCPCS 86735,Mumps virus antibody test,$18.52,GA
+AdventHealth Gordon,Microbiology,HCPCS 86747,Parvovirus antibody test,$97.05,GA
+AdventHealth Gordon,Microbiology,HCPCS 86762,Rubella virus antibody test,$56.42,GA
+AdventHealth Gordon,Microbiology,HCPCS 86765,Rubeola virus antibody test,$37.61,GA
+AdventHealth Gordon,Microbiology,HCPCS 87207,Smear for infectious agents,$117.64,GA
+AdventHealth Gordon,Microbiology,HCPCS 87177,Smear for Parasites,$135.67,GA
+AdventHealth Gordon,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$115.28,GA
+AdventHealth Gordon,Microbiology,HCPCS 87045,Stool Culture,$108.76,GA
+AdventHealth Gordon,Microbiology,HCPCS 87880,Strep Test,$101.85,GA
+AdventHealth Gordon,Microbiology,HCPCS 87804,Test for Influenza Virus,$102.71,GA
+AdventHealth Gordon,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$37.61,GA
+AdventHealth Gordon,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$100.70,GA
+AdventHealth Gordon,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$276.64,GA
+AdventHealth Gordon,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$56.06,GA
+AdventHealth Gordon,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$176.13,GA
+AdventHealth Gordon,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$239.27,GA
+AdventHealth Gordon,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$104.39,GA
+AdventHealth Gordon,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$147.05,GA
+AdventHealth Gordon,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$165.30,GA
+AdventHealth Gordon,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$103.33,GA
+AdventHealth Gordon,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$321.25,GA
+AdventHealth Gordon,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$158.25,GA
+AdventHealth Gordon,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$153.95,GA
+AdventHealth Gordon,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$80.87,GA
+AdventHealth Gordon,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$138.34,GA
+AdventHealth Gordon,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$141.29,GA
+AdventHealth Gordon,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$67.71,GA
+AdventHealth Gordon,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$111.76,GA
+AdventHealth Gordon,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$91.38,GA
+AdventHealth Gordon,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$55.93,GA
+AdventHealth Gordon,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$162.78,GA
+AdventHealth Gordon,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$146.52,GA
+AdventHealth Gordon,Transfusion,HCPCS 86900,"Blood Typing, ABO",$99.08,GA
+AdventHealth Gordon,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$92.89,GA
+AdventHealth Gordon,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$212.42,GA
+AdventHealth Gordon,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$31.65,GA
+AdventHealth Gordon,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$9.00,GA
+AdventHealth Gordon,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$168.50,GA
+AdventHealth Gordon,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$24.36,GA
+AdventHealth Gordon,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$24.73,GA
+AdventHealth Gordon,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$74.18,GA
+AdventHealth Gordon,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$153.31,GA
+AdventHealth Gordon,Cardiovascular,HCPCS 93015,"Cardiovascular stress test, with interpretation and report",$70.00,GA
+AdventHealth Gordon,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$1,410.24",GA
+AdventHealth Gordon,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$17.00,GA
+AdventHealth Gordon,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$324.71,GA
+AdventHealth Gordon,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$119.43,GA
+AdventHealth Gordon,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,"$1,888.16",GA
+AdventHealth Gordon,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$9.00,GA
+AdventHealth Gordon,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),$158.00,GA
+AdventHealth Gordon,Cardiovascular,HCPCS 93975,Ultrasound Heart,$271.00,GA
+AdventHealth Gordon,Pulmonary,HCPCS 94640,Aerosol Treatment,$274.44,GA
+AdventHealth Gordon,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$283.01,GA
+AdventHealth Gordon,Pulmonary,HCPCS 94618,Pulmonary stress test,$34.00,GA
+AdventHealth Gordon,Pulmonary,HCPCS 94010,Spirometry - breathing test,$162.71,GA
+AdventHealth Gordon,Sleep,HCPCS 95810,Sleep study,"$3,598.54",GA
+AdventHealth Gordon,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$55.00,GA
+AdventHealth Gordon,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$201.92,GA
+AdventHealth Gordon,Breast,HCPCS 77067,Mammogram Screening,$185.87,GA
+AdventHealth Gordon,Breast,HCPCS 77066,Mammography of both breasts,$239.90,GA
+AdventHealth Gordon,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,$455.11,GA
+AdventHealth Gordon,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$722.20,GA
+AdventHealth Gordon,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,089.49",GA
+AdventHealth Gordon,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,084.07",GA
+AdventHealth Gordon,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$2,809.78",GA
+AdventHealth Gordon,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,531.16",GA
+AdventHealth Gordon,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,585.39",GA
+AdventHealth Gordon,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,157.88",GA
+AdventHealth Gordon,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,348.87",GA
+AdventHealth Gordon,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$975.00,GA
+AdventHealth Gordon,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$862.66,GA
+AdventHealth Gordon,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,194.15",GA
+AdventHealth Gordon,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,153.87",GA
+AdventHealth Gordon,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,492.63",GA
+AdventHealth Gordon,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,283.14",GA
+AdventHealth Gordon,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,425.21",GA
+AdventHealth Gordon,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,951.40",GA
+AdventHealth Gordon,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,212.00",GA
+AdventHealth Gordon,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$2,685.19",GA
+AdventHealth Gordon,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,249.68",GA
+AdventHealth Gordon,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,831.47",GA
+AdventHealth Gordon,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,524.99",GA
+AdventHealth Gordon,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,962.21",GA
+AdventHealth Gordon,MRI,HCPCS 73721,MRI scan of leg joint,"$2,327.26",GA
+AdventHealth Gordon,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$448.48,GA
+AdventHealth Gordon,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$176.65,GA
+AdventHealth Gordon,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$927.01,GA
+AdventHealth Gordon,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$254.35,GA
+AdventHealth Gordon,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$268.13,GA
+AdventHealth Gordon,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$370.64,GA
+AdventHealth Gordon,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$384.22,GA
+AdventHealth Gordon,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$898.47,GA
+AdventHealth Gordon,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$393.71,GA
+AdventHealth Gordon,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$336.29,GA
+AdventHealth Gordon,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$229.02,GA
+AdventHealth Gordon,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$201.60,GA
+AdventHealth Gordon,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$257.00,GA
+AdventHealth Gordon,Chest,HCPCS 71046,X-ray of chest; 2 Views,$374.20,GA
+AdventHealth Gordon,Chest,HCPCS 71045,X-ray of chest; Single View,$338.57,GA
+AdventHealth Gordon,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$187.86,GA
+AdventHealth Gordon,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$170.61,GA
+AdventHealth Gordon,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$141.77,GA
+AdventHealth Gordon,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$275.66,GA
+AdventHealth Gordon,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$153.96,GA
+AdventHealth Gordon,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$121.46,GA
+AdventHealth Gordon,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$86.87,GA
+AdventHealth Gordon,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$187.35,GA
+AdventHealth Gordon,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$51.00,GA
+AdventHealth Gordon,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$123.79,GA
+AdventHealth Gordon,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$120.42,GA
+AdventHealth Gordon,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$349.62,GA
+AdventHealth Gordon,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$130.96,GA
+AdventHealth Gordon,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$107.89,GA
+AdventHealth Gordon,Lower Limbs,HCPCS 73565,X-ray Both Knees,$179.11,GA
+AdventHealth Gordon,Lower Limbs,HCPCS 73630,X-ray exam of foot,$116.07,GA
+AdventHealth Gordon,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$146.06,GA
+AdventHealth Gordon,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$129.89,GA
+AdventHealth Gordon,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$130.96,GA
+AdventHealth Gordon,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$90.75,GA
+AdventHealth Gordon,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$106.35,GA
+AdventHealth Gordon,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$182.18,GA
+AdventHealth Gordon,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$140.49,GA
+AdventHealth Gordon,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$274.21,GA
+AdventHealth Gordon,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$538.55,GA
+AdventHealth Gordon,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$58.00,GA
+AdventHealth Gordon,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$180.33,GA
+AdventHealth Gordon,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$128.12,GA
+AdventHealth Gordon,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$104.17,GA
+AdventHealth Gordon,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$109.45,GA
+AdventHealth Gordon,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$130.96,GA
+AdventHealth Gordon,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$128.21,GA
+AdventHealth Gordon,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$149.19,GA
+AdventHealth Gordon,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$130.96,GA
+AdventHealth Gordon,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$108.19,GA
+AdventHealth Gordon,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,$384.00,GA
+AdventHealth Gordon,Abdomenal,HCPCS 47562,Cholecystectomy,$711.00,GA
+AdventHealth Gordon,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,$774.00,GA
+AdventHealth Gordon,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,$411.00,GA
+AdventHealth Gordon,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,$435.00,GA
+AdventHealth Gordon,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,$210.00,GA
+AdventHealth Gordon,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),$560.00,GA
+AdventHealth Gordon,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$12.39,GA
+AdventHealth Gordon,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$46.00,GA
+AdventHealth Gordon,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,"$1,673.00",GA
+AdventHealth Gordon,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),$647.00,GA
+AdventHealth Gordon,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,$762.00,GA
+AdventHealth Gordon,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,$461.00,GA
+AdventHealth Gordon,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,$914.00,GA
+AdventHealth Gordon,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$1,004.00",GA
+AdventHealth Gordon,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$24,596.22",GA
+AdventHealth Gordon,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),$631.00,GA
+AdventHealth Gordon,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),$477.00,GA
+AdventHealth Gordon,Breast,HCPCS 19101,Biopsy of breast,$345.00,GA
+AdventHealth Gordon,Breast,HCPCS 19325,Breast enlargement using prosthetic implant,$675.00,GA
+AdventHealth Gordon,Breast,HCPCS 19125,Excision of breast lesion,$584.00,GA
+AdventHealth Gordon,Breast,HCPCS 19120,Excision of cyst of breast,$527.00,GA
+AdventHealth Gordon,Breast,HCPCS 19301,Partial removal of breast,$705.00,GA
+AdventHealth Gordon,Breast,HCPCS 19318,Reduction mammaplasty,"$1,153.00",GA
+AdventHealth Gordon,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$1,291.00",GA
+AdventHealth Gordon,Breast,HCPCS 19303,Total removal of breast,"$1,030.00",GA
+AdventHealth Gordon,Cardiac,HCPCS 33249,Defibrillator complete system,$984.00,GA
+AdventHealth Gordon,Cardiac,HCPCS 33240,Defibrillator generator,$391.00,GA
+AdventHealth Gordon,Cardiac,HCPCS 93452,Diagnostic heart catheterization,$905.00,GA
+AdventHealth Gordon,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),$829.00,GA
+AdventHealth Gordon,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$365.99,GA
+AdventHealth Gordon,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,$379.00,GA
+AdventHealth Gordon,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",$333.00,GA
+AdventHealth Gordon,Digestive,HCPCS 45380,"Colonoscopy, with biopsy",$426.00,GA
+AdventHealth Gordon,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal",$477.00,GA
+AdventHealth Gordon,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)",$448.00,GA
+AdventHealth Gordon,Digestive,HCPCS 43235,EGD,$280.00,GA
+AdventHealth Gordon,Digestive,HCPCS 43239,EGD and biopsy,$371.00,GA
+AdventHealth Gordon,Digestive,HCPCS 43775,Gastric Sleeve (Outpatient),"$1,220.00",GA
+AdventHealth Gordon,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,$531.00,GA
+AdventHealth Gordon,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,$504.00,GA
+AdventHealth Gordon,Digestive,HCPCS 45391,Ultrasound of lower large bowel using an endoscope,$269.00,GA
+AdventHealth Gordon,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,$918.00,GA
+AdventHealth Gordon,General,HCPCS 55700,Biopsy of prostate gland,$251.00,GA
+AdventHealth Gordon,General,HCPCS 10060,Drainage of Abscess,$452.21,GA
+AdventHealth Gordon,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$151.00,GA
+AdventHealth Gordon,General,HCPCS 55866,Prostatectomy,"$1,512.00",GA
+AdventHealth Gordon,General,HCPCS 69200,Removal of foreign body from ear canal,$82.00,GA
+AdventHealth Gordon,General,HCPCS 60240,Removal of thyroid,$975.00,GA
+AdventHealth Gordon,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$114.00,GA
+AdventHealth Gordon,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$176.00,GA
+AdventHealth Gordon,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$113.00,GA
+AdventHealth Gordon,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$92.00,GA
+AdventHealth Gordon,Head,HCPCS 69436,Create eardrum opening,$161.00,GA
+AdventHealth Gordon,Head,HCPCS 69930,Implantation of cochlear device,"$1,251.00",GA
+AdventHealth Gordon,Head,HCPCS 67028,Injection of drug into the eye,$102.00,GA
+AdventHealth Gordon,Head,HCPCS 69631,Repair of eardrum,$893.00,GA
+AdventHealth Gordon,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),$259.00,GA
+AdventHealth Gordon,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),$298.00,GA
+AdventHealth Gordon,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$291.00,GA
+AdventHealth Gordon,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$1,368.47",GA
+AdventHealth Gordon,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$1,237.74",GA
+AdventHealth Gordon,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$1,382.82",GA
+AdventHealth Gordon,Musculoskeletal,HCPCS 27200,Insertion of Breathing Tube Using an Endoscope,$194.00,GA
+AdventHealth Gordon,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$682.83,GA
+AdventHealth Gordon,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,$565.00,GA
+AdventHealth Gordon,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,$650.00,GA
+AdventHealth Gordon,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,$379.00,GA
+AdventHealth Gordon,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,$705.00,GA
+AdventHealth Gordon,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,$186.00,GA
+AdventHealth Gordon,Musculoskeletal,HCPCS 22612,Spine arthrodesis,"$1,706.00",GA
+AdventHealth Gordon,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$266.01,GA
+AdventHealth Gordon,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,$945.00,GA
+AdventHealth Gordon,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$1,369.00",GA
+AdventHealth Gordon,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,$754.00,GA
+AdventHealth Gordon,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,$690.00,GA
+AdventHealth Gordon,Obstetrics,HCPCS 58545,Removal of uterine fibroid tumors using an endoscope,$953.00,GA
+AdventHealth Gordon,Obstetrics,HCPCS 59400,Routine obstetric care,"$2,296.00",GA
+AdventHealth Gordon,Obstetrics,HCPCS 59510,"Routine obstetric care for cesarean delivery, including pre-and postdelivery care","$2,539.00",GA
+AdventHealth Gordon,Obstetrics,HCPCS 59610,Routine obstetric care for vaginal delivery after prior cesarean delivery including pre-and post-delivery care,"$2,410.00",GA
+AdventHealth Gordon,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries",$981.00,GA
+AdventHealth Gordon,Ocular,HCPCS 66984,Cataract removal,$547.00,GA
+AdventHealth Gordon,Ocular,HCPCS 66982,Cataract removal with insertion of lens,$751.00,GA
+AdventHealth Gordon,Ocular,HCPCS 66821,Laser cataract removal,$330.00,GA
+AdventHealth Gordon,Ocular,HCPCS 67311,Realignment of the eye with repair of eye muscle,$597.00,GA
+AdventHealth Gordon,Ocular,HCPCS 65426,Removal or relocation of corneal conjunctiva,$659.00,GA
+AdventHealth Gordon,Ocular,HCPCS 67108,Repair of detached retina,"$1,201.00",GA
+AdventHealth Gordon,Ocular,HCPCS 65756,Transplant of outer layer of corneal tissue,"$1,186.00",GA
+AdventHealth Gordon,Soft Tissue,HCPCS 97597,Debridement of open wound,$377.39,GA
+AdventHealth Gordon,Soft Tissue,HCPCS 97602,Non-selective debridement,$154.49,GA
+AdventHealth Gordon,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$92.91,GA
+AdventHealth Gordon,Vascular,HCPCS 36416,Collection of capillary blood specimen,$13.38,GA
+AdventHealth Gordon,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),$214.00,GA
+AdventHealth Gordon,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,293.22",GA
+AdventHealth Gordon,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,$232.00,GA
