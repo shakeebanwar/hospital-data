@@ -1,0 +1,324 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Riverview Regional Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$163.94,TN
+Riverview Regional Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$295.75,TN
+Riverview Regional Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$445.19,TN
+Riverview Regional Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,$612.50,TN
+Riverview Regional Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,$900.87,TN
+Riverview Regional Medical Center,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$155.09,TN
+Riverview Regional Medical Center,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$155.09,TN
+Riverview Regional Medical Center,Psychology,HCPCS 90853,Group psychotherapy,$322.96,TN
+Riverview Regional Medical Center,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$136.85,TN
+Riverview Regional Medical Center,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$140.50,TN
+Riverview Regional Medical Center,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$155.09,TN
+Riverview Regional Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$190.01,TN
+Riverview Regional Medical Center,Speech,HCPCS 92507,Speech Therapy,$144.87,TN
+Riverview Regional Medical Center,Speech,HCPCS 92610,Swallow Evaluation,$161.23,TN
+Riverview Regional Medical Center,Speech,HCPCS 92526,Swallow Treatment,$165.54,TN
+Riverview Regional Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$24.60,TN
+Riverview Regional Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$31.73,TN
+Riverview Regional Medical Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$40.15,TN
+Riverview Regional Medical Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$56.33,TN
+Riverview Regional Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$34.97,TN
+Riverview Regional Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$39.49,TN
+Riverview Regional Medical Center,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$18.78,TN
+Riverview Regional Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$90.01,TN
+Riverview Regional Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$29.13,TN
+Riverview Regional Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$56.33,TN
+Riverview Regional Medical Center,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$66.68,TN
+Riverview Regional Medical Center,Blood,HCPCS 85660,Red blood cell sickling measurement,$17.49,TN
+Riverview Regional Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$594.19,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$144.39,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$241.51,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$30.43,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$143.73,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$98.42,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 82140,Ammonia level,$98.42,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$83.52,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$95.84,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$123.66,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$59.57,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$67.99,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$40.79,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$55.68,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$38.20,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$49.86,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$34.32,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$33.66,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$101.01,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 82310,Calcium level,$34.32,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$39.49,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$99.72,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 82465,Cholesterol level,$66.68,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 82525,Copper level,$27.84,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$78.33,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$63.45,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$36.27,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$87.41,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$243.45,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$141.15,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$67.99,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$53.09,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$77.05,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$45.97,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$53.74,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$119.79,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$119.13,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$80.94,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 83718,HDL cholesterol level,$62.16,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 83020,Hemoglobin Measurement,$97.77,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$138.57,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$62.16,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$82.88,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$34.97,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$83.22,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$40.79,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 83540,Iron level,$34.32,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$33.66,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 83721,LDL cholesterol level,$69.27,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$60.86,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$26.55,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$135.33,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 83021,Liver function blood test panel,$40.79,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$56.98,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 82542,Mass spectrometry,$148.16,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$22.01,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$91.95,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 83918,Organic acid level,$135.97,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 83945,Oxalate level,$39.49,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 83970,Parathormone,$131.44,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$35.61,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$63.91,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$41.44,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$58.92,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$126.92,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$19.43,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$79.00,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$114.60,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$91.95,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$118.48,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$45.97,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$22.67,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$67.34,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 84478,Triglycerides level,$49.21,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$64.10,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 84560,Uric acid level,$47.26,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$60.86,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$48.57,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 82436,Urine chloride level,$32.38,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$56.33,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$45.97,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$121.08,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$23.31,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$27.19,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 84591,Vitamin B-6 level,$305.62,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$90.65,TN
+Riverview Regional Medical Center,Chemistry,HCPCS 84630,Zinc level,$25.90,TN
+Riverview Regional Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$66.05,TN
+Riverview Regional Medical Center,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$92.59,TN
+Riverview Regional Medical Center,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$45.97,TN
+Riverview Regional Medical Center,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$47.26,TN
+Riverview Regional Medical Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$69.27,TN
+Riverview Regional Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$165.76,TN
+Riverview Regional Medical Center,Immunology,HCPCS 86318,Covid-19 antibody test,$106.84,TN
+Riverview Regional Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$58.27,TN
+Riverview Regional Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$46.62,TN
+Riverview Regional Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$70.57,TN
+Riverview Regional Medical Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$123.66,TN
+Riverview Regional Medical Center,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$50.51,TN
+Riverview Regional Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$38.85,TN
+Riverview Regional Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$22.78,TN
+Riverview Regional Medical Center,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$582.74,TN
+Riverview Regional Medical Center,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$99.06,TN
+Riverview Regional Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$35.61,TN
+Riverview Regional Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$56.33,TN
+Riverview Regional Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$38.85,TN
+Riverview Regional Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$71.23,TN
+Riverview Regional Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$42.73,TN
+Riverview Regional Medical Center,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$387.84,TN
+Riverview Regional Medical Center,Immunology,HCPCS 86359,"T cells count, total",$311.43,TN
+Riverview Regional Medical Center,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$128.85,TN
+Riverview Regional Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$97.13,TN
+Riverview Regional Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$89.36,TN
+Riverview Regional Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$107.48,TN
+Riverview Regional Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$66.56,TN
+Riverview Regional Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$98.42,TN
+Riverview Regional Medical Center,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$97.77,TN
+Riverview Regional Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$42.09,TN
+Riverview Regional Medical Center,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$259.64,TN
+Riverview Regional Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$107.48,TN
+Riverview Regional Medical Center,Microbiology,HCPCS 87517,Hepatitis B Detection,$209.78,TN
+Riverview Regional Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$41.33,TN
+Riverview Regional Medical Center,Microbiology,HCPCS 87624,HPV Detection,$60.23,TN
+Riverview Regional Medical Center,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$71.87,TN
+Riverview Regional Medical Center,Microbiology,HCPCS 86735,Mumps virus antibody test,$125.61,TN
+Riverview Regional Medical Center,Microbiology,HCPCS 86747,Parvovirus antibody test,$33.66,TN
+Riverview Regional Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$115.90,TN
+Riverview Regional Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$92.59,TN
+Riverview Regional Medical Center,Microbiology,HCPCS 87207,Smear for infectious agents,$22.67,TN
+Riverview Regional Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$73.16,TN
+Riverview Regional Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$32.38,TN
+Riverview Regional Medical Center,Microbiology,HCPCS 87045,Stool Culture,$117.85,TN
+Riverview Regional Medical Center,Microbiology,HCPCS 87880,Streptoccus,$78.92,TN
+Riverview Regional Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$37.55,TN
+Riverview Regional Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$79.64,TN
+Riverview Regional Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$82.88,TN
+Riverview Regional Medical Center,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$90.37,TN
+Riverview Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$229.21,TN
+Riverview Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$105.54,TN
+Riverview Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$142.45,TN
+Riverview Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$106.84,TN
+Riverview Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$82.23,TN
+Riverview Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$127.55,TN
+Riverview Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$475.91,TN
+Riverview Regional Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$100.89,TN
+Riverview Regional Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$47.26,TN
+Riverview Regional Medical Center,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$62.81,TN
+Riverview Regional Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$69.27,TN
+Riverview Regional Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$106.84,TN
+Riverview Regional Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$75.11,TN
+Riverview Regional Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$75.11,TN
+Riverview Regional Medical Center,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$55.68,TN
+Riverview Regional Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$120.43,TN
+Riverview Regional Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$63.45,TN
+Riverview Regional Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$112.02,TN
+Riverview Regional Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$70.57,TN
+Riverview Regional Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$38.20,TN
+Riverview Regional Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$32.38,TN
+Riverview Regional Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$202.02,TN
+Riverview Regional Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$57.63,TN
+Riverview Regional Medical Center,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$167.70,TN
+Riverview Regional Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$93.23,TN
+Riverview Regional Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$18.78,TN
+Riverview Regional Medical Center,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$10.36,TN
+Riverview Regional Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$56.98,TN
+Riverview Regional Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$42.81,TN
+Riverview Regional Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$692.80,TN
+Riverview Regional Medical Center,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$49.01,TN
+Riverview Regional Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$161.23,TN
+Riverview Regional Medical Center,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$59.57,TN
+Riverview Regional Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$191.02,TN
+Riverview Regional Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,072.23",TN
+Riverview Regional Medical Center,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$171.59,TN
+Riverview Regional Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,$108.88,TN
+Riverview Regional Medical Center,Pulmonary,HCPCS 94618,Pulmonary stress test,$152.56,TN
+Riverview Regional Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$216.91,TN
+Riverview Regional Medical Center,Sleep,HCPCS 95810,Sleep study,"$1,689.28",TN
+Riverview Regional Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$9.12,TN
+Riverview Regional Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$152.81,TN
+Riverview Regional Medical Center,Breast,HCPCS 77067,Mammogram Screening,$209.67,TN
+Riverview Regional Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$218.21,TN
+Riverview Regional Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,747.55",TN
+Riverview Regional Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,047.62",TN
+Riverview Regional Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$877.99,TN
+Riverview Regional Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$808.05,TN
+Riverview Regional Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,107.29",TN
+Riverview Regional Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,213.05",TN
+Riverview Regional Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,144.02",TN
+Riverview Regional Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,096.18",TN
+Riverview Regional Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,569.49",TN
+Riverview Regional Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,166.11",TN
+Riverview Regional Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,304.68",TN
+Riverview Regional Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,249.63",TN
+Riverview Regional Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$980.29,TN
+Riverview Regional Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,932.73",TN
+Riverview Regional Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,670.50",TN
+Riverview Regional Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,680.86",TN
+Riverview Regional Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,145.11",TN
+Riverview Regional Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,601.22",TN
+Riverview Regional Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$2,423.53",TN
+Riverview Regional Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,722.30",TN
+Riverview Regional Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,971.29",TN
+Riverview Regional Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,337.40",TN
+Riverview Regional Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,691.87",TN
+Riverview Regional Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$2,373.03",TN
+Riverview Regional Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$218.85,TN
+Riverview Regional Medical Center,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$315.65,TN
+Riverview Regional Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$419.57,TN
+Riverview Regional Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$328.27,TN
+Riverview Regional Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$376.84,TN
+Riverview Regional Medical Center,Ultrasound,HCPCS 76881,Ultrasound Joint Soft Tissue - Complete,$198.52,TN
+Riverview Regional Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$573.03,TN
+Riverview Regional Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$401.44,TN
+Riverview Regional Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$196.18,TN
+Riverview Regional Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$440.29,TN
+Riverview Regional Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$440.29,TN
+Riverview Regional Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$274.54,TN
+Riverview Regional Medical Center,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$111.37,TN
+Riverview Regional Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$179.35,TN
+Riverview Regional Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$125.61,TN
+Riverview Regional Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$154.75,TN
+Riverview Regional Medical Center,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$292.66,TN
+Riverview Regional Medical Center,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$272.59,TN
+Riverview Regional Medical Center,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$165.10,TN
+Riverview Regional Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$358.71,TN
+Riverview Regional Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$195.54,TN
+Riverview Regional Medical Center,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$183.88,TN
+Riverview Regional Medical Center,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$323.74,TN
+Riverview Regional Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$161.25,TN
+Riverview Regional Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$97.37,TN
+Riverview Regional Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$157.34,TN
+Riverview Regional Medical Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$190.36,TN
+Riverview Regional Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$128.20,TN
+Riverview Regional Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$205.90,TN
+Riverview Regional Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$396.26,TN
+Riverview Regional Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$174.81,TN
+Riverview Regional Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$137.91,TN
+Riverview Regional Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$97.37,TN
+Riverview Regional Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$357.89,TN
+Riverview Regional Medical Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$162.52,TN
+Riverview Regional Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$131.44,TN
+Riverview Regional Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$295.26,TN
+Riverview Regional Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$204.61,TN
+Riverview Regional Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$356.76,TN
+Riverview Regional Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$330.22,TN
+Riverview Regional Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$332.16,TN
+Riverview Regional Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$242.81,TN
+Riverview Regional Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$162.52,TN
+Riverview Regional Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$150.22,TN
+Riverview Regional Medical Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$106.33,TN
+Riverview Regional Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$191.66,TN
+Riverview Regional Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$163.17,TN
+Riverview Regional Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$79.00,TN
+Riverview Regional Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$184.54,TN
+Riverview Regional Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$187.77,TN
+Riverview Regional Medical Center,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,$828.90,TN
+Riverview Regional Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$11,778.80",TN
+Riverview Regional Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$13,706.63",TN
+Riverview Regional Medical Center,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,$688.17,TN
+Riverview Regional Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$8,380.36",TN
+Riverview Regional Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$72.19,TN
+Riverview Regional Medical Center,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$79.99,TN
+Riverview Regional Medical Center,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$19,898.20",TN
+Riverview Regional Medical Center,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$11,993.37",TN
+Riverview Regional Medical Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$17,226.33",TN
+Riverview Regional Medical Center,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$16,743.62",TN
+Riverview Regional Medical Center,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$6,633.70",TN
+Riverview Regional Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$7,427.27",TN
+Riverview Regional Medical Center,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$323.74,TN
+Riverview Regional Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,143.11",TN
+Riverview Regional Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,382.14",TN
+Riverview Regional Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,349.94",TN
+Riverview Regional Medical Center,Digestive,HCPCS 43235,EGD,"$1,168.46",TN
+Riverview Regional Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$1,211.10",TN
+Riverview Regional Medical Center,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$6,742.50",TN
+Riverview Regional Medical Center,General,HCPCS 10060,Drainage of Abscess,$166.05,TN
+Riverview Regional Medical Center,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$337.34,TN
+Riverview Regional Medical Center,General,HCPCS 69200,Removal of foreign body from ear canal,$75.85,TN
+Riverview Regional Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$192.29,TN
+Riverview Regional Medical Center,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$207.55,TN
+Riverview Regional Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$138.87,TN
+Riverview Regional Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$151.12,TN
+Riverview Regional Medical Center,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$197.62,TN
+Riverview Regional Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$4,714.24",TN
+Riverview Regional Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$22,125.55",TN
+Riverview Regional Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$2,294.21",TN
+Riverview Regional Medical Center,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$2,572.84",TN
+Riverview Regional Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$2,391.70",TN
+Riverview Regional Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$231.80,TN
+Riverview Regional Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$6,999.63",TN
+Riverview Regional Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$3,539.10",TN
+Riverview Regional Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$202.02,TN
+Riverview Regional Medical Center,Soft Tissue,HCPCS 97602,Non-selective debridement,$97.18,TN
+Riverview Regional Medical Center,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,484.73",TN
+Riverview Regional Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$867.64,TN
+Riverview Regional Medical Center,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$5,354.72",TN

@@ -1,0 +1,318 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Morristown-Hamblen Healthcare System,Emergency Care,HCPCS 99281,Emergency Level 1,$38.84,TN
+Morristown-Hamblen Healthcare System,Emergency Care,HCPCS 99282,Emergency Level 2,$81.19,TN
+Morristown-Hamblen Healthcare System,Emergency Care,HCPCS 99283,Emergency Level 3,$232.79,TN
+Morristown-Hamblen Healthcare System,Emergency Care,HCPCS 99284,Emergency Level 4,$766.42,TN
+Morristown-Hamblen Healthcare System,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,057.78",TN
+Morristown-Hamblen Healthcare System,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$197.68,TN
+Morristown-Hamblen Healthcare System,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min","$3,770.22",TN
+Morristown-Hamblen Healthcare System,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$243.32,TN
+Morristown-Hamblen Healthcare System,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$205.80,TN
+Morristown-Hamblen Healthcare System,Speech,HCPCS 92507,Speech Therapy,$238.01,TN
+Morristown-Hamblen Healthcare System,Speech,HCPCS 92610,Swallow Evaluation,$210.00,TN
+Morristown-Hamblen Healthcare System,Speech,HCPCS 92526,Swallow Treatment,$216.16,TN
+Morristown-Hamblen Healthcare System,Blood,HCPCS 85018,"Blood count, hemoglobin",$6.72,TN
+Morristown-Hamblen Healthcare System,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$6.72,TN
+Morristown-Hamblen Healthcare System,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$9.52,TN
+Morristown-Hamblen Healthcare System,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$17.64,TN
+Morristown-Hamblen Healthcare System,Blood,HCPCS 85610,"Blood test, clotting time",$7.84,TN
+Morristown-Hamblen Healthcare System,Blood,HCPCS 85730,Coagulation assessment blood test,$12.04,TN
+Morristown-Hamblen Healthcare System,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$22.96,TN
+Morristown-Hamblen Healthcare System,Blood,HCPCS 85027,"Complete blood count, automated",$13.16,TN
+Morristown-Hamblen Healthcare System,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$7.00,TN
+Morristown-Hamblen Healthcare System,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$26.60,TN
+Morristown-Hamblen Healthcare System,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$1,107.13",TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$19.88,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 82040,Albumin (protein) level,$9.52,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$10.36,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$9.24,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 82140,Ammonia level,$41.16,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 82150,Amylase (enzyme) level,$13.16,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$10.92,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 84439,Assay of free thyroxine,$18.20,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$8.68,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 82248,Bilirubin level (Direct),$4.48,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 82247,Bilirubin level (Total),$4.20,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 82565,Blood creatinine level,$9.80,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$7.56,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 84295,Blood sodium level,$9.80,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$4.48,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$33.88,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 82310,Calcium level,$10.36,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$38.36,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 82465,Cholesterol level,$8.68,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 82525,Copper level,$12.32,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 82533,Cortisol Measurement,$32.76,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 84681,C-peptide (protein) level,$12.60,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$13.16,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$30.24,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$25.48,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$27.44,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 82746,Folic acid; serum,$29.68,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$30.24,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$14.56,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$19.60,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$37.52,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$37.24,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$25.48,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 83020,Hemoglobin Measurement,$14.31,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$14.56,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$17.64,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 83520,IgE (immune system protein) level,$44.80,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 83525,Insulin Measurement; Total,$22.68,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 82330,Ionized Calcium,$27.44,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 83540,Iron level,$13.16,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$12.04,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$14.00,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$10.08,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$28.56,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 83021,Liver function blood test panel,$14.47,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 83735,Magnesium Level,$13.44,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 82542,Mass spectrometry,$48.91,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$42.00,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 83945,Oxalate level,$10.36,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 83970,Parathormone,$83.16,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 84157,Prealbumin (protein) level,$7.28,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$55.44,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$54.60,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$8.68,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS A9270,Selenium (vitamin) level,"$2,560.51",TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 84403,Testosterone (hormone) level,$20.72,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 84402,Testosterone Level; Free,$16.80,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$13.72,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 84155,"Total protein level, blood",$7.00,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$7.28,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 84478,Triglycerides level,$11.48,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 84166,Troponin (protein) analysis,$8.68,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 84560,Uric acid level,$3.64,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 84550,"Uric acid level, blood",$8.96,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 82340,Urine calcium level,$4.48,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 82436,Urine chloride level,$3.92,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$4.76,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$5.32,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$11.20,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 84133,Urine potassium level,$3.36,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 84300,Urine sodium level,$3.64,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$31.64,TN
+Morristown-Hamblen Healthcare System,Chemistry,HCPCS 84630,Zinc level,$10.64,TN
+Morristown-Hamblen Healthcare System,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$14.28,TN
+Morristown-Hamblen Healthcare System,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$10.64,TN
+Morristown-Hamblen Healthcare System,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$28.84,TN
+Morristown-Hamblen Healthcare System,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$11.48,TN
+Morristown-Hamblen Healthcare System,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$10.64,TN
+Morristown-Hamblen Healthcare System,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$21.56,TN
+Morristown-Hamblen Healthcare System,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$72.24,TN
+Morristown-Hamblen Healthcare System,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$37.80,TN
+Morristown-Hamblen Healthcare System,Immunology,HCPCS 86140,Measurement C-reactive protein,$10.36,TN
+Morristown-Hamblen Healthcare System,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$4.20,TN
+Morristown-Hamblen Healthcare System,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$12.60,TN
+Morristown-Hamblen Healthcare System,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$9.24,TN
+Morristown-Hamblen Healthcare System,Immunology,HCPCS 86431,Rheumatoid factor level,$11.48,TN
+Morristown-Hamblen Healthcare System,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$17.36,TN
+Morristown-Hamblen Healthcare System,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$10.36,TN
+Morristown-Hamblen Healthcare System,Immunology,HCPCS 86592,Syphilis Detection Test,$14.00,TN
+Morristown-Hamblen Healthcare System,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$37.80,TN
+Morristown-Hamblen Healthcare System,Immunology,HCPCS 86359,"T cells count, total",$30.52,TN
+Morristown-Hamblen Healthcare System,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$12.32,TN
+Morristown-Hamblen Healthcare System,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$10.08,TN
+Morristown-Hamblen Healthcare System,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$17.36,TN
+Morristown-Hamblen Healthcare System,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$22.68,TN
+Morristown-Hamblen Healthcare System,Microbiology,HCPCS 87491,Chlamydia Test,$70.84,TN
+Morristown-Hamblen Healthcare System,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$96.88,TN
+Morristown-Hamblen Healthcare System,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$21.84,TN
+Morristown-Hamblen Healthcare System,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$43.40,TN
+Morristown-Hamblen Healthcare System,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$17.64,TN
+Morristown-Hamblen Healthcare System,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$55.44,TN
+Morristown-Hamblen Healthcare System,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$70.84,TN
+Morristown-Hamblen Healthcare System,Microbiology,HCPCS 87517,Hepatitis B Detection,$58.52,TN
+Morristown-Hamblen Healthcare System,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$47.88,TN
+Morristown-Hamblen Healthcare System,Microbiology,HCPCS 86762,Rubella virus antibody test,$15.68,TN
+Morristown-Hamblen Healthcare System,Microbiology,HCPCS 86765,Rubeola virus antibody test,$10.92,TN
+Morristown-Hamblen Healthcare System,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$13.16,TN
+Morristown-Hamblen Healthcare System,Microbiology,HCPCS 87045,Stool Culture,$19.04,TN
+Morristown-Hamblen Healthcare System,Microbiology,HCPCS 87880,Streptoccus,$32.20,TN
+Morristown-Hamblen Healthcare System,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$25.20,TN
+Morristown-Hamblen Healthcare System,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$10.36,TN
+Morristown-Hamblen Healthcare System,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$74.20,TN
+Morristown-Hamblen Healthcare System,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$126.00,TN
+Morristown-Hamblen Healthcare System,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$31.36,TN
+Morristown-Hamblen Healthcare System,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$57.40,TN
+Morristown-Hamblen Healthcare System,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$26.88,TN
+Morristown-Hamblen Healthcare System,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$14.00,TN
+Morristown-Hamblen Healthcare System,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$33.60,TN
+Morristown-Hamblen Healthcare System,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$24.08,TN
+Morristown-Hamblen Healthcare System,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$16.80,TN
+Morristown-Hamblen Healthcare System,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$37.52,TN
+Morristown-Hamblen Healthcare System,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$131.32,TN
+Morristown-Hamblen Healthcare System,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$19.04,TN
+Morristown-Hamblen Healthcare System,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$18.76,TN
+Morristown-Hamblen Healthcare System,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$32.20,TN
+Morristown-Hamblen Healthcare System,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$26.60,TN
+Morristown-Hamblen Healthcare System,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$20.16,TN
+Morristown-Hamblen Healthcare System,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$27.16,TN
+Morristown-Hamblen Healthcare System,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$27.16,TN
+Morristown-Hamblen Healthcare System,Transfusion,HCPCS 86900,"Blood Typing, ABO",$5.88,TN
+Morristown-Hamblen Healthcare System,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$13.72,TN
+Morristown-Hamblen Healthcare System,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$72.24,TN
+Morristown-Hamblen Healthcare System,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$13.72,TN
+Morristown-Hamblen Healthcare System,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$4.48,TN
+Morristown-Hamblen Healthcare System,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$6.44,TN
+Morristown-Hamblen Healthcare System,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$17.92,TN
+Morristown-Hamblen Healthcare System,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$1,270.64",TN
+Morristown-Hamblen Healthcare System,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",-,TN
+Morristown-Hamblen Healthcare System,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$243.04,TN
+Morristown-Hamblen Healthcare System,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$14.76,TN
+Morristown-Hamblen Healthcare System,Cardiovascular,HCPCS 93975,Ultrasound Heart,$102.48,TN
+Morristown-Hamblen Healthcare System,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$269.99,TN
+Morristown-Hamblen Healthcare System,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$1,625.80",TN
+Morristown-Hamblen Healthcare System,Pulmonary,HCPCS 94010,Spirometry - breathing test,$201.04,TN
+Morristown-Hamblen Healthcare System,Sleep,HCPCS 95810,Sleep study,$790.16,TN
+Morristown-Hamblen Healthcare System,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$75.32,TN
+Morristown-Hamblen Healthcare System,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$164.36,TN
+Morristown-Hamblen Healthcare System,Breast,HCPCS 77067,Mammogram Screening,$75.32,TN
+Morristown-Hamblen Healthcare System,Breast,HCPCS 77066,Mammography of both breasts,$185.92,TN
+Morristown-Hamblen Healthcare System,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$2,821.51",TN
+Morristown-Hamblen Healthcare System,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$369.60,TN
+Morristown-Hamblen Healthcare System,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$348.60,TN
+Morristown-Hamblen Healthcare System,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,251.60",TN
+Morristown-Hamblen Healthcare System,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,208.87",TN
+Morristown-Hamblen Healthcare System,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,307.33",TN
+Morristown-Hamblen Healthcare System,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,181.61",TN
+Morristown-Hamblen Healthcare System,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$492.12,TN
+Morristown-Hamblen Healthcare System,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,$650.55,TN
+Morristown-Hamblen Healthcare System,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,452.16",TN
+Morristown-Hamblen Healthcare System,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$445.20,TN
+Morristown-Hamblen Healthcare System,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$456.23,TN
+Morristown-Hamblen Healthcare System,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$831.89,TN
+Morristown-Hamblen Healthcare System,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)",$299.32,TN
+Morristown-Hamblen Healthcare System,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,316.00",TN
+Morristown-Hamblen Healthcare System,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$658.00,TN
+Morristown-Hamblen Healthcare System,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,$917.79,TN
+Morristown-Hamblen Healthcare System,MRI,HCPCS 72141,MRI neck spine without contrast material,$658.00,TN
+Morristown-Hamblen Healthcare System,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$1,597.70",TN
+Morristown-Hamblen Healthcare System,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,$807.58,TN
+Morristown-Hamblen Healthcare System,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$495.32,TN
+Morristown-Hamblen Healthcare System,MRI,HCPCS 70553,MRI scan of brain before and after contrast,$807.58,TN
+Morristown-Hamblen Healthcare System,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,598.12",TN
+Morristown-Hamblen Healthcare System,MRI,HCPCS 73721,MRI scan of leg joint,$434.28,TN
+Morristown-Hamblen Healthcare System,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$547.47,TN
+Morristown-Hamblen Healthcare System,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$81.20,TN
+Morristown-Hamblen Healthcare System,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$128.80,TN
+Morristown-Hamblen Healthcare System,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$884.13,TN
+Morristown-Hamblen Healthcare System,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$250.32,TN
+Morristown-Hamblen Healthcare System,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$136.36,TN
+Morristown-Hamblen Healthcare System,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$64.96,TN
+Morristown-Hamblen Healthcare System,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$101.92,TN
+Morristown-Hamblen Healthcare System,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$726.74,TN
+Morristown-Hamblen Healthcare System,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$110.60,TN
+Morristown-Hamblen Healthcare System,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$107.80,TN
+Morristown-Hamblen Healthcare System,Chest,HCPCS 71046,X-ray of chest; 2 Views,$491.45,TN
+Morristown-Hamblen Healthcare System,Chest,HCPCS 71045,X-ray of chest; Single View,$845.24,TN
+Morristown-Hamblen Healthcare System,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$40.60,TN
+Morristown-Hamblen Healthcare System,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$199.92,TN
+Morristown-Hamblen Healthcare System,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$174.09,TN
+Morristown-Hamblen Healthcare System,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$392.98,TN
+Morristown-Hamblen Healthcare System,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$280.73,TN
+Morristown-Hamblen Healthcare System,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$54.88,TN
+Morristown-Hamblen Healthcare System,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$102.76,TN
+Morristown-Hamblen Healthcare System,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$248.08,TN
+Morristown-Hamblen Healthcare System,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$570.22,TN
+Morristown-Hamblen Healthcare System,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$719.88,TN
+Morristown-Hamblen Healthcare System,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$168.28,TN
+Morristown-Hamblen Healthcare System,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$285.24,TN
+Morristown-Hamblen Healthcare System,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$244.89,TN
+Morristown-Hamblen Healthcare System,Lower Limbs,HCPCS 73565,X-ray Both Knees,$174.44,TN
+Morristown-Hamblen Healthcare System,Lower Limbs,HCPCS 73630,X-ray exam of foot,$244.55,TN
+Morristown-Hamblen Healthcare System,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$334.01,TN
+Morristown-Hamblen Healthcare System,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$609.64,TN
+Morristown-Hamblen Healthcare System,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$242.99,TN
+Morristown-Hamblen Healthcare System,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$350.71,TN
+Morristown-Hamblen Healthcare System,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views","$11,260.21",TN
+Morristown-Hamblen Healthcare System,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$215.32,TN
+Morristown-Hamblen Healthcare System,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$403.59,TN
+Morristown-Hamblen Healthcare System,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$157.08,TN
+Morristown-Hamblen Healthcare System,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$114.80,TN
+Morristown-Hamblen Healthcare System,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$324.77,TN
+Morristown-Hamblen Healthcare System,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$173.46,TN
+Morristown-Hamblen Healthcare System,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$337.18,TN
+Morristown-Hamblen Healthcare System,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$219.93,TN
+Morristown-Hamblen Healthcare System,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$289.97,TN
+Morristown-Hamblen Healthcare System,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$276.09,TN
+Morristown-Hamblen Healthcare System,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$334.65,TN
+Morristown-Hamblen Healthcare System,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$354.34,TN
+Morristown-Hamblen Healthcare System,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$306.25,TN
+Morristown-Hamblen Healthcare System,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$297.92,TN
+Morristown-Hamblen Healthcare System,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$5,085.34",TN
+Morristown-Hamblen Healthcare System,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$1,160.53",TN
+Morristown-Hamblen Healthcare System,Abdomenal,HCPCS 47562,Cholecystectomy,"$1,526.31",TN
+Morristown-Hamblen Healthcare System,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$5,204.06",TN
+Morristown-Hamblen Healthcare System,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,"$1,838.59",TN
+Morristown-Hamblen Healthcare System,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$2,254.53",TN
+Morristown-Hamblen Healthcare System,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$1,103.23",TN
+Morristown-Hamblen Healthcare System,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$1,832.59",TN
+Morristown-Hamblen Healthcare System,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$763.39,TN
+Morristown-Hamblen Healthcare System,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$4,914.83",TN
+Morristown-Hamblen Healthcare System,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,"$2,555.95",TN
+Morristown-Hamblen Healthcare System,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$3,803.25",TN
+Morristown-Hamblen Healthcare System,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$2,295.28",TN
+Morristown-Hamblen Healthcare System,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$2,293.58",TN
+Morristown-Hamblen Healthcare System,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$5,006.79",TN
+Morristown-Hamblen Healthcare System,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$1,606.00",TN
+Morristown-Hamblen Healthcare System,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$3,969.29",TN
+Morristown-Hamblen Healthcare System,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$4,001.21",TN
+Morristown-Hamblen Healthcare System,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$3,863.68",TN
+Morristown-Hamblen Healthcare System,Breast,HCPCS 19125,Excision of breast lesion,"$1,451.18",TN
+Morristown-Hamblen Healthcare System,Breast,HCPCS 19120,Excision of cyst of breast,"$1,266.94",TN
+Morristown-Hamblen Healthcare System,Breast,HCPCS 19301,Partial removal of breast,"$2,346.50",TN
+Morristown-Hamblen Healthcare System,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$2,730.93",TN
+Morristown-Hamblen Healthcare System,Breast,HCPCS 19303,Total removal of breast,"$2,908.12",TN
+Morristown-Hamblen Healthcare System,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,"$38,861.79",TN
+Morristown-Hamblen Healthcare System,Cardiac,HCPCS 33249,Defibrillator complete system,"$33,789.54",TN
+Morristown-Hamblen Healthcare System,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$535.64,TN
+Morristown-Hamblen Healthcare System,Cardiac,MSDRG 247,Implant drug-eluting stent,"$10,317.45",TN
+Morristown-Hamblen Healthcare System,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$13,786.25",TN
+Morristown-Hamblen Healthcare System,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$7,991.36",TN
+Morristown-Hamblen Healthcare System,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",$584.09,TN
+Morristown-Hamblen Healthcare System,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,313.35",TN
+Morristown-Hamblen Healthcare System,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,346.45",TN
+Morristown-Hamblen Healthcare System,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,392.24",TN
+Morristown-Hamblen Healthcare System,Digestive,HCPCS 43235,EGD,$855.58,TN
+Morristown-Hamblen Healthcare System,Digestive,HCPCS 43239,EGD and biopsy,"$1,338.00",TN
+Morristown-Hamblen Healthcare System,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$1,284.93",TN
+Morristown-Hamblen Healthcare System,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$1,659.24",TN
+Morristown-Hamblen Healthcare System,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$3,724.98",TN
+Morristown-Hamblen Healthcare System,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$2,375.55",TN
+Morristown-Hamblen Healthcare System,General,HCPCS 55700,Biopsy of prostate gland,"$2,059.94",TN
+Morristown-Hamblen Healthcare System,General,HCPCS 10060,Drainage of Abscess,"$1,198.02",TN
+Morristown-Hamblen Healthcare System,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple","$1,024.64",TN
+Morristown-Hamblen Healthcare System,General,HCPCS 69200,Removal of foreign body from ear canal,$115.92,TN
+Morristown-Hamblen Healthcare System,General,HCPCS 60240,Removal of thyroid,"$7,931.66",TN
+Morristown-Hamblen Healthcare System,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$258.88,TN
+Morristown-Hamblen Healthcare System,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$590.09,TN
+Morristown-Hamblen Healthcare System,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$209.62,TN
+Morristown-Hamblen Healthcare System,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$204.91,TN
+Morristown-Hamblen Healthcare System,Head,HCPCS 69436,Create eardrum opening,"$1,139.28",TN
+Morristown-Hamblen Healthcare System,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$1,702.82",TN
+Morristown-Hamblen Healthcare System,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$259.99,TN
+Morristown-Hamblen Healthcare System,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$721.47,TN
+Morristown-Hamblen Healthcare System,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$756.32,TN
+Morristown-Hamblen Healthcare System,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$13,264.31",TN
+Morristown-Hamblen Healthcare System,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$1,396.55",TN
+Morristown-Hamblen Healthcare System,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$1,490.93",TN
+Morristown-Hamblen Healthcare System,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$8,343.78",TN
+Morristown-Hamblen Healthcare System,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$7,451.18",TN
+Morristown-Hamblen Healthcare System,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$467.04,TN
+Morristown-Hamblen Healthcare System,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$1,396.47",TN
+Morristown-Hamblen Healthcare System,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$2,276.92",TN
+Morristown-Hamblen Healthcare System,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$1,909.91",TN
+Morristown-Hamblen Healthcare System,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$2,251.30",TN
+Morristown-Hamblen Healthcare System,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$1,632.25",TN
+Morristown-Hamblen Healthcare System,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries","$2,869.69",TN
+Morristown-Hamblen Healthcare System,Ocular,HCPCS 66984,Cataract removal,"$1,768.15",TN
+Morristown-Hamblen Healthcare System,Ocular,HCPCS 66982,Cataract removal with insertion of lens,"$1,682.10",TN
+Morristown-Hamblen Healthcare System,Soft Tissue,HCPCS 97597,Debridement of open wound,$402.36,TN
+Morristown-Hamblen Healthcare System,Soft Tissue,HCPCS 97602,Non-selective debridement,$129.92,TN
+Morristown-Hamblen Healthcare System,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,"$11,746.52",TN
+Morristown-Hamblen Healthcare System,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,662.37",TN
+Morristown-Hamblen Healthcare System,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$2,021.58",TN
+Morristown-Hamblen Healthcare System,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,$906.77,TN

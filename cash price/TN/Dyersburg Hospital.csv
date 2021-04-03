@@ -1,0 +1,342 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Dyersburg Hospital,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$162.05,TN
+Dyersburg Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,073.80",TN
+Dyersburg Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$106.40,TN
+Dyersburg Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$184.45,TN
+Dyersburg Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$306.95,TN
+Dyersburg Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$500.15,TN
+Dyersburg Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$965.65,TN
+Dyersburg Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$95.90,TN
+Dyersburg Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$69.30,TN
+Dyersburg Hospital,Psychology,HCPCS 90853,Group psychotherapy,$85.40,TN
+Dyersburg Hospital,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$76.65,TN
+Dyersburg Hospital,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$138.95,TN
+Dyersburg Hospital,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$84.70,TN
+Dyersburg Hospital,Speech,HCPCS 92507,Speech Therapy,$107.80,TN
+Dyersburg Hospital,Speech,HCPCS 92610,Swallow Evaluation,$75.60,TN
+Dyersburg Hospital,Speech,HCPCS 92526,Swallow Treatment,$109.20,TN
+Dyersburg Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$9.45,TN
+Dyersburg Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$8.05,TN
+Dyersburg Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$20.65,TN
+Dyersburg Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$30.80,TN
+Dyersburg Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$13.65,TN
+Dyersburg Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$17.50,TN
+Dyersburg Hospital,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$13.65,TN
+Dyersburg Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$51.45,TN
+Dyersburg Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$18.90,TN
+Dyersburg Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$54.78,TN
+Dyersburg Hospital,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$66.50,TN
+Dyersburg Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$17.15,TN
+Dyersburg Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$185.50,TN
+Dyersburg Hospital,Blood,HCPCS 85041,"Red blood count, automated test",$7.70,TN
+Dyersburg Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$52.15,TN
+Dyersburg Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$10.50,TN
+Dyersburg Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$30.80,TN
+Dyersburg Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$32.90,TN
+Dyersburg Hospital,Chemistry,HCPCS 82140,Ammonia level,$30.80,TN
+Dyersburg Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$26.95,TN
+Dyersburg Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$28.70,TN
+Dyersburg Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$47.95,TN
+Dyersburg Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$23.80,TN
+Dyersburg Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$28.00,TN
+Dyersburg Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$23.10,TN
+Dyersburg Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$25.20,TN
+Dyersburg Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$19.95,TN
+Dyersburg Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$10.85,TN
+Dyersburg Hospital,Chemistry,HCPCS 84295,Blood sodium level,$15.40,TN
+Dyersburg Hospital,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$11.20,TN
+Dyersburg Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$28.35,TN
+Dyersburg Hospital,Chemistry,HCPCS 82310,Calcium level,$12.25,TN
+Dyersburg Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$18.20,TN
+Dyersburg Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$44.10,TN
+Dyersburg Hospital,Chemistry,HCPCS 82465,Cholesterol level,$11.55,TN
+Dyersburg Hospital,Chemistry,HCPCS 82525,Copper level,$21.35,TN
+Dyersburg Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$34.30,TN
+Dyersburg Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$39.20,TN
+Dyersburg Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$16.45,TN
+Dyersburg Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$26.95,TN
+Dyersburg Hospital,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$35.00,TN
+Dyersburg Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$66.85,TN
+Dyersburg Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$26.95,TN
+Dyersburg Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$28.00,TN
+Dyersburg Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$19.60,TN
+Dyersburg Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$25.90,TN
+Dyersburg Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$21.00,TN
+Dyersburg Hospital,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$39.90,TN
+Dyersburg Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$40.95,TN
+Dyersburg Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$31.15,TN
+Dyersburg Hospital,Chemistry,HCPCS 83718,HDL cholesterol level,$16.80,TN
+Dyersburg Hospital,Chemistry,HCPCS 83020,Hemoglobin Measurement,$26.95,TN
+Dyersburg Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$46.90,TN
+Dyersburg Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$40.60,TN
+Dyersburg Hospital,Chemistry,HCPCS 83520,IgE (immune system protein) level,$45.15,TN
+Dyersburg Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$22.05,TN
+Dyersburg Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$25.55,TN
+Dyersburg Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$16.80,TN
+Dyersburg Hospital,Chemistry,HCPCS 83540,Iron level,$16.10,TN
+Dyersburg Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$22.05,TN
+Dyersburg Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$31.50,TN
+Dyersburg Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$24.15,TN
+Dyersburg Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$32.20,TN
+Dyersburg Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$20.30,TN
+Dyersburg Hospital,Chemistry,HCPCS 83735,Magnesium Level,$17.50,TN
+Dyersburg Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$50.05,TN
+Dyersburg Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$21.00,TN
+Dyersburg Hospital,Chemistry,HCPCS 83945,Oxalate level,$21.70,TN
+Dyersburg Hospital,Chemistry,HCPCS 83970,Parathormone,$58.45,TN
+Dyersburg Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$21.00,TN
+Dyersburg Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$48.30,TN
+Dyersburg Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$45.85,TN
+Dyersburg Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$23.10,TN
+Dyersburg Hospital,Chemistry,HCPCS A9270,Selenium (vitamin) level,-,TN
+Dyersburg Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$45.15,TN
+Dyersburg Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$38.50,TN
+Dyersburg Hospital,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement",$19.25,TN
+Dyersburg Hospital,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$65.80,TN
+Dyersburg Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$19.60,TN
+Dyersburg Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$19.60,TN
+Dyersburg Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$21.00,TN
+Dyersburg Hospital,Chemistry,HCPCS 84478,Triglycerides level,$12.95,TN
+Dyersburg Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$34.30,TN
+Dyersburg Hospital,Chemistry,HCPCS 84560,Uric acid level,$21.70,TN
+Dyersburg Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$21.70,TN
+Dyersburg Hospital,Chemistry,HCPCS 82340,Urine calcium level,$18.55,TN
+Dyersburg Hospital,Chemistry,HCPCS 82436,Urine chloride level,$17.50,TN
+Dyersburg Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$21.70,TN
+Dyersburg Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$18.20,TN
+Dyersburg Hospital,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$30.80,TN
+Dyersburg Hospital,Chemistry,HCPCS 84133,Urine potassium level,$16.80,TN
+Dyersburg Hospital,Chemistry,HCPCS 84300,Urine sodium level,$19.95,TN
+Dyersburg Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$44.80,TN
+Dyersburg Hospital,Chemistry,HCPCS 84630,Zinc level,$23.80,TN
+Dyersburg Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$37.45,TN
+Dyersburg Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$30.80,TN
+Dyersburg Hospital,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$23.80,TN
+Dyersburg Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$26.95,TN
+Dyersburg Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$39.55,TN
+Dyersburg Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$36.05,TN
+Dyersburg Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$34.65,TN
+Dyersburg Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$21.35,TN
+Dyersburg Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$32.55,TN
+Dyersburg Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$27.65,TN
+Dyersburg Hospital,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$35.00,TN
+Dyersburg Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$19.25,TN
+Dyersburg Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$10.50,TN
+Dyersburg Hospital,Immunology,HCPCS 86161,Measurement of Complement (Immune System Proteins),$44.80,TN
+Dyersburg Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$26.95,TN
+Dyersburg Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$37.10,TN
+Dyersburg Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$28.00,TN
+Dyersburg Hospital,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$58.10,TN
+Dyersburg Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$25.55,TN
+Dyersburg Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$23.45,TN
+Dyersburg Hospital,Immunology,HCPCS 86361,T cell count and ratio,$54.25,TN
+Dyersburg Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$81.55,TN
+Dyersburg Hospital,Immunology,HCPCS 86359,"T cells count, total",$64.75,TN
+Dyersburg Hospital,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$28.00,TN
+Dyersburg Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$15.75,TN
+Dyersburg Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$36.40,TN
+Dyersburg Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$22.05,TN
+Dyersburg Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$52.50,TN
+Dyersburg Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$53.90,TN
+Dyersburg Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$71.75,TN
+Dyersburg Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$22.75,TN
+Dyersburg Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$96.25,TN
+Dyersburg Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$21.70,TN
+Dyersburg Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$90.65,TN
+Dyersburg Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$50.75,TN
+Dyersburg Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$65.45,TN
+Dyersburg Hospital,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$46.20,TN
+Dyersburg Hospital,Microbiology,HCPCS 87624,HPV Detection,$37.45,TN
+Dyersburg Hospital,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$27.30,TN
+Dyersburg Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$23.10,TN
+Dyersburg Hospital,Microbiology,HCPCS 86747,Parvovirus antibody test,$25.55,TN
+Dyersburg Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$28.00,TN
+Dyersburg Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$22.40,TN
+Dyersburg Hospital,Microbiology,HCPCS 87207,Smear for infectious agents,$27.30,TN
+Dyersburg Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$21.00,TN
+Dyersburg Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$21.70,TN
+Dyersburg Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$26.95,TN
+Dyersburg Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$24.15,TN
+Dyersburg Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$28.70,TN
+Dyersburg Hospital,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$133.70,TN
+Dyersburg Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$115.50,TN
+Dyersburg Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$33.60,TN
+Dyersburg Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$49.00,TN
+Dyersburg Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$37.10,TN
+Dyersburg Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$36.40,TN
+Dyersburg Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$34.65,TN
+Dyersburg Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$49.70,TN
+Dyersburg Hospital,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$33.25,TN
+Dyersburg Hospital,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$40.95,TN
+Dyersburg Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$26.95,TN
+Dyersburg Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$54.60,TN
+Dyersburg Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$33.25,TN
+Dyersburg Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$25.20,TN
+Dyersburg Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$31.85,TN
+Dyersburg Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$28.35,TN
+Dyersburg Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$47.60,TN
+Dyersburg Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$41.30,TN
+Dyersburg Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$33.60,TN
+Dyersburg Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$16.80,TN
+Dyersburg Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$14.35,TN
+Dyersburg Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$37.10,TN
+Dyersburg Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$26.95,TN
+Dyersburg Hospital,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$43.75,TN
+Dyersburg Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$24.15,TN
+Dyersburg Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$9.45,TN
+Dyersburg Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$27.65,TN
+Dyersburg Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$35.70,TN
+Dyersburg Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$229.60,TN
+Dyersburg Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$128.10,TN
+Dyersburg Hospital,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$136.50,TN
+Dyersburg Hospital,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),$590.80,TN
+Dyersburg Hospital,Pulmonary,HCPCS 94729,CO Diffusion Capacity,$86.45,TN
+Dyersburg Hospital,Pulmonary,HCPCS 94640,Nebulizer Treatment,$77.00,TN
+Dyersburg Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$63.00,TN
+Dyersburg Hospital,Sleep,HCPCS 95810,Sleep study,"$1,857.10",TN
+Dyersburg Hospital,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$26.25,TN
+Dyersburg Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$72.10,TN
+Dyersburg Hospital,Breast,HCPCS 77067,Mammogram Screening,$75.95,TN
+Dyersburg Hospital,Breast,HCPCS 77066,Mammography of both breasts,$92.05,TN
+Dyersburg Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,$189.70,TN
+Dyersburg Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$117.95,TN
+Dyersburg Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$117.95,TN
+Dyersburg Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$117.95,TN
+Dyersburg Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,$229.25,TN
+Dyersburg Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,$199.85,TN
+Dyersburg Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$122.85,TN
+Dyersburg Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$151.90,TN
+Dyersburg Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,$174.65,TN
+Dyersburg Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$122.85,TN
+Dyersburg Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$117.95,TN
+Dyersburg Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$152.25,TN
+Dyersburg Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$122.85,TN
+Dyersburg Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)",$241.85,TN
+Dyersburg Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,$177.80,TN
+Dyersburg Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$177.80,TN
+Dyersburg Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,$240.45,TN
+Dyersburg Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,$177.80,TN
+Dyersburg Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,$241.50,TN
+Dyersburg Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,$288.05,TN
+Dyersburg Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$177.80,TN
+Dyersburg Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,$239.75,TN
+Dyersburg Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$177.80,TN
+Dyersburg Hospital,MRI,HCPCS 73721,MRI scan of leg joint,$177.80,TN
+Dyersburg Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$102.90,TN
+Dyersburg Hospital,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$64.75,TN
+Dyersburg Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$315.00,TN
+Dyersburg Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$217.00,TN
+Dyersburg Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$315.00,TN
+Dyersburg Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$385.70,TN
+Dyersburg Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$284.20,TN
+Dyersburg Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$196.35,TN
+Dyersburg Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$246.40,TN
+Dyersburg Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$277.55,TN
+Dyersburg Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$95.55,TN
+Dyersburg Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$135.80,TN
+Dyersburg Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$110.60,TN
+Dyersburg Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$53.20,TN
+Dyersburg Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$68.95,TN
+Dyersburg Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$52.15,TN
+Dyersburg Hospital,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$95.90,TN
+Dyersburg Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$67.90,TN
+Dyersburg Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$98.70,TN
+Dyersburg Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$88.90,TN
+Dyersburg Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$98.70,TN
+Dyersburg Hospital,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$109.90,TN
+Dyersburg Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$114.10,TN
+Dyersburg Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$72.10,TN
+Dyersburg Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$84.70,TN
+Dyersburg Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$102.90,TN
+Dyersburg Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$58.45,TN
+Dyersburg Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$58.45,TN
+Dyersburg Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$46.20,TN
+Dyersburg Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$45.50,TN
+Dyersburg Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$48.65,TN
+Dyersburg Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$52.50,TN
+Dyersburg Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$71.40,TN
+Dyersburg Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$58.45,TN
+Dyersburg Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$245.70,TN
+Dyersburg Hospital,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$95.55,TN
+Dyersburg Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$171.85,TN
+Dyersburg Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$150.15,TN
+Dyersburg Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$76.65,TN
+Dyersburg Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$79.10,TN
+Dyersburg Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$98.35,TN
+Dyersburg Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$112.00,TN
+Dyersburg Hospital,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$100.10,TN
+Dyersburg Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$49.00,TN
+Dyersburg Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$56.00,TN
+Dyersburg Hospital,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$7,249.88",TN
+Dyersburg Hospital,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,$842.20,TN
+Dyersburg Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$3,597.87",TN
+Dyersburg Hospital,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$4,419.77",TN
+Dyersburg Hospital,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,"$1,508.36",TN
+Dyersburg Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$2,094.66",TN
+Dyersburg Hospital,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,$968.89,TN
+Dyersburg Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$2,681.54",TN
+Dyersburg Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$43.40,TN
+Dyersburg Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$38.85,TN
+Dyersburg Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$12,937.05",TN
+Dyersburg Hospital,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$2,640.67",TN
+Dyersburg Hospital,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$2,232.90",TN
+Dyersburg Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$3,378.90",TN
+Dyersburg Hospital,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$3,396.40",TN
+Dyersburg Hospital,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$2,810.20",TN
+Dyersburg Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$2,712.10",TN
+Dyersburg Hospital,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$2,648.78",TN
+Dyersburg Hospital,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$2,213.24",TN
+Dyersburg Hospital,Breast,HCPCS 19125,Excision of breast lesion,"$1,819.30",TN
+Dyersburg Hospital,Breast,HCPCS 19120,Excision of cyst of breast,"$1,661.04",TN
+Dyersburg Hospital,Breast,HCPCS 19301,Partial removal of breast,"$2,088.81",TN
+Dyersburg Hospital,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$4,114.45",TN
+Dyersburg Hospital,Breast,HCPCS 19303,Total removal of breast,"$2,176.06",TN
+Dyersburg Hospital,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,"$54,877.66",TN
+Dyersburg Hospital,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$9,731.78",TN
+Dyersburg Hospital,Cardiac,HCPCS 33249,Defibrillator complete system,"$10,915.10",TN
+Dyersburg Hospital,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$2,511.25",TN
+Dyersburg Hospital,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$2,090.90",TN
+Dyersburg Hospital,Cardiac,MSDRG 247,Implant drug-eluting stent,"$20,656.66",TN
+Dyersburg Hospital,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$12,890.43",TN
+Dyersburg Hospital,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$4,190.55",TN
+Dyersburg Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",$698.95,TN
+Dyersburg Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy",$759.24,TN
+Dyersburg Hospital,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal",$690.38,TN
+Dyersburg Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)",$622.30,TN
+Dyersburg Hospital,Digestive,HCPCS 43235,EGD,$65.80,TN
+Dyersburg Hospital,Digestive,HCPCS 43239,EGD and biopsy,$622.40,TN
+Dyersburg Hospital,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$1,297.80",TN
+Dyersburg Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$9,134.36",TN
+Dyersburg Hospital,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$2,151.54",TN
+Dyersburg Hospital,General,HCPCS 55700,Biopsy of prostate gland,$753.55,TN
+Dyersburg Hospital,General,HCPCS 10060,Drainage of Abscess,$133.70,TN
+Dyersburg Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$115.15,TN
+Dyersburg Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$129.82,TN
+Dyersburg Hospital,General,HCPCS 60240,Removal of thyroid,"$6,262.70",TN
+Dyersburg Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$131.85,TN
+Dyersburg Hospital,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$152.88,TN
+Dyersburg Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$125.45,TN
+Dyersburg Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$129.34,TN
+Dyersburg Hospital,Head,HCPCS 69436,Create eardrum opening,$802.70,TN
+Dyersburg Hospital,Head,HCPCS 69631,Repair of eardrum,"$2,270.41",TN
+Dyersburg Hospital,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$1,233.39",TN
+Dyersburg Hospital,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$1,292.08",TN
+Dyersburg Hospital,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$131.60,TN
+Dyersburg Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$830.55,TN
+Dyersburg Hospital,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,$829.15,TN
+Dyersburg Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$667.10,TN
+Dyersburg Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$283.50,TN
+Dyersburg Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$15,912.13",TN
+Dyersburg Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$2,649.77",TN
+Dyersburg Hospital,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$87.85,TN
+Dyersburg Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$1,397.22",TN
+Dyersburg Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$5,540.61",TN
+Dyersburg Hospital,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$2,545.38",TN
+Dyersburg Hospital,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$2,478.90",TN
+Dyersburg Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$3,616.41",TN
+Dyersburg Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$89.60,TN
+Dyersburg Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$69.65,TN
+Dyersburg Hospital,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$32.55,TN
+Dyersburg Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),$480.20,TN
+Dyersburg Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$189.00,TN
+Dyersburg Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,$430.15,TN

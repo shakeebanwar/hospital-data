@@ -1,0 +1,241 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Skyline Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$3,810.63",TN
+Skyline Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$9,374.13",TN
+Skyline Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$576.16,TN
+Skyline Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$832.23,TN
+Skyline Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$1,289.50",TN
+Skyline Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$2,330.58",TN
+Skyline Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$3,228.36",TN
+Skyline Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$588.50,TN
+Skyline Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$826.10,TN
+Skyline Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$484.00,TN
+Skyline Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$259.56,TN
+Skyline Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$259.56,TN
+Skyline Medical Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$730.89,TN
+Skyline Medical Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,"$1,188.56",TN
+Skyline Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$370.57,TN
+Skyline Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$403.01,TN
+Skyline Medical Center,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$350.06,TN
+Skyline Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$505.47,TN
+Skyline Medical Center,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$351.79,TN
+Skyline Medical Center,Blood,HCPCS 85660,Red blood cell sickling measurement,$478.15,TN
+Skyline Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$875.32,TN
+Skyline Medical Center,Blood,HCPCS 85041,"Red blood count, automated test",$252.73,TN
+Skyline Medical Center,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,"$2,155.13",TN
+Skyline Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$869.21,TN
+Skyline Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$268.10,TN
+Skyline Medical Center,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$899.95,TN
+Skyline Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$947.76,TN
+Skyline Medical Center,Chemistry,HCPCS 82140,Ammonia level,$869.21,TN
+Skyline Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$544.74,TN
+Skyline Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,"$1,265.41",TN
+Skyline Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,"$1,014.37",TN
+Skyline Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$539.63,TN
+Skyline Medical Center,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$331.28,TN
+Skyline Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$478.15,TN
+Skyline Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$292.01,TN
+Skyline Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$373.96,TN
+Skyline Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$298.84,TN
+Skyline Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$259.56,TN
+Skyline Medical Center,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$478.15,TN
+Skyline Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$259.56,TN
+Skyline Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$807.74,TN
+Skyline Medical Center,Chemistry,HCPCS 82310,Calcium level,$478.15,TN
+Skyline Medical Center,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$331.28,TN
+Skyline Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,"$1,212.47",TN
+Skyline Medical Center,Chemistry,HCPCS 82465,Cholesterol level,$350.06,TN
+Skyline Medical Center,Chemistry,HCPCS 82525,Copper level,$660.88,TN
+Skyline Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$730.89,TN
+Skyline Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$582.33,TN
+Skyline Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$466.19,TN
+Skyline Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,"$1,089.51",TN
+Skyline Medical Center,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,"$2,286.63",TN
+Skyline Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$777.00,TN
+Skyline Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$495.22,TN
+Skyline Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$765.04,TN
+Skyline Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$582.33,TN
+Skyline Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$674.52,TN
+Skyline Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$522.55,TN
+Skyline Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$392.76,TN
+Skyline Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$582.33,TN
+Skyline Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$495.22,TN
+Skyline Medical Center,Chemistry,HCPCS 83718,HDL cholesterol level,$544.74,TN
+Skyline Medical Center,Chemistry,HCPCS 83020,Hemoglobin Measurement,"$1,099.75",TN
+Skyline Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,"$1,675.26",TN
+Skyline Medical Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$734.31,TN
+Skyline Medical Center,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$614.76,TN
+Skyline Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$582.33,TN
+Skyline Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$684.78,TN
+Skyline Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$532.80,TN
+Skyline Medical Center,Chemistry,HCPCS 83540,Iron level,$532.80,TN
+Skyline Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$478.15,TN
+Skyline Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$392.76,TN
+Skyline Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$268.10,TN
+Skyline Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$495.22,TN
+Skyline Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$373.96,TN
+Skyline Medical Center,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$411.56,TN
+Skyline Medical Center,Chemistry,HCPCS 83945,Oxalate level,$582.33,TN
+Skyline Medical Center,Chemistry,HCPCS 83970,Parathormone,"$1,767.47",TN
+Skyline Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$478.15,TN
+Skyline Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$777.00,TN
+Skyline Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$582.33,TN
+Skyline Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$674.52,TN
+Skyline Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$566.96,TN
+Skyline Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,"$1,535.23",TN
+Skyline Medical Center,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$421.79,TN
+Skyline Medical Center,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,"$2,886.04",TN
+Skyline Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$686.49,TN
+Skyline Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$252.73,TN
+Skyline Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$344.94,TN
+Skyline Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,"$1,793.10",TN
+Skyline Medical Center,Chemistry,HCPCS 84560,Uric acid level,$389.34,TN
+Skyline Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$478.15,TN
+Skyline Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$457.65,TN
+Skyline Medical Center,Chemistry,HCPCS 82436,Urine chloride level,$389.34,TN
+Skyline Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$495.22,TN
+Skyline Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$479.87,TN
+Skyline Medical Center,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$765.04,TN
+Skyline Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$478.15,TN
+Skyline Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$292.01,TN
+Skyline Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$777.00,TN
+Skyline Medical Center,Chemistry,HCPCS 84630,Zinc level,$582.33,TN
+Skyline Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$777.00,TN
+Skyline Medical Center,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$684.78,TN
+Skyline Medical Center,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$544.74,TN
+Skyline Medical Center,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$582.33,TN
+Skyline Medical Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$582.33,TN
+Skyline Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$777.00,TN
+Skyline Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,"$1,432.77",TN
+Skyline Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$495.22,TN
+Skyline Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$495.22,TN
+Skyline Medical Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,"$1,364.46",TN
+Skyline Medical Center,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$959.73,TN
+Skyline Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$392.76,TN
+Skyline Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$64.88,TN
+Skyline Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$495.22,TN
+Skyline Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$777.00,TN
+Skyline Medical Center,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,"$1,285.90",TN
+Skyline Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$298.84,TN
+Skyline Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$199.80,TN
+Skyline Medical Center,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio","$1,060.48",TN
+Skyline Medical Center,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$915.32,TN
+Skyline Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$582.33,TN
+Skyline Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$643.80,TN
+Skyline Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$259.56,TN
+Skyline Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$41.04,TN
+Skyline Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$138.32,TN
+Skyline Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$303.96,TN
+Skyline Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$495.22,TN
+Skyline Medical Center,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification","$2,165.38",TN
+Skyline Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$259.56,TN
+Skyline Medical Center,Microbiology,HCPCS 87517,Hepatitis B Detection,"$1,332.02",TN
+Skyline Medical Center,Microbiology,HCPCS 86735,Mumps virus antibody test,$411.56,TN
+Skyline Medical Center,Microbiology,HCPCS 86747,Parvovirus antibody test,$840.20,TN
+Skyline Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$645.49,TN
+Skyline Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$495.22,TN
+Skyline Medical Center,Microbiology,HCPCS 87207,Smear for infectious agents,$351.79,TN
+Skyline Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$392.76,TN
+Skyline Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$298.84,TN
+Skyline Medical Center,Microbiology,HCPCS 87045,Stool Culture,$947.76,TN
+Skyline Medical Center,Microbiology,HCPCS 87880,Strep Test,$582.33,TN
+Skyline Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$329.57,TN
+Skyline Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$495.22,TN
+Skyline Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$635.27,TN
+Skyline Medical Center,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,"$1,051.94",TN
+Skyline Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$777.00,TN
+Skyline Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$928.97,TN
+Skyline Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals","$1,267.13",TN
+Skyline Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$898.25,TN
+Skyline Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,"$1,089.51",TN
+Skyline Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,"$1,381.53",TN
+Skyline Medical Center,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,"$1,815.30",TN
+Skyline Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$235.65,TN
+Skyline Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,"$1,097.60",TN
+Skyline Medical Center,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$684.78,TN
+Skyline Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$631.84,TN
+Skyline Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$750.60,TN
+Skyline Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$244.18,TN
+Skyline Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$292.01,TN
+Skyline Medical Center,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$777.00,TN
+Skyline Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$777.00,TN
+Skyline Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,"$1,060.48",TN
+Skyline Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$582.33,TN
+Skyline Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$582.33,TN
+Skyline Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$326.17,TN
+Skyline Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$305.67,TN
+Skyline Medical Center,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$176.97,TN
+Skyline Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$389.34,TN
+Skyline Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$389.34,TN
+Skyline Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$133.19,TN
+Skyline Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$329.57,TN
+Skyline Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$2,202.28",TN
+Skyline Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$1,043.24",TN
+Skyline Medical Center,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$231.64,TN
+Skyline Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,"$1,033.92",TN
+Skyline Medical Center,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$1,988.34",TN
+Skyline Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$3,022.48",TN
+Skyline Medical Center,Pulmonary,HCPCS 94729,CO Diffusion Capacity,$288.66,TN
+Skyline Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,$291.28,TN
+Skyline Medical Center,Pulmonary,HCPCS 94618,Pulmonary stress test,$404.37,TN
+Skyline Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,"$1,094.50",TN
+Skyline Medical Center,Sleep,HCPCS 95810,Sleep study,"$7,783.78",TN
+Skyline Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$188.50,TN
+Skyline Medical Center,Breast,HCPCS 77067,Mammogram Screening,$651.81,TN
+Skyline Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$848.90,TN
+Skyline Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$9,331.27",TN
+Skyline Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$6,717.58",TN
+Skyline Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$6,717.58",TN
+Skyline Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$6,717.58",TN
+Skyline Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$15,923.30",TN
+Skyline Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$14,958.87",TN
+Skyline Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$13,751.64",TN
+Skyline Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$6,717.58",TN
+Skyline Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$7,911.42",TN
+Skyline Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$6,717.58",TN
+Skyline Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$6,717.58",TN
+Skyline Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$6,717.58",TN
+Skyline Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$6,717.58",TN
+Skyline Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$7,540.06",TN
+Skyline Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$7,010.19",TN
+Skyline Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$7,010.19",TN
+Skyline Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$12,213.54",TN
+Skyline Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$7,457.86",TN
+Skyline Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$10,371.45",TN
+Skyline Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$10,651.79",TN
+Skyline Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$12,213.54",TN
+Skyline Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$7,755.83",TN
+Skyline Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$1,939.93",TN
+Skyline Medical Center,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,"$1,834.12",TN
+Skyline Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$2,473.79",TN
+Skyline Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,645.05",TN
+Skyline Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$2,762.45",TN
+Skyline Medical Center,Ultrasound,HCPCS 76881,Ultrasound Joint Soft Tissue - Complete,"$1,489.85",TN
+Skyline Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$2,703.47",TN
+Skyline Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,794.61",TN
+Skyline Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$689.05,TN
+Skyline Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$2,349.63",TN
+Skyline Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,958.26",TN
+Skyline Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views","$1,667.48",TN
+Skyline Medical Center,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views","$1,762.51",TN
+Skyline Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$975.46,TN
+Skyline Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$753.76,TN
+Skyline Medical Center,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views","$1,341.29",TN
+Skyline Medical Center,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$897.86,TN
+Skyline Medical Center,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,"$2,676.21",TN
+Skyline Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views","$1,913.23",TN
+Skyline Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$986.56,TN
+Skyline Medical Center,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$634.99,TN
+Skyline Medical Center,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views","$1,517.03",TN
+Skyline Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views","$1,674.93",TN
+Skyline Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views","$1,363.44",TN
+Skyline Medical Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$959.62,TN
+Skyline Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,"$1,708.66",TN
+Skyline Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,669.09",TN
+Skyline Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views","$1,558.21",TN
+Skyline Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views","$1,835.34",TN
+Skyline Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views","$1,154.41",TN
+Skyline Medical Center,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers","$1,900.25",TN
+Skyline Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$713.83,TN
+Skyline Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$504.69,TN
+Skyline Medical Center,Soft Tissue,HCPCS 97602,Non-selective debridement,$341.28,TN
+Skyline Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,767.15",TN

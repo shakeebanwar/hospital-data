@@ -1,0 +1,284 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Roane Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$46.53,TN
+Roane Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$99.42,TN
+Roane Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$278.38,TN
+Roane Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,$849.38,TN
+Roane Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,019.08",TN
+Roane Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,"$4,389.18",TN
+Roane Medical Center,Speech,HCPCS 92507,Speech Therapy,$686.73,TN
+Roane Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$3,958.67",TN
+Roane Medical Center,Speech,HCPCS 92526,Swallow Treatment,"$6,483.85",TN
+Roane Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$5.61,TN
+Roane Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$13.53,TN
+Roane Medical Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$20.79,TN
+Roane Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$9.24,TN
+Roane Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$19.80,TN
+Roane Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$27.06,TN
+Roane Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$15.51,TN
+Roane Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$8.25,TN
+Roane Medical Center,Blood,HCPCS 85303,Protein S (clotting inhibitor) level,$31.35,TN
+Roane Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$621.34,TN
+Roane Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$11.22,TN
+Roane Medical Center,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$12.21,TN
+Roane Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$10.89,TN
+Roane Medical Center,Chemistry,HCPCS 82140,Ammonia level,$48.51,TN
+Roane Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$15.51,TN
+Roane Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$12.87,TN
+Roane Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$21.45,TN
+Roane Medical Center,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$10.23,TN
+Roane Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$5.28,TN
+Roane Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$4.95,TN
+Roane Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$11.55,TN
+Roane Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$8.91,TN
+Roane Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$4.62,TN
+Roane Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$39.93,TN
+Roane Medical Center,Chemistry,HCPCS 82310,Calcium level,$12.21,TN
+Roane Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$45.21,TN
+Roane Medical Center,Chemistry,HCPCS 82465,Cholesterol level,$10.23,TN
+Roane Medical Center,Chemistry,HCPCS 82525,Copper level,$14.52,TN
+Roane Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$38.61,TN
+Roane Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$14.85,TN
+Roane Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$21.78,TN
+Roane Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$35.64,TN
+Roane Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$30.03,TN
+Roane Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$32.34,TN
+Roane Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$34.98,TN
+Roane Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$66.33,TN
+Roane Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$17.16,TN
+Roane Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$23.10,TN
+Roane Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$44.22,TN
+Roane Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$43.89,TN
+Roane Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$30.03,TN
+Roane Medical Center,Chemistry,HCPCS 83020,Hemoglobin Measurement,$12.21,TN
+Roane Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$17.16,TN
+Roane Medical Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$20.79,TN
+Roane Medical Center,Chemistry,HCPCS 83520,IgE (immune system protein) level,$52.80,TN
+Roane Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$13.53,TN
+Roane Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$32.34,TN
+Roane Medical Center,Chemistry,HCPCS 83540,Iron level,$15.51,TN
+Roane Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$14.19,TN
+Roane Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$22.77,TN
+Roane Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$11.88,TN
+Roane Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$33.66,TN
+Roane Medical Center,Chemistry,HCPCS 83021,Liver function blood test panel,$16.50,TN
+Roane Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$22.11,TN
+Roane Medical Center,Chemistry,HCPCS 82542,Mass spectrometry,$17.16,TN
+Roane Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$49.50,TN
+Roane Medical Center,Chemistry,HCPCS 83945,Oxalate level,$19.14,TN
+Roane Medical Center,Chemistry,HCPCS 83970,Parathormone,$98.01,TN
+Roane Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$12.21,TN
+Roane Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$47.52,TN
+Roane Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$45.87,TN
+Roane Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$10.23,TN
+Roane Medical Center,Chemistry,HCPCS A9270,Selenium (vitamin) level,"$1,267.44",TN
+Roane Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$24.42,TN
+Roane Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$19.80,TN
+Roane Medical Center,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$64.68,TN
+Roane Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$16.17,TN
+Roane Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$3.30,TN
+Roane Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$8.58,TN
+Roane Medical Center,Chemistry,HCPCS 84478,Triglycerides level,$13.53,TN
+Roane Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$10.23,TN
+Roane Medical Center,Chemistry,HCPCS 84560,Uric acid level,$11.22,TN
+Roane Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$10.56,TN
+Roane Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$14.19,TN
+Roane Medical Center,Chemistry,HCPCS 82436,Urine chloride level,$11.88,TN
+Roane Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$5.61,TN
+Roane Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$16.17,TN
+Roane Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$10.23,TN
+Roane Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$11.55,TN
+Roane Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$37.29,TN
+Roane Medical Center,Chemistry,HCPCS 84630,Zinc level,$12.54,TN
+Roane Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$16.83,TN
+Roane Medical Center,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$12.54,TN
+Roane Medical Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$7.92,TN
+Roane Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$33.99,TN
+Roane Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$13.53,TN
+Roane Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$11.22,TN
+Roane Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$9.90,TN
+Roane Medical Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$14.78,TN
+Roane Medical Center,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$44.55,TN
+Roane Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$12.21,TN
+Roane Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$31.35,TN
+Roane Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$10.89,TN
+Roane Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$10.89,TN
+Roane Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$13.53,TN
+Roane Medical Center,Immunology,HCPCS 86255,Screening test for antibody to noninfectious agent,$20.46,TN
+Roane Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$17.16,TN
+Roane Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$16.50,TN
+Roane Medical Center,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$44.55,TN
+Roane Medical Center,Immunology,HCPCS 86359,"T cells count, total",$35.97,TN
+Roane Medical Center,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$14.52,TN
+Roane Medical Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$16.83,TN
+Roane Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$28.71,TN
+Roane Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$19.14,TN
+Roane Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$100.16,TN
+Roane Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$81.51,TN
+Roane Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$25.74,TN
+Roane Medical Center,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$42.24,TN
+Roane Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$20.79,TN
+Roane Medical Center,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$65.34,TN
+Roane Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$116.82,TN
+Roane Medical Center,Microbiology,HCPCS 87517,Hepatitis B Detection,$68.97,TN
+Roane Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$56.43,TN
+Roane Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$18.48,TN
+Roane Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$12.87,TN
+Roane Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$7.92,TN
+Roane Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$10.89,TN
+Roane Medical Center,Microbiology,HCPCS 87045,Stool Culture,$22.44,TN
+Roane Medical Center,Microbiology,HCPCS 87880,Streptoccus,$37.95,TN
+Roane Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$29.70,TN
+Roane Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$106.26,TN
+Roane Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$36.96,TN
+Roane Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$67.65,TN
+Roane Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$31.68,TN
+Roane Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$16.50,TN
+Roane Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$39.60,TN
+Roane Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$28.38,TN
+Roane Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$29.21,TN
+Roane Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$31.68,TN
+Roane Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$118.80,TN
+Roane Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$22.44,TN
+Roane Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$15.84,TN
+Roane Medical Center,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$27.06,TN
+Roane Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$44.22,TN
+Roane Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$23.76,TN
+Roane Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$44.88,TN
+Roane Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$32.01,TN
+Roane Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$9.90,TN
+Roane Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$22.44,TN
+Roane Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$119.46,TN
+Roane Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$12.87,TN
+Roane Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$22.44,TN
+Roane Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$7.59,TN
+Roane Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$7.59,TN
+Roane Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$21.12,TN
+Roane Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$1,497.54",TN
+Roane Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$862.91,TN
+Roane Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$286.44,TN
+Roane Medical Center,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$5.80,TN
+Roane Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$3,083.62",TN
+Roane Medical Center,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$316.56,TN
+Roane Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,$790.71,TN
+Roane Medical Center,Pulmonary,HCPCS 94618,Pulmonary stress test,$72.27,TN
+Roane Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$235.29,TN
+Roane Medical Center,Sleep,HCPCS 95810,Sleep study,$931.26,TN
+Roane Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$88.77,TN
+Roane Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$193.71,TN
+Roane Medical Center,Breast,HCPCS 77067,Mammogram Screening,$88.77,TN
+Roane Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$230.67,TN
+Roane Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$3,326.21",TN
+Roane Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$435.60,TN
+Roane Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$410.85,TN
+Roane Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$381.15,TN
+Roane Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$1,419.80",TN
+Roane Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,072.97",TN
+Roane Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$871.20,TN
+Roane Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$549.26,TN
+Roane Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,$855.07,TN
+Roane Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,676.05",TN
+Roane Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,818.16",TN
+Roane Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$549.26,TN
+Roane Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$931.96,TN
+Roane Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)",$937.53,TN
+Roane Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,551.00",TN
+Roane Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$775.50,TN
+Roane Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$1,060.97",TN
+Roane Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,$775.50,TN
+Roane Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$1,076.73",TN
+Roane Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,$963.34,TN
+Roane Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$583.77,TN
+Roane Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,$945.06,TN
+Roane Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$584.76,TN
+Roane Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,$511.83,TN
+Roane Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$95.70,TN
+Roane Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$151.80,TN
+Roane Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$638.88,TN
+Roane Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$295.02,TN
+Roane Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$160.71,TN
+Roane Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$153.78,TN
+Roane Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$212.19,TN
+Roane Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$92.07,TN
+Roane Medical Center,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$130.35,TN
+Roane Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$127.05,TN
+Roane Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$519.47,TN
+Roane Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$761.31,TN
+Roane Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$129.69,TN
+Roane Medical Center,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$298.74,TN
+Roane Medical Center,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$207.39,TN
+Roane Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$78.54,TN
+Roane Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$428.95,TN
+Roane Medical Center,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$57.42,TN
+Roane Medical Center,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$170.78,TN
+Roane Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$731.66,TN
+Roane Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$633.71,TN
+Roane Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$664.62,TN
+Roane Medical Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$257.73,TN
+Roane Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views","$1,439.41",TN
+Roane Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$288.45,TN
+Roane Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$247.67,TN
+Roane Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$103.62,TN
+Roane Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$138.60,TN
+Roane Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$221.76,TN
+Roane Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$261.05,TN
+Roane Medical Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$133.32,TN
+Roane Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$129.03,TN
+Roane Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$138.93,TN
+Roane Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$408.87,TN
+Roane Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$198.33,TN
+Roane Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$454.74,TN
+Roane Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$409.20,TN
+Roane Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$133.32,TN
+Roane Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$118.47,TN
+Roane Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$324.23,TN
+Roane Medical Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$308.39,TN
+Roane Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$296.50,TN
+Roane Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$419.94,TN
+Roane Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$397.93,TN
+Roane Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views","$4,438.80",TN
+Roane Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$337.37,TN
+Roane Medical Center,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$5,517.93",TN
+Roane Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$2,422.49",TN
+Roane Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$2,039.26",TN
+Roane Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$524.90,TN
+Roane Medical Center,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$5,393.48",TN
+Roane Medical Center,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$2,810.57",TN
+Roane Medical Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$4,503.61",TN
+Roane Medical Center,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$3,690.44",TN
+Roane Medical Center,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$3,940.56",TN
+Roane Medical Center,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$2,366.67",TN
+Roane Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$1,293.07",TN
+Roane Medical Center,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers","$3,054.35",TN
+Roane Medical Center,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$10,046.21",TN
+Roane Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",$675.01,TN
+Roane Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,624.50",TN
+Roane Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,638.69",TN
+Roane Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,718.57",TN
+Roane Medical Center,Digestive,HCPCS 43235,EGD,"$1,022.65",TN
+Roane Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$2,057.89",TN
+Roane Medical Center,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$1,417.17",TN
+Roane Medical Center,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$2,101.58",TN
+Roane Medical Center,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$2,964.48",TN
+Roane Medical Center,General,HCPCS 10060,Drainage of Abscess,$213.72,TN
+Roane Medical Center,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$192.06,TN
+Roane Medical Center,General,HCPCS 69200,Removal of foreign body from ear canal,$136.62,TN
+Roane Medical Center,General,HCPCS 60240,Removal of thyroid,"$5,231.72",TN
+Roane Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$284.28,TN
+Roane Medical Center,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$402.40,TN
+Roane Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$211.82,TN
+Roane Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$276.60,TN
+Roane Medical Center,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$326.70,TN
+Roane Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$543.68,TN
+Roane Medical Center,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$321.34,TN
+Roane Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$613.23,TN
+Roane Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$9,598.40",TN
+Roane Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$2,892.28",TN
+Roane Medical Center,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$4,807.12",TN
+Roane Medical Center,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$6,073.20",TN
+Roane Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$6,384.32",TN
+Roane Medical Center,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$1,895.33",TN
+Roane Medical Center,Ocular,HCPCS 66984,Cataract removal,"$2,443.02",TN
+Roane Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$192.82,TN
+Roane Medical Center,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$261.03,TN
+Roane Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,937.11",TN
+Roane Medical Center,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,167.95",TN

@@ -1,0 +1,90 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Greenvile Community Hospital West,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$45.55,TN
+Greenvile Community Hospital West,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes",$72.45,TN
+Greenvile Community Hospital West,Emergency Care,HCPCS 99281,Emergency Level 1,$6.90,TN
+Greenvile Community Hospital West,Hospital,HCPCS 99219,Hospital observation care typically 30 minutes,$44.40,TN
+Greenvile Community Hospital West,Hospital,HCPCS 99224,"Subsequent observation care, typically 15 minutes per day",$13.05,TN
+Greenvile Community Hospital West,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$63.66,TN
+Greenvile Community Hospital West,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$66.30,TN
+Greenvile Community Hospital West,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$29.85,TN
+Greenvile Community Hospital West,Blood,HCPCS 85018,"Blood count, hemoglobin",$0.75,TN
+Greenvile Community Hospital West,Blood,HCPCS 85610,"Blood test, clotting time",$1.05,TN
+Greenvile Community Hospital West,Blood,HCPCS 85027,"Complete blood count, automated",$1.80,TN
+Greenvile Community Hospital West,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$1.05,TN
+Greenvile Community Hospital West,Chemistry,HCPCS 82150,Amylase (enzyme) level,$1.80,TN
+Greenvile Community Hospital West,Chemistry,HCPCS 84439,Assay of free thyroxine,$2.55,TN
+Greenvile Community Hospital West,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$4.80,TN
+Greenvile Community Hospital West,Chemistry,HCPCS 82310,Calcium level,$1.50,TN
+Greenvile Community Hospital West,Chemistry,HCPCS 82465,Cholesterol level,$1.20,TN
+Greenvile Community Hospital West,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$1.80,TN
+Greenvile Community Hospital West,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$4.35,TN
+Greenvile Community Hospital West,Chemistry,HCPCS 82746,Folic acid; serum,$4.20,TN
+Greenvile Community Hospital West,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$1.65,TN
+Greenvile Community Hospital West,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$1.95,TN
+Greenvile Community Hospital West,Chemistry,HCPCS 84403,Testosterone (hormone) level,$7.35,TN
+Greenvile Community Hospital West,Chemistry,HCPCS 84550,"Uric acid level, blood",$1.20,TN
+Greenvile Community Hospital West,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$8.40,TN
+Greenvile Community Hospital West,Immunology,HCPCS 86318,Covid-19 antibody test,$3.60,TN
+Greenvile Community Hospital West,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$2.40,TN
+Greenvile Community Hospital West,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$2.40,TN
+Greenvile Community Hospital West,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$2.25,TN
+Greenvile Community Hospital West,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$0.75,TN
+Greenvile Community Hospital West,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$0.60,TN
+Greenvile Community Hospital West,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$0.90,TN
+Greenvile Community Hospital West,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$1.80,TN
+Greenvile Community Hospital West,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$5.40,TN
+Greenvile Community Hospital West,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$2.85,TN
+Greenvile Community Hospital West,Pulmonary,HCPCS 94640,Aerosol Treatment,$5.55,TN
+Greenvile Community Hospital West,Breast,HCPCS 77067,Mammogram Screening,$42.75,TN
+Greenvile Community Hospital West,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,$100.20,TN
+Greenvile Community Hospital West,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$15.60,TN
+Greenvile Community Hospital West,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$28.86,TN
+Greenvile Community Hospital West,Chest,HCPCS 71045,X-ray of chest; Single View,$7.80,TN
+Greenvile Community Hospital West,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$13.50,TN
+Greenvile Community Hospital West,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$11.70,TN
+Greenvile Community Hospital West,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$9.90,TN
+Greenvile Community Hospital West,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$3,607.53",TN
+Greenvile Community Hospital West,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,$46.50,TN
+Greenvile Community Hospital West,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,$137.70,TN
+Greenvile Community Hospital West,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),$178.21,TN
+Greenvile Community Hospital West,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$5,051.69",TN
+Greenvile Community Hospital West,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,$240.30,TN
+Greenvile Community Hospital West,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,$136.80,TN
+Greenvile Community Hospital West,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,$296.85,TN
+Greenvile Community Hospital West,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,$227.01,TN
+Greenvile Community Hospital West,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),$142.05,TN
+Greenvile Community Hospital West,Breast,HCPCS 19125,Excision of breast lesion,$145.80,TN
+Greenvile Community Hospital West,Breast,HCPCS 19301,Partial removal of breast,$208.05,TN
+Greenvile Community Hospital West,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,$381.45,TN
+Greenvile Community Hospital West,Breast,HCPCS 19303,Total removal of breast,$508.75,TN
+Greenvile Community Hospital West,Cardiac,MSDRG 247,Implant drug-eluting stent,"$11,250.13",TN
+Greenvile Community Hospital West,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,$113.25,TN
+Greenvile Community Hospital West,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",$88.65,TN
+Greenvile Community Hospital West,Digestive,HCPCS 43235,EGD,$47.85,TN
+Greenvile Community Hospital West,Digestive,HCPCS 43239,EGD and biopsy,$76.11,TN
+Greenvile Community Hospital West,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,$153.15,TN
+Greenvile Community Hospital West,General,HCPCS 55700,Biopsy of prostate gland,$79.80,TN
+Greenvile Community Hospital West,General,HCPCS 60240,Removal of thyroid,$294.75,TN
+Greenvile Community Hospital West,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$31.10,TN
+Greenvile Community Hospital West,Head,HCPCS 69436,Create eardrum opening,$75.83,TN
+Greenvile Community Hospital West,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$58.08,TN
+Greenvile Community Hospital West,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,$80.40,TN
+Greenvile Community Hospital West,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$75.97,TN
+Greenvile Community Hospital West,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$7.38,TN
+Greenvile Community Hospital West,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$7,498.33",TN
+Greenvile Community Hospital West,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,$198.60,TN
+Greenvile Community Hospital West,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,$115.35,TN
+Greenvile Community Hospital West,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,$214.20,TN
+Greenvile Community Hospital West,Musculoskeletal,HCPCS 22612,Spine arthrodesis,$503.85,TN
+Greenvile Community Hospital West,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$19.80,TN
+Greenvile Community Hospital West,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,$251.93,TN
+Greenvile Community Hospital West,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$2,669.25",TN
+Greenvile Community Hospital West,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,$228.45,TN
+Greenvile Community Hospital West,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,$230.51,TN
+Greenvile Community Hospital West,Obstetrics,HCPCS 59400,Routine obstetric care,$399.60,TN
+Greenvile Community Hospital West,Obstetrics,HCPCS 59510,"Routine obstetric care for cesarean delivery, including pre-and postdelivery care",$458.58,TN
+Greenvile Community Hospital West,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$1,718.27",TN
+Greenvile Community Hospital West,Ocular,HCPCS 67311,Realignment of the eye with repair of eye muscle,$383.40,TN
+Greenvile Community Hospital West,Soft Tissue,HCPCS 97597,Debridement of open wound,$8.88,TN
+Greenvile Community Hospital West,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),$28.05,TN
+Greenvile Community Hospital West,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,$62.93,TN

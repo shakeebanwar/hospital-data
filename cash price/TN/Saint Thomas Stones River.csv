@@ -1,0 +1,113 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Saint Thomas Stones River,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes",-,TN
+Saint Thomas Stones River,Emergency Care,HCPCS 99281,Emergency Level 1,-,TN
+Saint Thomas Stones River,Emergency Care,HCPCS 99282,Emergency Level 2,-,TN
+Saint Thomas Stones River,Emergency Care,HCPCS 99283,Emergency Level 3,-,TN
+Saint Thomas Stones River,Emergency Care,HCPCS 99284,Emergency Level 4,-,TN
+Saint Thomas Stones River,Emergency Care,HCPCS 99285,Emergency Level 5,-,TN
+Saint Thomas Stones River,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),-,TN
+Saint Thomas Stones River,Sleep,HCPCS 95810,Sleep study,-,TN
+Saint Thomas Stones River,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,TN
+Saint Thomas Stones River,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,-,TN
+Saint Thomas Stones River,Abdomenal,HCPCS 47562,Cholecystectomy,-,TN
+Saint Thomas Stones River,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,-,TN
+Saint Thomas Stones River,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,-,TN
+Saint Thomas Stones River,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,-,TN
+Saint Thomas Stones River,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,-,TN
+Saint Thomas Stones River,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),-,TN
+Saint Thomas Stones River,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,-,TN
+Saint Thomas Stones River,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,-,TN
+Saint Thomas Stones River,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,TN
+Saint Thomas Stones River,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,-,TN
+Saint Thomas Stones River,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),-,TN
+Saint Thomas Stones River,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,-,TN
+Saint Thomas Stones River,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,-,TN
+Saint Thomas Stones River,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,-,TN
+Saint Thomas Stones River,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,-,TN
+Saint Thomas Stones River,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,-,TN
+Saint Thomas Stones River,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),-,TN
+Saint Thomas Stones River,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),-,TN
+Saint Thomas Stones River,Breast,HCPCS 19101,Biopsy of breast,-,TN
+Saint Thomas Stones River,Breast,HCPCS 19325,Breast enlargement using prosthetic implant,-,TN
+Saint Thomas Stones River,Breast,HCPCS 19125,Excision of breast lesion,-,TN
+Saint Thomas Stones River,Breast,HCPCS 19120,Excision of cyst of breast,-,TN
+Saint Thomas Stones River,Breast,HCPCS 19301,Partial removal of breast,-,TN
+Saint Thomas Stones River,Breast,HCPCS 19318,Reduction mammaplasty,-,TN
+Saint Thomas Stones River,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,-,TN
+Saint Thomas Stones River,Breast,HCPCS 19303,Total removal of breast,-,TN
+Saint Thomas Stones River,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,TN
+Saint Thomas Stones River,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,TN
+Saint Thomas Stones River,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,TN
+Saint Thomas Stones River,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,TN
+Saint Thomas Stones River,Cardiac,HCPCS 33249,Defibrillator complete system,-,TN
+Saint Thomas Stones River,Cardiac,HCPCS 33240,Defibrillator generator,-,TN
+Saint Thomas Stones River,Cardiac,HCPCS 93452,Diagnostic heart catheterization,-,TN
+Saint Thomas Stones River,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),-,TN
+Saint Thomas Stones River,Cardiac,MSDRG 247,Implant drug-eluting stent,-,TN
+Saint Thomas Stones River,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,TN
+Saint Thomas Stones River,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,-,TN
+Saint Thomas Stones River,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",-,TN
+Saint Thomas Stones River,Digestive,HCPCS 45380,"Colonoscopy, with biopsy",-,TN
+Saint Thomas Stones River,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal",-,TN
+Saint Thomas Stones River,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)",-,TN
+Saint Thomas Stones River,Digestive,HCPCS 43235,EGD,-,TN
+Saint Thomas Stones River,Digestive,HCPCS 43239,EGD and biopsy,-,TN
+Saint Thomas Stones River,Digestive,HCPCS 43775,Gastric Sleeve (Outpatient),-,TN
+Saint Thomas Stones River,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,-,TN
+Saint Thomas Stones River,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,-,TN
+Saint Thomas Stones River,Digestive,HCPCS 45391,Ultrasound of lower large bowel using an endoscope,-,TN
+Saint Thomas Stones River,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,TN
+Saint Thomas Stones River,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,-,TN
+Saint Thomas Stones River,General,HCPCS 55700,Biopsy of prostate gland,-,TN
+Saint Thomas Stones River,General,HCPCS 10060,Drainage of Abscess,-,TN
+Saint Thomas Stones River,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",-,TN
+Saint Thomas Stones River,General,HCPCS 55866,Prostatectomy,-,TN
+Saint Thomas Stones River,General,HCPCS 69200,Removal of foreign body from ear canal,-,TN
+Saint Thomas Stones River,General,HCPCS 60240,Removal of thyroid,-,TN
+Saint Thomas Stones River,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),-,TN
+Saint Thomas Stones River,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),-,TN
+Saint Thomas Stones River,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",-,TN
+Saint Thomas Stones River,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",-,TN
+Saint Thomas Stones River,Head,HCPCS 69436,Create eardrum opening,-,TN
+Saint Thomas Stones River,Head,HCPCS 69930,Implantation of cochlear device,-,TN
+Saint Thomas Stones River,Head,HCPCS 67028,Injection of drug into the eye,-,TN
+Saint Thomas Stones River,Head,HCPCS 69631,Repair of eardrum,-,TN
+Saint Thomas Stones River,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),-,TN
+Saint Thomas Stones River,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),-,TN
+Saint Thomas Stones River,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,TN
+Saint Thomas Stones River,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,-,TN
+Saint Thomas Stones River,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,-,TN
+Saint Thomas Stones River,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,-,TN
+Saint Thomas Stones River,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,-,TN
+Saint Thomas Stones River,Musculoskeletal,HCPCS 27200,Insertion of Breathing Tube Using an Endoscope,-,TN
+Saint Thomas Stones River,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,-,TN
+Saint Thomas Stones River,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,TN
+Saint Thomas Stones River,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,-,TN
+Saint Thomas Stones River,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,-,TN
+Saint Thomas Stones River,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,-,TN
+Saint Thomas Stones River,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,-,TN
+Saint Thomas Stones River,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,-,TN
+Saint Thomas Stones River,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,TN
+Saint Thomas Stones River,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,TN
+Saint Thomas Stones River,Musculoskeletal,HCPCS 22612,Spine arthrodesis,-,TN
+Saint Thomas Stones River,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",-,TN
+Saint Thomas Stones River,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,-,TN
+Saint Thomas Stones River,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,-,TN
+Saint Thomas Stones River,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,TN
+Saint Thomas Stones River,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,-,TN
+Saint Thomas Stones River,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,-,TN
+Saint Thomas Stones River,Obstetrics,HCPCS 58545,Removal of uterine fibroid tumors using an endoscope,-,TN
+Saint Thomas Stones River,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,TN
+Saint Thomas Stones River,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries",-,TN
+Saint Thomas Stones River,Ocular,HCPCS 66984,Cataract removal,-,TN
+Saint Thomas Stones River,Ocular,HCPCS 66982,Cataract removal with insertion of lens,-,TN
+Saint Thomas Stones River,Ocular,HCPCS 66821,Laser cataract removal,-,TN
+Saint Thomas Stones River,Ocular,HCPCS 67311,Realignment of the eye with repair of eye muscle,-,TN
+Saint Thomas Stones River,Ocular,HCPCS 65426,Removal or relocation of corneal conjunctiva,-,TN
+Saint Thomas Stones River,Ocular,HCPCS 67108,Repair of detached retina,-,TN
+Saint Thomas Stones River,Ocular,HCPCS 65756,Transplant of outer layer of corneal tissue,-,TN
+Saint Thomas Stones River,Soft Tissue,HCPCS 97597,Debridement of open wound,-,TN
+Saint Thomas Stones River,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,-,TN
+Saint Thomas Stones River,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),-,TN
+Saint Thomas Stones River,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,-,TN
+Saint Thomas Stones River,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,-,TN
