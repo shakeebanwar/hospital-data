@@ -1,0 +1,146 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Watauga Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$261.75,NC
+Watauga Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$314.25,NC
+Watauga Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",-,NC
+Watauga Medical Center,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$234.75,NC
+Watauga Medical Center,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$347.25,NC
+Watauga Medical Center,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",-,NC
+Watauga Medical Center,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",-,NC
+Watauga Medical Center,Psychology,HCPCS 90853,Group psychotherapy,$111.75,NC
+Watauga Medical Center,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$149.25,NC
+Watauga Medical Center,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$194.25,NC
+Watauga Medical Center,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$194.25,NC
+Watauga Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$21.75,NC
+Watauga Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$22.50,NC
+Watauga Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$34.50,NC
+Watauga Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$45.75,NC
+Watauga Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$59.25,NC
+Watauga Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$61.50,NC
+Watauga Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,-,NC
+Watauga Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$64.50,NC
+Watauga Medical Center,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$9.75,NC
+Watauga Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$81.75,NC
+Watauga Medical Center,Chemistry,HCPCS 82310,Calcium level,$48.75,NC
+Watauga Medical Center,Chemistry,HCPCS 82465,Cholesterol level,$22.50,NC
+Watauga Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$91.50,NC
+Watauga Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$58.50,NC
+Watauga Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,-,NC
+Watauga Medical Center,Chemistry,HCPCS 83718,HDL cholesterol level,$59.25,NC
+Watauga Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,-,NC
+Watauga Medical Center,Chemistry,HCPCS 83540,Iron level,$33.75,NC
+Watauga Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$50.25,NC
+Watauga Medical Center,Chemistry,HCPCS 83721,LDL cholesterol level,$38.25,NC
+Watauga Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$98.25,NC
+Watauga Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$179.25,NC
+Watauga Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$41.25,NC
+Watauga Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$28.50,NC
+Watauga Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,-,NC
+Watauga Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,-,NC
+Watauga Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$59.25,NC
+Watauga Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,-,NC
+Watauga Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$43.50,NC
+Watauga Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$35.25,NC
+Watauga Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$97.50,NC
+Watauga Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$50.25,NC
+Watauga Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$66.75,NC
+Watauga Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$166.50,NC
+Watauga Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$59.25,NC
+Watauga Medical Center,Microbiology,HCPCS 87880,Strep Test,$66.75,NC
+Watauga Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$63.75,NC
+Watauga Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$78.75,NC
+Watauga Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$111.75,NC
+Watauga Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$69.75,NC
+Watauga Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$91.50,NC
+Watauga Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$59.25,NC
+Watauga Medical Center,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,-,NC
+Watauga Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$41.25,NC
+Watauga Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$48.75,NC
+Watauga Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$39.75,NC
+Watauga Medical Center,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",-,NC
+Watauga Medical Center,Sleep,HCPCS 95810,Sleep study,"$2,123.25",NC
+Watauga Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$218.25,NC
+Watauga Medical Center,Breast,HCPCS 77067,Mammogram Screening,$201.75,NC
+Watauga Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$251.25,NC
+Watauga Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,144.50",NC
+Watauga Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$3,819.75",NC
+Watauga Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",-,NC
+Watauga Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,-,NC
+Watauga Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,427.50",NC
+Watauga Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$1,821.75",NC
+Watauga Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$353.25,NC
+Watauga Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",-,NC
+Watauga Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$474.75,NC
+Watauga Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",-,NC
+Watauga Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,-,NC
+Watauga Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$145.50,NC
+Watauga Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$199.50,NC
+Watauga Medical Center,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$249.75,NC
+Watauga Medical Center,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$140.25,NC
+Watauga Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$223.50,NC
+Watauga Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,-,NC
+Watauga Medical Center,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$132.75,NC
+Watauga Medical Center,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$223.50,NC
+Watauga Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$221.25,NC
+Watauga Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$134.25,NC
+Watauga Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",-,NC
+Watauga Medical Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$223.50,NC
+Watauga Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",-,NC
+Watauga Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$262.50,NC
+Watauga Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$228.75,NC
+Watauga Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$249.75,NC
+Watauga Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$134.25,NC
+Watauga Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$199.50,NC
+Watauga Medical Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$229.50,NC
+Watauga Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",-,NC
+Watauga Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$304.50,NC
+Watauga Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$263.25,NC
+Watauga Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",-,NC
+Watauga Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$377.25,NC
+Watauga Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$395.25,NC
+Watauga Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$297.75,NC
+Watauga Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$229.50,NC
+Watauga Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$208.50,NC
+Watauga Medical Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$213.75,NC
+Watauga Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$227.25,NC
+Watauga Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$269.25,NC
+Watauga Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",-,NC
+Watauga Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",-,NC
+Watauga Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$237.75,NC
+Watauga Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$18,616.66",NC
+Watauga Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$16,445.43",NC
+Watauga Medical Center,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$19,503.40",NC
+Watauga Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$13,226.79",NC
+Watauga Medical Center,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$21,674.44",NC
+Watauga Medical Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$18,146.68",NC
+Watauga Medical Center,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$7,954.81",NC
+Watauga Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$6,435.38",NC
+Watauga Medical Center,Breast,HCPCS 19301,Partial removal of breast,"$15,670.91",NC
+Watauga Medical Center,Cardiac,MSDRG 247,Implant drug-eluting stent,"$52,524.40",NC
+Watauga Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$3,951.65",NC
+Watauga Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$5,832.86",NC
+Watauga Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$5,902.89",NC
+Watauga Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$5,761.03",NC
+Watauga Medical Center,Digestive,HCPCS 43235,EGD,"$9,357.05",NC
+Watauga Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$4,590.73",NC
+Watauga Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$20,772.05",NC
+Watauga Medical Center,General,HCPCS 55700,Biopsy of prostate gland,"$1,113.75",NC
+Watauga Medical Center,General,HCPCS 60240,Removal of thyroid,"$26,152.05",NC
+Watauga Medical Center,Head,HCPCS 69436,Create eardrum opening,"$5,403.23",NC
+Watauga Medical Center,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$8,084.78",NC
+Watauga Medical Center,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$8,798.21",NC
+Watauga Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$1,170.75",NC
+Watauga Medical Center,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$1,315.50",NC
+Watauga Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$492.75,NC
+Watauga Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$40,263.63",NC
+Watauga Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$10,551.15",NC
+Watauga Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$42,977.20",NC
+Watauga Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$71,809.16",NC
+Watauga Medical Center,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$23,394.33",NC
+Watauga Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$10,884.58",NC
+Watauga Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$16,795.54",NC
+Watauga Medical Center,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$16,943.12",NC
+Watauga Medical Center,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$14,998.82",NC
+Watauga Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$8,762.98",NC
+Watauga Medical Center,Ocular,HCPCS 66984,Cataract removal,"$8,043.31",NC
+Watauga Medical Center,Ocular,HCPCS 66982,Cataract removal with insertion of lens,"$10,221.15",NC
+Watauga Medical Center,Ocular,HCPCS 66821,Laser cataract removal,"$1,120.39",NC

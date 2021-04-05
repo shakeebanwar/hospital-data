@@ -1,0 +1,301 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Person Memorial Hospital Inc,Emergency Care,HCPCS 99281,Emergency Level 1,$254.80,NC
+Person Memorial Hospital Inc,Emergency Care,HCPCS 99282,Emergency Level 2,$340.00,NC
+Person Memorial Hospital Inc,Emergency Care,HCPCS 99283,Emergency Level 3,$488.80,NC
+Person Memorial Hospital Inc,Emergency Care,HCPCS 99284,Emergency Level 4,$680.40,NC
+Person Memorial Hospital Inc,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,052.80",NC
+Person Memorial Hospital Inc,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$176.00,NC
+Person Memorial Hospital Inc,Speech,HCPCS 92507,Speech Therapy,$149.20,NC
+Person Memorial Hospital Inc,Speech,HCPCS 92610,Swallow Evaluation,$251.20,NC
+Person Memorial Hospital Inc,Speech,HCPCS 92526,Swallow Treatment,$153.20,NC
+Person Memorial Hospital Inc,Blood,HCPCS 85018,"Blood count, hemoglobin",$39.20,NC
+Person Memorial Hospital Inc,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$20.40,NC
+Person Memorial Hospital Inc,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$62.00,NC
+Person Memorial Hospital Inc,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$90.40,NC
+Person Memorial Hospital Inc,Blood,HCPCS 85610,"Blood test, clotting time",$51.60,NC
+Person Memorial Hospital Inc,Blood,HCPCS 85730,Coagulation assessment blood test,$50.40,NC
+Person Memorial Hospital Inc,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$36.80,NC
+Person Memorial Hospital Inc,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$66.80,NC
+Person Memorial Hospital Inc,Blood,HCPCS 85027,"Complete blood count, automated",$85.20,NC
+Person Memorial Hospital Inc,Blood,HCPCS 85008,Microscopic examination for white blood cells,$29.20,NC
+Person Memorial Hospital Inc,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$50.40,NC
+Person Memorial Hospital Inc,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$43.60,NC
+Person Memorial Hospital Inc,Blood,HCPCS 85660,Red blood cell sickling measurement,$50.40,NC
+Person Memorial Hospital Inc,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$1,566.40",NC
+Person Memorial Hospital Inc,Blood,HCPCS 85041,"Red blood count, automated test",$28.00,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$112.40,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 82040,Albumin (protein) level,$45.60,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$28.80,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$184.00,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 82140,Ammonia level,$101.60,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 82150,Amylase (enzyme) level,$51.20,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$178.00,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$272.00,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 84439,Assay of free thyroxine,$51.20,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$170.40,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 82248,Bilirubin level (Direct),$45.60,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 82247,Bilirubin level (Total),$45.60,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 82565,Blood creatinine level,$42.80,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$32.40,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 84295,Blood sodium level,$37.20,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$37.60,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$96.80,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 82310,Calcium level,$42.80,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$60.40,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$180.80,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 82465,Cholesterol level,$57.20,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 82525,Copper level,$107.20,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 82533,Cortisol Measurement,$178.40,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 84681,C-peptide (protein) level,$170.00,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$54.40,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$28.00,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$356.00,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$330.00,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$138.80,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 82746,Folic acid; serum,$26.80,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$28.40,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$45.60,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$96.80,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$184.00,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$189.60,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$135.20,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 83718,HDL cholesterol level,$100.00,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 83020,Hemoglobin Measurement,$110.00,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$329.60,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$79.60,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$112.40,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 83525,Insulin Measurement; Total,$108.40,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 82330,Ionized Calcium,$145.20,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 83550,Iron Binding Capacity,$70.80,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 83540,Iron level,$39.20,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$42.80,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 83721,LDL cholesterol level,$51.60,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$90.40,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$42.80,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$138.80,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 83021,Liver function blood test panel,$74.00,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 83735,Magnesium Level,$50.40,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 82542,Mass spectrometry,$56.80,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$40.80,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 83970,Parathormone,$407.20,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 84157,Prealbumin (protein) level,$34.80,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$116.40,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$217.20,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$104.80,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 82270,Stool analysis for blood,$19.20,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 84403,Testosterone (hormone) level,$126.80,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 84402,Testosterone Level; Free,$126.80,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$90.40,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$455.60,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$90.40,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 84155,"Total protein level, blood",$45.60,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$68.40,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 84478,Triglycerides level,$18.00,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 84166,Troponin (protein) analysis,$154.40,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 84560,Uric acid level,$40.40,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 84550,"Uric acid level, blood",$39.20,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 82340,Urine calcium level,$37.60,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 82436,Urine chloride level,$45.20,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$5.60,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$70.80,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 84133,Urine potassium level,$62.00,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 84300,Urine sodium level,$43.60,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 84591,Vitamin B-6 level,$70.80,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$144.80,NC
+Person Memorial Hospital Inc,Chemistry,HCPCS 84630,Zinc level,$99.60,NC
+Person Memorial Hospital Inc,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$273.60,NC
+Person Memorial Hospital Inc,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$118.80,NC
+Person Memorial Hospital Inc,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$26.40,NC
+Person Memorial Hospital Inc,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$26.40,NC
+Person Memorial Hospital Inc,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$38.80,NC
+Person Memorial Hospital Inc,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$82.40,NC
+Person Memorial Hospital Inc,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$113.20,NC
+Person Memorial Hospital Inc,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$100.00,NC
+Person Memorial Hospital Inc,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$94.00,NC
+Person Memorial Hospital Inc,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$323.60,NC
+Person Memorial Hospital Inc,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$47.60,NC
+Person Memorial Hospital Inc,Immunology,HCPCS 86140,Measurement C-reactive protein,$66.40,NC
+Person Memorial Hospital Inc,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$366.40,NC
+Person Memorial Hospital Inc,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$104.80,NC
+Person Memorial Hospital Inc,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$102.40,NC
+Person Memorial Hospital Inc,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$8.40,NC
+Person Memorial Hospital Inc,Immunology,HCPCS 86431,Rheumatoid factor level,$50.40,NC
+Person Memorial Hospital Inc,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$79.20,NC
+Person Memorial Hospital Inc,Immunology,HCPCS 86592,Syphilis Detection Test,$60.40,NC
+Person Memorial Hospital Inc,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$402.40,NC
+Person Memorial Hospital Inc,Immunology,HCPCS 86359,"T cells count, total",$323.60,NC
+Person Memorial Hospital Inc,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$38.80,NC
+Person Memorial Hospital Inc,Immunology,HCPCS 86580,Tuberculosis Test,$28.80,NC
+Person Memorial Hospital Inc,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$70.80,NC
+Person Memorial Hospital Inc,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$70.80,NC
+Person Memorial Hospital Inc,Microbiology,HCPCS 87491,Chlamydia Test,$106.80,NC
+Person Memorial Hospital Inc,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$211.20,NC
+Person Memorial Hospital Inc,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$184.00,NC
+Person Memorial Hospital Inc,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$278.80,NC
+Person Memorial Hospital Inc,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$101.60,NC
+Person Memorial Hospital Inc,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$108.40,NC
+Person Memorial Hospital Inc,Microbiology,HCPCS 87517,Hepatitis B Detection,$281.20,NC
+Person Memorial Hospital Inc,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$50.40,NC
+Person Memorial Hospital Inc,Microbiology,HCPCS 87624,HPV Detection,$77.60,NC
+Person Memorial Hospital Inc,Microbiology,HCPCS 86735,Mumps virus antibody test,$191.60,NC
+Person Memorial Hospital Inc,Microbiology,HCPCS 86747,Parvovirus antibody test,$130.40,NC
+Person Memorial Hospital Inc,Microbiology,HCPCS 86762,Rubella virus antibody test,$124.40,NC
+Person Memorial Hospital Inc,Microbiology,HCPCS 86765,Rubeola virus antibody test,$156.00,NC
+Person Memorial Hospital Inc,Microbiology,HCPCS 87207,Smear for infectious agents,$32.80,NC
+Person Memorial Hospital Inc,Microbiology,HCPCS 87177,Smear for Parasites,$68.40,NC
+Person Memorial Hospital Inc,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$62.00,NC
+Person Memorial Hospital Inc,Microbiology,HCPCS 87045,Stool Culture,$70.80,NC
+Person Memorial Hospital Inc,Microbiology,HCPCS 87880,Streptoccus,$60.40,NC
+Person Memorial Hospital Inc,Microbiology,HCPCS 87804,Test for Influenza Virus,$100.00,NC
+Person Memorial Hospital Inc,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$115.60,NC
+Person Memorial Hospital Inc,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$136.40,NC
+Person Memorial Hospital Inc,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$219.60,NC
+Person Memorial Hospital Inc,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$355.60,NC
+Person Memorial Hospital Inc,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$79.20,NC
+Person Memorial Hospital Inc,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$92.40,NC
+Person Memorial Hospital Inc,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$101.60,NC
+Person Memorial Hospital Inc,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$163.20,NC
+Person Memorial Hospital Inc,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$87.60,NC
+Person Memorial Hospital Inc,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$124.00,NC
+Person Memorial Hospital Inc,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$119.20,NC
+Person Memorial Hospital Inc,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$178.80,NC
+Person Memorial Hospital Inc,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$90.40,NC
+Person Memorial Hospital Inc,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$117.20,NC
+Person Memorial Hospital Inc,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$62.00,NC
+Person Memorial Hospital Inc,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$79.20,NC
+Person Memorial Hospital Inc,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$100.00,NC
+Person Memorial Hospital Inc,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$90.40,NC
+Person Memorial Hospital Inc,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$402.80,NC
+Person Memorial Hospital Inc,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$81.60,NC
+Person Memorial Hospital Inc,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$81.60,NC
+Person Memorial Hospital Inc,Transfusion,HCPCS 86900,"Blood Typing, ABO",$42.80,NC
+Person Memorial Hospital Inc,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$39.20,NC
+Person Memorial Hospital Inc,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$252.00,NC
+Person Memorial Hospital Inc,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$108.40,NC
+Person Memorial Hospital Inc,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$68.80,NC
+Person Memorial Hospital Inc,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$41.60,NC
+Person Memorial Hospital Inc,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$91.20,NC
+Person Memorial Hospital Inc,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$30.80,NC
+Person Memorial Hospital Inc,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$45.60,NC
+Person Memorial Hospital Inc,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$54.00,NC
+Person Memorial Hospital Inc,Cardiovascular,HCPCS 93015,"Cardiovascular stress test, with interpretation and report",$888.00,NC
+Person Memorial Hospital Inc,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$663.20,NC
+Person Memorial Hospital Inc,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$156.00,NC
+Person Memorial Hospital Inc,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$48.40,NC
+Person Memorial Hospital Inc,Cardiovascular,HCPCS 93975,Ultrasound Heart,$594.00,NC
+Person Memorial Hospital Inc,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$170.00,NC
+Person Memorial Hospital Inc,Pulmonary,HCPCS 94640,Nebulizer Treatment,$182.40,NC
+Person Memorial Hospital Inc,Pulmonary,HCPCS 94010,Spirometry - breathing test,$180.40,NC
+Person Memorial Hospital Inc,Sleep,HCPCS 95810,Sleep study,"$2,187.20",NC
+Person Memorial Hospital Inc,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$210.80,NC
+Person Memorial Hospital Inc,Breast,HCPCS 77067,Mammogram Screening,$223.60,NC
+Person Memorial Hospital Inc,Breast,HCPCS 77066,Mammography of both breasts,$262.40,NC
+Person Memorial Hospital Inc,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,845.60",NC
+Person Memorial Hospital Inc,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,636.80",NC
+Person Memorial Hospital Inc,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,022.00",NC
+Person Memorial Hospital Inc,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,606.80",NC
+Person Memorial Hospital Inc,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,070.40",NC
+Person Memorial Hospital Inc,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,776.00",NC
+Person Memorial Hospital Inc,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,257.20",NC
+Person Memorial Hospital Inc,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,897.60",NC
+Person Memorial Hospital Inc,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$2,058.00",NC
+Person Memorial Hospital Inc,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,626.80",NC
+Person Memorial Hospital Inc,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,359.20",NC
+Person Memorial Hospital Inc,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,897.60",NC
+Person Memorial Hospital Inc,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,128.80",NC
+Person Memorial Hospital Inc,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,036.40",NC
+Person Memorial Hospital Inc,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,492.40",NC
+Person Memorial Hospital Inc,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,492.40",NC
+Person Memorial Hospital Inc,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$1,928.80",NC
+Person Memorial Hospital Inc,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,492.40",NC
+Person Memorial Hospital Inc,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$1,492.40",NC
+Person Memorial Hospital Inc,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,043.20",NC
+Person Memorial Hospital Inc,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,492.40",NC
+Person Memorial Hospital Inc,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,928.80",NC
+Person Memorial Hospital Inc,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,492.40",NC
+Person Memorial Hospital Inc,MRI,HCPCS 73721,MRI scan of leg joint,"$1,492.40",NC
+Person Memorial Hospital Inc,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$639.20,NC
+Person Memorial Hospital Inc,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$262.80,NC
+Person Memorial Hospital Inc,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$422.40,NC
+Person Memorial Hospital Inc,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$559.60,NC
+Person Memorial Hospital Inc,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$871.60,NC
+Person Memorial Hospital Inc,Ultrasound,HCPCS 76881,Ultrasound Joint Soft Tissue - Complete,$419.60,NC
+Person Memorial Hospital Inc,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$615.60,NC
+Person Memorial Hospital Inc,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$336.80,NC
+Person Memorial Hospital Inc,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$298.00,NC
+Person Memorial Hospital Inc,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$615.60,NC
+Person Memorial Hospital Inc,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$468.80,NC
+Person Memorial Hospital Inc,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$402.00,NC
+Person Memorial Hospital Inc,Chest,HCPCS 71046,X-ray of chest; 2 Views,$170.40,NC
+Person Memorial Hospital Inc,Chest,HCPCS 71045,X-ray of chest; Single View,$166.40,NC
+Person Memorial Hospital Inc,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$205.20,NC
+Person Memorial Hospital Inc,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$285.60,NC
+Person Memorial Hospital Inc,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$205.20,NC
+Person Memorial Hospital Inc,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$308.80,NC
+Person Memorial Hospital Inc,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$300.80,NC
+Person Memorial Hospital Inc,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$133.60,NC
+Person Memorial Hospital Inc,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$164.40,NC
+Person Memorial Hospital Inc,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$300.80,NC
+Person Memorial Hospital Inc,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$250.00,NC
+Person Memorial Hospital Inc,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$152.00,NC
+Person Memorial Hospital Inc,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$160.80,NC
+Person Memorial Hospital Inc,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$168.80,NC
+Person Memorial Hospital Inc,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$145.20,NC
+Person Memorial Hospital Inc,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$173.60,NC
+Person Memorial Hospital Inc,Lower Limbs,HCPCS 73630,X-ray exam of foot,$176.00,NC
+Person Memorial Hospital Inc,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$174.80,NC
+Person Memorial Hospital Inc,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$152.00,NC
+Person Memorial Hospital Inc,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$140.00,NC
+Person Memorial Hospital Inc,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$140.00,NC
+Person Memorial Hospital Inc,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$147.60,NC
+Person Memorial Hospital Inc,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$198.00,NC
+Person Memorial Hospital Inc,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$145.20,NC
+Person Memorial Hospital Inc,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$333.20,NC
+Person Memorial Hospital Inc,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$204.40,NC
+Person Memorial Hospital Inc,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$333.20,NC
+Person Memorial Hospital Inc,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$204.40,NC
+Person Memorial Hospital Inc,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$176.00,NC
+Person Memorial Hospital Inc,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$108.80,NC
+Person Memorial Hospital Inc,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$148.40,NC
+Person Memorial Hospital Inc,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$147.60,NC
+Person Memorial Hospital Inc,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$188.00,NC
+Person Memorial Hospital Inc,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$147.60,NC
+Person Memorial Hospital Inc,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$147.60,NC
+Person Memorial Hospital Inc,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$176.00,NC
+Person Memorial Hospital Inc,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$37,044.52",NC
+Person Memorial Hospital Inc,Abdomenal,HCPCS 47562,Cholecystectomy,"$15,564.86",NC
+Person Memorial Hospital Inc,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$13,523.63",NC
+Person Memorial Hospital Inc,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$121.60,NC
+Person Memorial Hospital Inc,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$23,004.68",NC
+Person Memorial Hospital Inc,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$17,130.81",NC
+Person Memorial Hospital Inc,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$12,174.76",NC
+Person Memorial Hospital Inc,Breast,HCPCS 19101,Biopsy of breast,"$5,830.40",NC
+Person Memorial Hospital Inc,Breast,HCPCS 19120,Excision of cyst of breast,"$12,748.73",NC
+Person Memorial Hospital Inc,Breast,HCPCS 19301,Partial removal of breast,"$14,295.05",NC
+Person Memorial Hospital Inc,Breast,HCPCS 19303,Total removal of breast,"$12,275.01",NC
+Person Memorial Hospital Inc,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$3,114.00",NC
+Person Memorial Hospital Inc,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$3,314.40",NC
+Person Memorial Hospital Inc,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$3,859.32",NC
+Person Memorial Hospital Inc,Digestive,HCPCS 43235,EGD,"$3,618.00",NC
+Person Memorial Hospital Inc,Digestive,HCPCS 43239,EGD and biopsy,"$3,154.06",NC
+Person Memorial Hospital Inc,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$9,796.14",NC
+Person Memorial Hospital Inc,General,HCPCS 10060,Drainage of Abscess,$236.00,NC
+Person Memorial Hospital Inc,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$450.80,NC
+Person Memorial Hospital Inc,General,HCPCS 69200,Removal of foreign body from ear canal,$170.11,NC
+Person Memorial Hospital Inc,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$472.80,NC
+Person Memorial Hospital Inc,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$472.80,NC
+Person Memorial Hospital Inc,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$472.80,NC
+Person Memorial Hospital Inc,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$472.80,NC
+Person Memorial Hospital Inc,Head,HCPCS 69436,Create eardrum opening,"$5,056.62",NC
+Person Memorial Hospital Inc,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$12,894.42",NC
+Person Memorial Hospital Inc,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$12,536.86",NC
+Person Memorial Hospital Inc,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$281.20,NC
+Person Memorial Hospital Inc,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$453.20,NC
+Person Memorial Hospital Inc,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$25,924.84",NC
+Person Memorial Hospital Inc,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$10,958.75",NC
+Person Memorial Hospital Inc,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$16,327.37",NC
+Person Memorial Hospital Inc,Ocular,HCPCS 66984,Cataract removal,"$6,353.16",NC
+Person Memorial Hospital Inc,Ocular,HCPCS 66982,Cataract removal with insertion of lens,"$6,531.86",NC
+Person Memorial Hospital Inc,Soft Tissue,HCPCS 97597,Debridement of open wound,$271.20,NC
+Person Memorial Hospital Inc,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,806.00",NC
+Person Memorial Hospital Inc,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$716.80,NC
