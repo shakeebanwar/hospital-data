@@ -1,0 +1,984 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State,plan_name,price
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,017.65",AR,AETNA COMMERCIAL,1428.05
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,017.65",AR,BLUECROSS BLUESHIELD COMMERCIAL,1238.61
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,017.65",AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,213.95
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,017.65",AR,HUMANA MEDICARE ADVANTAGE,664.37
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,017.65",AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,445.07
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$579.04,AR,AETNA COMMERCIAL,562.64
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$579.04,AR,AETNA PPO,317.21
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$579.04,AR,AMBETTER COMMERCIAL,282.77
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$579.04,AR,AMBETTER MANAGED MEDICAID,138.74
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$579.04,AR,BLUECROSS BLUESHIELD COMMERCIAL,475.24
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$579.04,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,482.85
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$579.04,AR,CIGNA COMMERCIAL,187.60
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$579.04,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,189.71
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$579.04,AR,HUMANA MEDICARE ADVANTAGE,277.26
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$579.04,AR,UNITED HEALTHCARE COMMERCIAL,193.68
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$579.04,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,208.06
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$579.04,AR,AETNA COMMERCIAL,562.64
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$579.04,AR,AETNA PPO,317.21
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$579.04,AR,AMBETTER COMMERCIAL,282.77
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$579.04,AR,AMBETTER MANAGED MEDICAID,138.74
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$579.04,AR,BLUECROSS BLUESHIELD COMMERCIAL,475.24
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$579.04,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,482.85
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$579.04,AR,CIGNA COMMERCIAL,187.60
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$579.04,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,189.71
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$579.04,AR,HUMANA MEDICARE ADVANTAGE,277.26
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$579.04,AR,UNITED HEALTHCARE COMMERCIAL,193.68
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$579.04,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,208.06
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$579.04,AR,AETNA COMMERCIAL,562.64
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$579.04,AR,AETNA PPO,317.21
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$579.04,AR,AMBETTER COMMERCIAL,282.77
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$579.04,AR,AMBETTER MANAGED MEDICAID,138.74
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$579.04,AR,BLUECROSS BLUESHIELD COMMERCIAL,475.24
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$579.04,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,482.85
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$579.04,AR,CIGNA COMMERCIAL,187.60
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$579.04,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,189.71
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$579.04,AR,HUMANA MEDICARE ADVANTAGE,277.26
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$579.04,AR,UNITED HEALTHCARE COMMERCIAL,193.68
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$579.04,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,208.06
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,$579.04,AR,AETNA COMMERCIAL,562.64
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,$579.04,AR,AETNA PPO,317.21
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,$579.04,AR,AMBETTER COMMERCIAL,282.77
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,$579.04,AR,AMBETTER MANAGED MEDICAID,138.74
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,$579.04,AR,BLUECROSS BLUESHIELD COMMERCIAL,475.24
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,$579.04,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,482.85
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,$579.04,AR,CIGNA COMMERCIAL,187.60
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,$579.04,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,189.71
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,$579.04,AR,HUMANA MEDICARE ADVANTAGE,277.26
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,$579.04,AR,UNITED HEALTHCARE COMMERCIAL,193.68
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,$579.04,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,208.06
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,$579.04,AR,AETNA COMMERCIAL,562.64
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,$579.04,AR,AETNA PPO,317.21
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,$579.04,AR,AMBETTER COMMERCIAL,282.77
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,$579.04,AR,AMBETTER MANAGED MEDICAID,138.74
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,$579.04,AR,BLUECROSS BLUESHIELD COMMERCIAL,475.24
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,$579.04,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,482.85
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,$579.04,AR,CIGNA COMMERCIAL,187.60
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,$579.04,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,189.71
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,$579.04,AR,HUMANA MEDICARE ADVANTAGE,277.26
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,$579.04,AR,UNITED HEALTHCARE COMMERCIAL,193.68
+St. Bernards Five Rivers Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,$579.04,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,208.06
+St. Bernards Five Rivers Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$196.57,AR,BLUECROSS BLUESHIELD COMMERCIAL,123.56
+St. Bernards Five Rivers Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$196.57,AR,CIGNA COMMERCIAL,55.67
+St. Bernards Five Rivers Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$196.57,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,100.14
+St. Bernards Five Rivers Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$196.57,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,89.27
+St. Bernards Five Rivers Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$196.57,AR,HUMANA MEDICARE ADVANTAGE,108.22
+St. Bernards Five Rivers Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$196.57,AR,MUNICIPAL COMMERCIAL,80.05
+St. Bernards Five Rivers Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$196.57,AR,UNITED HEALTHCARE COMMERCIAL,66.77
+St. Bernards Five Rivers Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$196.57,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,80.85
+St. Bernards Five Rivers Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$196.57,AR,AETNA COMMERCIAL,70.66
+St. Bernards Five Rivers Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$196.57,AR,AETNA PPO,91.31
+St. Bernards Five Rivers Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$196.57,AR,AMBETTER COMMERCIAL,89.45
+St. Bernards Five Rivers Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$196.57,AR,AMBETTER MANAGED MEDICAID,95.05
+St. Bernards Five Rivers Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$196.57,AR,BLUECROSS BLUESHIELD COMMERCIAL,123.56
+St. Bernards Five Rivers Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$196.57,AR,CIGNA COMMERCIAL,55.67
+St. Bernards Five Rivers Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$196.57,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,100.14
+St. Bernards Five Rivers Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$196.57,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,89.27
+St. Bernards Five Rivers Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$196.57,AR,HUMANA MEDICARE ADVANTAGE,108.22
+St. Bernards Five Rivers Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$196.57,AR,MUNICIPAL COMMERCIAL,80.05
+St. Bernards Five Rivers Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$196.57,AR,UNITED HEALTHCARE COMMERCIAL,66.77
+St. Bernards Five Rivers Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$196.57,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,80.85
+St. Bernards Five Rivers Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$196.57,AR,AETNA COMMERCIAL,70.66
+St. Bernards Five Rivers Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$196.57,AR,AETNA PPO,91.31
+St. Bernards Five Rivers Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$196.57,AR,AMBETTER COMMERCIAL,89.45
+St. Bernards Five Rivers Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$196.57,AR,AMBETTER MANAGED MEDICAID,95.05
+St. Bernards Five Rivers Medical Center,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$172.25,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,123.67
+St. Bernards Five Rivers Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$449.15,AR,CIGNA COMMERCIAL,90.00
+St. Bernards Five Rivers Medical Center,Speech,HCPCS 92526,Swallow Treatment,$123.50,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,82.33
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$4.97,AR,AETNA COMMERCIAL,2.37
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$4.97,AR,BLUECROSS BLUESHIELD COMMERCIAL,2.89
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$4.97,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,2.46
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$4.97,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,2.89
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$4.97,AR,HUMANA MEDICARE ADVANTAGE,2.37
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$4.97,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,2.44
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$4.99,AR,AETNA COMMERCIAL,2.37
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$4.99,AR,BLUECROSS BLUESHIELD COMMERCIAL,2.89
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$4.99,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,2.46
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$4.99,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,2.89
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$4.99,AR,HUMANA MEDICARE ADVANTAGE,2.37
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$4.99,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,2.44
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$32.50,AR,BLUECROSS BLUESHIELD COMMERCIAL,15.73
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$30.43,AR,AETNA COMMERCIAL,10.00
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$30.43,AR,AMBETTER COMMERCIAL,7.49
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$30.43,AR,BLUE ADVANTAGE PPO,4.81
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$30.43,AR,BLUECROSS BLUESHIELD COMMERCIAL,4.81
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$30.43,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,4.81
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$30.43,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,4.35
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$30.43,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,4.81
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$30.43,AR,HUMANA MEDICARE ADVANTAGE,4.32
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$30.43,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,4.32
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$12.69,AR,AETNA COMMERCIAL,15.00
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$12.69,AR,BLUE ADVANTAGE PPO,7.34
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$12.69,AR,BLUECROSS BLUESHIELD COMMERCIAL,7.34
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$12.69,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,7.34
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$12.69,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,6.45
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$12.69,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,7.34
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$12.69,AR,HUMANA MEDICARE ADVANTAGE,6.14
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$12.69,AR,UNITED HEALTHCARE COMMERCIAL,7.42
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$12.69,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,6.21
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$22.89,AR,BLUE ADVANTAGE PPO,9.00
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$22.89,AR,BLUECROSS BLUESHIELD COMMERCIAL,9.44
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$22.89,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,9.31
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$22.89,AR,CIGNA COMMERCIAL,12.27
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$22.89,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,8.28
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$22.89,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,9.25
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$22.89,AR,HUMANA MEDICARE ADVANTAGE,8.02
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$22.89,AR,UNITED HEALTHCARE COMMERCIAL,9.59
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$22.89,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,8.09
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$22.89,AR,AETNA COMMERCIAL,28.80
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$22.89,AR,AETNA PPO,27.35
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$22.89,AR,AMBETTER COMMERCIAL,14.53
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$22.89,AR,BLUE ADVANTAGE PPO,9.00
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$22.89,AR,BLUECROSS BLUESHIELD COMMERCIAL,9.44
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$22.89,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,9.31
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$22.89,AR,CIGNA COMMERCIAL,12.27
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$22.89,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,8.28
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$22.89,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,9.25
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$22.89,AR,HUMANA MEDICARE ADVANTAGE,8.02
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$22.89,AR,UNITED HEALTHCARE COMMERCIAL,9.59
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$22.89,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,8.09
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$22.89,AR,AETNA COMMERCIAL,28.80
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$22.89,AR,AETNA PPO,27.35
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$22.89,AR,AMBETTER COMMERCIAL,14.53
+St. Bernards Five Rivers Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$8.24,AR,BLUECROSS BLUESHIELD COMMERCIAL,4.20
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$184.60,AR,BLUE ADVANTAGE PPO,47.20
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$184.60,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,47.20
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$15.28,AR,AETNA COMMERCIAL,4.95
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$15.28,AR,BLUECROSS BLUESHIELD COMMERCIAL,6.05
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$15.28,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,5.24
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$15.28,AR,HUMANA MEDICARE ADVANTAGE,4.95
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$15.28,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,5.13
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82140,Ammonia level,$62.99,AR,BLUECROSS BLUESHIELD COMMERCIAL,17.81
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82140,Ammonia level,$62.99,AR,HUMANA MEDICARE ADVANTAGE,14.57
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$8.45,AR,AMBETTER COMMERCIAL,12.35
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$8.45,AR,BLUE ADVANTAGE PPO,7.92
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$8.45,AR,BLUECROSS BLUESHIELD COMMERCIAL,7.92
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$8.45,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,7.92
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$8.45,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,7.92
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$67.01,AR,BLUE ADVANTAGE PPO,9.71
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$67.01,AR,BLUECROSS BLUESHIELD COMMERCIAL,22.94
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$67.01,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,8.39
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$67.01,AR,CIGNA COMMERCIAL,32.67
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$67.01,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,9.02
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$67.01,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,8.39
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$67.01,AR,HUMANA MEDICARE ADVANTAGE,9.02
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$67.01,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,7.25
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$12.35,AR,BLUECROSS BLUESHIELD COMMERCIAL,6.13
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$12.35,AR,BLUECROSS BLUESHIELD COMMERCIAL,6.13
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$8.65,AR,AETNA COMMERCIAL,8.37
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$8.65,AR,BLUE ADVANTAGE PPO,6.26
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$8.65,AR,BLUECROSS BLUESHIELD COMMERCIAL,6.37
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$8.65,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,6.26
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$8.65,AR,CIGNA COMMERCIAL,9.38
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$8.65,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,6.26
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$8.65,AR,HUMANA MEDICARE ADVANTAGE,5.44
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$8.65,AR,UNITED HEALTHCARE COMMERCIAL,6.33
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$8.65,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,5.54
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$16.07,AR,AETNA COMMERCIAL,3.93
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$16.07,AR,BLUECROSS BLUESHIELD COMMERCIAL,4.81
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$16.07,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,4.81
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$16.07,AR,UNITED HEALTHCARE COMMERCIAL,4.85
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84132,Blood potassium level,$9.14,AR,AMBETTER COMMERCIAL,8.76
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84132,Blood potassium level,$9.14,AR,BLUECROSS BLUESHIELD COMMERCIAL,5.62
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84132,Blood potassium level,$9.14,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,4.76
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$37.52,AR,AETNA COMMERCIAL,33.90
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$37.52,AR,AMBETTER COMMERCIAL,32.02
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$37.52,AR,BLUE ADVANTAGE PPO,20.54
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$37.52,AR,BLUECROSS BLUESHIELD COMMERCIAL,21.53
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$37.52,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,20.54
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$37.52,AR,CIGNA COMMERCIAL,17.20
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$37.52,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,17.42
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$37.52,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,20.54
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$37.52,AR,HUMANA MEDICARE ADVANTAGE,17.07
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$37.52,AR,UNITED HEALTHCARE COMMERCIAL,20.75
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$37.52,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,17.97
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82310,Calcium level,$8.26,AR,AETNA COMMERCIAL,5.59
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82310,Calcium level,$8.26,AR,BLUECROSS BLUESHIELD COMMERCIAL,6.30
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82310,Calcium level,$8.26,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,6.30
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$83.20,AR,BLUE ADVANTAGE PPO,19.92
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$56.88,AR,BLUECROSS BLUESHIELD COMMERCIAL,25.44
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$13.29,AR,BLUECROSS BLUESHIELD COMMERCIAL,7.95
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$13.29,AR,CIGNA COMMERCIAL,9.52
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$13.29,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,7.95
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$13.29,AR,HUMANA MEDICARE ADVANTAGE,6.87
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$13.29,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,7.23
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$76.28,AR,BLUE ADVANTAGE PPO,18.43
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$76.28,AR,BLUECROSS BLUESHIELD COMMERCIAL,18.43
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$76.28,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,15.64
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$156.31,AR,AETNA COMMERCIAL,38.50
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$156.31,AR,BLUE ADVANTAGE PPO,47.06
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$156.31,AR,BLUECROSS BLUESHIELD COMMERCIAL,47.06
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$156.31,AR,CIGNA COMMERCIAL,94.55
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$156.31,AR,HUMANA MEDICARE ADVANTAGE,42.78
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$156.31,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,38.50
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$51.40,AR,BLUECROSS BLUESHIELD COMMERCIAL,16.67
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$51.40,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,15.15
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$51.40,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,16.67
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$51.40,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,14.64
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$72.66,AR,BLUECROSS BLUESHIELD COMMERCIAL,17.97
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$72.66,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,16.34
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$65.26,AR,BLUECROSS BLUESHIELD COMMERCIAL,15.75
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$65.26,AR,UNITED HEALTHCARE COMMERCIAL,15.90
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$46.22,AR,BLUE ADVANTAGE PPO,11.87
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$46.22,AR,BLUECROSS BLUESHIELD COMMERCIAL,11.97
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$46.22,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,11.87
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$46.22,AR,CIGNA COMMERCIAL,17.90
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$46.22,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,11.87
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$46.22,AR,HUMANA MEDICARE ADVANTAGE,10.03
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$46.22,AR,UNITED HEALTHCARE COMMERCIAL,11.99
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$46.22,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,10.22
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$46.22,AR,AETNA COMMERCIAL,9.71
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$46.22,AR,AMBETTER COMMERCIAL,18.49
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$151.45,AR,AMBETTER COMMERCIAL,35.41
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$151.45,AR,BLUECROSS BLUESHIELD COMMERCIAL,22.72
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$151.45,AR,AMBETTER COMMERCIAL,35.28
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$75.40,AR,CIGNA COMMERCIAL,35.49
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$42.46,AR,CIGNA COMMERCIAL,24.68
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$42.46,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,9.71
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$42.46,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,10.68
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$42.46,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,8.74
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83540,Iron level,$49.04,AR,BLUECROSS BLUESHIELD COMMERCIAL,7.91
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83540,Iron level,$49.04,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,6.83
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$157.13,AR,BLUE ADVANTAGE PPO,7.38
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$157.13,AR,BLUECROSS BLUESHIELD COMMERCIAL,7.38
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$157.13,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,7.38
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$157.13,AR,CIGNA COMMERCIAL,9.07
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$157.13,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,6.71
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$157.13,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,7.38
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$47.66,AR,AETNA COMMERCIAL,67.15
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$47.66,AR,AMBETTER COMMERCIAL,13.13
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$47.66,AR,BLUE ADVANTAGE PPO,8.42
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$47.66,AR,BLUECROSS BLUESHIELD COMMERCIAL,9.25
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$47.66,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,8.42
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$47.66,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,8.42
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$47.66,AR,HUMANA MEDICARE ADVANTAGE,6.89
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$35.04,AR,BLUE ADVANTAGE PPO,17.33
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$35.04,AR,BLUECROSS BLUESHIELD COMMERCIAL,20.82
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$35.04,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,17.33
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$35.04,AR,CIGNA COMMERCIAL,11.82
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$35.04,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,14.18
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$35.04,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,17.33
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$35.04,AR,HUMANA MEDICARE ADVANTAGE,16.94
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$35.04,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,14.97
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$15.59,AR,AETNA COMMERCIAL,10.85
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$15.59,AR,AMBETTER COMMERCIAL,12.75
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$15.59,AR,BLUE ADVANTAGE PPO,8.18
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$15.59,AR,BLUECROSS BLUESHIELD COMMERCIAL,8.18
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$15.59,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,8.18
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$15.59,AR,CIGNA COMMERCIAL,5.99
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$15.59,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,7.23
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$15.59,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,8.18
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$15.59,AR,HUMANA MEDICARE ADVANTAGE,7.03
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$15.59,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,6.95
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83970,Parathormone,$315.19,AR,AETNA COMMERCIAL,41.28
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83970,Parathormone,$315.19,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,43.67
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83970,Parathormone,$315.19,AR,HUMANA MEDICARE ADVANTAGE,41.28
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 83970,Parathormone,$315.19,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,43.24
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$113.52,AR,AMBETTER COMMERCIAL,36.92
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$113.52,AR,BLUE ADVANTAGE PPO,23.68
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$113.52,AR,BLUECROSS BLUESHIELD COMMERCIAL,23.68
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$113.52,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,23.68
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$26.46,AR,AMBETTER COMMERCIAL,6.99
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$26.46,AR,BLUECROSS BLUESHIELD COMMERCIAL,9.42
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$26.46,AR,HUMANA MEDICARE ADVANTAGE,8.38
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$26.46,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,6.56
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$6.50,AR,BLUE ADVANTAGE PPO,4.49
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$6.50,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,4.38
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$6.50,AR,HUMANA MEDICARE ADVANTAGE,2.19
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$81.69,AR,AMBETTER COMMERCIAL,48.51
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$81.69,AR,BLUECROSS BLUESHIELD COMMERCIAL,31.27
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$81.69,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,31.13
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$81.69,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,31.34
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$81.69,AR,AMBETTER COMMERCIAL,48.51
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$81.69,AR,BLUECROSS BLUESHIELD COMMERCIAL,31.27
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$81.69,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,31.13
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$81.69,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,31.34
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$67.01,AR,BLUE ADVANTAGE PPO,9.71
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$67.01,AR,BLUECROSS BLUESHIELD COMMERCIAL,22.94
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$67.01,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,8.39
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$67.01,AR,CIGNA COMMERCIAL,32.67
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$67.01,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,9.02
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$67.01,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,8.39
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$67.01,AR,HUMANA MEDICARE ADVANTAGE,9.02
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$67.01,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,7.25
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$26.46,AR,AMBETTER COMMERCIAL,6.99
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$26.46,AR,BLUECROSS BLUESHIELD COMMERCIAL,9.42
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$26.46,AR,HUMANA MEDICARE ADVANTAGE,8.38
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$26.46,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,6.56
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$26.46,AR,AMBETTER COMMERCIAL,6.99
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$26.46,AR,BLUECROSS BLUESHIELD COMMERCIAL,9.42
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$26.46,AR,HUMANA MEDICARE ADVANTAGE,8.38
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$26.46,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,6.56
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$9.42,AR,BLUECROSS BLUESHIELD COMMERCIAL,5.52
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$9.42,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,5.52
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$9.42,AR,UNITED HEALTHCARE COMMERCIAL,5.58
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$9.42,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,4.52
+St. Bernards Five Rivers Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$94.90,AR,AMBETTER COMMERCIAL,56.41
+St. Bernards Five Rivers Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$44.85,AR,BLUECROSS BLUESHIELD COMMERCIAL,20.81
+St. Bernards Five Rivers Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$44.85,AR,CIGNA COMMERCIAL,23.98
+St. Bernards Five Rivers Medical Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$67.63,AR,CIGNA COMMERCIAL,35.30
+St. Bernards Five Rivers Medical Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$67.63,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,16.75
+St. Bernards Five Rivers Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$64.23,AR,BLUECROSS BLUESHIELD COMMERCIAL,14.94
+St. Bernards Five Rivers Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$64.23,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,15.14
+St. Bernards Five Rivers Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$64.23,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,16.09
+St. Bernards Five Rivers Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$150.15,AR,BLUECROSS BLUESHIELD COMMERCIAL,16.80
+St. Bernards Five Rivers Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$64.23,AR,BLUECROSS BLUESHIELD COMMERCIAL,14.94
+St. Bernards Five Rivers Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$64.23,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,15.14
+St. Bernards Five Rivers Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$64.23,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,16.09
+St. Bernards Five Rivers Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$17.74,AR,BLUECROSS BLUESHIELD COMMERCIAL,6.33
+St. Bernards Five Rivers Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$17.74,AR,CIGNA COMMERCIAL,14.25
+St. Bernards Five Rivers Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$17.74,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,6.33
+St. Bernards Five Rivers Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$18.20,AR,BLUECROSS BLUESHIELD COMMERCIAL,6.38
+St. Bernards Five Rivers Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$18.20,AR,UNITED HEALTHCARE COMMERCIAL,6.44
+St. Bernards Five Rivers Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$64.23,AR,BLUECROSS BLUESHIELD COMMERCIAL,14.94
+St. Bernards Five Rivers Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$64.23,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,15.14
+St. Bernards Five Rivers Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$64.23,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,16.09
+St. Bernards Five Rivers Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$32.18,AR,BLUECROSS BLUESHIELD COMMERCIAL,17.79
+St. Bernards Five Rivers Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$51.35,AR,BLUECROSS BLUESHIELD COMMERCIAL,6.33
+St. Bernards Five Rivers Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$40.74,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,5.23
+St. Bernards Five Rivers Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$40.74,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,5.23
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$15.46,AR,AMBETTER COMMERCIAL,16.41
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$15.46,AR,BLUE ADVANTAGE PPO,10.53
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$15.46,AR,BLUECROSS BLUESHIELD COMMERCIAL,10.70
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$15.46,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,10.53
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$15.46,AR,CIGNA COMMERCIAL,8.24
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$15.46,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,10.53
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$15.46,AR,HUMANA MEDICARE ADVANTAGE,8.62
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$15.46,AR,UNITED HEALTHCARE COMMERCIAL,10.64
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$15.46,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,8.94
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$16.57,AR,AMBETTER COMMERCIAL,15.39
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$16.57,AR,BLUE ADVANTAGE PPO,9.87
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$16.57,AR,BLUECROSS BLUESHIELD COMMERCIAL,9.87
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$16.57,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,9.87
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$16.57,AR,CIGNA COMMERCIAL,12.25
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$16.57,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,8.97
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$16.57,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,9.87
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$16.57,AR,HUMANA MEDICARE ADVANTAGE,8.52
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$16.57,AR,UNITED HEALTHCARE COMMERCIAL,9.96
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$16.57,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,8.26
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$98.42,AR,BLUECROSS BLUESHIELD COMMERCIAL,42.89
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$98.42,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,42.89
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$68.25,AR,AMBETTER COMMERCIAL,71.83
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$68.25,AR,BLUE ADVANTAGE PPO,77.00
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$68.25,AR,BLUECROSS BLUESHIELD COMMERCIAL,77.30
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$68.25,AR,CIGNA COMMERCIAL,51.31
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$68.25,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,52.34
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$68.25,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,77.00
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$68.25,AR,HUMANA MEDICARE ADVANTAGE,51.31
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$68.25,AR,UNITED HEALTHCARE COMMERCIAL,48.77
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$68.25,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,62.06
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$64.23,AR,BLUECROSS BLUESHIELD COMMERCIAL,14.94
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$64.23,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,15.14
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$64.23,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,16.09
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$98.42,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,42.89
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$98.42,AR,BLUECROSS BLUESHIELD COMMERCIAL,42.89
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$51.35,AR,BLUECROSS BLUESHIELD COMMERCIAL,17.59
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$79.95,AR,BLUECROSS BLUESHIELD COMMERCIAL,15.74
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87045,Stool Culture,$61.26,AR,BLUECROSS BLUESHIELD COMMERCIAL,11.54
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87045,Stool Culture,$61.26,AR,HUMANA MEDICARE ADVANTAGE,10.49
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$27.84,AR,AMBETTER COMMERCIAL,17.16
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$27.84,AR,BLUE ADVANTAGE PPO,16.96
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$27.84,AR,BLUECROSS BLUESHIELD COMMERCIAL,17.55
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$27.84,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,16.96
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$27.84,AR,CIGNA COMMERCIAL,25.64
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$27.84,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,16.96
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$27.84,AR,HUMANA MEDICARE ADVANTAGE,16.55
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$27.84,AR,UNITED HEALTHCARE COMMERCIAL,26.89
+St. Bernards Five Rivers Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$27.84,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,21.03
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$264.64,AR,BLUECROSS BLUESHIELD COMMERCIAL,179.88
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$264.64,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,47.63
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$264.64,AR,HUMANA MEDICARE ADVANTAGE,47.63
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$78.59,AR,AETNA COMMERCIAL,12.62
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$78.59,AR,AETNA PPO,112.20
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$78.59,AR,AMBETTER COMMERCIAL,16.11
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$78.59,AR,BLUE ADVANTAGE PPO,10.34
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$78.59,AR,BLUECROSS BLUESHIELD COMMERCIAL,11.68
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$78.59,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,10.34
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$78.59,AR,CIGNA COMMERCIAL,25.82
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$78.59,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,9.01
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$78.59,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,10.34
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$78.59,AR,HUMANA MEDICARE ADVANTAGE,8.77
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$78.59,AR,UNITED HEALTHCARE COMMERCIAL,10.44
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$78.59,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,8.71
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$130.36,AR,AETNA COMMERCIAL,197.20
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$130.36,AR,AMBETTER COMMERCIAL,20.12
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$130.36,AR,BLUE ADVANTAGE PPO,12.91
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$130.36,AR,BLUECROSS BLUESHIELD COMMERCIAL,15.36
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$130.36,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,12.91
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$130.36,AR,CIGNA COMMERCIAL,48.91
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$130.36,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,11.07
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$130.36,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,12.91
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$130.36,AR,HUMANA MEDICARE ADVANTAGE,11.11
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$130.36,AR,UNITED HEALTHCARE COMMERCIAL,13.04
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$130.36,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,11.05
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$49.23,AR,AETNA COMMERCIAL,14.14
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$49.23,AR,AMBETTER COMMERCIAL,24.23
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$49.23,AR,BLUE ADVANTAGE PPO,16.37
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$49.23,AR,BLUECROSS BLUESHIELD COMMERCIAL,16.37
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$49.23,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,16.37
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$49.23,AR,CIGNA COMMERCIAL,20.69
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$49.23,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,13.72
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$49.23,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,16.37
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$49.23,AR,HUMANA MEDICARE ADVANTAGE,13.69
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$49.23,AR,UNITED HEALTHCARE COMMERCIAL,16.53
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$49.23,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,13.95
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$47.78,AR,BLUECROSS BLUESHIELD COMMERCIAL,10.62
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$19.84,AR,AETNA COMMERCIAL,11.59
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$19.84,AR,AMBETTER COMMERCIAL,15.55
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$19.84,AR,BLUE ADVANTAGE PPO,9.99
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$19.84,AR,BLUECROSS BLUESHIELD COMMERCIAL,9.99
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$19.84,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,9.99
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$19.84,AR,CIGNA COMMERCIAL,17.52
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$19.84,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,8.32
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$19.84,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,9.99
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$19.84,AR,HUMANA MEDICARE ADVANTAGE,8.43
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$19.84,AR,UNITED HEALTHCARE COMMERCIAL,10.09
+St. Bernards Five Rivers Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$19.84,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,8.32
+St. Bernards Five Rivers Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$45.16,AR,BLUE ADVANTAGE PPO,39.69
+St. Bernards Five Rivers Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$45.16,AR,BLUECROSS BLUESHIELD COMMERCIAL,36.33
+St. Bernards Five Rivers Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$45.16,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,13.80
+St. Bernards Five Rivers Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$14.09,AR,BLUECROSS BLUESHIELD COMMERCIAL,8.09
+St. Bernards Five Rivers Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$24.70,AR,BLUECROSS BLUESHIELD COMMERCIAL,16.20
+St. Bernards Five Rivers Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$24.70,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,16.20
+St. Bernards Five Rivers Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$29.20,AR,BLUE ADVANTAGE PPO,16.56
+St. Bernards Five Rivers Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$41.60,AR,BLUECROSS BLUESHIELD COMMERCIAL,16.56
+St. Bernards Five Rivers Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$41.60,AR,HUMANA MEDICARE ADVANTAGE,14.45
+St. Bernards Five Rivers Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$137.21,AR,BLUECROSS BLUESHIELD COMMERCIAL,64.35
+St. Bernards Five Rivers Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$137.21,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,64.81
+St. Bernards Five Rivers Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$137.21,AR,BLUECROSS BLUESHIELD COMMERCIAL,64.35
+St. Bernards Five Rivers Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$137.21,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,64.81
+St. Bernards Five Rivers Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$238.73,AR,BLUECROSS BLUESHIELD COMMERCIAL,130.55
+St. Bernards Five Rivers Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$130.00,AR,BLUECROSS BLUESHIELD COMMERCIAL,42.03
+St. Bernards Five Rivers Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$130.00,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,45.01
+St. Bernards Five Rivers Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$9.11,AR,AETNA COMMERCIAL,10.84
+St. Bernards Five Rivers Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$9.11,AR,AMBETTER COMMERCIAL,4.50
+St. Bernards Five Rivers Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$9.11,AR,BLUE ADVANTAGE PPO,3.69
+St. Bernards Five Rivers Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$9.11,AR,BLUECROSS BLUESHIELD COMMERCIAL,3.62
+St. Bernards Five Rivers Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$9.11,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,3.49
+St. Bernards Five Rivers Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$9.11,AR,CIGNA COMMERCIAL,10.73
+St. Bernards Five Rivers Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$9.11,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,3.10
+St. Bernards Five Rivers Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$9.11,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,3.59
+St. Bernards Five Rivers Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$9.11,AR,HUMANA MEDICARE ADVANTAGE,3.13
+St. Bernards Five Rivers Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$9.11,AR,UNITED HEALTHCARE COMMERCIAL,3.63
+St. Bernards Five Rivers Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$9.11,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,2.90
+St. Bernards Five Rivers Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$9.11,AR,AETNA COMMERCIAL,10.84
+St. Bernards Five Rivers Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$9.11,AR,AMBETTER COMMERCIAL,4.50
+St. Bernards Five Rivers Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$9.11,AR,BLUE ADVANTAGE PPO,3.69
+St. Bernards Five Rivers Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$9.11,AR,BLUECROSS BLUESHIELD COMMERCIAL,3.62
+St. Bernards Five Rivers Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$9.11,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,3.49
+St. Bernards Five Rivers Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$9.11,AR,CIGNA COMMERCIAL,10.73
+St. Bernards Five Rivers Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$9.11,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,3.10
+St. Bernards Five Rivers Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$9.11,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,3.59
+St. Bernards Five Rivers Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$9.11,AR,HUMANA MEDICARE ADVANTAGE,3.13
+St. Bernards Five Rivers Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$9.11,AR,UNITED HEALTHCARE COMMERCIAL,3.63
+St. Bernards Five Rivers Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$9.11,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,2.90
+St. Bernards Five Rivers Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$88.68,AR,AETNA COMMERCIAL,76.70
+St. Bernards Five Rivers Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$88.68,AR,AETNA PPO,141.00
+St. Bernards Five Rivers Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$88.68,AR,AMBETTER COMMERCIAL,59.98
+St. Bernards Five Rivers Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$88.68,AR,BLUE ADVANTAGE PPO,52.32
+St. Bernards Five Rivers Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$88.68,AR,BLUECROSS BLUESHIELD COMMERCIAL,52.47
+St. Bernards Five Rivers Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$88.68,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,53.00
+St. Bernards Five Rivers Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$88.68,AR,CIGNA COMMERCIAL,76.80
+St. Bernards Five Rivers Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$88.68,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,51.84
+St. Bernards Five Rivers Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$88.68,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,52.38
+St. Bernards Five Rivers Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$88.68,AR,HUMANA MEDICARE ADVANTAGE,51.98
+St. Bernards Five Rivers Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$88.68,AR,UNITED HEALTHCARE COMMERCIAL,71.00
+St. Bernards Five Rivers Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$88.68,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,51.67
+St. Bernards Five Rivers Medical Center,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$88.68,AR,AETNA COMMERCIAL,76.70
+St. Bernards Five Rivers Medical Center,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$88.68,AR,AETNA PPO,141.00
+St. Bernards Five Rivers Medical Center,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$88.68,AR,AMBETTER COMMERCIAL,59.98
+St. Bernards Five Rivers Medical Center,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$88.68,AR,BLUE ADVANTAGE PPO,52.32
+St. Bernards Five Rivers Medical Center,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$88.68,AR,BLUECROSS BLUESHIELD COMMERCIAL,52.47
+St. Bernards Five Rivers Medical Center,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$88.68,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,53.00
+St. Bernards Five Rivers Medical Center,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$88.68,AR,CIGNA COMMERCIAL,76.80
+St. Bernards Five Rivers Medical Center,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$88.68,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,51.84
+St. Bernards Five Rivers Medical Center,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$88.68,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,52.38
+St. Bernards Five Rivers Medical Center,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$88.68,AR,HUMANA MEDICARE ADVANTAGE,51.98
+St. Bernards Five Rivers Medical Center,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$88.68,AR,UNITED HEALTHCARE COMMERCIAL,71.00
+St. Bernards Five Rivers Medical Center,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$88.68,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,51.67
+St. Bernards Five Rivers Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$118.26,AR,AETNA COMMERCIAL,152.15
+St. Bernards Five Rivers Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$118.26,AR,AMBETTER COMMERCIAL,118.43
+St. Bernards Five Rivers Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$118.26,AR,BLUE ADVANTAGE PPO,101.21
+St. Bernards Five Rivers Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$118.26,AR,BLUECROSS BLUESHIELD COMMERCIAL,102.84
+St. Bernards Five Rivers Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$118.26,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,101.44
+St. Bernards Five Rivers Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$118.26,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,102.54
+St. Bernards Five Rivers Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$118.26,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,101.24
+St. Bernards Five Rivers Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$118.26,AR,HUMANA MEDICARE ADVANTAGE,101.27
+St. Bernards Five Rivers Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$118.26,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,100.01
+St. Bernards Five Rivers Medical Center,Pulmonary,HCPCS 94640,Aerosol Treatment,$463.98,AR,AMBETTER COMMERCIAL,27.79
+St. Bernards Five Rivers Medical Center,Pulmonary,HCPCS 94640,Aerosol Treatment,$463.98,AR,BLUE ADVANTAGE PPO,330.98
+St. Bernards Five Rivers Medical Center,Pulmonary,HCPCS 94640,Aerosol Treatment,$463.98,AR,BLUECROSS BLUESHIELD COMMERCIAL,296.56
+St. Bernards Five Rivers Medical Center,Pulmonary,HCPCS 94640,Aerosol Treatment,$463.98,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,26.10
+St. Bernards Five Rivers Medical Center,Pulmonary,HCPCS 94640,Aerosol Treatment,$463.98,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,294.07
+St. Bernards Five Rivers Medical Center,Pulmonary,HCPCS 94640,Aerosol Treatment,$463.98,AR,HUMANA MEDICARE ADVANTAGE,25.17
+St. Bernards Five Rivers Medical Center,Pulmonary,HCPCS 94640,Aerosol Treatment,$463.98,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,129.77
+St. Bernards Five Rivers Medical Center,Sleep,HCPCS 95810,Sleep study,"$1,148.54",AR,BLUE ADVANTAGE PPO,879.93
+St. Bernards Five Rivers Medical Center,Sleep,HCPCS 95810,Sleep study,"$1,148.54",AR,BLUECROSS BLUESHIELD COMMERCIAL,911.87
+St. Bernards Five Rivers Medical Center,Sleep,HCPCS 95810,Sleep study,"$1,148.54",AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,869.56
+St. Bernards Five Rivers Medical Center,Sleep,HCPCS 95810,Sleep study,"$1,148.54",AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,835.59
+St. Bernards Five Rivers Medical Center,Sleep,HCPCS 95810,Sleep study,"$1,148.54",AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,867.39
+St. Bernards Five Rivers Medical Center,Sleep,HCPCS 95810,Sleep study,"$1,148.54",AR,HUMANA MEDICARE ADVANTAGE,845.54
+St. Bernards Five Rivers Medical Center,Sleep,HCPCS 95810,Sleep study,"$1,148.54",AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,847.53
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,026.92",AR,AMBETTER COMMERCIAL,198.67
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,026.92",AR,BLUECROSS BLUESHIELD COMMERCIAL,313.50
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,026.92",AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,181.21
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,026.92",AR,HUMANA MEDICARE ADVANTAGE,173.50
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,026.92",AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,184.00
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$510.46,AR,AETNA COMMERCIAL,408.39
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$510.46,AR,AETNA PPO,888.00
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$510.46,AR,AMBETTER COMMERCIAL,122.21
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$510.46,AR,AMBETTER MANAGED MEDICAID,124.67
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$510.46,AR,BLUE ADVANTAGE PPO,106.44
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$510.46,AR,BLUECROSS BLUESHIELD COMMERCIAL,98.36
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$510.46,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,105.94
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$510.46,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,103.00
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$510.46,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,96.55
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$510.46,AR,HUMANA MEDICARE ADVANTAGE,106.04
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$510.46,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,105.13
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$560.89,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,103.00
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$560.89,AR,AMBETTER COMMERCIAL,122.21
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$560.89,AR,BLUECROSS BLUESHIELD COMMERCIAL,93.63
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$560.89,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,103.47
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$560.89,AR,CIGNA COMMERCIAL,700.00
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$560.89,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,103.47
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$560.89,AR,UNITED HEALTHCARE COMMERCIAL,112.49
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,$945.74,AR,AETNA COMMERCIAL,1166.20
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,$945.74,AR,AMBETTER COMMERCIAL,423.39
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,$945.74,AR,AMBETTER MANAGED MEDICAID,445.83
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,$945.74,AR,BLUE ADVANTAGE PPO,441.99
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,$945.74,AR,BLUECROSS BLUESHIELD COMMERCIAL,426.53
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,$945.74,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,392.95
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,$945.74,AR,CIGNA COMMERCIAL,711.15
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,$945.74,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,360.17
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,$945.74,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,403.62
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,$945.74,AR,HUMANA MEDICARE ADVANTAGE,357.13
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,$945.74,AR,UNITED HEALTHCARE COMMERCIAL,347.72
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,$945.74,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,343.03
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,$945.74,AR,AETNA COMMERCIAL,1166.20
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,$945.74,AR,AMBETTER COMMERCIAL,423.39
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,$945.74,AR,AMBETTER MANAGED MEDICAID,445.83
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,$945.74,AR,BLUE ADVANTAGE PPO,441.99
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,$945.74,AR,BLUECROSS BLUESHIELD COMMERCIAL,426.53
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,$945.74,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,392.95
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,$945.74,AR,CIGNA COMMERCIAL,711.15
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,$945.74,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,360.17
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,$945.74,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,403.62
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,$945.74,AR,HUMANA MEDICARE ADVANTAGE,357.13
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,$945.74,AR,UNITED HEALTHCARE COMMERCIAL,347.72
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,$945.74,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,343.03
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$808.85,AR,AETNA COMMERCIAL,676.62
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$808.85,AR,AMBETTER COMMERCIAL,254.31
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$808.85,AR,AMBETTER MANAGED MEDICAID,255.49
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$808.85,AR,BLUE ADVANTAGE PPO,218.89
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$808.85,AR,BLUECROSS BLUESHIELD COMMERCIAL,235.22
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$808.85,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,219.64
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$808.85,AR,CIGNA COMMERCIAL,700.00
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$808.85,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,217.38
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$808.85,AR,HUMANA MEDICARE ADVANTAGE,226.17
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$808.85,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,219.18
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$671.01,AR,AMBETTER COMMERCIAL,211.11
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$671.01,AR,BLUE ADVANTAGE PPO,193.20
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$671.01,AR,BLUECROSS BLUESHIELD COMMERCIAL,197.39
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$671.01,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,187.47
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$671.01,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,205.18
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,$671.01,AR,AMBETTER COMMERCIAL,211.11
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,$671.01,AR,BLUE ADVANTAGE PPO,193.20
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,$671.01,AR,BLUECROSS BLUESHIELD COMMERCIAL,197.39
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,$671.01,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,187.47
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,$671.01,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,205.18
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$631.65,AR,AETNA COMMERCIAL,173.49
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$631.65,AR,BLUE ADVANTAGE PPO,207.19
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$631.65,AR,BLUECROSS BLUESHIELD COMMERCIAL,189.59
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$631.65,AR,CIGNA COMMERCIAL,700.00
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$631.65,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,181.53
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$631.65,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,199.20
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$631.65,AR,HUMANA MEDICARE ADVANTAGE,171.86
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$631.65,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,176.16
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$477.25,AR,AETNA COMMERCIAL,106.72
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$477.25,AR,AMBETTER COMMERCIAL,122.21
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$477.25,AR,BLUE ADVANTAGE PPO,107.18
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$477.25,AR,BLUECROSS BLUESHIELD COMMERCIAL,100.56
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$477.25,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,105.98
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$477.25,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,103.47
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$477.25,AR,HUMANA MEDICARE ADVANTAGE,105.79
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$477.25,AR,UNITED HEALTHCARE COMMERCIAL,112.49
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$477.25,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,106.19
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$604.18,AR,BLUECROSS BLUESHIELD COMMERCIAL,193.20
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$604.18,AR,HUMANA MEDICARE ADVANTAGE,173.50
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$656.42,AR,AETNA COMMERCIAL,173.49
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$656.42,AR,BLUECROSS BLUESHIELD COMMERCIAL,219.10
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$656.42,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,184.68
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$656.42,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,187.47
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$656.42,AR,HUMANA MEDICARE ADVANTAGE,173.50
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$656.42,AR,UNITED HEALTHCARE COMMERCIAL,243.19
+St. Bernards Five Rivers Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$656.42,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,176.29
+St. Bernards Five Rivers Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)",$421.85,AR,BLUECROSS BLUESHIELD COMMERCIAL,215.12
+St. Bernards Five Rivers Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)",$421.85,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,215.12
+St. Bernards Five Rivers Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)",$421.85,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,215.12
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,$687.54,AR,AETNA COMMERCIAL,216.48
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,$687.54,AR,AMBETTER COMMERCIAL,254.07
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,$687.54,AR,BLUE ADVANTAGE PPO,218.89
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,$687.54,AR,BLUECROSS BLUESHIELD COMMERCIAL,222.65
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,$687.54,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,215.12
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,$687.54,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,216.48
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,$687.54,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,206.94
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,$687.54,AR,HUMANA MEDICARE ADVANTAGE,249.25
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,$687.54,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,220.69
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$687.54,AR,AETNA COMMERCIAL,216.48
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$687.54,AR,AMBETTER COMMERCIAL,254.07
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$687.54,AR,BLUE ADVANTAGE PPO,218.89
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$687.54,AR,BLUECROSS BLUESHIELD COMMERCIAL,222.65
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$687.54,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,215.12
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$687.54,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,216.48
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$687.54,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,206.94
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$687.54,AR,HUMANA MEDICARE ADVANTAGE,249.25
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$687.54,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,220.69
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,$904.05,AR,BLUECROSS BLUESHIELD COMMERCIAL,384.51
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,$904.05,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,387.73
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,$904.05,AR,HUMANA MEDICARE ADVANTAGE,363.57
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,$687.54,AR,AETNA COMMERCIAL,216.48
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,$687.54,AR,AMBETTER COMMERCIAL,254.07
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,$687.54,AR,BLUE ADVANTAGE PPO,218.89
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,$687.54,AR,BLUECROSS BLUESHIELD COMMERCIAL,222.65
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,$687.54,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,215.12
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,$687.54,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,216.48
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,$687.54,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,206.94
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,$687.54,AR,HUMANA MEDICARE ADVANTAGE,249.25
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,$687.54,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,220.69
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$698.50,AR,AETNA COMMERCIAL,221.88
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$698.50,AR,BLUECROSS BLUESHIELD COMMERCIAL,218.28
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$698.50,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,219.19
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$698.50,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,218.51
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$698.50,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,216.48
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,$918.72,AR,AMBETTER COMMERCIAL,416.32
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,$918.72,AR,AMBETTER MANAGED MEDICAID,416.32
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,$918.72,AR,BLUE ADVANTAGE PPO,390.41
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,$918.72,AR,BLUECROSS BLUESHIELD COMMERCIAL,400.77
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,$918.72,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,385.38
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,$918.72,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,360.13
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,$918.72,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,385.89
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,$918.72,AR,HUMANA MEDICARE ADVANTAGE,360.13
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,$918.72,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,356.69
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$696.44,AR,BLUECROSS BLUESHIELD COMMERCIAL,218.51
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$696.44,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,217.59
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$696.44,AR,HUMANA MEDICARE ADVANTAGE,211.06
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$696.44,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,221.89
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,$712.73,AR,AMBETTER COMMERCIAL,367.25
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,$712.73,AR,BLUE ADVANTAGE PPO,219.64
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,$712.73,AR,BLUECROSS BLUESHIELD COMMERCIAL,215.90
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,$712.73,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,211.06
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,$712.73,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,216.63
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,$712.73,AR,HUMANA MEDICARE ADVANTAGE,517.18
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,$712.73,AR,UNITED HEALTHCARE COMMERCIAL,273.54
+St. Bernards Five Rivers Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,$712.73,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,218.28
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$205.00,AR,AMBETTER COMMERCIAL,122.21
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$205.00,AR,BLUECROSS BLUESHIELD COMMERCIAL,105.70
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$205.00,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,107.18
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$171.41,AR,BLUECROSS BLUESHIELD COMMERCIAL,105.33
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$171.41,AR,CIGNA COMMERCIAL,118.41
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$171.41,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,106.72
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$171.41,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,107.18
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$171.41,AR,HUMANA MEDICARE ADVANTAGE,106.72
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$171.41,AR,UNITED HEALTHCARE COMMERCIAL,153.58
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$171.41,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,104.86
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$173.87,AR,AMBETTER COMMERCIAL,124.67
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$173.87,AR,BLUE ADVANTAGE PPO,105.33
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$173.87,AR,BLUECROSS BLUESHIELD COMMERCIAL,105.41
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$173.87,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,103.47
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$173.87,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,103.00
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$173.87,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,105.94
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$173.87,AR,HUMANA MEDICARE ADVANTAGE,106.72
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$173.87,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,106.72
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$215.63,AR,AETNA COMMERCIAL,315.35
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$215.63,AR,AMBETTER COMMERCIAL,148.74
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$215.63,AR,AMBETTER MANAGED MEDICAID,122.21
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$215.63,AR,BLUE ADVANTAGE PPO,104.53
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$215.63,AR,BLUECROSS BLUESHIELD COMMERCIAL,104.17
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$215.63,AR,CIGNA COMMERCIAL,120.58
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$215.63,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,106.72
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$215.63,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,104.40
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$215.63,AR,HUMANA MEDICARE ADVANTAGE,104.24
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$215.63,AR,UNITED HEALTHCARE COMMERCIAL,153.58
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$215.63,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,105.33
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$215.63,AR,AETNA COMMERCIAL,315.35
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$215.63,AR,AMBETTER COMMERCIAL,148.74
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$215.63,AR,AMBETTER MANAGED MEDICAID,122.21
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$215.63,AR,BLUE ADVANTAGE PPO,104.53
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$215.63,AR,BLUECROSS BLUESHIELD COMMERCIAL,104.17
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$215.63,AR,CIGNA COMMERCIAL,120.58
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$215.63,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,106.72
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$215.63,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,104.40
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$215.63,AR,HUMANA MEDICARE ADVANTAGE,104.24
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$215.63,AR,UNITED HEALTHCARE COMMERCIAL,153.58
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$215.63,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,105.33
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$211.91,AR,AMBETTER COMMERCIAL,61.11
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$211.91,AR,BLUE ADVANTAGE PPO,105.94
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$211.91,AR,BLUECROSS BLUESHIELD COMMERCIAL,97.05
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$211.91,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,107.18
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$211.91,AR,CIGNA COMMERCIAL,88.84
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$211.91,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,77.60
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$211.91,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,106.72
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$211.91,AR,AMBETTER COMMERCIAL,61.11
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$211.91,AR,BLUE ADVANTAGE PPO,105.94
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$211.91,AR,BLUECROSS BLUESHIELD COMMERCIAL,97.05
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$211.91,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,107.18
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$211.91,AR,CIGNA COMMERCIAL,88.84
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$211.91,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,77.60
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$211.91,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,106.72
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$218.56,AR,AMBETTER COMMERCIAL,122.21
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$218.56,AR,BLUE ADVANTAGE PPO,107.18
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$218.56,AR,BLUECROSS BLUESHIELD COMMERCIAL,105.22
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$218.56,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,107.18
+St. Bernards Five Rivers Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$218.56,AR,CIGNA COMMERCIAL,113.50
+St. Bernards Five Rivers Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$125.55,AR,BLUECROSS BLUESHIELD COMMERCIAL,105.33
+St. Bernards Five Rivers Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$84.20,AR,AETNA COMMERCIAL,111.35
+St. Bernards Five Rivers Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$84.20,AR,AETNA PPO,116.00
+St. Bernards Five Rivers Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$84.20,AR,AMBETTER COMMERCIAL,83.08
+St. Bernards Five Rivers Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$84.20,AR,AMBETTER MANAGED MEDICAID,69.05
+St. Bernards Five Rivers Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$84.20,AR,BLUE ADVANTAGE PPO,63.29
+St. Bernards Five Rivers Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$84.20,AR,BLUECROSS BLUESHIELD COMMERCIAL,64.08
+St. Bernards Five Rivers Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$84.20,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,59.35
+St. Bernards Five Rivers Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$84.20,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,68.71
+St. Bernards Five Rivers Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$84.20,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,66.03
+St. Bernards Five Rivers Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$84.20,AR,HUMANA MEDICARE ADVANTAGE,68.29
+St. Bernards Five Rivers Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$84.20,AR,UNITED HEALTHCARE COMMERCIAL,62.11
+St. Bernards Five Rivers Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$84.20,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,66.81
+St. Bernards Five Rivers Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$84.20,AR,AETNA COMMERCIAL,111.35
+St. Bernards Five Rivers Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$84.20,AR,AETNA PPO,116.00
+St. Bernards Five Rivers Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$84.20,AR,AMBETTER COMMERCIAL,83.08
+St. Bernards Five Rivers Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$84.20,AR,AMBETTER MANAGED MEDICAID,69.05
+St. Bernards Five Rivers Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$84.20,AR,BLUE ADVANTAGE PPO,63.29
+St. Bernards Five Rivers Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$84.20,AR,BLUECROSS BLUESHIELD COMMERCIAL,64.08
+St. Bernards Five Rivers Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$84.20,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,59.35
+St. Bernards Five Rivers Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$84.20,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,68.71
+St. Bernards Five Rivers Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$84.20,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,66.03
+St. Bernards Five Rivers Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$84.20,AR,HUMANA MEDICARE ADVANTAGE,68.29
+St. Bernards Five Rivers Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$84.20,AR,UNITED HEALTHCARE COMMERCIAL,62.11
+St. Bernards Five Rivers Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$84.20,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,66.81
+St. Bernards Five Rivers Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$108.99,AR,BLUECROSS BLUESHIELD COMMERCIAL,103.47
+St. Bernards Five Rivers Medical Center,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$102.05,AR,BLUECROSS BLUESHIELD COMMERCIAL,107.18
+St. Bernards Five Rivers Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$146.25,AR,BLUECROSS BLUESHIELD COMMERCIAL,103.47
+St. Bernards Five Rivers Medical Center,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$93.52,AR,BLUECROSS BLUESHIELD COMMERCIAL,62.21
+St. Bernards Five Rivers Medical Center,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$106.47,AR,BLUECROSS BLUESHIELD COMMERCIAL,103.47
+St. Bernards Five Rivers Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$88.88,AR,BLUE ADVANTAGE PPO,59.35
+St. Bernards Five Rivers Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$88.88,AR,BLUECROSS BLUESHIELD COMMERCIAL,64.12
+St. Bernards Five Rivers Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$88.88,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,66.51
+St. Bernards Five Rivers Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$88.88,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,57.03
+St. Bernards Five Rivers Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$97.88,AR,BLUECROSS BLUESHIELD COMMERCIAL,109.06
+St. Bernards Five Rivers Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$97.88,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,103.47
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$100.16,AR,AMBETTER COMMERCIAL,87.01
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$100.16,AR,BLUE ADVANTAGE PPO,66.51
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$100.16,AR,BLUECROSS BLUESHIELD COMMERCIAL,68.90
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$100.16,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,66.51
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$100.16,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,66.51
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$100.16,AR,UNITED HEALTHCARE COMMERCIAL,60.80
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$100.16,AR,AMBETTER COMMERCIAL,87.01
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$100.16,AR,BLUE ADVANTAGE PPO,66.51
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$100.16,AR,BLUECROSS BLUESHIELD COMMERCIAL,68.90
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$100.16,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,66.51
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$100.16,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,66.51
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$100.16,AR,UNITED HEALTHCARE COMMERCIAL,60.80
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$115.34,AR,AMBETTER COMMERCIAL,124.67
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$115.34,AR,BLUE ADVANTAGE PPO,103.44
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$115.34,AR,BLUECROSS BLUESHIELD COMMERCIAL,95.25
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$115.34,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,106.25
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$115.34,AR,UNITED HEALTHCARE COMMERCIAL,139.85
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$115.34,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,106.72
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$100.16,AR,AMBETTER COMMERCIAL,87.01
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$100.16,AR,BLUE ADVANTAGE PPO,66.51
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$100.16,AR,BLUECROSS BLUESHIELD COMMERCIAL,68.90
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$100.16,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,66.51
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$100.16,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,66.51
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$100.16,AR,UNITED HEALTHCARE COMMERCIAL,60.80
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$115.34,AR,AMBETTER COMMERCIAL,124.67
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$115.34,AR,BLUE ADVANTAGE PPO,103.44
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$115.34,AR,BLUECROSS BLUESHIELD COMMERCIAL,95.25
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$115.34,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,106.25
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$115.34,AR,UNITED HEALTHCARE COMMERCIAL,139.85
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$115.34,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,106.72
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$100.16,AR,AMBETTER COMMERCIAL,87.01
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$100.16,AR,BLUE ADVANTAGE PPO,66.51
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$100.16,AR,BLUECROSS BLUESHIELD COMMERCIAL,68.90
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$100.16,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,66.51
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$100.16,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,66.51
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$100.16,AR,UNITED HEALTHCARE COMMERCIAL,60.80
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$115.34,AR,AMBETTER COMMERCIAL,124.67
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$115.34,AR,BLUE ADVANTAGE PPO,103.44
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$115.34,AR,BLUECROSS BLUESHIELD COMMERCIAL,95.25
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$115.34,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,106.25
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$115.34,AR,UNITED HEALTHCARE COMMERCIAL,139.85
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$115.34,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,106.72
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$115.34,AR,AMBETTER COMMERCIAL,124.67
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$115.34,AR,BLUE ADVANTAGE PPO,103.44
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$115.34,AR,BLUECROSS BLUESHIELD COMMERCIAL,95.25
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$115.34,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,106.25
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$115.34,AR,UNITED HEALTHCARE COMMERCIAL,139.85
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$115.34,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,106.72
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$97.04,AR,BLUECROSS BLUESHIELD COMMERCIAL,85.27
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$97.04,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,57.03
+St. Bernards Five Rivers Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$97.04,AR,HUMANA MEDICARE ADVANTAGE,75.99
+St. Bernards Five Rivers Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$118.56,AR,AETNA COMMERCIAL,106.71
+St. Bernards Five Rivers Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$118.56,AR,AMBETTER COMMERCIAL,122.21
+St. Bernards Five Rivers Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$118.56,AR,BLUE ADVANTAGE PPO,107.18
+St. Bernards Five Rivers Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$118.56,AR,BLUECROSS BLUESHIELD COMMERCIAL,106.39
+St. Bernards Five Rivers Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$118.56,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,103.47
+St. Bernards Five Rivers Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$118.56,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,106.72
+St. Bernards Five Rivers Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$118.56,AR,AETNA COMMERCIAL,106.71
+St. Bernards Five Rivers Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$118.56,AR,AMBETTER COMMERCIAL,122.21
+St. Bernards Five Rivers Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$118.56,AR,BLUE ADVANTAGE PPO,107.18
+St. Bernards Five Rivers Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$118.56,AR,BLUECROSS BLUESHIELD COMMERCIAL,106.39
+St. Bernards Five Rivers Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$118.56,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,103.47
+St. Bernards Five Rivers Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$118.56,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,106.72
+St. Bernards Five Rivers Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$116.28,AR,AMBETTER COMMERCIAL,122.21
+St. Bernards Five Rivers Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$116.28,AR,BLUE ADVANTAGE PPO,107.18
+St. Bernards Five Rivers Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$116.28,AR,BLUECROSS BLUESHIELD COMMERCIAL,98.30
+St. Bernards Five Rivers Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$116.28,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,106.72
+St. Bernards Five Rivers Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$116.28,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,107.18
+St. Bernards Five Rivers Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$116.28,AR,UNITED HEALTHCARE COMMERCIAL,100.69
+St. Bernards Five Rivers Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$116.28,AR,AMBETTER COMMERCIAL,122.21
+St. Bernards Five Rivers Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$116.28,AR,BLUE ADVANTAGE PPO,107.18
+St. Bernards Five Rivers Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$116.28,AR,BLUECROSS BLUESHIELD COMMERCIAL,98.30
+St. Bernards Five Rivers Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$116.28,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,106.72
+St. Bernards Five Rivers Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$116.28,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,107.18
+St. Bernards Five Rivers Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$116.28,AR,UNITED HEALTHCARE COMMERCIAL,100.69
+St. Bernards Five Rivers Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$98.25,AR,BLUECROSS BLUESHIELD COMMERCIAL,65.78
+St. Bernards Five Rivers Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$98.25,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,59.35
+St. Bernards Five Rivers Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$98.25,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,67.94
+St. Bernards Five Rivers Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$97.62,AR,BLUECROSS BLUESHIELD COMMERCIAL,62.11
+St. Bernards Five Rivers Medical Center,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$89.17,AR,BLUECROSS BLUESHIELD COMMERCIAL,70.81
+St. Bernards Five Rivers Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$97.92,AR,BLUE ADVANTAGE PPO,70.09
+St. Bernards Five Rivers Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$97.92,AR,BLUECROSS BLUESHIELD COMMERCIAL,64.84
+St. Bernards Five Rivers Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$97.92,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,59.35
+St. Bernards Five Rivers Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$97.92,AR,CIGNA COMMERCIAL,37.46
+St. Bernards Five Rivers Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$97.92,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,70.09
+St. Bernards Five Rivers Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$97.92,AR,HUMANA MEDICARE ADVANTAGE,75.99
+St. Bernards Five Rivers Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$92.75,AR,HUMANA MEDICARE ADVANTAGE,75.99
+St. Bernards Five Rivers Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$92.75,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,75.99
+St. Bernards Five Rivers Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$92.75,AR,BLUE ADVANTAGE PPO,59.35
+St. Bernards Five Rivers Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$92.75,AR,BLUECROSS BLUESHIELD COMMERCIAL,66.03
+St. Bernards Five Rivers Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$92.75,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,57.44
+St. Bernards Five Rivers Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$92.75,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,68.90
+St. Bernards Five Rivers Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$97.92,AR,BLUE ADVANTAGE PPO,70.09
+St. Bernards Five Rivers Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$97.92,AR,BLUECROSS BLUESHIELD COMMERCIAL,64.84
+St. Bernards Five Rivers Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$97.92,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,59.35
+St. Bernards Five Rivers Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$97.92,AR,CIGNA COMMERCIAL,37.46
+St. Bernards Five Rivers Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$97.92,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,70.09
+St. Bernards Five Rivers Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$97.92,AR,HUMANA MEDICARE ADVANTAGE,75.99
+St. Bernards Five Rivers Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$249.83,AR,BLUECROSS BLUESHIELD COMMERCIAL,192.03
+St. Bernards Five Rivers Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$249.83,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,99.00
+St. Bernards Five Rivers Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$249.83,AR,HUMANA MEDICARE ADVANTAGE,73.56
+St. Bernards Five Rivers Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$249.83,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,102.63
+St. Bernards Five Rivers Medical Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$1,518.27",AR,AMBETTER COMMERCIAL,2335.80
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,281.78",AR,AETNA COMMERCIAL,727.31
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,281.78",AR,AMBETTER COMMERCIAL,832.83
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,281.78",AR,BLUE ADVANTAGE PPO,897.00
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,281.78",AR,BLUECROSS BLUESHIELD COMMERCIAL,763.41
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,281.78",AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,769.00
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,281.78",AR,CIGNA COMMERCIAL,1050.00
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,281.78",AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,670.55
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,281.78",AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,760.79
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,281.78",AR,HUMANA MEDICARE ADVANTAGE,727.31
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,281.78",AR,UNITED HEALTHCARE COMMERCIAL,800.00
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,281.78",AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,700.06
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,283.29",AR,AMBETTER COMMERCIAL,1085.74
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,283.29",AR,BLUE ADVANTAGE PPO,980.00
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,283.29",AR,BLUECROSS BLUESHIELD COMMERCIAL,792.50
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,283.29",AR,HUMANA MEDICARE ADVANTAGE,956.14
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,283.29",AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,956.14
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,447.72",AR,AETNA COMMERCIAL,956.14
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,447.72",AR,AMBETTER COMMERCIAL,1094.86
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,447.72",AR,BLUECROSS BLUESHIELD COMMERCIAL,957.90
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,447.72",AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,916.67
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,447.72",AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,965.50
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,447.72",AR,HUMANA MEDICARE ADVANTAGE,902.33
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,447.72",AR,UNITED HEALTHCARE COMMERCIAL,800.00
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,447.72",AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,916.67
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,447.72",AR,AETNA COMMERCIAL,956.14
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,447.72",AR,AMBETTER COMMERCIAL,1094.86
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,447.72",AR,BLUECROSS BLUESHIELD COMMERCIAL,957.90
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,447.72",AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,916.67
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,447.72",AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,965.50
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,447.72",AR,HUMANA MEDICARE ADVANTAGE,902.33
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,447.72",AR,UNITED HEALTHCARE COMMERCIAL,800.00
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,447.72",AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,916.67
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 43235,EGD,"$1,056.41",AR,AMBETTER COMMERCIAL,856.86
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 43235,EGD,"$1,056.41",AR,BLUE ADVANTAGE PPO,576.75
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 43235,EGD,"$1,056.41",AR,BLUECROSS BLUESHIELD COMMERCIAL,698.36
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 43235,EGD,"$1,056.41",AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,767.00
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 43235,EGD,"$1,056.41",AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,611.78
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 43235,EGD,"$1,056.41",AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,384.50
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 43235,EGD,"$1,056.41",AR,HUMANA MEDICARE ADVANTAGE,584.00
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 43235,EGD,"$1,056.41",AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,697.14
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 43239,EGD and biopsy,$922.34,AR,AMBETTER COMMERCIAL,856.86
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 43239,EGD and biopsy,$922.34,AR,BLUECROSS BLUESHIELD COMMERCIAL,578.05
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 43239,EGD and biopsy,$922.34,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,383.50
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 43239,EGD and biopsy,$922.34,AR,HUMANA MEDICARE ADVANTAGE,622.82
+St. Bernards Five Rivers Medical Center,Digestive,HCPCS 43239,EGD and biopsy,$922.34,AR,UNITED HEALTHCARE COMMERCIAL,800.00
+St. Bernards Five Rivers Medical Center,General,HCPCS 10060,Drainage of Abscess,$527.03,AR,AMBETTER COMMERCIAL,433.99
+St. Bernards Five Rivers Medical Center,General,HCPCS 10060,Drainage of Abscess,$527.03,AR,BLUECROSS BLUESHIELD COMMERCIAL,166.00
+St. Bernards Five Rivers Medical Center,General,HCPCS 10060,Drainage of Abscess,$527.03,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,161.53
+St. Bernards Five Rivers Medical Center,General,HCPCS 10060,Drainage of Abscess,$527.03,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,171.00
+St. Bernards Five Rivers Medical Center,General,HCPCS 10060,Drainage of Abscess,$527.03,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,111.27
+St. Bernards Five Rivers Medical Center,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$510.58,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,312.00
+St. Bernards Five Rivers Medical Center,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$510.58,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,430.32
+St. Bernards Five Rivers Medical Center,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$510.58,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,312.00
+St. Bernards Five Rivers Medical Center,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$510.58,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,397.40
+St. Bernards Five Rivers Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$751.23,AR,AMBETTER COMMERCIAL,215.94
+St. Bernards Five Rivers Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$751.23,AR,AMBETTER MANAGED MEDICAID,418.49
+St. Bernards Five Rivers Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$751.23,AR,BLUECROSS BLUESHIELD COMMERCIAL,710.40
+St. Bernards Five Rivers Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$751.23,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,928.82
+St. Bernards Five Rivers Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$751.23,AR,CIGNA COMMERCIAL,550.00
+St. Bernards Five Rivers Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$751.23,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,183.87
+St. Bernards Five Rivers Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$751.23,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,927.76
+St. Bernards Five Rivers Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$751.23,AR,HUMANA MEDICARE ADVANTAGE,672.76
+St. Bernards Five Rivers Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$751.23,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,279.05
+St. Bernards Five Rivers Medical Center,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$751.23,AR,AMBETTER COMMERCIAL,215.94
+St. Bernards Five Rivers Medical Center,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$751.23,AR,AMBETTER MANAGED MEDICAID,418.49
+St. Bernards Five Rivers Medical Center,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$751.23,AR,BLUECROSS BLUESHIELD COMMERCIAL,710.40
+St. Bernards Five Rivers Medical Center,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$751.23,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,928.82
+St. Bernards Five Rivers Medical Center,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$751.23,AR,CIGNA COMMERCIAL,550.00
+St. Bernards Five Rivers Medical Center,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$751.23,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,183.87
+St. Bernards Five Rivers Medical Center,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$751.23,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,927.76
+St. Bernards Five Rivers Medical Center,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$751.23,AR,HUMANA MEDICARE ADVANTAGE,672.76
+St. Bernards Five Rivers Medical Center,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$751.23,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,279.05
+St. Bernards Five Rivers Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$751.23,AR,AMBETTER COMMERCIAL,215.94
+St. Bernards Five Rivers Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$751.23,AR,AMBETTER MANAGED MEDICAID,418.49
+St. Bernards Five Rivers Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$751.23,AR,BLUECROSS BLUESHIELD COMMERCIAL,710.40
+St. Bernards Five Rivers Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$751.23,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,928.82
+St. Bernards Five Rivers Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$751.23,AR,CIGNA COMMERCIAL,550.00
+St. Bernards Five Rivers Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$751.23,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,183.87
+St. Bernards Five Rivers Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$751.23,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,927.76
+St. Bernards Five Rivers Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$751.23,AR,HUMANA MEDICARE ADVANTAGE,672.76
+St. Bernards Five Rivers Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$751.23,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,279.05
+St. Bernards Five Rivers Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$751.23,AR,AMBETTER COMMERCIAL,215.94
+St. Bernards Five Rivers Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$751.23,AR,AMBETTER MANAGED MEDICAID,418.49
+St. Bernards Five Rivers Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$751.23,AR,BLUECROSS BLUESHIELD COMMERCIAL,710.40
+St. Bernards Five Rivers Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$751.23,AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,928.82
+St. Bernards Five Rivers Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$751.23,AR,CIGNA COMMERCIAL,550.00
+St. Bernards Five Rivers Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$751.23,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,183.87
+St. Bernards Five Rivers Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$751.23,AR,HEALTH ADVANTAGE MEDICARE ADVANTAGE,927.76
+St. Bernards Five Rivers Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$751.23,AR,HUMANA MEDICARE ADVANTAGE,672.76
+St. Bernards Five Rivers Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$751.23,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,279.05
+St. Bernards Five Rivers Medical Center,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$882.12,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,60.38
+St. Bernards Five Rivers Medical Center,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$882.12,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,203.25
+St. Bernards Five Rivers Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$745.83,AR,AMBETTER MANAGED MEDICAID,223.49
+St. Bernards Five Rivers Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$745.83,AR,CIGNA COMMERCIAL,149.30
+St. Bernards Five Rivers Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$745.83,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,437.61
+St. Bernards Five Rivers Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$745.83,AR,UNITED HEALTHCARE COMMERCIAL,79.84
+St. Bernards Five Rivers Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$745.83,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,87.20
+St. Bernards Five Rivers Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$279.75,AR,BLUECROSS BLUESHIELD COMMERCIAL,190.62
+St. Bernards Five Rivers Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$279.75,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,123.24
+St. Bernards Five Rivers Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$279.75,AR,HUMANA MEDICARE ADVANTAGE,123.25
+St. Bernards Five Rivers Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$320.57,AR,BLUECROSS BLUESHIELD COMMERCIAL,186.78
+St. Bernards Five Rivers Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$320.57,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,136.13
+St. Bernards Five Rivers Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$320.57,AR,HUMANA MEDICARE ADVANTAGE,148.03
+St. Bernards Five Rivers Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$320.57,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,148.99
+St. Bernards Five Rivers Medical Center,Soft Tissue,HCPCS 97602,Non-selective debridement,$320.57,AR,BLUECROSS BLUESHIELD COMMERCIAL,186.78
+St. Bernards Five Rivers Medical Center,Soft Tissue,HCPCS 97602,Non-selective debridement,$320.57,AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,136.13
+St. Bernards Five Rivers Medical Center,Soft Tissue,HCPCS 97602,Non-selective debridement,$320.57,AR,HUMANA MEDICARE ADVANTAGE,148.03
+St. Bernards Five Rivers Medical Center,Soft Tissue,HCPCS 97602,Non-selective debridement,$320.57,AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,148.99
+St. Bernards Five Rivers Medical Center,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$2,201.79",AR,BLUECROSS BLUESHIELD MEDICARE ADVANTAGE,1034.00
+St. Bernards Five Rivers Medical Center,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$2,201.79",AR,HARMONY HEALTH PLAN MEDICARE ADVANTAGE,1001.14
+St. Bernards Five Rivers Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,805.10",AR,BLUECROSS BLUESHIELD COMMERCIAL,1076.70
+St. Bernards Five Rivers Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,805.10",AR,UNITED HEALTHCARE MEDICARE ADVANTAGE,350.52
