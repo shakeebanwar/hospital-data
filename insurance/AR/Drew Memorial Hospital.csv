@@ -1,0 +1,968 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State,plan_name,price
+Drew Memorial Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$47.07,AR,Aetna: All,139.46
+Drew Memorial Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$47.07,AR,Ambetter of Arkansas: All,75.58
+Drew Memorial Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$47.07,AR,Blue Cross Blue Shield of AR: Default,166.19
+Drew Memorial Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$47.07,AR,Humana: All,65.74
+Drew Memorial Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$47.07,AR,Medicare A AR JH: All,65.06
+Drew Memorial Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$47.07,AR,Summit Community Care: All,51.00
+Drew Memorial Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$47.07,AR,United Healthcare: Default,75.37
+Drew Memorial Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$47.07,AR,United Healthcare: Medicare Advantage,65.61
+Drew Memorial Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$86.37,AR,Ambetter of Arkansas: All,138.82
+Drew Memorial Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$86.37,AR,Blue Cross Blue Shield of AR: Default,303.91
+Drew Memorial Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$86.37,AR,Medicare A AR JH: All,119.04
+Drew Memorial Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$86.37,AR,Summit Community Care: All,51.00
+Drew Memorial Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$86.37,AR,United Healthcare: Default,125.73
+Drew Memorial Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$86.37,AR,United Healthcare: Medicare Advantage,120.42
+Drew Memorial Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$150.52,AR,Aetna: All,327.63
+Drew Memorial Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$150.52,AR,Ambetter of Arkansas: All,241.50
+Drew Memorial Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$150.52,AR,Blue Cross Blue Shield of AR: Default,529.61
+Drew Memorial Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$150.52,AR,Cigna: All,345.97
+Drew Memorial Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$150.52,AR,Humana: All,209.69
+Drew Memorial Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$150.52,AR,Medicare A AR JH: All,208.90
+Drew Memorial Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$150.52,AR,Summit Community Care: All,51.00
+Drew Memorial Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$150.52,AR,UMR United Medical Resources: All,475.89
+Drew Memorial Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$150.52,AR,United Healthcare: Default,60.08
+Drew Memorial Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$150.52,AR,United Healthcare: Medicare Advantage,209.09
+Drew Memorial Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$243.25,AR,Aetna: All,720.74
+Drew Memorial Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$243.25,AR,Ambetter of Arkansas: All,379.36
+Drew Memorial Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$243.25,AR,Blue Cross Blue Shield of AR: Default,855.88
+Drew Memorial Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$243.25,AR,Cigna: All,579.29
+Drew Memorial Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$243.25,AR,Medicare A AR JH: All,330.15
+Drew Memorial Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$243.25,AR,Summit Community Care: All,51.00
+Drew Memorial Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$243.25,AR,United Healthcare: Default,14.75
+Drew Memorial Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$243.25,AR,United Healthcare: Medicare Advantage,332.19
+Drew Memorial Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$354.58,AR,Ambetter of Arkansas: All,1123.84
+Drew Memorial Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$354.58,AR,Blue Cross Blue Shield of AR: Default,1247.59
+Drew Memorial Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$354.58,AR,Medicare A AR JH: All,472.05
+Drew Memorial Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$354.58,AR,United Healthcare: Default,9.86
+Drew Memorial Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$354.58,AR,United Healthcare: Medicare Advantage,466.88
+Drew Memorial Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$59.40,AR,Blue Cross Blue Shield of AR: Default,83.72
+Drew Memorial Hospital,Psychology,HCPCS 90853,Group psychotherapy,$51.14,AR,Medicare A AR JH: All,72.71
+Drew Memorial Hospital,Psychology,HCPCS 90853,Group psychotherapy,$51.14,AR,United Healthcare: Default,63.40
+Drew Memorial Hospital,Psychology,HCPCS 90853,Group psychotherapy,$51.14,AR,United Healthcare: Medicare Advantage,105.00
+Drew Memorial Hospital,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$82.77,AR,Medicare A AR JH: All,122.69
+Drew Memorial Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$2.63,AR,Blue Cross Blue Shield of AR: Default,2.89
+Drew Memorial Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$2.63,AR,Medicaid Arkansas: All,3.38
+Drew Memorial Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$2.63,AR,Medicare A AR JH: All,0.79
+Drew Memorial Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$2.63,AR,United Healthcare: Default,1.06
+Drew Memorial Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$2.63,AR,United Healthcare: Medicare Advantage,2.37
+Drew Memorial Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$2.63,AR,Blue Cross Blue Shield of AR: Default,2.89
+Drew Memorial Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$2.63,AR,Medicare A AR JH: All,0.48
+Drew Memorial Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$2.63,AR,United Healthcare: Default,1.06
+Drew Memorial Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$2.63,AR,United Healthcare: Medicare Advantage,2.37
+Drew Memorial Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$5.27,AR,Aetna: All,15.62
+Drew Memorial Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$5.27,AR,Ambetter of Arkansas: All,9.04
+Drew Memorial Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$5.27,AR,Blue Cross Blue Shield of AR: Default,5.80
+Drew Memorial Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$5.27,AR,Cigna: All,5.86
+Drew Memorial Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$5.27,AR,Medicaid Arkansas: All,6.78
+Drew Memorial Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$5.27,AR,Summit Community Care: All,6.78
+Drew Memorial Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$5.27,AR,United Healthcare: Default,6.24
+Drew Memorial Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$14.30,AR,Aetna: All,42.38
+Drew Memorial Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$14.30,AR,Ambetter of Arkansas: All,24.53
+Drew Memorial Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$14.30,AR,Blue Cross Blue Shield of AR: Default,15.73
+Drew Memorial Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$14.30,AR,Cigna: All,15.88
+Drew Memorial Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$14.30,AR,Medicaid Arkansas: All,18.39
+Drew Memorial Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$14.30,AR,Summit Community Care: All,18.39
+Drew Memorial Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$14.30,AR,United Healthcare: Default,16.92
+Drew Memorial Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$4.37,AR,Aetna: All,12.94
+Drew Memorial Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$4.37,AR,Ambetter of Arkansas: All,1.87
+Drew Memorial Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$4.37,AR,Blue Cross Blue Shield of AR: Default,3.74
+Drew Memorial Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$4.37,AR,Cigna: All,5.45
+Drew Memorial Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$4.37,AR,Humana: All,3.93
+Drew Memorial Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$4.37,AR,Medicaid Arkansas: All,6.62
+Drew Memorial Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$4.37,AR,Medicare A AR JH: All,2.78
+Drew Memorial Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$4.37,AR,Summit Community Care: All,5.61
+Drew Memorial Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$4.37,AR,United Healthcare: Default,2.88
+Drew Memorial Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$4.37,AR,United Healthcare: Medicare Advantage,3.42
+Drew Memorial Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$6.67,AR,Aetna: All,19.78
+Drew Memorial Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$6.67,AR,Ambetter of Arkansas: All,2.86
+Drew Memorial Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$6.67,AR,Blue Cross Blue Shield of AR: Default,5.14
+Drew Memorial Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$6.67,AR,Cigna: All,8.14
+Drew Memorial Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$6.67,AR,Humana: All,5.47
+Drew Memorial Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$6.67,AR,Medicaid Arkansas: All,9.93
+Drew Memorial Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$6.67,AR,Medicare A AR JH: All,0.91
+Drew Memorial Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$6.67,AR,United Healthcare: Default,1.94
+Drew Memorial Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$6.67,AR,United Healthcare: Medicare Advantage,1.19
+Drew Memorial Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$8.63,AR,Aetna: All,23.60
+Drew Memorial Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$8.63,AR,Ambetter of Arkansas: All,4.94
+Drew Memorial Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$8.63,AR,Blue Cross Blue Shield of AR: Default,9.23
+Drew Memorial Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$8.63,AR,Cigna: All,14.89
+Drew Memorial Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$8.63,AR,Humana: All,5.81
+Drew Memorial Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$8.63,AR,Medicaid Arkansas: All,11.96
+Drew Memorial Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$8.63,AR,Medicare A AR JH: All,3.96
+Drew Memorial Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$8.63,AR,Summit Community Care: All,11.10
+Drew Memorial Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$8.63,AR,United Healthcare: Default,4.31
+Drew Memorial Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$8.63,AR,United Healthcare: Medicare Advantage,4.11
+Drew Memorial Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$5.62,AR,Aetna: All,18.92
+Drew Memorial Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$5.62,AR,Ambetter of Arkansas: All,3.10
+Drew Memorial Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$5.62,AR,Blue Cross Blue Shield of AR: Default,6.40
+Drew Memorial Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$5.62,AR,Cigna: All,8.81
+Drew Memorial Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$5.62,AR,Humana: All,1.85
+Drew Memorial Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$5.62,AR,Medicaid Arkansas: All,10.57
+Drew Memorial Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$5.62,AR,Medicare A AR JH: All,4.01
+Drew Memorial Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$5.62,AR,Summit Community Care: All,9.25
+Drew Memorial Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$5.62,AR,United Healthcare: Default,4.44
+Drew Memorial Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$5.62,AR,United Healthcare: Medicare Advantage,4.61
+Drew Memorial Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$6.12,AR,Blue Cross Blue Shield of AR: Default,6.73
+Drew Memorial Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$6.12,AR,Medicaid Arkansas: All,7.88
+Drew Memorial Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$88.02,AR,United Healthcare: Default,81.50
+Drew Memorial Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$5.50,AR,Blue Cross Blue Shield of AR: Default,6.05
+Drew Memorial Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$5.50,AR,Medicare A AR JH: All,3.92
+Drew Memorial Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$5.50,AR,United Healthcare: Default,5.26
+Drew Memorial Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$18.64,AR,Aetna: All,55.22
+Drew Memorial Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$18.64,AR,Ambetter of Arkansas: All,27.97
+Drew Memorial Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$18.64,AR,Blue Cross Blue Shield of AR: Default,20.50
+Drew Memorial Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$18.64,AR,Cigna: All,22.95
+Drew Memorial Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$18.64,AR,Medicaid Arkansas: All,23.95
+Drew Memorial Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$18.64,AR,Medicare A AR JH: All,8.22
+Drew Memorial Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$18.64,AR,Summit Community Care: All,23.95
+Drew Memorial Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$18.64,AR,United Healthcare: Default,22.04
+Drew Memorial Hospital,Chemistry,HCPCS 82140,Ammonia level,$9.71,AR,Blue Cross Blue Shield of AR: Default,17.81
+Drew Memorial Hospital,Chemistry,HCPCS 82140,Ammonia level,$9.71,AR,Medicaid Arkansas: All,12.49
+Drew Memorial Hospital,Chemistry,HCPCS 82140,Ammonia level,$9.71,AR,Medicare A AR JH: All,5.63
+Drew Memorial Hospital,Chemistry,HCPCS 82140,Ammonia level,$9.71,AR,United Healthcare: Default,5.43
+Drew Memorial Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$7.20,AR,Aetna: All,21.34
+Drew Memorial Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$7.20,AR,Ambetter of Arkansas: All,3.37
+Drew Memorial Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$7.20,AR,Blue Cross Blue Shield of AR: Default,6.83
+Drew Memorial Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$7.20,AR,Cigna: All,1.12
+Drew Memorial Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$7.20,AR,Humana: All,4.32
+Drew Memorial Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$7.20,AR,Medicaid Arkansas: All,12.82
+Drew Memorial Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$7.20,AR,Medicare A AR JH: All,3.06
+Drew Memorial Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$7.20,AR,United Healthcare: Default,2.46
+Drew Memorial Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$7.20,AR,United Healthcare: Medicare Advantage,3.18
+Drew Memorial Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$16.22,AR,Ambetter of Arkansas: All,27.82
+Drew Memorial Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$16.22,AR,Medicaid Arkansas: All,20.84
+Drew Memorial Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$16.22,AR,Medicare A AR JH: All,9.73
+Drew Memorial Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$16.22,AR,United Healthcare: Default,3.65
+Drew Memorial Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$21.50,AR,Blue Cross Blue Shield of AR: Default,26.72
+Drew Memorial Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$10.02,AR,Aetna: All,29.69
+Drew Memorial Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$10.02,AR,Ambetter of Arkansas: All,13.92
+Drew Memorial Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$10.02,AR,Blue Cross Blue Shield of AR: Default,11.02
+Drew Memorial Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$10.02,AR,Cigna: All,11.14
+Drew Memorial Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$10.02,AR,Humana: All,8.36
+Drew Memorial Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$10.02,AR,Medicaid Arkansas: All,12.88
+Drew Memorial Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$10.02,AR,Medicare A AR JH: All,8.51
+Drew Memorial Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$10.02,AR,United Healthcare: Default,9.18
+Drew Memorial Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$10.02,AR,United Healthcare: Medicare Advantage,7.14
+Drew Memorial Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$5.57,AR,Blue Cross Blue Shield of AR: Default,6.13
+Drew Memorial Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$5.57,AR,Medicaid Arkansas: All,7.17
+Drew Memorial Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$5.57,AR,Medicare A AR JH: All,5.00
+Drew Memorial Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$5.57,AR,United Healthcare: Default,5.42
+Drew Memorial Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$5.57,AR,Aetna: All,16.51
+Drew Memorial Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$5.57,AR,Blue Cross Blue Shield of AR: Default,6.13
+Drew Memorial Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$5.57,AR,Cigna: All,6.20
+Drew Memorial Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$5.57,AR,Medicaid Arkansas: All,7.17
+Drew Memorial Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$5.57,AR,United Healthcare: Default,5.28
+Drew Memorial Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$5.69,AR,Ambetter of Arkansas: All,3.66
+Drew Memorial Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$5.69,AR,Blue Cross Blue Shield of AR: Default,5.83
+Drew Memorial Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$5.69,AR,Humana: All,0.37
+Drew Memorial Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$5.69,AR,Medicaid Arkansas: All,9.65
+Drew Memorial Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$5.69,AR,Medicare A AR JH: All,1.11
+Drew Memorial Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$5.69,AR,United Healthcare: Default,0.49
+Drew Memorial Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$5.69,AR,United Healthcare: Medicare Advantage,0.85
+Drew Memorial Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$5.75,AR,Ambetter of Arkansas: All,7.48
+Drew Memorial Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$5.75,AR,Blue Cross Blue Shield of AR: Default,0.96
+Drew Memorial Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$5.75,AR,Medicaid Arkansas: All,5.60
+Drew Memorial Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$5.75,AR,Medicare A AR JH: All,3.93
+Drew Memorial Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$5.75,AR,United Healthcare: Default,4.57
+Drew Memorial Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$5.75,AR,United Healthcare: Medicare Advantage,3.86
+Drew Memorial Hospital,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$5.11,AR,Ambetter of Arkansas: All,8.76
+Drew Memorial Hospital,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$5.11,AR,Blue Cross Blue Shield of AR: Default,5.62
+Drew Memorial Hospital,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$5.11,AR,Cigna: All,5.68
+Drew Memorial Hospital,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$5.11,AR,Medicaid Arkansas: All,6.56
+Drew Memorial Hospital,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$5.11,AR,Medicare A AR JH: All,4.66
+Drew Memorial Hospital,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$5.11,AR,Summit Community Care: All,6.56
+Drew Memorial Hospital,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$5.11,AR,United Healthcare: Default,4.76
+Drew Memorial Hospital,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$5.11,AR,United Healthcare: Medicare Advantage,4.76
+Drew Memorial Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$18.67,AR,Aetna: All,55.32
+Drew Memorial Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$18.67,AR,Ambetter of Arkansas: All,20.01
+Drew Memorial Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$18.67,AR,Blue Cross Blue Shield of AR: Default,20.54
+Drew Memorial Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$18.67,AR,Cigna: All,21.44
+Drew Memorial Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$18.67,AR,Humana: All,15.46
+Drew Memorial Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$18.67,AR,Medicaid Arkansas: All,24.43
+Drew Memorial Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$18.67,AR,Medicare A AR JH: All,14.22
+Drew Memorial Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$18.67,AR,Summit Community Care: All,23.98
+Drew Memorial Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$18.67,AR,United Healthcare: Default,15.36
+Drew Memorial Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$18.67,AR,United Healthcare: Medicare Advantage,14.91
+Drew Memorial Hospital,Chemistry,HCPCS 82310,Calcium level,$5.78,AR,Medicaid Arkansas: All,7.36
+Drew Memorial Hospital,Chemistry,HCPCS 82310,Calcium level,$5.78,AR,Medicare A AR JH: All,5.12
+Drew Memorial Hospital,Chemistry,HCPCS 82310,Calcium level,$5.78,AR,United Healthcare: Default,5.11
+Drew Memorial Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$21.07,AR,Ambetter of Arkansas: All,36.13
+Drew Memorial Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$21.07,AR,Humana: All,18.96
+Drew Memorial Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$21.07,AR,Medicare A AR JH: All,3.16
+Drew Memorial Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$21.07,AR,United Healthcare: Default,11.30
+Drew Memorial Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$21.07,AR,United Healthcare: Medicare Advantage,20.65
+Drew Memorial Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$18.11,AR,Ambetter of Arkansas: All,31.07
+Drew Memorial Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$18.11,AR,Blue Cross Blue Shield of AR: Default,19.92
+Drew Memorial Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$18.11,AR,Medicaid Arkansas: All,22.53
+Drew Memorial Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$18.11,AR,Medicare A AR JH: All,10.87
+Drew Memorial Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$7.23,AR,Aetna: All,21.43
+Drew Memorial Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$7.23,AR,Ambetter of Arkansas: All,1.59
+Drew Memorial Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$7.23,AR,Blue Cross Blue Shield of AR: Default,7.95
+Drew Memorial Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$7.23,AR,Cigna: All,12.55
+Drew Memorial Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$7.23,AR,Humana: All,5.36
+Drew Memorial Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$7.23,AR,Medicaid Arkansas: All,10.00
+Drew Memorial Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$7.23,AR,Medicare A AR JH: All,1.23
+Drew Memorial Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$7.23,AR,United Healthcare: Default,0.71
+Drew Memorial Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$7.23,AR,United Healthcare: Medicare Advantage,1.00
+Drew Memorial Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$16.75,AR,Aetna: All,49.63
+Drew Memorial Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$16.75,AR,Ambetter of Arkansas: All,24.46
+Drew Memorial Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$16.75,AR,Blue Cross Blue Shield of AR: Default,18.43
+Drew Memorial Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$16.75,AR,Cigna: All,18.66
+Drew Memorial Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$16.75,AR,Humana: All,15.08
+Drew Memorial Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$16.75,AR,Medicaid Arkansas: All,21.52
+Drew Memorial Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$16.75,AR,Medicare A AR JH: All,12.48
+Drew Memorial Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$16.75,AR,Summit Community Care: All,21.52
+Drew Memorial Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$16.75,AR,United Healthcare: Default,13.33
+Drew Memorial Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$16.75,AR,United Healthcare: Medicare Advantage,15.01
+Drew Memorial Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$15.15,AR,Aetna: All,44.88
+Drew Memorial Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$15.15,AR,Ambetter of Arkansas: All,20.77
+Drew Memorial Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$15.15,AR,Blue Cross Blue Shield of AR: Default,16.67
+Drew Memorial Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$15.15,AR,Humana: All,13.63
+Drew Memorial Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$15.15,AR,Medicaid Arkansas: All,19.46
+Drew Memorial Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$15.15,AR,Medicare A AR JH: All,9.14
+Drew Memorial Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$15.15,AR,Summit Community Care: All,19.46
+Drew Memorial Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$15.15,AR,United Healthcare: Default,11.64
+Drew Memorial Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$15.15,AR,United Healthcare: Medicare Advantage,13.63
+Drew Memorial Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$16.34,AR,Ambetter of Arkansas: All,22.41
+Drew Memorial Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$16.34,AR,Blue Cross Blue Shield of AR: Default,17.97
+Drew Memorial Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$16.34,AR,Medicaid Arkansas: All,21.00
+Drew Memorial Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$16.34,AR,Medicare A AR JH: All,9.69
+Drew Memorial Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$16.34,AR,United Healthcare: Default,11.03
+Drew Memorial Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$16.34,AR,United Healthcare: Medicare Advantage,14.70
+Drew Memorial Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$8.00,AR,Blue Cross Blue Shield of AR: Default,8.80
+Drew Memorial Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$8.00,AR,Medicaid Arkansas: All,10.28
+Drew Memorial Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$8.00,AR,Medicare A AR JH: All,7.14
+Drew Memorial Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$8.00,AR,United Healthcare: Default,7.20
+Drew Memorial Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$10.79,AR,Ambetter of Arkansas: All,9.65
+Drew Memorial Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$10.79,AR,Blue Cross Blue Shield of AR: Default,11.87
+Drew Memorial Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$10.79,AR,Cigna: All,12.04
+Drew Memorial Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$10.79,AR,Humana: All,9.52
+Drew Memorial Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$10.79,AR,Medicaid Arkansas: All,14.89
+Drew Memorial Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$10.79,AR,Medicare A AR JH: All,8.09
+Drew Memorial Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$10.79,AR,Summit Community Care: All,13.87
+Drew Memorial Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$10.79,AR,United Healthcare: Default,10.94
+Drew Memorial Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$10.79,AR,United Healthcare: Medicare Advantage,9.74
+Drew Memorial Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$20.65,AR,Ambetter of Arkansas: All,35.41
+Drew Memorial Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$20.65,AR,Blue Cross Blue Shield of AR: Default,22.72
+Drew Memorial Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$20.65,AR,Medicaid Arkansas: All,26.55
+Drew Memorial Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$20.65,AR,Medicare A AR JH: All,18.36
+Drew Memorial Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$20.65,AR,United Healthcare: Default,18.58
+Drew Memorial Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$20.57,AR,Ambetter of Arkansas: All,35.28
+Drew Memorial Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$20.57,AR,Blue Cross Blue Shield of AR: Default,22.63
+Drew Memorial Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$20.57,AR,Medicaid Arkansas: All,26.45
+Drew Memorial Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$20.57,AR,Medicare A AR JH: All,18.34
+Drew Memorial Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$20.57,AR,United Healthcare: Default,18.52
+Drew Memorial Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$13.97,AR,Blue Cross Blue Shield of AR: Default,15.37
+Drew Memorial Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$13.97,AR,Medicare A AR JH: All,9.44
+Drew Memorial Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$13.97,AR,United Healthcare: Default,12.58
+Drew Memorial Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$12.70,AR,Aetna: All,37.63
+Drew Memorial Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$12.70,AR,Ambetter of Arkansas: All,21.77
+Drew Memorial Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$12.70,AR,Cigna: All,14.12
+Drew Memorial Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$12.70,AR,Medicaid Arkansas: All,16.34
+Drew Memorial Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$12.70,AR,Medicare A AR JH: All,11.43
+Drew Memorial Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$12.70,AR,United Healthcare: Default,15.02
+Drew Memorial Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$14.68,AR,Blue Cross Blue Shield of AR: Default,16.72
+Drew Memorial Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$14.68,AR,Medicare A AR JH: All,13.63
+Drew Memorial Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$14.68,AR,United Healthcare: Default,13.68
+Drew Memorial Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$14.68,AR,United Healthcare: Medicare Advantage,13.68
+Drew Memorial Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$9.71,AR,Ambetter of Arkansas: All,13.88
+Drew Memorial Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$9.71,AR,Blue Cross Blue Shield of AR: Default,10.68
+Drew Memorial Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$9.71,AR,Humana: All,8.74
+Drew Memorial Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$9.71,AR,Medicaid Arkansas: All,12.48
+Drew Memorial Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$9.71,AR,Medicare A AR JH: All,5.06
+Drew Memorial Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$9.71,AR,United Healthcare: Default,5.92
+Drew Memorial Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$9.71,AR,United Healthcare: Medicare Advantage,6.51
+Drew Memorial Hospital,Chemistry,HCPCS 83540,Iron level,$7.19,AR,Aetna: All,17.60
+Drew Memorial Hospital,Chemistry,HCPCS 83540,Iron level,$7.19,AR,Ambetter of Arkansas: All,11.82
+Drew Memorial Hospital,Chemistry,HCPCS 83540,Iron level,$7.19,AR,Blue Cross Blue Shield of AR: Default,7.91
+Drew Memorial Hospital,Chemistry,HCPCS 83540,Iron level,$7.19,AR,Humana: All,6.47
+Drew Memorial Hospital,Chemistry,HCPCS 83540,Iron level,$7.19,AR,Medicaid Arkansas: All,9.25
+Drew Memorial Hospital,Chemistry,HCPCS 83540,Iron level,$7.19,AR,Medicare A AR JH: All,4.14
+Drew Memorial Hospital,Chemistry,HCPCS 83540,Iron level,$7.19,AR,Summit Community Care: All,9.25
+Drew Memorial Hospital,Chemistry,HCPCS 83540,Iron level,$7.19,AR,United Healthcare: Default,4.87
+Drew Memorial Hospital,Chemistry,HCPCS 83540,Iron level,$7.19,AR,United Healthcare: Medicare Advantage,4.31
+Drew Memorial Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$6.71,AR,Ambetter of Arkansas: All,4.60
+Drew Memorial Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$6.71,AR,Blue Cross Blue Shield of AR: Default,7.38
+Drew Memorial Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$6.71,AR,Medicaid Arkansas: All,8.63
+Drew Memorial Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$6.71,AR,Medicare A AR JH: All,3.39
+Drew Memorial Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$6.71,AR,Summit Community Care: All,8.63
+Drew Memorial Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$6.71,AR,United Healthcare: Default,3.61
+Drew Memorial Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$6.71,AR,United Healthcare: Medicare Advantage,5.76
+Drew Memorial Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$7.65,AR,Aetna: All,14.79
+Drew Memorial Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$7.65,AR,Ambetter of Arkansas: All,2.19
+Drew Memorial Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$7.65,AR,Blue Cross Blue Shield of AR: Default,7.30
+Drew Memorial Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$7.65,AR,Cigna: All,3.21
+Drew Memorial Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$7.65,AR,Humana: All,3.45
+Drew Memorial Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$7.65,AR,Medicaid Arkansas: All,11.94
+Drew Memorial Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$7.65,AR,Medicare A AR JH: All,2.28
+Drew Memorial Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$7.65,AR,United Healthcare: Default,1.77
+Drew Memorial Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$7.65,AR,United Healthcare: Medicare Advantage,0.85
+Drew Memorial Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$5.75,AR,Medicaid Arkansas: All,7.38
+Drew Memorial Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$5.75,AR,Medicare A AR JH: All,4.46
+Drew Memorial Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$5.75,AR,United Healthcare: Default,5.72
+Drew Memorial Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$20.06,AR,Ambetter of Arkansas: All,34.41
+Drew Memorial Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$20.06,AR,Medicaid Arkansas: All,25.79
+Drew Memorial Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$20.06,AR,Medicare A AR JH: All,14.23
+Drew Memorial Hospital,Chemistry,HCPCS 83735,Magnesium Level,$7.44,AR,Aetna: All,14.38
+Drew Memorial Hospital,Chemistry,HCPCS 83735,Magnesium Level,$7.44,AR,Ambetter of Arkansas: All,2.47
+Drew Memorial Hospital,Chemistry,HCPCS 83735,Magnesium Level,$7.44,AR,Blue Cross Blue Shield of AR: Default,8.00
+Drew Memorial Hospital,Chemistry,HCPCS 83735,Magnesium Level,$7.44,AR,Cigna: All,12.68
+Drew Memorial Hospital,Chemistry,HCPCS 83735,Magnesium Level,$7.44,AR,Humana: All,5.43
+Drew Memorial Hospital,Chemistry,HCPCS 83735,Magnesium Level,$7.44,AR,Medicaid Arkansas: All,9.99
+Drew Memorial Hospital,Chemistry,HCPCS 83735,Magnesium Level,$7.44,AR,Medicare A AR JH: All,3.39
+Drew Memorial Hospital,Chemistry,HCPCS 83735,Magnesium Level,$7.44,AR,Summit Community Care: All,9.57
+Drew Memorial Hospital,Chemistry,HCPCS 83735,Magnesium Level,$7.44,AR,United Healthcare: Default,3.14
+Drew Memorial Hospital,Chemistry,HCPCS 83735,Magnesium Level,$7.44,AR,United Healthcare: Medicare Advantage,4.91
+Drew Memorial Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$15.11,AR,Ambetter of Arkansas: All,25.90
+Drew Memorial Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$15.11,AR,Blue Cross Blue Shield of AR: Default,16.62
+Drew Memorial Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$15.11,AR,Medicare A AR JH: All,11.64
+Drew Memorial Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$15.11,AR,United Healthcare: Default,13.51
+Drew Memorial Hospital,Chemistry,HCPCS 83970,Parathormone,$45.86,AR,Blue Cross Blue Shield of AR: Default,50.45
+Drew Memorial Hospital,Chemistry,HCPCS 83970,Parathormone,$45.86,AR,Medicaid Arkansas: All,58.94
+Drew Memorial Hospital,Chemistry,HCPCS 83970,Parathormone,$45.86,AR,Medicare A AR JH: All,36.99
+Drew Memorial Hospital,Chemistry,HCPCS 83970,Parathormone,$45.86,AR,United Healthcare: Default,32.79
+Drew Memorial Hospital,Chemistry,HCPCS 83970,Parathormone,$45.86,AR,United Healthcare: Medicare Advantage,40.95
+Drew Memorial Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$10.01,AR,Ambetter of Arkansas: All,17.16
+Drew Memorial Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$10.01,AR,Medicaid Arkansas: All,12.87
+Drew Memorial Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$10.01,AR,Medicare A AR JH: All,15.56
+Drew Memorial Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$10.01,AR,United Healthcare: Medicare Advantage,18.40
+Drew Memorial Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$21.53,AR,Aetna: All,63.79
+Drew Memorial Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$21.53,AR,Ambetter of Arkansas: All,30.77
+Drew Memorial Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$21.53,AR,Blue Cross Blue Shield of AR: Default,23.68
+Drew Memorial Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$21.53,AR,Medicaid Arkansas: All,27.67
+Drew Memorial Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$21.53,AR,Medicare A AR JH: All,19.15
+Drew Memorial Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$11.93,AR,Ambetter of Arkansas: All,20.45
+Drew Memorial Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$11.93,AR,Medicare A AR JH: All,8.85
+Drew Memorial Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$11.93,AR,United Healthcare: Default,8.71
+Drew Memorial Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$11.93,AR,United Healthcare: Medicare Advantage,8.00
+Drew Memorial Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$3.61,AR,Aetna: All,10.70
+Drew Memorial Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$3.61,AR,Ambetter of Arkansas: All,6.20
+Drew Memorial Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$3.61,AR,Blue Cross Blue Shield of AR: Default,4.49
+Drew Memorial Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$3.61,AR,Medicaid Arkansas: All,4.64
+Drew Memorial Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$3.61,AR,Medicare A AR JH: All,4.34
+Drew Memorial Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$3.61,AR,United Healthcare: Default,4.33
+Drew Memorial Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$3.61,AR,United Healthcare: Medicare Advantage,4.35
+Drew Memorial Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$28.68,AR,Aetna: All,84.98
+Drew Memorial Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$28.68,AR,Ambetter of Arkansas: All,49.18
+Drew Memorial Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$28.68,AR,Blue Cross Blue Shield of AR: Default,31.64
+Drew Memorial Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$28.68,AR,Humana: All,8.60
+Drew Memorial Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$28.68,AR,Medicaid Arkansas: All,52.05
+Drew Memorial Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$28.68,AR,Medicare A AR JH: All,24.45
+Drew Memorial Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$28.68,AR,United Healthcare: Default,28.93
+Drew Memorial Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$28.30,AR,Blue Cross Blue Shield of AR: Default,31.13
+Drew Memorial Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$28.30,AR,Medicare A AR JH: All,25.16
+Drew Memorial Hospital,Chemistry,HCPCS 84479,"Thyroid Hormone, T3 Measurement, Free",$7.18,AR,Blue Cross Blue Shield of AR: Default,7.90
+Drew Memorial Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$4.07,AR,Medicare A AR JH: All,3.67
+Drew Memorial Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$4.07,AR,United Healthcare: Default,3.90
+Drew Memorial Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$4.07,AR,Ambetter of Arkansas: All,5.59
+Drew Memorial Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$4.07,AR,Blue Cross Blue Shield of AR: Default,4.48
+Drew Memorial Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$4.07,AR,Medicaid Arkansas: All,5.25
+Drew Memorial Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$4.07,AR,Medicare A AR JH: All,3.68
+Drew Memorial Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$4.07,AR,United Healthcare: Default,4.05
+Drew Memorial Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$19.81,AR,Medicare A AR JH: All,14.44
+Drew Memorial Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$19.81,AR,United Healthcare: Default,17.48
+Drew Memorial Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$19.81,AR,United Healthcare: Medicare Advantage,8.92
+Drew Memorial Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$5.02,AR,Aetna: All,9.70
+Drew Memorial Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$5.02,AR,Ambetter of Arkansas: All,8.61
+Drew Memorial Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$5.02,AR,Blue Cross Blue Shield of AR: Default,5.52
+Drew Memorial Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$5.02,AR,Humana: All,4.52
+Drew Memorial Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$5.02,AR,Medicaid Arkansas: All,6.46
+Drew Memorial Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$5.02,AR,Medicare A AR JH: All,4.21
+Drew Memorial Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$5.02,AR,Summit Community Care: All,6.46
+Drew Memorial Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$5.02,AR,United Healthcare: Default,4.82
+Drew Memorial Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$5.02,AR,United Healthcare: Medicare Advantage,4.14
+Drew Memorial Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$6.42,AR,Ambetter of Arkansas: All,11.02
+Drew Memorial Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$6.42,AR,Blue Cross Blue Shield of AR: Default,7.06
+Drew Memorial Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$6.42,AR,Cigna: All,7.14
+Drew Memorial Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$6.42,AR,Humana: All,5.75
+Drew Memorial Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$6.42,AR,Medicaid Arkansas: All,8.27
+Drew Memorial Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$6.42,AR,Medicare A AR JH: All,5.70
+Drew Memorial Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$6.42,AR,Summit Community Care: All,8.27
+Drew Memorial Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$6.42,AR,United Healthcare: Default,5.98
+Drew Memorial Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$6.42,AR,United Healthcare: Medicare Advantage,5.61
+Drew Memorial Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$32.89,AR,Aetna: All,97.46
+Drew Memorial Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$32.89,AR,Ambetter of Arkansas: All,52.99
+Drew Memorial Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$32.89,AR,Blue Cross Blue Shield of AR: Default,36.18
+Drew Memorial Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$32.89,AR,Cigna: All,36.71
+Drew Memorial Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$32.89,AR,Humana: All,29.60
+Drew Memorial Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$32.89,AR,Medicaid Arkansas: All,42.27
+Drew Memorial Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$32.89,AR,Medicare A AR JH: All,27.92
+Drew Memorial Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$32.89,AR,United Healthcare: Default,32.47
+Drew Memorial Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$32.89,AR,United Healthcare: Medicare Advantage,29.44
+Drew Memorial Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$18.92,AR,Ambetter of Arkansas: All,16.23
+Drew Memorial Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$18.92,AR,Blue Cross Blue Shield of AR: Default,20.81
+Drew Memorial Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$18.92,AR,Medicaid Arkansas: All,24.32
+Drew Memorial Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$18.92,AR,Medicare A AR JH: All,11.35
+Drew Memorial Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$10.52,AR,Ambetter of Arkansas: All,7.22
+Drew Memorial Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$10.52,AR,Blue Cross Blue Shield of AR: Default,16.12
+Drew Memorial Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$10.52,AR,Medicaid Arkansas: All,13.55
+Drew Memorial Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$10.52,AR,Medicare A AR JH: All,13.19
+Drew Memorial Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$10.52,AR,United Healthcare: Default,17.33
+Drew Memorial Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$9.87,AR,Aetna: All,29.26
+Drew Memorial Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$9.87,AR,Ambetter of Arkansas: All,8.24
+Drew Memorial Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$9.87,AR,Blue Cross Blue Shield of AR: Default,10.86
+Drew Memorial Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$9.87,AR,Cigna: All,15.14
+Drew Memorial Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$9.87,AR,Medicaid Arkansas: All,12.69
+Drew Memorial Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$9.87,AR,Medicare A AR JH: All,8.18
+Drew Memorial Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$9.87,AR,Summit Community Care: All,12.69
+Drew Memorial Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$9.87,AR,United Healthcare: Default,10.26
+Drew Memorial Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$9.87,AR,United Healthcare: Medicare Advantage,8.78
+Drew Memorial Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$15.85,AR,Ambetter of Arkansas: All,3.88
+Drew Memorial Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$15.85,AR,Blue Cross Blue Shield of AR: Default,17.44
+Drew Memorial Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$15.85,AR,Medicaid Arkansas: All,25.73
+Drew Memorial Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$15.85,AR,Medicare A AR JH: All,14.27
+Drew Memorial Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$15.85,AR,United Healthcare: Default,14.27
+Drew Memorial Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$15.27,AR,Blue Cross Blue Shield of AR: Default,16.80
+Drew Memorial Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$15.27,AR,Medicare A AR JH: All,13.74
+Drew Memorial Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$11.93,AR,Ambetter of Arkansas: All,10.24
+Drew Memorial Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$11.93,AR,Blue Cross Blue Shield of AR: Default,13.12
+Drew Memorial Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$11.93,AR,Medicaid Arkansas: All,15.33
+Drew Memorial Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$16.65,AR,Aetna: All,49.34
+Drew Memorial Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$16.65,AR,Cigna: All,4.33
+Drew Memorial Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$16.65,AR,Medicaid Arkansas: All,21.41
+Drew Memorial Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$16.65,AR,United Healthcare: Default,19.70
+Drew Memorial Hospital,Immunology,HCPCS 86334,Immunologic analysis technique on body fluid; Immunofixation electrophoresis,$24.83,AR,Medicare A AR JH: All,17.78
+Drew Memorial Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$5.75,AR,Aetna: All,17.04
+Drew Memorial Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$5.75,AR,Ambetter of Arkansas: All,2.60
+Drew Memorial Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$5.75,AR,Blue Cross Blue Shield of AR: Default,6.15
+Drew Memorial Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$5.75,AR,Cigna: All,6.68
+Drew Memorial Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$5.75,AR,Humana: All,2.59
+Drew Memorial Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$5.75,AR,Medicaid Arkansas: All,7.39
+Drew Memorial Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$5.75,AR,Medicare A AR JH: All,2.66
+Drew Memorial Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$5.75,AR,Summit Community Care: All,7.39
+Drew Memorial Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$5.75,AR,United Healthcare: Default,2.91
+Drew Memorial Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$5.75,AR,United Healthcare: Medicare Advantage,1.54
+Drew Memorial Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$16.17,AR,Blue Cross Blue Shield of AR: Default,17.79
+Drew Memorial Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$16.17,AR,Medicaid Arkansas: All,20.78
+Drew Memorial Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$16.17,AR,United Healthcare: Default,15.88
+Drew Memorial Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$6.30,AR,Aetna: All,18.67
+Drew Memorial Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$6.30,AR,Ambetter of Arkansas: All,10.81
+Drew Memorial Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$6.30,AR,Blue Cross Blue Shield of AR: Default,6.93
+Drew Memorial Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$6.30,AR,Cigna: All,7.01
+Drew Memorial Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$6.30,AR,Humana: All,5.67
+Drew Memorial Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$6.30,AR,Medicaid Arkansas: All,11.44
+Drew Memorial Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$6.30,AR,Medicare A AR JH: All,5.08
+Drew Memorial Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$6.30,AR,United Healthcare: Default,5.21
+Drew Memorial Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$5.75,AR,Blue Cross Blue Shield of AR: Default,6.33
+Drew Memorial Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$5.75,AR,Medicaid Arkansas: All,12.72
+Drew Memorial Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$4.75,AR,Aetna: All,14.06
+Drew Memorial Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$4.75,AR,Ambetter of Arkansas: All,8.13
+Drew Memorial Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$4.75,AR,Blue Cross Blue Shield of AR: Default,5.23
+Drew Memorial Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$4.75,AR,Cigna: All,7.28
+Drew Memorial Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$4.75,AR,Medicaid Arkansas: All,6.11
+Drew Memorial Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$4.75,AR,Medicare A AR JH: All,4.24
+Drew Memorial Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$4.75,AR,United Healthcare: Default,5.61
+Drew Memorial Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$4.75,AR,United Healthcare: Medicare Advantage,4.19
+Drew Memorial Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$9.57,AR,Aetna: All,28.37
+Drew Memorial Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$9.57,AR,Ambetter of Arkansas: All,12.31
+Drew Memorial Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$9.57,AR,Blue Cross Blue Shield of AR: Default,7.43
+Drew Memorial Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$9.57,AR,Humana: All,8.62
+Drew Memorial Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$9.57,AR,Medicaid Arkansas: All,13.19
+Drew Memorial Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$9.57,AR,Medicare A AR JH: All,6.07
+Drew Memorial Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$9.57,AR,Summit Community Care: All,12.30
+Drew Memorial Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$9.57,AR,United Healthcare: Default,8.55
+Drew Memorial Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$9.57,AR,United Healthcare: Medicare Advantage,8.59
+Drew Memorial Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$8.97,AR,Aetna: All,26.57
+Drew Memorial Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$8.97,AR,Ambetter of Arkansas: All,9.76
+Drew Memorial Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$8.97,AR,Blue Cross Blue Shield of AR: Default,9.87
+Drew Memorial Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$8.97,AR,Cigna: All,12.99
+Drew Memorial Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$8.97,AR,Humana: All,6.26
+Drew Memorial Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$8.97,AR,Medicaid Arkansas: All,11.53
+Drew Memorial Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$8.97,AR,Medicare A AR JH: All,6.99
+Drew Memorial Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$8.97,AR,Summit Community Care: All,11.53
+Drew Memorial Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$8.97,AR,United Healthcare: Default,7.18
+Drew Memorial Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$8.97,AR,United Healthcare: Medicare Advantage,6.43
+Drew Memorial Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$38.99,AR,Aetna: All,115.54
+Drew Memorial Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$38.99,AR,Ambetter of Arkansas: All,60.88
+Drew Memorial Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$38.99,AR,Blue Cross Blue Shield of AR: Default,42.89
+Drew Memorial Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$38.99,AR,Cigna: All,67.64
+Drew Memorial Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$38.99,AR,Medicaid Arkansas: All,50.12
+Drew Memorial Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$38.99,AR,Medicare A AR JH: All,30.27
+Drew Memorial Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$38.99,AR,Summit Community Care: All,50.12
+Drew Memorial Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$38.99,AR,United Healthcare: Default,43.35
+Drew Memorial Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$38.99,AR,United Healthcare: Medicare Advantage,35.09
+Drew Memorial Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$94.50,AR,Aetna: All,51.26
+Drew Memorial Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$94.50,AR,Ambetter of Arkansas: All,62.42
+Drew Memorial Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$94.50,AR,Blue Cross Blue Shield of AR: Default,68.71
+Drew Memorial Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$94.50,AR,Cigna: All,57.62
+Drew Memorial Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$94.50,AR,Humana: All,44.40
+Drew Memorial Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$94.50,AR,Medicare A AR JH: All,48.16
+Drew Memorial Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$94.50,AR,Summit Community Care: All,350.00
+Drew Memorial Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$94.50,AR,United Healthcare: Default,49.33
+Drew Memorial Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$94.50,AR,United Healthcare: Medicare Advantage,45.83
+Drew Memorial Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$38.99,AR,Aetna: All,115.54
+Drew Memorial Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$38.99,AR,Ambetter of Arkansas: All,33.43
+Drew Memorial Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$38.99,AR,Blue Cross Blue Shield of AR: Default,42.89
+Drew Memorial Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$38.99,AR,Cigna: All,63.42
+Drew Memorial Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$38.99,AR,Humana: All,37.02
+Drew Memorial Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$38.99,AR,Medicaid Arkansas: All,51.95
+Drew Memorial Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$38.99,AR,Medicare A AR JH: All,34.59
+Drew Memorial Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$38.99,AR,United Healthcare: Default,38.72
+Drew Memorial Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$38.99,AR,United Healthcare: Medicare Advantage,18.27
+Drew Memorial Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$11.48,AR,Blue Cross Blue Shield of AR: Default,12.63
+Drew Memorial Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$11.48,AR,Medicaid Arkansas: All,19.47
+Drew Memorial Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$38.99,AR,Aetna: All,115.54
+Drew Memorial Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$38.99,AR,Ambetter of Arkansas: All,60.88
+Drew Memorial Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$38.99,AR,Blue Cross Blue Shield of AR: Default,42.89
+Drew Memorial Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$38.99,AR,Cigna: All,67.64
+Drew Memorial Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$38.99,AR,Medicaid Arkansas: All,51.74
+Drew Memorial Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$38.99,AR,Medicare A AR JH: All,30.27
+Drew Memorial Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$38.99,AR,Summit Community Care: All,50.12
+Drew Memorial Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$38.99,AR,United Healthcare: Default,43.35
+Drew Memorial Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$38.99,AR,United Healthcare: Medicare Advantage,35.09
+Drew Memorial Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$15.99,AR,Aetna: All,47.38
+Drew Memorial Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$15.99,AR,Ambetter of Arkansas: All,1.31
+Drew Memorial Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$15.99,AR,Blue Cross Blue Shield of AR: Default,17.59
+Drew Memorial Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$15.99,AR,Cigna: All,25.34
+Drew Memorial Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$15.99,AR,Medicaid Arkansas: All,20.55
+Drew Memorial Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$15.99,AR,United Healthcare: Default,18.92
+Drew Memorial Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$9.89,AR,Blue Cross Blue Shield of AR: Default,10.88
+Drew Memorial Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$9.89,AR,Cigna: All,20.34
+Drew Memorial Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$9.89,AR,Humana: All,8.84
+Drew Memorial Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$9.89,AR,Medicaid Arkansas: All,12.71
+Drew Memorial Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$9.89,AR,Medicare A AR JH: All,7.96
+Drew Memorial Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$9.89,AR,United Healthcare: Default,8.82
+Drew Memorial Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$9.89,AR,United Healthcare: Medicare Advantage,8.73
+Drew Memorial Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$5.99,AR,Ambetter of Arkansas: All,10.26
+Drew Memorial Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$5.99,AR,Blue Cross Blue Shield of AR: Default,6.59
+Drew Memorial Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$5.99,AR,Medicare A AR JH: All,2.70
+Drew Memorial Hospital,Microbiology,HCPCS 87045,Stool Culture,$10.49,AR,Aetna: All,31.08
+Drew Memorial Hospital,Microbiology,HCPCS 87045,Stool Culture,$10.49,AR,Ambetter of Arkansas: All,9.00
+Drew Memorial Hospital,Microbiology,HCPCS 87045,Stool Culture,$10.49,AR,Blue Cross Blue Shield of AR: Default,11.54
+Drew Memorial Hospital,Microbiology,HCPCS 87045,Stool Culture,$10.49,AR,Cigna: All,17.06
+Drew Memorial Hospital,Microbiology,HCPCS 87045,Stool Culture,$10.49,AR,Humana: All,9.38
+Drew Memorial Hospital,Microbiology,HCPCS 87045,Stool Culture,$10.49,AR,Medicaid Arkansas: All,13.47
+Drew Memorial Hospital,Microbiology,HCPCS 87045,Stool Culture,$10.49,AR,Medicare A AR JH: All,8.95
+Drew Memorial Hospital,Microbiology,HCPCS 87045,Stool Culture,$10.49,AR,United Healthcare: Default,10.11
+Drew Memorial Hospital,Microbiology,HCPCS 87045,Stool Culture,$10.49,AR,United Healthcare: Medicare Advantage,4.63
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$52.93,AR,Aetna: All,156.82
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$52.93,AR,Ambetter of Arkansas: All,50.42
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$52.93,AR,Blue Cross Blue Shield of AR: Default,58.22
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$52.93,AR,Cigna: All,83.87
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$52.93,AR,Medicaid Arkansas: All,68.01
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$52.93,AR,Medicare A AR JH: All,41.82
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$52.93,AR,Summit Community Care: All,68.01
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$52.93,AR,United Healthcare: Default,53.42
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$52.93,AR,United Healthcare: Medicare Advantage,47.21
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$9.40,AR,Aetna: All,16.74
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$9.40,AR,Ambetter of Arkansas: All,11.12
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$9.40,AR,Blue Cross Blue Shield of AR: Default,9.38
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$9.40,AR,Cigna: All,12.67
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$9.40,AR,Humana: All,8.00
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$9.40,AR,Medicaid Arkansas: All,13.94
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$9.40,AR,Medicare A AR JH: All,7.68
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$9.40,AR,Summit Community Care: All,12.09
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$9.40,AR,United Healthcare: Default,8.20
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$9.40,AR,United Healthcare: Medicare Advantage,8.03
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$11.74,AR,Aetna: All,28.84
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$11.74,AR,Ambetter of Arkansas: All,11.47
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$11.74,AR,Blue Cross Blue Shield of AR: Default,12.55
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$11.74,AR,Cigna: All,16.10
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$11.74,AR,Humana: All,9.35
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$11.74,AR,Medicaid Arkansas: All,15.63
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$11.74,AR,Medicare A AR JH: All,8.50
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$11.74,AR,Summit Community Care: All,15.10
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$11.74,AR,UMR United Medical Resources: All,37.11
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$11.74,AR,United Healthcare: Default,9.26
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$11.74,AR,United Healthcare: Medicare Advantage,9.09
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$14.13,AR,Aetna: All,36.70
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$14.13,AR,Ambetter of Arkansas: All,24.23
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$14.13,AR,Blue Cross Blue Shield of AR: Default,16.37
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$14.13,AR,Cigna: All,17.50
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$14.13,AR,Humana: All,15.60
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$14.13,AR,Medicaid Arkansas: All,18.16
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$14.13,AR,Medicare A AR JH: All,13.34
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$14.13,AR,Summit Community Care: All,18.16
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$14.13,AR,United Healthcare: Default,14.40
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$14.13,AR,United Healthcare: Medicare Advantage,13.38
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$9.65,AR,Blue Cross Blue Shield of AR: Default,10.62
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$9.65,AR,Medicaid Arkansas: All,12.40
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$9.65,AR,Medicare A AR JH: All,5.35
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$9.65,AR,United Healthcare: Default,9.53
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$9.65,AR,United Healthcare: Medicare Advantage,8.68
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$9.08,AR,Ambetter of Arkansas: All,15.55
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$9.08,AR,Medicaid Arkansas: All,11.67
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$9.08,AR,Medicare A AR JH: All,7.27
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$9.08,AR,Summit Community Care: All,11.67
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$9.08,AR,United Healthcare: Default,8.82
+Drew Memorial Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$9.08,AR,United Healthcare: Medicare Advantage,6.98
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$14.75,AR,Medicare A AR JH: All,11.64
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$14.75,AR,United Healthcare: Default,13.19
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$64.65,AR,Aetna: All,191.54
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$64.65,AR,Ambetter of Arkansas: All,60.55
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$64.65,AR,Blue Cross Blue Shield of AR: Default,71.12
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$64.65,AR,Cigna: All,134.23
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$64.65,AR,Humana: All,56.55
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$64.65,AR,Medicaid Arkansas: All,79.81
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$64.65,AR,Medicare A AR JH: All,46.21
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$64.65,AR,Summit Community Care: All,79.81
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$64.65,AR,United Healthcare: Default,58.33
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$64.65,AR,United Healthcare: Medicare Advantage,61.46
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$14.73,AR,Ambetter of Arkansas: All,25.26
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$14.73,AR,Humana: All,13.12
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$14.73,AR,Medicaid Arkansas: All,18.09
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$14.73,AR,Medicare A AR JH: All,11.42
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$14.73,AR,United Healthcare: Default,13.16
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$7.35,AR,Ambetter of Arkansas: All,9.45
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$7.35,AR,Blue Cross Blue Shield of AR: Default,8.09
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$7.35,AR,Medicare A AR JH: All,6.59
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$7.35,AR,United Healthcare: Default,6.55
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$12.73,AR,Medicare A AR JH: All,7.65
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$12.73,AR,United Healthcare: Default,15.05
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$14.73,AR,Humana: All,13.25
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$14.73,AR,Medicaid Arkansas: All,18.93
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$14.73,AR,Medicare A AR JH: All,10.90
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$14.73,AR,United Healthcare: Default,14.64
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$15.26,AR,Blue Cross Blue Shield of AR: Default,16.79
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$15.26,AR,Medicaid Arkansas: All,19.60
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$15.26,AR,Medicare A AR JH: All,12.97
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$15.26,AR,United Healthcare: Default,13.64
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$15.26,AR,United Healthcare: Medicare Advantage,13.46
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$15.05,AR,Ambetter of Arkansas: All,25.82
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$15.05,AR,Humana: All,13.41
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$15.05,AR,Medicaid Arkansas: All,19.34
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$15.05,AR,Medicare A AR JH: All,12.92
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$15.05,AR,United Healthcare: Default,13.47
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$15.05,AR,Ambetter of Arkansas: All,22.13
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$15.05,AR,Blue Cross Blue Shield of AR: Default,16.56
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$15.05,AR,Medicare A AR JH: All,13.45
+Drew Memorial Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$15.05,AR,United Healthcare: Default,13.54
+Drew Memorial Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$3.32,AR,Aetna: All,9.84
+Drew Memorial Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$3.32,AR,Ambetter of Arkansas: All,1.65
+Drew Memorial Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$3.32,AR,Blue Cross Blue Shield of AR: Default,9.57
+Drew Memorial Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$3.32,AR,Cigna: All,2.72
+Drew Memorial Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$3.32,AR,Medicaid Arkansas: All,4.26
+Drew Memorial Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$3.32,AR,United Healthcare: Default,4.00
+Drew Memorial Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$3.32,AR,Aetna: All,9.84
+Drew Memorial Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$3.32,AR,Blue Cross Blue Shield of AR: Default,9.62
+Drew Memorial Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$3.32,AR,Cigna: All,2.72
+Drew Memorial Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$3.32,AR,Medicaid Arkansas: All,12.30
+Drew Memorial Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$3.32,AR,United Healthcare: Default,4.00
+Drew Memorial Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$25.11,AR,Blue Cross Blue Shield of AR: Default,93.01
+Drew Memorial Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$25.11,AR,United Healthcare: Default,13.58
+Drew Memorial Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$2.49,AR,Ambetter of Arkansas: All,4.28
+Drew Memorial Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$2.49,AR,Blue Cross Blue Shield of AR: Default,2.74
+Drew Memorial Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$2.49,AR,Humana: All,2.25
+Drew Memorial Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$2.49,AR,Medicaid Arkansas: All,3.20
+Drew Memorial Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$2.49,AR,Medicare A AR JH: All,2.11
+Drew Memorial Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$2.49,AR,United Healthcare: Default,2.38
+Drew Memorial Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$2.49,AR,United Healthcare: Medicare Advantage,2.25
+Drew Memorial Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$3.52,AR,Aetna: All,10.44
+Drew Memorial Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$3.52,AR,Ambetter of Arkansas: All,0.42
+Drew Memorial Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$3.52,AR,Blue Cross Blue Shield of AR: Default,3.42
+Drew Memorial Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$3.52,AR,Cigna: All,5.66
+Drew Memorial Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$3.52,AR,Humana: All,2.88
+Drew Memorial Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$3.52,AR,Medicaid Arkansas: All,5.08
+Drew Memorial Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$3.52,AR,Medicare A AR JH: All,1.91
+Drew Memorial Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$3.52,AR,Summit Community Care: All,4.52
+Drew Memorial Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$3.52,AR,United Healthcare: Default,1.85
+Drew Memorial Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$3.52,AR,United Healthcare: Medicare Advantage,1.63
+Drew Memorial Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$7.02,AR,Ambetter of Arkansas: All,0.34
+Drew Memorial Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$7.02,AR,Blue Cross Blue Shield of AR: Default,4.84
+Drew Memorial Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$7.02,AR,Cigna: All,13.42
+Drew Memorial Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$7.02,AR,Medicaid Arkansas: All,8.75
+Drew Memorial Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$7.02,AR,Medicare A AR JH: All,5.74
+Drew Memorial Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$7.02,AR,Summit Community Care: All,9.03
+Drew Memorial Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$18.86,AR,Aetna: All,55.90
+Drew Memorial Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$18.86,AR,Ambetter of Arkansas: All,5.09
+Drew Memorial Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$18.86,AR,Blue Cross Blue Shield of AR: Default,45.78
+Drew Memorial Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$18.86,AR,Cigna: All,22.53
+Drew Memorial Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$18.86,AR,Humana: All,13.85
+Drew Memorial Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$18.86,AR,Medicaid Arkansas: All,18.46
+Drew Memorial Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$18.86,AR,Medicare A AR JH: All,23.53
+Drew Memorial Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$18.86,AR,Summit Community Care: All,17.00
+Drew Memorial Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$18.86,AR,United Healthcare: Default,16.45
+Drew Memorial Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$18.86,AR,United Healthcare: Medicare Advantage,23.16
+Drew Memorial Hospital,Pulmonary,HCPCS 94640,Nebulizer Treatment,$129.33,AR,Aetna: All,383.20
+Drew Memorial Hospital,Pulmonary,HCPCS 94640,Nebulizer Treatment,$129.33,AR,Blue Cross Blue Shield of AR: Default,167.57
+Drew Memorial Hospital,Pulmonary,HCPCS 94640,Nebulizer Treatment,$129.33,AR,Cigna: All,34.25
+Drew Memorial Hospital,Pulmonary,HCPCS 94640,Nebulizer Treatment,$129.33,AR,Medicaid Arkansas: All,6.00
+Drew Memorial Hospital,Sleep,HCPCS 95810,Sleep study,$643.60,AR,Aetna: All,1906.97
+Drew Memorial Hospital,Sleep,HCPCS 95810,Sleep study,$643.60,AR,Ambetter of Arkansas: All,986.15
+Drew Memorial Hospital,Sleep,HCPCS 95810,Sleep study,$643.60,AR,Blue Cross Blue Shield of AR: Default,849.95
+Drew Memorial Hospital,Sleep,HCPCS 95810,Sleep study,$643.60,AR,Medicaid Arkansas: All,122.00
+Drew Memorial Hospital,Sleep,HCPCS 95810,Sleep study,$643.60,AR,Medicare A AR JH: All,849.50
+Drew Memorial Hospital,Sleep,HCPCS 95810,Sleep study,$643.60,AR,United Healthcare: Default,900.00
+Drew Memorial Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$127.22,AR,Aetna: All,296.59
+Drew Memorial Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$127.22,AR,Ambetter of Arkansas: All,168.41
+Drew Memorial Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$127.22,AR,Blue Cross Blue Shield of AR: Default,84.77
+Drew Memorial Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$127.22,AR,Medicaid Arkansas: All,104.44
+Drew Memorial Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$127.22,AR,Medicare A AR JH: All,80.56
+Drew Memorial Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$127.22,AR,Summit Community Care: All,104.44
+Drew Memorial Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$127.22,AR,United Healthcare: Default,160.07
+Drew Memorial Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$127.22,AR,United Healthcare: Medicare Advantage,81.10
+Drew Memorial Hospital,Breast,HCPCS 77067,Mammogram Screening,$132.80,AR,Aetna: All,313.14
+Drew Memorial Hospital,Breast,HCPCS 77067,Mammogram Screening,$132.80,AR,Ambetter of Arkansas: All,172.17
+Drew Memorial Hospital,Breast,HCPCS 77067,Mammogram Screening,$132.80,AR,Blue Cross Blue Shield of AR: Default,89.54
+Drew Memorial Hospital,Breast,HCPCS 77067,Mammogram Screening,$132.80,AR,Cigna: All,271.68
+Drew Memorial Hospital,Breast,HCPCS 77067,Mammogram Screening,$132.80,AR,Humana: All,84.89
+Drew Memorial Hospital,Breast,HCPCS 77067,Mammogram Screening,$132.80,AR,Medicaid Arkansas: All,98.84
+Drew Memorial Hospital,Breast,HCPCS 77067,Mammogram Screening,$132.80,AR,Medicare A AR JH: All,85.08
+Drew Memorial Hospital,Breast,HCPCS 77067,Mammogram Screening,$132.80,AR,Summit Community Care: All,98.84
+Drew Memorial Hospital,Breast,HCPCS 77067,Mammogram Screening,$132.80,AR,United Healthcare: Default,117.59
+Drew Memorial Hospital,Breast,HCPCS 77067,Mammogram Screening,$132.80,AR,United Healthcare: Medicare Advantage,85.13
+Drew Memorial Hospital,Breast,HCPCS 77066,Mammography of both breasts,$159.92,AR,Ambetter of Arkansas: All,213.57
+Drew Memorial Hospital,Breast,HCPCS 77066,Mammography of both breasts,$159.92,AR,Blue Cross Blue Shield of AR: Default,108.31
+Drew Memorial Hospital,Breast,HCPCS 77066,Mammography of both breasts,$159.92,AR,Humana: All,102.65
+Drew Memorial Hospital,Breast,HCPCS 77066,Mammography of both breasts,$159.92,AR,Medicaid Arkansas: All,126.48
+Drew Memorial Hospital,Breast,HCPCS 77066,Mammography of both breasts,$159.92,AR,Medicare A AR JH: All,102.96
+Drew Memorial Hospital,Breast,HCPCS 77066,Mammography of both breasts,$159.92,AR,United Healthcare: Default,140.39
+Drew Memorial Hospital,Breast,HCPCS 77066,Mammography of both breasts,$159.92,AR,United Healthcare: Medicare Advantage,103.42
+Drew Memorial Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,$219.00,AR,Aetna: All,437.33
+Drew Memorial Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,$219.00,AR,Ambetter of Arkansas: All,201.82
+Drew Memorial Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,$219.00,AR,Blue Cross Blue Shield of AR: Default,166.70
+Drew Memorial Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,$219.00,AR,Cigna: All,366.45
+Drew Memorial Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,$219.00,AR,Humana: All,170.35
+Drew Memorial Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,$219.00,AR,Medicare A AR JH: All,193.31
+Drew Memorial Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,$219.00,AR,United Healthcare: Default,216.09
+Drew Memorial Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,$219.00,AR,United Healthcare: Medicare Advantage,171.60
+Drew Memorial Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$124.18,AR,Aetna: All,250.94
+Drew Memorial Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$124.18,AR,Ambetter of Arkansas: All,119.60
+Drew Memorial Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$124.18,AR,Blue Cross Blue Shield of AR: Default,103.47
+Drew Memorial Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$124.18,AR,Cigna: All,221.70
+Drew Memorial Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$124.18,AR,Humana: All,215.73
+Drew Memorial Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$124.18,AR,Medicaid Arkansas: All,177.78
+Drew Memorial Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$124.18,AR,Medicare A AR JH: All,121.61
+Drew Memorial Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$124.18,AR,Summit Community Care: All,165.00
+Drew Memorial Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$124.18,AR,United Healthcare: Default,144.43
+Drew Memorial Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$124.18,AR,United Healthcare: Medicare Advantage,125.60
+Drew Memorial Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$124.43,AR,Aetna: All,268.99
+Drew Memorial Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$124.43,AR,Ambetter of Arkansas: All,60.80
+Drew Memorial Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$124.43,AR,Blue Cross Blue Shield of AR: Default,93.12
+Drew Memorial Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$124.43,AR,Cigna: All,256.14
+Drew Memorial Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$124.43,AR,Medicaid Arkansas: All,178.00
+Drew Memorial Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$124.43,AR,Medicare A AR JH: All,18.52
+Drew Memorial Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$124.43,AR,United Healthcare: Default,131.25
+Drew Memorial Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$124.43,AR,United Healthcare: Medicare Advantage,52.92
+Drew Memorial Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,$388.01,AR,Ambetter of Arkansas: All,414.29
+Drew Memorial Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,$388.01,AR,Blue Cross Blue Shield of AR: Default,292.25
+Drew Memorial Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,$388.01,AR,Cigna: All,442.37
+Drew Memorial Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,$388.01,AR,Humana: All,391.68
+Drew Memorial Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,$388.01,AR,Medicare A AR JH: All,363.98
+Drew Memorial Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,$388.01,AR,United Healthcare: Default,80.41
+Drew Memorial Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,$388.01,AR,United Healthcare: Medicare Advantage,286.57
+Drew Memorial Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,$380.95,AR,Aetna: All,916.44
+Drew Memorial Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,$380.95,AR,Ambetter of Arkansas: All,402.10
+Drew Memorial Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,$380.95,AR,Blue Cross Blue Shield of AR: Default,350.84
+Drew Memorial Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,$380.95,AR,Cigna: All,497.61
+Drew Memorial Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,$380.95,AR,Humana: All,355.80
+Drew Memorial Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,$380.95,AR,Medicare A AR JH: All,362.42
+Drew Memorial Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,$380.95,AR,United Healthcare: Default,33.17
+Drew Memorial Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,$380.95,AR,United Healthcare: Medicare Advantage,360.57
+Drew Memorial Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$257.07,AR,Aetna: All,465.24
+Drew Memorial Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$257.07,AR,Ambetter of Arkansas: All,242.63
+Drew Memorial Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$257.07,AR,Blue Cross Blue Shield of AR: Default,214.17
+Drew Memorial Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$257.07,AR,Cigna: All,289.51
+Drew Memorial Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$257.07,AR,Humana: All,400.81
+Drew Memorial Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$257.07,AR,Medicaid Arkansas: All,108.30
+Drew Memorial Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$257.07,AR,Medicare A AR JH: All,214.79
+Drew Memorial Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$257.07,AR,Summit Community Care: All,108.30
+Drew Memorial Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$257.07,AR,United Healthcare: Default,296.12
+Drew Memorial Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,$257.07,AR,United Healthcare: Medicare Advantage,219.59
+Drew Memorial Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$197.69,AR,Blue Cross Blue Shield of AR: Default,192.18
+Drew Memorial Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$197.69,AR,Medicare A AR JH: All,169.32
+Drew Memorial Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$197.69,AR,United Healthcare: Medicare Advantage,172.07
+Drew Memorial Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,$202.55,AR,Ambetter of Arkansas: All,197.69
+Drew Memorial Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,$202.55,AR,Medicare A AR JH: All,129.05
+Drew Memorial Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$196.56,AR,Blue Cross Blue Shield of AR: Default,166.86
+Drew Memorial Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$196.56,AR,Medicare A AR JH: All,90.64
+Drew Memorial Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$196.56,AR,United Healthcare: Default,12.39
+Drew Memorial Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$136.25,AR,Aetna: All,920.94
+Drew Memorial Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$136.25,AR,Ambetter of Arkansas: All,86.86
+Drew Memorial Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$136.25,AR,Blue Cross Blue Shield of AR: Default,118.01
+Drew Memorial Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$136.25,AR,Medicaid Arkansas: All,215.00
+Drew Memorial Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$136.25,AR,Medicare A AR JH: All,87.90
+Drew Memorial Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$136.25,AR,United Healthcare: Default,121.89
+Drew Memorial Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$136.25,AR,United Healthcare: Medicare Advantage,52.92
+Drew Memorial Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$201.91,AR,Ambetter of Arkansas: All,197.69
+Drew Memorial Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$201.91,AR,Blue Cross Blue Shield of AR: Default,192.18
+Drew Memorial Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$201.91,AR,Humana: All,172.07
+Drew Memorial Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$201.91,AR,Medicare A AR JH: All,113.80
+Drew Memorial Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$201.91,AR,United Healthcare: Default,435.48
+Drew Memorial Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,$247.06,AR,Aetna: All,1139.51
+Drew Memorial Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,$247.06,AR,Ambetter of Arkansas: All,254.24
+Drew Memorial Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,$247.06,AR,Blue Cross Blue Shield of AR: Default,216.25
+Drew Memorial Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,$247.06,AR,Humana: All,220.06
+Drew Memorial Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,$247.06,AR,Medicaid Arkansas: All,446.00
+Drew Memorial Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,$247.06,AR,Medicare A AR JH: All,199.09
+Drew Memorial Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,$247.06,AR,United Healthcare: Default,512.58
+Drew Memorial Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$247.06,AR,Aetna: All,1132.43
+Drew Memorial Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$247.06,AR,Ambetter of Arkansas: All,227.56
+Drew Memorial Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$247.06,AR,Blue Cross Blue Shield of AR: Default,215.91
+Drew Memorial Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$247.06,AR,Cigna: All,825.00
+Drew Memorial Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$247.06,AR,Humana: All,216.54
+Drew Memorial Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$247.06,AR,Medicaid Arkansas: All,432.00
+Drew Memorial Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$247.06,AR,Medicare A AR JH: All,214.41
+Drew Memorial Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$247.06,AR,Summit Community Care: All,432.00
+Drew Memorial Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$247.06,AR,United Healthcare: Default,269.83
+Drew Memorial Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$247.06,AR,United Healthcare: Medicare Advantage,219.68
+Drew Memorial Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,$399.26,AR,Ambetter of Arkansas: All,414.29
+Drew Memorial Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,$399.26,AR,Blue Cross Blue Shield of AR: Default,357.53
+Drew Memorial Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,$399.26,AR,Cigna: All,825.00
+Drew Memorial Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,$399.26,AR,Humana: All,360.57
+Drew Memorial Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,$399.26,AR,Medicaid Arkansas: All,578.00
+Drew Memorial Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,$399.26,AR,Medicare A AR JH: All,357.46
+Drew Memorial Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,$399.26,AR,United Healthcare: Default,415.35
+Drew Memorial Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,$247.06,AR,Aetna: All,941.39
+Drew Memorial Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,$247.06,AR,Ambetter of Arkansas: All,210.93
+Drew Memorial Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,$247.06,AR,Blue Cross Blue Shield of AR: Default,215.50
+Drew Memorial Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,$247.06,AR,Humana: All,220.06
+Drew Memorial Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,$247.06,AR,Medicaid Arkansas: All,406.00
+Drew Memorial Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,$247.06,AR,Medicare A AR JH: All,225.02
+Drew Memorial Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,$247.06,AR,United Healthcare: Default,290.93
+Drew Memorial Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,$247.06,AR,United Healthcare: Medicare Advantage,220.06
+Drew Memorial Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,$399.26,AR,Ambetter of Arkansas: All,207.15
+Drew Memorial Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,$399.26,AR,Blue Cross Blue Shield of AR: Default,355.01
+Drew Memorial Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,$399.26,AR,Humana: All,360.57
+Drew Memorial Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,$399.26,AR,Medicare A AR JH: All,359.93
+Drew Memorial Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,$399.26,AR,United Healthcare: Default,358.65
+Drew Memorial Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,$395.32,AR,Ambetter of Arkansas: All,414.29
+Drew Memorial Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,$395.32,AR,Blue Cross Blue Shield of AR: Default,328.16
+Drew Memorial Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,$395.32,AR,Humana: All,360.57
+Drew Memorial Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,$395.32,AR,Medicaid Arkansas: All,955.20
+Drew Memorial Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,$395.32,AR,Medicare A AR JH: All,314.15
+Drew Memorial Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,$395.32,AR,United Healthcare: Default,358.22
+Drew Memorial Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,$395.32,AR,United Healthcare: Medicare Advantage,360.57
+Drew Memorial Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,$399.26,AR,Ambetter of Arkansas: All,372.86
+Drew Memorial Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,$399.26,AR,Blue Cross Blue Shield of AR: Default,358.06
+Drew Memorial Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,$399.26,AR,Cigna: All,825.00
+Drew Memorial Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,$399.26,AR,Medicaid Arkansas: All,578.00
+Drew Memorial Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,$399.26,AR,Medicare A AR JH: All,340.79
+Drew Memorial Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,$399.26,AR,Summit Community Care: All,578.00
+Drew Memorial Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,$399.26,AR,United Healthcare: Default,145.43
+Drew Memorial Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,$399.26,AR,United Healthcare: Medicare Advantage,358.22
+Drew Memorial Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$247.06,AR,Ambetter of Arkansas: All,294.90
+Drew Memorial Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$247.06,AR,Blue Cross Blue Shield of AR: Default,215.12
+Drew Memorial Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$247.06,AR,Humana: All,110.03
+Drew Memorial Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$247.06,AR,Medicaid Arkansas: All,403.00
+Drew Memorial Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$247.06,AR,Medicare A AR JH: All,208.83
+Drew Memorial Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,$247.06,AR,United Healthcare: Default,417.79
+Drew Memorial Hospital,MRI,HCPCS 73721,MRI scan of leg joint,$241.95,AR,Blue Cross Blue Shield of AR: Default,216.25
+Drew Memorial Hospital,MRI,HCPCS 73721,MRI scan of leg joint,$241.95,AR,Medicaid Arkansas: All,380.00
+Drew Memorial Hospital,MRI,HCPCS 73721,MRI scan of leg joint,$241.95,AR,Medicare A AR JH: All,218.89
+Drew Memorial Hospital,MRI,HCPCS 73721,MRI scan of leg joint,$241.95,AR,United Healthcare: Default,219.43
+Drew Memorial Hospital,MRI,HCPCS 73721,MRI scan of leg joint,$241.95,AR,United Healthcare: Medicare Advantage,220.06
+Drew Memorial Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$113.73,AR,Ambetter of Arkansas: All,121.60
+Drew Memorial Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$113.73,AR,Blue Cross Blue Shield of AR: Default,105.33
+Drew Memorial Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$113.73,AR,Medicaid Arkansas: All,56.00
+Drew Memorial Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$113.73,AR,United Healthcare: Default,192.50
+Drew Memorial Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$90.20,AR,Ambetter of Arkansas: All,121.60
+Drew Memorial Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$90.20,AR,Blue Cross Blue Shield of AR: Default,105.53
+Drew Memorial Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$90.20,AR,Medicaid Arkansas: All,54.00
+Drew Memorial Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$90.20,AR,Medicare A AR JH: All,97.51
+Drew Memorial Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$90.20,AR,United Healthcare: Default,88.11
+Drew Memorial Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$90.20,AR,United Healthcare: Medicare Advantage,105.84
+Drew Memorial Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$133.84,AR,Ambetter of Arkansas: All,86.86
+Drew Memorial Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$133.84,AR,Blue Cross Blue Shield of AR: Default,103.47
+Drew Memorial Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$133.84,AR,Humana: All,105.84
+Drew Memorial Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$133.84,AR,Medicaid Arkansas: All,56.00
+Drew Memorial Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$133.84,AR,Medicare A AR JH: All,121.09
+Drew Memorial Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$133.84,AR,Summit Community Care: All,21.17
+Drew Memorial Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$133.84,AR,United Healthcare: Default,187.80
+Drew Memorial Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$133.84,AR,United Healthcare: Medicare Advantage,105.84
+Drew Memorial Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$74.91,AR,Ambetter of Arkansas: All,121.60
+Drew Memorial Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$74.91,AR,Blue Cross Blue Shield of AR: Default,84.71
+Drew Memorial Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$74.91,AR,Cigna: All,112.59
+Drew Memorial Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$74.91,AR,Humana: All,104.78
+Drew Memorial Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$74.91,AR,Medicaid Arkansas: All,20.00
+Drew Memorial Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$74.91,AR,Medicare A AR JH: All,99.27
+Drew Memorial Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$74.91,AR,United Healthcare: Default,116.91
+Drew Memorial Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$36.65,AR,Medicaid Arkansas: All,24.00
+Drew Memorial Hospital,Ultrasound,HCPCS 76857,Ultrasound of pelvis,$36.65,AR,Medicare A AR JH: All,105.84
+Drew Memorial Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$108.77,AR,Ambetter of Arkansas: All,121.60
+Drew Memorial Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$108.77,AR,Blue Cross Blue Shield of AR: Default,99.67
+Drew Memorial Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$108.77,AR,Medicaid Arkansas: All,40.00
+Drew Memorial Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$108.77,AR,Medicare A AR JH: All,69.72
+Drew Memorial Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$105.36,AR,Ambetter of Arkansas: All,121.60
+Drew Memorial Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$105.36,AR,Blue Cross Blue Shield of AR: Default,103.47
+Drew Memorial Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$105.36,AR,Cigna: All,128.30
+Drew Memorial Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$105.36,AR,Medicaid Arkansas: All,68.00
+Drew Memorial Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$105.36,AR,Medicare A AR JH: All,104.15
+Drew Memorial Hospital,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$77.92,AR,Ambetter of Arkansas: All,121.60
+Drew Memorial Hospital,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$77.92,AR,Humana: All,105.84
+Drew Memorial Hospital,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$77.92,AR,Medicaid Arkansas: All,102.34
+Drew Memorial Hospital,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$77.92,AR,Medicare A AR JH: All,105.84
+Drew Memorial Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$37.26,AR,Aetna: All,81.47
+Drew Memorial Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$37.26,AR,Ambetter of Arkansas: All,36.19
+Drew Memorial Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$37.26,AR,Blue Cross Blue Shield of AR: Default,51.56
+Drew Memorial Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$37.26,AR,Cigna: All,35.53
+Drew Memorial Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$37.26,AR,Humana: All,62.56
+Drew Memorial Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$37.26,AR,Medicaid Arkansas: All,27.21
+Drew Memorial Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$37.26,AR,Medicare A AR JH: All,66.94
+Drew Memorial Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$37.26,AR,Summit Community Care: All,21.87
+Drew Memorial Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$37.26,AR,United Healthcare: Default,71.93
+Drew Memorial Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$37.26,AR,United Healthcare: Medicare Advantage,55.77
+Drew Memorial Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$33.09,AR,Aetna: All,75.20
+Drew Memorial Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$33.09,AR,Ambetter of Arkansas: All,76.26
+Drew Memorial Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$33.09,AR,Blue Cross Blue Shield of AR: Default,68.79
+Drew Memorial Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$33.09,AR,Cigna: All,28.16
+Drew Memorial Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$33.09,AR,Humana: All,78.56
+Drew Memorial Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$33.09,AR,Medicaid Arkansas: All,11.86
+Drew Memorial Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$33.09,AR,Medicare A AR JH: All,73.16
+Drew Memorial Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$33.09,AR,United Healthcare: Default,69.66
+Drew Memorial Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$33.09,AR,United Healthcare: Medicare Advantage,75.00
+Drew Memorial Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$36.23,AR,Blue Cross Blue Shield of AR: Default,73.67
+Drew Memorial Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$36.23,AR,Medicare A AR JH: All,74.96
+Drew Memorial Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$27.36,AR,Blue Cross Blue Shield of AR: Default,73.67
+Drew Memorial Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$27.36,AR,Medicaid Arkansas: All,10.00
+Drew Memorial Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$75.95,AR,Ambetter of Arkansas: All,30.40
+Drew Memorial Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$75.95,AR,Medicare A AR JH: All,11.57
+Drew Memorial Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$66.56,AR,Ambetter of Arkansas: All,66.33
+Drew Memorial Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$66.56,AR,Blue Cross Blue Shield of AR: Default,103.81
+Drew Memorial Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$66.56,AR,Cigna: All,110.31
+Drew Memorial Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$66.56,AR,Medicaid Arkansas: All,40.00
+Drew Memorial Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$66.56,AR,Medicare A AR JH: All,81.97
+Drew Memorial Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$66.56,AR,Summit Community Care: All,40.00
+Drew Memorial Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$66.56,AR,United Healthcare: Default,80.22
+Drew Memorial Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$66.56,AR,United Healthcare: Medicare Advantage,79.38
+Drew Memorial Hospital,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$36.71,AR,Ambetter of Arkansas: All,28.86
+Drew Memorial Hospital,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$36.71,AR,Blue Cross Blue Shield of AR: Default,70.09
+Drew Memorial Hospital,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$36.71,AR,Cigna: All,69.30
+Drew Memorial Hospital,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$36.71,AR,Medicaid Arkansas: All,28.00
+Drew Memorial Hospital,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$36.71,AR,Medicare A AR JH: All,48.37
+Drew Memorial Hospital,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$36.71,AR,United Healthcare: Default,49.03
+Drew Memorial Hospital,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$36.71,AR,United Healthcare: Medicare Advantage,37.69
+Drew Memorial Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$39.10,AR,Ambetter of Arkansas: All,51.76
+Drew Memorial Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$39.10,AR,Blue Cross Blue Shield of AR: Default,104.21
+Drew Memorial Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$39.10,AR,Medicaid Arkansas: All,38.12
+Drew Memorial Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$39.10,AR,Medicare A AR JH: All,70.94
+Drew Memorial Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$39.10,AR,Summit Community Care: All,28.00
+Drew Memorial Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$39.10,AR,United Healthcare: Default,49.95
+Drew Memorial Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$39.10,AR,United Healthcare: Medicare Advantage,105.84
+Drew Memorial Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$79.58,AR,Blue Cross Blue Shield of AR: Default,107.00
+Drew Memorial Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$79.58,AR,Medicaid Arkansas: All,250.00
+Drew Memorial Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$79.58,AR,Medicare A AR JH: All,76.92
+Drew Memorial Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$79.58,AR,United Healthcare: Default,102.89
+Drew Memorial Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$79.58,AR,United Healthcare: Medicare Advantage,102.70
+Drew Memorial Hospital,General,HCPCS 10060,Drainage of Abscess,$67.50,AR,Blue Cross Blue Shield of AR: Default,171.00
+Drew Memorial Hospital,General,HCPCS 10060,Drainage of Abscess,$67.50,AR,United Healthcare: Default,6.01
+Drew Memorial Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$119.11,AR,Ambetter of Arkansas: All,189.57
+Drew Memorial Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$119.11,AR,Blue Cross Blue Shield of AR: Default,169.33
+Drew Memorial Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$119.11,AR,Medicaid Arkansas: All,250.00
+Drew Memorial Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$119.11,AR,United Healthcare: Default,19.33
+Drew Memorial Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$119.11,AR,Ambetter of Arkansas: All,189.57
+Drew Memorial Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$119.11,AR,Blue Cross Blue Shield of AR: Default,164.33
+Drew Memorial Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$119.11,AR,Cigna: All,532.72
+Drew Memorial Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$119.11,AR,Medicaid Arkansas: All,250.00
+Drew Memorial Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$119.11,AR,Medicare A AR JH: All,165.00
+Drew Memorial Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$119.11,AR,United Healthcare: Default,149.50
+Drew Memorial Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$119.11,AR,Ambetter of Arkansas: All,189.57
+Drew Memorial Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$119.11,AR,Blue Cross Blue Shield of AR: Default,171.00
+Drew Memorial Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$119.11,AR,Cigna: All,939.44
+Drew Memorial Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$119.11,AR,Medicaid Arkansas: All,250.00
+Drew Memorial Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$119.11,AR,Medicare A AR JH: All,81.91
+Drew Memorial Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$119.11,AR,Summit Community Care: All,250.00
+Drew Memorial Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$119.11,AR,United Healthcare: Default,13.00
+Drew Memorial Hospital,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$49.81,AR,Ambetter of Arkansas: All,145.10
+Drew Memorial Hospital,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$49.81,AR,Medicare A AR JH: All,124.74
+Drew Memorial Hospital,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$49.81,AR,United Healthcare: Default,126.29
+Drew Memorial Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$52.65,AR,Ambetter of Arkansas: All,189.57
+Drew Memorial Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$52.65,AR,Blue Cross Blue Shield of AR: Default,161.92
+Drew Memorial Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$52.65,AR,Humana: All,165.00
+Drew Memorial Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$52.65,AR,Medicaid Arkansas: All,24.06
+Drew Memorial Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$52.65,AR,United Healthcare: Default,97.50
+Drew Memorial Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$91.80,AR,Ambetter of Arkansas: All,420.99
+Drew Memorial Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$91.80,AR,Blue Cross Blue Shield of AR: Default,357.55
+Drew Memorial Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$91.80,AR,Medicare A AR JH: All,271.01
+Drew Memorial Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$91.80,AR,United Healthcare: Default,20.92
