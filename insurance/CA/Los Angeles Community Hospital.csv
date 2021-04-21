@@ -1,0 +1,532 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State,plan_name,price
+Los Angeles Community Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$2,865.92",CA,BLUE SHIELD MEDICARE ADVANTAGE,1298.96
+Los Angeles Community Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,"$3,373.24",CA,AETNA COMMERCIAL,990.65
+Los Angeles Community Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,"$3,373.24",CA,AETNA HMO,1267.43
+Los Angeles Community Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,"$3,373.24",CA,AETNA PPO,1127.68
+Los Angeles Community Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,"$3,373.24",CA,BLUE CROSS FEDERAL PPO,1261.35
+Los Angeles Community Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,"$3,373.24",CA,BLUE CROSS PPO,228.61
+Los Angeles Community Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,"$3,373.24",CA,BLUE SHIELD COMMERCIAL,489.78
+Los Angeles Community Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,"$3,373.24",CA,BLUE SHIELD HMO,957.71
+Los Angeles Community Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,"$3,373.24",CA,BLUE SHIELD MANAGED MEDICAID,211.15
+Los Angeles Community Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,"$3,373.24",CA,BLUE SHIELD MEDICARE ADVANTAGE,440.19
+Los Angeles Community Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,"$3,373.24",CA,BLUE SHIELD PPO,1400.92
+Los Angeles Community Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,"$3,373.24",CA,CALOPTIMA COMMERCIAL,258.83
+Los Angeles Community Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,"$3,373.24",CA,CIGNA HMO OPEN ACCESS,849.94
+Los Angeles Community Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,"$3,373.24",CA,HEALTH NET COMMUNITY HMO,1290.65
+Los Angeles Community Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,"$3,373.24",CA,HEALTH NET HMO,936.68
+Los Angeles Community Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,"$3,373.24",CA,HEALTH PARTNERS MANAGED CARE,2220.17
+Los Angeles Community Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,"$3,373.24",CA,L.A. CARE HMO,294.52
+Los Angeles Community Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,"$3,373.24",CA,MEDI-CAL HMO,509.58
+Los Angeles Community Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,"$3,373.24",CA,MOLINA HEALTHCARE MANAGED MEDICAID,293.91
+Los Angeles Community Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,"$3,373.24",CA,PROSPECT MEDICAL HMO,401.76
+Los Angeles Community Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,"$3,373.24",CA,UNITED HEALTHCARE COMMERCIAL,695.11
+Los Angeles Community Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,"$3,373.24",CA,UNITED HEALTHCARE PPO,606.45
+Los Angeles Community Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$3,373.24",CA,AETNA COMMERCIAL,990.65
+Los Angeles Community Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$3,373.24",CA,AETNA HMO,1267.43
+Los Angeles Community Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$3,373.24",CA,AETNA PPO,1127.68
+Los Angeles Community Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$3,373.24",CA,BLUE CROSS FEDERAL PPO,1261.35
+Los Angeles Community Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$3,373.24",CA,BLUE CROSS PPO,228.61
+Los Angeles Community Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$3,373.24",CA,BLUE SHIELD COMMERCIAL,489.78
+Los Angeles Community Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$3,373.24",CA,BLUE SHIELD HMO,957.71
+Los Angeles Community Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$3,373.24",CA,BLUE SHIELD MANAGED MEDICAID,211.15
+Los Angeles Community Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$3,373.24",CA,BLUE SHIELD MEDICARE ADVANTAGE,440.19
+Los Angeles Community Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$3,373.24",CA,BLUE SHIELD PPO,1400.92
+Los Angeles Community Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$3,373.24",CA,CALOPTIMA COMMERCIAL,258.83
+Los Angeles Community Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$3,373.24",CA,CIGNA HMO OPEN ACCESS,849.94
+Los Angeles Community Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$3,373.24",CA,HEALTH NET COMMUNITY HMO,1290.65
+Los Angeles Community Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$3,373.24",CA,HEALTH NET HMO,936.68
+Los Angeles Community Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$3,373.24",CA,HEALTH PARTNERS MANAGED CARE,2220.17
+Los Angeles Community Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$3,373.24",CA,L.A. CARE HMO,294.52
+Los Angeles Community Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$3,373.24",CA,MEDI-CAL HMO,509.58
+Los Angeles Community Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$3,373.24",CA,MOLINA HEALTHCARE MANAGED MEDICAID,293.91
+Los Angeles Community Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$3,373.24",CA,PROSPECT MEDICAL HMO,401.76
+Los Angeles Community Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$3,373.24",CA,UNITED HEALTHCARE COMMERCIAL,695.11
+Los Angeles Community Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$3,373.24",CA,UNITED HEALTHCARE PPO,606.45
+Los Angeles Community Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,373.24",CA,AETNA COMMERCIAL,990.65
+Los Angeles Community Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,373.24",CA,AETNA HMO,1267.43
+Los Angeles Community Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,373.24",CA,AETNA PPO,1127.68
+Los Angeles Community Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,373.24",CA,BLUE CROSS FEDERAL PPO,1261.35
+Los Angeles Community Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,373.24",CA,BLUE CROSS PPO,228.61
+Los Angeles Community Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,373.24",CA,BLUE SHIELD COMMERCIAL,489.78
+Los Angeles Community Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,373.24",CA,BLUE SHIELD HMO,957.71
+Los Angeles Community Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,373.24",CA,BLUE SHIELD MANAGED MEDICAID,211.15
+Los Angeles Community Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,373.24",CA,BLUE SHIELD MEDICARE ADVANTAGE,440.19
+Los Angeles Community Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,373.24",CA,BLUE SHIELD PPO,1400.92
+Los Angeles Community Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,373.24",CA,CALOPTIMA COMMERCIAL,258.83
+Los Angeles Community Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,373.24",CA,CIGNA HMO OPEN ACCESS,849.94
+Los Angeles Community Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,373.24",CA,HEALTH NET COMMUNITY HMO,1290.65
+Los Angeles Community Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,373.24",CA,HEALTH NET HMO,936.68
+Los Angeles Community Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,373.24",CA,HEALTH PARTNERS MANAGED CARE,2220.17
+Los Angeles Community Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,373.24",CA,L.A. CARE HMO,294.52
+Los Angeles Community Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,373.24",CA,MEDI-CAL HMO,509.58
+Los Angeles Community Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,373.24",CA,MOLINA HEALTHCARE MANAGED MEDICAID,293.91
+Los Angeles Community Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,373.24",CA,PROSPECT MEDICAL HMO,401.76
+Los Angeles Community Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,373.24",CA,UNITED HEALTHCARE COMMERCIAL,695.11
+Los Angeles Community Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,373.24",CA,UNITED HEALTHCARE PPO,606.45
+Los Angeles Community Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$3,373.24",CA,AETNA COMMERCIAL,990.65
+Los Angeles Community Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$3,373.24",CA,AETNA HMO,1267.43
+Los Angeles Community Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$3,373.24",CA,AETNA PPO,1127.68
+Los Angeles Community Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$3,373.24",CA,BLUE CROSS FEDERAL PPO,1261.35
+Los Angeles Community Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$3,373.24",CA,BLUE CROSS PPO,228.61
+Los Angeles Community Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$3,373.24",CA,BLUE SHIELD COMMERCIAL,489.78
+Los Angeles Community Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$3,373.24",CA,BLUE SHIELD HMO,957.71
+Los Angeles Community Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$3,373.24",CA,BLUE SHIELD MANAGED MEDICAID,211.15
+Los Angeles Community Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$3,373.24",CA,BLUE SHIELD MEDICARE ADVANTAGE,440.19
+Los Angeles Community Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$3,373.24",CA,BLUE SHIELD PPO,1400.92
+Los Angeles Community Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$3,373.24",CA,CALOPTIMA COMMERCIAL,258.83
+Los Angeles Community Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$3,373.24",CA,CIGNA HMO OPEN ACCESS,849.94
+Los Angeles Community Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$3,373.24",CA,HEALTH NET COMMUNITY HMO,1290.65
+Los Angeles Community Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$3,373.24",CA,HEALTH NET HMO,936.68
+Los Angeles Community Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$3,373.24",CA,HEALTH PARTNERS MANAGED CARE,2220.17
+Los Angeles Community Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$3,373.24",CA,L.A. CARE HMO,294.52
+Los Angeles Community Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$3,373.24",CA,MEDI-CAL HMO,509.58
+Los Angeles Community Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$3,373.24",CA,MOLINA HEALTHCARE MANAGED MEDICAID,293.91
+Los Angeles Community Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$3,373.24",CA,PROSPECT MEDICAL HMO,401.76
+Los Angeles Community Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$3,373.24",CA,UNITED HEALTHCARE COMMERCIAL,695.11
+Los Angeles Community Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$3,373.24",CA,UNITED HEALTHCARE PPO,606.45
+Los Angeles Community Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$3,373.24",CA,AETNA COMMERCIAL,990.65
+Los Angeles Community Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$3,373.24",CA,AETNA HMO,1267.43
+Los Angeles Community Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$3,373.24",CA,AETNA PPO,1127.68
+Los Angeles Community Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$3,373.24",CA,BLUE CROSS FEDERAL PPO,1261.35
+Los Angeles Community Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$3,373.24",CA,BLUE CROSS PPO,228.61
+Los Angeles Community Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$3,373.24",CA,BLUE SHIELD COMMERCIAL,489.78
+Los Angeles Community Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$3,373.24",CA,BLUE SHIELD HMO,957.71
+Los Angeles Community Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$3,373.24",CA,BLUE SHIELD MANAGED MEDICAID,211.15
+Los Angeles Community Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$3,373.24",CA,BLUE SHIELD MEDICARE ADVANTAGE,440.19
+Los Angeles Community Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$3,373.24",CA,BLUE SHIELD PPO,1400.92
+Los Angeles Community Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$3,373.24",CA,CALOPTIMA COMMERCIAL,258.83
+Los Angeles Community Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$3,373.24",CA,CIGNA HMO OPEN ACCESS,849.94
+Los Angeles Community Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$3,373.24",CA,HEALTH NET COMMUNITY HMO,1290.65
+Los Angeles Community Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$3,373.24",CA,HEALTH NET HMO,936.68
+Los Angeles Community Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$3,373.24",CA,HEALTH PARTNERS MANAGED CARE,2220.17
+Los Angeles Community Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$3,373.24",CA,L.A. CARE HMO,294.52
+Los Angeles Community Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$3,373.24",CA,MEDI-CAL HMO,509.58
+Los Angeles Community Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$3,373.24",CA,MOLINA HEALTHCARE MANAGED MEDICAID,293.91
+Los Angeles Community Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$3,373.24",CA,PROSPECT MEDICAL HMO,401.76
+Los Angeles Community Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$3,373.24",CA,UNITED HEALTHCARE COMMERCIAL,695.11
+Los Angeles Community Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$3,373.24",CA,UNITED HEALTHCARE PPO,606.45
+Los Angeles Community Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$162.01,CA,BLUE CROSS MANAGED MEDICAID,3.84
+Los Angeles Community Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$162.01,CA,BLUE SHIELD HMO,8.15
+Los Angeles Community Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$162.01,CA,BLUE SHIELD MEDICARE ADVANTAGE,12.22
+Los Angeles Community Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$162.01,CA,HEALTH NET COMMUNITY HMO,19.18
+Los Angeles Community Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$162.01,CA,L.A. CARE HMO,3.41
+Los Angeles Community Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$162.01,CA,MEDI-CAL HMO,3.84
+Los Angeles Community Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$162.01,CA,MOLINA HEALTHCARE MANAGED MEDICAID,4.12
+Los Angeles Community Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$206.29,CA,BLUE CROSS MANAGED MEDICAID,6.08
+Los Angeles Community Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$206.29,CA,BLUE SHIELD HMO,12.46
+Los Angeles Community Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$206.29,CA,BLUE SHIELD MANAGED MEDICAID,4.30
+Los Angeles Community Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$206.29,CA,BLUE SHIELD MEDICARE ADVANTAGE,16.98
+Los Angeles Community Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$206.29,CA,HEALTH NET COMMUNITY HMO,30.78
+Los Angeles Community Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$206.29,CA,L.A. CARE HMO,5.16
+Los Angeles Community Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$206.29,CA,MEDI-CAL HMO,6.08
+Los Angeles Community Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$206.29,CA,MOLINA HEALTHCARE MANAGED MEDICAID,6.35
+Los Angeles Community Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$230.75,CA,ANTHEM BCBS HMO,8.09
+Los Angeles Community Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$230.75,CA,BLUE CROSS MANAGED MEDICAID,8.09
+Los Angeles Community Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$230.75,CA,BLUE SHIELD HMO,16.15
+Los Angeles Community Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$230.75,CA,BLUE SHIELD MANAGED MEDICAID,5.40
+Los Angeles Community Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$230.75,CA,BLUE SHIELD PPO,16.15
+Los Angeles Community Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$230.75,CA,CIGNA HMO OPEN ACCESS,69.67
+Los Angeles Community Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$230.75,CA,HEALTH NET COMMUNITY HMO,29.26
+Los Angeles Community Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$230.75,CA,HEALTH PARTNERS MANAGED CARE,118.66
+Los Angeles Community Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$230.75,CA,L.A. CARE HMO,6.32
+Los Angeles Community Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$230.75,CA,MEDI-CAL HMO,8.09
+Los Angeles Community Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$230.75,CA,MOLINA HEALTHCARE MANAGED MEDICAID,7.98
+Los Angeles Community Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$230.75,CA,PROSPECT MEDICAL HMO,5.40
+Los Angeles Community Hospital,Chemistry,HCPCS 82140,Ammonia level,$214.14,CA,BLUE SHIELD MANAGED MEDICAID,10.58
+Los Angeles Community Hospital,Chemistry,HCPCS 82140,Ammonia level,$214.14,CA,MEDI-CAL HMO,12.16
+Los Angeles Community Hospital,Chemistry,HCPCS 82140,Ammonia level,$214.14,CA,MOLINA HEALTHCARE MANAGED MEDICAID,15.63
+Los Angeles Community Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$184.94,CA,BLUE CROSS MANAGED MEDICAID,6.66
+Los Angeles Community Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$184.94,CA,BLUE SHIELD HMO,13.45
+Los Angeles Community Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$184.94,CA,BLUE SHIELD MANAGED MEDICAID,4.58
+Los Angeles Community Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$184.94,CA,BLUE SHIELD MEDICARE ADVANTAGE,15.87
+Los Angeles Community Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$184.94,CA,BLUE SHIELD PPO,13.22
+Los Angeles Community Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$184.94,CA,CIGNA HMO OPEN ACCESS,11.87
+Los Angeles Community Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$184.94,CA,HEALTH NET COMMUNITY HMO,23.56
+Los Angeles Community Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$184.94,CA,L.A. CARE HMO,5.27
+Los Angeles Community Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$184.94,CA,MEDI-CAL HMO,6.66
+Los Angeles Community Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$184.94,CA,MOLINA HEALTHCARE MANAGED MEDICAID,6.77
+Los Angeles Community Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$497.50,CA,MEDI-CAL HMO,20.89
+Los Angeles Community Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$244.60,CA,MEDI-CAL HMO,11.83
+Los Angeles Community Hospital,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$100.61,CA,BLUE SHIELD HMO,6.45
+Los Angeles Community Hospital,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$100.61,CA,BLUE SHIELD MANAGED MEDICAID,2.71
+Los Angeles Community Hospital,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$100.61,CA,BLUE SHIELD PPO,96.57
+Los Angeles Community Hospital,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$100.61,CA,MEDI-CAL HMO,3.37
+Los Angeles Community Hospital,Chemistry,HCPCS 84132,Blood potassium level,$170.76,CA,CIGNA HMO OPEN ACCESS,53.14
+Los Angeles Community Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$324.90,CA,L.A. CARE HMO,14.76
+Los Angeles Community Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$324.90,CA,MEDI-CAL HMO,18.06
+Los Angeles Community Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$205.63,CA,ANTHEM BCBS HMO,6.70
+Los Angeles Community Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$205.63,CA,BLUE SHIELD MEDICARE ADVANTAGE,13.41
+Los Angeles Community Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$205.63,CA,BLUE SHIELD PPO,13.29
+Los Angeles Community Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$205.63,CA,HEALTH NET COMMUNITY HMO,76.05
+Los Angeles Community Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$205.63,CA,L.A. CARE HMO,9.72
+Los Angeles Community Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$205.63,CA,MEDI-CAL HMO,7.40
+Los Angeles Community Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$205.63,CA,MOLINA HEALTHCARE MANAGED MEDICAID,6.86
+Los Angeles Community Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$249.21,CA,HEALTH NET COMMUNITY HMO,121.50
+Los Angeles Community Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$249.21,CA,L.A. CARE HMO,8.20
+Los Angeles Community Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$249.21,CA,MEDI-CAL HMO,10.22
+Los Angeles Community Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$249.21,CA,MOLINA HEALTHCARE MANAGED MEDICAID,10.09
+Los Angeles Community Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$164.74,CA,BLUE CROSS MANAGED MEDICAID,7.11
+Los Angeles Community Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$164.74,CA,BLUE SHIELD HMO,14.30
+Los Angeles Community Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$164.74,CA,BLUE SHIELD MANAGED MEDICAID,4.86
+Los Angeles Community Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$164.74,CA,BLUE SHIELD MEDICARE ADVANTAGE,14.68
+Los Angeles Community Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$164.74,CA,BLUE SHIELD PPO,14.05
+Los Angeles Community Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$164.74,CA,CIGNA HMO OPEN ACCESS,34.83
+Los Angeles Community Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$164.74,CA,HEALTH NET COMMUNITY HMO,32.23
+Los Angeles Community Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$164.74,CA,HEALTH PARTNERS MANAGED CARE,185.00
+Los Angeles Community Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$164.74,CA,L.A. CARE HMO,5.41
+Los Angeles Community Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$164.74,CA,MEDI-CAL HMO,7.11
+Los Angeles Community Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$164.74,CA,MOLINA HEALTHCARE MANAGED MEDICAID,7.18
+Los Angeles Community Hospital,Chemistry,HCPCS 83735,Magnesium Level,$204.38,CA,BLUE SHIELD HMO,27.34
+Los Angeles Community Hospital,Chemistry,HCPCS 83735,Magnesium Level,$204.38,CA,CIGNA HMO OPEN ACCESS,53.14
+Los Angeles Community Hospital,Chemistry,HCPCS 83735,Magnesium Level,$204.38,CA,HEALTH NET COMMUNITY HMO,23.61
+Los Angeles Community Hospital,Chemistry,HCPCS 83735,Magnesium Level,$204.38,CA,HEALTH PARTNERS MANAGED CARE,4.57
+Los Angeles Community Hospital,Chemistry,HCPCS 83735,Magnesium Level,$204.38,CA,L.A. CARE HMO,6.02
+Los Angeles Community Hospital,Chemistry,HCPCS 83735,Magnesium Level,$204.38,CA,MEDI-CAL HMO,6.86
+Los Angeles Community Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$79.38,CA,BLUE CROSS MANAGED MEDICAID,2.78
+Los Angeles Community Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$5.09,CA,MEDI-CAL HMO,5.51
+Los Angeles Community Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$157.83,CA,L.A. CARE HMO,3.21
+Los Angeles Community Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$121.84,CA,BLUE SHIELD HMO,10.92
+Los Angeles Community Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$255.30,CA,L.A. CARE HMO,7.36
+Los Angeles Community Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$255.30,CA,MEDI-CAL HMO,9.02
+Los Angeles Community Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$106.86,CA,BLUE SHIELD COMMERCIAL,51.31
+Los Angeles Community Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$106.86,CA,BLUE SHIELD MANAGED MEDICAID,51.31
+Los Angeles Community Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$106.86,CA,L.A. CARE HMO,51.31
+Los Angeles Community Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$246.61,CA,BLUE SHIELD MANAGED MEDICAID,7.08
+Los Angeles Community Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$246.61,CA,CIGNA HMO OPEN ACCESS,78.52
+Los Angeles Community Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$246.61,CA,HEALTH NET COMMUNITY HMO,52.91
+Los Angeles Community Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$246.61,CA,L.A. CARE HMO,10.62
+Los Angeles Community Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$246.61,CA,MEDI-CAL HMO,7.08
+Los Angeles Community Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$246.61,CA,MOLINA HEALTHCARE MANAGED MEDICAID,10.46
+Los Angeles Community Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$613.66,CA,CIGNA HMO OPEN ACCESS,204.62
+Los Angeles Community Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$613.66,CA,HEALTH NET COMMUNITY HMO,145.25
+Los Angeles Community Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$802.74,CA,BLUE SHIELD HMO,21.94
+Los Angeles Community Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$802.74,CA,BLUE SHIELD MANAGED MEDICAID,48.86
+Los Angeles Community Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$802.74,CA,BLUE SHIELD MEDICARE ADVANTAGE,63.79
+Los Angeles Community Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$802.74,CA,BLUE SHIELD PPO,21.94
+Los Angeles Community Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$802.74,CA,CIGNA HMO OPEN ACCESS,160.64
+Los Angeles Community Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$802.74,CA,HEALTH NET COMMUNITY HMO,156.19
+Los Angeles Community Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$802.74,CA,HEALTH PARTNERS MANAGED CARE,804.00
+Los Angeles Community Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$260.75,CA,HEALTH NET HMO,13.39
+Los Angeles Community Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$260.75,CA,L.A. CARE HMO,11.08
+Los Angeles Community Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$260.75,CA,MEDI-CAL HMO,11.10
+Los Angeles Community Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$841.22,CA,CIGNA HMO OPEN ACCESS,335.20
+Los Angeles Community Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$841.22,CA,HEALTH NET COMMUNITY HMO,283.50
+Los Angeles Community Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$153.09,CA,BLUE SHIELD MANAGED MEDICAID,9.42
+Los Angeles Community Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$153.09,CA,L.A. CARE HMO,6.57
+Los Angeles Community Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$153.09,CA,MEDI-CAL HMO,9.42
+Los Angeles Community Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$153.09,CA,MOLINA HEALTHCARE MANAGED MEDICAID,9.71
+Los Angeles Community Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$153.09,CA,PROSPECT MEDICAL HMO,6.57
+Los Angeles Community Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$467.27,CA,ANTHEM BCBS HMO,63.85
+Los Angeles Community Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$467.27,CA,BLUE SHIELD HMO,114.93
+Los Angeles Community Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$467.27,CA,BLUE SHIELD MANAGED MEDICAID,63.85
+Los Angeles Community Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$467.27,CA,CIGNA HMO OPEN ACCESS,88.73
+Los Angeles Community Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$467.27,CA,HEALTH NET COMMUNITY HMO,69.57
+Los Angeles Community Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$467.27,CA,HEALTH PARTNERS MANAGED CARE,154.00
+Los Angeles Community Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$467.27,CA,L.A. CARE HMO,69.44
+Los Angeles Community Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$467.27,CA,MEDI-CAL HMO,61.99
+Los Angeles Community Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$467.27,CA,MOLINA HEALTHCARE MANAGED MEDICAID,94.33
+Los Angeles Community Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$43.51,CA,MEDI-CAL HMO,13.08
+Los Angeles Community Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$171.77,CA,BLUE SHIELD MANAGED MEDICAID,9.78
+Los Angeles Community Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$171.77,CA,L.A. CARE HMO,11.73
+Los Angeles Community Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$171.77,CA,MEDI-CAL HMO,14.47
+Los Angeles Community Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$171.77,CA,MOLINA HEALTHCARE MANAGED MEDICAID,14.45
+Los Angeles Community Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$100.26,CA,BLUE SHIELD HMO,12.92
+Los Angeles Community Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$100.26,CA,HEALTH NET COMMUNITY HMO,14.84
+Los Angeles Community Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$100.26,CA,MEDI-CAL HMO,3.53
+Los Angeles Community Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$100.26,CA,BLUE SHIELD HMO,12.92
+Los Angeles Community Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$100.26,CA,HEALTH NET COMMUNITY HMO,14.84
+Los Angeles Community Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$100.26,CA,MEDI-CAL HMO,3.53
+Los Angeles Community Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$198.45,CA,BLUE SHIELD HMO,25.05
+Los Angeles Community Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$198.45,CA,HEALTH NET COMMUNITY HMO,23.04
+Los Angeles Community Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$198.45,CA,MEDI-CAL HMO,10.46
+Los Angeles Community Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$128.86,CA,BLUE SHIELD HMO,5.60
+Los Angeles Community Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$128.86,CA,BLUE SHIELD MEDICARE ADVANTAGE,12.22
+Los Angeles Community Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$128.86,CA,BLUE SHIELD PPO,4.66
+Los Angeles Community Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$128.86,CA,CIGNA HMO OPEN ACCESS,31.42
+Los Angeles Community Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$128.86,CA,HEALTH NET COMMUNITY HMO,42.19
+Los Angeles Community Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$128.86,CA,HEALTH NET HMO,69.30
+Los Angeles Community Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$128.86,CA,MEDI-CAL HMO,3.50
+Los Angeles Community Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$128.86,CA,MOLINA HEALTHCARE MANAGED MEDICAID,3.28
+Los Angeles Community Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$128.86,CA,BLUE SHIELD HMO,5.60
+Los Angeles Community Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$128.86,CA,BLUE SHIELD MEDICARE ADVANTAGE,12.22
+Los Angeles Community Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$128.86,CA,BLUE SHIELD PPO,4.66
+Los Angeles Community Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$128.86,CA,CIGNA HMO OPEN ACCESS,31.42
+Los Angeles Community Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$128.86,CA,HEALTH NET COMMUNITY HMO,42.19
+Los Angeles Community Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$128.86,CA,HEALTH NET HMO,69.30
+Los Angeles Community Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$128.86,CA,MEDI-CAL HMO,3.50
+Los Angeles Community Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$128.86,CA,MOLINA HEALTHCARE MANAGED MEDICAID,3.28
+Los Angeles Community Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$190.90,CA,BLUE SHIELD HMO,11.25
+Los Angeles Community Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$190.90,CA,BLUE SHIELD MANAGED MEDICAID,5.64
+Los Angeles Community Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$190.90,CA,CIGNA HMO OPEN ACCESS,28.62
+Los Angeles Community Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$190.90,CA,HEALTH NET COMMUNITY HMO,30.21
+Los Angeles Community Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$190.90,CA,HEALTH NET HMO,52.69
+Los Angeles Community Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$190.90,CA,HEALTH PARTNERS MANAGED CARE,109.16
+Los Angeles Community Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$190.90,CA,L.A. CARE HMO,3.47
+Los Angeles Community Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$190.90,CA,MEDI-CAL HMO,5.14
+Los Angeles Community Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$190.90,CA,MOLINA HEALTHCARE MANAGED MEDICAID,4.14
+Los Angeles Community Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$1,956.98",CA,BLUE SHIELD MANAGED MEDICAID,177.48
+Los Angeles Community Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$393.58,CA,ANTHEM BCBS HMO,23.52
+Los Angeles Community Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$393.58,CA,BLUE SHIELD HMO,44.88
+Los Angeles Community Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$393.58,CA,BLUE SHIELD MANAGED MEDICAID,20.21
+Los Angeles Community Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$393.58,CA,BLUE SHIELD MEDICARE ADVANTAGE,60.13
+Los Angeles Community Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$393.58,CA,BLUE SHIELD PPO,43.37
+Los Angeles Community Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$393.58,CA,CIGNA HMO OPEN ACCESS,174.13
+Los Angeles Community Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$393.58,CA,HEALTH NET COMMUNITY HMO,56.93
+Los Angeles Community Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$393.58,CA,HEALTH PARTNERS MANAGED CARE,372.00
+Los Angeles Community Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$393.58,CA,L.A. CARE HMO,25.93
+Los Angeles Community Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$393.58,CA,MEDI-CAL HMO,23.52
+Los Angeles Community Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$393.58,CA,MOLINA HEALTHCARE MANAGED MEDICAID,24.23
+Los Angeles Community Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$393.58,CA,PROSPECT MEDICAL HMO,10.01
+Los Angeles Community Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,"$2,188.53",CA,BLUE SHIELD HMO,48.17
+Los Angeles Community Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,"$2,188.53",CA,BLUE SHIELD MANAGED MEDICAID,82.34
+Los Angeles Community Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,"$2,188.53",CA,BLUE SHIELD PPO,485.14
+Los Angeles Community Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,"$2,188.53",CA,CIGNA HMO OPEN ACCESS,240.79
+Los Angeles Community Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,"$2,188.53",CA,HEALTH NET COMMUNITY HMO,332.47
+Los Angeles Community Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,"$2,188.53",CA,L.A. CARE HMO,105.66
+Los Angeles Community Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,"$2,188.53",CA,MEDI-CAL HMO,93.37
+Los Angeles Community Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,"$2,188.53",CA,PROSPECT MEDICAL HMO,92.37
+Los Angeles Community Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$9,400.98",CA,AETNA COMMERCIAL,259.99
+Los Angeles Community Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$9,400.98",CA,MOLINA HEALTHCARE MANAGED MEDICAID,724.39
+Los Angeles Community Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,391.80",CA,AETNA COMMERCIAL,131.59
+Los Angeles Community Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,391.80",CA,BLUE SHIELD COMMERCIAL,150.46
+Los Angeles Community Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,391.80",CA,BLUE SHIELD HMO,266.34
+Los Angeles Community Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,391.80",CA,BLUE SHIELD MANAGED MEDICAID,67.71
+Los Angeles Community Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,391.80",CA,CIGNA HMO OPEN ACCESS,2487.28
+Los Angeles Community Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,391.80",CA,HEALTH NET COMMUNITY HMO,894.48
+Los Angeles Community Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,391.80",CA,L.A. CARE HMO,128.64
+Los Angeles Community Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,391.80",CA,MEDI-CAL HMO,158.12
+Los Angeles Community Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,391.80",CA,MOLINA HEALTHCARE MANAGED MEDICAID,121.83
+Los Angeles Community Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$3,510.63",CA,L.A. CARE HMO,128.12
+Los Angeles Community Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$8,842.97",CA,AETNA PPO,4067.00
+Los Angeles Community Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$8,842.97",CA,BLUE SHIELD HMO,1640.49
+Los Angeles Community Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$8,842.97",CA,CIGNA HMO OPEN ACCESS,2680.62
+Los Angeles Community Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$8,842.97",CA,L.A. CARE HMO,306.68
+Los Angeles Community Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,329.22",CA,BLUE SHIELD HMO,350.58
+Los Angeles Community Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,329.22",CA,BLUE SHIELD MEDICARE ADVANTAGE,458.64
+Los Angeles Community Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,329.22",CA,BLUE SHIELD PPO,668.31
+Los Angeles Community Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,329.22",CA,HEALTH NET COMMUNITY HMO,114.22
+Los Angeles Community Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,329.22",CA,HEALTH NET HMO,232.76
+Los Angeles Community Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,329.22",CA,L.A. CARE HMO,161.50
+Los Angeles Community Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,329.22",CA,MEDI-CAL HMO,103.84
+Los Angeles Community Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,329.22",CA,MOLINA HEALTHCARE MANAGED MEDICAID,153.41
+Los Angeles Community Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$3,927.37",CA,HEALTH NET COMMUNITY HMO,400.03
+Los Angeles Community Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$5,157.68",CA,CIGNA HMO OPEN ACCESS,1449.61
+Los Angeles Community Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,621.78",CA,L.A. CARE HMO,128.53
+Los Angeles Community Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$10,240.43",CA,HEALTH NET HMO,1059.77
+Los Angeles Community Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$4,407.33",CA,UNITED HEALTHCARE MEDICARE ADVANTAGE,638.28
+Los Angeles Community Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$1,035.30",CA,L.A. CARE HMO,54.89
+Los Angeles Community Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$1,035.30",CA,MOLINA HEALTHCARE MANAGED MEDICAID,87.23
+Los Angeles Community Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,260.82",CA,BLUE SHIELD MANAGED MEDICAID,67.76
+Los Angeles Community Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,260.82",CA,L.A. CARE HMO,36.37
+Los Angeles Community Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,010.22",CA,L.A. CARE HMO,106.89
+Los Angeles Community Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,010.22",CA,MEDI-CAL HMO,52.28
+Los Angeles Community Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,603.25",CA,CIGNA HMO OPEN ACCESS,508.38
+Los Angeles Community Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,603.25",CA,HEALTH NET COMMUNITY HMO,314.05
+Los Angeles Community Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,603.25",CA,L.A. CARE HMO,64.04
+Los Angeles Community Hospital,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,"$1,306.05",CA,BLUE CROSS PPO,264.97
+Los Angeles Community Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$400.99,CA,AETNA COMMERCIAL,86.81
+Los Angeles Community Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$400.99,CA,ANTHEM BCBS HMO,20.50
+Los Angeles Community Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$400.99,CA,BLUE SHIELD COMMERCIAL,87.68
+Los Angeles Community Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$400.99,CA,BLUE SHIELD HMO,104.21
+Los Angeles Community Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$400.99,CA,BLUE SHIELD MANAGED MEDICAID,10.92
+Los Angeles Community Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$400.99,CA,BLUE SHIELD MEDICARE ADVANTAGE,31.89
+Los Angeles Community Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$400.99,CA,BLUE SHIELD PPO,100.71
+Los Angeles Community Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$400.99,CA,CIGNA HMO OPEN ACCESS,151.11
+Los Angeles Community Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$400.99,CA,HEALTH NET COMMUNITY HMO,76.74
+Los Angeles Community Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$400.99,CA,HEALTH NET HMO,72.98
+Los Angeles Community Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$400.99,CA,HEALTH PARTNERS MANAGED CARE,290.45
+Los Angeles Community Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$400.99,CA,L.A. CARE HMO,38.64
+Los Angeles Community Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$400.99,CA,MEDI-CAL HMO,13.52
+Los Angeles Community Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$400.99,CA,MOLINA HEALTHCARE MANAGED MEDICAID,17.23
+Los Angeles Community Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$400.99,CA,AETNA COMMERCIAL,86.81
+Los Angeles Community Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$400.99,CA,ANTHEM BCBS HMO,20.50
+Los Angeles Community Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$400.99,CA,BLUE SHIELD COMMERCIAL,87.68
+Los Angeles Community Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$400.99,CA,BLUE SHIELD HMO,104.21
+Los Angeles Community Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$400.99,CA,BLUE SHIELD MANAGED MEDICAID,10.92
+Los Angeles Community Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$400.99,CA,BLUE SHIELD MEDICARE ADVANTAGE,31.89
+Los Angeles Community Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$400.99,CA,BLUE SHIELD PPO,100.71
+Los Angeles Community Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$400.99,CA,CIGNA HMO OPEN ACCESS,151.11
+Los Angeles Community Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$400.99,CA,HEALTH NET COMMUNITY HMO,76.74
+Los Angeles Community Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$400.99,CA,HEALTH NET HMO,72.98
+Los Angeles Community Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$400.99,CA,HEALTH PARTNERS MANAGED CARE,290.45
+Los Angeles Community Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$400.99,CA,L.A. CARE HMO,38.64
+Los Angeles Community Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$400.99,CA,MEDI-CAL HMO,13.52
+Los Angeles Community Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$400.99,CA,MOLINA HEALTHCARE MANAGED MEDICAID,17.23
+Los Angeles Community Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$363.85,CA,HEALTH NET COMMUNITY HMO,20.12
+Los Angeles Community Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$363.85,CA,L.A. CARE HMO,24.49
+Los Angeles Community Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$720.68,CA,HEALTH NET COMMUNITY HMO,28.53
+Los Angeles Community Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$720.68,CA,L.A. CARE HMO,21.56
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$554.29,CA,BLUE SHIELD HMO,72.63
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$554.29,CA,BLUE SHIELD MANAGED MEDICAID,14.95
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$554.29,CA,CIGNA HMO OPEN ACCESS,147.67
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$554.29,CA,HEALTH NET COMMUNITY HMO,28.47
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$554.29,CA,L.A. CARE HMO,24.16
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$554.29,CA,MEDI-CAL HMO,17.73
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$554.29,CA,BLUE SHIELD HMO,72.63
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$554.29,CA,BLUE SHIELD MANAGED MEDICAID,14.95
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$554.29,CA,CIGNA HMO OPEN ACCESS,147.67
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$554.29,CA,HEALTH NET COMMUNITY HMO,28.47
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$554.29,CA,L.A. CARE HMO,24.16
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$554.29,CA,MEDI-CAL HMO,17.73
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$554.29,CA,BLUE SHIELD HMO,72.63
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$554.29,CA,BLUE SHIELD MANAGED MEDICAID,14.95
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$554.29,CA,CIGNA HMO OPEN ACCESS,147.67
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$554.29,CA,HEALTH NET COMMUNITY HMO,28.47
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$554.29,CA,L.A. CARE HMO,24.16
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$554.29,CA,MEDI-CAL HMO,17.73
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$696.25,CA,HEALTH NET COMMUNITY HMO,22.20
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$696.25,CA,L.A. CARE HMO,31.62
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$554.29,CA,BLUE SHIELD HMO,72.63
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$554.29,CA,BLUE SHIELD MANAGED MEDICAID,14.95
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$554.29,CA,CIGNA HMO OPEN ACCESS,147.67
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$554.29,CA,HEALTH NET COMMUNITY HMO,28.47
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$554.29,CA,L.A. CARE HMO,24.16
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$554.29,CA,MEDI-CAL HMO,17.73
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$696.25,CA,HEALTH NET COMMUNITY HMO,22.20
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$696.25,CA,L.A. CARE HMO,31.62
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$696.25,CA,HEALTH NET COMMUNITY HMO,22.20
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$696.25,CA,L.A. CARE HMO,31.62
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$615.41,CA,BLUE SHIELD MANAGED MEDICAID,14.96
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$615.41,CA,HEALTH NET COMMUNITY HMO,23.61
+Los Angeles Community Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$615.41,CA,L.A. CARE HMO,19.37
+Los Angeles Community Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$725.85,CA,BLUE SHIELD MANAGED MEDICAID,20.90
+Los Angeles Community Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$725.85,CA,CIGNA HMO OPEN ACCESS,380.90
+Los Angeles Community Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$725.85,CA,L.A. CARE HMO,30.70
+Los Angeles Community Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$725.85,CA,MEDI-CAL HMO,27.81
+Los Angeles Community Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$725.85,CA,MOLINA HEALTHCARE MANAGED MEDICAID,28.65
+Los Angeles Community Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$725.85,CA,BLUE SHIELD MANAGED MEDICAID,20.90
+Los Angeles Community Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$725.85,CA,CIGNA HMO OPEN ACCESS,380.90
+Los Angeles Community Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$725.85,CA,L.A. CARE HMO,30.70
+Los Angeles Community Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$725.85,CA,MEDI-CAL HMO,27.81
+Los Angeles Community Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$725.85,CA,MOLINA HEALTHCARE MANAGED MEDICAID,28.65
+Los Angeles Community Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$839.24,CA,CIGNA HMO OPEN ACCESS,288.90
+Los Angeles Community Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$839.24,CA,HEALTH NET COMMUNITY HMO,24.97
+Los Angeles Community Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$839.24,CA,HEALTH NET HMO,27.47
+Los Angeles Community Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$839.24,CA,MEDI-CAL HMO,24.97
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$562.57,CA,HEALTH NET COMMUNITY HMO,32.79
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$562.57,CA,MEDI-CAL HMO,24.97
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$350.74,CA,BLUE SHIELD MANAGED MEDICAID,22.36
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$350.74,CA,L.A. CARE HMO,21.20
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$383.51,CA,HEALTH NET COMMUNITY HMO,32.79
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$383.51,CA,L.A. CARE HMO,22.53
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$439.42,CA,AETNA PPO,326.00
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$439.42,CA,BLUE SHIELD MANAGED MEDICAID,24.82
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$439.42,CA,BLUE SHIELD MEDICARE ADVANTAGE,51.76
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$439.42,CA,BLUE SHIELD PPO,72.63
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$439.42,CA,HEALTH NET COMMUNITY HMO,95.41
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$439.42,CA,MEDI-CAL HMO,18.36
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$439.42,CA,MOLINA HEALTHCARE MANAGED MEDICAID,24.51
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$439.42,CA,AETNA PPO,326.00
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$439.42,CA,BLUE SHIELD MANAGED MEDICAID,24.82
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$439.42,CA,BLUE SHIELD MEDICARE ADVANTAGE,51.76
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$439.42,CA,BLUE SHIELD PPO,72.63
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$439.42,CA,HEALTH NET COMMUNITY HMO,95.41
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$439.42,CA,MEDI-CAL HMO,18.36
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$439.42,CA,MOLINA HEALTHCARE MANAGED MEDICAID,24.51
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$647.33,CA,BLUE SHIELD MANAGED MEDICAID,17.84
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$647.33,CA,HEALTH NET COMMUNITY HMO,29.42
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$439.42,CA,AETNA PPO,326.00
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$439.42,CA,BLUE SHIELD MANAGED MEDICAID,24.82
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$439.42,CA,BLUE SHIELD MEDICARE ADVANTAGE,51.76
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$439.42,CA,BLUE SHIELD PPO,72.63
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$439.42,CA,HEALTH NET COMMUNITY HMO,95.41
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$439.42,CA,MEDI-CAL HMO,18.36
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$439.42,CA,MOLINA HEALTHCARE MANAGED MEDICAID,24.51
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$439.42,CA,AETNA PPO,326.00
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$439.42,CA,BLUE SHIELD MANAGED MEDICAID,24.82
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$439.42,CA,BLUE SHIELD MEDICARE ADVANTAGE,51.76
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$439.42,CA,BLUE SHIELD PPO,72.63
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$439.42,CA,HEALTH NET COMMUNITY HMO,95.41
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$439.42,CA,MEDI-CAL HMO,18.36
+Los Angeles Community Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$439.42,CA,MOLINA HEALTHCARE MANAGED MEDICAID,24.51
+Los Angeles Community Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$35,932.97",CA,HEALTH NET HMO,8051.96
+Los Angeles Community Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$35,932.97",CA,L.A. CARE HMO,5680.00
+Los Angeles Community Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$27,504.87",CA,BLUE SHIELD COMMERCIAL,13205.16
+Los Angeles Community Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$27,504.87",CA,BLUE SHIELD HMO,4790.36
+Los Angeles Community Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$27,504.87",CA,BLUE SHIELD MEDICARE ADVANTAGE,8107.08
+Los Angeles Community Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$27,504.87",CA,PROSPECT MEDICAL HMO,4303.59
+Los Angeles Community Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$1,344.64",CA,L.A. CARE HMO,129.39
+Los Angeles Community Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$1,344.64",CA,PROSPECT MEDICAL HMO,112.37
+Los Angeles Community Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$53,031.27",CA,AETNA HMO,14340.00
+Los Angeles Community Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$53,031.27",CA,BLUE CROSS PPO,24525.00
+Los Angeles Community Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$53,031.27",CA,GENESIS HEALTHCARE HMO,4316.30
+Los Angeles Community Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$53,031.27",CA,HEALTH NET COMMUNITY HMO,9784.39
+Los Angeles Community Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$53,031.27",CA,HEALTH NET HMO,16027.97
+Los Angeles Community Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$53,031.27",CA,PROSPECT MEDICAL HMO,9590.20
+Los Angeles Community Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$36,691.03",CA,L.A. CARE HMO,5375.40
+Los Angeles Community Hospital,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$27,504.87",CA,BLUE SHIELD COMMERCIAL,13205.16
+Los Angeles Community Hospital,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$27,504.87",CA,BLUE SHIELD HMO,4790.36
+Los Angeles Community Hospital,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$27,504.87",CA,BLUE SHIELD MEDICARE ADVANTAGE,8107.08
+Los Angeles Community Hospital,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$27,504.87",CA,PROSPECT MEDICAL HMO,4303.59
+Los Angeles Community Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$7,781.67",CA,BLUE CROSS HMO,1777.51
+Los Angeles Community Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$7,781.67",CA,BLUE SHIELD MANAGED MEDICAID,223.36
+Los Angeles Community Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$7,781.67",CA,BLUE SHIELD MEDICARE ADVANTAGE,741.99
+Los Angeles Community Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$7,781.67",CA,BLUE SHIELD PPO,2229.82
+Los Angeles Community Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$7,781.67",CA,GENESIS HEALTHCARE HMO,222.30
+Los Angeles Community Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$7,781.67",CA,HEALTH NET COMMUNITY HMO,292.68
+Los Angeles Community Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$7,781.67",CA,HEALTH NET HMO,1939.96
+Los Angeles Community Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$7,781.67",CA,L.A. CARE HMO,481.51
+Los Angeles Community Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$7,781.67",CA,MEDI-CAL HMO,240.22
+Los Angeles Community Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$7,781.67",CA,MOLINA HEALTHCARE MANAGED MEDICAID,268.69
+Los Angeles Community Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$7,781.67",CA,PROSPECT MEDICAL HMO,756.33
+Los Angeles Community Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$7,781.67",CA,UNITED HEALTHCARE COMMERCIAL,2060.00
+Los Angeles Community Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$7,804.39",CA,AETNA HMO,2487.11
+Los Angeles Community Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$7,804.39",CA,BLUE CROSS HMO,2289.89
+Los Angeles Community Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$7,804.39",CA,BLUE CROSS PPO,2299.46
+Los Angeles Community Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$7,804.39",CA,BLUE SHIELD COMMERCIAL,849.85
+Los Angeles Community Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$7,804.39",CA,BLUE SHIELD MANAGED MEDICAID,156.73
+Los Angeles Community Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$7,804.39",CA,BLUE SHIELD MEDICARE ADVANTAGE,998.11
+Los Angeles Community Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$7,804.39",CA,CIGNA HMO OPEN ACCESS,3019.00
+Los Angeles Community Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$7,804.39",CA,GENESIS HEALTHCARE HMO,708.30
+Los Angeles Community Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$7,804.39",CA,HEALTH NET HMO,1564.54
+Los Angeles Community Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$7,804.39",CA,L.A. CARE HMO,1062.05
+Los Angeles Community Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$7,804.39",CA,MEDI-CAL HMO,228.64
+Los Angeles Community Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$7,804.39",CA,PROSPECT MEDICAL HMO,1233.77
+Los Angeles Community Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$7,804.39",CA,UNITED HEALTHCARE COMMERCIAL,2000.00
+Los Angeles Community Hospital,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$6,938.72",CA,BLUE CROSS HMO,2392.90
+Los Angeles Community Hospital,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$6,938.72",CA,PROSPECT MEDICAL HMO,797.29
+Los Angeles Community Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$6,938.72",CA,BLUE CROSS HMO,2392.90
+Los Angeles Community Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$6,938.72",CA,PROSPECT MEDICAL HMO,797.29
+Los Angeles Community Hospital,Digestive,HCPCS 43235,EGD,"$7,221.75",CA,BLUE SHIELD COMMERCIAL,907.05
+Los Angeles Community Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$8,195.26",CA,AETNA HMO,1946.24
+Los Angeles Community Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$8,195.26",CA,BLUE CROSS HMO,1682.47
+Los Angeles Community Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$8,195.26",CA,BLUE CROSS PPO,1772.39
+Los Angeles Community Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$8,195.26",CA,BLUE SHIELD MANAGED MEDICAID,227.22
+Los Angeles Community Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$8,195.26",CA,BLUE SHIELD MEDICARE ADVANTAGE,845.46
+Los Angeles Community Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$8,195.26",CA,GENESIS HEALTHCARE HMO,996.32
+Los Angeles Community Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$8,195.26",CA,HEALTH NET HMO,1469.49
+Los Angeles Community Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$8,195.26",CA,L.A. CARE HMO,546.40
+Los Angeles Community Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$8,195.26",CA,MEDI-CAL HMO,242.54
+Los Angeles Community Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$8,195.26",CA,MOLINA HEALTHCARE MANAGED MEDICAID,261.19
+Los Angeles Community Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$8,195.26",CA,PROSPECT MEDICAL HMO,975.44
+Los Angeles Community Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$8,195.26",CA,UNITED HEALTHCARE COMMERCIAL,2000.00
+Los Angeles Community Hospital,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$18,899.25",CA,BLUE SHIELD HMO,2806.44
+Los Angeles Community Hospital,General,HCPCS 55700,Biopsy of prostate gland,"$13,468.42",CA,MOLINA HEALTHCARE MANAGED MEDICAID,290.50
+Los Angeles Community Hospital,General,HCPCS 10060,Drainage of Abscess,"$7,641.42",CA,BLUE CROSS FEDERAL PPO,731.62
+Los Angeles Community Hospital,General,HCPCS 10060,Drainage of Abscess,"$7,641.42",CA,BLUE SHIELD HMO,2310.72
+Los Angeles Community Hospital,General,HCPCS 10060,Drainage of Abscess,"$7,641.42",CA,BLUE SHIELD PPO,762.41
+Los Angeles Community Hospital,General,HCPCS 10060,Drainage of Abscess,"$7,641.42",CA,L.A. CARE HMO,157.16
+Los Angeles Community Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$3,681.85",CA,AETNA PPO,2779.00
+Los Angeles Community Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$3,681.85",CA,BLUE SHIELD HMO,3182.61
+Los Angeles Community Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$3,681.85",CA,L.A. CARE HMO,155.31
+Los Angeles Community Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$3,681.85",CA,AETNA PPO,2779.00
+Los Angeles Community Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$3,681.85",CA,BLUE SHIELD HMO,3182.61
+Los Angeles Community Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$3,681.85",CA,L.A. CARE HMO,155.31
+Los Angeles Community Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$120,717.64",CA,BLUE SHIELD HMO,33218.84
+Los Angeles Community Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$120,717.64",CA,BLUE SHIELD MANAGED MEDICAID,14462.91
+Los Angeles Community Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$120,717.64",CA,BLUE SHIELD MEDICARE ADVANTAGE,13947.19
+Los Angeles Community Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$120,717.64",CA,HEALTH NET COMMUNITY HMO,36352.71
+Los Angeles Community Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$120,717.64",CA,PROSPECT MEDICAL HMO,13939.00
+Los Angeles Community Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$13,343.58",CA,BLUE SHIELD COMMERCIAL,1516.53
+Los Angeles Community Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$13,343.58",CA,BLUE SHIELD HMO,2261.23
+Los Angeles Community Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$13,343.58",CA,HEALTH NET COMMUNITY HMO,7333.77
+Los Angeles Community Hospital,Ocular,HCPCS 66984,Cataract removal,"$11,327.81",CA,L.A. CARE HMO,2242.35
+Los Angeles Community Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$56.27,CA,AETNA HMO,42.02
+Los Angeles Community Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$56.27,CA,BLUE CROSS PPO,6.56
+Los Angeles Community Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$56.27,CA,BLUE SHIELD HMO,4.40
+Los Angeles Community Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$56.27,CA,BLUE SHIELD MANAGED MEDICAID,16.26
+Los Angeles Community Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$56.27,CA,BLUE SHIELD MEDICARE ADVANTAGE,4.20
+Los Angeles Community Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$56.27,CA,BLUE SHIELD PPO,4.40
+Los Angeles Community Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$56.27,CA,CIGNA HMO OPEN ACCESS,16.92
+Los Angeles Community Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$56.27,CA,HEALTH NET COMMUNITY HMO,24.27
+Los Angeles Community Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$8,247.01",CA,BLUE SHIELD HMO,2388.77

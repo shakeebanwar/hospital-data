@@ -1,0 +1,625 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State,plan_name,price
+Hi Desert Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$47,801.23",CA,Kaiser hmo,32504.83
+Hi Desert Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$47,801.23",CA,Kaiser pos,32504.83
+Hi Desert Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$47,801.23",CA,Kaiser epo,32504.83
+Hi Desert Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$47,801.23",CA,Kaiser ppo,32504.83
+Hi Desert Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$42,725.09",CA,Kaiser hmo,29053.06
+Hi Desert Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$42,725.09",CA,Kaiser pos,29053.06
+Hi Desert Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$42,725.09",CA,Kaiser epo,29053.06
+Hi Desert Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$42,725.09",CA,Kaiser ppo,29053.06
+Hi Desert Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$390.89,CA,Kaiser hmo,265.81
+Hi Desert Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$390.89,CA,Kaiser pos,265.81
+Hi Desert Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$390.89,CA,Kaiser epo,265.81
+Hi Desert Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$390.89,CA,Kaiser ppo,265.81
+Hi Desert Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$722.24,CA,Kaiser hmo,491.12
+Hi Desert Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$722.24,CA,Kaiser pos,491.12
+Hi Desert Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$722.24,CA,Kaiser epo,491.12
+Hi Desert Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$722.24,CA,Kaiser ppo,491.12
+Hi Desert Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$1,947.88",CA,Kaiser hmo,1324.56
+Hi Desert Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$1,947.88",CA,Kaiser pos,1324.56
+Hi Desert Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$1,947.88",CA,Kaiser epo,1324.56
+Hi Desert Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$1,947.88",CA,Kaiser ppo,1324.56
+Hi Desert Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$5,533.22",CA,Kaiser hmo,3762.59
+Hi Desert Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$5,533.22",CA,Kaiser pos,3762.59
+Hi Desert Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$5,533.22",CA,Kaiser epo,3762.59
+Hi Desert Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$5,533.22",CA,Kaiser ppo,3762.59
+Hi Desert Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$6,593.28",CA,Kaiser hmo,4483.43
+Hi Desert Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$6,593.28",CA,Kaiser pos,4483.43
+Hi Desert Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$6,593.28",CA,Kaiser epo,4483.43
+Hi Desert Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$6,593.28",CA,Kaiser ppo,4483.43
+Hi Desert Medical Center,Psychology,HCPCS 90853,Group psychotherapy,"$6,392.11",CA,Kaiser hmo,4346.63
+Hi Desert Medical Center,Psychology,HCPCS 90853,Group psychotherapy,"$6,392.11",CA,Kaiser pos,4346.63
+Hi Desert Medical Center,Psychology,HCPCS 90853,Group psychotherapy,"$6,392.11",CA,Kaiser epo,4346.63
+Hi Desert Medical Center,Psychology,HCPCS 90853,Group psychotherapy,"$6,392.11",CA,Kaiser ppo,4346.63
+Hi Desert Medical Center,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient","$2,403.09",CA,Kaiser hmo,1634.10
+Hi Desert Medical Center,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient","$2,403.09",CA,Kaiser pos,1634.10
+Hi Desert Medical Center,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient","$2,403.09",CA,Kaiser epo,1634.10
+Hi Desert Medical Center,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient","$2,403.09",CA,Kaiser ppo,1634.10
+Hi Desert Medical Center,Psychology,HCPCS 90837,"Psychotherapy, 60 min","$3,285.49",CA,Kaiser hmo,2234.13
+Hi Desert Medical Center,Psychology,HCPCS 90837,"Psychotherapy, 60 min","$3,285.49",CA,Kaiser pos,2234.13
+Hi Desert Medical Center,Psychology,HCPCS 90837,"Psychotherapy, 60 min","$3,285.49",CA,Kaiser epo,2234.13
+Hi Desert Medical Center,Psychology,HCPCS 90837,"Psychotherapy, 60 min","$3,285.49",CA,Kaiser ppo,2234.13
+Hi Desert Medical Center,Speech,HCPCS 92507,Speech Therapy,$956.03,CA,Kaiser hmo,650.10
+Hi Desert Medical Center,Speech,HCPCS 92507,Speech Therapy,$956.03,CA,Kaiser pos,650.10
+Hi Desert Medical Center,Speech,HCPCS 92507,Speech Therapy,$956.03,CA,Kaiser epo,650.10
+Hi Desert Medical Center,Speech,HCPCS 92507,Speech Therapy,$956.03,CA,Kaiser ppo,650.10
+Hi Desert Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$16,486.46",CA,Kaiser hmo,11210.79
+Hi Desert Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$16,486.46",CA,Kaiser pos,11210.79
+Hi Desert Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$16,486.46",CA,Kaiser epo,11210.79
+Hi Desert Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$16,486.46",CA,Kaiser ppo,11210.79
+Hi Desert Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$114.65,CA,Kaiser hmo,91.72
+Hi Desert Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$114.65,CA,Kaiser pos,91.72
+Hi Desert Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$114.65,CA,Kaiser epo,91.72
+Hi Desert Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$114.65,CA,Kaiser ppo,91.72
+Hi Desert Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$169.66,CA,Kaiser hmo,135.73
+Hi Desert Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$169.66,CA,Kaiser pos,135.73
+Hi Desert Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$169.66,CA,Kaiser epo,135.73
+Hi Desert Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$169.66,CA,Kaiser ppo,135.73
+Hi Desert Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$139.32,CA,Kaiser hmo,68.60
+Hi Desert Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$139.32,CA,Kaiser pos,68.60
+Hi Desert Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$139.32,CA,Kaiser epo,68.60
+Hi Desert Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$139.32,CA,Kaiser ppo,68.60
+Hi Desert Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$138.78,CA,Kaiser hmo,111.02
+Hi Desert Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$138.78,CA,Kaiser pos,111.02
+Hi Desert Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$138.78,CA,Kaiser epo,111.02
+Hi Desert Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$138.78,CA,Kaiser ppo,111.02
+Hi Desert Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$69.05,CA,Kaiser hmo,55.24
+Hi Desert Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$69.05,CA,Kaiser pos,55.24
+Hi Desert Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$69.05,CA,Kaiser epo,55.24
+Hi Desert Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$69.05,CA,Kaiser ppo,55.24
+Hi Desert Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$17,806.67",CA,Kaiser hmo,12108.53
+Hi Desert Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$17,806.67",CA,Kaiser pos,12108.53
+Hi Desert Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$17,806.67",CA,Kaiser epo,12108.53
+Hi Desert Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$17,806.67",CA,Kaiser ppo,12108.53
+Hi Desert Medical Center,Chemistry,HCPCS 82140,Ammonia level,$265.69,CA,Kaiser hmo,212.55
+Hi Desert Medical Center,Chemistry,HCPCS 82140,Ammonia level,$265.69,CA,Kaiser pos,212.55
+Hi Desert Medical Center,Chemistry,HCPCS 82140,Ammonia level,$265.69,CA,Kaiser epo,212.55
+Hi Desert Medical Center,Chemistry,HCPCS 82140,Ammonia level,$265.69,CA,Kaiser ppo,212.55
+Hi Desert Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$180.05,CA,Kaiser hmo,144.04
+Hi Desert Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$180.05,CA,Kaiser pos,144.04
+Hi Desert Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$180.05,CA,Kaiser epo,144.04
+Hi Desert Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$180.05,CA,Kaiser ppo,144.04
+Hi Desert Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$522.13,CA,Kaiser hmo,417.70
+Hi Desert Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$522.13,CA,Kaiser pos,417.70
+Hi Desert Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$522.13,CA,Kaiser epo,417.70
+Hi Desert Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$522.13,CA,Kaiser ppo,417.70
+Hi Desert Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$175.39,CA,Kaiser hmo,140.31
+Hi Desert Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$175.39,CA,Kaiser pos,140.31
+Hi Desert Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$175.39,CA,Kaiser epo,140.31
+Hi Desert Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$175.39,CA,Kaiser ppo,140.31
+Hi Desert Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$99.41,CA,Kaiser hmo,79.52
+Hi Desert Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$99.41,CA,Kaiser pos,79.52
+Hi Desert Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$99.41,CA,Kaiser epo,79.52
+Hi Desert Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$99.41,CA,Kaiser ppo,79.52
+Hi Desert Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$64.31,CA,Kaiser hmo,51.44
+Hi Desert Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$64.31,CA,Kaiser pos,51.44
+Hi Desert Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$64.31,CA,Kaiser epo,51.44
+Hi Desert Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$64.31,CA,Kaiser ppo,51.44
+Hi Desert Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$94.19,CA,Kaiser hmo,75.35
+Hi Desert Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$94.19,CA,Kaiser pos,75.35
+Hi Desert Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$94.19,CA,Kaiser epo,75.35
+Hi Desert Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$94.19,CA,Kaiser ppo,75.35
+Hi Desert Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$103.40,CA,Kaiser hmo,82.72
+Hi Desert Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$103.40,CA,Kaiser pos,82.72
+Hi Desert Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$103.40,CA,Kaiser epo,82.72
+Hi Desert Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$103.40,CA,Kaiser ppo,82.72
+Hi Desert Medical Center,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$39.34,CA,Kaiser hmo,31.47
+Hi Desert Medical Center,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$39.34,CA,Kaiser pos,31.47
+Hi Desert Medical Center,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$39.34,CA,Kaiser epo,31.47
+Hi Desert Medical Center,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$39.34,CA,Kaiser ppo,31.47
+Hi Desert Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$117.83,CA,Kaiser hmo,94.26
+Hi Desert Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$117.83,CA,Kaiser pos,94.26
+Hi Desert Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$117.83,CA,Kaiser epo,94.26
+Hi Desert Medical Center,Chemistry,HCPCS 84132,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",$117.83,CA,Kaiser ppo,94.26
+Hi Desert Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$193.31,CA,Kaiser hmo,154.65
+Hi Desert Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$193.31,CA,Kaiser pos,154.65
+Hi Desert Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$193.31,CA,Kaiser epo,154.65
+Hi Desert Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$193.31,CA,Kaiser ppo,154.65
+Hi Desert Medical Center,Chemistry,HCPCS 82310,Calcium level,$5.72,CA,Kaiser hmo,4.58
+Hi Desert Medical Center,Chemistry,HCPCS 82310,Calcium level,$5.72,CA,Kaiser pos,4.58
+Hi Desert Medical Center,Chemistry,HCPCS 82310,Calcium level,$5.72,CA,Kaiser epo,4.58
+Hi Desert Medical Center,Chemistry,HCPCS 82310,Calcium level,$5.72,CA,Kaiser ppo,4.58
+Hi Desert Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$2.60,CA,Kaiser hmo,2.08
+Hi Desert Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$2.60,CA,Kaiser pos,2.08
+Hi Desert Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$2.60,CA,Kaiser epo,2.08
+Hi Desert Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$2.60,CA,Kaiser ppo,2.08
+Hi Desert Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$184.55,CA,Kaiser hmo,147.64
+Hi Desert Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$184.55,CA,Kaiser pos,147.64
+Hi Desert Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$184.55,CA,Kaiser epo,147.64
+Hi Desert Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$184.55,CA,Kaiser ppo,147.64
+Hi Desert Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$111.23,CA,Kaiser hmo,88.99
+Hi Desert Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$111.23,CA,Kaiser pos,88.99
+Hi Desert Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$111.23,CA,Kaiser epo,88.99
+Hi Desert Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$111.23,CA,Kaiser ppo,88.99
+Hi Desert Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$143.84,CA,Kaiser hmo,115.07
+Hi Desert Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$143.84,CA,Kaiser pos,115.07
+Hi Desert Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$143.84,CA,Kaiser epo,115.07
+Hi Desert Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$143.84,CA,Kaiser ppo,115.07
+Hi Desert Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$111.57,CA,Kaiser hmo,89.26
+Hi Desert Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$111.57,CA,Kaiser pos,89.26
+Hi Desert Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$111.57,CA,Kaiser epo,89.26
+Hi Desert Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$111.57,CA,Kaiser ppo,89.26
+Hi Desert Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$109.56,CA,Kaiser hmo,87.65
+Hi Desert Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$109.56,CA,Kaiser pos,87.65
+Hi Desert Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$109.56,CA,Kaiser epo,87.65
+Hi Desert Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$109.56,CA,Kaiser ppo,87.65
+Hi Desert Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$3.00,CA,Kaiser hmo,2.40
+Hi Desert Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$3.00,CA,Kaiser pos,2.40
+Hi Desert Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$3.00,CA,Kaiser epo,2.40
+Hi Desert Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, luteinizing (reproductive hormone) level",$3.00,CA,Kaiser ppo,2.40
+Hi Desert Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$129.83,CA,Kaiser hmo,103.87
+Hi Desert Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$129.83,CA,Kaiser pos,103.87
+Hi Desert Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$129.83,CA,Kaiser epo,103.87
+Hi Desert Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$129.83,CA,Kaiser ppo,103.87
+Hi Desert Medical Center,Chemistry,HCPCS 83540,Iron level,$103.62,CA,Kaiser hmo,82.90
+Hi Desert Medical Center,Chemistry,HCPCS 83540,Iron level,$103.62,CA,Kaiser pos,82.90
+Hi Desert Medical Center,Chemistry,HCPCS 83540,Iron level,$103.62,CA,Kaiser epo,82.90
+Hi Desert Medical Center,Chemistry,HCPCS 83540,Iron level,$103.62,CA,Kaiser ppo,82.90
+Hi Desert Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$110.26,CA,Kaiser hmo,88.21
+Hi Desert Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$110.26,CA,Kaiser pos,88.21
+Hi Desert Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$110.26,CA,Kaiser epo,88.21
+Hi Desert Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$110.26,CA,Kaiser ppo,88.21
+Hi Desert Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$164.93,CA,Kaiser hmo,131.94
+Hi Desert Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$164.93,CA,Kaiser pos,131.94
+Hi Desert Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$164.93,CA,Kaiser epo,131.94
+Hi Desert Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$164.93,CA,Kaiser ppo,131.94
+Hi Desert Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$2.75,CA,Kaiser hmo,2.20
+Hi Desert Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$2.75,CA,Kaiser pos,2.20
+Hi Desert Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$2.75,CA,Kaiser epo,2.20
+Hi Desert Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$2.75,CA,Kaiser ppo,2.20
+Hi Desert Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$167.00,CA,Kaiser hmo,133.60
+Hi Desert Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$167.00,CA,Kaiser pos,133.60
+Hi Desert Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$167.00,CA,Kaiser epo,133.60
+Hi Desert Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$167.00,CA,Kaiser ppo,133.60
+Hi Desert Medical Center,Chemistry,HCPCS 83970,Parathormone,$3.38,CA,Kaiser hmo,2.71
+Hi Desert Medical Center,Chemistry,HCPCS 83970,Parathormone,$3.38,CA,Kaiser pos,2.71
+Hi Desert Medical Center,Chemistry,HCPCS 83970,Parathormone,$3.38,CA,Kaiser epo,2.71
+Hi Desert Medical Center,Chemistry,HCPCS 83970,Parathormone,$3.38,CA,Kaiser ppo,2.71
+Hi Desert Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$8.22,CA,Kaiser hmo,6.58
+Hi Desert Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$8.22,CA,Kaiser pos,6.58
+Hi Desert Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$8.22,CA,Kaiser epo,6.58
+Hi Desert Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$8.22,CA,Kaiser ppo,6.58
+Hi Desert Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$14.41,CA,Kaiser hmo,11.53
+Hi Desert Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$14.41,CA,Kaiser pos,11.53
+Hi Desert Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$14.41,CA,Kaiser epo,11.53
+Hi Desert Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$14.41,CA,Kaiser ppo,11.53
+Hi Desert Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$116.60,CA,Kaiser hmo,93.28
+Hi Desert Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$116.60,CA,Kaiser pos,93.28
+Hi Desert Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$116.60,CA,Kaiser epo,93.28
+Hi Desert Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$116.60,CA,Kaiser ppo,93.28
+Hi Desert Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$28.07,CA,Kaiser hmo,22.45
+Hi Desert Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$28.07,CA,Kaiser pos,22.45
+Hi Desert Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$28.07,CA,Kaiser epo,22.45
+Hi Desert Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$28.07,CA,Kaiser ppo,22.45
+Hi Desert Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$119.24,CA,Kaiser hmo,95.39
+Hi Desert Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$119.24,CA,Kaiser pos,95.39
+Hi Desert Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$119.24,CA,Kaiser epo,95.39
+Hi Desert Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$119.24,CA,Kaiser ppo,95.39
+Hi Desert Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$128.21,CA,Kaiser hmo,102.56
+Hi Desert Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$128.21,CA,Kaiser pos,102.56
+Hi Desert Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$128.21,CA,Kaiser epo,102.56
+Hi Desert Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$128.21,CA,Kaiser ppo,102.56
+Hi Desert Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$77.86,CA,Kaiser hmo,62.29
+Hi Desert Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$77.86,CA,Kaiser pos,62.29
+Hi Desert Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$77.86,CA,Kaiser epo,62.29
+Hi Desert Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$77.86,CA,Kaiser ppo,62.29
+Hi Desert Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$19.15,CA,Kaiser hmo,15.32
+Hi Desert Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$19.15,CA,Kaiser pos,15.32
+Hi Desert Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$19.15,CA,Kaiser epo,15.32
+Hi Desert Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$19.15,CA,Kaiser ppo,15.32
+Hi Desert Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$100.96,CA,Kaiser hmo,80.77
+Hi Desert Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$100.96,CA,Kaiser pos,80.77
+Hi Desert Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$100.96,CA,Kaiser epo,80.77
+Hi Desert Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$100.96,CA,Kaiser ppo,80.77
+Hi Desert Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$93.17,CA,Kaiser hmo,74.53
+Hi Desert Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$93.17,CA,Kaiser pos,74.53
+Hi Desert Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$93.17,CA,Kaiser epo,74.53
+Hi Desert Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$93.17,CA,Kaiser ppo,74.53
+Hi Desert Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$93.23,CA,Kaiser hmo,74.59
+Hi Desert Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$93.23,CA,Kaiser pos,74.59
+Hi Desert Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$93.23,CA,Kaiser epo,74.59
+Hi Desert Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$93.23,CA,Kaiser ppo,74.59
+Hi Desert Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$92.63,CA,Kaiser hmo,74.11
+Hi Desert Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$92.63,CA,Kaiser pos,74.11
+Hi Desert Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$92.63,CA,Kaiser epo,74.11
+Hi Desert Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$92.63,CA,Kaiser ppo,74.11
+Hi Desert Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$2.25,CA,Kaiser hmo,1.80
+Hi Desert Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$2.25,CA,Kaiser pos,1.80
+Hi Desert Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$2.25,CA,Kaiser epo,1.80
+Hi Desert Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$2.25,CA,Kaiser ppo,1.80
+Hi Desert Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$1.22,CA,Kaiser hmo,0.98
+Hi Desert Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$1.22,CA,Kaiser pos,0.98
+Hi Desert Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$1.22,CA,Kaiser epo,0.98
+Hi Desert Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$1.22,CA,Kaiser ppo,0.98
+Hi Desert Medical Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$59.30,CA,Kaiser hmo,47.44
+Hi Desert Medical Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$59.30,CA,Kaiser pos,47.44
+Hi Desert Medical Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$59.30,CA,Kaiser epo,47.44
+Hi Desert Medical Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$59.30,CA,Kaiser ppo,47.44
+Hi Desert Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$184.12,CA,Kaiser hmo,147.29
+Hi Desert Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$184.12,CA,Kaiser pos,147.29
+Hi Desert Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$184.12,CA,Kaiser epo,147.29
+Hi Desert Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$184.12,CA,Kaiser ppo,147.29
+Hi Desert Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$189.08,CA,Kaiser hmo,151.27
+Hi Desert Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$189.08,CA,Kaiser pos,151.27
+Hi Desert Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$189.08,CA,Kaiser epo,151.27
+Hi Desert Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$189.08,CA,Kaiser ppo,151.27
+Hi Desert Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$11.00,CA,Kaiser hmo,8.80
+Hi Desert Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$11.00,CA,Kaiser pos,8.80
+Hi Desert Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$11.00,CA,Kaiser epo,8.80
+Hi Desert Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$11.00,CA,Kaiser ppo,8.80
+Hi Desert Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$92.00,CA,Kaiser hmo,73.60
+Hi Desert Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$92.00,CA,Kaiser pos,73.60
+Hi Desert Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$92.00,CA,Kaiser epo,73.60
+Hi Desert Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$92.00,CA,Kaiser ppo,73.60
+Hi Desert Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$11.00,CA,Kaiser hmo,8.80
+Hi Desert Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$11.00,CA,Kaiser pos,8.80
+Hi Desert Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$11.00,CA,Kaiser epo,8.80
+Hi Desert Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$11.00,CA,Kaiser ppo,8.80
+Hi Desert Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$5.21,CA,Kaiser hmo,4.17
+Hi Desert Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$5.21,CA,Kaiser pos,4.17
+Hi Desert Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$5.21,CA,Kaiser epo,4.17
+Hi Desert Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$5.21,CA,Kaiser ppo,4.17
+Hi Desert Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$1.83,CA,Kaiser hmo,1.46
+Hi Desert Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$1.83,CA,Kaiser pos,1.46
+Hi Desert Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$1.83,CA,Kaiser epo,1.46
+Hi Desert Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$1.83,CA,Kaiser ppo,1.46
+Hi Desert Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$267.16,CA,Kaiser hmo,126.40
+Hi Desert Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$267.16,CA,Kaiser pos,126.40
+Hi Desert Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$267.16,CA,Kaiser epo,126.40
+Hi Desert Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$267.16,CA,Kaiser ppo,126.40
+Hi Desert Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$411.58,CA,Kaiser hmo,329.26
+Hi Desert Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$411.58,CA,Kaiser pos,329.26
+Hi Desert Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$411.58,CA,Kaiser epo,329.26
+Hi Desert Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$411.58,CA,Kaiser ppo,329.26
+Hi Desert Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$320.73,CA,Kaiser hmo,256.58
+Hi Desert Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$320.73,CA,Kaiser pos,256.58
+Hi Desert Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$320.73,CA,Kaiser epo,256.58
+Hi Desert Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$320.73,CA,Kaiser ppo,256.58
+Hi Desert Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$150.49,CA,Kaiser hmo,120.39
+Hi Desert Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$150.49,CA,Kaiser pos,120.39
+Hi Desert Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$150.49,CA,Kaiser epo,120.39
+Hi Desert Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$150.49,CA,Kaiser ppo,120.39
+Hi Desert Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$269.70,CA,Kaiser hmo,215.76
+Hi Desert Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$269.70,CA,Kaiser pos,215.76
+Hi Desert Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$269.70,CA,Kaiser epo,215.76
+Hi Desert Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$269.70,CA,Kaiser ppo,215.76
+Hi Desert Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$124.63,CA,Kaiser hmo,99.70
+Hi Desert Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$124.63,CA,Kaiser pos,99.70
+Hi Desert Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$124.63,CA,Kaiser epo,99.70
+Hi Desert Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$124.63,CA,Kaiser ppo,99.70
+Hi Desert Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$379.22,CA,Kaiser hmo,303.38
+Hi Desert Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$379.22,CA,Kaiser pos,303.38
+Hi Desert Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$379.22,CA,Kaiser epo,303.38
+Hi Desert Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$379.22,CA,Kaiser ppo,303.38
+Hi Desert Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$234.56,CA,Kaiser hmo,187.64
+Hi Desert Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$234.56,CA,Kaiser pos,187.64
+Hi Desert Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$234.56,CA,Kaiser epo,187.64
+Hi Desert Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$234.56,CA,Kaiser ppo,187.64
+Hi Desert Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$108.19,CA,Kaiser hmo,86.55
+Hi Desert Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$108.19,CA,Kaiser pos,86.55
+Hi Desert Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$108.19,CA,Kaiser epo,86.55
+Hi Desert Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$108.19,CA,Kaiser ppo,86.55
+Hi Desert Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$114.74,CA,Kaiser hmo,91.79
+Hi Desert Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$114.74,CA,Kaiser pos,91.79
+Hi Desert Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$114.74,CA,Kaiser epo,91.79
+Hi Desert Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$114.74,CA,Kaiser ppo,91.79
+Hi Desert Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$228.74,CA,Kaiser hmo,182.99
+Hi Desert Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$228.74,CA,Kaiser pos,182.99
+Hi Desert Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$228.74,CA,Kaiser epo,182.99
+Hi Desert Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$228.74,CA,Kaiser ppo,182.99
+Hi Desert Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$64.73,CA,Kaiser hmo,51.78
+Hi Desert Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$64.73,CA,Kaiser pos,51.78
+Hi Desert Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$64.73,CA,Kaiser epo,51.78
+Hi Desert Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$64.73,CA,Kaiser ppo,51.78
+Hi Desert Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$93.45,CA,Kaiser hmo,44.42
+Hi Desert Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$93.45,CA,Kaiser pos,44.42
+Hi Desert Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$93.45,CA,Kaiser epo,44.42
+Hi Desert Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$93.45,CA,Kaiser ppo,44.42
+Hi Desert Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$97.86,CA,Kaiser hmo,53.20
+Hi Desert Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$97.86,CA,Kaiser pos,53.20
+Hi Desert Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$97.86,CA,Kaiser epo,53.20
+Hi Desert Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$97.86,CA,Kaiser ppo,53.20
+Hi Desert Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$8,822.22",CA,Kaiser hmo,6528.44
+Hi Desert Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$8,822.22",CA,Kaiser pos,6528.44
+Hi Desert Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$8,822.22",CA,Kaiser epo,6528.44
+Hi Desert Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$8,822.22",CA,Kaiser ppo,6528.44
+Hi Desert Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$22,373.87",CA,Kaiser hmo,15214.23
+Hi Desert Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$22,373.87",CA,Kaiser pos,15214.23
+Hi Desert Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$22,373.87",CA,Kaiser epo,15214.23
+Hi Desert Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$22,373.87",CA,Kaiser ppo,15214.23
+Hi Desert Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$188.03,CA,Kaiser hmo,150.42
+Hi Desert Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$188.03,CA,Kaiser pos,150.42
+Hi Desert Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$188.03,CA,Kaiser epo,150.42
+Hi Desert Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$188.03,CA,Kaiser ppo,150.42
+Hi Desert Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$331.74,CA,Kaiser hmo,265.39
+Hi Desert Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$331.74,CA,Kaiser pos,265.39
+Hi Desert Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$331.74,CA,Kaiser epo,265.39
+Hi Desert Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$331.74,CA,Kaiser ppo,265.39
+Hi Desert Medical Center,Breast,HCPCS 77067,Mammogram Screening,$349.50,CA,Kaiser hmo,279.60
+Hi Desert Medical Center,Breast,HCPCS 77067,Mammogram Screening,$349.50,CA,Kaiser pos,279.60
+Hi Desert Medical Center,Breast,HCPCS 77067,Mammogram Screening,$349.50,CA,Kaiser epo,279.60
+Hi Desert Medical Center,Breast,HCPCS 77067,Mammogram Screening,$349.50,CA,Kaiser ppo,279.60
+Hi Desert Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$425.26,CA,Kaiser hmo,340.21
+Hi Desert Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$425.26,CA,Kaiser pos,340.21
+Hi Desert Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$425.26,CA,Kaiser epo,340.21
+Hi Desert Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$425.26,CA,Kaiser ppo,340.21
+Hi Desert Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,232.24",CA,Kaiser hmo,3385.79
+Hi Desert Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,232.24",CA,Kaiser pos,3385.79
+Hi Desert Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,232.24",CA,Kaiser epo,3385.79
+Hi Desert Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,232.24",CA,Kaiser ppo,3385.79
+Hi Desert Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,647.16",CA,Kaiser hmo,2917.73
+Hi Desert Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,647.16",CA,Kaiser pos,2917.73
+Hi Desert Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,647.16",CA,Kaiser epo,2917.73
+Hi Desert Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,647.16",CA,Kaiser ppo,2917.73
+Hi Desert Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,012.30",CA,Kaiser hmo,1609.84
+Hi Desert Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,012.30",CA,Kaiser pos,1609.84
+Hi Desert Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,012.30",CA,Kaiser epo,1609.84
+Hi Desert Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,012.30",CA,Kaiser ppo,1609.84
+Hi Desert Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$5,515.33",CA,Kaiser hmo,4412.26
+Hi Desert Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$5,515.33",CA,Kaiser pos,4412.26
+Hi Desert Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$5,515.33",CA,Kaiser epo,4412.26
+Hi Desert Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$5,515.33",CA,Kaiser ppo,4412.26
+Hi Desert Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$4,248.89",CA,Kaiser hmo,3399.11
+Hi Desert Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$4,248.89",CA,Kaiser pos,3399.11
+Hi Desert Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$4,248.89",CA,Kaiser epo,3399.11
+Hi Desert Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$4,248.89",CA,Kaiser ppo,3399.11
+Hi Desert Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$4,743.13",CA,Kaiser hmo,3794.50
+Hi Desert Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$4,743.13",CA,Kaiser pos,3794.50
+Hi Desert Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$4,743.13",CA,Kaiser epo,3794.50
+Hi Desert Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$4,743.13",CA,Kaiser ppo,3794.50
+Hi Desert Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,207.42",CA,Kaiser hmo,3365.93
+Hi Desert Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,207.42",CA,Kaiser pos,3365.93
+Hi Desert Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,207.42",CA,Kaiser epo,3365.93
+Hi Desert Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,207.42",CA,Kaiser ppo,3365.93
+Hi Desert Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$4,088.66",CA,Kaiser hmo,3270.92
+Hi Desert Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$4,088.66",CA,Kaiser pos,3270.92
+Hi Desert Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$4,088.66",CA,Kaiser epo,3270.92
+Hi Desert Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$4,088.66",CA,Kaiser ppo,3270.92
+Hi Desert Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$4,901.06",CA,Kaiser hmo,3920.85
+Hi Desert Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$4,901.06",CA,Kaiser pos,3920.85
+Hi Desert Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$4,901.06",CA,Kaiser epo,3920.85
+Hi Desert Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$4,901.06",CA,Kaiser ppo,3920.85
+Hi Desert Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$4,215.62",CA,Kaiser hmo,3372.50
+Hi Desert Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$4,215.62",CA,Kaiser pos,3372.50
+Hi Desert Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$4,215.62",CA,Kaiser epo,3372.50
+Hi Desert Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$4,215.62",CA,Kaiser ppo,3372.50
+Hi Desert Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$5,564.85",CA,Kaiser hmo,4451.88
+Hi Desert Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$5,564.85",CA,Kaiser pos,4451.88
+Hi Desert Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$5,564.85",CA,Kaiser epo,4451.88
+Hi Desert Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$5,564.85",CA,Kaiser ppo,4451.88
+Hi Desert Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$7,113.00",CA,Kaiser hmo,5690.40
+Hi Desert Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$7,113.00",CA,Kaiser pos,5690.40
+Hi Desert Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$7,113.00",CA,Kaiser epo,5690.40
+Hi Desert Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$7,113.00",CA,Kaiser ppo,5690.40
+Hi Desert Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$5,428.43",CA,Kaiser hmo,4342.74
+Hi Desert Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$5,428.43",CA,Kaiser pos,4342.74
+Hi Desert Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$5,428.43",CA,Kaiser epo,4342.74
+Hi Desert Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$5,428.43",CA,Kaiser ppo,4342.74
+Hi Desert Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$4,312.78",CA,Kaiser hmo,3450.22
+Hi Desert Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$4,312.78",CA,Kaiser pos,3450.22
+Hi Desert Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$4,312.78",CA,Kaiser epo,3450.22
+Hi Desert Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$4,312.78",CA,Kaiser ppo,3450.22
+Hi Desert Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$8,463.19",CA,Kaiser hmo,6770.55
+Hi Desert Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$8,463.19",CA,Kaiser pos,6770.55
+Hi Desert Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$8,463.19",CA,Kaiser epo,6770.55
+Hi Desert Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$8,463.19",CA,Kaiser ppo,6770.55
+Hi Desert Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$5,990.60",CA,Kaiser hmo,4792.48
+Hi Desert Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$5,990.60",CA,Kaiser pos,4792.48
+Hi Desert Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$5,990.60",CA,Kaiser epo,4792.48
+Hi Desert Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$5,990.60",CA,Kaiser ppo,4792.48
+Hi Desert Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$4,560.35",CA,Kaiser hmo,3648.28
+Hi Desert Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$4,560.35",CA,Kaiser pos,3648.28
+Hi Desert Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$4,560.35",CA,Kaiser epo,3648.28
+Hi Desert Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$4,560.35",CA,Kaiser ppo,3648.28
+Hi Desert Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$1,079.75",CA,Kaiser hmo,863.80
+Hi Desert Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$1,079.75",CA,Kaiser pos,863.80
+Hi Desert Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$1,079.75",CA,Kaiser epo,863.80
+Hi Desert Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$1,079.75",CA,Kaiser ppo,863.80
+Hi Desert Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,193.72",CA,Kaiser hmo,954.97
+Hi Desert Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,193.72",CA,Kaiser pos,954.97
+Hi Desert Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,193.72",CA,Kaiser epo,954.97
+Hi Desert Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,193.72",CA,Kaiser ppo,954.97
+Hi Desert Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,693.74",CA,Kaiser hmo,1354.99
+Hi Desert Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,693.74",CA,Kaiser pos,1354.99
+Hi Desert Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,693.74",CA,Kaiser epo,1354.99
+Hi Desert Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,693.74",CA,Kaiser ppo,1354.99
+Hi Desert Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,321.54",CA,Kaiser hmo,1057.23
+Hi Desert Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,321.54",CA,Kaiser pos,1057.23
+Hi Desert Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,321.54",CA,Kaiser epo,1057.23
+Hi Desert Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,321.54",CA,Kaiser ppo,1057.23
+Hi Desert Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,"$1,378.37",CA,Kaiser hmo,1102.70
+Hi Desert Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,"$1,378.37",CA,Kaiser pos,1102.70
+Hi Desert Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,"$1,378.37",CA,Kaiser epo,1102.70
+Hi Desert Medical Center,Ultrasound,HCPCS 76857,Ultrasound of pelvis,"$1,378.37",CA,Kaiser ppo,1102.70
+Hi Desert Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,446.23",CA,Kaiser hmo,1156.99
+Hi Desert Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,446.23",CA,Kaiser pos,1156.99
+Hi Desert Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,446.23",CA,Kaiser epo,1156.99
+Hi Desert Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,446.23",CA,Kaiser ppo,1156.99
+Hi Desert Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,007.90",CA,Kaiser hmo,806.32
+Hi Desert Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,007.90",CA,Kaiser pos,806.32
+Hi Desert Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,007.90",CA,Kaiser epo,806.32
+Hi Desert Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,007.90",CA,Kaiser ppo,806.32
+Hi Desert Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$602.85,CA,Kaiser hmo,482.28
+Hi Desert Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$602.85,CA,Kaiser pos,482.28
+Hi Desert Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$602.85,CA,Kaiser epo,482.28
+Hi Desert Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$602.85,CA,Kaiser ppo,482.28
+Hi Desert Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$490.61,CA,Kaiser hmo,392.48
+Hi Desert Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$490.61,CA,Kaiser pos,392.48
+Hi Desert Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$490.61,CA,Kaiser epo,392.48
+Hi Desert Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$490.61,CA,Kaiser ppo,392.48
+Hi Desert Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$791.49,CA,Kaiser hmo,633.19
+Hi Desert Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$791.49,CA,Kaiser pos,633.19
+Hi Desert Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$791.49,CA,Kaiser epo,633.19
+Hi Desert Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$791.49,CA,Kaiser ppo,633.19
+Hi Desert Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$734.63,CA,Kaiser hmo,587.70
+Hi Desert Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$734.63,CA,Kaiser pos,587.70
+Hi Desert Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$734.63,CA,Kaiser epo,587.70
+Hi Desert Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$734.63,CA,Kaiser ppo,587.70
+Hi Desert Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$526.52,CA,Kaiser hmo,421.21
+Hi Desert Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$526.52,CA,Kaiser pos,421.21
+Hi Desert Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$526.52,CA,Kaiser epo,421.21
+Hi Desert Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$526.52,CA,Kaiser ppo,421.21
+Hi Desert Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$561.32,CA,Kaiser hmo,449.05
+Hi Desert Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$561.32,CA,Kaiser pos,449.05
+Hi Desert Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$561.32,CA,Kaiser epo,449.05
+Hi Desert Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$561.32,CA,Kaiser ppo,449.05
+Hi Desert Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$609.58,CA,Kaiser hmo,487.66
+Hi Desert Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$609.58,CA,Kaiser pos,487.66
+Hi Desert Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$609.58,CA,Kaiser epo,487.66
+Hi Desert Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$609.58,CA,Kaiser ppo,487.66
+Hi Desert Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$649.12,CA,Kaiser hmo,519.29
+Hi Desert Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$649.12,CA,Kaiser pos,519.29
+Hi Desert Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$649.12,CA,Kaiser epo,519.29
+Hi Desert Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$649.12,CA,Kaiser ppo,519.29
+Hi Desert Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$532.53,CA,Kaiser hmo,426.02
+Hi Desert Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$532.53,CA,Kaiser pos,426.02
+Hi Desert Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$532.53,CA,Kaiser epo,426.02
+Hi Desert Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$532.53,CA,Kaiser ppo,426.02
+Hi Desert Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$746.58,CA,Kaiser hmo,597.26
+Hi Desert Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$746.58,CA,Kaiser pos,597.26
+Hi Desert Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$746.58,CA,Kaiser epo,597.26
+Hi Desert Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$746.58,CA,Kaiser ppo,597.26
+Hi Desert Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$485.70,CA,Kaiser hmo,388.56
+Hi Desert Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$485.70,CA,Kaiser pos,388.56
+Hi Desert Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$485.70,CA,Kaiser epo,388.56
+Hi Desert Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$485.70,CA,Kaiser ppo,388.56
+Hi Desert Medical Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$461.45,CA,Kaiser hmo,369.16
+Hi Desert Medical Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$461.45,CA,Kaiser pos,369.16
+Hi Desert Medical Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$461.45,CA,Kaiser epo,369.16
+Hi Desert Medical Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$461.45,CA,Kaiser ppo,369.16
+Hi Desert Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$503.19,CA,Kaiser hmo,402.55
+Hi Desert Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$503.19,CA,Kaiser pos,402.55
+Hi Desert Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$503.19,CA,Kaiser epo,402.55
+Hi Desert Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$503.19,CA,Kaiser ppo,402.55
+Hi Desert Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$839.66,CA,Kaiser hmo,671.73
+Hi Desert Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$839.66,CA,Kaiser pos,671.73
+Hi Desert Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$839.66,CA,Kaiser epo,671.73
+Hi Desert Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$839.66,CA,Kaiser ppo,671.73
+Hi Desert Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$603.93,CA,Kaiser hmo,483.14
+Hi Desert Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$603.93,CA,Kaiser pos,483.14
+Hi Desert Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$603.93,CA,Kaiser epo,483.14
+Hi Desert Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$603.93,CA,Kaiser ppo,483.14
+Hi Desert Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,237.99",CA,Kaiser hmo,990.39
+Hi Desert Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,237.99",CA,Kaiser pos,990.39
+Hi Desert Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,237.99",CA,Kaiser epo,990.39
+Hi Desert Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,237.99",CA,Kaiser ppo,990.39
+Hi Desert Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$728.89,CA,Kaiser hmo,583.11
+Hi Desert Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$728.89,CA,Kaiser pos,583.11
+Hi Desert Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$728.89,CA,Kaiser epo,583.11
+Hi Desert Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$728.89,CA,Kaiser ppo,583.11
+Hi Desert Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$746.57,CA,Kaiser hmo,597.25
+Hi Desert Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$746.57,CA,Kaiser pos,597.25
+Hi Desert Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$746.57,CA,Kaiser epo,597.25
+Hi Desert Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$746.57,CA,Kaiser ppo,597.25
+Hi Desert Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$677.37,CA,Kaiser hmo,541.90
+Hi Desert Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$677.37,CA,Kaiser pos,541.90
+Hi Desert Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$677.37,CA,Kaiser epo,541.90
+Hi Desert Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$677.37,CA,Kaiser ppo,541.90
+Hi Desert Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$406.70,CA,Kaiser hmo,325.36
+Hi Desert Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$406.70,CA,Kaiser pos,325.36
+Hi Desert Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$406.70,CA,Kaiser epo,325.36
+Hi Desert Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$406.70,CA,Kaiser ppo,325.36
+Hi Desert Medical Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$457.04,CA,Kaiser hmo,365.63
+Hi Desert Medical Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$457.04,CA,Kaiser pos,365.63
+Hi Desert Medical Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$457.04,CA,Kaiser epo,365.63
+Hi Desert Medical Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$457.04,CA,Kaiser ppo,365.63
+Hi Desert Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$674.82,CA,Kaiser hmo,539.86
+Hi Desert Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$674.82,CA,Kaiser pos,539.86
+Hi Desert Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$674.82,CA,Kaiser epo,539.86
+Hi Desert Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$674.82,CA,Kaiser ppo,539.86
+Hi Desert Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$642.26,CA,Kaiser hmo,513.80
+Hi Desert Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$642.26,CA,Kaiser pos,513.80
+Hi Desert Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$642.26,CA,Kaiser epo,513.80
+Hi Desert Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$642.26,CA,Kaiser ppo,513.80
+Hi Desert Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$533.01,CA,Kaiser hmo,426.41
+Hi Desert Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$533.01,CA,Kaiser pos,426.41
+Hi Desert Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$533.01,CA,Kaiser epo,426.41
+Hi Desert Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$533.01,CA,Kaiser ppo,426.41
+Hi Desert Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$459.67,CA,Kaiser hmo,367.73
+Hi Desert Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$459.67,CA,Kaiser pos,367.73
+Hi Desert Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$459.67,CA,Kaiser epo,367.73
+Hi Desert Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$459.67,CA,Kaiser ppo,367.73
+Hi Desert Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$618.22,CA,Kaiser hmo,494.57
+Hi Desert Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$618.22,CA,Kaiser pos,494.57
+Hi Desert Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$618.22,CA,Kaiser epo,494.57
+Hi Desert Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$618.22,CA,Kaiser ppo,494.57
+Hi Desert Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$22,846.50",CA,Kaiser hmo,17667.96
+Hi Desert Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$22,846.50",CA,Kaiser pos,17667.96
+Hi Desert Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$22,846.50",CA,Kaiser epo,17667.96
+Hi Desert Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$22,846.50",CA,Kaiser ppo,17667.96
+Hi Desert Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$16,409.48",CA,Kaiser hmo,12689.99
+Hi Desert Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$16,409.48",CA,Kaiser pos,12689.99
+Hi Desert Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$16,409.48",CA,Kaiser epo,12689.99
+Hi Desert Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$16,409.48",CA,Kaiser ppo,12689.99
+Hi Desert Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$25,734.02",CA,Kaiser hmo,20587.22
+Hi Desert Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$25,734.02",CA,Kaiser pos,20587.22
+Hi Desert Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$25,734.02",CA,Kaiser epo,20587.22
+Hi Desert Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$25,734.02",CA,Kaiser ppo,20587.22
+Hi Desert Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$3,345.20",CA,Kaiser hmo,2542.35
+Hi Desert Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$3,345.20",CA,Kaiser pos,2542.35
+Hi Desert Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$3,345.20",CA,Kaiser epo,2542.35
+Hi Desert Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$3,345.20",CA,Kaiser ppo,2542.35
+Hi Desert Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$7,360.37",CA,Kaiser hmo,5593.88
+Hi Desert Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$7,360.37",CA,Kaiser pos,5593.88
+Hi Desert Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$7,360.37",CA,Kaiser epo,5593.88
+Hi Desert Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$7,360.37",CA,Kaiser ppo,5593.88
+Hi Desert Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$8,456.99",CA,Kaiser hmo,6427.31
+Hi Desert Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$8,456.99",CA,Kaiser pos,6427.31
+Hi Desert Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$8,456.99",CA,Kaiser epo,6427.31
+Hi Desert Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$8,456.99",CA,Kaiser ppo,6427.31
+Hi Desert Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$7,241.51",CA,Kaiser hmo,5503.54
+Hi Desert Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$7,241.51",CA,Kaiser pos,5503.54
+Hi Desert Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$7,241.51",CA,Kaiser epo,5503.54
+Hi Desert Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$7,241.51",CA,Kaiser ppo,5503.54
+Hi Desert Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$52,390.19",CA,Kaiser hmo,38419.47
+Hi Desert Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$52,390.19",CA,Kaiser pos,38419.47
+Hi Desert Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$52,390.19",CA,Kaiser epo,38419.47
+Hi Desert Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$52,390.19",CA,Kaiser ppo,38419.47
+Hi Desert Medical Center,General,HCPCS 10060,Drainage of Abscess,"$2,787.50",CA,Kaiser hmo,2230.00
+Hi Desert Medical Center,General,HCPCS 10060,Drainage of Abscess,"$2,787.50",CA,Kaiser pos,2230.00
+Hi Desert Medical Center,General,HCPCS 10060,Drainage of Abscess,"$2,787.50",CA,Kaiser epo,2230.00
+Hi Desert Medical Center,General,HCPCS 10060,Drainage of Abscess,"$2,787.50",CA,Kaiser ppo,2230.00
+Hi Desert Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$6,280.37",CA,Kaiser hmo,5024.29
+Hi Desert Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$6,280.37",CA,Kaiser pos,5024.29
+Hi Desert Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$6,280.37",CA,Kaiser epo,5024.29
+Hi Desert Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$6,280.37",CA,Kaiser ppo,5024.29
+Hi Desert Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$4,928.78",CA,Kaiser hmo,3943.03
+Hi Desert Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$4,928.78",CA,Kaiser pos,3943.03
+Hi Desert Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$4,928.78",CA,Kaiser epo,3943.03
+Hi Desert Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$4,928.78",CA,Kaiser ppo,3943.03
+Hi Desert Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$2,700.17",CA,Kaiser hmo,2160.13
+Hi Desert Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$2,700.17",CA,Kaiser pos,2160.13
+Hi Desert Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$2,700.17",CA,Kaiser epo,2160.13
+Hi Desert Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$2,700.17",CA,Kaiser ppo,2160.13
+Hi Desert Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$71,322.33",CA,Kaiser hmo,18574.60
+Hi Desert Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$71,322.33",CA,Kaiser pos,18574.60
+Hi Desert Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$71,322.33",CA,Kaiser epo,18574.60
+Hi Desert Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$71,322.33",CA,Kaiser ppo,18574.60
+Hi Desert Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$22,312.03",CA,Kaiser hmo,17849.62
+Hi Desert Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$22,312.03",CA,Kaiser pos,17849.62
+Hi Desert Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$22,312.03",CA,Kaiser epo,17849.62
+Hi Desert Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$22,312.03",CA,Kaiser ppo,17849.62
+Hi Desert Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$40,282.02",CA,Kaiser hmo,39848.11
+Hi Desert Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$40,282.02",CA,Kaiser pos,39848.11
+Hi Desert Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$40,282.02",CA,Kaiser epo,39848.11
+Hi Desert Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$40,282.02",CA,Kaiser ppo,39848.11
+Hi Desert Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$37,410.68",CA,Kaiser hmo,27837.85
+Hi Desert Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$37,410.68",CA,Kaiser pos,27837.85
+Hi Desert Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$37,410.68",CA,Kaiser epo,27837.85
+Hi Desert Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$37,410.68",CA,Kaiser ppo,27837.85
+Hi Desert Medical Center,Ocular,HCPCS 66984,Cataract removal,"$20,113.16",CA,Kaiser hmo,15554.17
+Hi Desert Medical Center,Ocular,HCPCS 66984,Cataract removal,"$20,113.16",CA,Kaiser pos,15554.17
+Hi Desert Medical Center,Ocular,HCPCS 66984,Cataract removal,"$20,113.16",CA,Kaiser epo,15554.17
+Hi Desert Medical Center,Ocular,HCPCS 66984,Cataract removal,"$20,113.16",CA,Kaiser ppo,15554.17
+Hi Desert Medical Center,Ocular,HCPCS 66821,Laser cataract removal,"$3,887.55",CA,Kaiser hmo,3006.37
+Hi Desert Medical Center,Ocular,HCPCS 66821,Laser cataract removal,"$3,887.55",CA,Kaiser pos,3006.37
+Hi Desert Medical Center,Ocular,HCPCS 66821,Laser cataract removal,"$3,887.55",CA,Kaiser epo,3006.37
+Hi Desert Medical Center,Ocular,HCPCS 66821,Laser cataract removal,"$3,887.55",CA,Kaiser ppo,3006.37
+Hi Desert Medical Center,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$49,597.48",CA,Kaiser hmo,33726.28
+Hi Desert Medical Center,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$49,597.48",CA,Kaiser pos,33726.28
+Hi Desert Medical Center,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$49,597.48",CA,Kaiser epo,33726.28
+Hi Desert Medical Center,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$49,597.48",CA,Kaiser ppo,33726.28
+Hi Desert Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$17,587.31",CA,Kaiser hmo,11959.37
+Hi Desert Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$17,587.31",CA,Kaiser pos,11959.37
+Hi Desert Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$17,587.31",CA,Kaiser epo,11959.37
+Hi Desert Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$17,587.31",CA,Kaiser ppo,11959.37

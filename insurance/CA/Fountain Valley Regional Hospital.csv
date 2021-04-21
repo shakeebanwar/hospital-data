@@ -1,0 +1,932 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State,plan_name,price
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$27,200.30",CA,CalOptima hmo,1813.35
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$27,200.30",CA,CalOptima pos,1813.35
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$27,200.30",CA,CalOptima ppo,1813.35
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$27,200.30",CA,Kaiser hmo,12693.47
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$27,200.30",CA,Kaiser pos,12693.47
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$27,200.30",CA,Kaiser epo,12693.47
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$27,200.30",CA,Kaiser ppo,12693.47
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$1,316.73",CA,CalOptima hmo,87.78
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$1,316.73",CA,CalOptima pos,87.78
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$1,316.73",CA,CalOptima ppo,87.78
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$1,316.73",CA,Kaiser hmo,614.47
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$1,316.73",CA,Kaiser pos,614.47
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$1,316.73",CA,Kaiser epo,614.47
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,"$1,316.73",CA,Kaiser ppo,614.47
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$2,708.83",CA,CalOptima hmo,180.59
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$2,708.83",CA,CalOptima pos,180.59
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$2,708.83",CA,CalOptima ppo,180.59
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$2,708.83",CA,Kaiser hmo,1264.12
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$2,708.83",CA,Kaiser pos,1264.12
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$2,708.83",CA,Kaiser epo,1264.12
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,"$2,708.83",CA,Kaiser ppo,1264.12
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$7,845.74",CA,CalOptima hmo,523.05
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$7,845.74",CA,CalOptima pos,523.05
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$7,845.74",CA,CalOptima ppo,523.05
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$7,845.74",CA,Kaiser hmo,3661.35
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$7,845.74",CA,Kaiser pos,3661.35
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$7,845.74",CA,Kaiser epo,3661.35
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$7,845.74",CA,Kaiser ppo,3661.35
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$10,033.06",CA,CalOptima hmo,668.87
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$10,033.06",CA,CalOptima pos,668.87
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$10,033.06",CA,CalOptima ppo,668.87
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$10,033.06",CA,Kaiser hmo,4682.09
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$10,033.06",CA,Kaiser pos,4682.09
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$10,033.06",CA,Kaiser epo,4682.09
+Fountain Valley Regional Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$10,033.06",CA,Kaiser ppo,4682.09
+Fountain Valley Regional Hospital,Hospital,HCPCS 99218,Hospital Observation per Hour,"$32,407.79",CA,CalOptima hmo,2160.52
+Fountain Valley Regional Hospital,Hospital,HCPCS 99218,Hospital Observation per Hour,"$32,407.79",CA,CalOptima pos,2160.52
+Fountain Valley Regional Hospital,Hospital,HCPCS 99218,Hospital Observation per Hour,"$32,407.79",CA,CalOptima ppo,2160.52
+Fountain Valley Regional Hospital,Hospital,HCPCS 99218,Hospital Observation per Hour,"$32,407.79",CA,Kaiser hmo,15123.64
+Fountain Valley Regional Hospital,Hospital,HCPCS 99218,Hospital Observation per Hour,"$32,407.79",CA,Kaiser pos,15123.64
+Fountain Valley Regional Hospital,Hospital,HCPCS 99218,Hospital Observation per Hour,"$32,407.79",CA,Kaiser epo,15123.64
+Fountain Valley Regional Hospital,Hospital,HCPCS 99218,Hospital Observation per Hour,"$32,407.79",CA,Kaiser ppo,15123.64
+Fountain Valley Regional Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$912.75,CA,CalOptima hmo,60.85
+Fountain Valley Regional Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$912.75,CA,CalOptima pos,60.85
+Fountain Valley Regional Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$912.75,CA,CalOptima ppo,60.85
+Fountain Valley Regional Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$912.75,CA,Kaiser hmo,425.95
+Fountain Valley Regional Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$912.75,CA,Kaiser pos,425.95
+Fountain Valley Regional Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$912.75,CA,Kaiser epo,425.95
+Fountain Valley Regional Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$912.75,CA,Kaiser ppo,425.95
+Fountain Valley Regional Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min","$3,128.47",CA,CalOptima hmo,208.56
+Fountain Valley Regional Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min","$3,128.47",CA,CalOptima pos,208.56
+Fountain Valley Regional Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min","$3,128.47",CA,CalOptima ppo,208.56
+Fountain Valley Regional Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min","$3,128.47",CA,Kaiser hmo,1459.95
+Fountain Valley Regional Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min","$3,128.47",CA,Kaiser pos,1459.95
+Fountain Valley Regional Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min","$3,128.47",CA,Kaiser epo,1459.95
+Fountain Valley Regional Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min","$3,128.47",CA,Kaiser ppo,1459.95
+Fountain Valley Regional Hospital,Speech,HCPCS 92610,Swallow Evaluation,"$52,142.60",CA,CalOptima hmo,3476.17
+Fountain Valley Regional Hospital,Speech,HCPCS 92610,Swallow Evaluation,"$52,142.60",CA,CalOptima pos,3476.17
+Fountain Valley Regional Hospital,Speech,HCPCS 92610,Swallow Evaluation,"$52,142.60",CA,CalOptima ppo,3476.17
+Fountain Valley Regional Hospital,Speech,HCPCS 92610,Swallow Evaluation,"$52,142.60",CA,Kaiser hmo,24333.21
+Fountain Valley Regional Hospital,Speech,HCPCS 92610,Swallow Evaluation,"$52,142.60",CA,Kaiser pos,24333.21
+Fountain Valley Regional Hospital,Speech,HCPCS 92610,Swallow Evaluation,"$52,142.60",CA,Kaiser epo,24333.21
+Fountain Valley Regional Hospital,Speech,HCPCS 92610,Swallow Evaluation,"$52,142.60",CA,Kaiser ppo,24333.21
+Fountain Valley Regional Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$116.50,CA,CalOptima hmo,1.55
+Fountain Valley Regional Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$116.50,CA,CalOptima pos,1.55
+Fountain Valley Regional Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$116.50,CA,CalOptima ppo,1.55
+Fountain Valley Regional Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$116.50,CA,Kaiser hmo,54.37
+Fountain Valley Regional Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$116.50,CA,Kaiser pos,54.37
+Fountain Valley Regional Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$116.50,CA,Kaiser epo,54.37
+Fountain Valley Regional Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$116.50,CA,Kaiser ppo,54.37
+Fountain Valley Regional Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$119.92,CA,CalOptima hmo,1.60
+Fountain Valley Regional Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$119.92,CA,CalOptima pos,1.60
+Fountain Valley Regional Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$119.92,CA,CalOptima ppo,1.60
+Fountain Valley Regional Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$119.92,CA,Kaiser hmo,55.96
+Fountain Valley Regional Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$119.92,CA,Kaiser pos,55.96
+Fountain Valley Regional Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$119.92,CA,Kaiser epo,55.96
+Fountain Valley Regional Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$119.92,CA,Kaiser ppo,55.96
+Fountain Valley Regional Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$286.29,CA,CalOptima hmo,3.82
+Fountain Valley Regional Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$286.29,CA,CalOptima pos,3.82
+Fountain Valley Regional Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$286.29,CA,CalOptima ppo,3.82
+Fountain Valley Regional Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$286.29,CA,Kaiser hmo,133.60
+Fountain Valley Regional Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$286.29,CA,Kaiser pos,133.60
+Fountain Valley Regional Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$286.29,CA,Kaiser epo,133.60
+Fountain Valley Regional Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$286.29,CA,Kaiser ppo,133.60
+Fountain Valley Regional Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$249.47,CA,CalOptima hmo,3.33
+Fountain Valley Regional Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$249.47,CA,CalOptima pos,3.33
+Fountain Valley Regional Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$249.47,CA,CalOptima ppo,3.33
+Fountain Valley Regional Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$249.47,CA,Kaiser hmo,116.42
+Fountain Valley Regional Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$249.47,CA,Kaiser pos,116.42
+Fountain Valley Regional Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$249.47,CA,Kaiser epo,116.42
+Fountain Valley Regional Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$249.47,CA,Kaiser ppo,116.42
+Fountain Valley Regional Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$322.44,CA,CalOptima hmo,4.30
+Fountain Valley Regional Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$322.44,CA,CalOptima pos,4.30
+Fountain Valley Regional Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$322.44,CA,CalOptima ppo,4.30
+Fountain Valley Regional Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$322.44,CA,Kaiser hmo,150.47
+Fountain Valley Regional Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$322.44,CA,Kaiser pos,150.47
+Fountain Valley Regional Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$322.44,CA,Kaiser epo,150.47
+Fountain Valley Regional Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$322.44,CA,Kaiser ppo,150.47
+Fountain Valley Regional Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$192.41,CA,CalOptima hmo,2.57
+Fountain Valley Regional Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$192.41,CA,CalOptima pos,2.57
+Fountain Valley Regional Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$192.41,CA,CalOptima ppo,2.57
+Fountain Valley Regional Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$192.41,CA,Kaiser hmo,89.79
+Fountain Valley Regional Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$192.41,CA,Kaiser pos,89.79
+Fountain Valley Regional Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$192.41,CA,Kaiser epo,89.79
+Fountain Valley Regional Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$192.41,CA,Kaiser ppo,89.79
+Fountain Valley Regional Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$159.95,CA,CalOptima hmo,2.13
+Fountain Valley Regional Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$159.95,CA,CalOptima pos,2.13
+Fountain Valley Regional Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$159.95,CA,CalOptima ppo,2.13
+Fountain Valley Regional Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$159.95,CA,Kaiser hmo,74.64
+Fountain Valley Regional Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$159.95,CA,Kaiser pos,74.64
+Fountain Valley Regional Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$159.95,CA,Kaiser epo,74.64
+Fountain Valley Regional Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$159.95,CA,Kaiser ppo,74.64
+Fountain Valley Regional Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$13,950.45",CA,CalOptima hmo,930.03
+Fountain Valley Regional Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$13,950.45",CA,CalOptima pos,930.03
+Fountain Valley Regional Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$13,950.45",CA,CalOptima ppo,930.03
+Fountain Valley Regional Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$13,950.45",CA,Kaiser hmo,6510.21
+Fountain Valley Regional Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$13,950.45",CA,Kaiser pos,6510.21
+Fountain Valley Regional Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$13,950.45",CA,Kaiser epo,6510.21
+Fountain Valley Regional Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$13,950.45",CA,Kaiser ppo,6510.21
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82140,Ammonia level,$301.16,CA,CalOptima hmo,4.02
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82140,Ammonia level,$301.16,CA,CalOptima pos,4.02
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82140,Ammonia level,$301.16,CA,CalOptima ppo,4.02
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82140,Ammonia level,$301.16,CA,Kaiser hmo,140.54
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82140,Ammonia level,$301.16,CA,Kaiser pos,140.54
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82140,Ammonia level,$301.16,CA,Kaiser epo,140.54
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82140,Ammonia level,$301.16,CA,Kaiser ppo,140.54
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$300.86,CA,CalOptima hmo,4.01
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$300.86,CA,CalOptima pos,4.01
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$300.86,CA,CalOptima ppo,4.01
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$300.86,CA,Kaiser hmo,140.40
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$300.86,CA,Kaiser pos,140.40
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$300.86,CA,Kaiser epo,140.40
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$300.86,CA,Kaiser ppo,140.40
+Fountain Valley Regional Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$275.21,CA,CalOptima hmo,3.67
+Fountain Valley Regional Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$275.21,CA,CalOptima pos,3.67
+Fountain Valley Regional Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$275.21,CA,CalOptima ppo,3.67
+Fountain Valley Regional Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$275.21,CA,Kaiser hmo,128.43
+Fountain Valley Regional Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$275.21,CA,Kaiser pos,128.43
+Fountain Valley Regional Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$275.21,CA,Kaiser epo,128.43
+Fountain Valley Regional Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$275.21,CA,Kaiser ppo,128.43
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$198.55,CA,CalOptima hmo,2.65
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$198.55,CA,CalOptima pos,2.65
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$198.55,CA,CalOptima ppo,2.65
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$198.55,CA,Kaiser hmo,92.66
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$198.55,CA,Kaiser pos,92.66
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$198.55,CA,Kaiser epo,92.66
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$198.55,CA,Kaiser ppo,92.66
+Fountain Valley Regional Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$270.95,CA,CalOptima hmo,3.61
+Fountain Valley Regional Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$270.95,CA,CalOptima pos,3.61
+Fountain Valley Regional Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$270.95,CA,CalOptima ppo,3.61
+Fountain Valley Regional Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$270.95,CA,Kaiser hmo,126.44
+Fountain Valley Regional Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$270.95,CA,Kaiser pos,126.44
+Fountain Valley Regional Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$270.95,CA,Kaiser epo,126.44
+Fountain Valley Regional Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$270.95,CA,Kaiser ppo,126.44
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$307.49,CA,CalOptima hmo,4.10
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$307.49,CA,CalOptima pos,4.10
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$307.49,CA,CalOptima ppo,4.10
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$307.49,CA,Kaiser hmo,143.49
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$307.49,CA,Kaiser pos,143.49
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$307.49,CA,Kaiser epo,143.49
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$307.49,CA,Kaiser ppo,143.49
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$311.43,CA,CalOptima hmo,4.15
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$311.43,CA,CalOptima pos,4.15
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$311.43,CA,CalOptima ppo,4.15
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$311.43,CA,Kaiser hmo,145.33
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$311.43,CA,Kaiser pos,145.33
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$311.43,CA,Kaiser epo,145.33
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$311.43,CA,Kaiser ppo,145.33
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$453.83,CA,CalOptima hmo,6.05
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$453.83,CA,CalOptima pos,6.05
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$453.83,CA,CalOptima ppo,6.05
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$453.83,CA,Kaiser hmo,211.79
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$453.83,CA,Kaiser pos,211.79
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$453.83,CA,Kaiser epo,211.79
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$453.83,CA,Kaiser ppo,211.79
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$415.66,CA,CalOptima hmo,5.54
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$415.66,CA,CalOptima pos,5.54
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$415.66,CA,CalOptima ppo,5.54
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$415.66,CA,Kaiser hmo,193.97
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$415.66,CA,Kaiser pos,193.97
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$415.66,CA,Kaiser epo,193.97
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$415.66,CA,Kaiser ppo,193.97
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$167.18,CA,CalOptima hmo,2.23
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$167.18,CA,CalOptima pos,2.23
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$167.18,CA,CalOptima ppo,2.23
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$167.18,CA,Kaiser hmo,78.02
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$167.18,CA,Kaiser pos,78.02
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$167.18,CA,Kaiser epo,78.02
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$167.18,CA,Kaiser ppo,78.02
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$88.66,CA,CalOptima hmo,1.18
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$88.66,CA,CalOptima pos,1.18
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$88.66,CA,CalOptima ppo,1.18
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$88.66,CA,Kaiser hmo,41.37
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$88.66,CA,Kaiser pos,41.37
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$88.66,CA,Kaiser epo,41.37
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$88.66,CA,Kaiser ppo,41.37
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83540,Iron level,$239.60,CA,CalOptima hmo,3.19
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83540,Iron level,$239.60,CA,CalOptima pos,3.19
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83540,Iron level,$239.60,CA,CalOptima ppo,3.19
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83540,Iron level,$239.60,CA,Kaiser hmo,111.81
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83540,Iron level,$239.60,CA,Kaiser pos,111.81
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83540,Iron level,$239.60,CA,Kaiser epo,111.81
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83540,Iron level,$239.60,CA,Kaiser ppo,111.81
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$226.05,CA,CalOptima hmo,3.01
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$226.05,CA,CalOptima pos,3.01
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$226.05,CA,CalOptima ppo,3.01
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$226.05,CA,Kaiser hmo,105.49
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$226.05,CA,Kaiser pos,105.49
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$226.05,CA,Kaiser epo,105.49
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$226.05,CA,Kaiser ppo,105.49
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$360.92,CA,CalOptima hmo,4.81
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$360.92,CA,CalOptima pos,4.81
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$360.92,CA,CalOptima ppo,4.81
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$360.92,CA,Kaiser hmo,168.43
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$360.92,CA,Kaiser pos,168.43
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$360.92,CA,Kaiser epo,168.43
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$360.92,CA,Kaiser ppo,168.43
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83735,Magnesium Level,$275.19,CA,CalOptima hmo,3.67
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83735,Magnesium Level,$275.19,CA,CalOptima pos,3.67
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83735,Magnesium Level,$275.19,CA,CalOptima ppo,3.67
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83735,Magnesium Level,$275.19,CA,Kaiser hmo,128.42
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83735,Magnesium Level,$275.19,CA,Kaiser pos,128.42
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83735,Magnesium Level,$275.19,CA,Kaiser epo,128.42
+Fountain Valley Regional Hospital,Chemistry,HCPCS 83735,Magnesium Level,$275.19,CA,Kaiser ppo,128.42
+Fountain Valley Regional Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$106.49,CA,CalOptima hmo,1.42
+Fountain Valley Regional Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$106.49,CA,CalOptima pos,1.42
+Fountain Valley Regional Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$106.49,CA,CalOptima ppo,1.42
+Fountain Valley Regional Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$106.49,CA,Kaiser hmo,49.69
+Fountain Valley Regional Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$106.49,CA,Kaiser pos,49.69
+Fountain Valley Regional Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$106.49,CA,Kaiser epo,49.69
+Fountain Valley Regional Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$106.49,CA,Kaiser ppo,49.69
+Fountain Valley Regional Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$229.55,CA,CalOptima hmo,3.06
+Fountain Valley Regional Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$229.55,CA,CalOptima pos,3.06
+Fountain Valley Regional Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$229.55,CA,CalOptima ppo,3.06
+Fountain Valley Regional Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$229.55,CA,Kaiser hmo,107.12
+Fountain Valley Regional Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$229.55,CA,Kaiser pos,107.12
+Fountain Valley Regional Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$229.55,CA,Kaiser epo,107.12
+Fountain Valley Regional Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$229.55,CA,Kaiser ppo,107.12
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$6.53,CA,CalOptima hmo,0.09
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$6.53,CA,CalOptima pos,0.09
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$6.53,CA,CalOptima ppo,0.09
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$6.53,CA,Kaiser hmo,3.05
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$6.53,CA,Kaiser pos,3.05
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$6.53,CA,Kaiser epo,3.05
+Fountain Valley Regional Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$6.53,CA,Kaiser ppo,3.05
+Fountain Valley Regional Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$237.61,CA,CalOptima hmo,3.17
+Fountain Valley Regional Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$237.61,CA,CalOptima pos,3.17
+Fountain Valley Regional Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$237.61,CA,CalOptima ppo,3.17
+Fountain Valley Regional Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$237.61,CA,Kaiser hmo,110.88
+Fountain Valley Regional Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$237.61,CA,Kaiser pos,110.88
+Fountain Valley Regional Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$237.61,CA,Kaiser epo,110.88
+Fountain Valley Regional Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$237.61,CA,Kaiser ppo,110.88
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$106.74,CA,CalOptima hmo,1.42
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$106.74,CA,CalOptima pos,1.42
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$106.74,CA,CalOptima ppo,1.42
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$106.74,CA,Kaiser hmo,49.81
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$106.74,CA,Kaiser pos,49.81
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$106.74,CA,Kaiser epo,49.81
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$106.74,CA,Kaiser ppo,49.81
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$353.75,CA,CalOptima hmo,4.72
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$353.75,CA,CalOptima pos,4.72
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$353.75,CA,CalOptima ppo,4.72
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$353.75,CA,Kaiser hmo,165.08
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$353.75,CA,Kaiser pos,165.08
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$353.75,CA,Kaiser epo,165.08
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$353.75,CA,Kaiser ppo,165.08
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$7.63,CA,CalOptima hmo,0.10
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$7.63,CA,CalOptima pos,0.10
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$7.63,CA,CalOptima ppo,0.10
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$7.63,CA,Kaiser hmo,3.56
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$7.63,CA,Kaiser pos,3.56
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$7.63,CA,Kaiser epo,3.56
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$7.63,CA,Kaiser ppo,3.56
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$7.60,CA,CalOptima hmo,0.10
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$7.60,CA,CalOptima pos,0.10
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$7.60,CA,CalOptima ppo,0.10
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$7.60,CA,Kaiser hmo,3.55
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$7.60,CA,Kaiser pos,3.55
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$7.60,CA,Kaiser epo,3.55
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$7.60,CA,Kaiser ppo,3.55
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$134.45,CA,CalOptima hmo,1.79
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$134.45,CA,CalOptima pos,1.79
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$134.45,CA,CalOptima ppo,1.79
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$134.45,CA,Kaiser hmo,62.74
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$134.45,CA,Kaiser pos,62.74
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$134.45,CA,Kaiser epo,62.74
+Fountain Valley Regional Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$134.45,CA,Kaiser ppo,62.74
+Fountain Valley Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$695.27,CA,CalOptima hmo,9.27
+Fountain Valley Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$695.27,CA,CalOptima pos,9.27
+Fountain Valley Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$695.27,CA,CalOptima ppo,9.27
+Fountain Valley Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$695.27,CA,Kaiser hmo,324.46
+Fountain Valley Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$695.27,CA,Kaiser pos,324.46
+Fountain Valley Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$695.27,CA,Kaiser epo,324.46
+Fountain Valley Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$695.27,CA,Kaiser ppo,324.46
+Fountain Valley Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals","$1,016.56",CA,CalOptima hmo,13.55
+Fountain Valley Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals","$1,016.56",CA,CalOptima pos,13.55
+Fountain Valley Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals","$1,016.56",CA,CalOptima ppo,13.55
+Fountain Valley Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals","$1,016.56",CA,Kaiser hmo,474.39
+Fountain Valley Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals","$1,016.56",CA,Kaiser pos,474.39
+Fountain Valley Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals","$1,016.56",CA,Kaiser epo,474.39
+Fountain Valley Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals","$1,016.56",CA,Kaiser ppo,474.39
+Fountain Valley Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$472.07,CA,CalOptima hmo,6.29
+Fountain Valley Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$472.07,CA,CalOptima pos,6.29
+Fountain Valley Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$472.07,CA,CalOptima ppo,6.29
+Fountain Valley Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$472.07,CA,Kaiser hmo,220.30
+Fountain Valley Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$472.07,CA,Kaiser pos,220.30
+Fountain Valley Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$472.07,CA,Kaiser epo,220.30
+Fountain Valley Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$472.07,CA,Kaiser ppo,220.30
+Fountain Valley Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$478.49,CA,CalOptima hmo,6.38
+Fountain Valley Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$478.49,CA,CalOptima pos,6.38
+Fountain Valley Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$478.49,CA,CalOptima ppo,6.38
+Fountain Valley Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$478.49,CA,Kaiser hmo,223.30
+Fountain Valley Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$478.49,CA,Kaiser pos,223.30
+Fountain Valley Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$478.49,CA,Kaiser epo,223.30
+Fountain Valley Regional Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$478.49,CA,Kaiser ppo,223.30
+Fountain Valley Regional Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$105.84,CA,CalOptima hmo,1.41
+Fountain Valley Regional Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$105.84,CA,CalOptima pos,1.41
+Fountain Valley Regional Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$105.84,CA,CalOptima ppo,1.41
+Fountain Valley Regional Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$105.84,CA,Kaiser hmo,49.39
+Fountain Valley Regional Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$105.84,CA,Kaiser pos,49.39
+Fountain Valley Regional Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$105.84,CA,Kaiser epo,49.39
+Fountain Valley Regional Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$105.84,CA,Kaiser ppo,49.39
+Fountain Valley Regional Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$806.54,CA,CalOptima hmo,10.75
+Fountain Valley Regional Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$806.54,CA,CalOptima pos,10.75
+Fountain Valley Regional Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$806.54,CA,CalOptima ppo,10.75
+Fountain Valley Regional Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$806.54,CA,Kaiser hmo,376.38
+Fountain Valley Regional Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$806.54,CA,Kaiser pos,376.38
+Fountain Valley Regional Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$806.54,CA,Kaiser epo,376.38
+Fountain Valley Regional Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$806.54,CA,Kaiser ppo,376.38
+Fountain Valley Regional Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$231.32,CA,CalOptima hmo,3.08
+Fountain Valley Regional Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$231.32,CA,CalOptima pos,3.08
+Fountain Valley Regional Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$231.32,CA,CalOptima ppo,3.08
+Fountain Valley Regional Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$231.32,CA,Kaiser hmo,107.95
+Fountain Valley Regional Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$231.32,CA,Kaiser pos,107.95
+Fountain Valley Regional Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$231.32,CA,Kaiser epo,107.95
+Fountain Valley Regional Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$231.32,CA,Kaiser ppo,107.95
+Fountain Valley Regional Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$128.15,CA,CalOptima hmo,1.71
+Fountain Valley Regional Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$128.15,CA,CalOptima pos,1.71
+Fountain Valley Regional Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$128.15,CA,CalOptima ppo,1.71
+Fountain Valley Regional Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$128.15,CA,Kaiser hmo,59.80
+Fountain Valley Regional Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$128.15,CA,Kaiser pos,59.80
+Fountain Valley Regional Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$128.15,CA,Kaiser epo,59.80
+Fountain Valley Regional Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$128.15,CA,Kaiser ppo,59.80
+Fountain Valley Regional Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$315.08,CA,CalOptima hmo,4.20
+Fountain Valley Regional Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$315.08,CA,CalOptima pos,4.20
+Fountain Valley Regional Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$315.08,CA,CalOptima ppo,4.20
+Fountain Valley Regional Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$315.08,CA,Kaiser hmo,147.04
+Fountain Valley Regional Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$315.08,CA,Kaiser pos,147.04
+Fountain Valley Regional Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$315.08,CA,Kaiser epo,147.04
+Fountain Valley Regional Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$315.08,CA,Kaiser ppo,147.04
+Fountain Valley Regional Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$241.87,CA,CalOptima hmo,3.22
+Fountain Valley Regional Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$241.87,CA,CalOptima pos,3.22
+Fountain Valley Regional Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$241.87,CA,CalOptima ppo,3.22
+Fountain Valley Regional Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$241.87,CA,Kaiser hmo,112.87
+Fountain Valley Regional Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$241.87,CA,Kaiser pos,112.87
+Fountain Valley Regional Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$241.87,CA,Kaiser epo,112.87
+Fountain Valley Regional Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$241.87,CA,Kaiser ppo,112.87
+Fountain Valley Regional Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$269.76,CA,CalOptima hmo,3.60
+Fountain Valley Regional Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$269.76,CA,CalOptima pos,3.60
+Fountain Valley Regional Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$269.76,CA,CalOptima ppo,3.60
+Fountain Valley Regional Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$269.76,CA,Kaiser hmo,125.89
+Fountain Valley Regional Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$269.76,CA,Kaiser pos,125.89
+Fountain Valley Regional Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$269.76,CA,Kaiser epo,125.89
+Fountain Valley Regional Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$269.76,CA,Kaiser ppo,125.89
+Fountain Valley Regional Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$11,703.34",CA,CalOptima hmo,1638.47
+Fountain Valley Regional Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$11,703.34",CA,CalOptima pos,1638.47
+Fountain Valley Regional Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$11,703.34",CA,CalOptima ppo,1638.47
+Fountain Valley Regional Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$11,703.34",CA,Kaiser hmo,5461.56
+Fountain Valley Regional Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$11,703.34",CA,Kaiser pos,5461.56
+Fountain Valley Regional Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$11,703.34",CA,Kaiser epo,5461.56
+Fountain Valley Regional Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$11,703.34",CA,Kaiser ppo,5461.56
+Fountain Valley Regional Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$25,444.04",CA,CalOptima hmo,3562.17
+Fountain Valley Regional Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$25,444.04",CA,CalOptima pos,3562.17
+Fountain Valley Regional Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$25,444.04",CA,CalOptima ppo,3562.17
+Fountain Valley Regional Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$25,444.04",CA,Kaiser hmo,11873.89
+Fountain Valley Regional Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$25,444.04",CA,Kaiser pos,11873.89
+Fountain Valley Regional Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$25,444.04",CA,Kaiser epo,11873.89
+Fountain Valley Regional Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$25,444.04",CA,Kaiser ppo,11873.89
+Fountain Valley Regional Hospital,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,"$3,538.07",CA,CalOptima hmo,235.87
+Fountain Valley Regional Hospital,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,"$3,538.07",CA,CalOptima pos,235.87
+Fountain Valley Regional Hospital,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,"$3,538.07",CA,CalOptima ppo,235.87
+Fountain Valley Regional Hospital,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,"$3,538.07",CA,Kaiser hmo,1651.10
+Fountain Valley Regional Hospital,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,"$3,538.07",CA,Kaiser pos,1651.10
+Fountain Valley Regional Hospital,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,"$3,538.07",CA,Kaiser epo,1651.10
+Fountain Valley Regional Hospital,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,"$3,538.07",CA,Kaiser ppo,1651.10
+Fountain Valley Regional Hospital,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$39,440.20",CA,CalOptima hmo,2629.35
+Fountain Valley Regional Hospital,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$39,440.20",CA,CalOptima pos,2629.35
+Fountain Valley Regional Hospital,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$39,440.20",CA,CalOptima ppo,2629.35
+Fountain Valley Regional Hospital,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$39,440.20",CA,Kaiser hmo,18405.43
+Fountain Valley Regional Hospital,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$39,440.20",CA,Kaiser pos,18405.43
+Fountain Valley Regional Hospital,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$39,440.20",CA,Kaiser epo,18405.43
+Fountain Valley Regional Hospital,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$39,440.20",CA,Kaiser ppo,18405.43
+Fountain Valley Regional Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$891.00,CA,CalOptima hmo,35.64
+Fountain Valley Regional Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$891.00,CA,CalOptima pos,35.64
+Fountain Valley Regional Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$891.00,CA,CalOptima ppo,35.64
+Fountain Valley Regional Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$891.00,CA,Kaiser hmo,415.80
+Fountain Valley Regional Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$891.00,CA,Kaiser pos,415.80
+Fountain Valley Regional Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$891.00,CA,Kaiser epo,415.80
+Fountain Valley Regional Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$891.00,CA,Kaiser ppo,415.80
+Fountain Valley Regional Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,637.91",CA,CalOptima hmo,185.52
+Fountain Valley Regional Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,637.91",CA,CalOptima pos,185.52
+Fountain Valley Regional Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,637.91",CA,CalOptima ppo,185.52
+Fountain Valley Regional Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,637.91",CA,Kaiser hmo,2164.36
+Fountain Valley Regional Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,637.91",CA,Kaiser pos,2164.36
+Fountain Valley Regional Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,637.91",CA,Kaiser epo,2164.36
+Fountain Valley Regional Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,637.91",CA,Kaiser ppo,2164.36
+Fountain Valley Regional Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$5,633.33",CA,CalOptima hmo,225.33
+Fountain Valley Regional Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$5,633.33",CA,CalOptima pos,225.33
+Fountain Valley Regional Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$5,633.33",CA,CalOptima ppo,225.33
+Fountain Valley Regional Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$5,633.33",CA,Kaiser hmo,2628.89
+Fountain Valley Regional Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$5,633.33",CA,Kaiser pos,2628.89
+Fountain Valley Regional Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$5,633.33",CA,Kaiser epo,2628.89
+Fountain Valley Regional Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$5,633.33",CA,Kaiser ppo,2628.89
+Fountain Valley Regional Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,744.58",CA,CalOptima hmo,109.78
+Fountain Valley Regional Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,744.58",CA,CalOptima pos,109.78
+Fountain Valley Regional Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,744.58",CA,CalOptima ppo,109.78
+Fountain Valley Regional Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,744.58",CA,Kaiser hmo,1280.80
+Fountain Valley Regional Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,744.58",CA,Kaiser pos,1280.80
+Fountain Valley Regional Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,744.58",CA,Kaiser epo,1280.80
+Fountain Valley Regional Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,744.58",CA,Kaiser ppo,1280.80
+Fountain Valley Regional Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$8,602.23",CA,CalOptima hmo,344.09
+Fountain Valley Regional Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$8,602.23",CA,CalOptima pos,344.09
+Fountain Valley Regional Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$8,602.23",CA,CalOptima ppo,344.09
+Fountain Valley Regional Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$8,602.23",CA,Kaiser hmo,4014.37
+Fountain Valley Regional Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$8,602.23",CA,Kaiser pos,4014.37
+Fountain Valley Regional Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$8,602.23",CA,Kaiser epo,4014.37
+Fountain Valley Regional Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$8,602.23",CA,Kaiser ppo,4014.37
+Fountain Valley Regional Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$9,755.89",CA,CalOptima hmo,390.24
+Fountain Valley Regional Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$9,755.89",CA,CalOptima pos,390.24
+Fountain Valley Regional Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$9,755.89",CA,CalOptima ppo,390.24
+Fountain Valley Regional Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$9,755.89",CA,Kaiser hmo,4552.75
+Fountain Valley Regional Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$9,755.89",CA,Kaiser pos,4552.75
+Fountain Valley Regional Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$9,755.89",CA,Kaiser epo,4552.75
+Fountain Valley Regional Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$9,755.89",CA,Kaiser ppo,4552.75
+Fountain Valley Regional Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,381.24",CA,CalOptima hmo,175.25
+Fountain Valley Regional Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,381.24",CA,CalOptima pos,175.25
+Fountain Valley Regional Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,381.24",CA,CalOptima ppo,175.25
+Fountain Valley Regional Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,381.24",CA,Kaiser hmo,2044.58
+Fountain Valley Regional Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,381.24",CA,Kaiser pos,2044.58
+Fountain Valley Regional Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,381.24",CA,Kaiser epo,2044.58
+Fountain Valley Regional Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,381.24",CA,Kaiser ppo,2044.58
+Fountain Valley Regional Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$4,642.46",CA,CalOptima hmo,185.70
+Fountain Valley Regional Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$4,642.46",CA,CalOptima pos,185.70
+Fountain Valley Regional Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$4,642.46",CA,CalOptima ppo,185.70
+Fountain Valley Regional Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$4,642.46",CA,Kaiser hmo,2166.48
+Fountain Valley Regional Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$4,642.46",CA,Kaiser pos,2166.48
+Fountain Valley Regional Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$4,642.46",CA,Kaiser epo,2166.48
+Fountain Valley Regional Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$4,642.46",CA,Kaiser ppo,2166.48
+Fountain Valley Regional Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$4,108.50",CA,CalOptima hmo,164.34
+Fountain Valley Regional Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$4,108.50",CA,CalOptima pos,164.34
+Fountain Valley Regional Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$4,108.50",CA,CalOptima ppo,164.34
+Fountain Valley Regional Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$4,108.50",CA,Kaiser hmo,1917.30
+Fountain Valley Regional Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$4,108.50",CA,Kaiser pos,1917.30
+Fountain Valley Regional Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$4,108.50",CA,Kaiser epo,1917.30
+Fountain Valley Regional Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$4,108.50",CA,Kaiser ppo,1917.30
+Fountain Valley Regional Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$5,217.16",CA,CalOptima hmo,208.69
+Fountain Valley Regional Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$5,217.16",CA,CalOptima pos,208.69
+Fountain Valley Regional Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$5,217.16",CA,CalOptima ppo,208.69
+Fountain Valley Regional Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$5,217.16",CA,Kaiser hmo,2434.67
+Fountain Valley Regional Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$5,217.16",CA,Kaiser pos,2434.67
+Fountain Valley Regional Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$5,217.16",CA,Kaiser epo,2434.67
+Fountain Valley Regional Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$5,217.16",CA,Kaiser ppo,2434.67
+Fountain Valley Regional Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$7,320.00",CA,CalOptima hmo,292.80
+Fountain Valley Regional Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$7,320.00",CA,CalOptima pos,292.80
+Fountain Valley Regional Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$7,320.00",CA,CalOptima ppo,292.80
+Fountain Valley Regional Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$7,320.00",CA,Kaiser hmo,3416.00
+Fountain Valley Regional Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$7,320.00",CA,Kaiser pos,3416.00
+Fountain Valley Regional Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$7,320.00",CA,Kaiser epo,3416.00
+Fountain Valley Regional Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$7,320.00",CA,Kaiser ppo,3416.00
+Fountain Valley Regional Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$5,431.57",CA,CalOptima hmo,217.26
+Fountain Valley Regional Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$5,431.57",CA,CalOptima pos,217.26
+Fountain Valley Regional Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$5,431.57",CA,CalOptima ppo,217.26
+Fountain Valley Regional Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$5,431.57",CA,Kaiser hmo,2534.73
+Fountain Valley Regional Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$5,431.57",CA,Kaiser pos,2534.73
+Fountain Valley Regional Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$5,431.57",CA,Kaiser epo,2534.73
+Fountain Valley Regional Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$5,431.57",CA,Kaiser ppo,2534.73
+Fountain Valley Regional Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$8,222.90",CA,CalOptima hmo,328.92
+Fountain Valley Regional Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$8,222.90",CA,CalOptima pos,328.92
+Fountain Valley Regional Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$8,222.90",CA,CalOptima ppo,328.92
+Fountain Valley Regional Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$8,222.90",CA,Kaiser hmo,3837.35
+Fountain Valley Regional Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$8,222.90",CA,Kaiser pos,3837.35
+Fountain Valley Regional Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$8,222.90",CA,Kaiser epo,3837.35
+Fountain Valley Regional Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$8,222.90",CA,Kaiser ppo,3837.35
+Fountain Valley Regional Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$7,034.06",CA,CalOptima hmo,281.36
+Fountain Valley Regional Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$7,034.06",CA,CalOptima pos,281.36
+Fountain Valley Regional Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$7,034.06",CA,CalOptima ppo,281.36
+Fountain Valley Regional Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$7,034.06",CA,Kaiser hmo,3282.56
+Fountain Valley Regional Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$7,034.06",CA,Kaiser pos,3282.56
+Fountain Valley Regional Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$7,034.06",CA,Kaiser epo,3282.56
+Fountain Valley Regional Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$7,034.06",CA,Kaiser ppo,3282.56
+Fountain Valley Regional Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$4,190.90",CA,CalOptima hmo,167.64
+Fountain Valley Regional Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$4,190.90",CA,CalOptima pos,167.64
+Fountain Valley Regional Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$4,190.90",CA,CalOptima ppo,167.64
+Fountain Valley Regional Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$4,190.90",CA,Kaiser hmo,1955.75
+Fountain Valley Regional Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$4,190.90",CA,Kaiser pos,1955.75
+Fountain Valley Regional Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$4,190.90",CA,Kaiser epo,1955.75
+Fountain Valley Regional Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$4,190.90",CA,Kaiser ppo,1955.75
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$2,454.15",CA,CalOptima hmo,98.17
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$2,454.15",CA,CalOptima pos,98.17
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$2,454.15",CA,CalOptima ppo,98.17
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$2,454.15",CA,Kaiser hmo,1145.27
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$2,454.15",CA,Kaiser pos,1145.27
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$2,454.15",CA,Kaiser epo,1145.27
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$2,454.15",CA,Kaiser ppo,1145.27
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,941.56",CA,CalOptima hmo,77.66
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,941.56",CA,CalOptima pos,77.66
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,941.56",CA,CalOptima ppo,77.66
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,941.56",CA,Kaiser hmo,906.06
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,941.56",CA,Kaiser pos,906.06
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,941.56",CA,Kaiser epo,906.06
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,941.56",CA,Kaiser ppo,906.06
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,589.26",CA,CalOptima hmo,63.57
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,589.26",CA,CalOptima pos,63.57
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,589.26",CA,CalOptima ppo,63.57
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,589.26",CA,Kaiser hmo,741.65
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,589.26",CA,Kaiser pos,741.65
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,589.26",CA,Kaiser epo,741.65
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,589.26",CA,Kaiser ppo,741.65
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$1,591.19",CA,CalOptima hmo,63.65
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$1,591.19",CA,CalOptima pos,63.65
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$1,591.19",CA,CalOptima ppo,63.65
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$1,591.19",CA,Kaiser hmo,742.56
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$1,591.19",CA,Kaiser pos,742.56
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$1,591.19",CA,Kaiser epo,742.56
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$1,591.19",CA,Kaiser ppo,742.56
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,803.05",CA,CalOptima hmo,72.12
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,803.05",CA,CalOptima pos,72.12
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,803.05",CA,CalOptima ppo,72.12
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,803.05",CA,Kaiser hmo,841.42
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,803.05",CA,Kaiser pos,841.42
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,803.05",CA,Kaiser epo,841.42
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,803.05",CA,Kaiser ppo,841.42
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,885.24",CA,CalOptima hmo,75.41
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,885.24",CA,CalOptima pos,75.41
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,885.24",CA,CalOptima ppo,75.41
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,885.24",CA,Kaiser hmo,879.78
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,885.24",CA,Kaiser pos,879.78
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,885.24",CA,Kaiser epo,879.78
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,885.24",CA,Kaiser ppo,879.78
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,860.89",CA,CalOptima hmo,74.44
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,860.89",CA,CalOptima pos,74.44
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,860.89",CA,CalOptima ppo,74.44
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,860.89",CA,Kaiser hmo,868.41
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,860.89",CA,Kaiser pos,868.41
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,860.89",CA,Kaiser epo,868.41
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,860.89",CA,Kaiser ppo,868.41
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,329.77",CA,CalOptima hmo,53.19
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,329.77",CA,CalOptima pos,53.19
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,329.77",CA,CalOptima ppo,53.19
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,329.77",CA,Kaiser hmo,620.56
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,329.77",CA,Kaiser pos,620.56
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,329.77",CA,Kaiser epo,620.56
+Fountain Valley Regional Hospital,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,329.77",CA,Kaiser ppo,620.56
+Fountain Valley Regional Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$361.23,CA,CalOptima hmo,14.45
+Fountain Valley Regional Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$361.23,CA,CalOptima pos,14.45
+Fountain Valley Regional Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$361.23,CA,CalOptima ppo,14.45
+Fountain Valley Regional Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$361.23,CA,Kaiser hmo,168.57
+Fountain Valley Regional Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$361.23,CA,Kaiser pos,168.57
+Fountain Valley Regional Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$361.23,CA,Kaiser epo,168.57
+Fountain Valley Regional Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$361.23,CA,Kaiser ppo,168.57
+Fountain Valley Regional Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$362.95,CA,CalOptima hmo,14.52
+Fountain Valley Regional Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$362.95,CA,CalOptima pos,14.52
+Fountain Valley Regional Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$362.95,CA,CalOptima ppo,14.52
+Fountain Valley Regional Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$362.95,CA,Kaiser hmo,169.38
+Fountain Valley Regional Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$362.95,CA,Kaiser pos,169.38
+Fountain Valley Regional Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$362.95,CA,Kaiser epo,169.38
+Fountain Valley Regional Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$362.95,CA,Kaiser ppo,169.38
+Fountain Valley Regional Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$388.99,CA,CalOptima hmo,15.56
+Fountain Valley Regional Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$388.99,CA,CalOptima pos,15.56
+Fountain Valley Regional Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$388.99,CA,CalOptima ppo,15.56
+Fountain Valley Regional Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$388.99,CA,Kaiser hmo,181.53
+Fountain Valley Regional Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$388.99,CA,Kaiser pos,181.53
+Fountain Valley Regional Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$388.99,CA,Kaiser epo,181.53
+Fountain Valley Regional Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$388.99,CA,Kaiser ppo,181.53
+Fountain Valley Regional Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$638.93,CA,CalOptima hmo,25.56
+Fountain Valley Regional Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$638.93,CA,CalOptima pos,25.56
+Fountain Valley Regional Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$638.93,CA,CalOptima ppo,25.56
+Fountain Valley Regional Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$638.93,CA,Kaiser hmo,298.17
+Fountain Valley Regional Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$638.93,CA,Kaiser pos,298.17
+Fountain Valley Regional Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$638.93,CA,Kaiser epo,298.17
+Fountain Valley Regional Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$638.93,CA,Kaiser ppo,298.17
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$596.03,CA,CalOptima hmo,23.84
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$596.03,CA,CalOptima pos,23.84
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$596.03,CA,CalOptima ppo,23.84
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$596.03,CA,Kaiser hmo,278.15
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$596.03,CA,Kaiser pos,278.15
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$596.03,CA,Kaiser epo,278.15
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$596.03,CA,Kaiser ppo,278.15
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$758.41,CA,CalOptima hmo,30.34
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$758.41,CA,CalOptima pos,30.34
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$758.41,CA,CalOptima ppo,30.34
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$758.41,CA,Kaiser hmo,353.92
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$758.41,CA,Kaiser pos,353.92
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$758.41,CA,Kaiser epo,353.92
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$758.41,CA,Kaiser ppo,353.92
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$714.59,CA,CalOptima hmo,28.58
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$714.59,CA,CalOptima pos,28.58
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$714.59,CA,CalOptima ppo,28.58
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$714.59,CA,Kaiser hmo,333.48
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$714.59,CA,Kaiser pos,333.48
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$714.59,CA,Kaiser epo,333.48
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$714.59,CA,Kaiser ppo,333.48
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$511.01,CA,CalOptima hmo,20.44
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$511.01,CA,CalOptima pos,20.44
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$511.01,CA,CalOptima ppo,20.44
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$511.01,CA,Kaiser hmo,238.47
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$511.01,CA,Kaiser pos,238.47
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$511.01,CA,Kaiser epo,238.47
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$511.01,CA,Kaiser ppo,238.47
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$649.29,CA,CalOptima hmo,25.97
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$649.29,CA,CalOptima pos,25.97
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$649.29,CA,CalOptima ppo,25.97
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$649.29,CA,Kaiser hmo,303.00
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$649.29,CA,Kaiser pos,303.00
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$649.29,CA,Kaiser epo,303.00
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$649.29,CA,Kaiser ppo,303.00
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views","$1,042.82",CA,CalOptima hmo,41.71
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views","$1,042.82",CA,CalOptima pos,41.71
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views","$1,042.82",CA,CalOptima ppo,41.71
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views","$1,042.82",CA,Kaiser hmo,486.65
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views","$1,042.82",CA,Kaiser pos,486.65
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views","$1,042.82",CA,Kaiser epo,486.65
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views","$1,042.82",CA,Kaiser ppo,486.65
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$602.54,CA,CalOptima hmo,24.10
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$602.54,CA,CalOptima pos,24.10
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$602.54,CA,CalOptima ppo,24.10
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$602.54,CA,Kaiser hmo,281.19
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$602.54,CA,Kaiser pos,281.19
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$602.54,CA,Kaiser epo,281.19
+Fountain Valley Regional Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$602.54,CA,Kaiser ppo,281.19
+Fountain Valley Regional Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,519.68",CA,CalOptima hmo,60.79
+Fountain Valley Regional Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,519.68",CA,CalOptima pos,60.79
+Fountain Valley Regional Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,519.68",CA,CalOptima ppo,60.79
+Fountain Valley Regional Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,519.68",CA,Kaiser hmo,709.18
+Fountain Valley Regional Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,519.68",CA,Kaiser pos,709.18
+Fountain Valley Regional Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,519.68",CA,Kaiser epo,709.18
+Fountain Valley Regional Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,519.68",CA,Kaiser ppo,709.18
+Fountain Valley Regional Hospital,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$795.17,CA,CalOptima hmo,31.81
+Fountain Valley Regional Hospital,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$795.17,CA,CalOptima pos,31.81
+Fountain Valley Regional Hospital,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$795.17,CA,CalOptima ppo,31.81
+Fountain Valley Regional Hospital,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$795.17,CA,Kaiser hmo,371.08
+Fountain Valley Regional Hospital,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$795.17,CA,Kaiser pos,371.08
+Fountain Valley Regional Hospital,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$795.17,CA,Kaiser epo,371.08
+Fountain Valley Regional Hospital,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$795.17,CA,Kaiser ppo,371.08
+Fountain Valley Regional Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$946.10,CA,CalOptima hmo,37.84
+Fountain Valley Regional Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$946.10,CA,CalOptima pos,37.84
+Fountain Valley Regional Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$946.10,CA,CalOptima ppo,37.84
+Fountain Valley Regional Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$946.10,CA,Kaiser hmo,441.51
+Fountain Valley Regional Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$946.10,CA,Kaiser pos,441.51
+Fountain Valley Regional Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$946.10,CA,Kaiser epo,441.51
+Fountain Valley Regional Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$946.10,CA,Kaiser ppo,441.51
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$749.54,CA,CalOptima hmo,29.98
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$749.54,CA,CalOptima pos,29.98
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$749.54,CA,CalOptima ppo,29.98
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$749.54,CA,Kaiser hmo,349.79
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$749.54,CA,Kaiser pos,349.79
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$749.54,CA,Kaiser epo,349.79
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$749.54,CA,Kaiser ppo,349.79
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$456.34,CA,CalOptima hmo,18.25
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$456.34,CA,CalOptima pos,18.25
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$456.34,CA,CalOptima ppo,18.25
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$456.34,CA,Kaiser hmo,212.96
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$456.34,CA,Kaiser pos,212.96
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$456.34,CA,Kaiser epo,212.96
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$456.34,CA,Kaiser ppo,212.96
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$704.07,CA,CalOptima hmo,28.16
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$704.07,CA,CalOptima pos,28.16
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$704.07,CA,CalOptima ppo,28.16
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$704.07,CA,Kaiser hmo,328.57
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$704.07,CA,Kaiser pos,328.57
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$704.07,CA,Kaiser epo,328.57
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$704.07,CA,Kaiser ppo,328.57
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$816.93,CA,CalOptima hmo,32.68
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$816.93,CA,CalOptima pos,32.68
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$816.93,CA,CalOptima ppo,32.68
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$816.93,CA,Kaiser hmo,381.23
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$816.93,CA,Kaiser pos,381.23
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$816.93,CA,Kaiser epo,381.23
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$816.93,CA,Kaiser ppo,381.23
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$618.30,CA,CalOptima hmo,24.73
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$618.30,CA,CalOptima pos,24.73
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$618.30,CA,CalOptima ppo,24.73
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$618.30,CA,Kaiser hmo,288.54
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$618.30,CA,Kaiser pos,288.54
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$618.30,CA,Kaiser epo,288.54
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$618.30,CA,Kaiser ppo,288.54
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$476.32,CA,CalOptima hmo,19.05
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$476.32,CA,CalOptima pos,19.05
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$476.32,CA,CalOptima ppo,19.05
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$476.32,CA,Kaiser hmo,222.28
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$476.32,CA,Kaiser pos,222.28
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$476.32,CA,Kaiser epo,222.28
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$476.32,CA,Kaiser ppo,222.28
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$786.84,CA,CalOptima hmo,31.47
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$786.84,CA,CalOptima pos,31.47
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$786.84,CA,CalOptima ppo,31.47
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$786.84,CA,Kaiser hmo,367.19
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$786.84,CA,Kaiser pos,367.19
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$786.84,CA,Kaiser epo,367.19
+Fountain Valley Regional Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$786.84,CA,Kaiser ppo,367.19
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$45,544.22",CA,CalOptima hmo,8501.59
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$45,544.22",CA,CalOptima pos,8501.59
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$45,544.22",CA,CalOptima ppo,8501.59
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$45,544.22",CA,Kaiser hmo,21253.97
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$45,544.22",CA,Kaiser pos,21253.97
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$45,544.22",CA,Kaiser epo,21253.97
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$45,544.22",CA,Kaiser ppo,21253.97
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$44,310.14",CA,CalOptima hmo,3544.81
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$44,310.14",CA,CalOptima pos,3544.81
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$44,310.14",CA,CalOptima ppo,3544.81
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$44,310.14",CA,Kaiser hmo,20678.07
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$44,310.14",CA,Kaiser pos,20678.07
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$44,310.14",CA,Kaiser epo,20678.07
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$44,310.14",CA,Kaiser ppo,20678.07
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$42,446.82",CA,CalOptima hmo,7923.41
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$42,446.82",CA,CalOptima pos,7923.41
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$42,446.82",CA,CalOptima ppo,7923.41
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$42,446.82",CA,Kaiser hmo,19808.52
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$42,446.82",CA,Kaiser pos,19808.52
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$42,446.82",CA,Kaiser epo,19808.52
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$42,446.82",CA,Kaiser ppo,19808.52
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$5,240.55",CA,CalOptima hmo,419.24
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$5,240.55",CA,CalOptima pos,419.24
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$5,240.55",CA,CalOptima ppo,419.24
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$5,240.55",CA,Kaiser hmo,2445.59
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$5,240.55",CA,Kaiser pos,2445.59
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$5,240.55",CA,Kaiser epo,2445.59
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$5,240.55",CA,Kaiser ppo,2445.59
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$44,387.33",CA,CalOptima hmo,8285.63
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$44,387.33",CA,CalOptima pos,8285.63
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$44,387.33",CA,CalOptima ppo,8285.63
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$44,387.33",CA,Kaiser hmo,20714.09
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$44,387.33",CA,Kaiser pos,20714.09
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$44,387.33",CA,Kaiser epo,20714.09
+Fountain Valley Regional Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$44,387.33",CA,Kaiser ppo,20714.09
+Fountain Valley Regional Hospital,Breast,HCPCS 19120,Excision of cyst of breast,"$40,016.07",CA,CalOptima hmo,7469.67
+Fountain Valley Regional Hospital,Breast,HCPCS 19120,Excision of cyst of breast,"$40,016.07",CA,CalOptima pos,7469.67
+Fountain Valley Regional Hospital,Breast,HCPCS 19120,Excision of cyst of breast,"$40,016.07",CA,CalOptima ppo,7469.67
+Fountain Valley Regional Hospital,Breast,HCPCS 19120,Excision of cyst of breast,"$40,016.07",CA,Kaiser hmo,18674.17
+Fountain Valley Regional Hospital,Breast,HCPCS 19120,Excision of cyst of breast,"$40,016.07",CA,Kaiser pos,18674.17
+Fountain Valley Regional Hospital,Breast,HCPCS 19120,Excision of cyst of breast,"$40,016.07",CA,Kaiser epo,18674.17
+Fountain Valley Regional Hospital,Breast,HCPCS 19120,Excision of cyst of breast,"$40,016.07",CA,Kaiser ppo,18674.17
+Fountain Valley Regional Hospital,Cardiac,MSDRG 216,Cardiac valve procedure,"$1,021,291.59",CA,CalOptima hmo,136172.21
+Fountain Valley Regional Hospital,Cardiac,MSDRG 216,Cardiac valve procedure,"$1,021,291.59",CA,CalOptima pos,136172.21
+Fountain Valley Regional Hospital,Cardiac,MSDRG 216,Cardiac valve procedure,"$1,021,291.59",CA,CalOptima ppo,136172.21
+Fountain Valley Regional Hospital,Cardiac,MSDRG 216,Cardiac valve procedure,"$1,021,291.59",CA,Kaiser hmo,953205.48
+Fountain Valley Regional Hospital,Cardiac,MSDRG 216,Cardiac valve procedure,"$1,021,291.59",CA,Kaiser pos,953205.48
+Fountain Valley Regional Hospital,Cardiac,MSDRG 216,Cardiac valve procedure,"$1,021,291.59",CA,Kaiser epo,953205.48
+Fountain Valley Regional Hospital,Cardiac,MSDRG 216,Cardiac valve procedure,"$1,021,291.59",CA,Kaiser ppo,953205.48
+Fountain Valley Regional Hospital,Cardiac,HCPCS 33249,Defibrillator complete system,"$205,245.47",CA,CalOptima hmo,28734.37
+Fountain Valley Regional Hospital,Cardiac,HCPCS 33249,Defibrillator complete system,"$205,245.47",CA,CalOptima pos,28734.37
+Fountain Valley Regional Hospital,Cardiac,HCPCS 33249,Defibrillator complete system,"$205,245.47",CA,CalOptima ppo,28734.37
+Fountain Valley Regional Hospital,Cardiac,HCPCS 33249,Defibrillator complete system,"$205,245.47",CA,Kaiser hmo,95781.22
+Fountain Valley Regional Hospital,Cardiac,HCPCS 33249,Defibrillator complete system,"$205,245.47",CA,Kaiser pos,95781.22
+Fountain Valley Regional Hospital,Cardiac,HCPCS 33249,Defibrillator complete system,"$205,245.47",CA,Kaiser epo,95781.22
+Fountain Valley Regional Hospital,Cardiac,HCPCS 33249,Defibrillator complete system,"$205,245.47",CA,Kaiser ppo,95781.22
+Fountain Valley Regional Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$35,100.23",CA,CalOptima hmo,4446.03
+Fountain Valley Regional Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$35,100.23",CA,CalOptima pos,4446.03
+Fountain Valley Regional Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$35,100.23",CA,CalOptima ppo,4446.03
+Fountain Valley Regional Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$35,100.23",CA,Kaiser hmo,16380.11
+Fountain Valley Regional Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$35,100.23",CA,Kaiser pos,16380.11
+Fountain Valley Regional Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$35,100.23",CA,Kaiser epo,16380.11
+Fountain Valley Regional Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$35,100.23",CA,Kaiser ppo,16380.11
+Fountain Valley Regional Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$32,367.48",CA,CalOptima hmo,4099.88
+Fountain Valley Regional Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$32,367.48",CA,CalOptima pos,4099.88
+Fountain Valley Regional Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$32,367.48",CA,CalOptima ppo,4099.88
+Fountain Valley Regional Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$32,367.48",CA,Kaiser hmo,15104.82
+Fountain Valley Regional Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$32,367.48",CA,Kaiser pos,15104.82
+Fountain Valley Regional Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$32,367.48",CA,Kaiser epo,15104.82
+Fountain Valley Regional Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$32,367.48",CA,Kaiser ppo,15104.82
+Fountain Valley Regional Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$25,588.40",CA,CalOptima hmo,3241.20
+Fountain Valley Regional Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$25,588.40",CA,CalOptima pos,3241.20
+Fountain Valley Regional Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$25,588.40",CA,CalOptima ppo,3241.20
+Fountain Valley Regional Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$25,588.40",CA,Kaiser hmo,11941.25
+Fountain Valley Regional Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$25,588.40",CA,Kaiser pos,11941.25
+Fountain Valley Regional Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$25,588.40",CA,Kaiser epo,11941.25
+Fountain Valley Regional Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$25,588.40",CA,Kaiser ppo,11941.25
+Fountain Valley Regional Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$27,489.64",CA,CalOptima hmo,3482.02
+Fountain Valley Regional Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$27,489.64",CA,CalOptima pos,3482.02
+Fountain Valley Regional Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$27,489.64",CA,CalOptima ppo,3482.02
+Fountain Valley Regional Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$27,489.64",CA,Kaiser hmo,12828.50
+Fountain Valley Regional Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$27,489.64",CA,Kaiser pos,12828.50
+Fountain Valley Regional Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$27,489.64",CA,Kaiser epo,12828.50
+Fountain Valley Regional Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$27,489.64",CA,Kaiser ppo,12828.50
+Fountain Valley Regional Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$78,440.24",CA,CalOptima hmo,10458.70
+Fountain Valley Regional Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$78,440.24",CA,CalOptima pos,10458.70
+Fountain Valley Regional Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$78,440.24",CA,CalOptima ppo,10458.70
+Fountain Valley Regional Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$78,440.24",CA,Kaiser hmo,73210.89
+Fountain Valley Regional Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$78,440.24",CA,Kaiser pos,73210.89
+Fountain Valley Regional Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$78,440.24",CA,Kaiser epo,73210.89
+Fountain Valley Regional Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$78,440.24",CA,Kaiser ppo,73210.89
+Fountain Valley Regional Hospital,General,HCPCS 55700,Biopsy of prostate gland,"$18,127.54",CA,CalOptima hmo,2417.01
+Fountain Valley Regional Hospital,General,HCPCS 55700,Biopsy of prostate gland,"$18,127.54",CA,CalOptima pos,2417.01
+Fountain Valley Regional Hospital,General,HCPCS 55700,Biopsy of prostate gland,"$18,127.54",CA,CalOptima ppo,2417.01
+Fountain Valley Regional Hospital,General,HCPCS 55700,Biopsy of prostate gland,"$18,127.54",CA,Kaiser hmo,8459.52
+Fountain Valley Regional Hospital,General,HCPCS 55700,Biopsy of prostate gland,"$18,127.54",CA,Kaiser pos,8459.52
+Fountain Valley Regional Hospital,General,HCPCS 55700,Biopsy of prostate gland,"$18,127.54",CA,Kaiser epo,8459.52
+Fountain Valley Regional Hospital,General,HCPCS 55700,Biopsy of prostate gland,"$18,127.54",CA,Kaiser ppo,8459.52
+Fountain Valley Regional Hospital,General,HCPCS 10060,Drainage of Abscess,"$4,020.68",CA,CalOptima hmo,696.92
+Fountain Valley Regional Hospital,General,HCPCS 10060,Drainage of Abscess,"$4,020.68",CA,CalOptima pos,696.92
+Fountain Valley Regional Hospital,General,HCPCS 10060,Drainage of Abscess,"$4,020.68",CA,CalOptima ppo,696.92
+Fountain Valley Regional Hospital,General,HCPCS 10060,Drainage of Abscess,"$4,020.68",CA,Kaiser hmo,1876.32
+Fountain Valley Regional Hospital,General,HCPCS 10060,Drainage of Abscess,"$4,020.68",CA,Kaiser pos,1876.32
+Fountain Valley Regional Hospital,General,HCPCS 10060,Drainage of Abscess,"$4,020.68",CA,Kaiser epo,1876.32
+Fountain Valley Regional Hospital,General,HCPCS 10060,Drainage of Abscess,"$4,020.68",CA,Kaiser ppo,1876.32
+Fountain Valley Regional Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$4,519.19",CA,CalOptima hmo,783.33
+Fountain Valley Regional Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$4,519.19",CA,CalOptima pos,783.33
+Fountain Valley Regional Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$4,519.19",CA,CalOptima ppo,783.33
+Fountain Valley Regional Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$4,519.19",CA,Kaiser hmo,2108.96
+Fountain Valley Regional Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$4,519.19",CA,Kaiser pos,2108.96
+Fountain Valley Regional Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$4,519.19",CA,Kaiser epo,2108.96
+Fountain Valley Regional Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$4,519.19",CA,Kaiser ppo,2108.96
+Fountain Valley Regional Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$3,635.15",CA,CalOptima hmo,630.09
+Fountain Valley Regional Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$3,635.15",CA,CalOptima pos,630.09
+Fountain Valley Regional Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$3,635.15",CA,CalOptima ppo,630.09
+Fountain Valley Regional Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$3,635.15",CA,Kaiser hmo,1696.40
+Fountain Valley Regional Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$3,635.15",CA,Kaiser pos,1696.40
+Fountain Valley Regional Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$3,635.15",CA,Kaiser epo,1696.40
+Fountain Valley Regional Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$3,635.15",CA,Kaiser ppo,1696.40
+Fountain Valley Regional Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$3,013.17",CA,CalOptima hmo,522.28
+Fountain Valley Regional Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$3,013.17",CA,CalOptima pos,522.28
+Fountain Valley Regional Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$3,013.17",CA,CalOptima ppo,522.28
+Fountain Valley Regional Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$3,013.17",CA,Kaiser hmo,1406.15
+Fountain Valley Regional Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$3,013.17",CA,Kaiser pos,1406.15
+Fountain Valley Regional Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$3,013.17",CA,Kaiser epo,1406.15
+Fountain Valley Regional Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$3,013.17",CA,Kaiser ppo,1406.15
+Fountain Valley Regional Hospital,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$29,631.32",CA,CalOptima hmo,2370.51
+Fountain Valley Regional Hospital,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$29,631.32",CA,CalOptima pos,2370.51
+Fountain Valley Regional Hospital,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$29,631.32",CA,CalOptima ppo,2370.51
+Fountain Valley Regional Hospital,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$29,631.32",CA,Kaiser hmo,13827.95
+Fountain Valley Regional Hospital,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$29,631.32",CA,Kaiser pos,13827.95
+Fountain Valley Regional Hospital,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$29,631.32",CA,Kaiser epo,13827.95
+Fountain Valley Regional Hospital,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),"$29,631.32",CA,Kaiser ppo,13827.95
+Fountain Valley Regional Hospital,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$33,550.70",CA,CalOptima hmo,2684.06
+Fountain Valley Regional Hospital,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$33,550.70",CA,CalOptima pos,2684.06
+Fountain Valley Regional Hospital,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$33,550.70",CA,CalOptima ppo,2684.06
+Fountain Valley Regional Hospital,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$33,550.70",CA,Kaiser hmo,15656.99
+Fountain Valley Regional Hospital,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$33,550.70",CA,Kaiser pos,15656.99
+Fountain Valley Regional Hospital,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$33,550.70",CA,Kaiser epo,15656.99
+Fountain Valley Regional Hospital,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),"$33,550.70",CA,Kaiser ppo,15656.99
+Fountain Valley Regional Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$13,769.13",CA,CalOptima hmo,1101.53
+Fountain Valley Regional Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$13,769.13",CA,CalOptima pos,1101.53
+Fountain Valley Regional Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$13,769.13",CA,CalOptima ppo,1101.53
+Fountain Valley Regional Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$13,769.13",CA,Kaiser hmo,6425.59
+Fountain Valley Regional Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$13,769.13",CA,Kaiser pos,6425.59
+Fountain Valley Regional Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$13,769.13",CA,Kaiser epo,6425.59
+Fountain Valley Regional Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$13,769.13",CA,Kaiser ppo,6425.59
+Fountain Valley Regional Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$15,103.07",CA,CalOptima hmo,1208.25
+Fountain Valley Regional Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$15,103.07",CA,CalOptima pos,1208.25
+Fountain Valley Regional Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$15,103.07",CA,CalOptima ppo,1208.25
+Fountain Valley Regional Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$15,103.07",CA,Kaiser hmo,7048.10
+Fountain Valley Regional Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$15,103.07",CA,Kaiser pos,7048.10
+Fountain Valley Regional Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$15,103.07",CA,Kaiser epo,7048.10
+Fountain Valley Regional Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$15,103.07",CA,Kaiser ppo,7048.10
+Fountain Valley Regional Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$100,689.28",CA,CalOptima hmo,13425.24
+Fountain Valley Regional Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$100,689.28",CA,CalOptima pos,13425.24
+Fountain Valley Regional Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$100,689.28",CA,CalOptima ppo,13425.24
+Fountain Valley Regional Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$100,689.28",CA,Kaiser hmo,93976.66
+Fountain Valley Regional Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$100,689.28",CA,Kaiser pos,93976.66
+Fountain Valley Regional Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$100,689.28",CA,Kaiser epo,93976.66
+Fountain Valley Regional Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$100,689.28",CA,Kaiser ppo,93976.66
+Fountain Valley Regional Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$42,397.86",CA,CalOptima hmo,565.30
+Fountain Valley Regional Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$42,397.86",CA,CalOptima pos,565.30
+Fountain Valley Regional Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$42,397.86",CA,CalOptima ppo,565.30
+Fountain Valley Regional Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$42,397.86",CA,Kaiser hmo,19785.67
+Fountain Valley Regional Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$42,397.86",CA,Kaiser pos,19785.67
+Fountain Valley Regional Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$42,397.86",CA,Kaiser epo,19785.67
+Fountain Valley Regional Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$42,397.86",CA,Kaiser ppo,19785.67
+Fountain Valley Regional Hospital,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$58,526.61",CA,CalOptima hmo,780.35
+Fountain Valley Regional Hospital,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$58,526.61",CA,CalOptima pos,780.35
+Fountain Valley Regional Hospital,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$58,526.61",CA,CalOptima ppo,780.35
+Fountain Valley Regional Hospital,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$58,526.61",CA,Kaiser hmo,27312.42
+Fountain Valley Regional Hospital,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$58,526.61",CA,Kaiser pos,27312.42
+Fountain Valley Regional Hospital,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$58,526.61",CA,Kaiser epo,27312.42
+Fountain Valley Regional Hospital,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$58,526.61",CA,Kaiser ppo,27312.42
+Fountain Valley Regional Hospital,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$128,803.76",CA,CalOptima hmo,17173.83
+Fountain Valley Regional Hospital,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$128,803.76",CA,CalOptima pos,17173.83
+Fountain Valley Regional Hospital,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$128,803.76",CA,CalOptima ppo,17173.83
+Fountain Valley Regional Hospital,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$128,803.76",CA,Kaiser hmo,120216.84
+Fountain Valley Regional Hospital,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$128,803.76",CA,Kaiser pos,120216.84
+Fountain Valley Regional Hospital,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$128,803.76",CA,Kaiser epo,120216.84
+Fountain Valley Regional Hospital,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$128,803.76",CA,Kaiser ppo,120216.84
+Fountain Valley Regional Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$249,323.63",CA,CalOptima hmo,3324.32
+Fountain Valley Regional Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$249,323.63",CA,CalOptima pos,3324.32
+Fountain Valley Regional Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$249,323.63",CA,CalOptima ppo,3324.32
+Fountain Valley Regional Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$249,323.63",CA,Kaiser hmo,171658.68
+Fountain Valley Regional Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$249,323.63",CA,Kaiser pos,171658.68
+Fountain Valley Regional Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$249,323.63",CA,Kaiser epo,171658.68
+Fountain Valley Regional Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$249,323.63",CA,Kaiser ppo,171658.68
+Fountain Valley Regional Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$34,951.80",CA,CalOptima hmo,4660.24
+Fountain Valley Regional Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$34,951.80",CA,CalOptima pos,4660.24
+Fountain Valley Regional Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$34,951.80",CA,CalOptima ppo,4660.24
+Fountain Valley Regional Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$34,951.80",CA,Kaiser hmo,16310.84
+Fountain Valley Regional Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$34,951.80",CA,Kaiser pos,16310.84
+Fountain Valley Regional Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$34,951.80",CA,Kaiser epo,16310.84
+Fountain Valley Regional Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$34,951.80",CA,Kaiser ppo,16310.84
+Fountain Valley Regional Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$43,718.80",CA,CalOptima hmo,5829.17
+Fountain Valley Regional Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$43,718.80",CA,CalOptima pos,5829.17
+Fountain Valley Regional Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$43,718.80",CA,CalOptima ppo,5829.17
+Fountain Valley Regional Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$43,718.80",CA,Kaiser hmo,40804.21
+Fountain Valley Regional Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$43,718.80",CA,Kaiser pos,40804.21
+Fountain Valley Regional Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$43,718.80",CA,Kaiser epo,40804.21
+Fountain Valley Regional Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$43,718.80",CA,Kaiser ppo,40804.21
+Fountain Valley Regional Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$26,694.31",CA,CalOptima hmo,3559.24
+Fountain Valley Regional Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$26,694.31",CA,CalOptima pos,3559.24
+Fountain Valley Regional Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$26,694.31",CA,CalOptima ppo,3559.24
+Fountain Valley Regional Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$26,694.31",CA,Kaiser hmo,24914.69
+Fountain Valley Regional Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$26,694.31",CA,Kaiser pos,24914.69
+Fountain Valley Regional Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$26,694.31",CA,Kaiser epo,24914.69
+Fountain Valley Regional Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$26,694.31",CA,Kaiser ppo,24914.69
+Fountain Valley Regional Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,"$2,290.46",CA,CalOptima hmo,152.70
+Fountain Valley Regional Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,"$2,290.46",CA,CalOptima pos,152.70
+Fountain Valley Regional Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,"$2,290.46",CA,CalOptima ppo,152.70
+Fountain Valley Regional Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,"$2,290.46",CA,Kaiser hmo,1068.88
+Fountain Valley Regional Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,"$2,290.46",CA,Kaiser pos,1068.88
+Fountain Valley Regional Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,"$2,290.46",CA,Kaiser epo,1068.88
+Fountain Valley Regional Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,"$2,290.46",CA,Kaiser ppo,1068.88
+Fountain Valley Regional Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$9,782.95",CA,CalOptima hmo,652.20
+Fountain Valley Regional Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$9,782.95",CA,CalOptima pos,652.20
+Fountain Valley Regional Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$9,782.95",CA,CalOptima ppo,652.20
+Fountain Valley Regional Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$9,782.95",CA,Kaiser hmo,4565.38
+Fountain Valley Regional Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$9,782.95",CA,Kaiser pos,4565.38
+Fountain Valley Regional Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$9,782.95",CA,Kaiser epo,4565.38
+Fountain Valley Regional Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$9,782.95",CA,Kaiser ppo,4565.38
+Fountain Valley Regional Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$7,096.93",CA,CalOptima hmo,473.13
+Fountain Valley Regional Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$7,096.93",CA,CalOptima pos,473.13
+Fountain Valley Regional Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$7,096.93",CA,CalOptima ppo,473.13
+Fountain Valley Regional Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$7,096.93",CA,Kaiser hmo,3311.90
+Fountain Valley Regional Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$7,096.93",CA,Kaiser pos,3311.90
+Fountain Valley Regional Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$7,096.93",CA,Kaiser epo,3311.90
+Fountain Valley Regional Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$7,096.93",CA,Kaiser ppo,3311.90

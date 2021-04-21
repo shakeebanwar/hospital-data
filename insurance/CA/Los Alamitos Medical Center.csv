@@ -1,0 +1,1341 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State,plan_name,price
+Los Alamitos Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$29,420.31",CA,Anthem ppo,2745.90
+Los Alamitos Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$29,420.31",CA,Anthem hmo,2745.90
+Los Alamitos Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$29,420.31",CA,Anthem epo,2745.90
+Los Alamitos Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$29,420.31",CA,CalOptima hmo,1765.22
+Los Alamitos Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$29,420.31",CA,CalOptima pos,1765.22
+Los Alamitos Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$29,420.31",CA,CalOptima ppo,1765.22
+Los Alamitos Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$29,420.31",CA,Kaiser hmo,2556.71
+Los Alamitos Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$29,420.31",CA,Kaiser pos,2556.71
+Los Alamitos Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$29,420.31",CA,Kaiser epo,2556.71
+Los Alamitos Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$29,420.31",CA,Kaiser ppo,2556.71
+Los Alamitos Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$27,119.38",CA,Anthem ppo,2531.14
+Los Alamitos Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$27,119.38",CA,Anthem hmo,2531.14
+Los Alamitos Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$27,119.38",CA,Anthem epo,2531.14
+Los Alamitos Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$27,119.38",CA,CalOptima hmo,1627.16
+Los Alamitos Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$27,119.38",CA,CalOptima pos,1627.16
+Los Alamitos Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$27,119.38",CA,CalOptima ppo,1627.16
+Los Alamitos Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$27,119.38",CA,Kaiser hmo,2783.90
+Los Alamitos Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$27,119.38",CA,Kaiser pos,2783.90
+Los Alamitos Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$27,119.38",CA,Kaiser epo,2783.90
+Los Alamitos Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$27,119.38",CA,Kaiser ppo,2783.90
+Los Alamitos Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,"$1,548.50",CA,Anthem ppo,144.53
+Los Alamitos Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,"$1,548.50",CA,Anthem hmo,144.53
+Los Alamitos Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,"$1,548.50",CA,Anthem epo,144.53
+Los Alamitos Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,"$1,548.50",CA,CalOptima hmo,92.91
+Los Alamitos Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,"$1,548.50",CA,CalOptima pos,92.91
+Los Alamitos Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,"$1,548.50",CA,CalOptima ppo,92.91
+Los Alamitos Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,"$1,548.50",CA,Kaiser hmo,206.47
+Los Alamitos Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,"$1,548.50",CA,Kaiser pos,206.47
+Los Alamitos Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,"$1,548.50",CA,Kaiser epo,206.47
+Los Alamitos Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,"$1,548.50",CA,Kaiser ppo,206.47
+Los Alamitos Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,092.81",CA,Anthem ppo,288.66
+Los Alamitos Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,092.81",CA,Anthem hmo,288.66
+Los Alamitos Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,092.81",CA,Anthem epo,288.66
+Los Alamitos Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,092.81",CA,CalOptima hmo,185.57
+Los Alamitos Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,092.81",CA,CalOptima pos,185.57
+Los Alamitos Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,092.81",CA,CalOptima ppo,185.57
+Los Alamitos Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,092.81",CA,Kaiser hmo,412.38
+Los Alamitos Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,092.81",CA,Kaiser pos,412.38
+Los Alamitos Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,092.81",CA,Kaiser epo,412.38
+Los Alamitos Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,092.81",CA,Kaiser ppo,412.38
+Los Alamitos Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$7,390.95",CA,Anthem ppo,689.82
+Los Alamitos Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$7,390.95",CA,Anthem hmo,689.82
+Los Alamitos Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$7,390.95",CA,Anthem epo,689.82
+Los Alamitos Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$7,390.95",CA,CalOptima hmo,443.46
+Los Alamitos Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$7,390.95",CA,CalOptima pos,443.46
+Los Alamitos Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$7,390.95",CA,CalOptima ppo,443.46
+Los Alamitos Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$7,390.95",CA,Kaiser hmo,985.46
+Los Alamitos Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$7,390.95",CA,Kaiser pos,985.46
+Los Alamitos Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$7,390.95",CA,Kaiser epo,985.46
+Los Alamitos Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$7,390.95",CA,Kaiser ppo,985.46
+Los Alamitos Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$8,154.72",CA,Anthem ppo,761.11
+Los Alamitos Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$8,154.72",CA,Anthem hmo,761.11
+Los Alamitos Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$8,154.72",CA,Anthem epo,761.11
+Los Alamitos Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$8,154.72",CA,CalOptima hmo,489.28
+Los Alamitos Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$8,154.72",CA,CalOptima pos,489.28
+Los Alamitos Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$8,154.72",CA,CalOptima ppo,489.28
+Los Alamitos Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$8,154.72",CA,Kaiser hmo,1087.30
+Los Alamitos Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$8,154.72",CA,Kaiser pos,1087.30
+Los Alamitos Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$8,154.72",CA,Kaiser epo,1087.30
+Los Alamitos Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$8,154.72",CA,Kaiser ppo,1087.30
+Los Alamitos Medical Center,Hospital,HCPCS 99218,Hospital Observation per Hour,"$315,624.08",CA,Anthem ppo,29458.25
+Los Alamitos Medical Center,Hospital,HCPCS 99218,Hospital Observation per Hour,"$315,624.08",CA,Anthem hmo,29458.25
+Los Alamitos Medical Center,Hospital,HCPCS 99218,Hospital Observation per Hour,"$315,624.08",CA,Anthem epo,29458.25
+Los Alamitos Medical Center,Hospital,HCPCS 99218,Hospital Observation per Hour,"$315,624.08",CA,CalOptima hmo,18937.44
+Los Alamitos Medical Center,Hospital,HCPCS 99218,Hospital Observation per Hour,"$315,624.08",CA,CalOptima pos,18937.44
+Los Alamitos Medical Center,Hospital,HCPCS 99218,Hospital Observation per Hour,"$315,624.08",CA,CalOptima ppo,18937.44
+Los Alamitos Medical Center,Hospital,HCPCS 99218,Hospital Observation per Hour,"$315,624.08",CA,Kaiser hmo,42083.21
+Los Alamitos Medical Center,Hospital,HCPCS 99218,Hospital Observation per Hour,"$315,624.08",CA,Kaiser pos,42083.21
+Los Alamitos Medical Center,Hospital,HCPCS 99218,Hospital Observation per Hour,"$315,624.08",CA,Kaiser epo,42083.21
+Los Alamitos Medical Center,Hospital,HCPCS 99218,Hospital Observation per Hour,"$315,624.08",CA,Kaiser ppo,42083.21
+Los Alamitos Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min","$1,081.27",CA,Anthem ppo,100.92
+Los Alamitos Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min","$1,081.27",CA,Anthem hmo,100.92
+Los Alamitos Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min","$1,081.27",CA,Anthem epo,100.92
+Los Alamitos Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min","$1,081.27",CA,CalOptima hmo,64.88
+Los Alamitos Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min","$1,081.27",CA,CalOptima pos,64.88
+Los Alamitos Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min","$1,081.27",CA,CalOptima ppo,64.88
+Los Alamitos Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min","$1,081.27",CA,Kaiser hmo,144.17
+Los Alamitos Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min","$1,081.27",CA,Kaiser pos,144.17
+Los Alamitos Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min","$1,081.27",CA,Kaiser epo,144.17
+Los Alamitos Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min","$1,081.27",CA,Kaiser ppo,144.17
+Los Alamitos Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$426.13,CA,Anthem ppo,39.77
+Los Alamitos Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$426.13,CA,Anthem hmo,39.77
+Los Alamitos Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$426.13,CA,Anthem epo,39.77
+Los Alamitos Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$426.13,CA,CalOptima hmo,25.57
+Los Alamitos Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$426.13,CA,CalOptima pos,25.57
+Los Alamitos Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$426.13,CA,CalOptima ppo,25.57
+Los Alamitos Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$426.13,CA,Kaiser hmo,56.82
+Los Alamitos Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$426.13,CA,Kaiser pos,56.82
+Los Alamitos Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$426.13,CA,Kaiser epo,56.82
+Los Alamitos Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$426.13,CA,Kaiser ppo,56.82
+Los Alamitos Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min","$2,361.52",CA,Anthem ppo,220.41
+Los Alamitos Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min","$2,361.52",CA,Anthem hmo,220.41
+Los Alamitos Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min","$2,361.52",CA,Anthem epo,220.41
+Los Alamitos Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min","$2,361.52",CA,CalOptima hmo,141.69
+Los Alamitos Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min","$2,361.52",CA,CalOptima pos,141.69
+Los Alamitos Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min","$2,361.52",CA,CalOptima ppo,141.69
+Los Alamitos Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min","$2,361.52",CA,Kaiser hmo,314.87
+Los Alamitos Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min","$2,361.52",CA,Kaiser pos,314.87
+Los Alamitos Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min","$2,361.52",CA,Kaiser epo,314.87
+Los Alamitos Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min","$2,361.52",CA,Kaiser ppo,314.87
+Los Alamitos Medical Center,Speech,HCPCS 92507,Speech Therapy,"$4,159.13",CA,Anthem ppo,388.19
+Los Alamitos Medical Center,Speech,HCPCS 92507,Speech Therapy,"$4,159.13",CA,Anthem hmo,388.19
+Los Alamitos Medical Center,Speech,HCPCS 92507,Speech Therapy,"$4,159.13",CA,Anthem epo,388.19
+Los Alamitos Medical Center,Speech,HCPCS 92507,Speech Therapy,"$4,159.13",CA,CalOptima hmo,249.55
+Los Alamitos Medical Center,Speech,HCPCS 92507,Speech Therapy,"$4,159.13",CA,CalOptima pos,249.55
+Los Alamitos Medical Center,Speech,HCPCS 92507,Speech Therapy,"$4,159.13",CA,CalOptima ppo,249.55
+Los Alamitos Medical Center,Speech,HCPCS 92507,Speech Therapy,"$4,159.13",CA,Kaiser hmo,554.55
+Los Alamitos Medical Center,Speech,HCPCS 92507,Speech Therapy,"$4,159.13",CA,Kaiser pos,554.55
+Los Alamitos Medical Center,Speech,HCPCS 92507,Speech Therapy,"$4,159.13",CA,Kaiser epo,554.55
+Los Alamitos Medical Center,Speech,HCPCS 92507,Speech Therapy,"$4,159.13",CA,Kaiser ppo,554.55
+Los Alamitos Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$44,003.82",CA,Anthem ppo,4107.02
+Los Alamitos Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$44,003.82",CA,Anthem hmo,4107.02
+Los Alamitos Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$44,003.82",CA,Anthem epo,4107.02
+Los Alamitos Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$44,003.82",CA,CalOptima hmo,2640.23
+Los Alamitos Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$44,003.82",CA,CalOptima pos,2640.23
+Los Alamitos Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$44,003.82",CA,CalOptima ppo,2640.23
+Los Alamitos Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$44,003.82",CA,Kaiser hmo,5867.18
+Los Alamitos Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$44,003.82",CA,Kaiser pos,5867.18
+Los Alamitos Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$44,003.82",CA,Kaiser epo,5867.18
+Los Alamitos Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$44,003.82",CA,Kaiser ppo,5867.18
+Los Alamitos Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$77.37,CA,Anthem ppo,7.22
+Los Alamitos Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$77.37,CA,Anthem hmo,7.22
+Los Alamitos Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$77.37,CA,Anthem epo,7.22
+Los Alamitos Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$77.37,CA,CalOptima hmo,1.03
+Los Alamitos Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$77.37,CA,CalOptima pos,1.03
+Los Alamitos Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$77.37,CA,CalOptima ppo,1.03
+Los Alamitos Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$77.37,CA,Kaiser hmo,28.88
+Los Alamitos Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$77.37,CA,Kaiser pos,28.88
+Los Alamitos Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$77.37,CA,Kaiser epo,28.88
+Los Alamitos Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$77.37,CA,Kaiser ppo,28.88
+Los Alamitos Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$126.69,CA,Anthem ppo,11.82
+Los Alamitos Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$126.69,CA,Anthem hmo,11.82
+Los Alamitos Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$126.69,CA,Anthem epo,11.82
+Los Alamitos Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$126.69,CA,CalOptima hmo,1.69
+Los Alamitos Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$126.69,CA,CalOptima pos,1.69
+Los Alamitos Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$126.69,CA,CalOptima ppo,1.69
+Los Alamitos Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$126.69,CA,Kaiser hmo,47.30
+Los Alamitos Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$126.69,CA,Kaiser pos,47.30
+Los Alamitos Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$126.69,CA,Kaiser epo,47.30
+Los Alamitos Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$126.69,CA,Kaiser ppo,47.30
+Los Alamitos Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$257.25,CA,Anthem ppo,24.01
+Los Alamitos Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$257.25,CA,Anthem hmo,24.01
+Los Alamitos Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$257.25,CA,Anthem epo,24.01
+Los Alamitos Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$257.25,CA,CalOptima hmo,3.43
+Los Alamitos Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$257.25,CA,CalOptima pos,3.43
+Los Alamitos Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$257.25,CA,CalOptima ppo,3.43
+Los Alamitos Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$257.25,CA,Kaiser hmo,96.04
+Los Alamitos Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$257.25,CA,Kaiser pos,96.04
+Los Alamitos Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$257.25,CA,Kaiser epo,96.04
+Los Alamitos Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$257.25,CA,Kaiser ppo,96.04
+Los Alamitos Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$263.06,CA,Anthem ppo,24.55
+Los Alamitos Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$263.06,CA,Anthem hmo,24.55
+Los Alamitos Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$263.06,CA,Anthem epo,24.55
+Los Alamitos Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$263.06,CA,CalOptima hmo,3.51
+Los Alamitos Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$263.06,CA,CalOptima pos,3.51
+Los Alamitos Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$263.06,CA,CalOptima ppo,3.51
+Los Alamitos Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$263.06,CA,Kaiser hmo,98.21
+Los Alamitos Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$263.06,CA,Kaiser pos,98.21
+Los Alamitos Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$263.06,CA,Kaiser epo,98.21
+Los Alamitos Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$263.06,CA,Kaiser ppo,98.21
+Los Alamitos Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$456.13,CA,Anthem ppo,42.57
+Los Alamitos Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$456.13,CA,Anthem hmo,42.57
+Los Alamitos Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$456.13,CA,Anthem epo,42.57
+Los Alamitos Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$456.13,CA,CalOptima hmo,6.08
+Los Alamitos Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$456.13,CA,CalOptima pos,6.08
+Los Alamitos Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$456.13,CA,CalOptima ppo,6.08
+Los Alamitos Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$456.13,CA,Kaiser hmo,7.80
+Los Alamitos Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$456.13,CA,Kaiser pos,7.80
+Los Alamitos Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$456.13,CA,Kaiser epo,7.80
+Los Alamitos Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$456.13,CA,Kaiser ppo,7.80
+Los Alamitos Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$372.01,CA,Anthem ppo,34.72
+Los Alamitos Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$372.01,CA,Anthem hmo,34.72
+Los Alamitos Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$372.01,CA,Anthem epo,34.72
+Los Alamitos Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$372.01,CA,CalOptima hmo,4.96
+Los Alamitos Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$372.01,CA,CalOptima pos,4.96
+Los Alamitos Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$372.01,CA,CalOptima ppo,4.96
+Los Alamitos Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$372.01,CA,Kaiser hmo,138.88
+Los Alamitos Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$372.01,CA,Kaiser pos,138.88
+Los Alamitos Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$372.01,CA,Kaiser epo,138.88
+Los Alamitos Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$372.01,CA,Kaiser ppo,138.88
+Los Alamitos Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$168.18,CA,Anthem ppo,15.70
+Los Alamitos Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$168.18,CA,Anthem hmo,15.70
+Los Alamitos Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$168.18,CA,Anthem epo,15.70
+Los Alamitos Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$168.18,CA,CalOptima hmo,2.24
+Los Alamitos Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$168.18,CA,CalOptima pos,2.24
+Los Alamitos Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$168.18,CA,CalOptima ppo,2.24
+Los Alamitos Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$168.18,CA,Kaiser hmo,62.79
+Los Alamitos Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$168.18,CA,Kaiser pos,62.79
+Los Alamitos Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$168.18,CA,Kaiser epo,62.79
+Los Alamitos Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$168.18,CA,Kaiser ppo,62.79
+Los Alamitos Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$5,813.69",CA,Anthem ppo,542.61
+Los Alamitos Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$5,813.69",CA,Anthem hmo,542.61
+Los Alamitos Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$5,813.69",CA,Anthem epo,542.61
+Los Alamitos Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$5,813.69",CA,CalOptima hmo,348.82
+Los Alamitos Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$5,813.69",CA,CalOptima pos,348.82
+Los Alamitos Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$5,813.69",CA,CalOptima ppo,348.82
+Los Alamitos Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$5,813.69",CA,Kaiser hmo,775.16
+Los Alamitos Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$5,813.69",CA,Kaiser pos,775.16
+Los Alamitos Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$5,813.69",CA,Kaiser epo,775.16
+Los Alamitos Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$5,813.69",CA,Kaiser ppo,775.16
+Los Alamitos Medical Center,Chemistry,HCPCS 82140,Ammonia level,$302.03,CA,Anthem ppo,28.19
+Los Alamitos Medical Center,Chemistry,HCPCS 82140,Ammonia level,$302.03,CA,Anthem hmo,28.19
+Los Alamitos Medical Center,Chemistry,HCPCS 82140,Ammonia level,$302.03,CA,Anthem epo,28.19
+Los Alamitos Medical Center,Chemistry,HCPCS 82140,Ammonia level,$302.03,CA,CalOptima hmo,4.03
+Los Alamitos Medical Center,Chemistry,HCPCS 82140,Ammonia level,$302.03,CA,CalOptima pos,4.03
+Los Alamitos Medical Center,Chemistry,HCPCS 82140,Ammonia level,$302.03,CA,CalOptima ppo,4.03
+Los Alamitos Medical Center,Chemistry,HCPCS 82140,Ammonia level,$302.03,CA,Kaiser hmo,112.76
+Los Alamitos Medical Center,Chemistry,HCPCS 82140,Ammonia level,$302.03,CA,Kaiser pos,112.76
+Los Alamitos Medical Center,Chemistry,HCPCS 82140,Ammonia level,$302.03,CA,Kaiser epo,112.76
+Los Alamitos Medical Center,Chemistry,HCPCS 82140,Ammonia level,$302.03,CA,Kaiser ppo,112.76
+Los Alamitos Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$319.19,CA,Anthem ppo,29.79
+Los Alamitos Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$319.19,CA,Anthem hmo,29.79
+Los Alamitos Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$319.19,CA,Anthem epo,29.79
+Los Alamitos Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$319.19,CA,CalOptima hmo,4.26
+Los Alamitos Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$319.19,CA,CalOptima pos,4.26
+Los Alamitos Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$319.19,CA,CalOptima ppo,4.26
+Los Alamitos Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$319.19,CA,Kaiser hmo,119.17
+Los Alamitos Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$319.19,CA,Kaiser pos,119.17
+Los Alamitos Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$319.19,CA,Kaiser epo,119.17
+Los Alamitos Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$319.19,CA,Kaiser ppo,119.17
+Los Alamitos Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$114.88,CA,Anthem ppo,10.72
+Los Alamitos Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$114.88,CA,Anthem hmo,10.72
+Los Alamitos Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$114.88,CA,Anthem epo,10.72
+Los Alamitos Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$114.88,CA,CalOptima hmo,1.53
+Los Alamitos Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$114.88,CA,CalOptima pos,1.53
+Los Alamitos Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$114.88,CA,CalOptima ppo,1.53
+Los Alamitos Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$114.88,CA,Kaiser hmo,42.89
+Los Alamitos Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$114.88,CA,Kaiser pos,42.89
+Los Alamitos Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$114.88,CA,Kaiser epo,42.89
+Los Alamitos Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$114.88,CA,Kaiser ppo,42.89
+Los Alamitos Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$262.82,CA,Anthem ppo,24.53
+Los Alamitos Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$262.82,CA,Anthem hmo,24.53
+Los Alamitos Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$262.82,CA,Anthem epo,24.53
+Los Alamitos Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$262.82,CA,CalOptima hmo,3.50
+Los Alamitos Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$262.82,CA,CalOptima pos,3.50
+Los Alamitos Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$262.82,CA,CalOptima ppo,3.50
+Los Alamitos Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$262.82,CA,Kaiser hmo,98.12
+Los Alamitos Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$262.82,CA,Kaiser pos,98.12
+Los Alamitos Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$262.82,CA,Kaiser epo,98.12
+Los Alamitos Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$262.82,CA,Kaiser ppo,98.12
+Los Alamitos Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$292.03,CA,Anthem ppo,27.26
+Los Alamitos Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$292.03,CA,Anthem hmo,27.26
+Los Alamitos Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$292.03,CA,Anthem epo,27.26
+Los Alamitos Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$292.03,CA,CalOptima hmo,3.89
+Los Alamitos Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$292.03,CA,CalOptima pos,3.89
+Los Alamitos Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$292.03,CA,CalOptima ppo,3.89
+Los Alamitos Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$292.03,CA,Kaiser hmo,109.02
+Los Alamitos Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$292.03,CA,Kaiser pos,109.02
+Los Alamitos Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$292.03,CA,Kaiser epo,109.02
+Los Alamitos Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$292.03,CA,Kaiser ppo,109.02
+Los Alamitos Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$247.70,CA,Anthem ppo,23.12
+Los Alamitos Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$247.70,CA,Anthem hmo,23.12
+Los Alamitos Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$247.70,CA,Anthem epo,23.12
+Los Alamitos Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$247.70,CA,CalOptima hmo,3.30
+Los Alamitos Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$247.70,CA,CalOptima pos,3.30
+Los Alamitos Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$247.70,CA,CalOptima ppo,3.30
+Los Alamitos Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$247.70,CA,Kaiser hmo,92.48
+Los Alamitos Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$247.70,CA,Kaiser pos,92.48
+Los Alamitos Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$247.70,CA,Kaiser epo,92.48
+Los Alamitos Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$247.70,CA,Kaiser ppo,92.48
+Los Alamitos Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$461.38,CA,Anthem ppo,43.06
+Los Alamitos Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$461.38,CA,Anthem hmo,43.06
+Los Alamitos Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$461.38,CA,Anthem epo,43.06
+Los Alamitos Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$461.38,CA,CalOptima hmo,6.15
+Los Alamitos Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$461.38,CA,CalOptima pos,6.15
+Los Alamitos Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$461.38,CA,CalOptima ppo,6.15
+Los Alamitos Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$461.38,CA,Kaiser hmo,172.25
+Los Alamitos Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$461.38,CA,Kaiser pos,172.25
+Los Alamitos Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$461.38,CA,Kaiser epo,172.25
+Los Alamitos Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$461.38,CA,Kaiser ppo,172.25
+Los Alamitos Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$256.27,CA,Anthem ppo,23.92
+Los Alamitos Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$256.27,CA,Anthem hmo,23.92
+Los Alamitos Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$256.27,CA,Anthem epo,23.92
+Los Alamitos Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$256.27,CA,CalOptima hmo,3.42
+Los Alamitos Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$256.27,CA,CalOptima pos,3.42
+Los Alamitos Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$256.27,CA,CalOptima ppo,3.42
+Los Alamitos Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$256.27,CA,Kaiser hmo,95.67
+Los Alamitos Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$256.27,CA,Kaiser pos,95.67
+Los Alamitos Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$256.27,CA,Kaiser epo,95.67
+Los Alamitos Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$256.27,CA,Kaiser ppo,95.67
+Los Alamitos Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$273.52,CA,Anthem ppo,25.53
+Los Alamitos Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$273.52,CA,Anthem hmo,25.53
+Los Alamitos Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$273.52,CA,Anthem epo,25.53
+Los Alamitos Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$273.52,CA,CalOptima hmo,3.65
+Los Alamitos Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$273.52,CA,CalOptima pos,3.65
+Los Alamitos Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$273.52,CA,CalOptima ppo,3.65
+Los Alamitos Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$273.52,CA,Kaiser hmo,102.11
+Los Alamitos Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$273.52,CA,Kaiser pos,102.11
+Los Alamitos Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$273.52,CA,Kaiser epo,102.11
+Los Alamitos Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$273.52,CA,Kaiser ppo,102.11
+Los Alamitos Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$356.01,CA,Anthem ppo,33.23
+Los Alamitos Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$356.01,CA,Anthem hmo,33.23
+Los Alamitos Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$356.01,CA,Anthem epo,33.23
+Los Alamitos Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$356.01,CA,CalOptima hmo,4.75
+Los Alamitos Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$356.01,CA,CalOptima pos,4.75
+Los Alamitos Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$356.01,CA,CalOptima ppo,4.75
+Los Alamitos Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$356.01,CA,Kaiser hmo,132.91
+Los Alamitos Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$356.01,CA,Kaiser pos,132.91
+Los Alamitos Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$356.01,CA,Kaiser epo,132.91
+Los Alamitos Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$356.01,CA,Kaiser ppo,132.91
+Los Alamitos Medical Center,Chemistry,HCPCS 83540,Iron level,$247.07,CA,Anthem ppo,23.06
+Los Alamitos Medical Center,Chemistry,HCPCS 83540,Iron level,$247.07,CA,Anthem hmo,23.06
+Los Alamitos Medical Center,Chemistry,HCPCS 83540,Iron level,$247.07,CA,Anthem epo,23.06
+Los Alamitos Medical Center,Chemistry,HCPCS 83540,Iron level,$247.07,CA,CalOptima hmo,3.29
+Los Alamitos Medical Center,Chemistry,HCPCS 83540,Iron level,$247.07,CA,CalOptima pos,3.29
+Los Alamitos Medical Center,Chemistry,HCPCS 83540,Iron level,$247.07,CA,CalOptima ppo,3.29
+Los Alamitos Medical Center,Chemistry,HCPCS 83540,Iron level,$247.07,CA,Kaiser hmo,92.24
+Los Alamitos Medical Center,Chemistry,HCPCS 83540,Iron level,$247.07,CA,Kaiser pos,92.24
+Los Alamitos Medical Center,Chemistry,HCPCS 83540,Iron level,$247.07,CA,Kaiser epo,92.24
+Los Alamitos Medical Center,Chemistry,HCPCS 83540,Iron level,$247.07,CA,Kaiser ppo,92.24
+Los Alamitos Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$82.22,CA,Anthem ppo,7.67
+Los Alamitos Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$82.22,CA,Anthem hmo,7.67
+Los Alamitos Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$82.22,CA,Anthem epo,7.67
+Los Alamitos Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$82.22,CA,CalOptima hmo,1.10
+Los Alamitos Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$82.22,CA,CalOptima pos,1.10
+Los Alamitos Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$82.22,CA,CalOptima ppo,1.10
+Los Alamitos Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$82.22,CA,Kaiser hmo,30.70
+Los Alamitos Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$82.22,CA,Kaiser pos,30.70
+Los Alamitos Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$82.22,CA,Kaiser epo,30.70
+Los Alamitos Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$82.22,CA,Kaiser ppo,30.70
+Los Alamitos Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$374.38,CA,Anthem ppo,34.94
+Los Alamitos Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$374.38,CA,Anthem hmo,34.94
+Los Alamitos Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$374.38,CA,Anthem epo,34.94
+Los Alamitos Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$374.38,CA,CalOptima hmo,4.99
+Los Alamitos Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$374.38,CA,CalOptima pos,4.99
+Los Alamitos Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$374.38,CA,CalOptima ppo,4.99
+Los Alamitos Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$374.38,CA,Kaiser hmo,22.77
+Los Alamitos Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$374.38,CA,Kaiser pos,22.77
+Los Alamitos Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$374.38,CA,Kaiser epo,22.77
+Los Alamitos Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$374.38,CA,Kaiser ppo,22.77
+Los Alamitos Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$292.25,CA,Anthem ppo,27.28
+Los Alamitos Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$292.25,CA,Anthem hmo,27.28
+Los Alamitos Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$292.25,CA,Anthem epo,27.28
+Los Alamitos Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$292.25,CA,CalOptima hmo,3.90
+Los Alamitos Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$292.25,CA,CalOptima pos,3.90
+Los Alamitos Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$292.25,CA,CalOptima ppo,3.90
+Los Alamitos Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$292.25,CA,Kaiser hmo,109.10
+Los Alamitos Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$292.25,CA,Kaiser pos,109.10
+Los Alamitos Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$292.25,CA,Kaiser epo,109.10
+Los Alamitos Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$292.25,CA,Kaiser ppo,109.10
+Los Alamitos Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$134.63,CA,Anthem ppo,12.57
+Los Alamitos Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$134.63,CA,Anthem hmo,12.57
+Los Alamitos Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$134.63,CA,Anthem epo,12.57
+Los Alamitos Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$134.63,CA,CalOptima hmo,1.80
+Los Alamitos Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$134.63,CA,CalOptima pos,1.80
+Los Alamitos Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$134.63,CA,CalOptima ppo,1.80
+Los Alamitos Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$134.63,CA,Kaiser hmo,50.26
+Los Alamitos Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$134.63,CA,Kaiser pos,50.26
+Los Alamitos Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$134.63,CA,Kaiser epo,50.26
+Los Alamitos Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$134.63,CA,Kaiser ppo,50.26
+Los Alamitos Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$243.02,CA,Anthem ppo,22.68
+Los Alamitos Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$243.02,CA,Anthem hmo,22.68
+Los Alamitos Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$243.02,CA,Anthem epo,22.68
+Los Alamitos Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$243.02,CA,CalOptima hmo,3.24
+Los Alamitos Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$243.02,CA,CalOptima pos,3.24
+Los Alamitos Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$243.02,CA,CalOptima ppo,3.24
+Los Alamitos Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$243.02,CA,Kaiser hmo,90.73
+Los Alamitos Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$243.02,CA,Kaiser pos,90.73
+Los Alamitos Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$243.02,CA,Kaiser epo,90.73
+Los Alamitos Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$243.02,CA,Kaiser ppo,90.73
+Los Alamitos Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$7.49,CA,Anthem ppo,0.70
+Los Alamitos Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$7.49,CA,Anthem hmo,0.70
+Los Alamitos Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$7.49,CA,Anthem epo,0.70
+Los Alamitos Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$7.49,CA,CalOptima hmo,0.10
+Los Alamitos Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$7.49,CA,CalOptima pos,0.10
+Los Alamitos Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$7.49,CA,CalOptima ppo,0.10
+Los Alamitos Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$7.49,CA,Kaiser hmo,2.80
+Los Alamitos Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$7.49,CA,Kaiser pos,2.80
+Los Alamitos Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$7.49,CA,Kaiser epo,2.80
+Los Alamitos Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$7.49,CA,Kaiser ppo,2.80
+Los Alamitos Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$2.39,CA,Anthem ppo,0.22
+Los Alamitos Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$2.39,CA,Anthem hmo,0.22
+Los Alamitos Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$2.39,CA,Anthem epo,0.22
+Los Alamitos Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$2.39,CA,CalOptima hmo,0.03
+Los Alamitos Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$2.39,CA,CalOptima pos,0.03
+Los Alamitos Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$2.39,CA,CalOptima ppo,0.03
+Los Alamitos Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$2.39,CA,Kaiser hmo,0.89
+Los Alamitos Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$2.39,CA,Kaiser pos,0.89
+Los Alamitos Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$2.39,CA,Kaiser epo,0.89
+Los Alamitos Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$2.39,CA,Kaiser ppo,0.89
+Los Alamitos Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$289.12,CA,Anthem ppo,26.98
+Los Alamitos Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$289.12,CA,Anthem hmo,26.98
+Los Alamitos Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$289.12,CA,Anthem epo,26.98
+Los Alamitos Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$289.12,CA,CalOptima hmo,3.85
+Los Alamitos Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$289.12,CA,CalOptima pos,3.85
+Los Alamitos Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$289.12,CA,CalOptima ppo,3.85
+Los Alamitos Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$289.12,CA,Kaiser hmo,107.94
+Los Alamitos Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$289.12,CA,Kaiser pos,107.94
+Los Alamitos Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$289.12,CA,Kaiser epo,107.94
+Los Alamitos Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$289.12,CA,Kaiser ppo,107.94
+Los Alamitos Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$433.42,CA,Anthem ppo,40.45
+Los Alamitos Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$433.42,CA,Anthem hmo,40.45
+Los Alamitos Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$433.42,CA,Anthem epo,40.45
+Los Alamitos Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$433.42,CA,CalOptima hmo,5.78
+Los Alamitos Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$433.42,CA,CalOptima pos,5.78
+Los Alamitos Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$433.42,CA,CalOptima ppo,5.78
+Los Alamitos Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$433.42,CA,Kaiser hmo,161.81
+Los Alamitos Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$433.42,CA,Kaiser pos,161.81
+Los Alamitos Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$433.42,CA,Kaiser epo,161.81
+Los Alamitos Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$433.42,CA,Kaiser ppo,161.81
+Los Alamitos Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$353.79,CA,Anthem ppo,33.02
+Los Alamitos Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$353.79,CA,Anthem hmo,33.02
+Los Alamitos Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$353.79,CA,Anthem epo,33.02
+Los Alamitos Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$353.79,CA,CalOptima hmo,4.72
+Los Alamitos Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$353.79,CA,CalOptima pos,4.72
+Los Alamitos Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$353.79,CA,CalOptima ppo,4.72
+Los Alamitos Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$353.79,CA,Kaiser hmo,132.08
+Los Alamitos Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$353.79,CA,Kaiser pos,132.08
+Los Alamitos Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$353.79,CA,Kaiser epo,132.08
+Los Alamitos Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$353.79,CA,Kaiser ppo,132.08
+Los Alamitos Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$269.20,CA,Anthem ppo,25.13
+Los Alamitos Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$269.20,CA,Anthem hmo,25.13
+Los Alamitos Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$269.20,CA,Anthem epo,25.13
+Los Alamitos Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$269.20,CA,CalOptima hmo,3.59
+Los Alamitos Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$269.20,CA,CalOptima pos,3.59
+Los Alamitos Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$269.20,CA,CalOptima ppo,3.59
+Los Alamitos Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$269.20,CA,Kaiser hmo,100.50
+Los Alamitos Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$269.20,CA,Kaiser pos,100.50
+Los Alamitos Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$269.20,CA,Kaiser epo,100.50
+Los Alamitos Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$269.20,CA,Kaiser ppo,100.50
+Los Alamitos Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$269.55,CA,Anthem ppo,25.16
+Los Alamitos Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$269.55,CA,Anthem hmo,25.16
+Los Alamitos Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$269.55,CA,Anthem epo,25.16
+Los Alamitos Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$269.55,CA,CalOptima hmo,3.59
+Los Alamitos Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$269.55,CA,CalOptima pos,3.59
+Los Alamitos Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$269.55,CA,CalOptima ppo,3.59
+Los Alamitos Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$269.55,CA,Kaiser hmo,100.63
+Los Alamitos Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$269.55,CA,Kaiser pos,100.63
+Los Alamitos Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$269.55,CA,Kaiser epo,100.63
+Los Alamitos Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$269.55,CA,Kaiser ppo,100.63
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$856.22,CA,Anthem ppo,79.91
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$856.22,CA,Anthem hmo,79.91
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$856.22,CA,Anthem epo,79.91
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$856.22,CA,CalOptima hmo,11.42
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$856.22,CA,CalOptima pos,11.42
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$856.22,CA,CalOptima ppo,11.42
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$856.22,CA,Kaiser hmo,30.54
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$856.22,CA,Kaiser pos,30.54
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$856.22,CA,Kaiser epo,30.54
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$856.22,CA,Kaiser ppo,30.54
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals","$1,211.59",CA,Anthem ppo,113.08
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals","$1,211.59",CA,Anthem hmo,113.08
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals","$1,211.59",CA,Anthem epo,113.08
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals","$1,211.59",CA,CalOptima hmo,16.15
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals","$1,211.59",CA,CalOptima pos,16.15
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals","$1,211.59",CA,CalOptima ppo,16.15
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals","$1,211.59",CA,Kaiser hmo,42.09
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals","$1,211.59",CA,Kaiser pos,42.09
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals","$1,211.59",CA,Kaiser epo,42.09
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals","$1,211.59",CA,Kaiser ppo,42.09
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$601.64,CA,Anthem ppo,56.15
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$601.64,CA,Anthem hmo,56.15
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$601.64,CA,Anthem epo,56.15
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$601.64,CA,CalOptima hmo,8.02
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$601.64,CA,CalOptima pos,8.02
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$601.64,CA,CalOptima ppo,8.02
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$601.64,CA,Kaiser hmo,224.61
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$601.64,CA,Kaiser pos,224.61
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$601.64,CA,Kaiser epo,224.61
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$601.64,CA,Kaiser ppo,224.61
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$575.97,CA,Anthem ppo,53.76
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$575.97,CA,Anthem hmo,53.76
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$575.97,CA,Anthem epo,53.76
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$575.97,CA,CalOptima hmo,7.68
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$575.97,CA,CalOptima pos,7.68
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$575.97,CA,CalOptima ppo,7.68
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$575.97,CA,Kaiser hmo,215.03
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$575.97,CA,Kaiser pos,215.03
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$575.97,CA,Kaiser epo,215.03
+Los Alamitos Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$575.97,CA,Kaiser ppo,215.03
+Los Alamitos Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$312.80,CA,Anthem ppo,29.19
+Los Alamitos Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$312.80,CA,Anthem hmo,29.19
+Los Alamitos Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$312.80,CA,Anthem epo,29.19
+Los Alamitos Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$312.80,CA,CalOptima hmo,4.17
+Los Alamitos Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$312.80,CA,CalOptima pos,4.17
+Los Alamitos Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$312.80,CA,CalOptima ppo,4.17
+Los Alamitos Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$312.80,CA,Kaiser hmo,116.78
+Los Alamitos Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$312.80,CA,Kaiser pos,116.78
+Los Alamitos Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$312.80,CA,Kaiser epo,116.78
+Los Alamitos Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$312.80,CA,Kaiser ppo,116.78
+Los Alamitos Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$994.20,CA,Anthem ppo,92.79
+Los Alamitos Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$994.20,CA,Anthem hmo,92.79
+Los Alamitos Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$994.20,CA,Anthem epo,92.79
+Los Alamitos Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$994.20,CA,CalOptima hmo,13.26
+Los Alamitos Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$994.20,CA,CalOptima pos,13.26
+Los Alamitos Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$994.20,CA,CalOptima ppo,13.26
+Los Alamitos Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$994.20,CA,Kaiser hmo,371.17
+Los Alamitos Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$994.20,CA,Kaiser pos,371.17
+Los Alamitos Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$994.20,CA,Kaiser epo,371.17
+Los Alamitos Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$994.20,CA,Kaiser ppo,371.17
+Los Alamitos Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$178.71,CA,Anthem ppo,16.68
+Los Alamitos Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$178.71,CA,Anthem hmo,16.68
+Los Alamitos Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$178.71,CA,Anthem epo,16.68
+Los Alamitos Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$178.71,CA,CalOptima hmo,2.38
+Los Alamitos Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$178.71,CA,CalOptima pos,2.38
+Los Alamitos Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$178.71,CA,CalOptima ppo,2.38
+Los Alamitos Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$178.71,CA,Kaiser hmo,66.72
+Los Alamitos Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$178.71,CA,Kaiser pos,66.72
+Los Alamitos Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$178.71,CA,Kaiser epo,66.72
+Los Alamitos Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$178.71,CA,Kaiser ppo,66.72
+Los Alamitos Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$151.96,CA,Anthem ppo,14.18
+Los Alamitos Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$151.96,CA,Anthem hmo,14.18
+Los Alamitos Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$151.96,CA,Anthem epo,14.18
+Los Alamitos Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$151.96,CA,CalOptima hmo,2.03
+Los Alamitos Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$151.96,CA,CalOptima pos,2.03
+Los Alamitos Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$151.96,CA,CalOptima ppo,2.03
+Los Alamitos Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$151.96,CA,Kaiser hmo,56.73
+Los Alamitos Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$151.96,CA,Kaiser pos,56.73
+Los Alamitos Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$151.96,CA,Kaiser epo,56.73
+Los Alamitos Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$151.96,CA,Kaiser ppo,56.73
+Los Alamitos Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$250.13,CA,Anthem ppo,23.35
+Los Alamitos Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$250.13,CA,Anthem hmo,23.35
+Los Alamitos Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$250.13,CA,Anthem epo,23.35
+Los Alamitos Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$250.13,CA,CalOptima hmo,3.34
+Los Alamitos Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$250.13,CA,CalOptima pos,3.34
+Los Alamitos Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$250.13,CA,CalOptima ppo,3.34
+Los Alamitos Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$250.13,CA,Kaiser hmo,93.38
+Los Alamitos Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$250.13,CA,Kaiser pos,93.38
+Los Alamitos Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$250.13,CA,Kaiser epo,93.38
+Los Alamitos Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$250.13,CA,Kaiser ppo,93.38
+Los Alamitos Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$274.74,CA,Anthem ppo,25.64
+Los Alamitos Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$274.74,CA,Anthem hmo,25.64
+Los Alamitos Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$274.74,CA,Anthem epo,25.64
+Los Alamitos Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$274.74,CA,CalOptima hmo,3.66
+Los Alamitos Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$274.74,CA,CalOptima pos,3.66
+Los Alamitos Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$274.74,CA,CalOptima ppo,3.66
+Los Alamitos Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$274.74,CA,Kaiser hmo,3.19
+Los Alamitos Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$274.74,CA,Kaiser pos,3.19
+Los Alamitos Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$274.74,CA,Kaiser epo,3.19
+Los Alamitos Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$274.74,CA,Kaiser ppo,3.19
+Los Alamitos Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$247.30,CA,Anthem ppo,23.08
+Los Alamitos Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$247.30,CA,Anthem hmo,23.08
+Los Alamitos Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$247.30,CA,Anthem epo,23.08
+Los Alamitos Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$247.30,CA,CalOptima hmo,3.30
+Los Alamitos Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$247.30,CA,CalOptima pos,3.30
+Los Alamitos Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$247.30,CA,CalOptima ppo,3.30
+Los Alamitos Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$247.30,CA,Kaiser hmo,7.37
+Los Alamitos Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$247.30,CA,Kaiser pos,7.37
+Los Alamitos Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$247.30,CA,Kaiser epo,7.37
+Los Alamitos Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$247.30,CA,Kaiser ppo,7.37
+Los Alamitos Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$16,633.98",CA,Anthem ppo,1552.50
+Los Alamitos Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$16,633.98",CA,Anthem hmo,1552.50
+Los Alamitos Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$16,633.98",CA,Anthem epo,1552.50
+Los Alamitos Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$16,633.98",CA,CalOptima hmo,1219.83
+Los Alamitos Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$16,633.98",CA,CalOptima pos,1219.83
+Los Alamitos Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$16,633.98",CA,CalOptima ppo,1219.83
+Los Alamitos Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$16,633.98",CA,Kaiser hmo,1108.93
+Los Alamitos Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$16,633.98",CA,Kaiser pos,1108.93
+Los Alamitos Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$16,633.98",CA,Kaiser epo,1108.93
+Los Alamitos Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$16,633.98",CA,Kaiser ppo,1108.93
+Los Alamitos Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$14,216.81",CA,Anthem ppo,1326.90
+Los Alamitos Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$14,216.81",CA,Anthem hmo,1326.90
+Los Alamitos Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$14,216.81",CA,Anthem epo,1326.90
+Los Alamitos Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$14,216.81",CA,CalOptima hmo,1042.57
+Los Alamitos Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$14,216.81",CA,CalOptima pos,1042.57
+Los Alamitos Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$14,216.81",CA,CalOptima ppo,1042.57
+Los Alamitos Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$14,216.81",CA,Kaiser hmo,1674.47
+Los Alamitos Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$14,216.81",CA,Kaiser pos,1674.47
+Los Alamitos Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$14,216.81",CA,Kaiser epo,1674.47
+Los Alamitos Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$14,216.81",CA,Kaiser ppo,1674.47
+Los Alamitos Medical Center,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,"$3,585.01",CA,Anthem ppo,334.60
+Los Alamitos Medical Center,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,"$3,585.01",CA,Anthem hmo,334.60
+Los Alamitos Medical Center,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,"$3,585.01",CA,Anthem epo,334.60
+Los Alamitos Medical Center,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,"$3,585.01",CA,CalOptima hmo,215.10
+Los Alamitos Medical Center,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,"$3,585.01",CA,CalOptima pos,215.10
+Los Alamitos Medical Center,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,"$3,585.01",CA,CalOptima ppo,215.10
+Los Alamitos Medical Center,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,"$3,585.01",CA,Kaiser hmo,478.00
+Los Alamitos Medical Center,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,"$3,585.01",CA,Kaiser pos,478.00
+Los Alamitos Medical Center,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,"$3,585.01",CA,Kaiser epo,478.00
+Los Alamitos Medical Center,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,"$3,585.01",CA,Kaiser ppo,478.00
+Los Alamitos Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$34,248.77",CA,Anthem ppo,3196.55
+Los Alamitos Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$34,248.77",CA,Anthem hmo,3196.55
+Los Alamitos Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$34,248.77",CA,Anthem epo,3196.55
+Los Alamitos Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$34,248.77",CA,CalOptima hmo,2054.93
+Los Alamitos Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$34,248.77",CA,CalOptima pos,2054.93
+Los Alamitos Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$34,248.77",CA,CalOptima ppo,2054.93
+Los Alamitos Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$34,248.77",CA,Kaiser hmo,4566.50
+Los Alamitos Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$34,248.77",CA,Kaiser pos,4566.50
+Los Alamitos Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$34,248.77",CA,Kaiser epo,4566.50
+Los Alamitos Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$34,248.77",CA,Kaiser ppo,4566.50
+Los Alamitos Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$120.04,CA,Anthem ppo,12.80
+Los Alamitos Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$120.04,CA,Anthem hmo,12.80
+Los Alamitos Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$120.04,CA,Anthem epo,12.80
+Los Alamitos Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$120.04,CA,CalOptima hmo,6.40
+Los Alamitos Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$120.04,CA,CalOptima pos,6.40
+Los Alamitos Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$120.04,CA,CalOptima ppo,6.40
+Los Alamitos Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$120.04,CA,Kaiser hmo,44.81
+Los Alamitos Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$120.04,CA,Kaiser pos,44.81
+Los Alamitos Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$120.04,CA,Kaiser epo,44.81
+Los Alamitos Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$120.04,CA,Kaiser ppo,44.81
+Los Alamitos Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$355.57,CA,Anthem ppo,37.93
+Los Alamitos Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$355.57,CA,Anthem hmo,37.93
+Los Alamitos Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$355.57,CA,Anthem epo,37.93
+Los Alamitos Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$355.57,CA,CalOptima hmo,18.96
+Los Alamitos Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$355.57,CA,CalOptima pos,18.96
+Los Alamitos Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$355.57,CA,CalOptima ppo,18.96
+Los Alamitos Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$355.57,CA,Kaiser hmo,132.75
+Los Alamitos Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$355.57,CA,Kaiser pos,132.75
+Los Alamitos Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$355.57,CA,Kaiser epo,132.75
+Los Alamitos Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$355.57,CA,Kaiser ppo,132.75
+Los Alamitos Medical Center,Breast,HCPCS 77067,Mammogram Screening,$426.86,CA,Anthem ppo,45.53
+Los Alamitos Medical Center,Breast,HCPCS 77067,Mammogram Screening,$426.86,CA,Anthem hmo,45.53
+Los Alamitos Medical Center,Breast,HCPCS 77067,Mammogram Screening,$426.86,CA,Anthem epo,45.53
+Los Alamitos Medical Center,Breast,HCPCS 77067,Mammogram Screening,$426.86,CA,CalOptima hmo,22.77
+Los Alamitos Medical Center,Breast,HCPCS 77067,Mammogram Screening,$426.86,CA,CalOptima pos,22.77
+Los Alamitos Medical Center,Breast,HCPCS 77067,Mammogram Screening,$426.86,CA,CalOptima ppo,22.77
+Los Alamitos Medical Center,Breast,HCPCS 77067,Mammogram Screening,$426.86,CA,Kaiser hmo,159.36
+Los Alamitos Medical Center,Breast,HCPCS 77067,Mammogram Screening,$426.86,CA,Kaiser pos,159.36
+Los Alamitos Medical Center,Breast,HCPCS 77067,Mammogram Screening,$426.86,CA,Kaiser epo,159.36
+Los Alamitos Medical Center,Breast,HCPCS 77067,Mammogram Screening,$426.86,CA,Kaiser ppo,159.36
+Los Alamitos Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$440.69,CA,Anthem ppo,47.01
+Los Alamitos Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$440.69,CA,Anthem hmo,47.01
+Los Alamitos Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$440.69,CA,Anthem epo,47.01
+Los Alamitos Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$440.69,CA,CalOptima hmo,23.50
+Los Alamitos Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$440.69,CA,CalOptima pos,23.50
+Los Alamitos Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$440.69,CA,CalOptima ppo,23.50
+Los Alamitos Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$440.69,CA,Kaiser hmo,164.53
+Los Alamitos Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$440.69,CA,Kaiser pos,164.53
+Los Alamitos Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$440.69,CA,Kaiser epo,164.53
+Los Alamitos Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$440.69,CA,Kaiser ppo,164.53
+Los Alamitos Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,553.04",CA,Anthem ppo,485.66
+Los Alamitos Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,553.04",CA,Anthem hmo,485.66
+Los Alamitos Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,553.04",CA,Anthem epo,485.66
+Los Alamitos Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,553.04",CA,CalOptima hmo,242.83
+Los Alamitos Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,553.04",CA,CalOptima pos,242.83
+Los Alamitos Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,553.04",CA,CalOptima ppo,242.83
+Los Alamitos Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,553.04",CA,Kaiser hmo,1699.80
+Los Alamitos Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,553.04",CA,Kaiser pos,1699.80
+Los Alamitos Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,553.04",CA,Kaiser epo,1699.80
+Los Alamitos Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,553.04",CA,Kaiser ppo,1699.80
+Los Alamitos Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,488.75",CA,Anthem ppo,372.13
+Los Alamitos Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,488.75",CA,Anthem hmo,372.13
+Los Alamitos Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,488.75",CA,Anthem epo,372.13
+Los Alamitos Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,488.75",CA,CalOptima hmo,186.07
+Los Alamitos Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,488.75",CA,CalOptima pos,186.07
+Los Alamitos Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,488.75",CA,CalOptima ppo,186.07
+Los Alamitos Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,488.75",CA,Kaiser hmo,295.94
+Los Alamitos Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,488.75",CA,Kaiser pos,295.94
+Los Alamitos Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,488.75",CA,Kaiser epo,295.94
+Los Alamitos Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,488.75",CA,Kaiser ppo,295.94
+Los Alamitos Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,314.31",CA,Anthem ppo,246.86
+Los Alamitos Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,314.31",CA,Anthem hmo,246.86
+Los Alamitos Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,314.31",CA,Anthem epo,246.86
+Los Alamitos Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,314.31",CA,CalOptima hmo,123.43
+Los Alamitos Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,314.31",CA,CalOptima pos,123.43
+Los Alamitos Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,314.31",CA,CalOptima ppo,123.43
+Los Alamitos Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,314.31",CA,Kaiser hmo,864.01
+Los Alamitos Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,314.31",CA,Kaiser pos,864.01
+Los Alamitos Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,314.31",CA,Kaiser epo,864.01
+Los Alamitos Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,314.31",CA,Kaiser ppo,864.01
+Los Alamitos Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$6,187.40",CA,Anthem ppo,659.99
+Los Alamitos Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$6,187.40",CA,Anthem hmo,659.99
+Los Alamitos Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$6,187.40",CA,Anthem epo,659.99
+Los Alamitos Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$6,187.40",CA,CalOptima hmo,329.99
+Los Alamitos Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$6,187.40",CA,CalOptima pos,329.99
+Los Alamitos Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$6,187.40",CA,CalOptima ppo,329.99
+Los Alamitos Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$6,187.40",CA,Kaiser hmo,2309.96
+Los Alamitos Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$6,187.40",CA,Kaiser pos,2309.96
+Los Alamitos Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$6,187.40",CA,Kaiser epo,2309.96
+Los Alamitos Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$6,187.40",CA,Kaiser ppo,2309.96
+Los Alamitos Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$6,081.73",CA,Anthem ppo,648.72
+Los Alamitos Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$6,081.73",CA,Anthem hmo,648.72
+Los Alamitos Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$6,081.73",CA,Anthem epo,648.72
+Los Alamitos Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$6,081.73",CA,CalOptima hmo,324.36
+Los Alamitos Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$6,081.73",CA,CalOptima pos,324.36
+Los Alamitos Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$6,081.73",CA,CalOptima ppo,324.36
+Los Alamitos Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$6,081.73",CA,Kaiser hmo,2270.51
+Los Alamitos Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$6,081.73",CA,Kaiser pos,2270.51
+Los Alamitos Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$6,081.73",CA,Kaiser epo,2270.51
+Los Alamitos Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$6,081.73",CA,Kaiser ppo,2270.51
+Los Alamitos Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,885.85",CA,Anthem ppo,627.82
+Los Alamitos Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,885.85",CA,Anthem hmo,627.82
+Los Alamitos Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,885.85",CA,Anthem epo,627.82
+Los Alamitos Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,885.85",CA,CalOptima hmo,313.91
+Los Alamitos Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,885.85",CA,CalOptima pos,313.91
+Los Alamitos Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,885.85",CA,CalOptima ppo,313.91
+Los Alamitos Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,885.85",CA,Kaiser hmo,2197.38
+Los Alamitos Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,885.85",CA,Kaiser pos,2197.38
+Los Alamitos Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,885.85",CA,Kaiser epo,2197.38
+Los Alamitos Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,885.85",CA,Kaiser ppo,2197.38
+Los Alamitos Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,065.26",CA,Anthem ppo,433.63
+Los Alamitos Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,065.26",CA,Anthem hmo,433.63
+Los Alamitos Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,065.26",CA,Anthem epo,433.63
+Los Alamitos Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,065.26",CA,CalOptima hmo,216.81
+Los Alamitos Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,065.26",CA,CalOptima pos,216.81
+Los Alamitos Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,065.26",CA,CalOptima ppo,216.81
+Los Alamitos Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,065.26",CA,Kaiser hmo,1517.70
+Los Alamitos Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,065.26",CA,Kaiser pos,1517.70
+Los Alamitos Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,065.26",CA,Kaiser epo,1517.70
+Los Alamitos Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$4,065.26",CA,Kaiser ppo,1517.70
+Los Alamitos Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$4,154.61",CA,Anthem ppo,443.16
+Los Alamitos Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$4,154.61",CA,Anthem hmo,443.16
+Los Alamitos Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$4,154.61",CA,Anthem epo,443.16
+Los Alamitos Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$4,154.61",CA,CalOptima hmo,221.58
+Los Alamitos Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$4,154.61",CA,CalOptima pos,221.58
+Los Alamitos Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$4,154.61",CA,CalOptima ppo,221.58
+Los Alamitos Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$4,154.61",CA,Kaiser hmo,1551.05
+Los Alamitos Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$4,154.61",CA,Kaiser pos,1551.05
+Los Alamitos Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$4,154.61",CA,Kaiser epo,1551.05
+Los Alamitos Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$4,154.61",CA,Kaiser ppo,1551.05
+Los Alamitos Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$4,282.16",CA,Anthem ppo,456.76
+Los Alamitos Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$4,282.16",CA,Anthem hmo,456.76
+Los Alamitos Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$4,282.16",CA,Anthem epo,456.76
+Los Alamitos Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$4,282.16",CA,CalOptima hmo,228.38
+Los Alamitos Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$4,282.16",CA,CalOptima pos,228.38
+Los Alamitos Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$4,282.16",CA,CalOptima ppo,228.38
+Los Alamitos Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$4,282.16",CA,Kaiser hmo,1598.67
+Los Alamitos Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$4,282.16",CA,Kaiser pos,1598.67
+Los Alamitos Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$4,282.16",CA,Kaiser epo,1598.67
+Los Alamitos Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$4,282.16",CA,Kaiser ppo,1598.67
+Los Alamitos Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$2,590.15",CA,Anthem ppo,276.28
+Los Alamitos Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$2,590.15",CA,Anthem hmo,276.28
+Los Alamitos Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$2,590.15",CA,Anthem epo,276.28
+Los Alamitos Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$2,590.15",CA,CalOptima hmo,138.14
+Los Alamitos Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$2,590.15",CA,CalOptima pos,138.14
+Los Alamitos Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$2,590.15",CA,CalOptima ppo,138.14
+Los Alamitos Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$2,590.15",CA,Kaiser hmo,966.99
+Los Alamitos Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$2,590.15",CA,Kaiser pos,966.99
+Los Alamitos Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$2,590.15",CA,Kaiser epo,966.99
+Los Alamitos Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$2,590.15",CA,Kaiser ppo,966.99
+Los Alamitos Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$6,834.09",CA,Anthem ppo,728.97
+Los Alamitos Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$6,834.09",CA,Anthem hmo,728.97
+Los Alamitos Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$6,834.09",CA,Anthem epo,728.97
+Los Alamitos Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$6,834.09",CA,CalOptima hmo,364.48
+Los Alamitos Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$6,834.09",CA,CalOptima pos,364.48
+Los Alamitos Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$6,834.09",CA,CalOptima ppo,364.48
+Los Alamitos Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$6,834.09",CA,Kaiser hmo,2551.39
+Los Alamitos Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$6,834.09",CA,Kaiser pos,2551.39
+Los Alamitos Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$6,834.09",CA,Kaiser epo,2551.39
+Los Alamitos Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$6,834.09",CA,Kaiser ppo,2551.39
+Los Alamitos Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$6,797.39",CA,Anthem ppo,725.06
+Los Alamitos Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$6,797.39",CA,Anthem hmo,725.06
+Los Alamitos Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$6,797.39",CA,Anthem epo,725.06
+Los Alamitos Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$6,797.39",CA,CalOptima hmo,362.53
+Los Alamitos Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$6,797.39",CA,CalOptima pos,362.53
+Los Alamitos Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$6,797.39",CA,CalOptima ppo,362.53
+Los Alamitos Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$6,797.39",CA,Kaiser hmo,2537.69
+Los Alamitos Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$6,797.39",CA,Kaiser pos,2537.69
+Los Alamitos Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$6,797.39",CA,Kaiser epo,2537.69
+Los Alamitos Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$6,797.39",CA,Kaiser ppo,2537.69
+Los Alamitos Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$7,035.04",CA,Anthem ppo,750.40
+Los Alamitos Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$7,035.04",CA,Anthem hmo,750.40
+Los Alamitos Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$7,035.04",CA,Anthem epo,750.40
+Los Alamitos Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$7,035.04",CA,CalOptima hmo,375.20
+Los Alamitos Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$7,035.04",CA,CalOptima pos,375.20
+Los Alamitos Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$7,035.04",CA,CalOptima ppo,375.20
+Los Alamitos Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$7,035.04",CA,Kaiser hmo,2626.41
+Los Alamitos Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$7,035.04",CA,Kaiser pos,2626.41
+Los Alamitos Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$7,035.04",CA,Kaiser epo,2626.41
+Los Alamitos Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$7,035.04",CA,Kaiser ppo,2626.41
+Los Alamitos Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$6,555.89",CA,Anthem ppo,699.29
+Los Alamitos Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$6,555.89",CA,Anthem hmo,699.29
+Los Alamitos Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$6,555.89",CA,Anthem epo,699.29
+Los Alamitos Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$6,555.89",CA,CalOptima hmo,349.65
+Los Alamitos Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$6,555.89",CA,CalOptima pos,349.65
+Los Alamitos Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$6,555.89",CA,CalOptima ppo,349.65
+Los Alamitos Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$6,555.89",CA,Kaiser hmo,2447.53
+Los Alamitos Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$6,555.89",CA,Kaiser pos,2447.53
+Los Alamitos Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$6,555.89",CA,Kaiser epo,2447.53
+Los Alamitos Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$6,555.89",CA,Kaiser ppo,2447.53
+Los Alamitos Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$1,342.89",CA,Anthem ppo,143.24
+Los Alamitos Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$1,342.89",CA,Anthem hmo,143.24
+Los Alamitos Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$1,342.89",CA,Anthem epo,143.24
+Los Alamitos Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$1,342.89",CA,CalOptima hmo,71.62
+Los Alamitos Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$1,342.89",CA,CalOptima pos,71.62
+Los Alamitos Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$1,342.89",CA,CalOptima ppo,71.62
+Los Alamitos Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$1,342.89",CA,Kaiser hmo,501.35
+Los Alamitos Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$1,342.89",CA,Kaiser pos,501.35
+Los Alamitos Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$1,342.89",CA,Kaiser epo,501.35
+Los Alamitos Medical Center,Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester","$1,342.89",CA,Kaiser ppo,501.35
+Los Alamitos Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,679.93",CA,Anthem ppo,179.19
+Los Alamitos Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,679.93",CA,Anthem hmo,179.19
+Los Alamitos Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,679.93",CA,Anthem epo,179.19
+Los Alamitos Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,679.93",CA,CalOptima hmo,89.60
+Los Alamitos Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,679.93",CA,CalOptima pos,89.60
+Los Alamitos Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,679.93",CA,CalOptima ppo,89.60
+Los Alamitos Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,679.93",CA,Kaiser hmo,627.17
+Los Alamitos Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,679.93",CA,Kaiser pos,627.17
+Los Alamitos Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,679.93",CA,Kaiser epo,627.17
+Los Alamitos Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete","$1,679.93",CA,Kaiser ppo,627.17
+Los Alamitos Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,030.70",CA,Anthem ppo,109.94
+Los Alamitos Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,030.70",CA,Anthem hmo,109.94
+Los Alamitos Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,030.70",CA,Anthem epo,109.94
+Los Alamitos Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,030.70",CA,CalOptima hmo,54.97
+Los Alamitos Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,030.70",CA,CalOptima pos,54.97
+Los Alamitos Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,030.70",CA,CalOptima ppo,54.97
+Los Alamitos Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,030.70",CA,Kaiser hmo,384.79
+Los Alamitos Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,030.70",CA,Kaiser pos,384.79
+Los Alamitos Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,030.70",CA,Kaiser epo,384.79
+Los Alamitos Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,"$1,030.70",CA,Kaiser ppo,384.79
+Los Alamitos Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$878.11,CA,Anthem ppo,93.66
+Los Alamitos Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$878.11,CA,Anthem hmo,93.66
+Los Alamitos Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$878.11,CA,Anthem epo,93.66
+Los Alamitos Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$878.11,CA,CalOptima hmo,46.83
+Los Alamitos Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$878.11,CA,CalOptima pos,46.83
+Los Alamitos Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$878.11,CA,CalOptima ppo,46.83
+Los Alamitos Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$878.11,CA,Kaiser hmo,327.83
+Los Alamitos Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$878.11,CA,Kaiser pos,327.83
+Los Alamitos Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$878.11,CA,Kaiser epo,327.83
+Los Alamitos Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$878.11,CA,Kaiser ppo,327.83
+Los Alamitos Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,931.49",CA,Anthem ppo,206.03
+Los Alamitos Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,931.49",CA,Anthem hmo,206.03
+Los Alamitos Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,931.49",CA,Anthem epo,206.03
+Los Alamitos Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,931.49",CA,CalOptima hmo,103.01
+Los Alamitos Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,931.49",CA,CalOptima pos,103.01
+Los Alamitos Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,931.49",CA,CalOptima ppo,103.01
+Los Alamitos Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,931.49",CA,Kaiser hmo,721.09
+Los Alamitos Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,931.49",CA,Kaiser pos,721.09
+Los Alamitos Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,931.49",CA,Kaiser epo,721.09
+Los Alamitos Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,931.49",CA,Kaiser ppo,721.09
+Los Alamitos Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,408.96",CA,Anthem ppo,150.29
+Los Alamitos Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,408.96",CA,Anthem hmo,150.29
+Los Alamitos Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,408.96",CA,Anthem epo,150.29
+Los Alamitos Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,408.96",CA,CalOptima hmo,75.14
+Los Alamitos Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,408.96",CA,CalOptima pos,75.14
+Los Alamitos Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,408.96",CA,CalOptima ppo,75.14
+Los Alamitos Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,408.96",CA,Kaiser hmo,526.01
+Los Alamitos Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,408.96",CA,Kaiser pos,526.01
+Los Alamitos Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,408.96",CA,Kaiser epo,526.01
+Los Alamitos Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited","$1,408.96",CA,Kaiser ppo,526.01
+Los Alamitos Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,487.09",CA,Anthem ppo,158.62
+Los Alamitos Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,487.09",CA,Anthem hmo,158.62
+Los Alamitos Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,487.09",CA,Anthem epo,158.62
+Los Alamitos Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,487.09",CA,CalOptima hmo,79.31
+Los Alamitos Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,487.09",CA,CalOptima pos,79.31
+Los Alamitos Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,487.09",CA,CalOptima ppo,79.31
+Los Alamitos Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,487.09",CA,Kaiser hmo,555.18
+Los Alamitos Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,487.09",CA,Kaiser pos,555.18
+Los Alamitos Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,487.09",CA,Kaiser epo,555.18
+Los Alamitos Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,487.09",CA,Kaiser ppo,555.18
+Los Alamitos Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,096.05",CA,Anthem ppo,116.91
+Los Alamitos Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,096.05",CA,Anthem hmo,116.91
+Los Alamitos Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,096.05",CA,Anthem epo,116.91
+Los Alamitos Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,096.05",CA,CalOptima hmo,58.46
+Los Alamitos Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,096.05",CA,CalOptima pos,58.46
+Los Alamitos Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,096.05",CA,CalOptima ppo,58.46
+Los Alamitos Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,096.05",CA,Kaiser hmo,409.19
+Los Alamitos Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,096.05",CA,Kaiser pos,409.19
+Los Alamitos Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,096.05",CA,Kaiser epo,409.19
+Los Alamitos Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal","$1,096.05",CA,Kaiser ppo,409.19
+Los Alamitos Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$331.96,CA,Anthem ppo,35.41
+Los Alamitos Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$331.96,CA,Anthem hmo,35.41
+Los Alamitos Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$331.96,CA,Anthem epo,35.41
+Los Alamitos Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$331.96,CA,CalOptima hmo,17.70
+Los Alamitos Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$331.96,CA,CalOptima pos,17.70
+Los Alamitos Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$331.96,CA,CalOptima ppo,17.70
+Los Alamitos Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$331.96,CA,Kaiser hmo,123.93
+Los Alamitos Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$331.96,CA,Kaiser pos,123.93
+Los Alamitos Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$331.96,CA,Kaiser epo,123.93
+Los Alamitos Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$331.96,CA,Kaiser ppo,123.93
+Los Alamitos Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$282.11,CA,Anthem ppo,30.09
+Los Alamitos Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$282.11,CA,Anthem hmo,30.09
+Los Alamitos Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$282.11,CA,Anthem epo,30.09
+Los Alamitos Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$282.11,CA,CalOptima hmo,15.05
+Los Alamitos Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$282.11,CA,CalOptima pos,15.05
+Los Alamitos Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$282.11,CA,CalOptima ppo,15.05
+Los Alamitos Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$282.11,CA,Kaiser hmo,56.02
+Los Alamitos Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$282.11,CA,Kaiser pos,56.02
+Los Alamitos Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$282.11,CA,Kaiser epo,56.02
+Los Alamitos Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$282.11,CA,Kaiser ppo,56.02
+Los Alamitos Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$554.32,CA,Anthem ppo,59.13
+Los Alamitos Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$554.32,CA,Anthem hmo,59.13
+Los Alamitos Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$554.32,CA,Anthem epo,59.13
+Los Alamitos Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$554.32,CA,CalOptima hmo,29.56
+Los Alamitos Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$554.32,CA,CalOptima pos,29.56
+Los Alamitos Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$554.32,CA,CalOptima ppo,29.56
+Los Alamitos Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$554.32,CA,Kaiser hmo,206.95
+Los Alamitos Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$554.32,CA,Kaiser pos,206.95
+Los Alamitos Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$554.32,CA,Kaiser epo,206.95
+Los Alamitos Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$554.32,CA,Kaiser ppo,206.95
+Los Alamitos Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$518.74,CA,Anthem ppo,55.33
+Los Alamitos Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$518.74,CA,Anthem hmo,55.33
+Los Alamitos Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$518.74,CA,Anthem epo,55.33
+Los Alamitos Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$518.74,CA,CalOptima hmo,27.67
+Los Alamitos Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$518.74,CA,CalOptima pos,27.67
+Los Alamitos Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$518.74,CA,CalOptima ppo,27.67
+Los Alamitos Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$518.74,CA,Kaiser hmo,193.66
+Los Alamitos Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$518.74,CA,Kaiser pos,193.66
+Los Alamitos Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$518.74,CA,Kaiser epo,193.66
+Los Alamitos Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$518.74,CA,Kaiser ppo,193.66
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$462.21,CA,Anthem ppo,49.30
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$462.21,CA,Anthem hmo,49.30
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$462.21,CA,Anthem epo,49.30
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$462.21,CA,CalOptima hmo,24.65
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$462.21,CA,CalOptima pos,24.65
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$462.21,CA,CalOptima ppo,24.65
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$462.21,CA,Kaiser hmo,172.56
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$462.21,CA,Kaiser pos,172.56
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$462.21,CA,Kaiser epo,172.56
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$462.21,CA,Kaiser ppo,172.56
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$620.87,CA,Anthem ppo,66.23
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$620.87,CA,Anthem hmo,66.23
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$620.87,CA,Anthem epo,66.23
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$620.87,CA,CalOptima hmo,33.11
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$620.87,CA,CalOptima pos,33.11
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$620.87,CA,CalOptima ppo,33.11
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$620.87,CA,Kaiser hmo,231.79
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$620.87,CA,Kaiser pos,231.79
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$620.87,CA,Kaiser epo,231.79
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$620.87,CA,Kaiser ppo,231.79
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$593.67,CA,Anthem ppo,63.32
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$593.67,CA,Anthem hmo,63.32
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$593.67,CA,Anthem epo,63.32
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$593.67,CA,CalOptima hmo,31.66
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$593.67,CA,CalOptima pos,31.66
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$593.67,CA,CalOptima ppo,31.66
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$593.67,CA,Kaiser hmo,221.64
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$593.67,CA,Kaiser pos,221.64
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$593.67,CA,Kaiser epo,221.64
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$593.67,CA,Kaiser ppo,221.64
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$591.19,CA,Anthem ppo,63.06
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$591.19,CA,Anthem hmo,63.06
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$591.19,CA,Anthem epo,63.06
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$591.19,CA,CalOptima hmo,31.53
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$591.19,CA,CalOptima pos,31.53
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$591.19,CA,CalOptima ppo,31.53
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$591.19,CA,Kaiser hmo,220.71
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$591.19,CA,Kaiser pos,220.71
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$591.19,CA,Kaiser epo,220.71
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$591.19,CA,Kaiser ppo,220.71
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$454.72,CA,Anthem ppo,48.50
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$454.72,CA,Anthem hmo,48.50
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$454.72,CA,Anthem epo,48.50
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$454.72,CA,CalOptima hmo,24.25
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$454.72,CA,CalOptima pos,24.25
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$454.72,CA,CalOptima ppo,24.25
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$454.72,CA,Kaiser hmo,169.76
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$454.72,CA,Kaiser pos,169.76
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$454.72,CA,Kaiser epo,169.76
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$454.72,CA,Kaiser ppo,169.76
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$518.82,CA,Anthem ppo,55.34
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$518.82,CA,Anthem hmo,55.34
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$518.82,CA,Anthem epo,55.34
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$518.82,CA,CalOptima hmo,27.67
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$518.82,CA,CalOptima pos,27.67
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$518.82,CA,CalOptima ppo,27.67
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$518.82,CA,Kaiser hmo,193.69
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$518.82,CA,Kaiser pos,193.69
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$518.82,CA,Kaiser epo,193.69
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$518.82,CA,Kaiser ppo,193.69
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$655.01,CA,Anthem ppo,69.87
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$655.01,CA,Anthem hmo,69.87
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$655.01,CA,Anthem epo,69.87
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$655.01,CA,CalOptima hmo,34.93
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$655.01,CA,CalOptima pos,34.93
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$655.01,CA,CalOptima ppo,34.93
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$655.01,CA,Kaiser hmo,244.54
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$655.01,CA,Kaiser pos,244.54
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$655.01,CA,Kaiser epo,244.54
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$655.01,CA,Kaiser ppo,244.54
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$520.22,CA,Anthem ppo,55.49
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$520.22,CA,Anthem hmo,55.49
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$520.22,CA,Anthem epo,55.49
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$520.22,CA,CalOptima hmo,27.74
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$520.22,CA,CalOptima pos,27.74
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$520.22,CA,CalOptima ppo,27.74
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$520.22,CA,Kaiser hmo,194.21
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$520.22,CA,Kaiser pos,194.21
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$520.22,CA,Kaiser epo,194.21
+Los Alamitos Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$520.22,CA,Kaiser ppo,194.21
+Los Alamitos Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,154.60",CA,Anthem ppo,123.16
+Los Alamitos Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,154.60",CA,Anthem hmo,123.16
+Los Alamitos Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,154.60",CA,Anthem epo,123.16
+Los Alamitos Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,154.60",CA,CalOptima hmo,61.58
+Los Alamitos Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,154.60",CA,CalOptima pos,61.58
+Los Alamitos Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,154.60",CA,CalOptima ppo,61.58
+Los Alamitos Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,154.60",CA,Kaiser hmo,431.05
+Los Alamitos Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,154.60",CA,Kaiser pos,431.05
+Los Alamitos Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,154.60",CA,Kaiser epo,431.05
+Los Alamitos Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views","$1,154.60",CA,Kaiser ppo,431.05
+Los Alamitos Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$769.52,CA,Anthem ppo,82.08
+Los Alamitos Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$769.52,CA,Anthem hmo,82.08
+Los Alamitos Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$769.52,CA,Anthem epo,82.08
+Los Alamitos Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$769.52,CA,CalOptima hmo,41.04
+Los Alamitos Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$769.52,CA,CalOptima pos,41.04
+Los Alamitos Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$769.52,CA,CalOptima ppo,41.04
+Los Alamitos Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$769.52,CA,Kaiser hmo,287.29
+Los Alamitos Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$769.52,CA,Kaiser pos,287.29
+Los Alamitos Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$769.52,CA,Kaiser epo,287.29
+Los Alamitos Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$769.52,CA,Kaiser ppo,287.29
+Los Alamitos Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$776.02,CA,Anthem ppo,82.78
+Los Alamitos Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$776.02,CA,Anthem hmo,82.78
+Los Alamitos Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$776.02,CA,Anthem epo,82.78
+Los Alamitos Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$776.02,CA,CalOptima hmo,41.39
+Los Alamitos Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$776.02,CA,CalOptima pos,41.39
+Los Alamitos Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$776.02,CA,CalOptima ppo,41.39
+Los Alamitos Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$776.02,CA,Kaiser hmo,289.71
+Los Alamitos Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$776.02,CA,Kaiser pos,289.71
+Los Alamitos Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$776.02,CA,Kaiser epo,289.71
+Los Alamitos Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$776.02,CA,Kaiser ppo,289.71
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$602.85,CA,Anthem ppo,64.30
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$602.85,CA,Anthem hmo,64.30
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$602.85,CA,Anthem epo,64.30
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$602.85,CA,CalOptima hmo,32.15
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$602.85,CA,CalOptima pos,32.15
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$602.85,CA,CalOptima ppo,32.15
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$602.85,CA,Kaiser hmo,225.06
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$602.85,CA,Kaiser pos,225.06
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$602.85,CA,Kaiser epo,225.06
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$602.85,CA,Kaiser ppo,225.06
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$413.45,CA,Anthem ppo,44.10
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$413.45,CA,Anthem hmo,44.10
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$413.45,CA,Anthem epo,44.10
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$413.45,CA,CalOptima hmo,22.05
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$413.45,CA,CalOptima pos,22.05
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$413.45,CA,CalOptima ppo,22.05
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$413.45,CA,Kaiser hmo,154.36
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$413.45,CA,Kaiser pos,154.36
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$413.45,CA,Kaiser epo,154.36
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$413.45,CA,Kaiser ppo,154.36
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$575.08,CA,Anthem ppo,61.34
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$575.08,CA,Anthem hmo,61.34
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$575.08,CA,Anthem epo,61.34
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$575.08,CA,CalOptima hmo,30.67
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$575.08,CA,CalOptima pos,30.67
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$575.08,CA,CalOptima ppo,30.67
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$575.08,CA,Kaiser hmo,214.70
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$575.08,CA,Kaiser pos,214.70
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$575.08,CA,Kaiser epo,214.70
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$575.08,CA,Kaiser ppo,214.70
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$630.64,CA,Anthem ppo,67.27
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$630.64,CA,Anthem hmo,67.27
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$630.64,CA,Anthem epo,67.27
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$630.64,CA,CalOptima hmo,33.63
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$630.64,CA,CalOptima pos,33.63
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$630.64,CA,CalOptima ppo,33.63
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$630.64,CA,Kaiser hmo,235.44
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$630.64,CA,Kaiser pos,235.44
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$630.64,CA,Kaiser epo,235.44
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$630.64,CA,Kaiser ppo,235.44
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$548.89,CA,Anthem ppo,58.55
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$548.89,CA,Anthem hmo,58.55
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$548.89,CA,Anthem epo,58.55
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$548.89,CA,CalOptima hmo,29.27
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$548.89,CA,CalOptima pos,29.27
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$548.89,CA,CalOptima ppo,29.27
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$548.89,CA,Kaiser hmo,204.92
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$548.89,CA,Kaiser pos,204.92
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$548.89,CA,Kaiser epo,204.92
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$548.89,CA,Kaiser ppo,204.92
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$515.72,CA,Anthem ppo,55.01
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$515.72,CA,Anthem hmo,55.01
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$515.72,CA,Anthem epo,55.01
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$515.72,CA,CalOptima hmo,27.51
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$515.72,CA,CalOptima pos,27.51
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$515.72,CA,CalOptima ppo,27.51
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$515.72,CA,Kaiser hmo,192.54
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$515.72,CA,Kaiser pos,192.54
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$515.72,CA,Kaiser epo,192.54
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$515.72,CA,Kaiser ppo,192.54
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$590.93,CA,Anthem ppo,63.03
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$590.93,CA,Anthem hmo,63.03
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$590.93,CA,Anthem epo,63.03
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$590.93,CA,CalOptima hmo,31.52
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$590.93,CA,CalOptima pos,31.52
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$590.93,CA,CalOptima ppo,31.52
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$590.93,CA,Kaiser hmo,220.61
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$590.93,CA,Kaiser pos,220.61
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$590.93,CA,Kaiser epo,220.61
+Los Alamitos Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$590.93,CA,Kaiser ppo,220.61
+Los Alamitos Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$49,005.26",CA,Anthem ppo,4573.82
+Los Alamitos Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$49,005.26",CA,Anthem hmo,4573.82
+Los Alamitos Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$49,005.26",CA,Anthem epo,4573.82
+Los Alamitos Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$49,005.26",CA,CalOptima hmo,1960.21
+Los Alamitos Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$49,005.26",CA,CalOptima pos,1960.21
+Los Alamitos Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$49,005.26",CA,CalOptima ppo,1960.21
+Los Alamitos Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$49,005.26",CA,Kaiser hmo,14701.58
+Los Alamitos Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$49,005.26",CA,Kaiser pos,14701.58
+Los Alamitos Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$49,005.26",CA,Kaiser epo,14701.58
+Los Alamitos Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$49,005.26",CA,Kaiser ppo,14701.58
+Los Alamitos Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$42,180.35",CA,Anthem ppo,3936.83
+Los Alamitos Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$42,180.35",CA,Anthem hmo,3936.83
+Los Alamitos Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$42,180.35",CA,Anthem epo,3936.83
+Los Alamitos Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$42,180.35",CA,CalOptima hmo,1687.21
+Los Alamitos Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$42,180.35",CA,CalOptima pos,1687.21
+Los Alamitos Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$42,180.35",CA,CalOptima ppo,1687.21
+Los Alamitos Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$42,180.35",CA,Kaiser hmo,12654.10
+Los Alamitos Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$42,180.35",CA,Kaiser pos,12654.10
+Los Alamitos Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$42,180.35",CA,Kaiser epo,12654.10
+Los Alamitos Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$42,180.35",CA,Kaiser ppo,12654.10
+Los Alamitos Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$8,429.57",CA,Anthem ppo,786.76
+Los Alamitos Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$8,429.57",CA,Anthem hmo,786.76
+Los Alamitos Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$8,429.57",CA,Anthem epo,786.76
+Los Alamitos Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$8,429.57",CA,CalOptima hmo,561.97
+Los Alamitos Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$8,429.57",CA,CalOptima pos,561.97
+Los Alamitos Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$8,429.57",CA,CalOptima ppo,561.97
+Los Alamitos Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$8,429.57",CA,Kaiser hmo,561.97
+Los Alamitos Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$8,429.57",CA,Kaiser pos,561.97
+Los Alamitos Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$8,429.57",CA,Kaiser epo,561.97
+Los Alamitos Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$8,429.57",CA,Kaiser ppo,561.97
+Los Alamitos Medical Center,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$46,527.98",CA,Anthem ppo,4342.61
+Los Alamitos Medical Center,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$46,527.98",CA,Anthem hmo,4342.61
+Los Alamitos Medical Center,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$46,527.98",CA,Anthem epo,4342.61
+Los Alamitos Medical Center,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$46,527.98",CA,CalOptima hmo,3101.87
+Los Alamitos Medical Center,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$46,527.98",CA,CalOptima pos,3101.87
+Los Alamitos Medical Center,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$46,527.98",CA,CalOptima ppo,3101.87
+Los Alamitos Medical Center,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$46,527.98",CA,Kaiser hmo,3101.87
+Los Alamitos Medical Center,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$46,527.98",CA,Kaiser pos,3101.87
+Los Alamitos Medical Center,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$46,527.98",CA,Kaiser epo,3101.87
+Los Alamitos Medical Center,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$46,527.98",CA,Kaiser ppo,3101.87
+Los Alamitos Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$48,866.63",CA,Anthem ppo,4560.89
+Los Alamitos Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$48,866.63",CA,Anthem hmo,4560.89
+Los Alamitos Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$48,866.63",CA,Anthem epo,4560.89
+Los Alamitos Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$48,866.63",CA,CalOptima hmo,1954.67
+Los Alamitos Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$48,866.63",CA,CalOptima pos,1954.67
+Los Alamitos Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$48,866.63",CA,CalOptima ppo,1954.67
+Los Alamitos Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$48,866.63",CA,Kaiser hmo,14659.99
+Los Alamitos Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$48,866.63",CA,Kaiser pos,14659.99
+Los Alamitos Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$48,866.63",CA,Kaiser epo,14659.99
+Los Alamitos Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,"$48,866.63",CA,Kaiser ppo,14659.99
+Los Alamitos Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$11,479.08",CA,Anthem ppo,1071.38
+Los Alamitos Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$11,479.08",CA,Anthem hmo,1071.38
+Los Alamitos Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$11,479.08",CA,Anthem epo,1071.38
+Los Alamitos Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$11,479.08",CA,CalOptima hmo,459.16
+Los Alamitos Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$11,479.08",CA,CalOptima pos,459.16
+Los Alamitos Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$11,479.08",CA,CalOptima ppo,459.16
+Los Alamitos Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$11,479.08",CA,Kaiser hmo,3443.72
+Los Alamitos Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$11,479.08",CA,Kaiser pos,3443.72
+Los Alamitos Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$11,479.08",CA,Kaiser epo,3443.72
+Los Alamitos Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$11,479.08",CA,Kaiser ppo,3443.72
+Los Alamitos Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$14,283.45",CA,Anthem ppo,1333.12
+Los Alamitos Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$14,283.45",CA,Anthem hmo,1333.12
+Los Alamitos Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$14,283.45",CA,Anthem epo,1333.12
+Los Alamitos Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$14,283.45",CA,CalOptima hmo,571.34
+Los Alamitos Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$14,283.45",CA,CalOptima pos,571.34
+Los Alamitos Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$14,283.45",CA,CalOptima ppo,571.34
+Los Alamitos Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$14,283.45",CA,Kaiser hmo,4285.04
+Los Alamitos Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$14,283.45",CA,Kaiser pos,4285.04
+Los Alamitos Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$14,283.45",CA,Kaiser epo,4285.04
+Los Alamitos Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$14,283.45",CA,Kaiser ppo,4285.04
+Los Alamitos Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$13,136.40",CA,Anthem ppo,1226.06
+Los Alamitos Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$13,136.40",CA,Anthem hmo,1226.06
+Los Alamitos Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$13,136.40",CA,Anthem epo,1226.06
+Los Alamitos Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$13,136.40",CA,CalOptima hmo,525.46
+Los Alamitos Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$13,136.40",CA,CalOptima pos,525.46
+Los Alamitos Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$13,136.40",CA,CalOptima ppo,525.46
+Los Alamitos Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$13,136.40",CA,Kaiser hmo,3940.92
+Los Alamitos Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$13,136.40",CA,Kaiser pos,3940.92
+Los Alamitos Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$13,136.40",CA,Kaiser epo,3940.92
+Los Alamitos Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$13,136.40",CA,Kaiser ppo,3940.92
+Los Alamitos Medical Center,Digestive,HCPCS 43235,EGD,"$36,034.61",CA,Anthem ppo,3363.23
+Los Alamitos Medical Center,Digestive,HCPCS 43235,EGD,"$36,034.61",CA,Anthem hmo,3363.23
+Los Alamitos Medical Center,Digestive,HCPCS 43235,EGD,"$36,034.61",CA,Anthem epo,3363.23
+Los Alamitos Medical Center,Digestive,HCPCS 43235,EGD,"$36,034.61",CA,CalOptima hmo,1441.38
+Los Alamitos Medical Center,Digestive,HCPCS 43235,EGD,"$36,034.61",CA,CalOptima pos,1441.38
+Los Alamitos Medical Center,Digestive,HCPCS 43235,EGD,"$36,034.61",CA,CalOptima ppo,1441.38
+Los Alamitos Medical Center,Digestive,HCPCS 43235,EGD,"$36,034.61",CA,Kaiser hmo,10810.38
+Los Alamitos Medical Center,Digestive,HCPCS 43235,EGD,"$36,034.61",CA,Kaiser pos,10810.38
+Los Alamitos Medical Center,Digestive,HCPCS 43235,EGD,"$36,034.61",CA,Kaiser epo,10810.38
+Los Alamitos Medical Center,Digestive,HCPCS 43235,EGD,"$36,034.61",CA,Kaiser ppo,10810.38
+Los Alamitos Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$13,966.13",CA,Anthem ppo,1303.51
+Los Alamitos Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$13,966.13",CA,Anthem hmo,1303.51
+Los Alamitos Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$13,966.13",CA,Anthem epo,1303.51
+Los Alamitos Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$13,966.13",CA,CalOptima hmo,558.65
+Los Alamitos Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$13,966.13",CA,CalOptima pos,558.65
+Los Alamitos Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$13,966.13",CA,CalOptima ppo,558.65
+Los Alamitos Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$13,966.13",CA,Kaiser hmo,4189.84
+Los Alamitos Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$13,966.13",CA,Kaiser pos,4189.84
+Los Alamitos Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$13,966.13",CA,Kaiser epo,4189.84
+Los Alamitos Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$13,966.13",CA,Kaiser ppo,4189.84
+Los Alamitos Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$62,923.74",CA,Anthem ppo,5872.88
+Los Alamitos Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$62,923.74",CA,Anthem hmo,5872.88
+Los Alamitos Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$62,923.74",CA,Anthem epo,5872.88
+Los Alamitos Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$62,923.74",CA,CalOptima hmo,2516.95
+Los Alamitos Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$62,923.74",CA,CalOptima pos,2516.95
+Los Alamitos Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$62,923.74",CA,CalOptima ppo,2516.95
+Los Alamitos Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$62,923.74",CA,Kaiser hmo,8389.83
+Los Alamitos Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$62,923.74",CA,Kaiser pos,8389.83
+Los Alamitos Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$62,923.74",CA,Kaiser epo,8389.83
+Los Alamitos Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$62,923.74",CA,Kaiser ppo,8389.83
+Los Alamitos Medical Center,General,HCPCS 10060,Drainage of Abscess,"$4,887.47",CA,Anthem ppo,456.16
+Los Alamitos Medical Center,General,HCPCS 10060,Drainage of Abscess,"$4,887.47",CA,Anthem hmo,456.16
+Los Alamitos Medical Center,General,HCPCS 10060,Drainage of Abscess,"$4,887.47",CA,Anthem epo,456.16
+Los Alamitos Medical Center,General,HCPCS 10060,Drainage of Abscess,"$4,887.47",CA,CalOptima hmo,195.50
+Los Alamitos Medical Center,General,HCPCS 10060,Drainage of Abscess,"$4,887.47",CA,CalOptima pos,195.50
+Los Alamitos Medical Center,General,HCPCS 10060,Drainage of Abscess,"$4,887.47",CA,CalOptima ppo,195.50
+Los Alamitos Medical Center,General,HCPCS 10060,Drainage of Abscess,"$4,887.47",CA,Kaiser hmo,391.00
+Los Alamitos Medical Center,General,HCPCS 10060,Drainage of Abscess,"$4,887.47",CA,Kaiser pos,391.00
+Los Alamitos Medical Center,General,HCPCS 10060,Drainage of Abscess,"$4,887.47",CA,Kaiser epo,391.00
+Los Alamitos Medical Center,General,HCPCS 10060,Drainage of Abscess,"$4,887.47",CA,Kaiser ppo,391.00
+Los Alamitos Medical Center,General,HCPCS 55866,Prostatectomy,"$89,358.26",CA,Anthem ppo,8340.10
+Los Alamitos Medical Center,General,HCPCS 55866,Prostatectomy,"$89,358.26",CA,Anthem hmo,8340.10
+Los Alamitos Medical Center,General,HCPCS 55866,Prostatectomy,"$89,358.26",CA,Anthem epo,8340.10
+Los Alamitos Medical Center,General,HCPCS 55866,Prostatectomy,"$89,358.26",CA,CalOptima hmo,3574.33
+Los Alamitos Medical Center,General,HCPCS 55866,Prostatectomy,"$89,358.26",CA,CalOptima pos,3574.33
+Los Alamitos Medical Center,General,HCPCS 55866,Prostatectomy,"$89,358.26",CA,CalOptima ppo,3574.33
+Los Alamitos Medical Center,General,HCPCS 55866,Prostatectomy,"$89,358.26",CA,Kaiser hmo,26807.48
+Los Alamitos Medical Center,General,HCPCS 55866,Prostatectomy,"$89,358.26",CA,Kaiser pos,26807.48
+Los Alamitos Medical Center,General,HCPCS 55866,Prostatectomy,"$89,358.26",CA,Kaiser epo,26807.48
+Los Alamitos Medical Center,General,HCPCS 55866,Prostatectomy,"$89,358.26",CA,Kaiser ppo,26807.48
+Los Alamitos Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$5,326.61",CA,Anthem ppo,497.15
+Los Alamitos Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$5,326.61",CA,Anthem hmo,497.15
+Los Alamitos Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$5,326.61",CA,Anthem epo,497.15
+Los Alamitos Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$5,326.61",CA,CalOptima hmo,213.06
+Los Alamitos Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$5,326.61",CA,CalOptima pos,213.06
+Los Alamitos Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$5,326.61",CA,CalOptima ppo,213.06
+Los Alamitos Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$5,326.61",CA,Kaiser hmo,426.13
+Los Alamitos Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$5,326.61",CA,Kaiser pos,426.13
+Los Alamitos Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$5,326.61",CA,Kaiser epo,426.13
+Los Alamitos Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$5,326.61",CA,Kaiser ppo,426.13
+Los Alamitos Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$6,158.74",CA,Anthem ppo,574.82
+Los Alamitos Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$6,158.74",CA,Anthem hmo,574.82
+Los Alamitos Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$6,158.74",CA,Anthem epo,574.82
+Los Alamitos Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$6,158.74",CA,CalOptima hmo,246.35
+Los Alamitos Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$6,158.74",CA,CalOptima pos,246.35
+Los Alamitos Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$6,158.74",CA,CalOptima ppo,246.35
+Los Alamitos Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$6,158.74",CA,Kaiser hmo,492.70
+Los Alamitos Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$6,158.74",CA,Kaiser pos,492.70
+Los Alamitos Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$6,158.74",CA,Kaiser epo,492.70
+Los Alamitos Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less","$6,158.74",CA,Kaiser ppo,492.70
+Los Alamitos Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$3,114.86",CA,Anthem ppo,290.72
+Los Alamitos Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$3,114.86",CA,Anthem hmo,290.72
+Los Alamitos Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$3,114.86",CA,Anthem epo,290.72
+Los Alamitos Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$3,114.86",CA,CalOptima hmo,124.59
+Los Alamitos Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$3,114.86",CA,CalOptima pos,124.59
+Los Alamitos Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$3,114.86",CA,CalOptima ppo,124.59
+Los Alamitos Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$3,114.86",CA,Kaiser hmo,249.19
+Los Alamitos Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$3,114.86",CA,Kaiser pos,249.19
+Los Alamitos Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$3,114.86",CA,Kaiser epo,249.19
+Los Alamitos Medical Center,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$3,114.86",CA,Kaiser ppo,249.19
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$4,215.99",CA,Anthem ppo,393.49
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$4,215.99",CA,Anthem hmo,393.49
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$4,215.99",CA,Anthem epo,393.49
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$4,215.99",CA,CalOptima hmo,168.64
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$4,215.99",CA,CalOptima pos,168.64
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$4,215.99",CA,CalOptima ppo,168.64
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$4,215.99",CA,Kaiser hmo,1377.22
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$4,215.99",CA,Kaiser pos,1377.22
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$4,215.99",CA,Kaiser epo,1377.22
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$4,215.99",CA,Kaiser ppo,1377.22
+Los Alamitos Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$110,594.89",CA,Anthem ppo,10322.19
+Los Alamitos Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$110,594.89",CA,Anthem hmo,10322.19
+Los Alamitos Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$110,594.89",CA,Anthem epo,10322.19
+Los Alamitos Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$110,594.89",CA,CalOptima hmo,4423.80
+Los Alamitos Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$110,594.89",CA,CalOptima pos,4423.80
+Los Alamitos Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$110,594.89",CA,CalOptima ppo,4423.80
+Los Alamitos Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$110,594.89",CA,Kaiser hmo,14745.99
+Los Alamitos Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$110,594.89",CA,Kaiser pos,14745.99
+Los Alamitos Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$110,594.89",CA,Kaiser epo,14745.99
+Los Alamitos Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$110,594.89",CA,Kaiser ppo,14745.99
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$44,445.69",CA,Anthem ppo,4148.26
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$44,445.69",CA,Anthem hmo,4148.26
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$44,445.69",CA,Anthem epo,4148.26
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$44,445.69",CA,CalOptima hmo,1777.83
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$44,445.69",CA,CalOptima pos,1777.83
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$44,445.69",CA,CalOptima ppo,1777.83
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$44,445.69",CA,Kaiser hmo,14518.93
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$44,445.69",CA,Kaiser pos,14518.93
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$44,445.69",CA,Kaiser epo,14518.93
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$44,445.69",CA,Kaiser ppo,14518.93
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$82,834.66",CA,Anthem ppo,7731.23
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$82,834.66",CA,Anthem hmo,7731.23
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$82,834.66",CA,Anthem epo,7731.23
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$82,834.66",CA,CalOptima hmo,3313.39
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$82,834.66",CA,CalOptima pos,3313.39
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$82,834.66",CA,CalOptima ppo,3313.39
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$82,834.66",CA,Kaiser hmo,27059.32
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$82,834.66",CA,Kaiser pos,27059.32
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$82,834.66",CA,Kaiser epo,27059.32
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$82,834.66",CA,Kaiser ppo,27059.32
+Los Alamitos Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$95,892.41",CA,Anthem ppo,8949.96
+Los Alamitos Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$95,892.41",CA,Anthem hmo,8949.96
+Los Alamitos Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$95,892.41",CA,Anthem epo,8949.96
+Los Alamitos Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$95,892.41",CA,CalOptima hmo,3835.70
+Los Alamitos Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$95,892.41",CA,CalOptima pos,3835.70
+Los Alamitos Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$95,892.41",CA,CalOptima ppo,3835.70
+Los Alamitos Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$95,892.41",CA,Kaiser hmo,12785.65
+Los Alamitos Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$95,892.41",CA,Kaiser pos,12785.65
+Los Alamitos Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$95,892.41",CA,Kaiser epo,12785.65
+Los Alamitos Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$95,892.41",CA,Kaiser ppo,12785.65
+Los Alamitos Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$182,359.91",CA,Anthem ppo,13682.04
+Los Alamitos Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$182,359.91",CA,Anthem hmo,13682.04
+Los Alamitos Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$182,359.91",CA,Anthem epo,13682.04
+Los Alamitos Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$182,359.91",CA,CalOptima hmo,7294.40
+Los Alamitos Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$182,359.91",CA,CalOptima pos,7294.40
+Los Alamitos Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$182,359.91",CA,CalOptima ppo,7294.40
+Los Alamitos Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$182,359.91",CA,Kaiser hmo,47887.14
+Los Alamitos Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$182,359.91",CA,Kaiser pos,47887.14
+Los Alamitos Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$182,359.91",CA,Kaiser epo,47887.14
+Los Alamitos Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$182,359.91",CA,Kaiser ppo,47887.14
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$825.39,CA,Anthem ppo,77.04
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$825.39,CA,Anthem hmo,77.04
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$825.39,CA,Anthem epo,77.04
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$825.39,CA,CalOptima hmo,33.02
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$825.39,CA,CalOptima pos,33.02
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$825.39,CA,CalOptima ppo,33.02
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$825.39,CA,Kaiser hmo,269.63
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$825.39,CA,Kaiser pos,269.63
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$825.39,CA,Kaiser epo,269.63
+Los Alamitos Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$825.39,CA,Kaiser ppo,269.63
+Los Alamitos Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$30,003.33",CA,Anthem ppo,2800.31
+Los Alamitos Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$30,003.33",CA,Anthem hmo,2800.31
+Los Alamitos Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$30,003.33",CA,Anthem epo,2800.31
+Los Alamitos Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$30,003.33",CA,CalOptima hmo,1200.13
+Los Alamitos Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$30,003.33",CA,CalOptima pos,1200.13
+Los Alamitos Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$30,003.33",CA,CalOptima ppo,1200.13
+Los Alamitos Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$30,003.33",CA,Kaiser hmo,9001.00
+Los Alamitos Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$30,003.33",CA,Kaiser pos,9001.00
+Los Alamitos Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$30,003.33",CA,Kaiser epo,9001.00
+Los Alamitos Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$30,003.33",CA,Kaiser ppo,9001.00
+Los Alamitos Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$28,991.75",CA,Anthem ppo,2705.90
+Los Alamitos Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$28,991.75",CA,Anthem hmo,2705.90
+Los Alamitos Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$28,991.75",CA,Anthem epo,2705.90
+Los Alamitos Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$28,991.75",CA,CalOptima hmo,1159.67
+Los Alamitos Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$28,991.75",CA,CalOptima pos,1159.67
+Los Alamitos Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$28,991.75",CA,CalOptima ppo,1159.67
+Los Alamitos Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$28,991.75",CA,Kaiser hmo,3865.57
+Los Alamitos Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$28,991.75",CA,Kaiser pos,3865.57
+Los Alamitos Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$28,991.75",CA,Kaiser epo,3865.57
+Los Alamitos Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$28,991.75",CA,Kaiser ppo,3865.57
+Los Alamitos Medical Center,Ocular,HCPCS 66984,Cataract removal,"$41,243.81",CA,Anthem ppo,3849.42
+Los Alamitos Medical Center,Ocular,HCPCS 66984,Cataract removal,"$41,243.81",CA,Anthem hmo,3849.42
+Los Alamitos Medical Center,Ocular,HCPCS 66984,Cataract removal,"$41,243.81",CA,Anthem epo,3849.42
+Los Alamitos Medical Center,Ocular,HCPCS 66984,Cataract removal,"$41,243.81",CA,CalOptima hmo,1649.75
+Los Alamitos Medical Center,Ocular,HCPCS 66984,Cataract removal,"$41,243.81",CA,CalOptima pos,1649.75
+Los Alamitos Medical Center,Ocular,HCPCS 66984,Cataract removal,"$41,243.81",CA,CalOptima ppo,1649.75
+Los Alamitos Medical Center,Ocular,HCPCS 66984,Cataract removal,"$41,243.81",CA,Kaiser hmo,12373.14
+Los Alamitos Medical Center,Ocular,HCPCS 66984,Cataract removal,"$41,243.81",CA,Kaiser pos,12373.14
+Los Alamitos Medical Center,Ocular,HCPCS 66984,Cataract removal,"$41,243.81",CA,Kaiser epo,12373.14
+Los Alamitos Medical Center,Ocular,HCPCS 66984,Cataract removal,"$41,243.81",CA,Kaiser ppo,12373.14
+Los Alamitos Medical Center,Ocular,HCPCS 67108,Repair of detached retina,"$45,441.66",CA,Anthem ppo,4241.22
+Los Alamitos Medical Center,Ocular,HCPCS 67108,Repair of detached retina,"$45,441.66",CA,Anthem hmo,4241.22
+Los Alamitos Medical Center,Ocular,HCPCS 67108,Repair of detached retina,"$45,441.66",CA,Anthem epo,4241.22
+Los Alamitos Medical Center,Ocular,HCPCS 67108,Repair of detached retina,"$45,441.66",CA,CalOptima hmo,1817.67
+Los Alamitos Medical Center,Ocular,HCPCS 67108,Repair of detached retina,"$45,441.66",CA,CalOptima pos,1817.67
+Los Alamitos Medical Center,Ocular,HCPCS 67108,Repair of detached retina,"$45,441.66",CA,CalOptima ppo,1817.67
+Los Alamitos Medical Center,Ocular,HCPCS 67108,Repair of detached retina,"$45,441.66",CA,Kaiser hmo,13632.50
+Los Alamitos Medical Center,Ocular,HCPCS 67108,Repair of detached retina,"$45,441.66",CA,Kaiser pos,13632.50
+Los Alamitos Medical Center,Ocular,HCPCS 67108,Repair of detached retina,"$45,441.66",CA,Kaiser epo,13632.50
+Los Alamitos Medical Center,Ocular,HCPCS 67108,Repair of detached retina,"$45,441.66",CA,Kaiser ppo,13632.50
+Los Alamitos Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$9,361.55",CA,Anthem ppo,873.74
+Los Alamitos Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$9,361.55",CA,Anthem hmo,873.74
+Los Alamitos Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$9,361.55",CA,Anthem epo,873.74
+Los Alamitos Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$9,361.55",CA,CalOptima hmo,561.69
+Los Alamitos Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$9,361.55",CA,CalOptima pos,561.69
+Los Alamitos Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$9,361.55",CA,CalOptima ppo,561.69
+Los Alamitos Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$9,361.55",CA,Kaiser hmo,1248.21
+Los Alamitos Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$9,361.55",CA,Kaiser pos,1248.21
+Los Alamitos Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$9,361.55",CA,Kaiser epo,1248.21
+Los Alamitos Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$9,361.55",CA,Kaiser ppo,1248.21
