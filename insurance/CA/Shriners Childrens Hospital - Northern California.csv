@@ -1,0 +1,475 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State,plan_name,price
+Shriners Childrens Hospital - Northern California,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$458.50,CA,HealthSmart Preferred Care,389.72
+Shriners Childrens Hospital - Northern California,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$458.50,CA,UC of Davis,137.55
+Shriners Childrens Hospital - Northern California,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$678.70,CA,HealthSmart Preferred Care,576.89
+Shriners Childrens Hospital - Northern California,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$678.70,CA,UC of Davis,203.61
+Shriners Childrens Hospital - Northern California,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$360.30,CA,HealthSmart Preferred Care,306.25
+Shriners Childrens Hospital - Northern California,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$360.30,CA,UC of Davis,108.09
+Shriners Childrens Hospital - Northern California,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$649.40,CA,HealthSmart Preferred Care,551.99
+Shriners Childrens Hospital - Northern California,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$649.40,CA,UC of Davis,194.82
+Shriners Childrens Hospital - Northern California,Speech,HCPCS 92507,Speech Therapy,$454.70,CA,HealthSmart Preferred Care,386.50
+Shriners Childrens Hospital - Northern California,Speech,HCPCS 92507,Speech Therapy,$454.70,CA,UC of Davis,136.41
+Shriners Childrens Hospital - Northern California,Speech,HCPCS 92610,Swallow Evaluation,$555.00,CA,HealthSmart Preferred Care,471.75
+Shriners Childrens Hospital - Northern California,Speech,HCPCS 92610,Swallow Evaluation,$555.00,CA,UC of Davis,166.50
+Shriners Childrens Hospital - Northern California,Speech,HCPCS 92526,Swallow Treatment,$568.80,CA,HealthSmart Preferred Care,483.48
+Shriners Childrens Hospital - Northern California,Speech,HCPCS 92526,Swallow Treatment,$568.80,CA,UC of Davis,170.64
+Shriners Childrens Hospital - Northern California,Blood,HCPCS 85018,"Blood count, hemoglobin",$23.00,CA,HealthSmart Preferred Care,19.55
+Shriners Childrens Hospital - Northern California,Blood,HCPCS 85018,"Blood count, hemoglobin",$23.00,CA,UC of Davis,6.90
+Shriners Childrens Hospital - Northern California,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$23.00,CA,HealthSmart Preferred Care,19.55
+Shriners Childrens Hospital - Northern California,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$23.00,CA,UC of Davis,6.90
+Shriners Childrens Hospital - Northern California,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$124.40,CA,HealthSmart Preferred Care,105.74
+Shriners Childrens Hospital - Northern California,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$124.40,CA,UC of Davis,37.32
+Shriners Childrens Hospital - Northern California,Blood,HCPCS 85610,"Blood test, clotting time",$37.90,CA,HealthSmart Preferred Care,32.21
+Shriners Childrens Hospital - Northern California,Blood,HCPCS 85610,"Blood test, clotting time",$37.90,CA,UC of Davis,11.37
+Shriners Childrens Hospital - Northern California,Blood,HCPCS 85730,Coagulation assessment blood test,$58.00,CA,HealthSmart Preferred Care,49.30
+Shriners Childrens Hospital - Northern California,Blood,HCPCS 85730,Coagulation assessment blood test,$58.00,CA,UC of Davis,17.40
+Shriners Childrens Hospital - Northern California,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$75.10,CA,HealthSmart Preferred Care,63.83
+Shriners Childrens Hospital - Northern California,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$75.10,CA,UC of Davis,22.53
+Shriners Childrens Hospital - Northern California,Blood,HCPCS 85027,"Complete blood count, automated",$98.50,CA,HealthSmart Preferred Care,83.72
+Shriners Childrens Hospital - Northern California,Blood,HCPCS 85027,"Complete blood count, automated",$98.50,CA,UC of Davis,29.55
+Shriners Childrens Hospital - Northern California,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$102.40,CA,HealthSmart Preferred Care,87.04
+Shriners Childrens Hospital - Northern California,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$102.40,CA,UC of Davis,30.72
+Shriners Childrens Hospital - Northern California,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$133.70,CA,HealthSmart Preferred Care,113.64
+Shriners Childrens Hospital - Northern California,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$133.70,CA,UC of Davis,40.11
+Shriners Childrens Hospital - Northern California,Blood,HCPCS 85660,Red blood cell sickling measurement,$53.30,CA,HealthSmart Preferred Care,45.30
+Shriners Childrens Hospital - Northern California,Blood,HCPCS 85660,Red blood cell sickling measurement,$53.30,CA,UC of Davis,15.99
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$327.90,CA,HealthSmart Preferred Care,278.71
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$327.90,CA,UC of Davis,98.37
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$373.10,CA,HealthSmart Preferred Care,317.13
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$373.10,CA,UC of Davis,111.93
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82040,Albumin (protein) level,$39.60,CA,HealthSmart Preferred Care,33.66
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82040,Albumin (protein) level,$39.60,CA,UC of Davis,11.88
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$129.80,CA,HealthSmart Preferred Care,110.33
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$129.80,CA,UC of Davis,38.94
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$162.20,CA,HealthSmart Preferred Care,137.87
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$162.20,CA,UC of Davis,48.66
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82140,Ammonia level,$140.80,CA,HealthSmart Preferred Care,119.68
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82140,Ammonia level,$140.80,CA,UC of Davis,42.24
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82150,Amylase (enzyme) level,$62.60,CA,HealthSmart Preferred Care,53.21
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82150,Amylase (enzyme) level,$62.60,CA,UC of Davis,18.78
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$141.00,CA,HealthSmart Preferred Care,119.85
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$141.00,CA,UC of Davis,42.30
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$187.00,CA,HealthSmart Preferred Care,158.95
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$187.00,CA,UC of Davis,56.10
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84439,Assay of free thyroxine,$87.10,CA,HealthSmart Preferred Care,74.03
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84439,Assay of free thyroxine,$87.10,CA,UC of Davis,26.13
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$156.20,CA,HealthSmart Preferred Care,132.77
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$156.20,CA,UC of Davis,46.86
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82248,Bilirubin level (Direct),$48.60,CA,HealthSmart Preferred Care,41.31
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82248,Bilirubin level (Direct),$48.60,CA,UC of Davis,14.58
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82247,Bilirubin level (Total),$58.20,CA,HealthSmart Preferred Care,49.47
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82247,Bilirubin level (Total),$58.20,CA,UC of Davis,17.46
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82565,Blood creatinine level,$49.50,CA,HealthSmart Preferred Care,42.07
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82565,Blood creatinine level,$49.50,CA,UC of Davis,14.85
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$37.90,CA,HealthSmart Preferred Care,32.21
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$37.90,CA,UC of Davis,11.37
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84132,Blood potassium level,$44.40,CA,HealthSmart Preferred Care,37.74
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84132,Blood potassium level,$44.40,CA,UC of Davis,13.32
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84295,Blood sodium level,$46.40,CA,HealthSmart Preferred Care,39.44
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84295,Blood sodium level,$46.40,CA,UC of Davis,13.92
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$55.60,CA,HealthSmart Preferred Care,47.26
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$55.60,CA,UC of Davis,16.68
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$162.40,CA,HealthSmart Preferred Care,138.04
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$162.40,CA,UC of Davis,48.72
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82310,Calcium level,$49.80,CA,HealthSmart Preferred Care,42.33
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82310,Calcium level,$49.80,CA,UC of Davis,14.94
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$47.20,CA,HealthSmart Preferred Care,40.12
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$47.20,CA,UC of Davis,14.16
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82465,Cholesterol level,$42.10,CA,HealthSmart Preferred Care,35.79
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82465,Cholesterol level,$42.10,CA,UC of Davis,12.63
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82525,Copper level,$79.70,CA,HealthSmart Preferred Care,67.75
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82525,Copper level,$79.70,CA,UC of Davis,23.91
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82533,Cortisol Measurement,$157.50,CA,HealthSmart Preferred Care,133.88
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82533,Cortisol Measurement,$157.50,CA,UC of Davis,47.25
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84681,C-peptide (protein) level,$169.68,CA,HealthSmart Preferred Care,144.23
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84681,C-peptide (protein) level,$169.68,CA,UC of Davis,50.90
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$62.90,CA,HealthSmart Preferred Care,53.46
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$62.90,CA,UC of Davis,18.87
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$145.70,CA,HealthSmart Preferred Care,123.84
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$145.70,CA,UC of Davis,43.71
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$239.90,CA,HealthSmart Preferred Care,203.91
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$239.90,CA,UC of Davis,71.97
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$372.00,CA,HealthSmart Preferred Care,316.20
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$372.00,CA,UC of Davis,111.60
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$131.60,CA,HealthSmart Preferred Care,111.86
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$131.60,CA,UC of Davis,39.48
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82746,Folic acid; serum,$142.10,CA,HealthSmart Preferred Care,120.78
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82746,Folic acid; serum,$142.10,CA,UC of Davis,42.63
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$89.80,CA,HealthSmart Preferred Care,76.33
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$89.80,CA,UC of Davis,26.94
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$69.60,CA,HealthSmart Preferred Care,59.16
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$69.60,CA,UC of Davis,20.88
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$93.70,CA,HealthSmart Preferred Care,79.64
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$93.70,CA,UC of Davis,28.11
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$179.60,CA,HealthSmart Preferred Care,152.66
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$179.60,CA,UC of Davis,53.88
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$179.00,CA,HealthSmart Preferred Care,152.15
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$179.00,CA,UC of Davis,53.70
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$121.60,CA,HealthSmart Preferred Care,103.36
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$121.60,CA,UC of Davis,36.48
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83718,HDL cholesterol level,$79.10,CA,HealthSmart Preferred Care,67.23
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83718,HDL cholesterol level,$79.10,CA,UC of Davis,23.73
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83020,Hemoglobin Measurement,$124.40,CA,HealthSmart Preferred Care,105.74
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83020,Hemoglobin Measurement,$124.40,CA,UC of Davis,37.32
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$163.00,CA,HealthSmart Preferred Care,138.55
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$163.00,CA,UC of Davis,48.90
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$262.40,CA,HealthSmart Preferred Care,223.04
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$262.40,CA,UC of Davis,78.72
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$117.20,CA,HealthSmart Preferred Care,99.62
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$117.20,CA,UC of Davis,35.16
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83525,Insulin Measurement; Total,$110.40,CA,HealthSmart Preferred Care,93.84
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83525,Insulin Measurement; Total,$110.40,CA,UC of Davis,33.12
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82330,Ionized Calcium,$131.90,CA,HealthSmart Preferred Care,112.11
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82330,Ionized Calcium,$131.90,CA,UC of Davis,39.57
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83550,Iron Binding Capacity,$84.50,CA,HealthSmart Preferred Care,71.83
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83550,Iron Binding Capacity,$84.50,CA,UC of Davis,25.35
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83540,Iron level,$62.60,CA,HealthSmart Preferred Care,53.21
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83540,Iron level,$62.60,CA,UC of Davis,18.78
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$58.30,CA,HealthSmart Preferred Care,49.55
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$58.30,CA,UC of Davis,17.49
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$66.50,CA,HealthSmart Preferred Care,56.52
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$66.50,CA,UC of Davis,19.95
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$50.00,CA,HealthSmart Preferred Care,42.50
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$50.00,CA,UC of Davis,15.00
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$137.00,CA,HealthSmart Preferred Care,116.45
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$137.00,CA,UC of Davis,41.10
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83735,Magnesium Level,$64.70,CA,HealthSmart Preferred Care,54.99
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83735,Magnesium Level,$64.70,CA,UC of Davis,19.41
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83918,Organic acid level,$146.50,CA,HealthSmart Preferred Care,124.52
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83918,Organic acid level,$146.50,CA,UC of Davis,43.95
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83970,Parathormone,$398.70,CA,HealthSmart Preferred Care,338.89
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83970,Parathormone,$398.70,CA,UC of Davis,119.61
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$71.30,CA,HealthSmart Preferred Care,60.60
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$71.30,CA,UC of Davis,21.39
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84157,Prealbumin (protein) level,$35.40,CA,HealthSmart Preferred Care,30.09
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84157,Prealbumin (protein) level,$35.40,CA,UC of Davis,10.62
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$180.00,CA,HealthSmart Preferred Care,153.00
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$180.00,CA,UC of Davis,54.00
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84403,Testosterone (hormone) level,$249.40,CA,HealthSmart Preferred Care,211.99
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84403,Testosterone (hormone) level,$249.40,CA,UC of Davis,74.82
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84402,Testosterone Level; Free,$232.60,CA,HealthSmart Preferred Care,197.71
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84402,Testosterone Level; Free,$232.60,CA,UC of Davis,69.78
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$62.50,CA,HealthSmart Preferred Care,53.12
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$62.50,CA,UC of Davis,18.75
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$168.10,CA,HealthSmart Preferred Care,142.88
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$168.10,CA,UC of Davis,50.43
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$66.40,CA,HealthSmart Preferred Care,56.44
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$66.40,CA,UC of Davis,19.92
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84155,"Total protein level, blood",$35.40,CA,HealthSmart Preferred Care,30.09
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84155,"Total protein level, blood",$35.40,CA,UC of Davis,10.62
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$35.40,CA,HealthSmart Preferred Care,30.09
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$35.40,CA,UC of Davis,10.62
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84560,Uric acid level,$45.90,CA,HealthSmart Preferred Care,39.02
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84560,Uric acid level,$45.90,CA,UC of Davis,13.77
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84550,"Uric acid level, blood",$43.60,CA,HealthSmart Preferred Care,37.06
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84550,"Uric acid level, blood",$43.60,CA,UC of Davis,13.08
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82340,Urine calcium level,$58.30,CA,HealthSmart Preferred Care,49.55
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82340,Urine calcium level,$58.30,CA,UC of Davis,17.49
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82436,Urine chloride level,$31.50,CA,HealthSmart Preferred Care,26.77
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82436,Urine chloride level,$31.50,CA,UC of Davis,9.45
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$17.00,CA,HealthSmart Preferred Care,14.45
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$17.00,CA,UC of Davis,5.10
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$65.90,CA,HealthSmart Preferred Care,56.02
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$65.90,CA,UC of Davis,19.77
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84133,Urine potassium level,$41.50,CA,HealthSmart Preferred Care,35.27
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84133,Urine potassium level,$41.50,CA,UC of Davis,12.45
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84300,Urine sodium level,$46.90,CA,HealthSmart Preferred Care,39.86
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84300,Urine sodium level,$46.90,CA,UC of Davis,14.07
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$286.00,CA,HealthSmart Preferred Care,243.10
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$286.00,CA,UC of Davis,85.80
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84630,Zinc level,$110.00,CA,HealthSmart Preferred Care,93.50
+Shriners Childrens Hospital - Northern California,Chemistry,HCPCS 84630,Zinc level,$110.00,CA,UC of Davis,33.00
+Shriners Childrens Hospital - Northern California,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$145.60,CA,HealthSmart Preferred Care,123.76
+Shriners Childrens Hospital - Northern California,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$145.60,CA,UC of Davis,43.68
+Shriners Childrens Hospital - Northern California,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$139.10,CA,HealthSmart Preferred Care,118.23
+Shriners Childrens Hospital - Northern California,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$139.10,CA,UC of Davis,41.73
+Shriners Childrens Hospital - Northern California,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$137.90,CA,HealthSmart Preferred Care,117.22
+Shriners Childrens Hospital - Northern California,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$137.90,CA,UC of Davis,41.37
+Shriners Childrens Hospital - Northern California,Immunology,HCPCS 86318,Covid-19 antibody test,$114.44,CA,HealthSmart Preferred Care,97.27
+Shriners Childrens Hospital - Northern California,Immunology,HCPCS 86318,Covid-19 antibody test,$114.44,CA,UC of Davis,34.33
+Shriners Childrens Hospital - Northern California,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$132.70,CA,HealthSmart Preferred Care,112.79
+Shriners Childrens Hospital - Northern California,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$132.70,CA,UC of Davis,39.81
+Shriners Childrens Hospital - Northern California,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$116.40,CA,HealthSmart Preferred Care,98.94
+Shriners Childrens Hospital - Northern California,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$116.40,CA,UC of Davis,34.92
+Shriners Childrens Hospital - Northern California,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$103.70,CA,HealthSmart Preferred Care,88.14
+Shriners Childrens Hospital - Northern California,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$103.70,CA,UC of Davis,31.11
+Shriners Childrens Hospital - Northern California,Immunology,HCPCS 86140,Measurement C-reactive protein,$50.00,CA,HealthSmart Preferred Care,42.50
+Shriners Childrens Hospital - Northern California,Immunology,HCPCS 86140,Measurement C-reactive protein,$50.00,CA,UC of Davis,15.00
+Shriners Childrens Hospital - Northern California,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$50.40,CA,HealthSmart Preferred Care,42.84
+Shriners Childrens Hospital - Northern California,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$50.40,CA,UC of Davis,15.12
+Shriners Childrens Hospital - Northern California,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$116.40,CA,HealthSmart Preferred Care,98.94
+Shriners Childrens Hospital - Northern California,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$116.40,CA,UC of Davis,34.92
+Shriners Childrens Hospital - Northern California,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$119.80,CA,HealthSmart Preferred Care,101.83
+Shriners Childrens Hospital - Northern California,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$119.80,CA,UC of Davis,35.94
+Shriners Childrens Hospital - Northern California,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$140.60,CA,HealthSmart Preferred Care,119.51
+Shriners Childrens Hospital - Northern California,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$140.60,CA,UC of Davis,42.18
+Shriners Childrens Hospital - Northern California,Immunology,HCPCS 86431,Rheumatoid factor level,$60.30,CA,HealthSmart Preferred Care,51.25
+Shriners Childrens Hospital - Northern California,Immunology,HCPCS 86431,Rheumatoid factor level,$60.30,CA,UC of Davis,18.09
+Shriners Childrens Hospital - Northern California,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$50.00,CA,HealthSmart Preferred Care,42.50
+Shriners Childrens Hospital - Northern California,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$50.00,CA,UC of Davis,15.00
+Shriners Childrens Hospital - Northern California,Immunology,HCPCS 86592,Syphilis Detection Test,$41.20,CA,HealthSmart Preferred Care,35.02
+Shriners Childrens Hospital - Northern California,Immunology,HCPCS 86592,Syphilis Detection Test,$41.20,CA,UC of Davis,12.36
+Shriners Childrens Hospital - Northern California,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$153.70,CA,HealthSmart Preferred Care,130.64
+Shriners Childrens Hospital - Northern California,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$153.70,CA,UC of Davis,46.11
+Shriners Childrens Hospital - Northern California,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$174.70,CA,HealthSmart Preferred Care,148.49
+Shriners Childrens Hospital - Northern California,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$174.70,CA,UC of Davis,52.41
+Shriners Childrens Hospital - Northern California,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$76.60,CA,HealthSmart Preferred Care,65.11
+Shriners Childrens Hospital - Northern California,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$76.60,CA,UC of Davis,22.98
+Shriners Childrens Hospital - Northern California,Microbiology,HCPCS 87635,Covid-19 current infection test,$100.00,CA,HealthSmart Preferred Care,85.00
+Shriners Childrens Hospital - Northern California,Microbiology,HCPCS 87635,Covid-19 current infection test,$100.00,CA,UC of Davis,30.00
+Shriners Childrens Hospital - Northern California,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$108.70,CA,HealthSmart Preferred Care,92.39
+Shriners Childrens Hospital - Northern California,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$108.70,CA,UC of Davis,32.61
+Shriners Childrens Hospital - Northern California,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$388.20,CA,HealthSmart Preferred Care,329.97
+Shriners Childrens Hospital - Northern California,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$388.20,CA,UC of Davis,116.46
+Shriners Childrens Hospital - Northern California,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$99.70,CA,HealthSmart Preferred Care,84.75
+Shriners Childrens Hospital - Northern California,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$99.70,CA,UC of Davis,29.91
+Shriners Childrens Hospital - Northern California,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$164.35,CA,HealthSmart Preferred Care,139.70
+Shriners Childrens Hospital - Northern California,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$164.35,CA,UC of Davis,49.30
+Shriners Childrens Hospital - Northern California,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$232.50,CA,HealthSmart Preferred Care,197.62
+Shriners Childrens Hospital - Northern California,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$232.50,CA,UC of Davis,69.75
+Shriners Childrens Hospital - Northern California,Microbiology,HCPCS 86747,Parvovirus antibody test,$145.20,CA,HealthSmart Preferred Care,123.42
+Shriners Childrens Hospital - Northern California,Microbiology,HCPCS 86747,Parvovirus antibody test,$145.20,CA,UC of Davis,43.56
+Shriners Childrens Hospital - Northern California,Microbiology,HCPCS 87207,Smear for infectious agents,$57.90,CA,HealthSmart Preferred Care,49.21
+Shriners Childrens Hospital - Northern California,Microbiology,HCPCS 87207,Smear for infectious agents,$57.90,CA,UC of Davis,17.37
+Shriners Childrens Hospital - Northern California,Microbiology,HCPCS 87177,Smear for Parasites,$82.60,CA,HealthSmart Preferred Care,70.21
+Shriners Childrens Hospital - Northern California,Microbiology,HCPCS 87177,Smear for Parasites,$82.60,CA,UC of Davis,24.78
+Shriners Childrens Hospital - Northern California,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$48.70,CA,HealthSmart Preferred Care,41.40
+Shriners Childrens Hospital - Northern California,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$48.70,CA,UC of Davis,14.61
+Shriners Childrens Hospital - Northern California,Microbiology,HCPCS 87045,Stool Culture,$91.10,CA,HealthSmart Preferred Care,77.43
+Shriners Childrens Hospital - Northern California,Microbiology,HCPCS 87045,Stool Culture,$91.10,CA,UC of Davis,27.33
+Shriners Childrens Hospital - Northern California,Microbiology,HCPCS 87880,Strep Test,$115.90,CA,HealthSmart Preferred Care,98.52
+Shriners Childrens Hospital - Northern California,Microbiology,HCPCS 87880,Strep Test,$115.90,CA,UC of Davis,34.77
+Shriners Childrens Hospital - Northern California,Microbiology,HCPCS 87804,Test for Influenza Virus,$113.90,CA,HealthSmart Preferred Care,96.81
+Shriners Childrens Hospital - Northern California,Microbiology,HCPCS 87804,Test for Influenza Virus,$113.90,CA,UC of Davis,34.17
+Shriners Childrens Hospital - Northern California,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$124.50,CA,HealthSmart Preferred Care,105.83
+Shriners Childrens Hospital - Northern California,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$124.50,CA,UC of Davis,37.35
+Shriners Childrens Hospital - Northern California,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$459.40,CA,HealthSmart Preferred Care,390.49
+Shriners Childrens Hospital - Northern California,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$459.40,CA,UC of Davis,137.82
+Shriners Childrens Hospital - Northern California,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$81.70,CA,HealthSmart Preferred Care,69.45
+Shriners Childrens Hospital - Northern California,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$81.70,CA,UC of Davis,24.51
+Shriners Childrens Hospital - Northern California,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$102.10,CA,HealthSmart Preferred Care,86.78
+Shriners Childrens Hospital - Northern California,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$102.10,CA,UC of Davis,30.63
+Shriners Childrens Hospital - Northern California,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$129.50,CA,HealthSmart Preferred Care,110.08
+Shriners Childrens Hospital - Northern California,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$129.50,CA,UC of Davis,38.85
+Shriners Childrens Hospital - Northern California,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$83.80,CA,HealthSmart Preferred Care,71.23
+Shriners Childrens Hospital - Northern California,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$83.80,CA,UC of Davis,25.14
+Shriners Childrens Hospital - Northern California,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$78.90,CA,HealthSmart Preferred Care,67.06
+Shriners Childrens Hospital - Northern California,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$78.90,CA,UC of Davis,23.67
+Shriners Childrens Hospital - Northern California,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$113.90,CA,HealthSmart Preferred Care,96.81
+Shriners Childrens Hospital - Northern California,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$113.90,CA,UC of Davis,34.17
+Shriners Childrens Hospital - Northern California,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$132.30,CA,HealthSmart Preferred Care,112.46
+Shriners Childrens Hospital - Northern California,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$132.30,CA,UC of Davis,39.69
+Shriners Childrens Hospital - Northern California,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$168.10,CA,HealthSmart Preferred Care,142.88
+Shriners Childrens Hospital - Northern California,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$168.10,CA,UC of Davis,50.43
+Shriners Childrens Hospital - Northern California,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$128.30,CA,HealthSmart Preferred Care,109.06
+Shriners Childrens Hospital - Northern California,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$128.30,CA,UC of Davis,38.49
+Shriners Childrens Hospital - Northern California,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$63.80,CA,HealthSmart Preferred Care,54.23
+Shriners Childrens Hospital - Northern California,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$63.80,CA,UC of Davis,19.14
+Shriners Childrens Hospital - Northern California,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$110.60,CA,HealthSmart Preferred Care,94.01
+Shriners Childrens Hospital - Northern California,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$110.60,CA,UC of Davis,33.18
+Shriners Childrens Hospital - Northern California,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$128.10,CA,HealthSmart Preferred Care,108.88
+Shriners Childrens Hospital - Northern California,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$128.10,CA,UC of Davis,38.43
+Shriners Childrens Hospital - Northern California,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$130.80,CA,HealthSmart Preferred Care,111.18
+Shriners Childrens Hospital - Northern California,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$130.80,CA,UC of Davis,39.24
+Shriners Childrens Hospital - Northern California,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$130.80,CA,HealthSmart Preferred Care,111.18
+Shriners Childrens Hospital - Northern California,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$130.80,CA,UC of Davis,39.24
+Shriners Childrens Hospital - Northern California,Transfusion,HCPCS 86900,"Blood Typing, ABO",$57.60,CA,HealthSmart Preferred Care,48.96
+Shriners Childrens Hospital - Northern California,Transfusion,HCPCS 86900,"Blood Typing, ABO",$57.60,CA,UC of Davis,17.28
+Shriners Childrens Hospital - Northern California,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$57.60,CA,HealthSmart Preferred Care,48.96
+Shriners Childrens Hospital - Northern California,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$57.60,CA,UC of Davis,17.28
+Shriners Childrens Hospital - Northern California,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$169.70,CA,HealthSmart Preferred Care,144.24
+Shriners Childrens Hospital - Northern California,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$169.70,CA,UC of Davis,50.91
+Shriners Childrens Hospital - Northern California,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$99.80,CA,HealthSmart Preferred Care,84.83
+Shriners Childrens Hospital - Northern California,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$99.80,CA,UC of Davis,29.94
+Shriners Childrens Hospital - Northern California,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$51.90,CA,HealthSmart Preferred Care,44.11
+Shriners Childrens Hospital - Northern California,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$51.90,CA,UC of Davis,15.57
+Shriners Childrens Hospital - Northern California,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$74.90,CA,HealthSmart Preferred Care,63.67
+Shriners Childrens Hospital - Northern California,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$74.90,CA,UC of Davis,22.47
+Shriners Childrens Hospital - Northern California,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$99.80,CA,HealthSmart Preferred Care,84.83
+Shriners Childrens Hospital - Northern California,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$99.80,CA,UC of Davis,29.94
+Shriners Childrens Hospital - Northern California,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$24.70,CA,HealthSmart Preferred Care,20.99
+Shriners Childrens Hospital - Northern California,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$24.70,CA,UC of Davis,7.41
+Shriners Childrens Hospital - Northern California,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$21.70,CA,HealthSmart Preferred Care,18.45
+Shriners Childrens Hospital - Northern California,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$21.70,CA,UC of Davis,6.51
+Shriners Childrens Hospital - Northern California,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$30.50,CA,HealthSmart Preferred Care,25.93
+Shriners Childrens Hospital - Northern California,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$30.50,CA,UC of Davis,9.15
+Shriners Childrens Hospital - Northern California,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$61.20,CA,HealthSmart Preferred Care,52.02
+Shriners Childrens Hospital - Northern California,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$61.20,CA,UC of Davis,18.36
+Shriners Childrens Hospital - Northern California,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$1,199.60",CA,HealthSmart Preferred Care,1019.66
+Shriners Childrens Hospital - Northern California,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$1,199.60",CA,UC of Davis,359.88
+Shriners Childrens Hospital - Northern California,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$180.80,CA,HealthSmart Preferred Care,153.68
+Shriners Childrens Hospital - Northern California,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$180.80,CA,UC of Davis,54.24
+Shriners Childrens Hospital - Northern California,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,539.50",CA,HealthSmart Preferred Care,1308.58
+Shriners Childrens Hospital - Northern California,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,539.50",CA,UC of Davis,461.85
+Shriners Childrens Hospital - Northern California,Pulmonary,HCPCS 94640,Aerosol Treatment,$186.20,CA,HealthSmart Preferred Care,158.27
+Shriners Childrens Hospital - Northern California,Pulmonary,HCPCS 94640,Aerosol Treatment,$186.20,CA,UC of Davis,55.86
+Shriners Childrens Hospital - Northern California,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$415.70,CA,HealthSmart Preferred Care,353.34
+Shriners Childrens Hospital - Northern California,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$415.70,CA,UC of Davis,124.71
+Shriners Childrens Hospital - Northern California,Pulmonary,HCPCS 94010,Spirometry - breathing test,$389.90,CA,HealthSmart Preferred Care,331.41
+Shriners Childrens Hospital - Northern California,Pulmonary,HCPCS 94010,Spirometry - breathing test,$389.90,CA,UC of Davis,116.97
+Shriners Childrens Hospital - Northern California,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$2,318.40",CA,HealthSmart Preferred Care,1970.64
+Shriners Childrens Hospital - Northern California,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$2,318.40",CA,UC of Davis,695.52
+Shriners Childrens Hospital - Northern California,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,328.30",CA,HealthSmart Preferred Care,1129.05
+Shriners Childrens Hospital - Northern California,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,328.30",CA,UC of Davis,398.49
+Shriners Childrens Hospital - Northern California,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,328.30",CA,HealthSmart Preferred Care,1129.05
+Shriners Childrens Hospital - Northern California,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,328.30",CA,UC of Davis,398.49
+Shriners Childrens Hospital - Northern California,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,022.50",CA,HealthSmart Preferred Care,1719.12
+Shriners Childrens Hospital - Northern California,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,022.50",CA,UC of Davis,606.75
+Shriners Childrens Hospital - Northern California,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,835.00",CA,HealthSmart Preferred Care,3259.75
+Shriners Childrens Hospital - Northern California,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,835.00",CA,UC of Davis,1150.50
+Shriners Childrens Hospital - Northern California,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$3,835.00",CA,HealthSmart Preferred Care,3259.75
+Shriners Childrens Hospital - Northern California,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$3,835.00",CA,UC of Davis,1150.50
+Shriners Childrens Hospital - Northern California,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,703.20",CA,HealthSmart Preferred Care,2297.72
+Shriners Childrens Hospital - Northern California,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,703.20",CA,UC of Davis,810.96
+Shriners Childrens Hospital - Northern California,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$2,022.50",CA,HealthSmart Preferred Care,1719.12
+Shriners Childrens Hospital - Northern California,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$2,022.50",CA,UC of Davis,606.75
+Shriners Childrens Hospital - Northern California,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$2,271.00",CA,HealthSmart Preferred Care,1930.35
+Shriners Childrens Hospital - Northern California,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$2,271.00",CA,UC of Davis,681.30
+Shriners Childrens Hospital - Northern California,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$2,022.50",CA,HealthSmart Preferred Care,1719.12
+Shriners Childrens Hospital - Northern California,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$2,022.50",CA,UC of Davis,606.75
+Shriners Childrens Hospital - Northern California,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,328.30",CA,HealthSmart Preferred Care,1129.05
+Shriners Childrens Hospital - Northern California,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,328.30",CA,UC of Davis,398.49
+Shriners Childrens Hospital - Northern California,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$2,022.50",CA,HealthSmart Preferred Care,1719.12
+Shriners Childrens Hospital - Northern California,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$2,022.50",CA,UC of Davis,606.75
+Shriners Childrens Hospital - Northern California,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$2,022.50",CA,HealthSmart Preferred Care,1719.12
+Shriners Childrens Hospital - Northern California,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$2,022.50",CA,UC of Davis,606.75
+Shriners Childrens Hospital - Northern California,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$2,380.00",CA,HealthSmart Preferred Care,2023.00
+Shriners Childrens Hospital - Northern California,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$2,380.00",CA,UC of Davis,714.00
+Shriners Childrens Hospital - Northern California,MRI,HCPCS 72146,MRI chest spine without contrast material,"$6,634.20",CA,HealthSmart Preferred Care,5639.07
+Shriners Childrens Hospital - Northern California,MRI,HCPCS 72146,MRI chest spine without contrast material,"$6,634.20",CA,UC of Davis,1990.26
+Shriners Childrens Hospital - Northern California,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$6,634.20",CA,HealthSmart Preferred Care,5639.07
+Shriners Childrens Hospital - Northern California,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$6,634.20",CA,UC of Davis,1990.26
+Shriners Childrens Hospital - Northern California,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$10,162.50",CA,HealthSmart Preferred Care,8638.12
+Shriners Childrens Hospital - Northern California,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$10,162.50",CA,UC of Davis,3048.75
+Shriners Childrens Hospital - Northern California,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,266.70",CA,HealthSmart Preferred Care,1926.69
+Shriners Childrens Hospital - Northern California,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,266.70",CA,UC of Davis,680.01
+Shriners Childrens Hospital - Northern California,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$3,472.20",CA,HealthSmart Preferred Care,2951.37
+Shriners Childrens Hospital - Northern California,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$3,472.20",CA,UC of Davis,1041.66
+Shriners Childrens Hospital - Northern California,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$3,645.80",CA,HealthSmart Preferred Care,3098.93
+Shriners Childrens Hospital - Northern California,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$3,645.80",CA,UC of Davis,1093.74
+Shriners Childrens Hospital - Northern California,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,856.20",CA,HealthSmart Preferred Care,2427.77
+Shriners Childrens Hospital - Northern California,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,856.20",CA,UC of Davis,856.86
+Shriners Childrens Hospital - Northern California,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,645.80",CA,HealthSmart Preferred Care,3098.93
+Shriners Childrens Hospital - Northern California,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,645.80",CA,UC of Davis,1093.74
+Shriners Childrens Hospital - Northern California,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,380.00",CA,HealthSmart Preferred Care,2023.00
+Shriners Childrens Hospital - Northern California,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,380.00",CA,UC of Davis,714.00
+Shriners Childrens Hospital - Northern California,MRI,HCPCS 73721,MRI scan of leg joint,"$2,856.20",CA,HealthSmart Preferred Care,2427.77
+Shriners Childrens Hospital - Northern California,MRI,HCPCS 73721,MRI scan of leg joint,"$2,856.20",CA,UC of Davis,856.86
+Shriners Childrens Hospital - Northern California,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$425.40,CA,HealthSmart Preferred Care,361.59
+Shriners Childrens Hospital - Northern California,Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$425.40,CA,UC of Davis,127.62
+Shriners Childrens Hospital - Northern California,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$795.00,CA,HealthSmart Preferred Care,675.75
+Shriners Childrens Hospital - Northern California,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$795.00,CA,UC of Davis,238.50
+Shriners Childrens Hospital - Northern California,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$662.60,CA,HealthSmart Preferred Care,563.21
+Shriners Childrens Hospital - Northern California,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$662.60,CA,UC of Davis,198.78
+Shriners Childrens Hospital - Northern California,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$134.20,CA,HealthSmart Preferred Care,114.07
+Shriners Childrens Hospital - Northern California,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$134.20,CA,UC of Davis,40.26
+Shriners Childrens Hospital - Northern California,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$795.00,CA,HealthSmart Preferred Care,675.75
+Shriners Childrens Hospital - Northern California,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$795.00,CA,UC of Davis,238.50
+Shriners Childrens Hospital - Northern California,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$662.60,CA,HealthSmart Preferred Care,563.21
+Shriners Childrens Hospital - Northern California,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$662.60,CA,UC of Davis,198.78
+Shriners Childrens Hospital - Northern California,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$662.60,CA,HealthSmart Preferred Care,563.21
+Shriners Childrens Hospital - Northern California,Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$662.60,CA,UC of Davis,198.78
+Shriners Childrens Hospital - Northern California,X-ray,HCPCS 74220,X-ray esophagus (esophogram),$596.00,CA,HealthSmart Preferred Care,506.60
+Shriners Childrens Hospital - Northern California,X-ray,HCPCS 74220,X-ray esophagus (esophogram),$596.00,CA,UC of Davis,178.80
+Shriners Childrens Hospital - Northern California,X-ray,HCPCS 74230,"X-ray, swallowing function study",$596.00,CA,HealthSmart Preferred Care,506.60
+Shriners Childrens Hospital - Northern California,X-ray,HCPCS 74230,"X-ray, swallowing function study",$596.00,CA,UC of Davis,178.80
+Shriners Childrens Hospital - Northern California,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$17,026.66",CA,HealthSmart Preferred Care,14472.66
+Shriners Childrens Hospital - Northern California,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$17,026.66",CA,UC of Davis,5108.00
+Shriners Childrens Hospital - Northern California,Abdomenal,HCPCS 47562,Cholecystectomy,"$13,484.61",CA,HealthSmart Preferred Care,11461.92
+Shriners Childrens Hospital - Northern California,Abdomenal,HCPCS 47562,Cholecystectomy,"$13,484.61",CA,UC of Davis,4045.38
+Shriners Childrens Hospital - Northern California,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$6,610.81",CA,HealthSmart Preferred Care,5619.19
+Shriners Childrens Hospital - Northern California,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$6,610.81",CA,UC of Davis,1983.24
+Shriners Childrens Hospital - Northern California,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$7,428.32",CA,HealthSmart Preferred Care,6314.08
+Shriners Childrens Hospital - Northern California,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$7,428.32",CA,UC of Davis,2228.50
+Shriners Childrens Hospital - Northern California,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$897.80,CA,HealthSmart Preferred Care,763.13
+Shriners Childrens Hospital - Northern California,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$897.80,CA,UC of Davis,269.34
+Shriners Childrens Hospital - Northern California,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$298.90,CA,HealthSmart Preferred Care,254.06
+Shriners Childrens Hospital - Northern California,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$298.90,CA,UC of Davis,89.67
+Shriners Childrens Hospital - Northern California,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$26,749.45",CA,HealthSmart Preferred Care,22737.03
+Shriners Childrens Hospital - Northern California,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$26,749.45",CA,UC of Davis,8024.84
+Shriners Childrens Hospital - Northern California,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$12,997.46",CA,HealthSmart Preferred Care,11047.84
+Shriners Childrens Hospital - Northern California,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$12,997.46",CA,UC of Davis,3899.24
+Shriners Childrens Hospital - Northern California,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$7,896.13",CA,HealthSmart Preferred Care,6711.71
+Shriners Childrens Hospital - Northern California,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$7,896.13",CA,UC of Davis,2368.84
+Shriners Childrens Hospital - Northern California,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$11,001.96",CA,HealthSmart Preferred Care,9351.67
+Shriners Childrens Hospital - Northern California,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$11,001.96",CA,UC of Davis,3300.59
+Shriners Childrens Hospital - Northern California,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$9,244.15",CA,HealthSmart Preferred Care,7857.52
+Shriners Childrens Hospital - Northern California,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$9,244.15",CA,UC of Davis,2773.24
+Shriners Childrens Hospital - Northern California,Breast,HCPCS 19101,Biopsy of breast,"$1,402.45",CA,HealthSmart Preferred Care,1192.08
+Shriners Childrens Hospital - Northern California,Breast,HCPCS 19101,Biopsy of breast,"$1,402.45",CA,UC of Davis,420.74
+Shriners Childrens Hospital - Northern California,Breast,HCPCS 19120,Excision of cyst of breast,"$10,206.47",CA,HealthSmart Preferred Care,8675.50
+Shriners Childrens Hospital - Northern California,Breast,HCPCS 19120,Excision of cyst of breast,"$10,206.47",CA,UC of Davis,3061.94
+Shriners Childrens Hospital - Northern California,Breast,HCPCS 19301,Partial removal of breast,"$9,981.26",CA,HealthSmart Preferred Care,8484.07
+Shriners Childrens Hospital - Northern California,Breast,HCPCS 19301,Partial removal of breast,"$9,981.26",CA,UC of Davis,2994.38
+Shriners Childrens Hospital - Northern California,Breast,HCPCS 19318,Reduction mammaplasty,"$11,334.97",CA,HealthSmart Preferred Care,9634.72
+Shriners Childrens Hospital - Northern California,Breast,HCPCS 19318,Reduction mammaplasty,"$11,334.97",CA,UC of Davis,3400.49
+Shriners Childrens Hospital - Northern California,Cardiac,HCPCS 36415,Venipuncture (blood collection),$21.20,CA,HealthSmart Preferred Care,18.02
+Shriners Childrens Hospital - Northern California,Cardiac,HCPCS 36415,Venipuncture (blood collection),$21.20,CA,UC of Davis,6.36
+Shriners Childrens Hospital - Northern California,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$8,395.02",CA,HealthSmart Preferred Care,7135.77
+Shriners Childrens Hospital - Northern California,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$8,395.02",CA,UC of Davis,2518.51
+Shriners Childrens Hospital - Northern California,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$13,019.88",CA,HealthSmart Preferred Care,11066.90
+Shriners Childrens Hospital - Northern California,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$13,019.88",CA,UC of Davis,3905.96
+Shriners Childrens Hospital - Northern California,Digestive,HCPCS 43235,EGD,"$3,062.43",CA,HealthSmart Preferred Care,2603.07
+Shriners Childrens Hospital - Northern California,Digestive,HCPCS 43235,EGD,"$3,062.43",CA,UC of Davis,918.73
+Shriners Childrens Hospital - Northern California,Digestive,HCPCS 43239,EGD and biopsy,"$4,163.62",CA,HealthSmart Preferred Care,3539.08
+Shriners Childrens Hospital - Northern California,Digestive,HCPCS 43239,EGD and biopsy,"$4,163.62",CA,UC of Davis,1249.09
+Shriners Childrens Hospital - Northern California,Digestive,MSDRG 331,Major small and large bowel procedures,"$73,791.22",CA,HealthSmart Preferred Care,62722.54
+Shriners Childrens Hospital - Northern California,Digestive,MSDRG 331,Major small and large bowel procedures,"$73,791.22",CA,UC of Davis,22137.37
+Shriners Childrens Hospital - Northern California,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$22,976.22",CA,HealthSmart Preferred Care,19529.79
+Shriners Childrens Hospital - Northern California,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,"$22,976.22",CA,UC of Davis,6892.87
+Shriners Childrens Hospital - Northern California,General,HCPCS 10060,Drainage of Abscess,"$5,182.26",CA,HealthSmart Preferred Care,4404.92
+Shriners Childrens Hospital - Northern California,General,HCPCS 10060,Drainage of Abscess,"$5,182.26",CA,UC of Davis,1554.68
+Shriners Childrens Hospital - Northern California,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple","$8,475.87",CA,HealthSmart Preferred Care,7204.49
+Shriners Childrens Hospital - Northern California,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple","$8,475.87",CA,UC of Davis,2542.76
+Shriners Childrens Hospital - Northern California,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$387.20,CA,HealthSmart Preferred Care,329.12
+Shriners Childrens Hospital - Northern California,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$387.20,CA,UC of Davis,116.16
+Shriners Childrens Hospital - Northern California,Head,HCPCS 69436,Create eardrum opening,"$5,017.29",CA,HealthSmart Preferred Care,4264.69
+Shriners Childrens Hospital - Northern California,Head,HCPCS 69436,Create eardrum opening,"$5,017.29",CA,UC of Davis,1505.19
+Shriners Childrens Hospital - Northern California,Musculoskeletal,HCPCS 29130,Application of finger splint,$371.80,CA,HealthSmart Preferred Care,316.03
+Shriners Childrens Hospital - Northern California,Musculoskeletal,HCPCS 29130,Application of finger splint,$371.80,CA,UC of Davis,111.54
+Shriners Childrens Hospital - Northern California,Musculoskeletal,HCPCS 29105,Application of full arm cast/splint,$852.80,CA,HealthSmart Preferred Care,724.88
+Shriners Childrens Hospital - Northern California,Musculoskeletal,HCPCS 29105,Application of full arm cast/splint,$852.80,CA,UC of Davis,255.84
+Shriners Childrens Hospital - Northern California,Musculoskeletal,HCPCS 29505,Application of full leg cast/splint,$852.80,CA,HealthSmart Preferred Care,724.88
+Shriners Childrens Hospital - Northern California,Musculoskeletal,HCPCS 29505,Application of full leg cast/splint,$852.80,CA,UC of Davis,255.84
+Shriners Childrens Hospital - Northern California,Musculoskeletal,HCPCS 29125,Application of short arm cast/splint (below the elbow),$681.60,CA,HealthSmart Preferred Care,579.36
+Shriners Childrens Hospital - Northern California,Musculoskeletal,HCPCS 29125,Application of short arm cast/splint (below the elbow),$681.60,CA,UC of Davis,204.48
+Shriners Childrens Hospital - Northern California,Musculoskeletal,HCPCS 29515,Application of short leg cast/splint (below the knee),$852.80,CA,HealthSmart Preferred Care,724.88
+Shriners Childrens Hospital - Northern California,Musculoskeletal,HCPCS 29515,Application of short leg cast/splint (below the knee),$852.80,CA,UC of Davis,255.84
+Shriners Childrens Hospital - Northern California,Musculoskeletal,HCPCS 20605,Arthrocentesis (drainage) of joint,"$6,467.22",CA,HealthSmart Preferred Care,5497.14
+Shriners Childrens Hospital - Northern California,Musculoskeletal,HCPCS 20605,Arthrocentesis (drainage) of joint,"$6,467.22",CA,UC of Davis,1940.17
+Shriners Childrens Hospital - Northern California,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$169,715.71",CA,HealthSmart Preferred Care,144258.35
+Shriners Childrens Hospital - Northern California,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$169,715.71",CA,UC of Davis,50914.71
+Shriners Childrens Hospital - Northern California,Musculoskeletal,MSDRG 482,Hip and femur procedures,"$42,631.11",CA,HealthSmart Preferred Care,36236.44
+Shriners Childrens Hospital - Northern California,Musculoskeletal,MSDRG 482,Hip and femur procedures,"$42,631.11",CA,UC of Davis,12789.33
+Shriners Childrens Hospital - Northern California,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$7,456.43",CA,HealthSmart Preferred Care,6337.97
+Shriners Childrens Hospital - Northern California,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$7,456.43",CA,UC of Davis,2236.93
+Shriners Childrens Hospital - Northern California,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$85,357.28",CA,HealthSmart Preferred Care,72553.69
+Shriners Childrens Hospital - Northern California,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$85,357.28",CA,UC of Davis,25607.18
+Shriners Childrens Hospital - Northern California,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$12,486.67",CA,HealthSmart Preferred Care,10613.67
+Shriners Childrens Hospital - Northern California,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$12,486.67",CA,UC of Davis,3746.00
+Shriners Childrens Hospital - Northern California,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$11,591.27",CA,HealthSmart Preferred Care,9852.58
+Shriners Childrens Hospital - Northern California,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$11,591.27",CA,UC of Davis,3477.38
+Shriners Childrens Hospital - Northern California,Musculoskeletal,MSDRG 494,"Lower extremity and humerus procedures except hip, foot and femur","$36,856.67",CA,HealthSmart Preferred Care,31328.17
+Shriners Childrens Hospital - Northern California,Musculoskeletal,MSDRG 494,"Lower extremity and humerus procedures except hip, foot and femur","$36,856.67",CA,UC of Davis,11057.00
+Shriners Childrens Hospital - Northern California,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$131,285.24",CA,HealthSmart Preferred Care,111592.46
+Shriners Childrens Hospital - Northern California,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$131,285.24",CA,UC of Davis,39385.57
+Shriners Childrens Hospital - Northern California,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$852.80,CA,HealthSmart Preferred Care,724.88
+Shriners Childrens Hospital - Northern California,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$852.80,CA,UC of Davis,255.84
+Shriners Childrens Hospital - Northern California,Musculoskeletal,HCPCS 25605,Treatment of forearm (radius or ulna) fracture,"$9,062.08",CA,HealthSmart Preferred Care,7702.77
+Shriners Childrens Hospital - Northern California,Musculoskeletal,HCPCS 25605,Treatment of forearm (radius or ulna) fracture,"$9,062.08",CA,UC of Davis,2718.62
+Shriners Childrens Hospital - Northern California,Skin,HCPCS 15876,"Liposuction (lipectomy), head and neck","$13,496.29",CA,HealthSmart Preferred Care,11471.85
+Shriners Childrens Hospital - Northern California,Skin,HCPCS 15876,"Liposuction (lipectomy), head and neck","$13,496.29",CA,UC of Davis,4048.89
+Shriners Childrens Hospital - Northern California,Skin,HCPCS 15877,"Liposuction (lipectomy), trunk (abdomen)","$11,261.44",CA,HealthSmart Preferred Care,9572.22
+Shriners Childrens Hospital - Northern California,Skin,HCPCS 15877,"Liposuction (lipectomy), trunk (abdomen)","$11,261.44",CA,UC of Davis,3378.43
+Shriners Childrens Hospital - Northern California,Skin,MSDRG 581,"Other skin, subcutaneous tissue and breast procedures","$24,750.11",CA,HealthSmart Preferred Care,21037.59
+Shriners Childrens Hospital - Northern California,Skin,MSDRG 581,"Other skin, subcutaneous tissue and breast procedures","$24,750.11",CA,UC of Davis,7425.03
+Shriners Childrens Hospital - Northern California,Skin,HCPCS 15836,"Removal of excess skin, arm","$4,251.00",CA,HealthSmart Preferred Care,3613.35
+Shriners Childrens Hospital - Northern California,Skin,HCPCS 15836,"Removal of excess skin, arm","$4,251.00",CA,UC of Davis,1275.30
+Shriners Childrens Hospital - Northern California,Soft Tissue,HCPCS 97597,Debridement of open wound,$673.70,CA,HealthSmart Preferred Care,572.64
+Shriners Childrens Hospital - Northern California,Soft Tissue,HCPCS 97597,Debridement of open wound,$673.70,CA,UC of Davis,202.11
+Shriners Childrens Hospital - Northern California,Soft Tissue,HCPCS 97602,Non-selective debridement,$384.20,CA,HealthSmart Preferred Care,326.57
+Shriners Childrens Hospital - Northern California,Soft Tissue,HCPCS 97602,Non-selective debridement,$384.20,CA,UC of Davis,115.26
+Shriners Childrens Hospital - Northern California,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$2,357.00",CA,HealthSmart Preferred Care,2003.45
+Shriners Childrens Hospital - Northern California,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$2,357.00",CA,UC of Davis,707.10
+Shriners Childrens Hospital - Northern California,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$6,146.28",CA,HealthSmart Preferred Care,5224.34
+Shriners Childrens Hospital - Northern California,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$6,146.28",CA,UC of Davis,1843.88
