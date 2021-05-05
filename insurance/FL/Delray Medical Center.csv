@@ -1,0 +1,778 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State,plan_name,price
+Delray Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$41,722.58",FL,Commercial Insurance hmo,7788.21
+Delray Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$41,722.58",FL,Commercial Insurance pos,7788.21
+Delray Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$41,722.58",FL,Commercial Insurance ppo,7788.21
+Delray Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$41,722.58",FL,Multiplan hmo,50067.09
+Delray Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$41,722.58",FL,Multiplan pos,50067.09
+Delray Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$41,722.58",FL,Multiplan ppo,50067.09
+Delray Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$36,926.11",FL,Commercial Insurance hmo,6892.87
+Delray Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$36,926.11",FL,Commercial Insurance pos,6892.87
+Delray Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$36,926.11",FL,Commercial Insurance ppo,6892.87
+Delray Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$36,926.11",FL,Multiplan hmo,44311.33
+Delray Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$36,926.11",FL,Multiplan pos,44311.33
+Delray Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$36,926.11",FL,Multiplan ppo,44311.33
+Delray Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,566.34",FL,Commercial Insurance hmo,665.72
+Delray Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,566.34",FL,Commercial Insurance pos,665.72
+Delray Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,566.34",FL,Commercial Insurance ppo,665.72
+Delray Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,566.34",FL,Multiplan hmo,4279.61
+Delray Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,566.34",FL,Multiplan pos,4279.61
+Delray Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,"$3,566.34",FL,Multiplan ppo,4279.61
+Delray Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$11,433.31",FL,Commercial Insurance hmo,2134.22
+Delray Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$11,433.31",FL,Commercial Insurance pos,2134.22
+Delray Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$11,433.31",FL,Commercial Insurance ppo,2134.22
+Delray Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$11,433.31",FL,Multiplan hmo,13719.97
+Delray Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$11,433.31",FL,Multiplan pos,13719.97
+Delray Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$11,433.31",FL,Multiplan ppo,13719.97
+Delray Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$18,158.06",FL,Commercial Insurance hmo,3389.50
+Delray Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$18,158.06",FL,Commercial Insurance pos,3389.50
+Delray Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$18,158.06",FL,Commercial Insurance ppo,3389.50
+Delray Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$18,158.06",FL,Multiplan hmo,21789.67
+Delray Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$18,158.06",FL,Multiplan pos,21789.67
+Delray Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$18,158.06",FL,Multiplan ppo,21789.67
+Delray Medical Center,Hospital,HCPCS 99218,Hospital Observation per Hour,"$26,139.82",FL,Commercial Insurance hmo,4879.43
+Delray Medical Center,Hospital,HCPCS 99218,Hospital Observation per Hour,"$26,139.82",FL,Commercial Insurance pos,4879.43
+Delray Medical Center,Hospital,HCPCS 99218,Hospital Observation per Hour,"$26,139.82",FL,Commercial Insurance ppo,4879.43
+Delray Medical Center,Hospital,HCPCS 99218,Hospital Observation per Hour,"$26,139.82",FL,Multiplan hmo,31367.78
+Delray Medical Center,Hospital,HCPCS 99218,Hospital Observation per Hour,"$26,139.82",FL,Multiplan pos,31367.78
+Delray Medical Center,Hospital,HCPCS 99218,Hospital Observation per Hour,"$26,139.82",FL,Multiplan ppo,31367.78
+Delray Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$820.25,FL,Commercial Insurance hmo,153.11
+Delray Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$820.25,FL,Commercial Insurance pos,153.11
+Delray Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$820.25,FL,Commercial Insurance ppo,153.11
+Delray Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$820.25,FL,Multiplan hmo,984.29
+Delray Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$820.25,FL,Multiplan pos,984.29
+Delray Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$820.25,FL,Multiplan ppo,984.29
+Delray Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$913.97,FL,Commercial Insurance hmo,170.61
+Delray Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$913.97,FL,Commercial Insurance pos,170.61
+Delray Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$913.97,FL,Commercial Insurance ppo,170.61
+Delray Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$913.97,FL,Multiplan hmo,1096.77
+Delray Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$913.97,FL,Multiplan pos,1096.77
+Delray Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$913.97,FL,Multiplan ppo,1096.77
+Delray Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,"$9,414.22",FL,Commercial Insurance hmo,1757.32
+Delray Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,"$9,414.22",FL,Commercial Insurance pos,1757.32
+Delray Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,"$9,414.22",FL,Commercial Insurance ppo,1757.32
+Delray Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,"$9,414.22",FL,Multiplan hmo,11297.06
+Delray Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,"$9,414.22",FL,Multiplan pos,11297.06
+Delray Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,"$9,414.22",FL,Multiplan ppo,11297.06
+Delray Medical Center,Speech,HCPCS 92507,Speech Therapy,"$13,185.20",FL,Commercial Insurance hmo,2461.24
+Delray Medical Center,Speech,HCPCS 92507,Speech Therapy,"$13,185.20",FL,Commercial Insurance pos,2461.24
+Delray Medical Center,Speech,HCPCS 92507,Speech Therapy,"$13,185.20",FL,Commercial Insurance ppo,2461.24
+Delray Medical Center,Speech,HCPCS 92507,Speech Therapy,"$13,185.20",FL,Multiplan hmo,15822.23
+Delray Medical Center,Speech,HCPCS 92507,Speech Therapy,"$13,185.20",FL,Multiplan pos,15822.23
+Delray Medical Center,Speech,HCPCS 92507,Speech Therapy,"$13,185.20",FL,Multiplan ppo,15822.23
+Delray Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$14,265.62",FL,Commercial Insurance hmo,2662.92
+Delray Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$14,265.62",FL,Commercial Insurance pos,2662.92
+Delray Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$14,265.62",FL,Commercial Insurance ppo,2662.92
+Delray Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$14,265.62",FL,Multiplan hmo,17118.75
+Delray Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$14,265.62",FL,Multiplan pos,17118.75
+Delray Medical Center,Speech,HCPCS 92610,Swallow Evaluation,"$14,265.62",FL,Multiplan ppo,17118.75
+Delray Medical Center,Speech,HCPCS 92526,Swallow Treatment,"$12,256.20",FL,Commercial Insurance hmo,2287.82
+Delray Medical Center,Speech,HCPCS 92526,Swallow Treatment,"$12,256.20",FL,Commercial Insurance pos,2287.82
+Delray Medical Center,Speech,HCPCS 92526,Swallow Treatment,"$12,256.20",FL,Commercial Insurance ppo,2287.82
+Delray Medical Center,Speech,HCPCS 92526,Swallow Treatment,"$12,256.20",FL,Multiplan hmo,14707.44
+Delray Medical Center,Speech,HCPCS 92526,Swallow Treatment,"$12,256.20",FL,Multiplan pos,14707.44
+Delray Medical Center,Speech,HCPCS 92526,Swallow Treatment,"$12,256.20",FL,Multiplan ppo,14707.44
+Delray Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$40.37,FL,Commercial Insurance hmo,7.54
+Delray Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$40.37,FL,Commercial Insurance pos,7.54
+Delray Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$40.37,FL,Commercial Insurance ppo,7.54
+Delray Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$40.37,FL,Multiplan hmo,48.45
+Delray Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$40.37,FL,Multiplan pos,48.45
+Delray Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$40.37,FL,Multiplan ppo,48.45
+Delray Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$21.28,FL,Commercial Insurance hmo,3.97
+Delray Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$21.28,FL,Commercial Insurance pos,3.97
+Delray Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$21.28,FL,Commercial Insurance ppo,3.97
+Delray Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$21.28,FL,Multiplan hmo,25.53
+Delray Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$21.28,FL,Multiplan pos,25.53
+Delray Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$21.28,FL,Multiplan ppo,25.53
+Delray Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$119.34,FL,Commercial Insurance hmo,22.28
+Delray Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$119.34,FL,Commercial Insurance pos,22.28
+Delray Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$119.34,FL,Commercial Insurance ppo,22.28
+Delray Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$119.34,FL,Multiplan hmo,143.21
+Delray Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$119.34,FL,Multiplan pos,143.21
+Delray Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$119.34,FL,Multiplan ppo,143.21
+Delray Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$89.60,FL,Commercial Insurance hmo,16.72
+Delray Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$89.60,FL,Commercial Insurance pos,16.72
+Delray Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$89.60,FL,Commercial Insurance ppo,16.72
+Delray Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$89.60,FL,Multiplan hmo,107.51
+Delray Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$89.60,FL,Multiplan pos,107.51
+Delray Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$89.60,FL,Multiplan ppo,107.51
+Delray Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$226.98,FL,Commercial Insurance hmo,42.37
+Delray Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$226.98,FL,Commercial Insurance pos,42.37
+Delray Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$226.98,FL,Commercial Insurance ppo,42.37
+Delray Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$226.98,FL,Multiplan hmo,272.38
+Delray Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$226.98,FL,Multiplan pos,272.38
+Delray Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$226.98,FL,Multiplan ppo,272.38
+Delray Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$305.82,FL,Commercial Insurance hmo,57.09
+Delray Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$305.82,FL,Commercial Insurance pos,57.09
+Delray Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$305.82,FL,Commercial Insurance ppo,57.09
+Delray Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$305.82,FL,Multiplan hmo,366.98
+Delray Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$305.82,FL,Multiplan pos,366.98
+Delray Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$305.82,FL,Multiplan ppo,366.98
+Delray Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$134.21,FL,Commercial Insurance hmo,25.05
+Delray Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$134.21,FL,Commercial Insurance pos,25.05
+Delray Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$134.21,FL,Commercial Insurance ppo,25.05
+Delray Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$134.21,FL,Multiplan hmo,161.06
+Delray Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$134.21,FL,Multiplan pos,161.06
+Delray Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$134.21,FL,Multiplan ppo,161.06
+Delray Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$25,867.61",FL,Commercial Insurance hmo,4828.62
+Delray Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$25,867.61",FL,Commercial Insurance pos,4828.62
+Delray Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$25,867.61",FL,Commercial Insurance ppo,4828.62
+Delray Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$25,867.61",FL,Multiplan hmo,31041.14
+Delray Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$25,867.61",FL,Multiplan pos,31041.14
+Delray Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$25,867.61",FL,Multiplan ppo,31041.14
+Delray Medical Center,Chemistry,HCPCS 82140,Ammonia level,$149.69,FL,Commercial Insurance hmo,27.94
+Delray Medical Center,Chemistry,HCPCS 82140,Ammonia level,$149.69,FL,Commercial Insurance pos,27.94
+Delray Medical Center,Chemistry,HCPCS 82140,Ammonia level,$149.69,FL,Commercial Insurance ppo,27.94
+Delray Medical Center,Chemistry,HCPCS 82140,Ammonia level,$149.69,FL,Multiplan hmo,179.62
+Delray Medical Center,Chemistry,HCPCS 82140,Ammonia level,$149.69,FL,Multiplan pos,179.62
+Delray Medical Center,Chemistry,HCPCS 82140,Ammonia level,$149.69,FL,Multiplan ppo,179.62
+Delray Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$128.61,FL,Commercial Insurance hmo,24.01
+Delray Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$128.61,FL,Commercial Insurance pos,24.01
+Delray Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$128.61,FL,Commercial Insurance ppo,24.01
+Delray Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$128.61,FL,Multiplan hmo,154.33
+Delray Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$128.61,FL,Multiplan pos,154.33
+Delray Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$128.61,FL,Multiplan ppo,154.33
+Delray Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$652.03,FL,Commercial Insurance hmo,121.71
+Delray Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$652.03,FL,Commercial Insurance pos,121.71
+Delray Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$652.03,FL,Commercial Insurance ppo,121.71
+Delray Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$652.03,FL,Multiplan hmo,782.43
+Delray Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$652.03,FL,Multiplan pos,782.43
+Delray Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$652.03,FL,Multiplan ppo,782.43
+Delray Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$62.74,FL,Commercial Insurance hmo,11.71
+Delray Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$62.74,FL,Commercial Insurance pos,11.71
+Delray Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$62.74,FL,Commercial Insurance ppo,11.71
+Delray Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$62.74,FL,Multiplan hmo,75.29
+Delray Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$62.74,FL,Multiplan pos,75.29
+Delray Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$62.74,FL,Multiplan ppo,75.29
+Delray Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$40.53,FL,Commercial Insurance hmo,7.57
+Delray Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$40.53,FL,Commercial Insurance pos,7.57
+Delray Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$40.53,FL,Commercial Insurance ppo,7.57
+Delray Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$40.53,FL,Multiplan hmo,48.64
+Delray Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$40.53,FL,Multiplan pos,48.64
+Delray Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$40.53,FL,Multiplan ppo,48.64
+Delray Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$73.70,FL,Commercial Insurance hmo,13.76
+Delray Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$73.70,FL,Commercial Insurance pos,13.76
+Delray Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$73.70,FL,Commercial Insurance ppo,13.76
+Delray Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$73.70,FL,Multiplan hmo,88.44
+Delray Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$73.70,FL,Multiplan pos,88.44
+Delray Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$73.70,FL,Multiplan ppo,88.44
+Delray Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$179.45,FL,Commercial Insurance hmo,33.50
+Delray Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$179.45,FL,Commercial Insurance pos,33.50
+Delray Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$179.45,FL,Commercial Insurance ppo,33.50
+Delray Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$179.45,FL,Multiplan hmo,215.34
+Delray Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$179.45,FL,Multiplan pos,215.34
+Delray Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$179.45,FL,Multiplan ppo,215.34
+Delray Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$110.65,FL,Commercial Insurance hmo,20.65
+Delray Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$110.65,FL,Commercial Insurance pos,20.65
+Delray Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$110.65,FL,Commercial Insurance ppo,20.65
+Delray Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$110.65,FL,Multiplan hmo,132.78
+Delray Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$110.65,FL,Multiplan pos,132.78
+Delray Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$110.65,FL,Multiplan ppo,132.78
+Delray Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$136.18,FL,Commercial Insurance hmo,25.42
+Delray Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$136.18,FL,Commercial Insurance pos,25.42
+Delray Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$136.18,FL,Commercial Insurance ppo,25.42
+Delray Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$136.18,FL,Multiplan hmo,163.41
+Delray Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$136.18,FL,Multiplan pos,163.41
+Delray Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$136.18,FL,Multiplan ppo,163.41
+Delray Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$98.66,FL,Commercial Insurance hmo,18.42
+Delray Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$98.66,FL,Commercial Insurance pos,18.42
+Delray Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$98.66,FL,Commercial Insurance ppo,18.42
+Delray Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$98.66,FL,Multiplan hmo,118.39
+Delray Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$98.66,FL,Multiplan pos,118.39
+Delray Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$98.66,FL,Multiplan ppo,118.39
+Delray Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$102.17,FL,Commercial Insurance hmo,19.07
+Delray Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$102.17,FL,Commercial Insurance pos,19.07
+Delray Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$102.17,FL,Commercial Insurance ppo,19.07
+Delray Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$102.17,FL,Multiplan hmo,122.61
+Delray Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$102.17,FL,Multiplan pos,122.61
+Delray Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$102.17,FL,Multiplan ppo,122.61
+Delray Medical Center,Chemistry,HCPCS 83540,Iron level,$59.57,FL,Commercial Insurance hmo,11.12
+Delray Medical Center,Chemistry,HCPCS 83540,Iron level,$59.57,FL,Commercial Insurance pos,11.12
+Delray Medical Center,Chemistry,HCPCS 83540,Iron level,$59.57,FL,Commercial Insurance ppo,11.12
+Delray Medical Center,Chemistry,HCPCS 83540,Iron level,$59.57,FL,Multiplan hmo,71.49
+Delray Medical Center,Chemistry,HCPCS 83540,Iron level,$59.57,FL,Multiplan pos,71.49
+Delray Medical Center,Chemistry,HCPCS 83540,Iron level,$59.57,FL,Multiplan ppo,71.49
+Delray Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$20.54,FL,Commercial Insurance hmo,3.83
+Delray Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$20.54,FL,Commercial Insurance pos,3.83
+Delray Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$20.54,FL,Commercial Insurance ppo,3.83
+Delray Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$20.54,FL,Multiplan hmo,24.65
+Delray Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$20.54,FL,Multiplan pos,24.65
+Delray Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$20.54,FL,Multiplan ppo,24.65
+Delray Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$266.96,FL,Commercial Insurance hmo,49.83
+Delray Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$266.96,FL,Commercial Insurance pos,49.83
+Delray Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$266.96,FL,Commercial Insurance ppo,49.83
+Delray Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$266.96,FL,Multiplan hmo,320.35
+Delray Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$266.96,FL,Multiplan pos,320.35
+Delray Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$266.96,FL,Multiplan ppo,320.35
+Delray Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$119.09,FL,Commercial Insurance hmo,22.23
+Delray Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$119.09,FL,Commercial Insurance pos,22.23
+Delray Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$119.09,FL,Commercial Insurance ppo,22.23
+Delray Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$119.09,FL,Multiplan hmo,142.91
+Delray Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$119.09,FL,Multiplan pos,142.91
+Delray Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$119.09,FL,Multiplan ppo,142.91
+Delray Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$47.62,FL,Commercial Insurance hmo,8.89
+Delray Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$47.62,FL,Commercial Insurance pos,8.89
+Delray Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$47.62,FL,Commercial Insurance ppo,8.89
+Delray Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$47.62,FL,Multiplan hmo,57.14
+Delray Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$47.62,FL,Multiplan pos,57.14
+Delray Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$47.62,FL,Multiplan ppo,57.14
+Delray Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$43.44,FL,Commercial Insurance hmo,8.11
+Delray Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$43.44,FL,Commercial Insurance pos,8.11
+Delray Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$43.44,FL,Commercial Insurance ppo,8.11
+Delray Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$43.44,FL,Multiplan hmo,52.13
+Delray Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$43.44,FL,Multiplan pos,52.13
+Delray Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Total,$43.44,FL,Multiplan ppo,52.13
+Delray Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$72.72,FL,Commercial Insurance hmo,13.57
+Delray Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$72.72,FL,Commercial Insurance pos,13.57
+Delray Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$72.72,FL,Commercial Insurance ppo,13.57
+Delray Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$72.72,FL,Multiplan hmo,87.26
+Delray Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$72.72,FL,Multiplan pos,87.26
+Delray Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$72.72,FL,Multiplan ppo,87.26
+Delray Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$37.19,FL,Commercial Insurance hmo,6.94
+Delray Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$37.19,FL,Commercial Insurance pos,6.94
+Delray Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$37.19,FL,Commercial Insurance ppo,6.94
+Delray Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$37.19,FL,Multiplan hmo,44.63
+Delray Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$37.19,FL,Multiplan pos,44.63
+Delray Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$37.19,FL,Multiplan ppo,44.63
+Delray Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$31.22,FL,Commercial Insurance hmo,5.83
+Delray Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$31.22,FL,Commercial Insurance pos,5.83
+Delray Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$31.22,FL,Commercial Insurance ppo,5.83
+Delray Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$31.22,FL,Multiplan hmo,37.47
+Delray Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$31.22,FL,Multiplan pos,37.47
+Delray Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$31.22,FL,Multiplan ppo,37.47
+Delray Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$364.82,FL,Commercial Insurance hmo,68.10
+Delray Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$364.82,FL,Commercial Insurance pos,68.10
+Delray Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$364.82,FL,Commercial Insurance ppo,68.10
+Delray Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$364.82,FL,Multiplan hmo,437.79
+Delray Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$364.82,FL,Multiplan pos,437.79
+Delray Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$364.82,FL,Multiplan ppo,437.79
+Delray Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$71.88,FL,Commercial Insurance hmo,13.42
+Delray Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$71.88,FL,Commercial Insurance pos,13.42
+Delray Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$71.88,FL,Commercial Insurance ppo,13.42
+Delray Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$71.88,FL,Multiplan hmo,86.26
+Delray Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$71.88,FL,Multiplan pos,86.26
+Delray Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$71.88,FL,Multiplan ppo,86.26
+Delray Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$562.28,FL,Commercial Insurance hmo,104.96
+Delray Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$562.28,FL,Commercial Insurance pos,104.96
+Delray Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$562.28,FL,Commercial Insurance ppo,104.96
+Delray Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$562.28,FL,Multiplan hmo,674.73
+Delray Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$562.28,FL,Multiplan pos,674.73
+Delray Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$562.28,FL,Multiplan ppo,674.73
+Delray Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$194.51,FL,Commercial Insurance hmo,36.31
+Delray Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$194.51,FL,Commercial Insurance pos,36.31
+Delray Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$194.51,FL,Commercial Insurance ppo,36.31
+Delray Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$194.51,FL,Multiplan hmo,233.42
+Delray Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$194.51,FL,Multiplan pos,233.42
+Delray Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$194.51,FL,Multiplan ppo,233.42
+Delray Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$7.50,FL,Commercial Insurance hmo,1.40
+Delray Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$7.50,FL,Commercial Insurance pos,1.40
+Delray Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$7.50,FL,Commercial Insurance ppo,1.40
+Delray Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$7.50,FL,Multiplan hmo,9.00
+Delray Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$7.50,FL,Multiplan pos,9.00
+Delray Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$7.50,FL,Multiplan ppo,9.00
+Delray Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$7.50,FL,Commercial Insurance hmo,1.40
+Delray Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$7.50,FL,Commercial Insurance pos,1.40
+Delray Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$7.50,FL,Commercial Insurance ppo,1.40
+Delray Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$7.50,FL,Multiplan hmo,9.00
+Delray Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$7.50,FL,Multiplan pos,9.00
+Delray Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$7.50,FL,Multiplan ppo,9.00
+Delray Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$304.03,FL,Commercial Insurance hmo,56.75
+Delray Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$304.03,FL,Commercial Insurance pos,56.75
+Delray Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$304.03,FL,Commercial Insurance ppo,56.75
+Delray Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$304.03,FL,Multiplan hmo,364.83
+Delray Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$304.03,FL,Multiplan pos,364.83
+Delray Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$304.03,FL,Multiplan ppo,364.83
+Delray Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$371.45,FL,Commercial Insurance hmo,69.34
+Delray Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$371.45,FL,Commercial Insurance pos,69.34
+Delray Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$371.45,FL,Commercial Insurance ppo,69.34
+Delray Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$371.45,FL,Multiplan hmo,445.73
+Delray Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$371.45,FL,Multiplan pos,445.73
+Delray Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$371.45,FL,Multiplan ppo,445.73
+Delray Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$386.69,FL,Commercial Insurance hmo,72.18
+Delray Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$386.69,FL,Commercial Insurance pos,72.18
+Delray Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$386.69,FL,Commercial Insurance ppo,72.18
+Delray Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$386.69,FL,Multiplan hmo,464.03
+Delray Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$386.69,FL,Multiplan pos,464.03
+Delray Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$386.69,FL,Multiplan ppo,464.03
+Delray Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$437.75,FL,Commercial Insurance hmo,81.71
+Delray Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$437.75,FL,Commercial Insurance pos,81.71
+Delray Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$437.75,FL,Commercial Insurance ppo,81.71
+Delray Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$437.75,FL,Multiplan hmo,525.29
+Delray Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$437.75,FL,Multiplan pos,525.29
+Delray Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$437.75,FL,Multiplan ppo,525.29
+Delray Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$386.69,FL,Commercial Insurance hmo,72.18
+Delray Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$386.69,FL,Commercial Insurance pos,72.18
+Delray Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$386.69,FL,Commercial Insurance ppo,72.18
+Delray Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$386.69,FL,Multiplan hmo,464.03
+Delray Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$386.69,FL,Multiplan pos,464.03
+Delray Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$386.69,FL,Multiplan ppo,464.03
+Delray Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$235.46,FL,Commercial Insurance hmo,43.95
+Delray Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$235.46,FL,Commercial Insurance pos,43.95
+Delray Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$235.46,FL,Commercial Insurance ppo,43.95
+Delray Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$235.46,FL,Multiplan hmo,282.56
+Delray Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$235.46,FL,Multiplan pos,282.56
+Delray Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$235.46,FL,Multiplan ppo,282.56
+Delray Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,"$2,692.70",FL,Commercial Insurance hmo,502.64
+Delray Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,"$2,692.70",FL,Commercial Insurance pos,502.64
+Delray Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,"$2,692.70",FL,Commercial Insurance ppo,502.64
+Delray Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,"$2,692.70",FL,Multiplan hmo,3231.23
+Delray Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,"$2,692.70",FL,Multiplan pos,3231.23
+Delray Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,"$2,692.70",FL,Multiplan ppo,3231.23
+Delray Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$133.24,FL,Commercial Insurance hmo,24.87
+Delray Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$133.24,FL,Commercial Insurance pos,24.87
+Delray Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$133.24,FL,Commercial Insurance ppo,24.87
+Delray Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$133.24,FL,Multiplan hmo,159.89
+Delray Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$133.24,FL,Multiplan pos,159.89
+Delray Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$133.24,FL,Multiplan ppo,159.89
+Delray Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$133.24,FL,Commercial Insurance hmo,24.87
+Delray Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$133.24,FL,Commercial Insurance pos,24.87
+Delray Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$133.24,FL,Commercial Insurance ppo,24.87
+Delray Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$133.24,FL,Multiplan hmo,159.89
+Delray Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$133.24,FL,Multiplan pos,159.89
+Delray Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$133.24,FL,Multiplan ppo,159.89
+Delray Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$230.81,FL,Commercial Insurance hmo,43.08
+Delray Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$230.81,FL,Commercial Insurance pos,43.08
+Delray Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$230.81,FL,Commercial Insurance ppo,43.08
+Delray Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$230.81,FL,Multiplan hmo,276.97
+Delray Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$230.81,FL,Multiplan pos,276.97
+Delray Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$230.81,FL,Multiplan ppo,276.97
+Delray Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$78.47,FL,Commercial Insurance hmo,14.65
+Delray Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$78.47,FL,Commercial Insurance pos,14.65
+Delray Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$78.47,FL,Commercial Insurance ppo,14.65
+Delray Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$78.47,FL,Multiplan hmo,94.17
+Delray Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$78.47,FL,Multiplan pos,94.17
+Delray Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$78.47,FL,Multiplan ppo,94.17
+Delray Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$12,240.67",FL,Commercial Insurance hmo,2284.92
+Delray Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$12,240.67",FL,Commercial Insurance pos,2284.92
+Delray Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$12,240.67",FL,Commercial Insurance ppo,2284.92
+Delray Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$12,240.67",FL,Multiplan hmo,14688.80
+Delray Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$12,240.67",FL,Multiplan pos,14688.80
+Delray Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$12,240.67",FL,Multiplan ppo,14688.80
+Delray Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$61,643.42",FL,Commercial Insurance hmo,11506.77
+Delray Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$61,643.42",FL,Commercial Insurance pos,11506.77
+Delray Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$61,643.42",FL,Commercial Insurance ppo,11506.77
+Delray Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$61,643.42",FL,Multiplan hmo,73972.10
+Delray Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$61,643.42",FL,Multiplan pos,73972.10
+Delray Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$61,643.42",FL,Multiplan ppo,73972.10
+Delray Medical Center,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,"$2,870.12",FL,Commercial Insurance hmo,535.76
+Delray Medical Center,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,"$2,870.12",FL,Commercial Insurance pos,535.76
+Delray Medical Center,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,"$2,870.12",FL,Commercial Insurance ppo,535.76
+Delray Medical Center,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,"$2,870.12",FL,Multiplan hmo,3444.15
+Delray Medical Center,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,"$2,870.12",FL,Multiplan pos,3444.15
+Delray Medical Center,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,"$2,870.12",FL,Multiplan ppo,3444.15
+Delray Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$65,492.76",FL,Commercial Insurance hmo,12225.32
+Delray Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$65,492.76",FL,Commercial Insurance pos,12225.32
+Delray Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$65,492.76",FL,Commercial Insurance ppo,12225.32
+Delray Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$65,492.76",FL,Multiplan hmo,78591.31
+Delray Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$65,492.76",FL,Multiplan pos,78591.31
+Delray Medical Center,Pulmonary,HCPCS 94640,Nebulizer Treatment,"$65,492.76",FL,Multiplan ppo,78591.31
+Delray Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,"$2,785.05",FL,Commercial Insurance hmo,519.88
+Delray Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,"$2,785.05",FL,Commercial Insurance pos,519.88
+Delray Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,"$2,785.05",FL,Commercial Insurance ppo,519.88
+Delray Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,"$2,785.05",FL,Multiplan hmo,3342.06
+Delray Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,"$2,785.05",FL,Multiplan pos,3342.06
+Delray Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,"$2,785.05",FL,Multiplan ppo,3342.06
+Delray Medical Center,Sleep,HCPCS 95810,Sleep study,"$7,666.61",FL,Commercial Insurance hmo,1431.10
+Delray Medical Center,Sleep,HCPCS 95810,Sleep study,"$7,666.61",FL,Commercial Insurance pos,1431.10
+Delray Medical Center,Sleep,HCPCS 95810,Sleep study,"$7,666.61",FL,Commercial Insurance ppo,1431.10
+Delray Medical Center,Sleep,HCPCS 95810,Sleep study,"$7,666.61",FL,Multiplan hmo,9199.93
+Delray Medical Center,Sleep,HCPCS 95810,Sleep study,"$7,666.61",FL,Multiplan pos,9199.93
+Delray Medical Center,Sleep,HCPCS 95810,Sleep study,"$7,666.61",FL,Multiplan ppo,9199.93
+Delray Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$237.73,FL,Commercial Insurance hmo,44.38
+Delray Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$237.73,FL,Commercial Insurance pos,44.38
+Delray Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$237.73,FL,Commercial Insurance ppo,44.38
+Delray Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$237.73,FL,Multiplan hmo,285.27
+Delray Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$237.73,FL,Multiplan pos,285.27
+Delray Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$237.73,FL,Multiplan ppo,285.27
+Delray Medical Center,Breast,HCPCS 77067,Mammogram Screening,$314.36,FL,Commercial Insurance hmo,58.68
+Delray Medical Center,Breast,HCPCS 77067,Mammogram Screening,$314.36,FL,Commercial Insurance pos,58.68
+Delray Medical Center,Breast,HCPCS 77067,Mammogram Screening,$314.36,FL,Commercial Insurance ppo,58.68
+Delray Medical Center,Breast,HCPCS 77067,Mammogram Screening,$314.36,FL,Multiplan hmo,377.23
+Delray Medical Center,Breast,HCPCS 77067,Mammogram Screening,$314.36,FL,Multiplan pos,377.23
+Delray Medical Center,Breast,HCPCS 77067,Mammogram Screening,$314.36,FL,Multiplan ppo,377.23
+Delray Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$406.87,FL,Commercial Insurance hmo,75.95
+Delray Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$406.87,FL,Commercial Insurance pos,75.95
+Delray Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$406.87,FL,Commercial Insurance ppo,75.95
+Delray Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$406.87,FL,Multiplan hmo,488.24
+Delray Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$406.87,FL,Multiplan pos,488.24
+Delray Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$406.87,FL,Multiplan ppo,488.24
+Delray Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,141.94",FL,Commercial Insurance hmo,773.16
+Delray Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,141.94",FL,Commercial Insurance pos,773.16
+Delray Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,141.94",FL,Commercial Insurance ppo,773.16
+Delray Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,141.94",FL,Multiplan hmo,4970.33
+Delray Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,141.94",FL,Multiplan pos,4970.33
+Delray Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,141.94",FL,Multiplan ppo,4970.33
+Delray Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,401.04",FL,Commercial Insurance hmo,634.86
+Delray Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,401.04",FL,Commercial Insurance pos,634.86
+Delray Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,401.04",FL,Commercial Insurance ppo,634.86
+Delray Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,401.04",FL,Multiplan hmo,4081.25
+Delray Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,401.04",FL,Multiplan pos,4081.25
+Delray Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$3,401.04",FL,Multiplan ppo,4081.25
+Delray Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$3,360.97",FL,Commercial Insurance hmo,627.38
+Delray Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$3,360.97",FL,Commercial Insurance pos,627.38
+Delray Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$3,360.97",FL,Commercial Insurance ppo,627.38
+Delray Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$3,360.97",FL,Multiplan hmo,4033.16
+Delray Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$3,360.97",FL,Multiplan pos,4033.16
+Delray Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$3,360.97",FL,Multiplan ppo,4033.16
+Delray Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$6,614.53",FL,Commercial Insurance hmo,1234.71
+Delray Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$6,614.53",FL,Commercial Insurance pos,1234.71
+Delray Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$6,614.53",FL,Commercial Insurance ppo,1234.71
+Delray Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$6,614.53",FL,Multiplan hmo,7937.43
+Delray Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$6,614.53",FL,Multiplan pos,7937.43
+Delray Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$6,614.53",FL,Multiplan ppo,7937.43
+Delray Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,399.54",FL,Commercial Insurance hmo,1007.91
+Delray Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,399.54",FL,Commercial Insurance pos,1007.91
+Delray Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,399.54",FL,Commercial Insurance ppo,1007.91
+Delray Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,399.54",FL,Multiplan hmo,6479.45
+Delray Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,399.54",FL,Multiplan pos,6479.45
+Delray Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,399.54",FL,Multiplan ppo,6479.45
+Delray Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$3,140.74",FL,Commercial Insurance hmo,586.27
+Delray Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$3,140.74",FL,Commercial Insurance pos,586.27
+Delray Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$3,140.74",FL,Commercial Insurance ppo,586.27
+Delray Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$3,140.74",FL,Multiplan hmo,3768.89
+Delray Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$3,140.74",FL,Multiplan pos,3768.89
+Delray Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$3,140.74",FL,Multiplan ppo,3768.89
+Delray Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,899.07",FL,Commercial Insurance hmo,541.16
+Delray Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,899.07",FL,Commercial Insurance pos,541.16
+Delray Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,899.07",FL,Commercial Insurance ppo,541.16
+Delray Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,899.07",FL,Multiplan hmo,3478.89
+Delray Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,899.07",FL,Multiplan pos,3478.89
+Delray Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,899.07",FL,Multiplan ppo,3478.89
+Delray Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$4,251.83",FL,Commercial Insurance hmo,793.67
+Delray Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$4,251.83",FL,Commercial Insurance pos,793.67
+Delray Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$4,251.83",FL,Commercial Insurance ppo,793.67
+Delray Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$4,251.83",FL,Multiplan hmo,5102.19
+Delray Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$4,251.83",FL,Multiplan pos,5102.19
+Delray Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$4,251.83",FL,Multiplan ppo,5102.19
+Delray Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$4,728.57",FL,Commercial Insurance hmo,882.67
+Delray Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$4,728.57",FL,Commercial Insurance pos,882.67
+Delray Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$4,728.57",FL,Commercial Insurance ppo,882.67
+Delray Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$4,728.57",FL,Multiplan hmo,5674.28
+Delray Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$4,728.57",FL,Multiplan pos,5674.28
+Delray Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$4,728.57",FL,Multiplan ppo,5674.28
+Delray Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$3,971.90",FL,Commercial Insurance hmo,741.42
+Delray Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$3,971.90",FL,Commercial Insurance pos,741.42
+Delray Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$3,971.90",FL,Commercial Insurance ppo,741.42
+Delray Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$3,971.90",FL,Multiplan hmo,4766.27
+Delray Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$3,971.90",FL,Multiplan pos,4766.27
+Delray Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$3,971.90",FL,Multiplan ppo,4766.27
+Delray Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$4,198.06",FL,Commercial Insurance hmo,783.64
+Delray Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$4,198.06",FL,Commercial Insurance pos,783.64
+Delray Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$4,198.06",FL,Commercial Insurance ppo,783.64
+Delray Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$4,198.06",FL,Multiplan hmo,5037.67
+Delray Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$4,198.06",FL,Multiplan pos,5037.67
+Delray Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$4,198.06",FL,Multiplan ppo,5037.67
+Delray Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$3,759.68",FL,Commercial Insurance hmo,701.81
+Delray Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$3,759.68",FL,Commercial Insurance pos,701.81
+Delray Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$3,759.68",FL,Commercial Insurance ppo,701.81
+Delray Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$3,759.68",FL,Multiplan hmo,4511.61
+Delray Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$3,759.68",FL,Multiplan pos,4511.61
+Delray Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$3,759.68",FL,Multiplan ppo,4511.61
+Delray Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$4,980.19",FL,Commercial Insurance hmo,929.64
+Delray Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$4,980.19",FL,Commercial Insurance pos,929.64
+Delray Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$4,980.19",FL,Commercial Insurance ppo,929.64
+Delray Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$4,980.19",FL,Multiplan hmo,5976.23
+Delray Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$4,980.19",FL,Multiplan pos,5976.23
+Delray Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$4,980.19",FL,Multiplan ppo,5976.23
+Delray Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$4,568.85",FL,Commercial Insurance hmo,852.85
+Delray Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$4,568.85",FL,Commercial Insurance pos,852.85
+Delray Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$4,568.85",FL,Commercial Insurance ppo,852.85
+Delray Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$4,568.85",FL,Multiplan hmo,5482.62
+Delray Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$4,568.85",FL,Multiplan pos,5482.62
+Delray Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$4,568.85",FL,Multiplan ppo,5482.62
+Delray Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$4,833.41",FL,Commercial Insurance hmo,902.24
+Delray Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$4,833.41",FL,Commercial Insurance pos,902.24
+Delray Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$4,833.41",FL,Commercial Insurance ppo,902.24
+Delray Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$4,833.41",FL,Multiplan hmo,5800.10
+Delray Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$4,833.41",FL,Multiplan pos,5800.10
+Delray Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$4,833.41",FL,Multiplan ppo,5800.10
+Delray Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$741.82,FL,Commercial Insurance hmo,138.47
+Delray Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$741.82,FL,Commercial Insurance pos,138.47
+Delray Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$741.82,FL,Commercial Insurance ppo,138.47
+Delray Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$741.82,FL,Multiplan hmo,890.18
+Delray Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$741.82,FL,Multiplan pos,890.18
+Delray Medical Center,Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$741.82,FL,Multiplan ppo,890.18
+Delray Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$777.50,FL,Commercial Insurance hmo,145.13
+Delray Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$777.50,FL,Commercial Insurance pos,145.13
+Delray Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$777.50,FL,Commercial Insurance ppo,145.13
+Delray Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$777.50,FL,Multiplan hmo,933.00
+Delray Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$777.50,FL,Multiplan pos,933.00
+Delray Medical Center,Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$777.50,FL,Multiplan ppo,933.00
+Delray Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$1,617.76",FL,Commercial Insurance hmo,301.98
+Delray Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$1,617.76",FL,Commercial Insurance pos,301.98
+Delray Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$1,617.76",FL,Commercial Insurance ppo,301.98
+Delray Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$1,617.76",FL,Multiplan hmo,1941.31
+Delray Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$1,617.76",FL,Multiplan pos,1941.31
+Delray Medical Center,Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$1,617.76",FL,Multiplan ppo,1941.31
+Delray Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,449.79",FL,Commercial Insurance hmo,270.63
+Delray Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,449.79",FL,Commercial Insurance pos,270.63
+Delray Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,449.79",FL,Commercial Insurance ppo,270.63
+Delray Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,449.79",FL,Multiplan hmo,1739.75
+Delray Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,449.79",FL,Multiplan pos,1739.75
+Delray Medical Center,Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,449.79",FL,Multiplan ppo,1739.75
+Delray Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$785.79,FL,Commercial Insurance hmo,146.68
+Delray Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$785.79,FL,Commercial Insurance pos,146.68
+Delray Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$785.79,FL,Commercial Insurance ppo,146.68
+Delray Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$785.79,FL,Multiplan hmo,942.95
+Delray Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$785.79,FL,Multiplan pos,942.95
+Delray Medical Center,Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$785.79,FL,Multiplan ppo,942.95
+Delray Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,034.60",FL,Commercial Insurance hmo,193.12
+Delray Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,034.60",FL,Commercial Insurance pos,193.12
+Delray Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,034.60",FL,Commercial Insurance ppo,193.12
+Delray Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,034.60",FL,Multiplan hmo,1241.51
+Delray Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,034.60",FL,Multiplan pos,1241.51
+Delray Medical Center,Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,034.60",FL,Multiplan ppo,1241.51
+Delray Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$924.05,FL,Commercial Insurance hmo,172.49
+Delray Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$924.05,FL,Commercial Insurance pos,172.49
+Delray Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$924.05,FL,Commercial Insurance ppo,172.49
+Delray Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$924.05,FL,Multiplan hmo,1108.86
+Delray Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$924.05,FL,Multiplan pos,1108.86
+Delray Medical Center,Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$924.05,FL,Multiplan ppo,1108.86
+Delray Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$653.60,FL,Commercial Insurance hmo,122.01
+Delray Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$653.60,FL,Commercial Insurance pos,122.01
+Delray Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$653.60,FL,Commercial Insurance ppo,122.01
+Delray Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$653.60,FL,Multiplan hmo,784.32
+Delray Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$653.60,FL,Multiplan pos,784.32
+Delray Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$653.60,FL,Multiplan ppo,784.32
+Delray Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$680.99,FL,Commercial Insurance hmo,127.12
+Delray Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$680.99,FL,Commercial Insurance pos,127.12
+Delray Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$680.99,FL,Commercial Insurance ppo,127.12
+Delray Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$680.99,FL,Multiplan hmo,817.18
+Delray Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$680.99,FL,Multiplan pos,817.18
+Delray Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$680.99,FL,Multiplan ppo,817.18
+Delray Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$404.15,FL,Commercial Insurance hmo,75.44
+Delray Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$404.15,FL,Commercial Insurance pos,75.44
+Delray Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$404.15,FL,Commercial Insurance ppo,75.44
+Delray Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$404.15,FL,Multiplan hmo,484.98
+Delray Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$404.15,FL,Multiplan pos,484.98
+Delray Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$404.15,FL,Multiplan ppo,484.98
+Delray Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$941.22,FL,Commercial Insurance hmo,175.69
+Delray Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$941.22,FL,Commercial Insurance pos,175.69
+Delray Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$941.22,FL,Commercial Insurance ppo,175.69
+Delray Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$941.22,FL,Multiplan hmo,1129.46
+Delray Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$941.22,FL,Multiplan pos,1129.46
+Delray Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 2 Views",$941.22,FL,Multiplan ppo,1129.46
+Delray Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$487.25,FL,Commercial Insurance hmo,90.95
+Delray Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$487.25,FL,Commercial Insurance pos,90.95
+Delray Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$487.25,FL,Commercial Insurance ppo,90.95
+Delray Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$487.25,FL,Multiplan hmo,584.70
+Delray Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$487.25,FL,Multiplan pos,584.70
+Delray Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$487.25,FL,Multiplan ppo,584.70
+Delray Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$445.29,FL,Commercial Insurance hmo,83.12
+Delray Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$445.29,FL,Commercial Insurance pos,83.12
+Delray Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$445.29,FL,Commercial Insurance ppo,83.12
+Delray Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$445.29,FL,Multiplan hmo,534.35
+Delray Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$445.29,FL,Multiplan pos,534.35
+Delray Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$445.29,FL,Multiplan ppo,534.35
+Delray Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$557.43,FL,Commercial Insurance hmo,104.05
+Delray Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$557.43,FL,Commercial Insurance pos,104.05
+Delray Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$557.43,FL,Commercial Insurance ppo,104.05
+Delray Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$557.43,FL,Multiplan hmo,668.92
+Delray Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$557.43,FL,Multiplan pos,668.92
+Delray Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$557.43,FL,Multiplan ppo,668.92
+Delray Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$464.89,FL,Commercial Insurance hmo,86.78
+Delray Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$464.89,FL,Commercial Insurance pos,86.78
+Delray Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$464.89,FL,Commercial Insurance ppo,86.78
+Delray Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$464.89,FL,Multiplan hmo,557.87
+Delray Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$464.89,FL,Multiplan pos,557.87
+Delray Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$464.89,FL,Multiplan ppo,557.87
+Delray Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$831.98,FL,Commercial Insurance hmo,155.30
+Delray Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$831.98,FL,Commercial Insurance pos,155.30
+Delray Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$831.98,FL,Commercial Insurance ppo,155.30
+Delray Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$831.98,FL,Multiplan hmo,998.37
+Delray Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$831.98,FL,Multiplan pos,998.37
+Delray Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$831.98,FL,Multiplan ppo,998.37
+Delray Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$554.12,FL,Commercial Insurance hmo,103.44
+Delray Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$554.12,FL,Commercial Insurance pos,103.44
+Delray Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$554.12,FL,Commercial Insurance ppo,103.44
+Delray Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$554.12,FL,Multiplan hmo,664.95
+Delray Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$554.12,FL,Multiplan pos,664.95
+Delray Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$554.12,FL,Multiplan ppo,664.95
+Delray Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$700.20,FL,Commercial Insurance hmo,130.70
+Delray Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$700.20,FL,Commercial Insurance pos,130.70
+Delray Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$700.20,FL,Commercial Insurance ppo,130.70
+Delray Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$700.20,FL,Multiplan hmo,840.24
+Delray Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$700.20,FL,Multiplan pos,840.24
+Delray Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$700.20,FL,Multiplan ppo,840.24
+Delray Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$514.77,FL,Commercial Insurance hmo,96.09
+Delray Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$514.77,FL,Commercial Insurance pos,96.09
+Delray Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$514.77,FL,Commercial Insurance ppo,96.09
+Delray Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$514.77,FL,Multiplan hmo,617.72
+Delray Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$514.77,FL,Multiplan pos,617.72
+Delray Medical Center,Spine,HCPCS 72040,"X-ray Lower Sacral Spine, 2-3 Views",$514.77,FL,Multiplan ppo,617.72
+Delray Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$720.95,FL,Commercial Insurance hmo,134.58
+Delray Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$720.95,FL,Commercial Insurance pos,134.58
+Delray Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$720.95,FL,Commercial Insurance ppo,134.58
+Delray Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$720.95,FL,Multiplan hmo,865.14
+Delray Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$720.95,FL,Multiplan pos,865.14
+Delray Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$720.95,FL,Multiplan ppo,865.14
+Delray Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$764.37,FL,Commercial Insurance hmo,142.68
+Delray Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$764.37,FL,Commercial Insurance pos,142.68
+Delray Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$764.37,FL,Commercial Insurance ppo,142.68
+Delray Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$764.37,FL,Multiplan hmo,917.24
+Delray Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$764.37,FL,Multiplan pos,917.24
+Delray Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$764.37,FL,Multiplan ppo,917.24
+Delray Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$463.50,FL,Commercial Insurance hmo,86.52
+Delray Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$463.50,FL,Commercial Insurance pos,86.52
+Delray Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$463.50,FL,Commercial Insurance ppo,86.52
+Delray Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$463.50,FL,Multiplan hmo,556.20
+Delray Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$463.50,FL,Multiplan pos,556.20
+Delray Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$463.50,FL,Multiplan ppo,556.20
+Delray Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$421.10,FL,Commercial Insurance hmo,78.60
+Delray Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$421.10,FL,Commercial Insurance pos,78.60
+Delray Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$421.10,FL,Commercial Insurance ppo,78.60
+Delray Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$421.10,FL,Multiplan hmo,505.31
+Delray Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$421.10,FL,Multiplan pos,505.31
+Delray Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$421.10,FL,Multiplan ppo,505.31
+Delray Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$602.74,FL,Commercial Insurance hmo,112.51
+Delray Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$602.74,FL,Commercial Insurance pos,112.51
+Delray Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$602.74,FL,Commercial Insurance ppo,112.51
+Delray Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$602.74,FL,Multiplan hmo,723.29
+Delray Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$602.74,FL,Multiplan pos,723.29
+Delray Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$602.74,FL,Multiplan ppo,723.29
+Delray Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$567.87,FL,Commercial Insurance hmo,106.00
+Delray Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$567.87,FL,Commercial Insurance pos,106.00
+Delray Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$567.87,FL,Commercial Insurance ppo,106.00
+Delray Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$567.87,FL,Multiplan hmo,681.44
+Delray Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$567.87,FL,Multiplan pos,681.44
+Delray Medical Center,Upper Limbs,HCPCS 73090,"X-ray Upper Arm, 2 Views",$567.87,FL,Multiplan ppo,681.44
+Delray Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$699.00,FL,Commercial Insurance hmo,130.48
+Delray Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$699.00,FL,Commercial Insurance pos,130.48
+Delray Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$699.00,FL,Commercial Insurance ppo,130.48
+Delray Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$699.00,FL,Multiplan hmo,838.80
+Delray Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$699.00,FL,Multiplan pos,838.80
+Delray Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$699.00,FL,Multiplan ppo,838.80
+Delray Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$510.91,FL,Commercial Insurance hmo,95.37
+Delray Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$510.91,FL,Commercial Insurance pos,95.37
+Delray Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$510.91,FL,Commercial Insurance ppo,95.37
+Delray Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$510.91,FL,Multiplan hmo,613.09
+Delray Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$510.91,FL,Multiplan pos,613.09
+Delray Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$510.91,FL,Multiplan ppo,613.09
+Delray Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$59,614.76",FL,Commercial Insurance hmo,11128.09
+Delray Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$59,614.76",FL,Commercial Insurance pos,11128.09
+Delray Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$59,614.76",FL,Commercial Insurance ppo,11128.09
+Delray Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$59,614.76",FL,Multiplan hmo,71537.72
+Delray Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$59,614.76",FL,Multiplan pos,71537.72
+Delray Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,"$59,614.76",FL,Multiplan ppo,71537.72
+Delray Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$55,301.58",FL,Commercial Insurance hmo,10322.96
+Delray Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$55,301.58",FL,Commercial Insurance pos,10322.96
+Delray Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$55,301.58",FL,Commercial Insurance ppo,10322.96
+Delray Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$55,301.58",FL,Multiplan hmo,66361.90
+Delray Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$55,301.58",FL,Multiplan pos,66361.90
+Delray Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$55,301.58",FL,Multiplan ppo,66361.90
+Delray Medical Center,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$29,536.77",FL,Commercial Insurance hmo,5513.53
+Delray Medical Center,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$29,536.77",FL,Commercial Insurance pos,5513.53
+Delray Medical Center,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$29,536.77",FL,Commercial Insurance ppo,5513.53
+Delray Medical Center,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$29,536.77",FL,Multiplan hmo,35444.12
+Delray Medical Center,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$29,536.77",FL,Multiplan pos,35444.12
+Delray Medical Center,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$29,536.77",FL,Multiplan ppo,35444.12
+Delray Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$45,817.03",FL,Commercial Insurance hmo,8552.51
+Delray Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$45,817.03",FL,Commercial Insurance pos,8552.51
+Delray Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$45,817.03",FL,Commercial Insurance ppo,8552.51
+Delray Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$45,817.03",FL,Multiplan hmo,54980.43
+Delray Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$45,817.03",FL,Multiplan pos,54980.43
+Delray Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$45,817.03",FL,Multiplan ppo,54980.43
+Delray Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$22,579.44",FL,Commercial Insurance hmo,4214.83
+Delray Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$22,579.44",FL,Commercial Insurance pos,4214.83
+Delray Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$22,579.44",FL,Commercial Insurance ppo,4214.83
+Delray Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$22,579.44",FL,Multiplan hmo,27095.33
+Delray Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$22,579.44",FL,Multiplan pos,27095.33
+Delray Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,"$22,579.44",FL,Multiplan ppo,27095.33
+Delray Medical Center,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$61,927.70",FL,Commercial Insurance hmo,11559.84
+Delray Medical Center,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$61,927.70",FL,Commercial Insurance pos,11559.84
+Delray Medical Center,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$61,927.70",FL,Commercial Insurance ppo,11559.84
+Delray Medical Center,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$61,927.70",FL,Multiplan hmo,74313.23
+Delray Medical Center,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$61,927.70",FL,Multiplan pos,74313.23
+Delray Medical Center,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$61,927.70",FL,Multiplan ppo,74313.23
+Delray Medical Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$59,993.45",FL,Commercial Insurance hmo,11198.78
+Delray Medical Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$59,993.45",FL,Commercial Insurance pos,11198.78
+Delray Medical Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$59,993.45",FL,Commercial Insurance ppo,11198.78
+Delray Medical Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$59,993.45",FL,Multiplan hmo,71992.14
+Delray Medical Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$59,993.45",FL,Multiplan pos,71992.14
+Delray Medical Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$59,993.45",FL,Multiplan ppo,71992.14
+Delray Medical Center,Cardiac,MSDRG 216,Cardiac valve procedure,"$574,535.36",FL,Multiplan hmo,689442.44
+Delray Medical Center,Cardiac,MSDRG 216,Cardiac valve procedure,"$574,535.36",FL,Multiplan pos,689442.44
+Delray Medical Center,Cardiac,MSDRG 216,Cardiac valve procedure,"$574,535.36",FL,Multiplan ppo,689442.44
+Delray Medical Center,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$56,126.25",FL,Commercial Insurance hmo,10476.90
+Delray Medical Center,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$56,126.25",FL,Commercial Insurance pos,10476.90
+Delray Medical Center,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$56,126.25",FL,Commercial Insurance ppo,10476.90
+Delray Medical Center,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$56,126.25",FL,Multiplan hmo,67351.50
+Delray Medical Center,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$56,126.25",FL,Multiplan pos,67351.50
+Delray Medical Center,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$56,126.25",FL,Multiplan ppo,67351.50
+Delray Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$13,947.35",FL,Commercial Insurance hmo,2603.51
+Delray Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$13,947.35",FL,Commercial Insurance pos,2603.51
+Delray Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$13,947.35",FL,Commercial Insurance ppo,2603.51
+Delray Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$13,947.35",FL,Multiplan hmo,16736.82
+Delray Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$13,947.35",FL,Multiplan pos,16736.82
+Delray Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$13,947.35",FL,Multiplan ppo,16736.82
+Delray Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$21,954.09",FL,Commercial Insurance hmo,4098.10
+Delray Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$21,954.09",FL,Commercial Insurance pos,4098.10
+Delray Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$21,954.09",FL,Commercial Insurance ppo,4098.10
+Delray Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$21,954.09",FL,Multiplan hmo,26344.91
+Delray Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$21,954.09",FL,Multiplan pos,26344.91
+Delray Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$21,954.09",FL,Multiplan ppo,26344.91
+Delray Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$15,690.35",FL,Commercial Insurance hmo,2928.87
+Delray Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$15,690.35",FL,Commercial Insurance pos,2928.87
+Delray Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$15,690.35",FL,Commercial Insurance ppo,2928.87
+Delray Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$15,690.35",FL,Multiplan hmo,18828.42
+Delray Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$15,690.35",FL,Multiplan pos,18828.42
+Delray Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$15,690.35",FL,Multiplan ppo,18828.42
+Delray Medical Center,Digestive,HCPCS 43235,EGD,"$33,361.16",FL,Commercial Insurance hmo,6227.42
+Delray Medical Center,Digestive,HCPCS 43235,EGD,"$33,361.16",FL,Commercial Insurance pos,6227.42
+Delray Medical Center,Digestive,HCPCS 43235,EGD,"$33,361.16",FL,Commercial Insurance ppo,6227.42
+Delray Medical Center,Digestive,HCPCS 43235,EGD,"$33,361.16",FL,Multiplan hmo,40033.40
+Delray Medical Center,Digestive,HCPCS 43235,EGD,"$33,361.16",FL,Multiplan pos,40033.40
+Delray Medical Center,Digestive,HCPCS 43235,EGD,"$33,361.16",FL,Multiplan ppo,40033.40
+Delray Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$20,614.07",FL,Commercial Insurance hmo,3847.96
+Delray Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$20,614.07",FL,Commercial Insurance pos,3847.96
+Delray Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$20,614.07",FL,Commercial Insurance ppo,3847.96
+Delray Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$20,614.07",FL,Multiplan hmo,24736.89
+Delray Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$20,614.07",FL,Multiplan pos,24736.89
+Delray Medical Center,Digestive,HCPCS 43239,EGD and biopsy,"$20,614.07",FL,Multiplan ppo,24736.89
+Delray Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$74,487.72",FL,Multiplan hmo,89385.26
+Delray Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$74,487.72",FL,Multiplan pos,89385.26
+Delray Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$74,487.72",FL,Multiplan ppo,89385.26
+Delray Medical Center,General,HCPCS 55700,Biopsy of prostate gland,"$23,024.99",FL,Commercial Insurance hmo,4298.00
+Delray Medical Center,General,HCPCS 55700,Biopsy of prostate gland,"$23,024.99",FL,Commercial Insurance pos,4298.00
+Delray Medical Center,General,HCPCS 55700,Biopsy of prostate gland,"$23,024.99",FL,Commercial Insurance ppo,4298.00
+Delray Medical Center,General,HCPCS 55700,Biopsy of prostate gland,"$23,024.99",FL,Multiplan hmo,27629.98
+Delray Medical Center,General,HCPCS 55700,Biopsy of prostate gland,"$23,024.99",FL,Multiplan pos,27629.98
+Delray Medical Center,General,HCPCS 55700,Biopsy of prostate gland,"$23,024.99",FL,Multiplan ppo,27629.98
+Delray Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$11,355.32",FL,Commercial Insurance hmo,2119.66
+Delray Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$11,355.32",FL,Commercial Insurance pos,2119.66
+Delray Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$11,355.32",FL,Commercial Insurance ppo,2119.66
+Delray Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$11,355.32",FL,Multiplan hmo,13626.39
+Delray Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$11,355.32",FL,Multiplan pos,13626.39
+Delray Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$11,355.32",FL,Multiplan ppo,13626.39
+Delray Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$111,862.44",FL,Multiplan hmo,134234.93
+Delray Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$111,862.44",FL,Multiplan pos,134234.93
+Delray Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$111,862.44",FL,Multiplan ppo,134234.93
+Delray Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$44,372.10",FL,Commercial Insurance hmo,8282.79
+Delray Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$44,372.10",FL,Commercial Insurance pos,8282.79
+Delray Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$44,372.10",FL,Commercial Insurance ppo,8282.79
+Delray Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$44,372.10",FL,Multiplan hmo,53246.52
+Delray Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$44,372.10",FL,Multiplan pos,53246.52
+Delray Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$44,372.10",FL,Multiplan ppo,53246.52
+Delray Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$58,642.22",FL,Commercial Insurance hmo,10946.55
+Delray Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$58,642.22",FL,Commercial Insurance pos,10946.55
+Delray Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$58,642.22",FL,Commercial Insurance ppo,10946.55
+Delray Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$58,642.22",FL,Multiplan hmo,70370.67
+Delray Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$58,642.22",FL,Multiplan pos,70370.67
+Delray Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$58,642.22",FL,Multiplan ppo,70370.67
+Delray Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$143,493.56",FL,Multiplan hmo,172192.28
+Delray Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$143,493.56",FL,Multiplan pos,172192.28
+Delray Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$143,493.56",FL,Multiplan ppo,172192.28
+Delray Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$226,674.46",FL,Multiplan hmo,272009.35
+Delray Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$226,674.46",FL,Multiplan pos,272009.35
+Delray Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$226,674.46",FL,Multiplan ppo,272009.35
+Delray Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,"$12,840.86",FL,Commercial Insurance hmo,2396.96
+Delray Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,"$12,840.86",FL,Commercial Insurance pos,2396.96
+Delray Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,"$12,840.86",FL,Commercial Insurance ppo,2396.96
+Delray Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,"$12,840.86",FL,Multiplan hmo,15409.03
+Delray Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,"$12,840.86",FL,Multiplan pos,15409.03
+Delray Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,"$12,840.86",FL,Multiplan ppo,15409.03
+Delray Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$12,533.29",FL,Commercial Insurance hmo,2339.55
+Delray Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$12,533.29",FL,Commercial Insurance pos,2339.55
+Delray Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$12,533.29",FL,Commercial Insurance ppo,2339.55
+Delray Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$12,533.29",FL,Multiplan hmo,15039.95
+Delray Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$12,533.29",FL,Multiplan pos,15039.95
+Delray Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$12,533.29",FL,Multiplan ppo,15039.95
