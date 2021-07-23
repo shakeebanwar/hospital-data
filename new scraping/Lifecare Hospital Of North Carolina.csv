@@ -1,0 +1,58 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Lifecare Hospital Of North Carolina,Cardiovascular,MSDRG 310,Cardiac arrhythmia / irregular heartbeat,-,WA
+Lifecare Hospital Of North Carolina,Cardiovascular,MSDRG 313,Chest pain,-,WA
+Lifecare Hospital Of North Carolina,Cardiovascular,MSDRG 282,Heart attack,-,WA
+Lifecare Hospital Of North Carolina,Cardiovascular,MSDRG 293,Heart failure and shock,-,WA
+Lifecare Hospital Of North Carolina,Cardiovascular,MSDRG 305,Hypertension,-,WA
+Lifecare Hospital Of North Carolina,Cardiovascular,MSDRG 312,Loss of conciousness and collapse,-,WA
+Lifecare Hospital Of North Carolina,Cardiovascular,MSDRG 208,Respiratory system diagnosis with ventilator support <=96 hours,-,WA
+Lifecare Hospital Of North Carolina,Cardiovascular,MSDRG 207,Respiratory system diagnosis with ventilator support >96 hours,-,WA
+Lifecare Hospital Of North Carolina,Other Non-Surgical Procedures,MSDRG 203,Bronchitis and asthma,-,WA
+Lifecare Hospital Of North Carolina,Other Non-Surgical Procedures,MSDRG 603,Cellulitis,-,WA
+Lifecare Hospital Of North Carolina,Other Non-Surgical Procedures,MSDRG 639,Diabetes,-,WA
+Lifecare Hospital Of North Carolina,Other Non-Surgical Procedures,MSDRG 440,Disorders of pancreas,-,WA
+Lifecare Hospital Of North Carolina,Other Non-Surgical Procedures,MSDRG 392,"Esophagitis, gastroenteritis and miscellaneous digestive disorders",-,WA
+Lifecare Hospital Of North Carolina,Other Non-Surgical Procedures,MSDRG 536,Fractures of hip and pelvis,-,WA
+Lifecare Hospital Of North Carolina,Other Non-Surgical Procedures,MSDRG 563,"Fracture, sprain, strain and dislocation except femur, hip, pelvis and thigh",-,WA
+Lifecare Hospital Of North Carolina,Other Non-Surgical Procedures,MSDRG 379,Gastrointestinal hemorrhage,-,WA
+Lifecare Hospital Of North Carolina,Other Non-Surgical Procedures,MSDRG 390,Gastrointestinal obstruction,-,WA
+Lifecare Hospital Of North Carolina,Other Non-Surgical Procedures,MSDRG 690,Kidney and urinary tract infections,-,WA
+Lifecare Hospital Of North Carolina,Other Non-Surgical Procedures,MSDRG 373,Major gastrointestinal disorders and peritoneal infections,-,WA
+Lifecare Hospital Of North Carolina,Other Non-Surgical Procedures,MSDRG 552,Medical back problems,-,WA
+Lifecare Hospital Of North Carolina,Other Non-Surgical Procedures,MSDRG 195,Pneumonia,-,WA
+Lifecare Hospital Of North Carolina,Other Non-Surgical Procedures,MSDRG 812,Red blood cell disorders,-,WA
+Lifecare Hospital Of North Carolina,Other Non-Surgical Procedures,MSDRG 684,Renal failure,-,WA
+Lifecare Hospital Of North Carolina,Other Non-Surgical Procedures,MSDRG 101,Seizures,-,WA
+Lifecare Hospital Of North Carolina,Other Non-Surgical Procedures,MSDRG 872,Sepsis (blood infection),-,WA
+Lifecare Hospital Of North Carolina,Other Non-Surgical Procedures,MSDRG 870,Septicemia or severe sepsis with mv >96 hours,-,WA
+Lifecare Hospital Of North Carolina,Other Non-Surgical Procedures,MSDRG 558,"Tendonitis, myositis and bursitis",-,WA
+Lifecare Hospital Of North Carolina,Pulmonary,MSDRG 192,Chronic obstructive pulmonary disease (COPD),-,WA
+Lifecare Hospital Of North Carolina,Pulmonary,MSDRG 189,Pulmonary edema and respiratory failure,-,WA
+Lifecare Hospital Of North Carolina,Pulmonary,MSDRG 176,Pulmonary embolism (blood clot in lung),-,WA
+Lifecare Hospital Of North Carolina,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,WA
+Lifecare Hospital Of North Carolina,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,WA
+Lifecare Hospital Of North Carolina,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,WA
+Lifecare Hospital Of North Carolina,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,WA
+Lifecare Hospital Of North Carolina,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,WA
+Lifecare Hospital Of North Carolina,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,WA
+Lifecare Hospital Of North Carolina,Cardiac,MSDRG 218,Heart valve procedure valve procedure with catheterization (no complications),-,WA
+Lifecare Hospital Of North Carolina,Cardiac,MSDRG 217,Heart valve procedure with catheterization (complications),-,WA
+Lifecare Hospital Of North Carolina,Cardiac,MSDRG 220,Heart valve procedure without catheterization (complications),-,WA
+Lifecare Hospital Of North Carolina,Cardiac,MSDRG 219,Heart valve procedure without catheterization (major complications),-,WA
+Lifecare Hospital Of North Carolina,Cardiac,MSDRG 221,Heart valve procedure without catheterization (no complications),-,WA
+Lifecare Hospital Of North Carolina,Cardiac,MSDRG 266,Heart valve replacement (major complications),-,WA
+Lifecare Hospital Of North Carolina,Cardiac,MSDRG 267,Heart valve replacement (no complications),-,WA
+Lifecare Hospital Of North Carolina,Cardiac,MSDRG 247,Implant drug-eluting stent,-,WA
+Lifecare Hospital Of North Carolina,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,WA
+Lifecare Hospital Of North Carolina,Digestive,MSDRG 331,Major small and large bowel procedures,-,WA
+Lifecare Hospital Of North Carolina,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,WA
+Lifecare Hospital Of North Carolina,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,WA
+Lifecare Hospital Of North Carolina,Musculoskeletal,MSDRG 482,Hip and femur procedures,-,WA
+Lifecare Hospital Of North Carolina,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,WA
+Lifecare Hospital Of North Carolina,Musculoskeletal,MSDRG 494,"Lower extremity and humerus procedures except hip, foot and femur",-,WA
+Lifecare Hospital Of North Carolina,Musculoskeletal,MSDRG 483,Major joint/limb reattachment procedure of upper extremities,-,WA
+Lifecare Hospital Of North Carolina,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,WA
+Lifecare Hospital Of North Carolina,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,WA
+Lifecare Hospital Of North Carolina,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,WA
+Lifecare Hospital Of North Carolina,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,WA
+Lifecare Hospital Of North Carolina,Skin,MSDRG 581,"Other skin, subcutaneous tissue and breast procedures",-,WA

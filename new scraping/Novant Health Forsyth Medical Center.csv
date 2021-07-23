@@ -1,0 +1,588 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Novant Health Forsyth Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$1.20,WA
+Novant Health Forsyth Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,828.20",WA
+Novant Health Forsyth Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$146.40,WA
+Novant Health Forsyth Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$241.20,WA
+Novant Health Forsyth Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$532.20,WA
+Novant Health Forsyth Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,108.20",WA
+Novant Health Forsyth Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,478.40",WA
+Novant Health Forsyth Medical Center,Hospital,HCPCS 99219,Hospital observation care typically 30 minutes,-,WA
+Novant Health Forsyth Medical Center,Hospital,HCPCS 99235,"Hospital observation or inpatient care moderate severity, 50 minutes per day",-,WA
+Novant Health Forsyth Medical Center,Hospital,HCPCS 99218,Hospital Observation per Hour,-,WA
+Novant Health Forsyth Medical Center,Hospital,HCPCS 99224,"Subsequent observation care, typically 25 minutes per day",-,WA
+Novant Health Forsyth Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$202.20,WA
+Novant Health Forsyth Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$316.20,WA
+Novant Health Forsyth Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$156.00,WA
+Novant Health Forsyth Medical Center,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$147.00,WA
+Novant Health Forsyth Medical Center,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$147.00,WA
+Novant Health Forsyth Medical Center,Psychology,HCPCS 90853,Group psychotherapy,$147.60,WA
+Novant Health Forsyth Medical Center,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$204.00,WA
+Novant Health Forsyth Medical Center,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$87.60,WA
+Novant Health Forsyth Medical Center,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$142.20,WA
+Novant Health Forsyth Medical Center,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$152.40,WA
+Novant Health Forsyth Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$260.40,WA
+Novant Health Forsyth Medical Center,Speech,HCPCS 92507,Speech Therapy,$137.40,WA
+Novant Health Forsyth Medical Center,Speech,HCPCS 92610,Swallow Evaluation,$156.60,WA
+Novant Health Forsyth Medical Center,Speech,HCPCS 92526,Swallow Treatment,$137.40,WA
+Novant Health Forsyth Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$25.20,WA
+Novant Health Forsyth Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$25.20,WA
+Novant Health Forsyth Medical Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$51.60,WA
+Novant Health Forsyth Medical Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$134.40,WA
+Novant Health Forsyth Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$42.00,WA
+Novant Health Forsyth Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$64.80,WA
+Novant Health Forsyth Medical Center,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$42.00,WA
+Novant Health Forsyth Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$83.40,WA
+Novant Health Forsyth Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$68.40,WA
+Novant Health Forsyth Medical Center,Blood,HCPCS 85008,Microscopic examination for white blood cells,$36.60,WA
+Novant Health Forsyth Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$34.20,WA
+Novant Health Forsyth Medical Center,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$148.20,WA
+Novant Health Forsyth Medical Center,Blood,HCPCS 85660,Red blood cell sickling measurement,$58.80,WA
+Novant Health Forsyth Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$798.60,WA
+Novant Health Forsyth Medical Center,Blood,HCPCS 85041,"Red blood count, automated test",$16.20,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$186.00,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$267.60,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$52.20,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$96.60,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$113.40,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 82140,Ammonia level,$95.40,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$68.40,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$132.60,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$187.80,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$141.00,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$114.00,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$52.80,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$52.80,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$55.20,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$21.60,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 84132,Blood potassium level,$40.80,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$27.60,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$61.80,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$174.60,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 82310,Calcium level,$55.20,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$42.00,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$202.80,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 82465,Cholesterol level,$47.40,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 82525,Copper level,$96.60,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$174.60,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$88.20,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$69.60,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$160.80,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$270.00,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$230.40,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$145.20,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$143.40,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$100.20,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$76.80,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$91.20,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$199.80,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$199.20,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$73.80,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 83718,HDL cholesterol level,$88.20,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 83020,Hemoglobin Measurement,$135.00,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$199.20,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$167.40,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$123.00,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$76.80,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$115.20,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$80.40,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 83540,Iron level,$68.40,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$64.80,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 83721,LDL cholesterol level,$102.60,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$74.40,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$55.20,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$150.00,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 83021,Liver function blood test panel,$97.80,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$57.00,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 82542,Mass spectrometry,$175.20,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$145.20,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$100.20,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 83918,Organic acid level,$348.00,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 83945,Oxalate level,$97.20,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 83970,Parathormone,$301.80,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$79.80,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$39.60,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$142.80,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$208.20,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$115.20,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS A9270,Selenium (vitamin) level,-,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$22.80,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$276.60,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$88.20,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$64.20,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$293.40,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$62.40,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$39.60,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$49.20,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$190.80,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 84560,Uric acid level,$51.60,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$49.20,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$55.80,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 82436,Urine chloride level,$30.60,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$62.40,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$58.80,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$81.00,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$47.40,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$51.60,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 84591,Vitamin B-6 level,$206.40,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$169.20,WA
+Novant Health Forsyth Medical Center,Chemistry,HCPCS 84630,Zinc level,$78.00,WA
+Novant Health Forsyth Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$114.60,WA
+Novant Health Forsyth Medical Center,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$154.80,WA
+Novant Health Forsyth Medical Center,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$79.80,WA
+Novant Health Forsyth Medical Center,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$100.80,WA
+Novant Health Forsyth Medical Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$124.20,WA
+Novant Health Forsyth Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$153.00,WA
+Novant Health Forsyth Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$127.80,WA
+Novant Health Forsyth Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$124.20,WA
+Novant Health Forsyth Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$101.40,WA
+Novant Health Forsyth Medical Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$45.60,WA
+Novant Health Forsyth Medical Center,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$198.60,WA
+Novant Health Forsyth Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$47.40,WA
+Novant Health Forsyth Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$22.20,WA
+Novant Health Forsyth Medical Center,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$106.20,WA
+Novant Health Forsyth Medical Center,Immunology,HCPCS 86161,Measurement of complement (immune system proteins),$66.00,WA
+Novant Health Forsyth Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$133.20,WA
+Novant Health Forsyth Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$88.20,WA
+Novant Health Forsyth Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$61.20,WA
+Novant Health Forsyth Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$55.20,WA
+Novant Health Forsyth Medical Center,Immunology,HCPCS 86580,Skin test for tuberculosis,$28.20,WA
+Novant Health Forsyth Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$45.60,WA
+Novant Health Forsyth Medical Center,Immunology,HCPCS 86361,T cell count and ratio,$286.80,WA
+Novant Health Forsyth Medical Center,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$502.80,WA
+Novant Health Forsyth Medical Center,Immunology,HCPCS 86359,"T cells count, total",$373.20,WA
+Novant Health Forsyth Medical Center,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$88.20,WA
+Novant Health Forsyth Medical Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$55.20,WA
+Novant Health Forsyth Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$97.20,WA
+Novant Health Forsyth Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$87.00,WA
+Novant Health Forsyth Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$123.60,WA
+Novant Health Forsyth Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$49.80,WA
+Novant Health Forsyth Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$242.40,WA
+Novant Health Forsyth Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$123.00,WA
+Novant Health Forsyth Medical Center,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$348.60,WA
+Novant Health Forsyth Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$100.20,WA
+Novant Health Forsyth Medical Center,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$316.80,WA
+Novant Health Forsyth Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$123.00,WA
+Novant Health Forsyth Medical Center,Microbiology,HCPCS 87517,Hepatitis B Detection,$516.00,WA
+Novant Health Forsyth Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$254.40,WA
+Novant Health Forsyth Medical Center,Microbiology,HCPCS 87624,HPV Detection,$263.40,WA
+Novant Health Forsyth Medical Center,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$211.20,WA
+Novant Health Forsyth Medical Center,Microbiology,HCPCS 86735,Mumps virus antibody test,$69.60,WA
+Novant Health Forsyth Medical Center,Microbiology,HCPCS 86747,Parvovirus antibody test,$101.40,WA
+Novant Health Forsyth Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$104.40,WA
+Novant Health Forsyth Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$80.40,WA
+Novant Health Forsyth Medical Center,Microbiology,HCPCS 87207,Smear for infectious agents,$98.40,WA
+Novant Health Forsyth Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$95.40,WA
+Novant Health Forsyth Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$57.60,WA
+Novant Health Forsyth Medical Center,Microbiology,HCPCS 87045,Stool Culture,$101.40,WA
+Novant Health Forsyth Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$118.80,WA
+Novant Health Forsyth Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$123.00,WA
+Novant Health Forsyth Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$69.60,WA
+Novant Health Forsyth Medical Center,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$90.60,WA
+Novant Health Forsyth Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$289.20,WA
+Novant Health Forsyth Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$85.20,WA
+Novant Health Forsyth Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$93.00,WA
+Novant Health Forsyth Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$142.80,WA
+Novant Health Forsyth Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$85.20,WA
+Novant Health Forsyth Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$85.20,WA
+Novant Health Forsyth Medical Center,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$363.00,WA
+Novant Health Forsyth Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$156.00,WA
+Novant Health Forsyth Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$131.40,WA
+Novant Health Forsyth Medical Center,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$193.20,WA
+Novant Health Forsyth Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$138.00,WA
+Novant Health Forsyth Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$390.60,WA
+Novant Health Forsyth Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$142.20,WA
+Novant Health Forsyth Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$81.00,WA
+Novant Health Forsyth Medical Center,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$136.20,WA
+Novant Health Forsyth Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$115.80,WA
+Novant Health Forsyth Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$202.20,WA
+Novant Health Forsyth Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$142.80,WA
+Novant Health Forsyth Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$142.80,WA
+Novant Health Forsyth Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$70.80,WA
+Novant Health Forsyth Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$32.40,WA
+Novant Health Forsyth Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$190.20,WA
+Novant Health Forsyth Medical Center,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$151.20,WA
+Novant Health Forsyth Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$57.60,WA
+Novant Health Forsyth Medical Center,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$22.20,WA
+Novant Health Forsyth Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$172.80,WA
+Novant Health Forsyth Medical Center,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$21.60,WA
+Novant Health Forsyth Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$31.80,WA
+Novant Health Forsyth Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$34.20,WA
+Novant Health Forsyth Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$67.20,WA
+Novant Health Forsyth Medical Center,Cardiovascular,MSDRG 310,Cardiac arrhythmia / irregular heartbeat,-,WA
+Novant Health Forsyth Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$331.20,WA
+Novant Health Forsyth Medical Center,Cardiovascular,MSDRG 313,Chest pain,-,WA
+Novant Health Forsyth Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$120.00,WA
+Novant Health Forsyth Medical Center,Cardiovascular,MSDRG 282,Heart attack,-,WA
+Novant Health Forsyth Medical Center,Cardiovascular,MSDRG 293,Heart failure and shock,-,WA
+Novant Health Forsyth Medical Center,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$91.20,WA
+Novant Health Forsyth Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$193.80,WA
+Novant Health Forsyth Medical Center,Cardiovascular,MSDRG 305,Hypertension,-,WA
+Novant Health Forsyth Medical Center,Cardiovascular,MSDRG 312,Loss of conciousness and collapse,-,WA
+Novant Health Forsyth Medical Center,Cardiovascular,MSDRG 208,Respiratory system diagnosis with ventilator support <=96 hours,-,WA
+Novant Health Forsyth Medical Center,Cardiovascular,MSDRG 207,Respiratory system diagnosis with ventilator support >96 hours,-,WA
+Novant Health Forsyth Medical Center,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$23.40,WA
+Novant Health Forsyth Medical Center,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),$768.00,WA
+Novant Health Forsyth Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,$592.20,WA
+Novant Health Forsyth Medical Center,Other Non-Surgical Procedures,MSDRG 203,Bronchitis and asthma,-,WA
+Novant Health Forsyth Medical Center,Other Non-Surgical Procedures,MSDRG 603,Cellulitis,-,WA
+Novant Health Forsyth Medical Center,Other Non-Surgical Procedures,MSDRG 639,Diabetes,-,WA
+Novant Health Forsyth Medical Center,Other Non-Surgical Procedures,MSDRG 440,Disorders of pancreas,-,WA
+Novant Health Forsyth Medical Center,Other Non-Surgical Procedures,MSDRG 392,"Esophagitis, gastroenteritis and miscellaneous digestive disorders",-,WA
+Novant Health Forsyth Medical Center,Other Non-Surgical Procedures,MSDRG 536,Fractures of hip and pelvis,-,WA
+Novant Health Forsyth Medical Center,Other Non-Surgical Procedures,MSDRG 563,"Fracture, sprain, strain and dislocation except femur, hip, pelvis and thigh",-,WA
+Novant Health Forsyth Medical Center,Other Non-Surgical Procedures,MSDRG 379,Gastrointestinal hemorrhage,-,WA
+Novant Health Forsyth Medical Center,Other Non-Surgical Procedures,MSDRG 390,Gastrointestinal obstruction,-,WA
+Novant Health Forsyth Medical Center,Other Non-Surgical Procedures,MSDRG 690,Kidney and urinary tract infections,-,WA
+Novant Health Forsyth Medical Center,Other Non-Surgical Procedures,MSDRG 373,Major gastrointestinal disorders and peritoneal infections,-,WA
+Novant Health Forsyth Medical Center,Other Non-Surgical Procedures,MSDRG 552,Medical back problems,-,WA
+Novant Health Forsyth Medical Center,Other Non-Surgical Procedures,MSDRG 195,Pneumonia,-,WA
+Novant Health Forsyth Medical Center,Other Non-Surgical Procedures,MSDRG 812,Red blood cell disorders,-,WA
+Novant Health Forsyth Medical Center,Other Non-Surgical Procedures,MSDRG 684,Renal failure,-,WA
+Novant Health Forsyth Medical Center,Other Non-Surgical Procedures,MSDRG 101,Seizures,-,WA
+Novant Health Forsyth Medical Center,Other Non-Surgical Procedures,MSDRG 872,Sepsis (blood infection),-,WA
+Novant Health Forsyth Medical Center,Other Non-Surgical Procedures,MSDRG 870,Septicemia or severe sepsis with mv >96 hours,-,WA
+Novant Health Forsyth Medical Center,Other Non-Surgical Procedures,MSDRG 558,"Tendonitis, myositis and bursitis",-,WA
+Novant Health Forsyth Medical Center,Pulmonary,HCPCS 94640,Aerosol Treatment,$213.00,WA
+Novant Health Forsyth Medical Center,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$172.80,WA
+Novant Health Forsyth Medical Center,Pulmonary,MSDRG 192,Chronic obstructive pulmonary disease (COPD),-,WA
+Novant Health Forsyth Medical Center,Pulmonary,MSDRG 189,Pulmonary edema and respiratory failure,-,WA
+Novant Health Forsyth Medical Center,Pulmonary,MSDRG 176,Pulmonary embolism (blood clot in lung),-,WA
+Novant Health Forsyth Medical Center,Pulmonary,HCPCS 94618,Pulmonary stress test,$156.60,WA
+Novant Health Forsyth Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$156.60,WA
+Novant Health Forsyth Medical Center,Sleep,HCPCS 95810,Sleep study,"$2,426.40",WA
+Novant Health Forsyth Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$60.00,WA
+Novant Health Forsyth Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$176.40,WA
+Novant Health Forsyth Medical Center,Breast,HCPCS 77067,Mammogram Screening,$213.00,WA
+Novant Health Forsyth Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$228.00,WA
+Novant Health Forsyth Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$2,479.80",WA
+Novant Health Forsyth Medical Center,CT Scan,HCPCS 74175,CT angiography scan of abdomen,"$1,882.80",WA
+Novant Health Forsyth Medical Center,CT Scan,HCPCS 74174,CTA scan of abdomen,"$2,456.40",WA
+Novant Health Forsyth Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,136.40",WA
+Novant Health Forsyth Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$790.80,WA
+Novant Health Forsyth Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,169.40",WA
+Novant Health Forsyth Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,588.00",WA
+Novant Health Forsyth Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,728.80",WA
+Novant Health Forsyth Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,990.20",WA
+Novant Health Forsyth Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,465.80",WA
+Novant Health Forsyth Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,285.80",WA
+Novant Health Forsyth Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,671.00",WA
+Novant Health Forsyth Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$755.40,WA
+Novant Health Forsyth Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,543.80",WA
+Novant Health Forsyth Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,577.40",WA
+Novant Health Forsyth Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,236.00",WA
+Novant Health Forsyth Medical Center,MRI,HCPCS 75561,Cardiac MRI,"$1,881.00",WA
+Novant Health Forsyth Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,$884.40,WA
+Novant Health Forsyth Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,$762.60,WA
+Novant Health Forsyth Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$1,248.00",WA
+Novant Health Forsyth Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,$792.60,WA
+Novant Health Forsyth Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$1,248.00",WA
+Novant Health Forsyth Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,185.20",WA
+Novant Health Forsyth Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,$684.60,WA
+Novant Health Forsyth Medical Center,MRI,HCPCS 74182,MRI scan of abdomen with contrast,"$1,527.00",WA
+Novant Health Forsyth Medical Center,MRI,HCPCS 74181,MRI scan of abdomen without contrast,$578.40,WA
+Novant Health Forsyth Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,039.40",WA
+Novant Health Forsyth Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,158.00",WA
+Novant Health Forsyth Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,$606.60,WA
+Novant Health Forsyth Medical Center,Chest,HCPCS 76706,"Ultrasound, aortic aneurisum screening",$321.60,WA
+Novant Health Forsyth Medical Center,Hip and Pelvis,HCPCS 76815,"Ultrasound, pregnancy",$243.60,WA
+Novant Health Forsyth Medical Center,Hip and Pelvis,HCPCS 76801,"Ultrasound, pregnancy, 1st trimester",$285.00,WA
+Novant Health Forsyth Medical Center,Hip and Pelvis,HCPCS 76816,"Ultrasound, pregnancy, transabdominal (pelvis)",$238.20,WA
+Novant Health Forsyth Medical Center,Hip and Pelvis,HCPCS 76817,"Ultrasound, pregnancy, transvaginal",$258.60,WA
+Novant Health Forsyth Medical Center,Hip and Pelvis,HCPCS 76870,"Ultrasound, testical",$456.60,WA
+Novant Health Forsyth Medical Center,Other Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$259.20,WA
+Novant Health Forsyth Medical Center,Other Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$254.40,WA
+Novant Health Forsyth Medical Center,Other Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$383.40,WA
+Novant Health Forsyth Medical Center,Other Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$420.00,WA
+Novant Health Forsyth Medical Center,Other Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$391.20,WA
+Novant Health Forsyth Medical Center,Other Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$456.60,WA
+Novant Health Forsyth Medical Center,Other Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$366.60,WA
+Novant Health Forsyth Medical Center,Other Ultrasound,HCPCS 76857,Ultrasound of pelvis,$169.20,WA
+Novant Health Forsyth Medical Center,Other Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$418.80,WA
+Novant Health Forsyth Medical Center,Other Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$365.40,WA
+Novant Health Forsyth Medical Center,Other Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$383.40,WA
+Novant Health Forsyth Medical Center,Spine,HCPCS 76800,"Ultrasound, spinal canal",$296.40,WA
+Novant Health Forsyth Medical Center,Upper Limbs,HCPCS 76882,"Ultrasound, shoulder joint/soft tissue",$219.00,WA
+Novant Health Forsyth Medical Center,Abdomen,HCPCS 74018,"X-ray abdomen, 1 view",$209.40,WA
+Novant Health Forsyth Medical Center,Abdomen,HCPCS 74019,"X-ray abdomen, 2 views",$226.20,WA
+Novant Health Forsyth Medical Center,Abdomen,HCPCS 74021,"X-ray abdomen, 3 or more views",$259.20,WA
+Novant Health Forsyth Medical Center,Chest,HCPCS 71270,CT scan of chest with and without contrast,"$2,177.40",WA
+Novant Health Forsyth Medical Center,Chest,HCPCS 71552,MRI scan of chest with and without contrast,"$2,227.20",WA
+Novant Health Forsyth Medical Center,Chest,HCPCS 71550,MRI scan of chest without contrast,$737.40,WA
+Novant Health Forsyth Medical Center,Chest,HCPCS 76641,Ultrasound of breasts (both),$279.00,WA
+Novant Health Forsyth Medical Center,Chest,HCPCS 76642,Ultrasound of breast (single),$243.60,WA
+Novant Health Forsyth Medical Center,Chest,HCPCS 76604,Ultrasound of chest,$246.00,WA
+Novant Health Forsyth Medical Center,Chest,HCPCS 71047,"X-ray chest, 2 views",$259.20,WA
+Novant Health Forsyth Medical Center,Chest,HCPCS 71048,"X-ray chest, 4 or more views",$344.40,WA
+Novant Health Forsyth Medical Center,Chest,HCPCS 71130,"X-ray chest joints (sternoclavicular), 3 or more views",$259.20,WA
+Novant Health Forsyth Medical Center,Chest,HCPCS 71120,"X-ray chest (sternum), 2 or more views",$226.20,WA
+Novant Health Forsyth Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$259.20,WA
+Novant Health Forsyth Medical Center,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$259.20,WA
+Novant Health Forsyth Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$226.20,WA
+Novant Health Forsyth Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$209.40,WA
+Novant Health Forsyth Medical Center,Chest,HCPCS 71110,"X-ray ribs, bilateral, 3 or more views",$259.20,WA
+Novant Health Forsyth Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$209.40,WA
+Novant Health Forsyth Medical Center,Chest,HCPCS 71101,"X-ray ribs, unilateral, 3 or more views",$226.20,WA
+Novant Health Forsyth Medical Center,Head and Neck,HCPCS 70496,CTA scan of head,"$2,199.60",WA
+Novant Health Forsyth Medical Center,Head and Neck,HCPCS 70498,CTA scan of neck,"$2,221.80",WA
+Novant Health Forsyth Medical Center,Head and Neck,HCPCS 70481,CT scan of eye with contrast,"$1,753.20",WA
+Novant Health Forsyth Medical Center,Head and Neck,HCPCS 70480,CT scan of eye without contrast,"$1,169.40",WA
+Novant Health Forsyth Medical Center,Head and Neck,HCPCS 70487,CT scan of face with contrast,"$1,413.60",WA
+Novant Health Forsyth Medical Center,Head and Neck,HCPCS 70488,CT scan of face without contrast,"$1,575.60",WA
+Novant Health Forsyth Medical Center,Head and Neck,HCPCS 70460,CT scan of head with contrast,$945.00,WA
+Novant Health Forsyth Medical Center,Head and Neck,HCPCS 70470,CT scan of head without contrast,"$1,165.80",WA
+Novant Health Forsyth Medical Center,Head and Neck,HCPCS 70492,CT scan of neck with contrast,"$1,789.20",WA
+Novant Health Forsyth Medical Center,Head and Neck,HCPCS 70490,CT scan of neck without contrast,$984.60,WA
+Novant Health Forsyth Medical Center,Head and Neck,HCPCS 70546,MRA scan of head with and without contrast,"$2,413.80",WA
+Novant Health Forsyth Medical Center,Head and Neck,HCPCS 70545,MRA scan of head with contrast,"$1,653.60",WA
+Novant Health Forsyth Medical Center,Head and Neck,HCPCS 70549,MRA scan of neck with and without contrast,"$1,812.00",WA
+Novant Health Forsyth Medical Center,Head and Neck,HCPCS 70548,MRA scan of neck with contrast,"$1,437.00",WA
+Novant Health Forsyth Medical Center,Head and Neck,HCPCS 70547,MRA scan of neck without contrast,"$1,331.40",WA
+Novant Health Forsyth Medical Center,Head and Neck,HCPCS 70552,MRI scan of brain with contrast,"$1,071.60",WA
+Novant Health Forsyth Medical Center,Head and Neck,HCPCS 70543,"MRI scan of orbits, face, or soft tissue of the neck with and without contrast","$2,195.40",WA
+Novant Health Forsyth Medical Center,Head and Neck,HCPCS 70542,"MRI scan of orbits, face, or soft tissue of the neck with contrast","$1,632.00",WA
+Novant Health Forsyth Medical Center,Head and Neck,HCPCS 70540,"MRI scan of orbits, face, or soft tissue of the neck without contrast","$1,130.40",WA
+Novant Health Forsyth Medical Center,Head and Neck,HCPCS 70336,MRI scan of the jaw joint,$939.60,WA
+Novant Health Forsyth Medical Center,Head and Neck,HCPCS 70030,"X-ray eye, foreign body",$226.20,WA
+Novant Health Forsyth Medical Center,Head and Neck,HCPCS 70140,"X-ray facial bones, 1-2 views",$226.20,WA
+Novant Health Forsyth Medical Center,Head and Neck,HCPCS 70330,"X-ray jaw joint, bilateral",$259.20,WA
+Novant Health Forsyth Medical Center,Head and Neck,HCPCS 70100,"X-ray jaw, less than 4 views",$259.20,WA
+Novant Health Forsyth Medical Center,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$259.20,WA
+Novant Health Forsyth Medical Center,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$259.20,WA
+Novant Health Forsyth Medical Center,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$180.00,WA
+Novant Health Forsyth Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$344.40,WA
+Novant Health Forsyth Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$209.40,WA
+Novant Health Forsyth Medical Center,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$226.20,WA
+Novant Health Forsyth Medical Center,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$344.40,WA
+Novant Health Forsyth Medical Center,Head and Neck,HCPCS 70200,"X-ray orbits, 4 or more views",$344.40,WA
+Novant Health Forsyth Medical Center,Head and Neck,HCPCS 70220,"X-ray sinuses, 3 views",$259.20,WA
+Novant Health Forsyth Medical Center,Head and Neck,HCPCS 70250,"X-ray skull, less than 4 views",$259.20,WA
+Novant Health Forsyth Medical Center,Hip and Pelvis,HCPCS 72191,CTA scan of pelvis,"$1,119.00",WA
+Novant Health Forsyth Medical Center,Hip and Pelvis,HCPCS 72194,CT scan of pelvis with and without contrast,"$1,464.00",WA
+Novant Health Forsyth Medical Center,Hip and Pelvis,HCPCS 72192,CT scan of pelvis without contrast,$796.20,WA
+Novant Health Forsyth Medical Center,Hip and Pelvis,HCPCS 72197,MRI scan of pelvis with and without contrast,"$2,118.60",WA
+Novant Health Forsyth Medical Center,Hip and Pelvis,HCPCS 72196,MRI scan of pelvis with contrast,"$1,737.00",WA
+Novant Health Forsyth Medical Center,Hip and Pelvis,HCPCS 72195,MRI scan of pelvis without contrast,"$1,099.80",WA
+Novant Health Forsyth Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$344.40,WA
+Novant Health Forsyth Medical Center,Hip and Pelvis,HCPCS 73501,"X-ray hip and pelvis, 1 view",$209.40,WA
+Novant Health Forsyth Medical Center,Hip and Pelvis,HCPCS 73521,"X-ray hip and pelvis, 2 views",$226.20,WA
+Novant Health Forsyth Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$259.20,WA
+Novant Health Forsyth Medical Center,Hip and Pelvis,HCPCS 73523,"X-ray hip and pelvis, 5 or more views",$344.40,WA
+Novant Health Forsyth Medical Center,Hip and Pelvis,HCPCS 73525,X-ray hip (arthrogram) with dye,$317.40,WA
+Novant Health Forsyth Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$226.20,WA
+Novant Health Forsyth Medical Center,Hip and Pelvis,HCPCS 72190,"X-ray pelvis, 3 or more views",$259.20,WA
+Novant Health Forsyth Medical Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$259.20,WA
+Novant Health Forsyth Medical Center,Hip and Pelvis,HCPCS 72220,"X-ray sacrum and coccyx, 2 or more views",$226.20,WA
+Novant Health Forsyth Medical Center,Lower Limbs,HCPCS 73706,"CTA scan of hip, knee, ankle, or foot","$1,476.00",WA
+Novant Health Forsyth Medical Center,Lower Limbs,HCPCS 73702,"CT scan of hip, knee, ankle, or foot with and without contrast","$1,959.60",WA
+Novant Health Forsyth Medical Center,Lower Limbs,HCPCS 73701,"CT scan of hip, knee, ankle, or foot with contrast","$1,567.80",WA
+Novant Health Forsyth Medical Center,Lower Limbs,HCPCS 73700,"CT scan of hip, knee, ankle, or foot without contrast","$1,176.00",WA
+Novant Health Forsyth Medical Center,Lower Limbs,HCPCS 73723,"MRI scan of hip, knee, ankle, or foot joints with and without contrast","$1,781.40",WA
+Novant Health Forsyth Medical Center,Lower Limbs,HCPCS 73722,"MRI scan of hip, knee, ankle, or foot joints with contrast","$1,534.80",WA
+Novant Health Forsyth Medical Center,Lower Limbs,HCPCS 73720,MRI scan of leg with and without contrast,"$1,781.40",WA
+Novant Health Forsyth Medical Center,Lower Limbs,HCPCS 73719,MRI scan of leg with contrast,"$1,546.80",WA
+Novant Health Forsyth Medical Center,Lower Limbs,HCPCS 73718,MRI scan of leg without contrast,$612.00,WA
+Novant Health Forsyth Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$117.60,WA
+Novant Health Forsyth Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$259.20,WA
+Novant Health Forsyth Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$226.20,WA
+Novant Health Forsyth Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$259.20,WA
+Novant Health Forsyth Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$259.20,WA
+Novant Health Forsyth Medical Center,Lower Limbs,HCPCS 73551,"X-ray femur, 1 view",$111.00,WA
+Novant Health Forsyth Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$226.20,WA
+Novant Health Forsyth Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$117.60,WA
+Novant Health Forsyth Medical Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$209.40,WA
+Novant Health Forsyth Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$226.20,WA
+Novant Health Forsyth Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$344.40,WA
+Novant Health Forsyth Medical Center,Lower Limbs,HCPCS 73580,X-ray knee (arthrogram) with dye,$381.60,WA
+Novant Health Forsyth Medical Center,Lower Limbs,HCPCS 73592,X-ray lower extremities for infant,$226.20,WA
+Novant Health Forsyth Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$117.60,WA
+Novant Health Forsyth Medical Center,Lower Limbs,HCPCS 73660,"X-ray toes, 2 or more views",$226.20,WA
+Novant Health Forsyth Medical Center,Other X-ray,HCPCS 77073,Bone length scanogram,$134.40,WA
+Novant Health Forsyth Medical Center,Other X-ray,HCPCS 74300,"X-ray bile ducts, with contrast (cholangiogram)",$496.80,WA
+Novant Health Forsyth Medical Center,Other X-ray,HCPCS 74430,"X-ray, bladder (cystogram), 3 or more views",$259.20,WA
+Novant Health Forsyth Medical Center,Other X-ray,HCPCS 74280,"X-ray colon, with contrast",$509.40,WA
+Novant Health Forsyth Medical Center,Other X-ray,HCPCS 74270,"X-ray colon, with or without contrast",$269.40,WA
+Novant Health Forsyth Medical Center,Other X-ray,HCPCS 74220,X-ray esophagus (esophogram),$279.60,WA
+Novant Health Forsyth Medical Center,Other X-ray,HCPCS 76010,X-ray of child for foreign body,$128.40,WA
+Novant Health Forsyth Medical Center,Other X-ray,HCPCS 74250,X-ray small bowel,$344.40,WA
+Novant Health Forsyth Medical Center,Other X-ray,HCPCS 74230,"X-ray, swallowing function study",$340.80,WA
+Novant Health Forsyth Medical Center,Other X-ray,HCPCS 74240,X-ray upper GI tract ,$344.40,WA
+Novant Health Forsyth Medical Center,Other X-ray,HCPCS 74450,"X-ray, urethra (retrograde urethrogram)",$420.60,WA
+Novant Health Forsyth Medical Center,Spine,HCPCS 72127,CT scan of cervical spine with and without contrast,"$2,026.80",WA
+Novant Health Forsyth Medical Center,Spine,HCPCS 72126,CT scan of cervical spine with contrast,"$1,828.20",WA
+Novant Health Forsyth Medical Center,Spine,HCPCS 72125,CT scan of cervical spine without contrast,"$1,504.80",WA
+Novant Health Forsyth Medical Center,Spine,HCPCS 72133,CT scan of lumbar spine with and without contrast,"$2,026.80",WA
+Novant Health Forsyth Medical Center,Spine,HCPCS 72132,CT scan of lumbar spine with contrast,"$1,828.20",WA
+Novant Health Forsyth Medical Center,Spine,HCPCS 72131,CT scan of lumbar spine without contrast,"$1,504.80",WA
+Novant Health Forsyth Medical Center,Spine,HCPCS 72130,CT scan of thoracic spine with and without contrast,"$2,026.80",WA
+Novant Health Forsyth Medical Center,Spine,HCPCS 72129,CT scan of thoracic spine with contrast,"$1,828.20",WA
+Novant Health Forsyth Medical Center,Spine,HCPCS 72128,CT scan of thoracic spine without contrast,"$1,504.80",WA
+Novant Health Forsyth Medical Center,Spine,HCPCS 72142,MRI scan of cervical spine with contrast,$766.20,WA
+Novant Health Forsyth Medical Center,Spine,HCPCS 72149,MRI scan of lumbar spine with contrast,$809.40,WA
+Novant Health Forsyth Medical Center,Spine,HCPCS 72157,MRI scan of thoracic spine with and without contrast,"$1,248.00",WA
+Novant Health Forsyth Medical Center,Spine,HCPCS 72147,MRI scan of thoracic spine with contrast,$772.80,WA
+Novant Health Forsyth Medical Center,Spine,HCPCS 72020,"X-ray cervical spine, 1 view",$209.40,WA
+Novant Health Forsyth Medical Center,Spine,HCPCS 72050,"X-ray cervical spine, 4 or more views",$344.40,WA
+Novant Health Forsyth Medical Center,Spine,HCPCS 72120,"X-ray complete lumbar spine (with bending), 2-3 views",$226.20,WA
+Novant Health Forsyth Medical Center,Spine,HCPCS 72114,"X-ray complete lumbar spine (with bending), 6 or more views",$360.00,WA
+Novant Health Forsyth Medical Center,Spine,HCPCS 72081,"X-ray entire spine (scoliosis evaluation), 1 view",$215.40,WA
+Novant Health Forsyth Medical Center,Spine,HCPCS 72082,"X-ray entire spine (scoliosis evaluation), 2 views",$215.40,WA
+Novant Health Forsyth Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$344.40,WA
+Novant Health Forsyth Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$259.20,WA
+Novant Health Forsyth Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$259.20,WA
+Novant Health Forsyth Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$259.20,WA
+Novant Health Forsyth Medical Center,Spine,HCPCS 72080,"X-ray thoracic-lumbar spine, 2 views",$226.20,WA
+Novant Health Forsyth Medical Center,Spine,HCPCS 72070,"X-ray thoracic spine, 2 views",$226.20,WA
+Novant Health Forsyth Medical Center,Spine,HCPCS 72072,"X-ray thoracic spine, 3 views",$259.20,WA
+Novant Health Forsyth Medical Center,Spine,HCPCS 72074,"X-ray thoracic spine, 4 or more views",$344.40,WA
+Novant Health Forsyth Medical Center,Upper Limbs,HCPCS 73206,"CTA scan of shoulder, arm, or hand","$1,513.20",WA
+Novant Health Forsyth Medical Center,Upper Limbs,HCPCS 73202,"CT scan of shoulder, arm, or hand with and without contrast","$1,729.80",WA
+Novant Health Forsyth Medical Center,Upper Limbs,HCPCS 73201,"CT scan of shoulder, arm, or hand with contrast","$1,567.80",WA
+Novant Health Forsyth Medical Center,Upper Limbs,HCPCS 73200,"CT scan of shoulder, arm, or hand without contrast","$1,176.00",WA
+Novant Health Forsyth Medical Center,Upper Limbs,HCPCS 73220,"MRI scan of shoulder, arm, or hand with and without contrast","$1,735.80",WA
+Novant Health Forsyth Medical Center,Upper Limbs,HCPCS 73218,"MRI scan of shoulder, arm, or hand without contrast",$663.60,WA
+Novant Health Forsyth Medical Center,Upper Limbs,HCPCS 73223,"MRI scan of shoulder, elbow, or hand joints with and without contrast","$1,781.40",WA
+Novant Health Forsyth Medical Center,Upper Limbs,HCPCS 73222,"MRI scan of shoulder, elbow, or hand joints with contrast","$1,534.80",WA
+Novant Health Forsyth Medical Center,Upper Limbs,HCPCS 73000,"X-ray clavicle, 1 view",$226.20,WA
+Novant Health Forsyth Medical Center,Upper Limbs,HCPCS 73070,"X-ray elbow, 2 views",$117.60,WA
+Novant Health Forsyth Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$259.20,WA
+Novant Health Forsyth Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$226.20,WA
+Novant Health Forsyth Medical Center,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$117.60,WA
+Novant Health Forsyth Medical Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$117.60,WA
+Novant Health Forsyth Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$259.20,WA
+Novant Health Forsyth Medical Center,Upper Limbs,HCPCS 73060,"X-ray humerus, 1 view",$117.60,WA
+Novant Health Forsyth Medical Center,Upper Limbs,HCPCS 73010,"X-ray scapula, 1 view",$259.20,WA
+Novant Health Forsyth Medical Center,Upper Limbs,HCPCS 73020,"X-ray shoulder, 1 view",$209.40,WA
+Novant Health Forsyth Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$226.20,WA
+Novant Health Forsyth Medical Center,Upper Limbs,HCPCS 73050,X-ray shoulder (AC joint),$226.20,WA
+Novant Health Forsyth Medical Center,Upper Limbs,HCPCS 73040,X-ray shoulder (arthrogram) with dye,$320.40,WA
+Novant Health Forsyth Medical Center,Upper Limbs,HCPCS 73092,X-ray upper extremities for infant,$226.20,WA
+Novant Health Forsyth Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$117.60,WA
+Novant Health Forsyth Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$259.20,WA
+Novant Health Forsyth Medical Center,Upper Limbs,HCPCS 73115,X-ray wriste (arthrogram) with dye,$652.80,WA
+Novant Health Forsyth Medical Center,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,WA
+Novant Health Forsyth Medical Center,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,-,WA
+Novant Health Forsyth Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,-,WA
+Novant Health Forsyth Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,-,WA
+Novant Health Forsyth Medical Center,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,-,WA
+Novant Health Forsyth Medical Center,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,-,WA
+Novant Health Forsyth Medical Center,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,-,WA
+Novant Health Forsyth Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),-,WA
+Novant Health Forsyth Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$85.20,WA
+Novant Health Forsyth Medical Center,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,WA
+Novant Health Forsyth Medical Center,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,-,WA
+Novant Health Forsyth Medical Center,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),-,WA
+Novant Health Forsyth Medical Center,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,-,WA
+Novant Health Forsyth Medical Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,-,WA
+Novant Health Forsyth Medical Center,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,-,WA
+Novant Health Forsyth Medical Center,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,-,WA
+Novant Health Forsyth Medical Center,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,-,WA
+Novant Health Forsyth Medical Center,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),-,WA
+Novant Health Forsyth Medical Center,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),-,WA
+Novant Health Forsyth Medical Center,Auditory System,HCPCS 69209,"Removal of ear wax, 1 ear",-,WA
+Novant Health Forsyth Medical Center,Breast,HCPCS 19101,Biopsy of breast,-,WA
+Novant Health Forsyth Medical Center,Breast,HCPCS 19125,Excision of breast lesion,-,WA
+Novant Health Forsyth Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,-,WA
+Novant Health Forsyth Medical Center,Breast,HCPCS 19301,Partial removal of breast,-,WA
+Novant Health Forsyth Medical Center,Breast,HCPCS 19303,Total removal of breast,-,WA
+Novant Health Forsyth Medical Center,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,-,WA
+Novant Health Forsyth Medical Center,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),-,WA
+Novant Health Forsyth Medical Center,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,-,WA
+Novant Health Forsyth Medical Center,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,-,WA
+Novant Health Forsyth Medical Center,Cardiac,HCPCS 33249,Defibrillator complete system,-,WA
+Novant Health Forsyth Medical Center,Cardiac,HCPCS 93452,Diagnostic heart catheterization,-,WA
+Novant Health Forsyth Medical Center,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),-,WA
+Novant Health Forsyth Medical Center,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$440.40,WA
+Novant Health Forsyth Medical Center,Cardiac,MSDRG 218,Heart valve procedure valve procedure with catheterization (no complications),-,WA
+Novant Health Forsyth Medical Center,Cardiac,MSDRG 217,Heart valve procedure with catheterization (complications),-,WA
+Novant Health Forsyth Medical Center,Cardiac,MSDRG 220,Heart valve procedure without catheterization (complications),-,WA
+Novant Health Forsyth Medical Center,Cardiac,MSDRG 219,Heart valve procedure without catheterization (major complications),-,WA
+Novant Health Forsyth Medical Center,Cardiac,MSDRG 221,Heart valve procedure without catheterization (no complications),-,WA
+Novant Health Forsyth Medical Center,Cardiac,MSDRG 266,Heart valve replacement (major complications),-,WA
+Novant Health Forsyth Medical Center,Cardiac,MSDRG 267,Heart valve replacement (no complications),-,WA
+Novant Health Forsyth Medical Center,Cardiac,MSDRG 247,Implant drug-eluting stent,-,WA
+Novant Health Forsyth Medical Center,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,-,WA
+Novant Health Forsyth Medical Center,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,-,WA
+Novant Health Forsyth Medical Center,Cardiac,HCPCS 36415,Venipuncture (blood collection),$14.40,WA
+Novant Health Forsyth Medical Center,Digestive,HCPCS 47000,Biopsy of liver via needle inserted into skin,-,WA
+Novant Health Forsyth Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",-,WA
+Novant Health Forsyth Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy",-,WA
+Novant Health Forsyth Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal",-,WA
+Novant Health Forsyth Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)",-,WA
+Novant Health Forsyth Medical Center,Digestive,HCPCS 43235,EGD,-,WA
+Novant Health Forsyth Medical Center,Digestive,HCPCS 43239,EGD and biopsy,-,WA
+Novant Health Forsyth Medical Center,Digestive,MSDRG 331,Major small and large bowel procedures,-,WA
+Novant Health Forsyth Medical Center,Digestive,HCPCS 49083,Paracentesis (removal of fluid from peritoneal cavity) with guidance,-,WA
+Novant Health Forsyth Medical Center,Digestive,HCPCS 49082,Paracentesis (removal of fluid from peritoneal cavity) without guidance,"$1,008.00",WA
+Novant Health Forsyth Medical Center,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,-,WA
+Novant Health Forsyth Medical Center,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,-,WA
+Novant Health Forsyth Medical Center,Digestive,HCPCS 43762,Replacement of gastrostromy tube (G-tube),-,WA
+Novant Health Forsyth Medical Center,Female Reproductive,HCPCS 59025,Fetal non-stress test,$267.00,WA
+Novant Health Forsyth Medical Center,Female Reproductive,HCPCS 56810,Perineoplasty (perineorrhaphy),-,WA
+Novant Health Forsyth Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,WA
+Novant Health Forsyth Medical Center,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,-,WA
+Novant Health Forsyth Medical Center,General,HCPCS 55700,Biopsy of prostate gland,-,WA
+Novant Health Forsyth Medical Center,General,HCPCS 10060,Drainage of Abscess,$199.80,WA
+Novant Health Forsyth Medical Center,General,HCPCS 69200,Removal of foreign body from ear canal,-,WA
+Novant Health Forsyth Medical Center,General,HCPCS 60240,Removal of thyroid,-,WA
+Novant Health Forsyth Medical Center,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),-,WA
+Novant Health Forsyth Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",-,WA
+Novant Health Forsyth Medical Center,Head,HCPCS 69436,Create eardrum opening,-,WA
+Novant Health Forsyth Medical Center,Head,HCPCS 67028,Injection of drug into the eye,$424.80,WA
+Novant Health Forsyth Medical Center,Head,HCPCS 69631,Repair of eardrum,-,WA
+Novant Health Forsyth Medical Center,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),-,WA
+Novant Health Forsyth Medical Center,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),-,WA
+Novant Health Forsyth Medical Center,Musculoskeletal,HCPCS 29130,Application of finger splint,-,WA
+Novant Health Forsyth Medical Center,Musculoskeletal,HCPCS 29105,Application of full arm cast/splint,-,WA
+Novant Health Forsyth Medical Center,Musculoskeletal,HCPCS 29505,Application of full leg cast/splint,-,WA
+Novant Health Forsyth Medical Center,Musculoskeletal,HCPCS 29125,Application of short arm cast/splint (below the elbow),-,WA
+Novant Health Forsyth Medical Center,Musculoskeletal,HCPCS 29515,Application of short leg cast/splint (below the knee),-,WA
+Novant Health Forsyth Medical Center,Musculoskeletal,HCPCS 20605,Arthrocentesis (drainage) of joint,-,WA
+Novant Health Forsyth Medical Center,Musculoskeletal,HCPCS 20600,Arthrocentesis (drainage) of small joint,-,WA
+Novant Health Forsyth Medical Center,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,WA
+Novant Health Forsyth Medical Center,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,-,WA
+Novant Health Forsyth Medical Center,Musculoskeletal,MSDRG 482,Hip and femur procedures,-,WA
+Novant Health Forsyth Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,-,WA
+Novant Health Forsyth Medical Center,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,-,WA
+Novant Health Forsyth Medical Center,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,-,WA
+Novant Health Forsyth Medical Center,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$313.80,WA
+Novant Health Forsyth Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,WA
+Novant Health Forsyth Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,-,WA
+Novant Health Forsyth Medical Center,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,-,WA
+Novant Health Forsyth Medical Center,Musculoskeletal,MSDRG 494,"Lower extremity and humerus procedures except hip, foot and femur",-,WA
+Novant Health Forsyth Medical Center,Musculoskeletal,MSDRG 483,Major joint/limb reattachment procedure of upper extremities,-,WA
+Novant Health Forsyth Medical Center,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,-,WA
+Novant Health Forsyth Medical Center,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,-,WA
+Novant Health Forsyth Medical Center,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,-,WA
+Novant Health Forsyth Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,WA
+Novant Health Forsyth Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,WA
+Novant Health Forsyth Medical Center,Musculoskeletal,HCPCS 22612,Spine arthrodesis,-,WA
+Novant Health Forsyth Medical Center,Musculoskeletal,HCPCS 25605,Treatment of forearm (radius or ulna) fracture,-,WA
+Novant Health Forsyth Medical Center,Musculoskeletal,HCPCS 23650,Treatment of shoulder dislocation without anesthesia,-,WA
+Novant Health Forsyth Medical Center,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,-,WA
+Novant Health Forsyth Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,-,WA
+Novant Health Forsyth Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,WA
+Novant Health Forsyth Medical Center,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,-,WA
+Novant Health Forsyth Medical Center,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,-,WA
+Novant Health Forsyth Medical Center,Obstetrics,HCPCS 58545,Removal of uterine fibroid tumors using an endoscope,-,WA
+Novant Health Forsyth Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,WA
+Novant Health Forsyth Medical Center,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries",-,WA
+Novant Health Forsyth Medical Center,Ocular,HCPCS 66984,Cataract removal,-,WA
+Novant Health Forsyth Medical Center,Ocular,HCPCS 66982,Cataract removal with insertion of lens,-,WA
+Novant Health Forsyth Medical Center,Ocular,HCPCS 66821,Laser cataract removal,-,WA
+Novant Health Forsyth Medical Center,Ocular,HCPCS 67311,Realignment of the eye with repair of eye muscle,-,WA
+Novant Health Forsyth Medical Center,Ocular,HCPCS 65426,Removal or relocation of corneal conjunctiva,-,WA
+Novant Health Forsyth Medical Center,Ocular,HCPCS 65756,Transplant of outer layer of corneal tissue,-,WA
+Novant Health Forsyth Medical Center,Skin,HCPCS 15820,Blepharoplasty of the lower eyelid (eye bag surgery),-,WA
+Novant Health Forsyth Medical Center,Skin,HCPCS 15822,Blepharoplasty of the upper eyelid (eye bag surgery),-,WA
+Novant Health Forsyth Medical Center,Skin,HCPCS 67900,Brow lift,-,WA
+Novant Health Forsyth Medical Center,Skin,HCPCS 10080,Incision and drainage of pilonidal (near tailbone) cyst,-,WA
+Novant Health Forsyth Medical Center,Skin,MSDRG 581,"Other skin, subcutaneous tissue and breast procedures",-,WA
+Novant Health Forsyth Medical Center,Skin,HCPCS 15830,Removal of excess skin and tissue from abdomen (panniculectomy),-,WA
+Novant Health Forsyth Medical Center,Skin,HCPCS 67904,Repair of brow ptosis,-,WA
+Novant Health Forsyth Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$252.60,WA
+Novant Health Forsyth Medical Center,Soft Tissue,HCPCS 97602,Non-selective debridement,$303.60,WA
+Novant Health Forsyth Medical Center,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$106.20,WA
+Novant Health Forsyth Medical Center,Vascular,HCPCS 36416,Collection of capillary blood specimen,$14.40,WA
+Novant Health Forsyth Medical Center,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),-,WA
+Novant Health Forsyth Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$253.20,WA
+Novant Health Forsyth Medical Center,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,-,WA

@@ -1,0 +1,555 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Novant Health Brunswick Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$137.00,WA
+Novant Health Brunswick Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$2,284.50",WA
+Novant Health Brunswick Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$143.50,WA
+Novant Health Brunswick Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$282.00,WA
+Novant Health Brunswick Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$679.50,WA
+Novant Health Brunswick Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,339.00",WA
+Novant Health Brunswick Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,887.00",WA
+Novant Health Brunswick Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$220.50,WA
+Novant Health Brunswick Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$260.00,WA
+Novant Health Brunswick Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$158.50,WA
+Novant Health Brunswick Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$227.00,WA
+Novant Health Brunswick Medical Center,Speech,HCPCS 92507,Speech Therapy,$117.50,WA
+Novant Health Brunswick Medical Center,Speech,HCPCS 92610,Swallow Evaluation,$209.50,WA
+Novant Health Brunswick Medical Center,Speech,HCPCS 92526,Swallow Treatment,$111.50,WA
+Novant Health Brunswick Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$22.00,WA
+Novant Health Brunswick Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$22.00,WA
+Novant Health Brunswick Medical Center,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$43.50,WA
+Novant Health Brunswick Medical Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$118.00,WA
+Novant Health Brunswick Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$35.50,WA
+Novant Health Brunswick Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$55.00,WA
+Novant Health Brunswick Medical Center,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$35.50,WA
+Novant Health Brunswick Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$72.00,WA
+Novant Health Brunswick Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$59.50,WA
+Novant Health Brunswick Medical Center,Blood,HCPCS 85008,Microscopic examination for white blood cells,$31.50,WA
+Novant Health Brunswick Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$31.50,WA
+Novant Health Brunswick Medical Center,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$99.00,WA
+Novant Health Brunswick Medical Center,Blood,HCPCS 85660,Red blood cell sickling measurement,$51.00,WA
+Novant Health Brunswick Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$619.00,WA
+Novant Health Brunswick Medical Center,Blood,HCPCS 85041,"Red blood count, automated test",$17.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$221.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$174.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$29.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$103.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$138.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 82140,Ammonia level,$134.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$59.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$112.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$113.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$100.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$119.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$45.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$45.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$46.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$35.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 84132,Blood potassium level,$42.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$44.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$52.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$150.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 82310,Calcium level,$46.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$44.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$143.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 82465,Cholesterol level,$40.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 82525,Copper level,$113.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$72.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$145.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$59.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$113.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$230.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$352.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$63.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$100.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$72.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$65.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$73.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$138.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$169.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$84.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 83718,HDL cholesterol level,$75.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 83020,Hemoglobin Measurement,$114.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$154.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$157.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$216.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$105.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$113.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$50.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 83540,Iron level,$59.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$55.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 83721,LDL cholesterol level,$55.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$62.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$46.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$63.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 83021,Liver function blood test panel,$102.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$61.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 82542,Mass spectrometry,$187.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$114.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$86.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 83918,Organic acid level,$94.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 83945,Oxalate level,$95.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 83970,Parathormone,$212.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$68.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 84157,Prealbumin (protein) level,$39.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$149.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$177.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$97.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$30.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$193.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$190.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$54.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$427.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$52.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$33.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$40.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$163.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 84560,Uric acid level,$43.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$41.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$48.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 82436,Urine chloride level,$45.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$53.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$62.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$135.00,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$39.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$44.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 84591,Vitamin B-6 level,$194.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$169.50,WA
+Novant Health Brunswick Medical Center,Chemistry,HCPCS 84630,Zinc level,$105.00,WA
+Novant Health Brunswick Medical Center,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$157.50,WA
+Novant Health Brunswick Medical Center,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$119.00,WA
+Novant Health Brunswick Medical Center,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$69.50,WA
+Novant Health Brunswick Medical Center,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$120.00,WA
+Novant Health Brunswick Medical Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$33.50,WA
+Novant Health Brunswick Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$130.50,WA
+Novant Health Brunswick Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$97.00,WA
+Novant Health Brunswick Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$106.50,WA
+Novant Health Brunswick Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$98.00,WA
+Novant Health Brunswick Medical Center,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$122.50,WA
+Novant Health Brunswick Medical Center,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$205.00,WA
+Novant Health Brunswick Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$46.50,WA
+Novant Health Brunswick Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$48.00,WA
+Novant Health Brunswick Medical Center,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$124.00,WA
+Novant Health Brunswick Medical Center,Immunology,HCPCS 86161,Measurement of complement (immune system proteins),$109.50,WA
+Novant Health Brunswick Medical Center,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$112.50,WA
+Novant Health Brunswick Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$112.50,WA
+Novant Health Brunswick Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$52.00,WA
+Novant Health Brunswick Medical Center,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$46.50,WA
+Novant Health Brunswick Medical Center,Immunology,HCPCS 86580,Skin test for tuberculosis,$29.00,WA
+Novant Health Brunswick Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$39.50,WA
+Novant Health Brunswick Medical Center,Immunology,HCPCS 86361,T cell count and ratio,$244.00,WA
+Novant Health Brunswick Medical Center,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$192.00,WA
+Novant Health Brunswick Medical Center,Immunology,HCPCS 86359,"T cells count, total",$216.50,WA
+Novant Health Brunswick Medical Center,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$88.50,WA
+Novant Health Brunswick Medical Center,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$46.50,WA
+Novant Health Brunswick Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$78.00,WA
+Novant Health Brunswick Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$74.50,WA
+Novant Health Brunswick Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$102.00,WA
+Novant Health Brunswick Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$41.50,WA
+Novant Health Brunswick Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$69.00,WA
+Novant Health Brunswick Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$105.00,WA
+Novant Health Brunswick Medical Center,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$297.50,WA
+Novant Health Brunswick Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$59.50,WA
+Novant Health Brunswick Medical Center,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$448.00,WA
+Novant Health Brunswick Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$102.00,WA
+Novant Health Brunswick Medical Center,Microbiology,HCPCS 87517,Hepatitis B Detection,$510.00,WA
+Novant Health Brunswick Medical Center,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$216.50,WA
+Novant Health Brunswick Medical Center,Microbiology,HCPCS 87624,HPV Detection,$223.50,WA
+Novant Health Brunswick Medical Center,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$105.00,WA
+Novant Health Brunswick Medical Center,Microbiology,HCPCS 86735,Mumps virus antibody test,$63.50,WA
+Novant Health Brunswick Medical Center,Microbiology,HCPCS 86747,Parvovirus antibody test,$111.50,WA
+Novant Health Brunswick Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$82.00,WA
+Novant Health Brunswick Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$54.00,WA
+Novant Health Brunswick Medical Center,Microbiology,HCPCS 87207,Smear for infectious agents,$55.00,WA
+Novant Health Brunswick Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$81.00,WA
+Novant Health Brunswick Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$50.00,WA
+Novant Health Brunswick Medical Center,Microbiology,HCPCS 87045,Stool Culture,$86.00,WA
+Novant Health Brunswick Medical Center,Microbiology,HCPCS 87804,Test for Influenza Virus,$114.00,WA
+Novant Health Brunswick Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$111.00,WA
+Novant Health Brunswick Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$86.00,WA
+Novant Health Brunswick Medical Center,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$70.50,WA
+Novant Health Brunswick Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$429.50,WA
+Novant Health Brunswick Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$73.50,WA
+Novant Health Brunswick Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$103.50,WA
+Novant Health Brunswick Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$121.50,WA
+Novant Health Brunswick Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$129.00,WA
+Novant Health Brunswick Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$77.50,WA
+Novant Health Brunswick Medical Center,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$284.00,WA
+Novant Health Brunswick Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$119.50,WA
+Novant Health Brunswick Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$126.00,WA
+Novant Health Brunswick Medical Center,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$166.50,WA
+Novant Health Brunswick Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$121.50,WA
+Novant Health Brunswick Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$302.00,WA
+Novant Health Brunswick Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$121.50,WA
+Novant Health Brunswick Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$62.50,WA
+Novant Health Brunswick Medical Center,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$106.00,WA
+Novant Health Brunswick Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$121.00,WA
+Novant Health Brunswick Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$156.50,WA
+Novant Health Brunswick Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$122.00,WA
+Novant Health Brunswick Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$122.00,WA
+Novant Health Brunswick Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$59.00,WA
+Novant Health Brunswick Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$27.00,WA
+Novant Health Brunswick Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$158.00,WA
+Novant Health Brunswick Medical Center,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$177.00,WA
+Novant Health Brunswick Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$50.00,WA
+Novant Health Brunswick Medical Center,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$71.00,WA
+Novant Health Brunswick Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$160.50,WA
+Novant Health Brunswick Medical Center,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$23.50,WA
+Novant Health Brunswick Medical Center,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$24.50,WA
+Novant Health Brunswick Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$40.50,WA
+Novant Health Brunswick Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$62.50,WA
+Novant Health Brunswick Medical Center,Cardiovascular,MSDRG 310,Cardiac arrhythmia / irregular heartbeat,-,WA
+Novant Health Brunswick Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$647.00,WA
+Novant Health Brunswick Medical Center,Cardiovascular,MSDRG 313,Chest pain,-,WA
+Novant Health Brunswick Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$101.00,WA
+Novant Health Brunswick Medical Center,Cardiovascular,MSDRG 282,Heart attack,-,WA
+Novant Health Brunswick Medical Center,Cardiovascular,MSDRG 293,Heart failure and shock,-,WA
+Novant Health Brunswick Medical Center,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$76.50,WA
+Novant Health Brunswick Medical Center,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$496.50,WA
+Novant Health Brunswick Medical Center,Cardiovascular,MSDRG 305,Hypertension,-,WA
+Novant Health Brunswick Medical Center,Cardiovascular,MSDRG 312,Loss of conciousness and collapse,-,WA
+Novant Health Brunswick Medical Center,Cardiovascular,MSDRG 208,Respiratory system diagnosis with ventilator support <=96 hours,-,WA
+Novant Health Brunswick Medical Center,Cardiovascular,MSDRG 207,Respiratory system diagnosis with ventilator support >96 hours,-,WA
+Novant Health Brunswick Medical Center,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$20.50,WA
+Novant Health Brunswick Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,$636.50,WA
+Novant Health Brunswick Medical Center,Other Non-Surgical Procedures,MSDRG 203,Bronchitis and asthma,-,WA
+Novant Health Brunswick Medical Center,Other Non-Surgical Procedures,MSDRG 603,Cellulitis,-,WA
+Novant Health Brunswick Medical Center,Other Non-Surgical Procedures,MSDRG 639,Diabetes,-,WA
+Novant Health Brunswick Medical Center,Other Non-Surgical Procedures,MSDRG 440,Disorders of pancreas,-,WA
+Novant Health Brunswick Medical Center,Other Non-Surgical Procedures,MSDRG 392,"Esophagitis, gastroenteritis and miscellaneous digestive disorders",-,WA
+Novant Health Brunswick Medical Center,Other Non-Surgical Procedures,MSDRG 536,Fractures of hip and pelvis,-,WA
+Novant Health Brunswick Medical Center,Other Non-Surgical Procedures,MSDRG 563,"Fracture, sprain, strain and dislocation except femur, hip, pelvis and thigh",-,WA
+Novant Health Brunswick Medical Center,Other Non-Surgical Procedures,MSDRG 379,Gastrointestinal hemorrhage,-,WA
+Novant Health Brunswick Medical Center,Other Non-Surgical Procedures,MSDRG 390,Gastrointestinal obstruction,-,WA
+Novant Health Brunswick Medical Center,Other Non-Surgical Procedures,MSDRG 690,Kidney and urinary tract infections,-,WA
+Novant Health Brunswick Medical Center,Other Non-Surgical Procedures,MSDRG 373,Major gastrointestinal disorders and peritoneal infections,-,WA
+Novant Health Brunswick Medical Center,Other Non-Surgical Procedures,MSDRG 552,Medical back problems,-,WA
+Novant Health Brunswick Medical Center,Other Non-Surgical Procedures,MSDRG 195,Pneumonia,-,WA
+Novant Health Brunswick Medical Center,Other Non-Surgical Procedures,MSDRG 812,Red blood cell disorders,-,WA
+Novant Health Brunswick Medical Center,Other Non-Surgical Procedures,MSDRG 684,Renal failure,-,WA
+Novant Health Brunswick Medical Center,Other Non-Surgical Procedures,MSDRG 101,Seizures,-,WA
+Novant Health Brunswick Medical Center,Other Non-Surgical Procedures,MSDRG 872,Sepsis (blood infection),-,WA
+Novant Health Brunswick Medical Center,Other Non-Surgical Procedures,MSDRG 870,Septicemia or severe sepsis with mv >96 hours,-,WA
+Novant Health Brunswick Medical Center,Other Non-Surgical Procedures,MSDRG 558,"Tendonitis, myositis and bursitis",-,WA
+Novant Health Brunswick Medical Center,Pulmonary,HCPCS 94640,Aerosol Treatment,$198.50,WA
+Novant Health Brunswick Medical Center,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$255.00,WA
+Novant Health Brunswick Medical Center,Pulmonary,MSDRG 192,Chronic obstructive pulmonary disease (COPD),-,WA
+Novant Health Brunswick Medical Center,Pulmonary,MSDRG 189,Pulmonary edema and respiratory failure,-,WA
+Novant Health Brunswick Medical Center,Pulmonary,MSDRG 176,Pulmonary embolism (blood clot in lung),-,WA
+Novant Health Brunswick Medical Center,Pulmonary,HCPCS 94618,Pulmonary stress test,$140.00,WA
+Novant Health Brunswick Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$109.00,WA
+Novant Health Brunswick Medical Center,Sleep,HCPCS 95810,Sleep study,$967.00,WA
+Novant Health Brunswick Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$75.50,WA
+Novant Health Brunswick Medical Center,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$146.00,WA
+Novant Health Brunswick Medical Center,Breast,HCPCS 77067,Mammogram Screening,$168.00,WA
+Novant Health Brunswick Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$183.00,WA
+Novant Health Brunswick Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,153.00",WA
+Novant Health Brunswick Medical Center,CT Scan,HCPCS 74175,CT angiography scan of abdomen,"$1,162.50",WA
+Novant Health Brunswick Medical Center,CT Scan,HCPCS 74174,CTA scan of abdomen,"$1,743.00",WA
+Novant Health Brunswick Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$797.00,WA
+Novant Health Brunswick Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$839.50,WA
+Novant Health Brunswick Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$468.00,WA
+Novant Health Brunswick Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$2,488.00",WA
+Novant Health Brunswick Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,435.00",WA
+Novant Health Brunswick Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,618.50",WA
+Novant Health Brunswick Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,222.00",WA
+Novant Health Brunswick Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,$705.50,WA
+Novant Health Brunswick Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$996.50,WA
+Novant Health Brunswick Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$405.50,WA
+Novant Health Brunswick Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,188.50",WA
+Novant Health Brunswick Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,064.50",WA
+Novant Health Brunswick Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,087.50",WA
+Novant Health Brunswick Medical Center,MRI,HCPCS 75561,Cardiac MRI,"$1,348.00",WA
+Novant Health Brunswick Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,650.00",WA
+Novant Health Brunswick Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,651.00",WA
+Novant Health Brunswick Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,215.00",WA
+Novant Health Brunswick Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,732.00",WA
+Novant Health Brunswick Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$1,977.00",WA
+Novant Health Brunswick Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,351.00",WA
+Novant Health Brunswick Medical Center,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,852.50",WA
+Novant Health Brunswick Medical Center,MRI,HCPCS 74182,MRI scan of abdomen with contrast,"$1,918.50",WA
+Novant Health Brunswick Medical Center,MRI,HCPCS 74181,MRI scan of abdomen without contrast,"$1,877.50",WA
+Novant Health Brunswick Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,104.50",WA
+Novant Health Brunswick Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,377.00",WA
+Novant Health Brunswick Medical Center,MRI,HCPCS 73721,MRI scan of leg joint,"$1,855.00",WA
+Novant Health Brunswick Medical Center,Chest,HCPCS 76706,"Ultrasound, aortic aneurisum screening",$267.00,WA
+Novant Health Brunswick Medical Center,Hip and Pelvis,HCPCS 76815,"Ultrasound, pregnancy",$236.50,WA
+Novant Health Brunswick Medical Center,Hip and Pelvis,HCPCS 76801,"Ultrasound, pregnancy, 1st trimester",$234.00,WA
+Novant Health Brunswick Medical Center,Hip and Pelvis,HCPCS 76816,"Ultrasound, pregnancy, transabdominal (pelvis)",$221.50,WA
+Novant Health Brunswick Medical Center,Hip and Pelvis,HCPCS 76817,"Ultrasound, pregnancy, transvaginal",$195.00,WA
+Novant Health Brunswick Medical Center,Hip and Pelvis,HCPCS 76870,"Ultrasound, testical",$510.50,WA
+Novant Health Brunswick Medical Center,Other Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$276.50,WA
+Novant Health Brunswick Medical Center,Other Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$471.50,WA
+Novant Health Brunswick Medical Center,Other Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$621.50,WA
+Novant Health Brunswick Medical Center,Other Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$509.50,WA
+Novant Health Brunswick Medical Center,Other Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$513.00,WA
+Novant Health Brunswick Medical Center,Other Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$800.00,WA
+Novant Health Brunswick Medical Center,Other Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$475.50,WA
+Novant Health Brunswick Medical Center,Other Ultrasound,HCPCS 76857,Ultrasound of pelvis,$258.00,WA
+Novant Health Brunswick Medical Center,Other Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$605.50,WA
+Novant Health Brunswick Medical Center,Other Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$431.50,WA
+Novant Health Brunswick Medical Center,Other Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$331.00,WA
+Novant Health Brunswick Medical Center,Spine,HCPCS 76800,"Ultrasound, spinal canal",$258.00,WA
+Novant Health Brunswick Medical Center,Upper Limbs,HCPCS 76882,"Ultrasound, shoulder joint/soft tissue",$182.00,WA
+Novant Health Brunswick Medical Center,Abdomen,HCPCS 74018,"X-ray abdomen, 1 view",$284.00,WA
+Novant Health Brunswick Medical Center,Abdomen,HCPCS 74019,"X-ray abdomen, 2 views",$202.50,WA
+Novant Health Brunswick Medical Center,Chest,HCPCS 71270,CT scan of chest with and without contrast,"$1,223.50",WA
+Novant Health Brunswick Medical Center,Chest,HCPCS 71552,MRI scan of chest with and without contrast,"$1,568.50",WA
+Novant Health Brunswick Medical Center,Chest,HCPCS 71550,MRI scan of chest without contrast,"$1,122.00",WA
+Novant Health Brunswick Medical Center,Chest,HCPCS 76641,Ultrasound of breasts (both),$334.50,WA
+Novant Health Brunswick Medical Center,Chest,HCPCS 76642,Ultrasound of breast (single),$215.50,WA
+Novant Health Brunswick Medical Center,Chest,HCPCS 76604,Ultrasound of chest,$191.00,WA
+Novant Health Brunswick Medical Center,Chest,HCPCS 71047,"X-ray chest, 2 views",$244.00,WA
+Novant Health Brunswick Medical Center,Chest,HCPCS 71048,"X-ray chest, 4 or more views",$259.50,WA
+Novant Health Brunswick Medical Center,Chest,HCPCS 71130,"X-ray chest joints (sternoclavicular), 3 or more views",$240.50,WA
+Novant Health Brunswick Medical Center,Chest,HCPCS 71120,"X-ray chest (sternum), 2 or more views",$207.00,WA
+Novant Health Brunswick Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$244.00,WA
+Novant Health Brunswick Medical Center,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$111.50,WA
+Novant Health Brunswick Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$207.00,WA
+Novant Health Brunswick Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$142.50,WA
+Novant Health Brunswick Medical Center,Chest,HCPCS 71110,"X-ray ribs, bilateral, 3 or more views",$244.00,WA
+Novant Health Brunswick Medical Center,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$229.50,WA
+Novant Health Brunswick Medical Center,Chest,HCPCS 71101,"X-ray ribs, unilateral, 3 or more views",$284.00,WA
+Novant Health Brunswick Medical Center,Head and Neck,HCPCS 70496,CTA scan of head,$910.50,WA
+Novant Health Brunswick Medical Center,Head and Neck,HCPCS 70498,CTA scan of neck,$910.50,WA
+Novant Health Brunswick Medical Center,Head and Neck,HCPCS 70481,CT scan of eye with contrast,$941.50,WA
+Novant Health Brunswick Medical Center,Head and Neck,HCPCS 70480,CT scan of eye without contrast,$836.50,WA
+Novant Health Brunswick Medical Center,Head and Neck,HCPCS 70487,CT scan of face with contrast,$994.00,WA
+Novant Health Brunswick Medical Center,Head and Neck,HCPCS 70488,CT scan of face without contrast,"$1,108.50",WA
+Novant Health Brunswick Medical Center,Head and Neck,HCPCS 70460,CT scan of head with contrast,$866.50,WA
+Novant Health Brunswick Medical Center,Head and Neck,HCPCS 70470,CT scan of head without contrast,"$1,213.50",WA
+Novant Health Brunswick Medical Center,Head and Neck,HCPCS 70492,CT scan of neck with contrast,"$1,098.50",WA
+Novant Health Brunswick Medical Center,Head and Neck,HCPCS 70490,CT scan of neck without contrast,$932.00,WA
+Novant Health Brunswick Medical Center,Head and Neck,HCPCS 70546,MRA scan of head with and without contrast,"$1,762.50",WA
+Novant Health Brunswick Medical Center,Head and Neck,HCPCS 70545,MRA scan of head with contrast,"$1,137.00",WA
+Novant Health Brunswick Medical Center,Head and Neck,HCPCS 70549,MRA scan of neck with and without contrast,"$1,729.00",WA
+Novant Health Brunswick Medical Center,Head and Neck,HCPCS 70548,MRA scan of neck with contrast,"$1,409.50",WA
+Novant Health Brunswick Medical Center,Head and Neck,HCPCS 70547,MRA scan of neck without contrast,"$1,087.50",WA
+Novant Health Brunswick Medical Center,Head and Neck,HCPCS 70552,MRI scan of brain with contrast,"$1,543.00",WA
+Novant Health Brunswick Medical Center,Head and Neck,HCPCS 70543,"MRI scan of orbits, face, or soft tissue of the neck with and without contrast","$2,178.00",WA
+Novant Health Brunswick Medical Center,Head and Neck,HCPCS 70542,"MRI scan of orbits, face, or soft tissue of the neck with contrast","$1,999.50",WA
+Novant Health Brunswick Medical Center,Head and Neck,HCPCS 70540,"MRI scan of orbits, face, or soft tissue of the neck without contrast","$1,458.00",WA
+Novant Health Brunswick Medical Center,Head and Neck,HCPCS 70336,MRI scan of the jaw joint,"$1,411.50",WA
+Novant Health Brunswick Medical Center,Head and Neck,HCPCS 70030,"X-ray eye, foreign body",$142.50,WA
+Novant Health Brunswick Medical Center,Head and Neck,HCPCS 70140,"X-ray facial bones, 1-2 views",$244.00,WA
+Novant Health Brunswick Medical Center,Head and Neck,HCPCS 70330,"X-ray jaw joint, bilateral",$271.50,WA
+Novant Health Brunswick Medical Center,Head and Neck,HCPCS 70100,"X-ray jaw, less than 4 views",$244.00,WA
+Novant Health Brunswick Medical Center,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$244.00,WA
+Novant Health Brunswick Medical Center,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$244.00,WA
+Novant Health Brunswick Medical Center,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$195.50,WA
+Novant Health Brunswick Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$242.50,WA
+Novant Health Brunswick Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$229.50,WA
+Novant Health Brunswick Medical Center,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$244.00,WA
+Novant Health Brunswick Medical Center,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$354.50,WA
+Novant Health Brunswick Medical Center,Head and Neck,HCPCS 70200,"X-ray orbits, 4 or more views",$354.50,WA
+Novant Health Brunswick Medical Center,Head and Neck,HCPCS 70220,"X-ray sinuses, 3 views",$244.00,WA
+Novant Health Brunswick Medical Center,Head and Neck,HCPCS 70250,"X-ray skull, less than 4 views",$205.00,WA
+Novant Health Brunswick Medical Center,Hip and Pelvis,HCPCS 72191,CTA scan of pelvis,"$1,420.50",WA
+Novant Health Brunswick Medical Center,Hip and Pelvis,HCPCS 72194,CT scan of pelvis with and without contrast,$677.50,WA
+Novant Health Brunswick Medical Center,Hip and Pelvis,HCPCS 72192,CT scan of pelvis without contrast,$385.50,WA
+Novant Health Brunswick Medical Center,Hip and Pelvis,HCPCS 72197,MRI scan of pelvis with and without contrast,"$1,339.00",WA
+Novant Health Brunswick Medical Center,Hip and Pelvis,HCPCS 72196,MRI scan of pelvis with contrast,"$1,074.00",WA
+Novant Health Brunswick Medical Center,Hip and Pelvis,HCPCS 72195,MRI scan of pelvis without contrast,$934.50,WA
+Novant Health Brunswick Medical Center,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$244.00,WA
+Novant Health Brunswick Medical Center,Hip and Pelvis,HCPCS 73501,"X-ray hip and pelvis, 1 view",$199.50,WA
+Novant Health Brunswick Medical Center,Hip and Pelvis,HCPCS 73521,"X-ray hip and pelvis, 2 views",$244.00,WA
+Novant Health Brunswick Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$244.00,WA
+Novant Health Brunswick Medical Center,Hip and Pelvis,HCPCS 73523,"X-ray hip and pelvis, 5 or more views",$244.00,WA
+Novant Health Brunswick Medical Center,Hip and Pelvis,HCPCS 73525,X-ray hip (arthrogram) with dye,$517.50,WA
+Novant Health Brunswick Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$223.00,WA
+Novant Health Brunswick Medical Center,Hip and Pelvis,HCPCS 72190,"X-ray pelvis, 3 or more views",$244.00,WA
+Novant Health Brunswick Medical Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$205.00,WA
+Novant Health Brunswick Medical Center,Hip and Pelvis,HCPCS 72220,"X-ray sacrum and coccyx, 2 or more views",$207.00,WA
+Novant Health Brunswick Medical Center,Lower Limbs,HCPCS 73706,"CTA scan of hip, knee, ankle, or foot","$1,131.00",WA
+Novant Health Brunswick Medical Center,Lower Limbs,HCPCS 73702,"CT scan of hip, knee, ankle, or foot with and without contrast","$1,306.50",WA
+Novant Health Brunswick Medical Center,Lower Limbs,HCPCS 73701,"CT scan of hip, knee, ankle, or foot with contrast",$952.00,WA
+Novant Health Brunswick Medical Center,Lower Limbs,HCPCS 73700,"CT scan of hip, knee, ankle, or foot without contrast",$893.50,WA
+Novant Health Brunswick Medical Center,Lower Limbs,HCPCS 73723,"MRI scan of hip, knee, ankle, or foot joints with and without contrast","$2,281.00",WA
+Novant Health Brunswick Medical Center,Lower Limbs,HCPCS 73722,"MRI scan of hip, knee, ankle, or foot joints with contrast","$1,941.50",WA
+Novant Health Brunswick Medical Center,Lower Limbs,HCPCS 73720,MRI scan of leg with and without contrast,"$1,974.50",WA
+Novant Health Brunswick Medical Center,Lower Limbs,HCPCS 73719,MRI scan of leg with contrast,"$1,735.00",WA
+Novant Health Brunswick Medical Center,Lower Limbs,HCPCS 73718,MRI scan of leg without contrast,"$1,861.00",WA
+Novant Health Brunswick Medical Center,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$199.50,WA
+Novant Health Brunswick Medical Center,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$244.00,WA
+Novant Health Brunswick Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$199.50,WA
+Novant Health Brunswick Medical Center,Lower Limbs,HCPCS 73630,X-ray exam of foot,$244.00,WA
+Novant Health Brunswick Medical Center,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$244.00,WA
+Novant Health Brunswick Medical Center,Lower Limbs,HCPCS 73551,"X-ray femur, 1 view",$199.50,WA
+Novant Health Brunswick Medical Center,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$207.00,WA
+Novant Health Brunswick Medical Center,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$199.50,WA
+Novant Health Brunswick Medical Center,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$182.00,WA
+Novant Health Brunswick Medical Center,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$223.00,WA
+Novant Health Brunswick Medical Center,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$244.00,WA
+Novant Health Brunswick Medical Center,Lower Limbs,HCPCS 73580,X-ray knee (arthrogram) with dye,$445.50,WA
+Novant Health Brunswick Medical Center,Lower Limbs,HCPCS 73592,X-ray lower extremities for infant,$199.50,WA
+Novant Health Brunswick Medical Center,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$199.50,WA
+Novant Health Brunswick Medical Center,Lower Limbs,HCPCS 73660,"X-ray toes, 2 or more views",$207.00,WA
+Novant Health Brunswick Medical Center,Other X-ray,HCPCS 77073,Bone length scanogram,$142.50,WA
+Novant Health Brunswick Medical Center,Other X-ray,HCPCS 74300,"X-ray bile ducts, with contrast (cholangiogram)",$575.00,WA
+Novant Health Brunswick Medical Center,Other X-ray,HCPCS 74430,"X-ray, bladder (cystogram), 3 or more views",$244.00,WA
+Novant Health Brunswick Medical Center,Other X-ray,HCPCS 74280,"X-ray colon, with contrast",$671.00,WA
+Novant Health Brunswick Medical Center,Other X-ray,HCPCS 74270,"X-ray colon, with or without contrast",$544.50,WA
+Novant Health Brunswick Medical Center,Other X-ray,HCPCS 74220,X-ray esophagus (esophogram),$367.50,WA
+Novant Health Brunswick Medical Center,Other X-ray,HCPCS 76010,X-ray of child for foreign body,$199.50,WA
+Novant Health Brunswick Medical Center,Other X-ray,HCPCS 74250,X-ray small bowel,$515.00,WA
+Novant Health Brunswick Medical Center,Other X-ray,HCPCS 74230,"X-ray, swallowing function study",$367.50,WA
+Novant Health Brunswick Medical Center,Other X-ray,HCPCS 74240,X-ray upper GI tract ,$562.50,WA
+Novant Health Brunswick Medical Center,Other X-ray,HCPCS 74450,"X-ray, urethra (retrograde urethrogram)",$430.50,WA
+Novant Health Brunswick Medical Center,Spine,HCPCS 72127,CT scan of cervical spine with and without contrast,"$1,364.50",WA
+Novant Health Brunswick Medical Center,Spine,HCPCS 72126,CT scan of cervical spine with contrast,"$1,210.50",WA
+Novant Health Brunswick Medical Center,Spine,HCPCS 72125,CT scan of cervical spine without contrast,"$1,078.50",WA
+Novant Health Brunswick Medical Center,Spine,HCPCS 72133,CT scan of lumbar spine with and without contrast,"$1,364.50",WA
+Novant Health Brunswick Medical Center,Spine,HCPCS 72132,CT scan of lumbar spine with contrast,"$1,210.50",WA
+Novant Health Brunswick Medical Center,Spine,HCPCS 72131,CT scan of lumbar spine without contrast,"$1,078.50",WA
+Novant Health Brunswick Medical Center,Spine,HCPCS 72130,CT scan of thoracic spine with and without contrast,"$1,364.50",WA
+Novant Health Brunswick Medical Center,Spine,HCPCS 72129,CT scan of thoracic spine with contrast,"$1,210.50",WA
+Novant Health Brunswick Medical Center,Spine,HCPCS 72128,CT scan of thoracic spine without contrast,"$1,078.50",WA
+Novant Health Brunswick Medical Center,Spine,HCPCS 72142,MRI scan of cervical spine with contrast,"$1,928.50",WA
+Novant Health Brunswick Medical Center,Spine,HCPCS 72149,MRI scan of lumbar spine with contrast,"$1,904.50",WA
+Novant Health Brunswick Medical Center,Spine,HCPCS 72157,MRI scan of thoracic spine with and without contrast,"$1,977.00",WA
+Novant Health Brunswick Medical Center,Spine,HCPCS 72147,MRI scan of thoracic spine with contrast,"$1,904.50",WA
+Novant Health Brunswick Medical Center,Spine,HCPCS 72020,"X-ray cervical spine, 1 view",$199.50,WA
+Novant Health Brunswick Medical Center,Spine,HCPCS 72050,"X-ray cervical spine, 4 or more views",$354.50,WA
+Novant Health Brunswick Medical Center,Spine,HCPCS 72120,"X-ray complete lumbar spine (with bending), 2-3 views",$214.00,WA
+Novant Health Brunswick Medical Center,Spine,HCPCS 72114,"X-ray complete lumbar spine (with bending), 6 or more views",$340.50,WA
+Novant Health Brunswick Medical Center,Spine,HCPCS 72081,"X-ray entire spine (scoliosis evaluation), 1 view",$278.50,WA
+Novant Health Brunswick Medical Center,Spine,HCPCS 72082,"X-ray entire spine (scoliosis evaluation), 2 views",$278.50,WA
+Novant Health Brunswick Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$354.50,WA
+Novant Health Brunswick Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$244.00,WA
+Novant Health Brunswick Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$367.50,WA
+Novant Health Brunswick Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$244.00,WA
+Novant Health Brunswick Medical Center,Spine,HCPCS 72080,"X-ray thoracic-lumbar spine, 2 views",$207.00,WA
+Novant Health Brunswick Medical Center,Spine,HCPCS 72070,"X-ray thoracic spine, 2 views",$207.00,WA
+Novant Health Brunswick Medical Center,Spine,HCPCS 72072,"X-ray thoracic spine, 3 views",$244.00,WA
+Novant Health Brunswick Medical Center,Spine,HCPCS 72074,"X-ray thoracic spine, 4 or more views",$259.50,WA
+Novant Health Brunswick Medical Center,Upper Limbs,HCPCS 73206,"CTA scan of shoulder, arm, or hand",$793.50,WA
+Novant Health Brunswick Medical Center,Upper Limbs,HCPCS 73202,"CT scan of shoulder, arm, or hand with and without contrast","$1,364.50",WA
+Novant Health Brunswick Medical Center,Upper Limbs,HCPCS 73201,"CT scan of shoulder, arm, or hand with contrast","$1,083.50",WA
+Novant Health Brunswick Medical Center,Upper Limbs,HCPCS 73200,"CT scan of shoulder, arm, or hand without contrast",$947.00,WA
+Novant Health Brunswick Medical Center,Upper Limbs,HCPCS 73220,"MRI scan of shoulder, arm, or hand with and without contrast","$2,017.00",WA
+Novant Health Brunswick Medical Center,Upper Limbs,HCPCS 73218,"MRI scan of shoulder, arm, or hand without contrast","$1,773.50",WA
+Novant Health Brunswick Medical Center,Upper Limbs,HCPCS 73223,"MRI scan of shoulder, elbow, or hand joints with and without contrast","$2,187.00",WA
+Novant Health Brunswick Medical Center,Upper Limbs,HCPCS 73222,"MRI scan of shoulder, elbow, or hand joints with contrast","$1,954.50",WA
+Novant Health Brunswick Medical Center,Upper Limbs,HCPCS 73000,"X-ray clavicle, 1 view",$199.50,WA
+Novant Health Brunswick Medical Center,Upper Limbs,HCPCS 73070,"X-ray elbow, 2 views",$199.50,WA
+Novant Health Brunswick Medical Center,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$244.00,WA
+Novant Health Brunswick Medical Center,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$207.00,WA
+Novant Health Brunswick Medical Center,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$199.50,WA
+Novant Health Brunswick Medical Center,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$199.50,WA
+Novant Health Brunswick Medical Center,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$244.00,WA
+Novant Health Brunswick Medical Center,Upper Limbs,HCPCS 73060,"X-ray humerus, 1 view",$199.50,WA
+Novant Health Brunswick Medical Center,Upper Limbs,HCPCS 73010,"X-ray scapula, 1 view",$199.50,WA
+Novant Health Brunswick Medical Center,Upper Limbs,HCPCS 73020,"X-ray shoulder, 1 view",$199.50,WA
+Novant Health Brunswick Medical Center,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$207.00,WA
+Novant Health Brunswick Medical Center,Upper Limbs,HCPCS 73050,X-ray shoulder (AC joint),$174.50,WA
+Novant Health Brunswick Medical Center,Upper Limbs,HCPCS 73040,X-ray shoulder (arthrogram) with dye,$441.50,WA
+Novant Health Brunswick Medical Center,Upper Limbs,HCPCS 73092,X-ray upper extremities for infant,$214.00,WA
+Novant Health Brunswick Medical Center,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$214.00,WA
+Novant Health Brunswick Medical Center,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$244.00,WA
+Novant Health Brunswick Medical Center,Upper Limbs,HCPCS 73115,X-ray wriste (arthrogram) with dye,$345.00,WA
+Novant Health Brunswick Medical Center,Abdomenal,MSDRG 343,Appendectomy (Inpatient),-,WA
+Novant Health Brunswick Medical Center,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,-,WA
+Novant Health Brunswick Medical Center,Abdomenal,HCPCS 47562,Cholecystectomy,-,WA
+Novant Health Brunswick Medical Center,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,-,WA
+Novant Health Brunswick Medical Center,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,-,WA
+Novant Health Brunswick Medical Center,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,-,WA
+Novant Health Brunswick Medical Center,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,-,WA
+Novant Health Brunswick Medical Center,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),-,WA
+Novant Health Brunswick Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$103.00,WA
+Novant Health Brunswick Medical Center,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$135.50,WA
+Novant Health Brunswick Medical Center,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),-,WA
+Novant Health Brunswick Medical Center,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,-,WA
+Novant Health Brunswick Medical Center,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),-,WA
+Novant Health Brunswick Medical Center,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,-,WA
+Novant Health Brunswick Medical Center,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,-,WA
+Novant Health Brunswick Medical Center,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,-,WA
+Novant Health Brunswick Medical Center,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,-,WA
+Novant Health Brunswick Medical Center,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,-,WA
+Novant Health Brunswick Medical Center,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),-,WA
+Novant Health Brunswick Medical Center,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),-,WA
+Novant Health Brunswick Medical Center,Auditory System,HCPCS 69209,"Removal of ear wax, 1 ear",-,WA
+Novant Health Brunswick Medical Center,Breast,HCPCS 19101,Biopsy of breast,-,WA
+Novant Health Brunswick Medical Center,Breast,HCPCS 19325,Breast enlargement using prosthetic implant,-,WA
+Novant Health Brunswick Medical Center,Breast,HCPCS 19125,Excision of breast lesion,-,WA
+Novant Health Brunswick Medical Center,Breast,HCPCS 19120,Excision of cyst of breast,-,WA
+Novant Health Brunswick Medical Center,Breast,HCPCS 19301,Partial removal of breast,-,WA
+Novant Health Brunswick Medical Center,Breast,HCPCS 19318,Reduction mammaplasty,-,WA
+Novant Health Brunswick Medical Center,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,-,WA
+Novant Health Brunswick Medical Center,Breast,HCPCS 19303,Total removal of breast,-,WA
+Novant Health Brunswick Medical Center,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$441.50,WA
+Novant Health Brunswick Medical Center,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,-,WA
+Novant Health Brunswick Medical Center,Cardiac,HCPCS 36415,Venipuncture (blood collection),$20.50,WA
+Novant Health Brunswick Medical Center,Digestive,HCPCS 47000,Biopsy of liver via needle inserted into skin,-,WA
+Novant Health Brunswick Medical Center,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",-,WA
+Novant Health Brunswick Medical Center,Digestive,HCPCS 45380,"Colonoscopy, with biopsy",-,WA
+Novant Health Brunswick Medical Center,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal",-,WA
+Novant Health Brunswick Medical Center,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)",-,WA
+Novant Health Brunswick Medical Center,Digestive,HCPCS 43235,EGD,-,WA
+Novant Health Brunswick Medical Center,Digestive,HCPCS 43239,EGD and biopsy,-,WA
+Novant Health Brunswick Medical Center,Digestive,MSDRG 331,Major small and large bowel procedures,-,WA
+Novant Health Brunswick Medical Center,Digestive,HCPCS 49083,Paracentesis (removal of fluid from peritoneal cavity) with guidance,-,WA
+Novant Health Brunswick Medical Center,Digestive,HCPCS 49082,Paracentesis (removal of fluid from peritoneal cavity) without guidance,$945.50,WA
+Novant Health Brunswick Medical Center,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,-,WA
+Novant Health Brunswick Medical Center,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,-,WA
+Novant Health Brunswick Medical Center,Digestive,HCPCS 43762,Replacement of gastrostromy tube (G-tube),-,WA
+Novant Health Brunswick Medical Center,Female Reproductive,HCPCS 59025,Fetal non-stress test,$215.50,WA
+Novant Health Brunswick Medical Center,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy",-,WA
+Novant Health Brunswick Medical Center,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,-,WA
+Novant Health Brunswick Medical Center,General,HCPCS 55866,Prostatectomy,-,WA
+Novant Health Brunswick Medical Center,General,HCPCS 69200,Removal of foreign body from ear canal,-,WA
+Novant Health Brunswick Medical Center,General,HCPCS 60240,Removal of thyroid,-,WA
+Novant Health Brunswick Medical Center,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),-,WA
+Novant Health Brunswick Medical Center,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",-,WA
+Novant Health Brunswick Medical Center,Head,HCPCS 69436,Create eardrum opening,-,WA
+Novant Health Brunswick Medical Center,Head,HCPCS 69631,Repair of eardrum,-,WA
+Novant Health Brunswick Medical Center,Head,HCPCS 30520,Repair of nasal septum (septoplasty),-,WA
+Novant Health Brunswick Medical Center,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),-,WA
+Novant Health Brunswick Medical Center,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),-,WA
+Novant Health Brunswick Medical Center,Musculoskeletal,HCPCS 29130,Application of finger splint,-,WA
+Novant Health Brunswick Medical Center,Musculoskeletal,HCPCS 29105,Application of full arm cast/splint,-,WA
+Novant Health Brunswick Medical Center,Musculoskeletal,HCPCS 29505,Application of full leg cast/splint,-,WA
+Novant Health Brunswick Medical Center,Musculoskeletal,HCPCS 29125,Application of short arm cast/splint (below the elbow),-,WA
+Novant Health Brunswick Medical Center,Musculoskeletal,HCPCS 29515,Application of short leg cast/splint (below the knee),-,WA
+Novant Health Brunswick Medical Center,Musculoskeletal,HCPCS 20605,Arthrocentesis (drainage) of joint,-,WA
+Novant Health Brunswick Medical Center,Musculoskeletal,HCPCS 20600,Arthrocentesis (drainage) of small joint,-,WA
+Novant Health Brunswick Medical Center,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,-,WA
+Novant Health Brunswick Medical Center,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,-,WA
+Novant Health Brunswick Medical Center,Musculoskeletal,MSDRG 482,Hip and femur procedures,-,WA
+Novant Health Brunswick Medical Center,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,-,WA
+Novant Health Brunswick Medical Center,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,-,WA
+Novant Health Brunswick Medical Center,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),-,WA
+Novant Health Brunswick Medical Center,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,-,WA
+Novant Health Brunswick Medical Center,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,-,WA
+Novant Health Brunswick Medical Center,Musculoskeletal,MSDRG 494,"Lower extremity and humerus procedures except hip, foot and femur",-,WA
+Novant Health Brunswick Medical Center,Musculoskeletal,MSDRG 483,Major joint/limb reattachment procedure of upper extremities,-,WA
+Novant Health Brunswick Medical Center,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,-,WA
+Novant Health Brunswick Medical Center,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,-,WA
+Novant Health Brunswick Medical Center,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),-,WA
+Novant Health Brunswick Medical Center,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),-,WA
+Novant Health Brunswick Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$37.00,WA
+Novant Health Brunswick Medical Center,Musculoskeletal,HCPCS 25605,Treatment of forearm (radius or ulna) fracture,-,WA
+Novant Health Brunswick Medical Center,Musculoskeletal,HCPCS 23650,Treatment of shoulder dislocation without anesthesia,-,WA
+Novant Health Brunswick Medical Center,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,-,WA
+Novant Health Brunswick Medical Center,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,-,WA
+Novant Health Brunswick Medical Center,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,-,WA
+Novant Health Brunswick Medical Center,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,-,WA
+Novant Health Brunswick Medical Center,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,-,WA
+Novant Health Brunswick Medical Center,Obstetrics,MSDRG 807,Vaginal Delivery of Child,-,WA
+Novant Health Brunswick Medical Center,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries",-,WA
+Novant Health Brunswick Medical Center,Ocular,HCPCS 66984,Cataract removal,-,WA
+Novant Health Brunswick Medical Center,Ocular,HCPCS 66982,Cataract removal with insertion of lens,-,WA
+Novant Health Brunswick Medical Center,Ocular,HCPCS 65426,Removal or relocation of corneal conjunctiva,-,WA
+Novant Health Brunswick Medical Center,Skin,HCPCS 15822,Blepharoplasty of the upper eyelid (eye bag surgery),-,WA
+Novant Health Brunswick Medical Center,Skin,HCPCS 67900,Brow lift,-,WA
+Novant Health Brunswick Medical Center,Skin,HCPCS 19000,Image-guided puncture and drainage (aspiration) of cyst or abscess in the breast,-,WA
+Novant Health Brunswick Medical Center,Skin,HCPCS 10080,Incision and drainage of pilonidal (near tailbone) cyst,-,WA
+Novant Health Brunswick Medical Center,Skin,HCPCS 15877,"Liposuction (lipectomy), trunk (abdomen)",-,WA
+Novant Health Brunswick Medical Center,Skin,MSDRG 581,"Other skin, subcutaneous tissue and breast procedures",-,WA
+Novant Health Brunswick Medical Center,Skin,HCPCS 15830,Removal of excess skin and tissue from abdomen (panniculectomy),-,WA
+Novant Health Brunswick Medical Center,Skin,HCPCS 67904,Repair of brow ptosis,-,WA
+Novant Health Brunswick Medical Center,Skin,HCPCS 19083,Ultrasound-guided breast biopsy,-,WA
+Novant Health Brunswick Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$175.00,WA
+Novant Health Brunswick Medical Center,Soft Tissue,HCPCS 97602,Non-selective debridement,$228.00,WA
+Novant Health Brunswick Medical Center,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$85.00,WA
+Novant Health Brunswick Medical Center,Vascular,HCPCS 36416,Collection of capillary blood specimen,$11.00,WA
+Novant Health Brunswick Medical Center,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),-,WA
+Novant Health Brunswick Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$487.50,WA
+Novant Health Brunswick Medical Center,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,-,WA

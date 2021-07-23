@@ -1,0 +1,125 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Erlanger Western Carolina Hospital,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",-,WA
+Erlanger Western Carolina Hospital,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",-,WA
+Erlanger Western Carolina Hospital,Psychology,HCPCS 90853,Group psychotherapy,-,WA
+Erlanger Western Carolina Hospital,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,-,WA
+Erlanger Western Carolina Hospital,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",-,WA
+Erlanger Western Carolina Hospital,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",-,WA
+Erlanger Western Carolina Hospital,Psychology,HCPCS 90837,"Psychotherapy, 60 min",-,WA
+Erlanger Western Carolina Hospital,Blood,HCPCS 85008,Microscopic examination for white blood cells,-,WA
+Erlanger Western Carolina Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,-,WA
+Erlanger Western Carolina Hospital,Chemistry,HCPCS 83020,Hemoglobin Measurement,-,WA
+Erlanger Western Carolina Hospital,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,-,WA
+Erlanger Western Carolina Hospital,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,-,WA
+Erlanger Western Carolina Hospital,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",-,WA
+Erlanger Western Carolina Hospital,Immunology,HCPCS 86318,Covid-19 antibody test,-,WA
+Erlanger Western Carolina Hospital,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,-,WA
+Erlanger Western Carolina Hospital,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,-,WA
+Erlanger Western Carolina Hospital,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),-,WA
+Erlanger Western Carolina Hospital,Other Non-Surgical Procedures,MSDRG 603,Cellulitis,"$5,450.31",WA
+Erlanger Western Carolina Hospital,Other Non-Surgical Procedures,MSDRG 440,Disorders of pancreas,"$21,424.10",WA
+Erlanger Western Carolina Hospital,Other Non-Surgical Procedures,MSDRG 392,"Esophagitis, gastroenteritis and miscellaneous digestive disorders","$6,812.16",WA
+Erlanger Western Carolina Hospital,Other Non-Surgical Procedures,MSDRG 536,Fractures of hip and pelvis,"$7,044.74",WA
+Erlanger Western Carolina Hospital,Other Non-Surgical Procedures,MSDRG 390,Gastrointestinal obstruction,"$5,911.83",WA
+Erlanger Western Carolina Hospital,Other Non-Surgical Procedures,MSDRG 690,Kidney and urinary tract infections,"$8,228.63",WA
+Erlanger Western Carolina Hospital,Other Non-Surgical Procedures,MSDRG 684,Renal failure,"$6,233.81",WA
+Erlanger Western Carolina Hospital,Other Non-Surgical Procedures,MSDRG 101,Seizures,"$15,653.11",WA
+Erlanger Western Carolina Hospital,Other Non-Surgical Procedures,MSDRG 872,Sepsis (blood infection),"$9,023.60",WA
+Erlanger Western Carolina Hospital,Pulmonary,MSDRG 192,Chronic obstructive pulmonary disease (COPD),"$11,293.04",WA
+Erlanger Western Carolina Hospital,Pulmonary,MSDRG 189,Pulmonary edema and respiratory failure,"$8,950.40",WA
+Erlanger Western Carolina Hospital,Pulmonary,MSDRG 176,Pulmonary embolism (blood clot in lung),"$6,773.06",WA
+Erlanger Western Carolina Hospital,Sleep,HCPCS 95810,Sleep study,-,WA
+Erlanger Western Carolina Hospital,Head and Neck,HCPCS 70030,"X-ray eye, foreign body",-,WA
+Erlanger Western Carolina Hospital,Head and Neck,HCPCS 70140,"X-ray facial bones, 1-2 views",-,WA
+Erlanger Western Carolina Hospital,Spine,HCPCS 72120,"X-ray complete lumbar spine (with bending), 2-3 views",-,WA
+Erlanger Western Carolina Hospital,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,$0.70,WA
+Erlanger Western Carolina Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$8,997.91",WA
+Erlanger Western Carolina Hospital,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$9,234.68",WA
+Erlanger Western Carolina Hospital,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,-,WA
+Erlanger Western Carolina Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$6,409.97",WA
+Erlanger Western Carolina Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$7,266.00",WA
+Erlanger Western Carolina Hospital,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,-,WA
+Erlanger Western Carolina Hospital,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$7,891.45",WA
+Erlanger Western Carolina Hospital,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$8,063.16",WA
+Erlanger Western Carolina Hospital,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,-,WA
+Erlanger Western Carolina Hospital,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,-,WA
+Erlanger Western Carolina Hospital,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,$0.70,WA
+Erlanger Western Carolina Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,-,WA
+Erlanger Western Carolina Hospital,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),-,WA
+Erlanger Western Carolina Hospital,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),$0.70,WA
+Erlanger Western Carolina Hospital,Breast,HCPCS 19325,Breast enlargement using prosthetic implant,-,WA
+Erlanger Western Carolina Hospital,Breast,HCPCS 19125,Excision of breast lesion,-,WA
+Erlanger Western Carolina Hospital,Breast,HCPCS 19120,Excision of cyst of breast,-,WA
+Erlanger Western Carolina Hospital,Breast,HCPCS 19301,Partial removal of breast,-,WA
+Erlanger Western Carolina Hospital,Breast,HCPCS 19318,Reduction mammaplasty,-,WA
+Erlanger Western Carolina Hospital,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,-,WA
+Erlanger Western Carolina Hospital,Breast,HCPCS 19303,Total removal of breast,-,WA
+Erlanger Western Carolina Hospital,Cardiac,HCPCS 33249,Defibrillator complete system,-,WA
+Erlanger Western Carolina Hospital,Cardiac,HCPCS 33240,Defibrillator generator,-,WA
+Erlanger Western Carolina Hospital,Cardiac,HCPCS 93452,Diagnostic heart catheterization,-,WA
+Erlanger Western Carolina Hospital,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),-,WA
+Erlanger Western Carolina Hospital,Cardiac,HCPCS 36468,"Elimination of spider veins (sclerotherapy), multiple injections",-,WA
+Erlanger Western Carolina Hospital,Cardiac,HCPCS 36471,"Elimination of spider veins (sclerotherapy), multiple veins on 1 limb",-,WA
+Erlanger Western Carolina Hospital,Cardiac,HCPCS 36470,"Elimination of spider veins (sclerotherapy), single vein",-,WA
+Erlanger Western Carolina Hospital,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,-,WA
+Erlanger Western Carolina Hospital,Cardiac,HCPCS 36475,"Varicose vein treatment (vein ablation), 1 vein",-,WA
+Erlanger Western Carolina Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,827.21",WA
+Erlanger Western Carolina Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,056.50",WA
+Erlanger Western Carolina Hospital,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$2,074.72",WA
+Erlanger Western Carolina Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$2,537.11",WA
+Erlanger Western Carolina Hospital,Digestive,HCPCS 43235,EGD,$888.30,WA
+Erlanger Western Carolina Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$1,247.42",WA
+Erlanger Western Carolina Hospital,Digestive,MSDRG 331,Major small and large bowel procedures,"$26,444.20",WA
+Erlanger Western Carolina Hospital,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,-,WA
+Erlanger Western Carolina Hospital,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,-,WA
+Erlanger Western Carolina Hospital,Digestive,HCPCS 45391,Ultrasound of lower large bowel using an endoscope,-,WA
+Erlanger Western Carolina Hospital,Female Reproductive,HCPCS 56810,Perineoplasty (perineorrhaphy),-,WA
+Erlanger Western Carolina Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$17,976.86",WA
+Erlanger Western Carolina Hospital,Foot,HCPCS 28296,Bunionectomy or repair of toe deformities,-,WA
+Erlanger Western Carolina Hospital,General,HCPCS 55866,Prostatectomy,-,WA
+Erlanger Western Carolina Hospital,General,HCPCS 60240,Removal of thyroid,-,WA
+Erlanger Western Carolina Hospital,Head,HCPCS 69436,Create eardrum opening,-,WA
+Erlanger Western Carolina Hospital,Head,HCPCS 69930,Implantation of cochlear device,-,WA
+Erlanger Western Carolina Hospital,Head,HCPCS 67028,Injection of drug into the eye,-,WA
+Erlanger Western Carolina Hospital,Head,HCPCS 30400,Reconstruction of nose,-,WA
+Erlanger Western Carolina Hospital,Head,HCPCS 69631,Repair of eardrum,-,WA
+Erlanger Western Carolina Hospital,Head,HCPCS 30520,Repair of nasal septum (septoplasty),"$7,310.10",WA
+Erlanger Western Carolina Hospital,Intraoral,HCPCS 42826,Tonsil removal (patient 12 and over),-,WA
+Erlanger Western Carolina Hospital,Intraoral,HCPCS 42820,Tonsil removal (patient under 12),-,WA
+Erlanger Western Carolina Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,-,WA
+Erlanger Western Carolina Hospital,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,-,WA
+Erlanger Western Carolina Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,-,WA
+Erlanger Western Carolina Hospital,Musculoskeletal,HCPCS 27200,Insertion of Breathing Tube Using an Endoscope,-,WA
+Erlanger Western Carolina Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$26,471.38",WA
+Erlanger Western Carolina Hospital,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$6,446.16",WA
+Erlanger Western Carolina Hospital,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,-,WA
+Erlanger Western Carolina Hospital,Musculoskeletal,MSDRG 494,"Lower extremity and humerus procedures except hip, foot and femur","$31,151.62",WA
+Erlanger Western Carolina Hospital,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,-,WA
+Erlanger Western Carolina Hospital,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,-,WA
+Erlanger Western Carolina Hospital,Musculoskeletal,HCPCS 22612,Spine arthrodesis,-,WA
+Erlanger Western Carolina Hospital,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,-,WA
+Erlanger Western Carolina Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$6,323.57",WA
+Erlanger Western Carolina Hospital,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,-,WA
+Erlanger Western Carolina Hospital,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$9,582.30",WA
+Erlanger Western Carolina Hospital,Obstetrics,HCPCS 58545,Removal of uterine fibroid tumors using an endoscope,-,WA
+Erlanger Western Carolina Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$6,943.62",WA
+Erlanger Western Carolina Hospital,Obstetrics,HCPCS 58262,"Vaginal removal of uterus, tubes, and/or ovaries","$11,989.60",WA
+Erlanger Western Carolina Hospital,Ocular,HCPCS 66984,Cataract removal,"$2,140.12",WA
+Erlanger Western Carolina Hospital,Ocular,HCPCS 66982,Cataract removal with insertion of lens,"$2,090.90",WA
+Erlanger Western Carolina Hospital,Ocular,HCPCS 66821,Laser cataract removal,$818.87,WA
+Erlanger Western Carolina Hospital,Ocular,HCPCS 67311,Realignment of the eye with repair of eye muscle,-,WA
+Erlanger Western Carolina Hospital,Ocular,HCPCS 65426,Removal or relocation of corneal conjunctiva,-,WA
+Erlanger Western Carolina Hospital,Ocular,HCPCS 67108,Repair of detached retina,-,WA
+Erlanger Western Carolina Hospital,Ocular,HCPCS 65756,Transplant of outer layer of corneal tissue,-,WA
+Erlanger Western Carolina Hospital,Skin,HCPCS 15820,Blepharoplasty of the lower eyelid (eye bag surgery),-,WA
+Erlanger Western Carolina Hospital,Skin,HCPCS 15822,Blepharoplasty of the upper eyelid (eye bag surgery),"$6,468.70",WA
+Erlanger Western Carolina Hospital,Skin,HCPCS 67900,Brow lift,-,WA
+Erlanger Western Carolina Hospital,Skin,HCPCS 15789,Chemical peel (facial),-,WA
+Erlanger Western Carolina Hospital,Skin,HCPCS 15876,"Liposuction (lipectomy), head and neck",-,WA
+Erlanger Western Carolina Hospital,Skin,HCPCS 15879,"Liposuction (lipectomy), lower extremities (hips, thighs, knees)",-,WA
+Erlanger Western Carolina Hospital,Skin,HCPCS 15877,"Liposuction (lipectomy), trunk (abdomen)",-,WA
+Erlanger Western Carolina Hospital,Skin,HCPCS 15878,"Liposuction (lipectomy), upper extremities (upper arms)",-,WA
+Erlanger Western Carolina Hospital,Skin,HCPCS 15833,"Removal of excess skin, abdomen",-,WA
+Erlanger Western Carolina Hospital,Skin,HCPCS 15836,"Removal of excess skin, arm",-,WA
+Erlanger Western Carolina Hospital,Skin,HCPCS 15834,"Removal of excess skin, hip",-,WA
+Erlanger Western Carolina Hospital,Skin,HCPCS 15832,"Removal of excess skin, thigh",-,WA

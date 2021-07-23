@@ -1,0 +1,515 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Cone Health Moses Cone Hospital ,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$424.16,WA
+Cone Health Moses Cone Hospital ,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,138.72",WA
+Cone Health Moses Cone Hospital ,Emergency Care,HCPCS 99281,Emergency Level 1,$42.24,WA
+Cone Health Moses Cone Hospital ,Emergency Care,HCPCS 99282,Emergency Level 2,$266.20,WA
+Cone Health Moses Cone Hospital ,Emergency Care,HCPCS 99283,Emergency Level 3,$383.24,WA
+Cone Health Moses Cone Hospital ,Emergency Care,HCPCS 99284,Emergency Level 4,$588.72,WA
+Cone Health Moses Cone Hospital ,Emergency Care,HCPCS 99285,Emergency Level 5,$945.56,WA
+Cone Health Moses Cone Hospital ,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$154.00,WA
+Cone Health Moses Cone Hospital ,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$203.72,WA
+Cone Health Moses Cone Hospital ,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$123.20,WA
+Cone Health Moses Cone Hospital ,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$108.68,WA
+Cone Health Moses Cone Hospital ,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$79.20,WA
+Cone Health Moses Cone Hospital ,Psychology,HCPCS 90853,Group psychotherapy,$83.60,WA
+Cone Health Moses Cone Hospital ,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$189.64,WA
+Cone Health Moses Cone Hospital ,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$63.36,WA
+Cone Health Moses Cone Hospital ,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$125.40,WA
+Cone Health Moses Cone Hospital ,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$142.12,WA
+Cone Health Moses Cone Hospital ,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$164.56,WA
+Cone Health Moses Cone Hospital ,Speech,HCPCS 92507,Speech Therapy,$117.04,WA
+Cone Health Moses Cone Hospital ,Speech,HCPCS 92610,Swallow Evaluation,$156.20,WA
+Cone Health Moses Cone Hospital ,Speech,HCPCS 92526,Swallow Treatment,$113.52,WA
+Cone Health Moses Cone Hospital ,Blood,HCPCS 85018,"Blood count, hemoglobin",$17.60,WA
+Cone Health Moses Cone Hospital ,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$17.16,WA
+Cone Health Moses Cone Hospital ,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$47.52,WA
+Cone Health Moses Cone Hospital ,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$49.72,WA
+Cone Health Moses Cone Hospital ,Blood,HCPCS 85610,"Blood test, clotting time",$26.84,WA
+Cone Health Moses Cone Hospital ,Blood,HCPCS 85730,Coagulation assessment blood test,$40.48,WA
+Cone Health Moses Cone Hospital ,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$9.71,WA
+Cone Health Moses Cone Hospital ,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$51.92,WA
+Cone Health Moses Cone Hospital ,Blood,HCPCS 85027,"Complete blood count, automated",$36.52,WA
+Cone Health Moses Cone Hospital ,Blood,HCPCS 85008,Microscopic examination for white blood cells,-,WA
+Cone Health Moses Cone Hospital ,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$21.12,WA
+Cone Health Moses Cone Hospital ,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$17.60,WA
+Cone Health Moses Cone Hospital ,Blood,HCPCS 85660,Red blood cell sickling measurement,$4.84,WA
+Cone Health Moses Cone Hospital ,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$73.48,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$36.08,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$126.28,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 82040,Albumin (protein) level,$25.52,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$60.28,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$59.40,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 82140,Ammonia level,$59.40,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 82150,Amylase (enzyme) level,$30.80,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$67.32,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$99.44,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 84439,Assay of free thyroxine,$4.84,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$58.08,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 82248,Bilirubin level (Direct),$26.84,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 82247,Bilirubin level (Total),$29.48,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 82565,Blood creatinine level,$24.64,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$17.16,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 84132,Blood potassium level,$18.48,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 84295,Blood sodium level,$18.04,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$32.56,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$54.56,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 82310,Calcium level,$21.56,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$22.44,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$80.08,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 82465,Cholesterol level,$23.32,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 82525,Copper level,$54.56,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 82533,Cortisol Measurement,$76.56,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 84681,C-peptide (protein) level,$11.00,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$44.00,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$53.24,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$124.96,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$155.76,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$60.72,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 82746,Folic acid; serum,$53.68,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$4.40,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$25.96,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$37.84,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$9.68,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$9.68,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$6.60,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 83718,HDL cholesterol level,$28.60,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 83020,Hemoglobin Measurement,$73.48,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$15.40,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$14.08,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$46.20,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 83525,Insulin Measurement; Total,$6.16,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 82330,Ionized Calcium,$52.36,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 83550,Iron Binding Capacity,$29.04,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 83540,Iron level,$29.04,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$28.60,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 83721,LDL cholesterol level,$83.60,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$51.04,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$23.32,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$6.60,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 83021,Liver function blood test panel,$8.36,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 83735,Magnesium Level,$33.44,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 82542,Mass spectrometry,$41.80,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$19.80,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$42.24,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 83918,Organic acid level,$164.12,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 83945,Oxalate level,$55.00,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 83970,Parathormone,$120.12,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$27.72,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 84157,Prealbumin (protein) level,$38.72,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$137.28,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$77.00,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$43.12,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 82270,Stool analysis for blood,$15.40,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 84403,Testosterone (hormone) level,$12.32,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 84402,Testosterone Level; Free,$11.88,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$3.08,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$177.76,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$3.08,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 84155,"Total protein level, blood",$21.12,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$25.52,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 84166,Troponin (protein) analysis,$6.16,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 84560,Uric acid level,$24.20,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 84550,"Uric acid level, blood",$23.76,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 82340,Urine calcium level,$19.80,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 82436,Urine chloride level,$22.44,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$39.60,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$38.28,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$28.60,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 84133,Urine potassium level,$23.32,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 84300,Urine sodium level,$22.00,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 84591,Vitamin B-6 level,$76.34,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$122.76,WA
+Cone Health Moses Cone Hospital ,Chemistry,HCPCS 84630,Zinc level,$41.36,WA
+Cone Health Moses Cone Hospital ,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$7.49,WA
+Cone Health Moses Cone Hospital ,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$6.60,WA
+Cone Health Moses Cone Hospital ,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$44.33,WA
+Cone Health Moses Cone Hospital ,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$18.92,WA
+Cone Health Moses Cone Hospital ,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$81.84,WA
+Cone Health Moses Cone Hospital ,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$8.36,WA
+Cone Health Moses Cone Hospital ,Immunology,HCPCS 86318,Covid-19 antibody test,$212.08,WA
+Cone Health Moses Cone Hospital ,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$58.96,WA
+Cone Health Moses Cone Hospital ,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$5.72,WA
+Cone Health Moses Cone Hospital ,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$4.84,WA
+Cone Health Moses Cone Hospital ,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$29.04,WA
+Cone Health Moses Cone Hospital ,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$181.28,WA
+Cone Health Moses Cone Hospital ,Immunology,HCPCS 86140,Measurement C-reactive protein,$74.36,WA
+Cone Health Moses Cone Hospital ,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$36.52,WA
+Cone Health Moses Cone Hospital ,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$10.56,WA
+Cone Health Moses Cone Hospital ,Immunology,HCPCS 86161,Measurement of complement (immune system proteins),$71.28,WA
+Cone Health Moses Cone Hospital ,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$5.72,WA
+Cone Health Moses Cone Hospital ,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$11.88,WA
+Cone Health Moses Cone Hospital ,Immunology,HCPCS 86431,Rheumatoid factor level,$33.88,WA
+Cone Health Moses Cone Hospital ,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$28.16,WA
+Cone Health Moses Cone Hospital ,Immunology,HCPCS 86580,Skin test for tuberculosis,$25.96,WA
+Cone Health Moses Cone Hospital ,Immunology,HCPCS 86592,Syphilis Detection Test,$3.96,WA
+Cone Health Moses Cone Hospital ,Immunology,HCPCS 86361,T cell count and ratio,$20.24,WA
+Cone Health Moses Cone Hospital ,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$24.64,WA
+Cone Health Moses Cone Hospital ,Immunology,HCPCS 86359,"T cells count, total",$19.80,WA
+Cone Health Moses Cone Hospital ,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$7.48,WA
+Cone Health Moses Cone Hospital ,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$30.36,WA
+Cone Health Moses Cone Hospital ,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$64.24,WA
+Cone Health Moses Cone Hospital ,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$48.40,WA
+Cone Health Moses Cone Hospital ,Microbiology,HCPCS 87491,Chlamydia Test,$51.48,WA
+Cone Health Moses Cone Hospital ,Microbiology,HCPCS 87635,Covid-19 current infection test,$44.00,WA
+Cone Health Moses Cone Hospital ,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$88.44,WA
+Cone Health Moses Cone Hospital ,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$36.08,WA
+Cone Health Moses Cone Hospital ,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$381.92,WA
+Cone Health Moses Cone Hospital ,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$4.84,WA
+Cone Health Moses Cone Hospital ,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$114.40,WA
+Cone Health Moses Cone Hospital ,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$51.48,WA
+Cone Health Moses Cone Hospital ,Microbiology,HCPCS 87517,Hepatitis B Detection,$122.76,WA
+Cone Health Moses Cone Hospital ,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$11.44,WA
+Cone Health Moses Cone Hospital ,Microbiology,HCPCS 87624,HPV Detection,$81.40,WA
+Cone Health Moses Cone Hospital ,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$13.46,WA
+Cone Health Moses Cone Hospital ,Microbiology,HCPCS 86735,Mumps virus antibody test,$7.04,WA
+Cone Health Moses Cone Hospital ,Microbiology,HCPCS 86747,Parvovirus antibody test,$15.84,WA
+Cone Health Moses Cone Hospital ,Microbiology,HCPCS 86762,Rubella virus antibody test,$6.60,WA
+Cone Health Moses Cone Hospital ,Microbiology,HCPCS 86765,Rubeola virus antibody test,$6.60,WA
+Cone Health Moses Cone Hospital ,Microbiology,HCPCS 87207,Smear for infectious agents,$82.28,WA
+Cone Health Moses Cone Hospital ,Microbiology,HCPCS 87177,Smear for Parasites,$11.00,WA
+Cone Health Moses Cone Hospital ,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$7.04,WA
+Cone Health Moses Cone Hospital ,Microbiology,HCPCS 87045,Stool Culture,$55.44,WA
+Cone Health Moses Cone Hospital ,Microbiology,HCPCS 87880,Strep Test,$39.16,WA
+Cone Health Moses Cone Hospital ,Microbiology,HCPCS 87804,Test for Influenza Virus,$9.24,WA
+Cone Health Moses Cone Hospital ,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$46.64,WA
+Cone Health Moses Cone Hospital ,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$6.16,WA
+Cone Health Moses Cone Hospital ,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$90.20,WA
+Cone Health Moses Cone Hospital ,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$22.44,WA
+Cone Health Moses Cone Hospital ,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$70.84,WA
+Cone Health Moses Cone Hospital ,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$84.92,WA
+Cone Health Moses Cone Hospital ,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$60.28,WA
+Cone Health Moses Cone Hospital ,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$69.96,WA
+Cone Health Moses Cone Hospital ,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$66.44,WA
+Cone Health Moses Cone Hospital ,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$133.32,WA
+Cone Health Moses Cone Hospital ,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$77.00,WA
+Cone Health Moses Cone Hospital ,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$90.20,WA
+Cone Health Moses Cone Hospital ,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$26.84,WA
+Cone Health Moses Cone Hospital ,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$47.96,WA
+Cone Health Moses Cone Hospital ,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$31.24,WA
+Cone Health Moses Cone Hospital ,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$107.80,WA
+Cone Health Moses Cone Hospital ,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$38.28,WA
+Cone Health Moses Cone Hospital ,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$49.72,WA
+Cone Health Moses Cone Hospital ,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$54.56,WA
+Cone Health Moses Cone Hospital ,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$160.60,WA
+Cone Health Moses Cone Hospital ,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$72.16,WA
+Cone Health Moses Cone Hospital ,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$74.80,WA
+Cone Health Moses Cone Hospital ,Transfusion,HCPCS 86900,"Blood Typing, ABO",$18.48,WA
+Cone Health Moses Cone Hospital ,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$17.60,WA
+Cone Health Moses Cone Hospital ,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$38.28,WA
+Cone Health Moses Cone Hospital ,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$11.44,WA
+Cone Health Moses Cone Hospital ,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$32.56,WA
+Cone Health Moses Cone Hospital ,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$96.36,WA
+Cone Health Moses Cone Hospital ,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$41.36,WA
+Cone Health Moses Cone Hospital ,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$12.32,WA
+Cone Health Moses Cone Hospital ,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$16.72,WA
+Cone Health Moses Cone Hospital ,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$28.60,WA
+Cone Health Moses Cone Hospital ,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$40.48,WA
+Cone Health Moses Cone Hospital ,Cardiovascular,MSDRG 310,Cardiac arrhythmia / irregular heartbeat,"$4,561.40",WA
+Cone Health Moses Cone Hospital ,Cardiovascular,HCPCS 93015,"Cardiovascular stress test, with interpretation and report",$60.51,WA
+Cone Health Moses Cone Hospital ,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$311.96,WA
+Cone Health Moses Cone Hospital ,Cardiovascular,MSDRG 313,Chest pain,"$4,998.88",WA
+Cone Health Moses Cone Hospital ,Cardiovascular,HCPCS 93000,"Electrocardiogram, routine, with interpretation and report",$14.44,WA
+Cone Health Moses Cone Hospital ,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$81.84,WA
+Cone Health Moses Cone Hospital ,Cardiovascular,MSDRG 282,Heart attack,"$9,856.77",WA
+Cone Health Moses Cone Hospital ,Cardiovascular,MSDRG 293,Heart failure and shock,"$4,729.13",WA
+Cone Health Moses Cone Hospital ,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$43.56,WA
+Cone Health Moses Cone Hospital ,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$202.40,WA
+Cone Health Moses Cone Hospital ,Cardiovascular,MSDRG 305,Hypertension,"$6,698.91",WA
+Cone Health Moses Cone Hospital ,Cardiovascular,MSDRG 312,Loss of conciousness and collapse,"$7,019.85",WA
+Cone Health Moses Cone Hospital ,Cardiovascular,MSDRG 208,Respiratory system diagnosis with ventilator support <=96 hours,"$19,165.79",WA
+Cone Health Moses Cone Hospital ,Cardiovascular,MSDRG 207,Respiratory system diagnosis with ventilator support >96 hours,"$42,472.42",WA
+Cone Health Moses Cone Hospital ,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$1,289.20",WA
+Cone Health Moses Cone Hospital ,Cardiovascular,HCPCS 93975,Ultrasound Heart,$387.20,WA
+Cone Health Moses Cone Hospital ,Other Non-Surgical Procedures,MSDRG 203,Bronchitis and asthma,"$4,802.44",WA
+Cone Health Moses Cone Hospital ,Other Non-Surgical Procedures,MSDRG 603,Cellulitis,"$5,840.25",WA
+Cone Health Moses Cone Hospital ,Other Non-Surgical Procedures,MSDRG 639,Diabetes,"$5,487.15",WA
+Cone Health Moses Cone Hospital ,Other Non-Surgical Procedures,MSDRG 440,Disorders of pancreas,"$6,066.24",WA
+Cone Health Moses Cone Hospital ,Other Non-Surgical Procedures,MSDRG 392,"Esophagitis, gastroenteritis and miscellaneous digestive disorders","$6,411.77",WA
+Cone Health Moses Cone Hospital ,Other Non-Surgical Procedures,MSDRG 536,Fractures of hip and pelvis,"$6,120.93",WA
+Cone Health Moses Cone Hospital ,Other Non-Surgical Procedures,MSDRG 563,"Fracture, sprain, strain and dislocation except femur, hip, pelvis and thigh","$6,947.96",WA
+Cone Health Moses Cone Hospital ,Other Non-Surgical Procedures,MSDRG 379,Gastrointestinal hemorrhage,"$5,121.67",WA
+Cone Health Moses Cone Hospital ,Other Non-Surgical Procedures,MSDRG 390,Gastrointestinal obstruction,"$5,576.87",WA
+Cone Health Moses Cone Hospital ,Other Non-Surgical Procedures,MSDRG 690,Kidney and urinary tract infections,"$5,859.65",WA
+Cone Health Moses Cone Hospital ,Other Non-Surgical Procedures,MSDRG 373,Major gastrointestinal disorders and peritoneal infections,"$6,672.99",WA
+Cone Health Moses Cone Hospital ,Other Non-Surgical Procedures,MSDRG 552,Medical back problems,"$9,019.38",WA
+Cone Health Moses Cone Hospital ,Other Non-Surgical Procedures,MSDRG 195,Pneumonia,"$4,564.05",WA
+Cone Health Moses Cone Hospital ,Other Non-Surgical Procedures,MSDRG 812,Red blood cell disorders,"$6,249.94",WA
+Cone Health Moses Cone Hospital ,Other Non-Surgical Procedures,MSDRG 684,Renal failure,"$4,471.10",WA
+Cone Health Moses Cone Hospital ,Other Non-Surgical Procedures,MSDRG 101,Seizures,"$6,524.55",WA
+Cone Health Moses Cone Hospital ,Other Non-Surgical Procedures,MSDRG 872,Sepsis (blood infection),"$8,144.76",WA
+Cone Health Moses Cone Hospital ,Other Non-Surgical Procedures,MSDRG 870,Septicemia or severe sepsis with mv >96 hours,"$42,909.17",WA
+Cone Health Moses Cone Hospital ,Other Non-Surgical Procedures,MSDRG 558,"Tendonitis, myositis and bursitis","$7,189.69",WA
+Cone Health Moses Cone Hospital ,Pulmonary,HCPCS 94640,Aerosol Treatment,$46.20,WA
+Cone Health Moses Cone Hospital ,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$129.80,WA
+Cone Health Moses Cone Hospital ,Pulmonary,MSDRG 192,Chronic obstructive pulmonary disease (COPD),"$6,779.92",WA
+Cone Health Moses Cone Hospital ,Pulmonary,MSDRG 189,Pulmonary edema and respiratory failure,"$9,995.55",WA
+Cone Health Moses Cone Hospital ,Pulmonary,MSDRG 176,Pulmonary embolism (blood clot in lung),"$6,580.29",WA
+Cone Health Moses Cone Hospital ,Pulmonary,HCPCS 94618,Pulmonary stress test,$106.92,WA
+Cone Health Moses Cone Hospital ,Pulmonary,HCPCS 94010,Spirometry - breathing test,$96.80,WA
+Cone Health Moses Cone Hospital ,Sleep,HCPCS 95810,Sleep study,"$1,482.36",WA
+Cone Health Moses Cone Hospital ,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$29.04,WA
+Cone Health Moses Cone Hospital ,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$134.64,WA
+Cone Health Moses Cone Hospital ,Breast,HCPCS 77067,Mammogram Screening,$107.36,WA
+Cone Health Moses Cone Hospital ,Breast,HCPCS 77066,Mammography of both breasts,$185.68,WA
+Cone Health Moses Cone Hospital ,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,$498.08,WA
+Cone Health Moses Cone Hospital ,CT Scan,HCPCS 74175,CT angiography scan of abdomen,$549.12,WA
+Cone Health Moses Cone Hospital ,CT Scan,HCPCS 74174,CTA scan of abdomen,"$1,714.24",WA
+Cone Health Moses Cone Hospital ,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$838.20,WA
+Cone Health Moses Cone Hospital ,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$734.80,WA
+Cone Health Moses Cone Hospital ,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$792.44,WA
+Cone Health Moses Cone Hospital ,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$2,053.04",WA
+Cone Health Moses Cone Hospital ,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,580.48",WA
+Cone Health Moses Cone Hospital ,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,496.00",WA
+Cone Health Moses Cone Hospital ,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,$976.80,WA
+Cone Health Moses Cone Hospital ,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,116.28",WA
+Cone Health Moses Cone Hospital ,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$711.48,WA
+Cone Health Moses Cone Hospital ,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$667.92,WA
+Cone Health Moses Cone Hospital ,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$976.80,WA
+Cone Health Moses Cone Hospital ,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)",$721.16,WA
+Cone Health Moses Cone Hospital ,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,122.00",WA
+Cone Health Moses Cone Hospital ,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,393.04",WA
+Cone Health Moses Cone Hospital ,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,381.60",WA
+Cone Health Moses Cone Hospital ,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$1,985.28",WA
+Cone Health Moses Cone Hospital ,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,415.04",WA
+Cone Health Moses Cone Hospital ,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$1,774.08",WA
+Cone Health Moses Cone Hospital ,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,564.64",WA
+Cone Health Moses Cone Hospital ,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,343.76",WA
+Cone Health Moses Cone Hospital ,MRI,HCPCS 74182,MRI scan of abdomen with contrast,"$1,490.72",WA
+Cone Health Moses Cone Hospital ,MRI,HCPCS 74181,MRI scan of abdomen without contrast,"$1,419.88",WA
+Cone Health Moses Cone Hospital ,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$1,910.04",WA
+Cone Health Moses Cone Hospital ,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,342.88",WA
+Cone Health Moses Cone Hospital ,MRI,HCPCS 73721,MRI scan of leg joint,"$1,319.12",WA
+Cone Health Moses Cone Hospital ,Other Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$308.00,WA
+Cone Health Moses Cone Hospital ,Other Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$135.96,WA
+Cone Health Moses Cone Hospital ,Other Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$323.84,WA
+Cone Health Moses Cone Hospital ,Other Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$261.36,WA
+Cone Health Moses Cone Hospital ,Other Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$253.88,WA
+Cone Health Moses Cone Hospital ,Other Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$424.16,WA
+Cone Health Moses Cone Hospital ,Other Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$289.08,WA
+Cone Health Moses Cone Hospital ,Other Ultrasound,HCPCS 76857,Ultrasound of pelvis,$187.00,WA
+Cone Health Moses Cone Hospital ,Other Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$393.80,WA
+Cone Health Moses Cone Hospital ,Other Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$290.40,WA
+Cone Health Moses Cone Hospital ,Other Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$267.52,WA
+Cone Health Moses Cone Hospital ,Abdomen,HCPCS 74018,"X-ray abdomen, 1 view",$106.04,WA
+Cone Health Moses Cone Hospital ,Abdomen,HCPCS 74019,"X-ray abdomen, 2 views",$139.04,WA
+Cone Health Moses Cone Hospital ,Abdomen,HCPCS 74021,"X-ray abdomen, 3 or more views",$146.08,WA
+Cone Health Moses Cone Hospital ,Chest,HCPCS 71270,CT scan of chest with and without contrast,$799.92,WA
+Cone Health Moses Cone Hospital ,Chest,HCPCS 71552,MRI scan of chest with and without contrast,"$1,702.80",WA
+Cone Health Moses Cone Hospital ,Chest,HCPCS 71550,MRI scan of chest without contrast,"$1,174.80",WA
+Cone Health Moses Cone Hospital ,Chest,HCPCS 76641,Ultrasound of breasts (both),$172.04,WA
+Cone Health Moses Cone Hospital ,Chest,HCPCS 76642,Ultrasound of breast (single),$96.80,WA
+Cone Health Moses Cone Hospital ,Chest,HCPCS 76604,Ultrasound of chest,$177.32,WA
+Cone Health Moses Cone Hospital ,Chest,HCPCS 71047,"X-ray chest, 2 views",$110.88,WA
+Cone Health Moses Cone Hospital ,Chest,HCPCS 71048,"X-ray chest, 4 or more views",$139.48,WA
+Cone Health Moses Cone Hospital ,Chest,HCPCS 71130,"X-ray chest joints (sternoclavicular), 3 or more views",$92.40,WA
+Cone Health Moses Cone Hospital ,Chest,HCPCS 71120,"X-ray chest (sternum), 2 or more views",$150.48,WA
+Cone Health Moses Cone Hospital ,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$219.12,WA
+Cone Health Moses Cone Hospital ,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$60.28,WA
+Cone Health Moses Cone Hospital ,Chest,HCPCS 71046,X-ray of chest; 2 Views,$115.28,WA
+Cone Health Moses Cone Hospital ,Chest,HCPCS 71045,X-ray of chest; Single View,$103.40,WA
+Cone Health Moses Cone Hospital ,Chest,HCPCS 71110,"X-ray ribs, bilateral, 3 or more views",$211.64,WA
+Cone Health Moses Cone Hospital ,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$138.16,WA
+Cone Health Moses Cone Hospital ,Chest,HCPCS 71101,"X-ray ribs, unilateral, 3 or more views",$151.36,WA
+Cone Health Moses Cone Hospital ,Head and Neck,HCPCS 70496,CTA scan of head,$498.08,WA
+Cone Health Moses Cone Hospital ,Head and Neck,HCPCS 70498,CTA scan of neck,$498.08,WA
+Cone Health Moses Cone Hospital ,Head and Neck,HCPCS 70481,CT scan of eye with contrast,$949.08,WA
+Cone Health Moses Cone Hospital ,Head and Neck,HCPCS 70480,CT scan of eye without contrast,$761.20,WA
+Cone Health Moses Cone Hospital ,Head and Neck,HCPCS 70487,CT scan of face with contrast,$844.80,WA
+Cone Health Moses Cone Hospital ,Head and Neck,HCPCS 70488,CT scan of face without contrast,$895.84,WA
+Cone Health Moses Cone Hospital ,Head and Neck,HCPCS 70460,CT scan of head with contrast,$844.80,WA
+Cone Health Moses Cone Hospital ,Head and Neck,HCPCS 70470,CT scan of head without contrast,$977.24,WA
+Cone Health Moses Cone Hospital ,Head and Neck,HCPCS 70492,CT scan of neck with contrast,$262.68,WA
+Cone Health Moses Cone Hospital ,Head and Neck,HCPCS 70490,CT scan of neck without contrast,$560.12,WA
+Cone Health Moses Cone Hospital ,Head and Neck,HCPCS 70546,MRA scan of head with and without contrast,"$1,603.36",WA
+Cone Health Moses Cone Hospital ,Head and Neck,HCPCS 70545,MRA scan of head with contrast,"$1,178.32",WA
+Cone Health Moses Cone Hospital ,Head and Neck,HCPCS 70549,MRA scan of neck with and without contrast,"$1,661.44",WA
+Cone Health Moses Cone Hospital ,Head and Neck,HCPCS 70548,MRA scan of neck with contrast,"$1,233.76",WA
+Cone Health Moses Cone Hospital ,Head and Neck,HCPCS 70547,MRA scan of neck without contrast,"$1,122.00",WA
+Cone Health Moses Cone Hospital ,Head and Neck,HCPCS 70552,MRI scan of brain with contrast,"$1,531.20",WA
+Cone Health Moses Cone Hospital ,Head and Neck,HCPCS 70543,"MRI scan of orbits, face, or soft tissue of the neck with and without contrast","$1,708.08",WA
+Cone Health Moses Cone Hospital ,Head and Neck,HCPCS 70542,"MRI scan of orbits, face, or soft tissue of the neck with contrast","$1,313.84",WA
+Cone Health Moses Cone Hospital ,Head and Neck,HCPCS 70540,"MRI scan of orbits, face, or soft tissue of the neck without contrast","$1,122.00",WA
+Cone Health Moses Cone Hospital ,Head and Neck,HCPCS 70336,MRI scan of the jaw joint,"$1,009.36",WA
+Cone Health Moses Cone Hospital ,Head and Neck,HCPCS 70030,"X-ray eye, foreign body",$80.96,WA
+Cone Health Moses Cone Hospital ,Head and Neck,HCPCS 70140,"X-ray facial bones, 1-2 views",$134.20,WA
+Cone Health Moses Cone Hospital ,Head and Neck,HCPCS 70330,"X-ray jaw joint, bilateral",$139.48,WA
+Cone Health Moses Cone Hospital ,Head and Neck,HCPCS 70100,"X-ray jaw, less than 4 views",$102.08,WA
+Cone Health Moses Cone Hospital ,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$220.44,WA
+Cone Health Moses Cone Hospital ,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$139.04,WA
+Cone Health Moses Cone Hospital ,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$123.64,WA
+Cone Health Moses Cone Hospital ,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$115.72,WA
+Cone Health Moses Cone Hospital ,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$130.68,WA
+Cone Health Moses Cone Hospital ,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$95.92,WA
+Cone Health Moses Cone Hospital ,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$201.52,WA
+Cone Health Moses Cone Hospital ,Head and Neck,HCPCS 70200,"X-ray orbits, 4 or more views",$198.44,WA
+Cone Health Moses Cone Hospital ,Head and Neck,HCPCS 70220,"X-ray sinuses, 3 views",$205.48,WA
+Cone Health Moses Cone Hospital ,Head and Neck,HCPCS 70250,"X-ray skull, less than 4 views",$143.44,WA
+Cone Health Moses Cone Hospital ,Hip and Pelvis,HCPCS 72191,CTA scan of pelvis,$498.08,WA
+Cone Health Moses Cone Hospital ,Hip and Pelvis,HCPCS 72194,CT scan of pelvis with and without contrast,"$1,046.76",WA
+Cone Health Moses Cone Hospital ,Hip and Pelvis,HCPCS 72192,CT scan of pelvis without contrast,$738.32,WA
+Cone Health Moses Cone Hospital ,Hip and Pelvis,HCPCS 72197,MRI scan of pelvis with and without contrast,"$1,876.16",WA
+Cone Health Moses Cone Hospital ,Hip and Pelvis,HCPCS 72196,MRI scan of pelvis with contrast,"$1,516.24",WA
+Cone Health Moses Cone Hospital ,Hip and Pelvis,HCPCS 72195,MRI scan of pelvis without contrast,"$1,122.00",WA
+Cone Health Moses Cone Hospital ,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$175.56,WA
+Cone Health Moses Cone Hospital ,Hip and Pelvis,HCPCS 73501,"X-ray hip and pelvis, 1 view",$164.56,WA
+Cone Health Moses Cone Hospital ,Hip and Pelvis,HCPCS 73521,"X-ray hip and pelvis, 2 views",$167.20,WA
+Cone Health Moses Cone Hospital ,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$112.20,WA
+Cone Health Moses Cone Hospital ,Hip and Pelvis,HCPCS 73523,"X-ray hip and pelvis, 5 or more views",$203.72,WA
+Cone Health Moses Cone Hospital ,Hip and Pelvis,HCPCS 73525,X-ray hip (arthrogram) with dye,$287.76,WA
+Cone Health Moses Cone Hospital ,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$130.24,WA
+Cone Health Moses Cone Hospital ,Hip and Pelvis,HCPCS 72190,"X-ray pelvis, 3 or more views",$165.88,WA
+Cone Health Moses Cone Hospital ,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$117.04,WA
+Cone Health Moses Cone Hospital ,Hip and Pelvis,HCPCS 72220,"X-ray sacrum and coccyx, 2 or more views",$119.24,WA
+Cone Health Moses Cone Hospital ,Lower Limbs,HCPCS 73706,"CTA scan of hip, knee, ankle, or foot","$1,125.52",WA
+Cone Health Moses Cone Hospital ,Lower Limbs,HCPCS 73702,"CT scan of hip, knee, ankle, or foot with and without contrast",$819.72,WA
+Cone Health Moses Cone Hospital ,Lower Limbs,HCPCS 73701,"CT scan of hip, knee, ankle, or foot with contrast",$840.84,WA
+Cone Health Moses Cone Hospital ,Lower Limbs,HCPCS 73700,"CT scan of hip, knee, ankle, or foot without contrast",$546.92,WA
+Cone Health Moses Cone Hospital ,Lower Limbs,HCPCS 73723,"MRI scan of hip, knee, ankle, or foot joints with and without contrast","$1,854.60",WA
+Cone Health Moses Cone Hospital ,Lower Limbs,HCPCS 73722,"MRI scan of hip, knee, ankle, or foot joints with contrast","$1,439.24",WA
+Cone Health Moses Cone Hospital ,Lower Limbs,HCPCS 73720,MRI scan of leg with and without contrast,"$1,727.00",WA
+Cone Health Moses Cone Hospital ,Lower Limbs,HCPCS 73719,MRI scan of leg with contrast,"$1,372.80",WA
+Cone Health Moses Cone Hospital ,Lower Limbs,HCPCS 73718,MRI scan of leg without contrast,"$1,307.24",WA
+Cone Health Moses Cone Hospital ,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$128.92,WA
+Cone Health Moses Cone Hospital ,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$158.84,WA
+Cone Health Moses Cone Hospital ,Lower Limbs,HCPCS 73565,X-ray Both Knees,$102.08,WA
+Cone Health Moses Cone Hospital ,Lower Limbs,HCPCS 73630,X-ray exam of foot,$147.40,WA
+Cone Health Moses Cone Hospital ,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$158.84,WA
+Cone Health Moses Cone Hospital ,Lower Limbs,HCPCS 73551,"X-ray femur, 1 view",$134.20,WA
+Cone Health Moses Cone Hospital ,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$147.40,WA
+Cone Health Moses Cone Hospital ,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$115.72,WA
+Cone Health Moses Cone Hospital ,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$121.44,WA
+Cone Health Moses Cone Hospital ,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$102.08,WA
+Cone Health Moses Cone Hospital ,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$167.64,WA
+Cone Health Moses Cone Hospital ,Lower Limbs,HCPCS 73580,X-ray knee (arthrogram) with dye,$218.68,WA
+Cone Health Moses Cone Hospital ,Lower Limbs,HCPCS 73592,X-ray lower extremities for infant,$128.04,WA
+Cone Health Moses Cone Hospital ,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$149.60,WA
+Cone Health Moses Cone Hospital ,Lower Limbs,HCPCS 73660,"X-ray toes, 2 or more views",$122.32,WA
+Cone Health Moses Cone Hospital ,Other X-ray,HCPCS 74220,X-ray esophagus (esophogram),$206.80,WA
+Cone Health Moses Cone Hospital ,Other X-ray,HCPCS 74230,"X-ray, swallowing function study",$250.80,WA
+Cone Health Moses Cone Hospital ,Spine,HCPCS 72127,CT scan of cervical spine with and without contrast,"$1,234.64",WA
+Cone Health Moses Cone Hospital ,Spine,HCPCS 72126,CT scan of cervical spine with contrast,"$1,175.68",WA
+Cone Health Moses Cone Hospital ,Spine,HCPCS 72125,CT scan of cervical spine without contrast,"$1,077.56",WA
+Cone Health Moses Cone Hospital ,Spine,HCPCS 72133,CT scan of lumbar spine with and without contrast,"$1,234.64",WA
+Cone Health Moses Cone Hospital ,Spine,HCPCS 72132,CT scan of lumbar spine with contrast,"$1,175.68",WA
+Cone Health Moses Cone Hospital ,Spine,HCPCS 72131,CT scan of lumbar spine without contrast,$966.68,WA
+Cone Health Moses Cone Hospital ,Spine,HCPCS 72130,CT scan of thoracic spine with and without contrast,"$1,234.64",WA
+Cone Health Moses Cone Hospital ,Spine,HCPCS 72129,CT scan of thoracic spine with contrast,"$1,175.68",WA
+Cone Health Moses Cone Hospital ,Spine,HCPCS 72128,CT scan of thoracic spine without contrast,$992.20,WA
+Cone Health Moses Cone Hospital ,Spine,HCPCS 72142,MRI scan of cervical spine with contrast,"$1,644.72",WA
+Cone Health Moses Cone Hospital ,Spine,HCPCS 72149,MRI scan of lumbar spine with contrast,"$1,584.44",WA
+Cone Health Moses Cone Hospital ,Spine,HCPCS 72157,MRI scan of thoracic spine with and without contrast,"$2,092.20",WA
+Cone Health Moses Cone Hospital ,Spine,HCPCS 72147,MRI scan of thoracic spine with contrast,"$1,679.04",WA
+Cone Health Moses Cone Hospital ,Spine,HCPCS 72020,"X-ray cervical spine, 1 view",$126.72,WA
+Cone Health Moses Cone Hospital ,Spine,HCPCS 72050,"X-ray cervical spine, 4 or more views",$227.04,WA
+Cone Health Moses Cone Hospital ,Spine,HCPCS 72120,"X-ray complete lumbar spine (with bending), 2-3 views",$195.36,WA
+Cone Health Moses Cone Hospital ,Spine,HCPCS 72114,"X-ray complete lumbar spine (with bending), 6 or more views",$277.20,WA
+Cone Health Moses Cone Hospital ,Spine,HCPCS 72081,"X-ray entire spine (scoliosis evaluation), 1 view",$120.12,WA
+Cone Health Moses Cone Hospital ,Spine,HCPCS 72082,"X-ray entire spine (scoliosis evaluation), 2 views",$180.40,WA
+Cone Health Moses Cone Hospital ,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$252.12,WA
+Cone Health Moses Cone Hospital ,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$176.00,WA
+Cone Health Moses Cone Hospital ,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$275.00,WA
+Cone Health Moses Cone Hospital ,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$163.24,WA
+Cone Health Moses Cone Hospital ,Spine,HCPCS 72080,"X-ray thoracic-lumbar spine, 2 views",$140.80,WA
+Cone Health Moses Cone Hospital ,Spine,HCPCS 72070,"X-ray thoracic spine, 2 views",$154.44,WA
+Cone Health Moses Cone Hospital ,Spine,HCPCS 72072,"X-ray thoracic spine, 3 views",$181.72,WA
+Cone Health Moses Cone Hospital ,Spine,HCPCS 72074,"X-ray thoracic spine, 4 or more views",$168.08,WA
+Cone Health Moses Cone Hospital ,Upper Limbs,HCPCS 73206,"CTA scan of shoulder, arm, or hand",$691.68,WA
+Cone Health Moses Cone Hospital ,Upper Limbs,HCPCS 73202,"CT scan of shoulder, arm, or hand with and without contrast",$858.00,WA
+Cone Health Moses Cone Hospital ,Upper Limbs,HCPCS 73201,"CT scan of shoulder, arm, or hand with contrast",$760.76,WA
+Cone Health Moses Cone Hospital ,Upper Limbs,HCPCS 73200,"CT scan of shoulder, arm, or hand without contrast",$697.84,WA
+Cone Health Moses Cone Hospital ,Upper Limbs,HCPCS 73220,"MRI scan of shoulder, arm, or hand with and without contrast","$1,679.48",WA
+Cone Health Moses Cone Hospital ,Upper Limbs,HCPCS 73218,"MRI scan of shoulder, arm, or hand without contrast","$1,136.96",WA
+Cone Health Moses Cone Hospital ,Upper Limbs,HCPCS 73223,"MRI scan of shoulder, elbow, or hand joints with and without contrast","$1,793.00",WA
+Cone Health Moses Cone Hospital ,Upper Limbs,HCPCS 73222,"MRI scan of shoulder, elbow, or hand joints with contrast","$1,411.08",WA
+Cone Health Moses Cone Hospital ,Upper Limbs,HCPCS 73000,"X-ray clavicle, 1 view",$117.04,WA
+Cone Health Moses Cone Hospital ,Upper Limbs,HCPCS 73070,"X-ray elbow, 2 views",$136.84,WA
+Cone Health Moses Cone Hospital ,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$148.28,WA
+Cone Health Moses Cone Hospital ,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$102.08,WA
+Cone Health Moses Cone Hospital ,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$133.76,WA
+Cone Health Moses Cone Hospital ,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$124.52,WA
+Cone Health Moses Cone Hospital ,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$145.64,WA
+Cone Health Moses Cone Hospital ,Upper Limbs,HCPCS 73060,"X-ray humerus, 1 view",$135.08,WA
+Cone Health Moses Cone Hospital ,Upper Limbs,HCPCS 73010,"X-ray scapula, 1 view",$112.20,WA
+Cone Health Moses Cone Hospital ,Upper Limbs,HCPCS 73020,"X-ray shoulder, 1 view",$139.92,WA
+Cone Health Moses Cone Hospital ,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$155.76,WA
+Cone Health Moses Cone Hospital ,Upper Limbs,HCPCS 73050,X-ray shoulder (AC joint),$148.28,WA
+Cone Health Moses Cone Hospital ,Upper Limbs,HCPCS 73040,X-ray shoulder (arthrogram) with dye,$359.48,WA
+Cone Health Moses Cone Hospital ,Upper Limbs,HCPCS 73092,X-ray upper extremities for infant,$80.96,WA
+Cone Health Moses Cone Hospital ,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$112.64,WA
+Cone Health Moses Cone Hospital ,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$141.24,WA
+Cone Health Moses Cone Hospital ,Upper Limbs,HCPCS 73115,X-ray wriste (arthrogram) with dye,$220.44,WA
+Cone Health Moses Cone Hospital ,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$12,071.95",WA
+Cone Health Moses Cone Hospital ,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,$605.88,WA
+Cone Health Moses Cone Hospital ,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$102.96,WA
+Cone Health Moses Cone Hospital ,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$91.96,WA
+Cone Health Moses Cone Hospital ,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$15,073.28",WA
+Cone Health Moses Cone Hospital ,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$1,485.00",WA
+Cone Health Moses Cone Hospital ,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$2,152.48",WA
+Cone Health Moses Cone Hospital ,Breast,HCPCS 19101,Biopsy of breast,$492.36,WA
+Cone Health Moses Cone Hospital ,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,"$38,169.62",WA
+Cone Health Moses Cone Hospital ,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),"$109,247.30",WA
+Cone Health Moses Cone Hospital ,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$65,062.08",WA
+Cone Health Moses Cone Hospital ,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$53,729.45",WA
+Cone Health Moses Cone Hospital ,Cardiac,HCPCS 33249,Defibrillator complete system,"$5,732.76",WA
+Cone Health Moses Cone Hospital ,Cardiac,HCPCS 33240,Defibrillator generator,"$9,817.72",WA
+Cone Health Moses Cone Hospital ,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$4,213.00",WA
+Cone Health Moses Cone Hospital ,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$3,455.76",WA
+Cone Health Moses Cone Hospital ,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$195.36,WA
+Cone Health Moses Cone Hospital ,Cardiac,HCPCS 36470,"Elimination of spider veins (sclerotherapy), single vein",$194.92,WA
+Cone Health Moses Cone Hospital ,Cardiac,MSDRG 217,Heart valve procedure with catheterization (complications),"$93,193.26",WA
+Cone Health Moses Cone Hospital ,Cardiac,MSDRG 220,Heart valve procedure without catheterization (complications),"$70,365.99",WA
+Cone Health Moses Cone Hospital ,Cardiac,MSDRG 219,Heart valve procedure without catheterization (major complications),"$79,670.98",WA
+Cone Health Moses Cone Hospital ,Cardiac,MSDRG 221,Heart valve procedure without catheterization (no complications),"$41,801.39",WA
+Cone Health Moses Cone Hospital ,Cardiac,MSDRG 266,Heart valve replacement (major complications),"$69,389.63",WA
+Cone Health Moses Cone Hospital ,Cardiac,MSDRG 267,Heart valve replacement (no complications),"$67,962.11",WA
+Cone Health Moses Cone Hospital ,Cardiac,MSDRG 247,Implant drug-eluting stent,"$22,721.87",WA
+Cone Health Moses Cone Hospital ,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$19,187.79",WA
+Cone Health Moses Cone Hospital ,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$2,561.68",WA
+Cone Health Moses Cone Hospital ,Cardiac,HCPCS 36475,"Varicose vein treatment (vein ablation), 1 vein","$1,648.24",WA
+Cone Health Moses Cone Hospital ,Cardiac,HCPCS 36415,Venipuncture (blood collection),$12.32,WA
+Cone Health Moses Cone Hospital ,Digestive,HCPCS 43235,EGD,"$1,004.08",WA
+Cone Health Moses Cone Hospital ,Digestive,HCPCS 43239,EGD and biopsy,"$1,033.56",WA
+Cone Health Moses Cone Hospital ,Digestive,MSDRG 331,Major small and large bowel procedures,"$15,254.31",WA
+Cone Health Moses Cone Hospital ,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$8,438.39",WA
+Cone Health Moses Cone Hospital ,General,HCPCS 55700,Biopsy of prostate gland,"$1,268.08",WA
+Cone Health Moses Cone Hospital ,General,HCPCS 10060,Drainage of Abscess,$159.28,WA
+Cone Health Moses Cone Hospital ,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$176.88,WA
+Cone Health Moses Cone Hospital ,General,HCPCS 69200,Removal of foreign body from ear canal,$67.76,WA
+Cone Health Moses Cone Hospital ,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$196.24,WA
+Cone Health Moses Cone Hospital ,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$239.36,WA
+Cone Health Moses Cone Hospital ,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$195.36,WA
+Cone Health Moses Cone Hospital ,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$183.48,WA
+Cone Health Moses Cone Hospital ,Head,HCPCS 67028,Injection of drug into the eye,$244.62,WA
+Cone Health Moses Cone Hospital ,Musculoskeletal,HCPCS 29130,Application of finger splint,$137.28,WA
+Cone Health Moses Cone Hospital ,Musculoskeletal,HCPCS 29105,Application of full arm cast/splint,$349.36,WA
+Cone Health Moses Cone Hospital ,Musculoskeletal,HCPCS 29505,Application of full leg cast/splint,$214.72,WA
+Cone Health Moses Cone Hospital ,Musculoskeletal,HCPCS 29125,Application of short arm cast/splint (below the elbow),$170.72,WA
+Cone Health Moses Cone Hospital ,Musculoskeletal,HCPCS 29515,Application of short leg cast/splint (below the knee),$214.72,WA
+Cone Health Moses Cone Hospital ,Musculoskeletal,HCPCS 20605,Arthrocentesis (drainage) of joint,$297.00,WA
+Cone Health Moses Cone Hospital ,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$34,316.05",WA
+Cone Health Moses Cone Hospital ,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$336.60,WA
+Cone Health Moses Cone Hospital ,Musculoskeletal,MSDRG 482,Hip and femur procedures,"$15,234.52",WA
+Cone Health Moses Cone Hospital ,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$899.36,WA
+Cone Health Moses Cone Hospital ,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$1,320.00",WA
+Cone Health Moses Cone Hospital ,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$737.00,WA
+Cone Health Moses Cone Hospital ,Musculoskeletal,HCPCS 27200,Insertion of Breathing Tube Using an Endoscope,$146.52,WA
+Cone Health Moses Cone Hospital ,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$328.24,WA
+Cone Health Moses Cone Hospital ,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$18,593.01",WA
+Cone Health Moses Cone Hospital ,Musculoskeletal,MSDRG 494,"Lower extremity and humerus procedures except hip, foot and femur","$15,522.47",WA
+Cone Health Moses Cone Hospital ,Musculoskeletal,MSDRG 483,Major joint/limb reattachment procedure of upper extremities,"$24,861.32",WA
+Cone Health Moses Cone Hospital ,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$18,330.65",WA
+Cone Health Moses Cone Hospital ,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$33,068.24",WA
+Cone Health Moses Cone Hospital ,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$195.36,WA
+Cone Health Moses Cone Hospital ,Musculoskeletal,HCPCS 25605,Treatment of forearm (radius or ulna) fracture,$567.60,WA
+Cone Health Moses Cone Hospital ,Musculoskeletal,HCPCS 23650,Treatment of shoulder dislocation without anesthesia,$233.64,WA
+Cone Health Moses Cone Hospital ,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$9,006.66",WA
+Cone Health Moses Cone Hospital ,Obstetrics,HCPCS 59400,Routine obstetric care,"$2,452.12",WA
+Cone Health Moses Cone Hospital ,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$6,189.90",WA
+Cone Health Moses Cone Hospital ,Skin,MSDRG 581,"Other skin, subcutaneous tissue and breast procedures","$8,815.91",WA
+Cone Health Moses Cone Hospital ,Soft Tissue,HCPCS 97597,Debridement of open wound,$151.80,WA
+Cone Health Moses Cone Hospital ,Soft Tissue,HCPCS 97602,Non-selective debridement,$96.80,WA
+Cone Health Moses Cone Hospital ,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$56.76,WA
+Cone Health Moses Cone Hospital ,Vascular,HCPCS 36416,Collection of capillary blood specimen,$14.52,WA
+Cone Health Moses Cone Hospital ,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),$990.00,WA
+Cone Health Moses Cone Hospital ,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$2,508.00",WA
+Cone Health Moses Cone Hospital ,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,058.64",WA

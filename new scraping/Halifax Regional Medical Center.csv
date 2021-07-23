@@ -1,0 +1,337 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Halifax Regional Medical Center,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$68.60,WA
+Halifax Regional Medical Center,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,232.70",WA
+Halifax Regional Medical Center,Emergency Care,HCPCS 99281,Emergency Level 1,$114.80,WA
+Halifax Regional Medical Center,Emergency Care,HCPCS 99282,Emergency Level 2,$217.70,WA
+Halifax Regional Medical Center,Emergency Care,HCPCS 99283,Emergency Level 3,$355.60,WA
+Halifax Regional Medical Center,Emergency Care,HCPCS 99284,Emergency Level 4,$650.30,WA
+Halifax Regional Medical Center,Emergency Care,HCPCS 99285,Emergency Level 5,$969.50,WA
+Halifax Regional Medical Center,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$230.30,WA
+Halifax Regional Medical Center,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$338.80,WA
+Halifax Regional Medical Center,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$180.60,WA
+Halifax Regional Medical Center,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$35.00,WA
+Halifax Regional Medical Center,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$49.00,WA
+Halifax Regional Medical Center,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$154.70,WA
+Halifax Regional Medical Center,Speech,HCPCS 92507,Speech Therapy,$64.40,WA
+Halifax Regional Medical Center,Speech,HCPCS 92610,Swallow Evaluation,$119.70,WA
+Halifax Regional Medical Center,Speech,HCPCS 92526,Swallow Treatment,$116.20,WA
+Halifax Regional Medical Center,Blood,HCPCS 85018,"Blood count, hemoglobin",$35.70,WA
+Halifax Regional Medical Center,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$35.70,WA
+Halifax Regional Medical Center,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$158.90,WA
+Halifax Regional Medical Center,Blood,HCPCS 85610,"Blood test, clotting time",$35.70,WA
+Halifax Regional Medical Center,Blood,HCPCS 85730,Coagulation assessment blood test,$40.60,WA
+Halifax Regional Medical Center,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$87.50,WA
+Halifax Regional Medical Center,Blood,HCPCS 85027,"Complete blood count, automated",$39.90,WA
+Halifax Regional Medical Center,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$13.30,WA
+Halifax Regional Medical Center,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$136.50,WA
+Halifax Regional Medical Center,Blood,HCPCS 85660,Red blood cell sickling measurement,$59.50,WA
+Halifax Regional Medical Center,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$223.30,WA
+Halifax Regional Medical Center,Blood,HCPCS 85041,"Red blood count, automated test",$37.10,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$44.10,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$182.00,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 82040,Albumin (protein) level,$21.70,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$63.00,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$148.40,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 82140,Ammonia level,$18.90,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 82150,Amylase (enzyme) level,$97.30,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$133.00,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 84439,Assay of free thyroxine,$69.30,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$24.50,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 82248,Bilirubin level (Direct),$55.30,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 82247,Bilirubin level (Total),$50.40,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 82565,Blood creatinine level,$56.00,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$57.40,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 84132,Blood potassium level,$24.50,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 84295,Blood sodium level,$39.20,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$16.80,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$81.20,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 82310,Calcium level,$48.30,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$18.20,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$116.90,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 82465,Cholesterol level,$49.00,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 82525,Copper level,$42.70,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 82533,Cortisol Measurement,$67.90,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 84681,C-peptide (protein) level,$94.50,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$73.50,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$69.30,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$71.40,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 82746,Folic acid; serum,$50.40,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$77.70,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$71.40,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$48.30,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$160.30,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$158.90,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$90.30,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 83718,HDL cholesterol level,$34.30,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 83020,Hemoglobin Measurement,$160.30,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$199.50,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$44.80,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 83525,Insulin Measurement; Total,$65.10,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 82330,Ionized Calcium,$63.00,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 83550,Iron Binding Capacity,$33.60,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 83540,Iron level,$28.00,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$38.50,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$71.40,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$63.00,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$135.80,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 83735,Magnesium Level,$25.20,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$44.80,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$81.20,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 83970,Parathormone,$51.80,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$30.10,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$231.70,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$137.20,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$100.10,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 82270,Stool analysis for blood,$29.40,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 84403,Testosterone (hormone) level,$126.00,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 84402,Testosterone Level; Free,$84.70,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$28.70,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$67.20,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$49.00,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 84155,"Total protein level, blood",$91.70,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$58.10,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 84166,Troponin (protein) analysis,$102.90,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 84560,Uric acid level,$28.00,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 84550,"Uric acid level, blood",$46.20,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 82340,Urine calcium level,$27.30,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 82436,Urine chloride level,$11.20,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$50.40,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$23.10,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$54.60,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 84133,Urine potassium level,$24.50,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 84300,Urine sodium level,$30.80,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$45.50,WA
+Halifax Regional Medical Center,Chemistry,HCPCS 84630,Zinc level,$18.90,WA
+Halifax Regional Medical Center,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$116.90,WA
+Halifax Regional Medical Center,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$92.40,WA
+Halifax Regional Medical Center,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$23.80,WA
+Halifax Regional Medical Center,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$168.00,WA
+Halifax Regional Medical Center,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$277.90,WA
+Halifax Regional Medical Center,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$118.30,WA
+Halifax Regional Medical Center,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$207.20,WA
+Halifax Regional Medical Center,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$193.90,WA
+Halifax Regional Medical Center,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$165.90,WA
+Halifax Regional Medical Center,Immunology,HCPCS 86140,Measurement C-reactive protein,$90.30,WA
+Halifax Regional Medical Center,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$219.80,WA
+Halifax Regional Medical Center,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$118.30,WA
+Halifax Regional Medical Center,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$96.60,WA
+Halifax Regional Medical Center,Immunology,HCPCS 86431,Rheumatoid factor level,$81.20,WA
+Halifax Regional Medical Center,Immunology,HCPCS 86592,Syphilis Detection Test,$60.90,WA
+Halifax Regional Medical Center,Immunology,HCPCS 86361,T cell count and ratio,$184.10,WA
+Halifax Regional Medical Center,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$93.10,WA
+Halifax Regional Medical Center,Immunology,HCPCS 86359,"T cells count, total",$57.40,WA
+Halifax Regional Medical Center,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$21.00,WA
+Halifax Regional Medical Center,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$114.80,WA
+Halifax Regional Medical Center,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$88.90,WA
+Halifax Regional Medical Center,Microbiology,HCPCS 87491,Chlamydia Test,$40.60,WA
+Halifax Regional Medical Center,Microbiology,HCPCS 87635,Covid-19 current infection test,$139.30,WA
+Halifax Regional Medical Center,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$157.50,WA
+Halifax Regional Medical Center,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$138.60,WA
+Halifax Regional Medical Center,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$158.20,WA
+Halifax Regional Medical Center,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$329.70,WA
+Halifax Regional Medical Center,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$40.60,WA
+Halifax Regional Medical Center,Microbiology,HCPCS 87517,Hepatitis B Detection,$75.60,WA
+Halifax Regional Medical Center,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$81.90,WA
+Halifax Regional Medical Center,Microbiology,HCPCS 86735,Mumps virus antibody test,$48.30,WA
+Halifax Regional Medical Center,Microbiology,HCPCS 86747,Parvovirus antibody test,$47.60,WA
+Halifax Regional Medical Center,Microbiology,HCPCS 86762,Rubella virus antibody test,$62.30,WA
+Halifax Regional Medical Center,Microbiology,HCPCS 86765,Rubeola virus antibody test,$48.30,WA
+Halifax Regional Medical Center,Microbiology,HCPCS 87177,Smear for Parasites,$136.50,WA
+Halifax Regional Medical Center,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$25.20,WA
+Halifax Regional Medical Center,Microbiology,HCPCS 87045,Stool Culture,$88.20,WA
+Halifax Regional Medical Center,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$91.70,WA
+Halifax Regional Medical Center,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$85.40,WA
+Halifax Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$375.20,WA
+Halifax Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$118.30,WA
+Halifax Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$184.10,WA
+Halifax Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$137.20,WA
+Halifax Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$151.90,WA
+Halifax Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$154.70,WA
+Halifax Regional Medical Center,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$242.20,WA
+Halifax Regional Medical Center,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$92.40,WA
+Halifax Regional Medical Center,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$51.80,WA
+Halifax Regional Medical Center,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$134.40,WA
+Halifax Regional Medical Center,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$46.90,WA
+Halifax Regional Medical Center,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$165.90,WA
+Halifax Regional Medical Center,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$38.50,WA
+Halifax Regional Medical Center,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$54.60,WA
+Halifax Regional Medical Center,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$64.40,WA
+Halifax Regional Medical Center,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$23.80,WA
+Halifax Regional Medical Center,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$180.60,WA
+Halifax Regional Medical Center,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$67.90,WA
+Halifax Regional Medical Center,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$95.20,WA
+Halifax Regional Medical Center,Transfusion,HCPCS 86900,"Blood Typing, ABO",$48.30,WA
+Halifax Regional Medical Center,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$23.10,WA
+Halifax Regional Medical Center,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$70.00,WA
+Halifax Regional Medical Center,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$68.60,WA
+Halifax Regional Medical Center,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$37.10,WA
+Halifax Regional Medical Center,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$126.00,WA
+Halifax Regional Medical Center,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$60.90,WA
+Halifax Regional Medical Center,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$22.40,WA
+Halifax Regional Medical Center,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$72.80,WA
+Halifax Regional Medical Center,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$72.80,WA
+Halifax Regional Medical Center,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$123.90,WA
+Halifax Regional Medical Center,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$123.90,WA
+Halifax Regional Medical Center,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$156.80,WA
+Halifax Regional Medical Center,Cardiovascular,HCPCS 93975,Ultrasound Heart,$223.30,WA
+Halifax Regional Medical Center,Pulmonary,HCPCS 94640,Aerosol Treatment,$22.40,WA
+Halifax Regional Medical Center,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$119.70,WA
+Halifax Regional Medical Center,Pulmonary,HCPCS 94010,Spirometry - breathing test,$224.70,WA
+Halifax Regional Medical Center,Sleep,HCPCS 95810,Sleep study,"$2,739.10",WA
+Halifax Regional Medical Center,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$35.00,WA
+Halifax Regional Medical Center,Breast,HCPCS 77067,Mammogram Screening,$174.30,WA
+Halifax Regional Medical Center,Breast,HCPCS 77066,Mammography of both breasts,$350.00,WA
+Halifax Regional Medical Center,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,645.70",WA
+Halifax Regional Medical Center,CT Scan,HCPCS 74175,CT angiography scan of abdomen,$403.90,WA
+Halifax Regional Medical Center,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,295.70",WA
+Halifax Regional Medical Center,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,048.60",WA
+Halifax Regional Medical Center,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,700.30",WA
+Halifax Regional Medical Center,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$4,084.50",WA
+Halifax Regional Medical Center,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$3,656.80",WA
+Halifax Regional Medical Center,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,713.20",WA
+Halifax Regional Medical Center,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,786.40",WA
+Halifax Regional Medical Center,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$2,089.50",WA
+Halifax Regional Medical Center,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,645.70",WA
+Halifax Regional Medical Center,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,193.50",WA
+Halifax Regional Medical Center,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$170.80,WA
+Halifax Regional Medical Center,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,430.10",WA
+Halifax Regional Medical Center,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,954.40",WA
+Halifax Regional Medical Center,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,020.20",WA
+Halifax Regional Medical Center,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,390.20",WA
+Halifax Regional Medical Center,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$1,768.20",WA
+Halifax Regional Medical Center,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,066.40",WA
+Halifax Regional Medical Center,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$3,139.50",WA
+Halifax Regional Medical Center,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$1,449.70",WA
+Halifax Regional Medical Center,MRI,HCPCS 74182,MRI scan of abdomen with contrast,"$1,159.90",WA
+Halifax Regional Medical Center,MRI,HCPCS 74181,MRI scan of abdomen without contrast,$970.90,WA
+Halifax Regional Medical Center,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,710.40",WA
+Halifax Regional Medical Center,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,799.70",WA
+Halifax Regional Medical Center,Chest,HCPCS 76706,"Ultrasound, aortic aneurisum screening",$121.80,WA
+Halifax Regional Medical Center,Hip and Pelvis,HCPCS 76815,"Ultrasound, pregnancy",$287.00,WA
+Halifax Regional Medical Center,Hip and Pelvis,HCPCS 76801,"Ultrasound, pregnancy, 1st trimester",$453.60,WA
+Halifax Regional Medical Center,Hip and Pelvis,HCPCS 76816,"Ultrasound, pregnancy, transabdominal (pelvis)",$453.60,WA
+Halifax Regional Medical Center,Hip and Pelvis,HCPCS 76817,"Ultrasound, pregnancy, transvaginal",$557.20,WA
+Halifax Regional Medical Center,Hip and Pelvis,HCPCS 76870,"Ultrasound, testical",$495.60,WA
+Halifax Regional Medical Center,Other Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$453.60,WA
+Halifax Regional Medical Center,Other Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$431.20,WA
+Halifax Regional Medical Center,Other Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$442.40,WA
+Halifax Regional Medical Center,Other Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$175.00,WA
+Halifax Regional Medical Center,Other Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$625.80,WA
+Halifax Regional Medical Center,Other Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$543.20,WA
+Halifax Regional Medical Center,Other Ultrasound,HCPCS 76857,Ultrasound of pelvis,$53.20,WA
+Halifax Regional Medical Center,Other Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$507.50,WA
+Halifax Regional Medical Center,Other Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$597.80,WA
+Halifax Regional Medical Center,Abdomen,HCPCS 74018,"X-ray abdomen, 1 view",$249.20,WA
+Halifax Regional Medical Center,Abdomen,HCPCS 74019,"X-ray abdomen, 2 views",$282.80,WA
+Halifax Regional Medical Center,Chest,HCPCS 71270,CT scan of chest with and without contrast,"$1,926.40",WA
+Halifax Regional Medical Center,Chest,HCPCS 71552,MRI scan of chest with and without contrast,"$1,369.20",WA
+Halifax Regional Medical Center,Chest,HCPCS 71550,MRI scan of chest without contrast,$515.20,WA
+Halifax Regional Medical Center,Chest,HCPCS 76642,Ultrasound of breast (single),$378.00,WA
+Halifax Regional Medical Center,Chest,HCPCS 76604,Ultrasound of chest,$333.90,WA
+Halifax Regional Medical Center,Chest,HCPCS 71048,"X-ray chest, 4 or more views",$234.50,WA
+Halifax Regional Medical Center,Chest,HCPCS 71130,"X-ray chest joints (sternoclavicular), 3 or more views",$164.50,WA
+Halifax Regional Medical Center,Chest,HCPCS 71120,"X-ray chest (sternum), 2 or more views",$161.70,WA
+Halifax Regional Medical Center,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$420.70,WA
+Halifax Regional Medical Center,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$251.30,WA
+Halifax Regional Medical Center,Chest,HCPCS 71046,X-ray of chest; 2 Views,$241.50,WA
+Halifax Regional Medical Center,Chest,HCPCS 71045,X-ray of chest; Single View,$130.20,WA
+Halifax Regional Medical Center,Head and Neck,HCPCS 70496,CTA scan of head,$216.30,WA
+Halifax Regional Medical Center,Head and Neck,HCPCS 70498,CTA scan of neck,$403.90,WA
+Halifax Regional Medical Center,Head and Neck,HCPCS 70481,CT scan of eye with contrast,"$2,101.40",WA
+Halifax Regional Medical Center,Head and Neck,HCPCS 70480,CT scan of eye without contrast,"$1,561.70",WA
+Halifax Regional Medical Center,Head and Neck,HCPCS 70487,CT scan of face with contrast,"$1,961.40",WA
+Halifax Regional Medical Center,Head and Neck,HCPCS 70488,CT scan of face without contrast,"$1,491.00",WA
+Halifax Regional Medical Center,Head and Neck,HCPCS 70460,CT scan of head with contrast,"$1,428.70",WA
+Halifax Regional Medical Center,Head and Neck,HCPCS 70470,CT scan of head without contrast,"$1,735.30",WA
+Halifax Regional Medical Center,Head and Neck,HCPCS 70492,CT scan of neck with contrast,"$1,730.40",WA
+Halifax Regional Medical Center,Head and Neck,HCPCS 70490,CT scan of neck without contrast,"$1,114.40",WA
+Halifax Regional Medical Center,Head and Neck,HCPCS 70547,MRA scan of neck without contrast,$965.30,WA
+Halifax Regional Medical Center,Head and Neck,HCPCS 70552,MRI scan of brain with contrast,$469.70,WA
+Halifax Regional Medical Center,Head and Neck,HCPCS 70543,"MRI scan of orbits, face, or soft tissue of the neck with and without contrast","$2,310.00",WA
+Halifax Regional Medical Center,Head and Neck,HCPCS 70540,"MRI scan of orbits, face, or soft tissue of the neck without contrast","$1,864.80",WA
+Halifax Regional Medical Center,Head and Neck,HCPCS 70336,MRI scan of the jaw joint,"$1,486.80",WA
+Halifax Regional Medical Center,Head and Neck,HCPCS 70330,"X-ray jaw joint, bilateral",$303.80,WA
+Halifax Regional Medical Center,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$353.50,WA
+Halifax Regional Medical Center,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$240.80,WA
+Halifax Regional Medical Center,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$380.80,WA
+Halifax Regional Medical Center,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$330.40,WA
+Halifax Regional Medical Center,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$180.60,WA
+Halifax Regional Medical Center,Head and Neck,HCPCS 70200,"X-ray orbits, 4 or more views",$305.90,WA
+Halifax Regional Medical Center,Head and Neck,HCPCS 70220,"X-ray sinuses, 3 views",$347.20,WA
+Halifax Regional Medical Center,Head and Neck,HCPCS 70250,"X-ray skull, less than 4 views",$361.20,WA
+Halifax Regional Medical Center,Hip and Pelvis,HCPCS 72194,CT scan of pelvis with and without contrast,"$2,202.20",WA
+Halifax Regional Medical Center,Hip and Pelvis,HCPCS 72192,CT scan of pelvis without contrast,"$1,418.90",WA
+Halifax Regional Medical Center,Hip and Pelvis,HCPCS 72197,MRI scan of pelvis with and without contrast,"$2,612.40",WA
+Halifax Regional Medical Center,Hip and Pelvis,HCPCS 72196,MRI scan of pelvis with contrast,$874.30,WA
+Halifax Regional Medical Center,Hip and Pelvis,HCPCS 72195,MRI scan of pelvis without contrast,"$1,802.50",WA
+Halifax Regional Medical Center,Hip and Pelvis,HCPCS 73521,"X-ray hip and pelvis, 2 views",$366.10,WA
+Halifax Regional Medical Center,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$84.70,WA
+Halifax Regional Medical Center,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$231.00,WA
+Halifax Regional Medical Center,Hip and Pelvis,HCPCS 72190,"X-ray pelvis, 3 or more views",$100.10,WA
+Halifax Regional Medical Center,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$287.00,WA
+Halifax Regional Medical Center,Hip and Pelvis,HCPCS 72220,"X-ray sacrum and coccyx, 2 or more views",$194.60,WA
+Halifax Regional Medical Center,Lower Limbs,HCPCS 73700,"CT scan of hip, knee, ankle, or foot without contrast",-,WA
+Halifax Regional Medical Center,Lower Limbs,HCPCS 73722,"MRI scan of hip, knee, ankle, or foot joints with contrast","$2,364.60",WA
+Halifax Regional Medical Center,Lower Limbs,HCPCS 73565,X-ray Both Knees,$84.70,WA
+Halifax Regional Medical Center,Other X-ray,HCPCS 74300,"X-ray bile ducts, with contrast (cholangiogram)",$719.60,WA
+Halifax Regional Medical Center,Other X-ray,HCPCS 74430,"X-ray, bladder (cystogram), 3 or more views",$413.00,WA
+Halifax Regional Medical Center,Other X-ray,HCPCS 74280,"X-ray colon, with contrast",$664.30,WA
+Halifax Regional Medical Center,Other X-ray,HCPCS 74270,"X-ray colon, with or without contrast",$487.90,WA
+Halifax Regional Medical Center,Other X-ray,HCPCS 74220,X-ray esophagus (esophogram),$466.90,WA
+Halifax Regional Medical Center,Other X-ray,HCPCS 76010,X-ray of child for foreign body,$63.00,WA
+Halifax Regional Medical Center,Other X-ray,HCPCS 74250,X-ray small bowel,$449.40,WA
+Halifax Regional Medical Center,Other X-ray,HCPCS 74450,"X-ray, urethra (retrograde urethrogram)",$443.10,WA
+Halifax Regional Medical Center,Spine,HCPCS 72125,CT scan of cervical spine without contrast,"$1,443.40",WA
+Halifax Regional Medical Center,Spine,HCPCS 72133,CT scan of lumbar spine with and without contrast,"$1,081.50",WA
+Halifax Regional Medical Center,Spine,HCPCS 72132,CT scan of lumbar spine with contrast,$721.00,WA
+Halifax Regional Medical Center,Spine,HCPCS 72131,CT scan of lumbar spine without contrast,$462.00,WA
+Halifax Regional Medical Center,Spine,HCPCS 72128,CT scan of thoracic spine without contrast,"$1,443.40",WA
+Halifax Regional Medical Center,Spine,HCPCS 72142,MRI scan of cervical spine with contrast,"$1,446.20",WA
+Halifax Regional Medical Center,Spine,HCPCS 72149,MRI scan of lumbar spine with contrast,"$1,446.20",WA
+Halifax Regional Medical Center,Spine,HCPCS 72157,MRI scan of thoracic spine with and without contrast,"$3,067.40",WA
+Halifax Regional Medical Center,Spine,HCPCS 72147,MRI scan of thoracic spine with contrast,"$1,446.20",WA
+Halifax Regional Medical Center,Spine,HCPCS 72020,"X-ray cervical spine, 1 view",$296.80,WA
+Halifax Regional Medical Center,Spine,HCPCS 72050,"X-ray cervical spine, 4 or more views",$350.70,WA
+Halifax Regional Medical Center,Spine,HCPCS 72120,"X-ray complete lumbar spine (with bending), 2-3 views",$490.00,WA
+Halifax Regional Medical Center,Spine,HCPCS 72114,"X-ray complete lumbar spine (with bending), 6 or more views",$100.10,WA
+Halifax Regional Medical Center,Spine,HCPCS 72081,"X-ray entire spine (scoliosis evaluation), 1 view",$534.80,WA
+Halifax Regional Medical Center,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$394.80,WA
+Halifax Regional Medical Center,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$284.20,WA
+Halifax Regional Medical Center,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$426.30,WA
+Halifax Regional Medical Center,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$241.50,WA
+Halifax Regional Medical Center,Spine,HCPCS 72070,"X-ray thoracic spine, 2 views",$287.00,WA
+Halifax Regional Medical Center,Upper Limbs,HCPCS 73222,"MRI scan of shoulder, elbow, or hand joints with contrast","$1,539.30",WA
+Halifax Regional Medical Center,Upper Limbs,HCPCS 73050,X-ray shoulder (AC joint),$261.10,WA
+Halifax Regional Medical Center,Upper Limbs,HCPCS 73092,X-ray upper extremities for infant,$100.10,WA
+Halifax Regional Medical Center,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$142.10,WA
+Halifax Regional Medical Center,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$7,024.50",WA
+Halifax Regional Medical Center,Auditory System,HCPCS 69210,"Removal of ear wax, both ears",$105.70,WA
+Halifax Regional Medical Center,Cardiac,HCPCS 33249,Defibrillator complete system,"$40,737.90",WA
+Halifax Regional Medical Center,Cardiac,HCPCS 33240,Defibrillator generator,"$33,213.60",WA
+Halifax Regional Medical Center,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$5,735.80",WA
+Halifax Regional Medical Center,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$197.40,WA
+Halifax Regional Medical Center,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$8,964.20",WA
+Halifax Regional Medical Center,Cardiac,HCPCS 36415,Venipuncture (blood collection),$30.10,WA
+Halifax Regional Medical Center,Digestive,HCPCS 47000,Biopsy of liver via needle inserted into skin,"$1,399.30",WA
+Halifax Regional Medical Center,Digestive,HCPCS 49083,Paracentesis (removal of fluid from peritoneal cavity) with guidance,$576.10,WA
+Halifax Regional Medical Center,Digestive,HCPCS 49082,Paracentesis (removal of fluid from peritoneal cavity) without guidance,$491.40,WA
+Halifax Regional Medical Center,Female Reproductive,HCPCS 59025,Fetal non-stress test,$265.30,WA
+Halifax Regional Medical Center,General,HCPCS 10060,Drainage of Abscess,$224.70,WA
+Halifax Regional Medical Center,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$251.30,WA
+Halifax Regional Medical Center,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$170.10,WA
+Halifax Regional Medical Center,Musculoskeletal,HCPCS 29130,Application of finger splint,$88.90,WA
+Halifax Regional Medical Center,Musculoskeletal,HCPCS 29105,Application of full arm cast/splint,$81.90,WA
+Halifax Regional Medical Center,Musculoskeletal,HCPCS 29505,Application of full leg cast/splint,$81.90,WA
+Halifax Regional Medical Center,Musculoskeletal,HCPCS 29125,Application of short arm cast/splint (below the elbow),$100.80,WA
+Halifax Regional Medical Center,Musculoskeletal,HCPCS 29515,Application of short leg cast/splint (below the knee),$81.90,WA
+Halifax Regional Medical Center,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$142.10,WA
+Halifax Regional Medical Center,Skin,HCPCS 10061,Drainage of skin abscess,$241.50,WA
+Halifax Regional Medical Center,Skin,HCPCS 10160,Image-guided puncture and drainage (aspiration) of cyst or abscess,$242.20,WA
+Halifax Regional Medical Center,Skin,HCPCS 10080,Incision and drainage of pilonidal (near tailbone) cyst,$237.30,WA
+Halifax Regional Medical Center,Skin,HCPCS 10140,Surgical drainage of hematoma or seroma,$996.80,WA
+Halifax Regional Medical Center,Soft Tissue,HCPCS 97597,Debridement of open wound,$164.50,WA
+Halifax Regional Medical Center,Soft Tissue,HCPCS 97602,Non-selective debridement,$80.50,WA
+Halifax Regional Medical Center,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$87.50,WA
+Halifax Regional Medical Center,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,057.00",WA
+Halifax Regional Medical Center,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$700.00,WA
+Halifax Regional Medical Center,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,$326.90,WA

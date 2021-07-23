@@ -1,0 +1,340 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Mission Hospital Inc,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes","$1,950.70",WA
+Mission Hospital Inc,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$4,143.74",WA
+Mission Hospital Inc,Emergency Care,HCPCS 99281,Emergency Level 1,$198.40,WA
+Mission Hospital Inc,Emergency Care,HCPCS 99282,Emergency Level 2,$458.57,WA
+Mission Hospital Inc,Emergency Care,HCPCS 99283,Emergency Level 3,"$1,020.49",WA
+Mission Hospital Inc,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,696.46",WA
+Mission Hospital Inc,Emergency Care,HCPCS 99285,Emergency Level 5,"$3,098.30",WA
+Mission Hospital Inc,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$122.36,WA
+Mission Hospital Inc,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$122.36,WA
+Mission Hospital Inc,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$122.36,WA
+Mission Hospital Inc,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$66.53,WA
+Mission Hospital Inc,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$57.02,WA
+Mission Hospital Inc,Psychology,HCPCS 90853,Group psychotherapy,$352.84,WA
+Mission Hospital Inc,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$173.45,WA
+Mission Hospital Inc,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$84.35,WA
+Mission Hospital Inc,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$111.67,WA
+Mission Hospital Inc,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$167.51,WA
+Mission Hospital Inc,Blood,HCPCS 85018,"Blood count, hemoglobin",$48.38,WA
+Mission Hospital Inc,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$59.94,WA
+Mission Hospital Inc,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$109.62,WA
+Mission Hospital Inc,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$235.98,WA
+Mission Hospital Inc,Blood,HCPCS 85610,"Blood test, clotting time",$60.07,WA
+Mission Hospital Inc,Blood,HCPCS 85730,Coagulation assessment blood test,$116.10,WA
+Mission Hospital Inc,Blood,HCPCS 85027,"Complete blood count, automated",$21.14,WA
+Mission Hospital Inc,Blood,HCPCS 85008,Microscopic examination for white blood cells,$50.76,WA
+Mission Hospital Inc,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$346.14,WA
+Mission Hospital Inc,Blood,HCPCS 85660,Red blood cell sickling measurement,$144.72,WA
+Mission Hospital Inc,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit","$1,618.38",WA
+Mission Hospital Inc,Blood,HCPCS 85041,"Red blood count, automated test",$57.24,WA
+Mission Hospital Inc,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$337.50,WA
+Mission Hospital Inc,Chemistry,HCPCS 82040,Albumin (protein) level,$70.74,WA
+Mission Hospital Inc,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$179.28,WA
+Mission Hospital Inc,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$193.86,WA
+Mission Hospital Inc,Chemistry,HCPCS 82140,Ammonia level,$188.46,WA
+Mission Hospital Inc,Chemistry,HCPCS 82150,Amylase (enzyme) level,$95.04,WA
+Mission Hospital Inc,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$196.02,WA
+Mission Hospital Inc,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$221.37,WA
+Mission Hospital Inc,Chemistry,HCPCS 84439,Assay of free thyroxine,$153.90,WA
+Mission Hospital Inc,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$176.04,WA
+Mission Hospital Inc,Chemistry,HCPCS 82248,Bilirubin level (Direct),$84.24,WA
+Mission Hospital Inc,Chemistry,HCPCS 82247,Bilirubin level (Total),$85.32,WA
+Mission Hospital Inc,Chemistry,HCPCS 82565,Blood creatinine level,$14.46,WA
+Mission Hospital Inc,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$81.54,WA
+Mission Hospital Inc,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$19.92,WA
+Mission Hospital Inc,Chemistry,HCPCS 84132,Blood potassium level,$72.87,WA
+Mission Hospital Inc,Chemistry,HCPCS 84295,Blood sodium level,$105.68,WA
+Mission Hospital Inc,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$100.98,WA
+Mission Hospital Inc,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$173.88,WA
+Mission Hospital Inc,Chemistry,HCPCS 82310,Calcium level,$69.66,WA
+Mission Hospital Inc,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$97.74,WA
+Mission Hospital Inc,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$250.56,WA
+Mission Hospital Inc,Chemistry,HCPCS 82465,Cholesterol level,$12.24,WA
+Mission Hospital Inc,Chemistry,HCPCS 82525,Copper level,$634.50,WA
+Mission Hospital Inc,Chemistry,HCPCS 82533,Cortisol Measurement,$214.92,WA
+Mission Hospital Inc,Chemistry,HCPCS 84681,C-peptide (protein) level,$240.30,WA
+Mission Hospital Inc,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$110.70,WA
+Mission Hospital Inc,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$139.32,WA
+Mission Hospital Inc,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$340.74,WA
+Mission Hospital Inc,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$180.36,WA
+Mission Hospital Inc,Chemistry,HCPCS 82746,Folic acid; serum,$40.05,WA
+Mission Hospital Inc,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$130.68,WA
+Mission Hospital Inc,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$104.76,WA
+Mission Hospital Inc,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$31.15,WA
+Mission Hospital Inc,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$243.00,WA
+Mission Hospital Inc,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$273.78,WA
+Mission Hospital Inc,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$209.52,WA
+Mission Hospital Inc,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$322.92,WA
+Mission Hospital Inc,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$187.38,WA
+Mission Hospital Inc,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$211.68,WA
+Mission Hospital Inc,Chemistry,HCPCS 83525,Insulin Measurement; Total,$191.70,WA
+Mission Hospital Inc,Chemistry,HCPCS 82330,Ionized Calcium,$157.96,WA
+Mission Hospital Inc,Chemistry,HCPCS 83540,Iron level,$521.10,WA
+Mission Hospital Inc,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$92.34,WA
+Mission Hospital Inc,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$133.92,WA
+Mission Hospital Inc,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$77.22,WA
+Mission Hospital Inc,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$194.94,WA
+Mission Hospital Inc,Chemistry,HCPCS 83021,Liver function blood test panel,$207.36,WA
+Mission Hospital Inc,Chemistry,HCPCS 83735,Magnesium Level,$17.80,WA
+Mission Hospital Inc,Chemistry,HCPCS 82542,Mass spectrometry,$96.12,WA
+Mission Hospital Inc,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$44.82,WA
+Mission Hospital Inc,Chemistry,HCPCS 83918,Organic acid level,$447.66,WA
+Mission Hospital Inc,Chemistry,HCPCS 83945,Oxalate level,$178.20,WA
+Mission Hospital Inc,Chemistry,HCPCS 83970,Parathormone,$420.66,WA
+Mission Hospital Inc,Chemistry,HCPCS 84157,Prealbumin (protein) level,$96.66,WA
+Mission Hospital Inc,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$179.28,WA
+Mission Hospital Inc,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$277.56,WA
+Mission Hospital Inc,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$266.22,WA
+Mission Hospital Inc,Chemistry,HCPCS 82270,Stool analysis for blood,$76.76,WA
+Mission Hospital Inc,Chemistry,HCPCS 84403,Testosterone (hormone) level,$239.22,WA
+Mission Hospital Inc,Chemistry,HCPCS 84402,Testosterone Level; Free,$254.88,WA
+Mission Hospital Inc,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$313.74,WA
+Mission Hospital Inc,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$97.20,WA
+Mission Hospital Inc,Chemistry,HCPCS 84155,"Total protein level, blood",$80.46,WA
+Mission Hospital Inc,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$83.16,WA
+Mission Hospital Inc,Chemistry,HCPCS 84166,Troponin (protein) analysis,$266.22,WA
+Mission Hospital Inc,Chemistry,HCPCS 84560,Uric acid level,$82.62,WA
+Mission Hospital Inc,Chemistry,HCPCS 84550,"Uric acid level, blood",$71.82,WA
+Mission Hospital Inc,Chemistry,HCPCS 82340,Urine calcium level,$80.46,WA
+Mission Hospital Inc,Chemistry,HCPCS 82436,Urine chloride level,$90.18,WA
+Mission Hospital Inc,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$141.48,WA
+Mission Hospital Inc,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$136.08,WA
+Mission Hospital Inc,Chemistry,HCPCS 84133,Urine potassium level,$88.02,WA
+Mission Hospital Inc,Chemistry,HCPCS 84300,Urine sodium level,$89.10,WA
+Mission Hospital Inc,Chemistry,HCPCS 84591,Vitamin B-6 level,$484.38,WA
+Mission Hospital Inc,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$342.90,WA
+Mission Hospital Inc,Chemistry,HCPCS 84630,Zinc level,$168.48,WA
+Mission Hospital Inc,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$222.48,WA
+Mission Hospital Inc,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$191.70,WA
+Mission Hospital Inc,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$196.02,WA
+Mission Hospital Inc,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$66.96,WA
+Mission Hospital Inc,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$38.93,WA
+Mission Hospital Inc,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$227.34,WA
+Mission Hospital Inc,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$174.96,WA
+Mission Hospital Inc,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$208.44,WA
+Mission Hospital Inc,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$230.58,WA
+Mission Hospital Inc,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$151.74,WA
+Mission Hospital Inc,Immunology,HCPCS 86140,Measurement C-reactive protein,$135.00,WA
+Mission Hospital Inc,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$79.38,WA
+Mission Hospital Inc,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$127.98,WA
+Mission Hospital Inc,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$212.76,WA
+Mission Hospital Inc,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$73.98,WA
+Mission Hospital Inc,Immunology,HCPCS 86431,Rheumatoid factor level,$125.82,WA
+Mission Hospital Inc,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$127.98,WA
+Mission Hospital Inc,Immunology,HCPCS 86580,Skin test for tuberculosis,$29.70,WA
+Mission Hospital Inc,Immunology,HCPCS 86592,Syphilis Detection Test,$118.80,WA
+Mission Hospital Inc,Immunology,HCPCS 86361,T cell count and ratio,$382.86,WA
+Mission Hospital Inc,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$367.20,WA
+Mission Hospital Inc,Immunology,HCPCS 86359,"T cells count, total",$382.86,WA
+Mission Hospital Inc,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$207.36,WA
+Mission Hospital Inc,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$149.58,WA
+Mission Hospital Inc,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$595.62,WA
+Mission Hospital Inc,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$158.22,WA
+Mission Hospital Inc,Microbiology,HCPCS 87491,Chlamydia Test,$179.28,WA
+Mission Hospital Inc,Microbiology,HCPCS 87635,Covid-19 current infection test,$56.44,WA
+Mission Hospital Inc,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$259.20,WA
+Mission Hospital Inc,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$44.28,WA
+Mission Hospital Inc,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$757.62,WA
+Mission Hospital Inc,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$173.88,WA
+Mission Hospital Inc,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$868.86,WA
+Mission Hospital Inc,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$179.28,WA
+Mission Hospital Inc,Microbiology,HCPCS 87517,Hepatitis B Detection,$569.70,WA
+Mission Hospital Inc,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$239.22,WA
+Mission Hospital Inc,Microbiology,HCPCS 87624,HPV Detection,$160.38,WA
+Mission Hospital Inc,Microbiology,HCPCS 86735,Mumps virus antibody test,$207.36,WA
+Mission Hospital Inc,Microbiology,HCPCS 86747,Parvovirus antibody test,$238.14,WA
+Mission Hospital Inc,Microbiology,HCPCS 86762,Rubella virus antibody test,$157.14,WA
+Mission Hospital Inc,Microbiology,HCPCS 86765,Rubeola virus antibody test,$139.32,WA
+Mission Hospital Inc,Microbiology,HCPCS 87207,Smear for infectious agents,$130.68,WA
+Mission Hospital Inc,Microbiology,HCPCS 87177,Smear for Parasites,$109.62,WA
+Mission Hospital Inc,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$135.00,WA
+Mission Hospital Inc,Microbiology,HCPCS 87045,Stool Culture,$198.18,WA
+Mission Hospital Inc,Microbiology,HCPCS 87880,Strep Test,$118.48,WA
+Mission Hospital Inc,Microbiology,HCPCS 87804,Test for Influenza Virus,$71.82,WA
+Mission Hospital Inc,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$120.96,WA
+Mission Hospital Inc,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$35.60,WA
+Mission Hospital Inc,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$679.86,WA
+Mission Hospital Inc,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$207.36,WA
+Mission Hospital Inc,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$7.79,WA
+Mission Hospital Inc,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$191.70,WA
+Mission Hospital Inc,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$213.84,WA
+Mission Hospital Inc,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$174.96,WA
+Mission Hospital Inc,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$239.22,WA
+Mission Hospital Inc,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$312.66,WA
+Mission Hospital Inc,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$298.62,WA
+Mission Hospital Inc,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$157.14,WA
+Mission Hospital Inc,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$88.02,WA
+Mission Hospital Inc,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$349.38,WA
+Mission Hospital Inc,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$139.32,WA
+Mission Hospital Inc,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$198.18,WA
+Mission Hospital Inc,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$168.48,WA
+Mission Hospital Inc,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$333.72,WA
+Mission Hospital Inc,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$198.18,WA
+Mission Hospital Inc,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$214.92,WA
+Mission Hospital Inc,Transfusion,HCPCS 86900,"Blood Typing, ABO",$64.80,WA
+Mission Hospital Inc,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$62.64,WA
+Mission Hospital Inc,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$194.94,WA
+Mission Hospital Inc,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$240.30,WA
+Mission Hospital Inc,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$120.96,WA
+Mission Hospital Inc,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$162.54,WA
+Mission Hospital Inc,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$2.22,WA
+Mission Hospital Inc,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$102.06,WA
+Mission Hospital Inc,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$152.40,WA
+Mission Hospital Inc,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$1,509.95",WA
+Mission Hospital Inc,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$277.99,WA
+Mission Hospital Inc,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$152.06,WA
+Mission Hospital Inc,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$2,929.87",WA
+Mission Hospital Inc,Cardiovascular,HCPCS 93975,Ultrasound Heart,"$1,653.70",WA
+Mission Hospital Inc,Pulmonary,HCPCS 94640,Aerosol Treatment,$424.90,WA
+Mission Hospital Inc,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$160.38,WA
+Mission Hospital Inc,Pulmonary,HCPCS 94618,Pulmonary stress test,$222.16,WA
+Mission Hospital Inc,Pulmonary,HCPCS 94010,Spirometry - breathing test,$316.01,WA
+Mission Hospital Inc,Sleep,HCPCS 95810,Sleep study,"$3,359.66",WA
+Mission Hospital Inc,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$45.55,WA
+Mission Hospital Inc,Breast,HCPCS 77067,Mammogram Screening,$322.48,WA
+Mission Hospital Inc,Breast,HCPCS 77066,Mammography of both breasts,$329.67,WA
+Mission Hospital Inc,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$4,222.17",WA
+Mission Hospital Inc,CT Scan,HCPCS 74175,CT angiography scan of abdomen,"$4,222.17",WA
+Mission Hospital Inc,CT Scan,HCPCS 74174,CTA scan of abdomen,"$8,376.02",WA
+Mission Hospital Inc,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$2,602.59",WA
+Mission Hospital Inc,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$2,694.90",WA
+Mission Hospital Inc,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$2,694.90",WA
+Mission Hospital Inc,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$5,208.79",WA
+Mission Hospital Inc,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$6,523.87",WA
+Mission Hospital Inc,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$5,247.15",WA
+Mission Hospital Inc,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$3,110.89",WA
+Mission Hospital Inc,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$3,796.60",WA
+Mission Hospital Inc,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$3,110.89",WA
+Mission Hospital Inc,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$2,602.59",WA
+Mission Hospital Inc,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$3,366.23",WA
+Mission Hospital Inc,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$3,110.89",WA
+Mission Hospital Inc,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$3,697.10",WA
+Mission Hospital Inc,MRI,HCPCS 72146,MRI chest spine without contrast material,"$4,024.37",WA
+Mission Hospital Inc,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$4,024.37",WA
+Mission Hospital Inc,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$5,706.29",WA
+Mission Hospital Inc,MRI,HCPCS 72141,MRI neck spine without contrast material,"$4,024.37",WA
+Mission Hospital Inc,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$4,835.96",WA
+Mission Hospital Inc,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$5,753.04",WA
+Mission Hospital Inc,MRI,HCPCS 74182,MRI scan of abdomen with contrast,"$3,341.06",WA
+Mission Hospital Inc,MRI,HCPCS 74181,MRI scan of abdomen without contrast,"$4,234.16",WA
+Mission Hospital Inc,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$5,567.23",WA
+Mission Hospital Inc,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$3,934.46",WA
+Mission Hospital Inc,Other Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$908.69,WA
+Mission Hospital Inc,Other Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$920.68,WA
+Mission Hospital Inc,Other Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$941.06,WA
+Mission Hospital Inc,Other Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$846.35,WA
+Mission Hospital Inc,Other Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,"$1,057.34",WA
+Mission Hospital Inc,Other Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete","$1,324.67",WA
+Mission Hospital Inc,Other Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$853.55,WA
+Mission Hospital Inc,Other Ultrasound,HCPCS 76857,Ultrasound of pelvis,$504.69,WA
+Mission Hospital Inc,Other Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete","$1,056.14",WA
+Mission Hospital Inc,Other Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$823.58,WA
+Mission Hospital Inc,Other Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$706.09,WA
+Mission Hospital Inc,Abdomen,HCPCS 74018,"X-ray abdomen, 1 view",$324.87,WA
+Mission Hospital Inc,Abdomen,HCPCS 74019,"X-ray abdomen, 2 views",$273.33,WA
+Mission Hospital Inc,Abdomen,HCPCS 74021,"X-ray abdomen, 3 or more views",$324.87,WA
+Mission Hospital Inc,Chest,HCPCS 71270,CT scan of chest with and without contrast,"$3,796.60",WA
+Mission Hospital Inc,Chest,HCPCS 71552,MRI scan of chest with and without contrast,"$4,916.28",WA
+Mission Hospital Inc,Chest,HCPCS 71550,MRI scan of chest without contrast,"$3,235.56",WA
+Mission Hospital Inc,Chest,HCPCS 76642,Ultrasound of breast (single),$227.77,WA
+Mission Hospital Inc,Chest,HCPCS 76604,Ultrasound of chest,$656.94,WA
+Mission Hospital Inc,Chest,HCPCS 71047,"X-ray chest, 2 views",$406.39,WA
+Mission Hospital Inc,Chest,HCPCS 71048,"X-ray chest, 4 or more views",$478.32,WA
+Mission Hospital Inc,Chest,HCPCS 71130,"X-ray chest joints (sternoclavicular), 3 or more views",$321.28,WA
+Mission Hospital Inc,Chest,HCPCS 71120,"X-ray chest (sternum), 2 or more views",$282.92,WA
+Mission Hospital Inc,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$740.86,WA
+Mission Hospital Inc,Chest,HCPCS 71046,X-ray of chest; 2 Views,$445.95,WA
+Mission Hospital Inc,Chest,HCPCS 71045,X-ray of chest; Single View,$378.82,WA
+Mission Hospital Inc,Chest,HCPCS 71110,"X-ray ribs, bilateral, 3 or more views",$558.64,WA
+Mission Hospital Inc,Chest,HCPCS 71101,"X-ray ribs, unilateral, 3 or more views",$570.63,WA
+Mission Hospital Inc,Head and Neck,HCPCS 70496,CTA scan of head,"$4,222.17",WA
+Mission Hospital Inc,Head and Neck,HCPCS 70498,CTA scan of neck,"$4,067.53",WA
+Mission Hospital Inc,Head and Neck,HCPCS 70481,CT scan of eye with contrast,"$3,600.00",WA
+Mission Hospital Inc,Head and Neck,HCPCS 70480,CT scan of eye without contrast,"$3,110.89",WA
+Mission Hospital Inc,Head and Neck,HCPCS 70487,CT scan of face with contrast,"$3,120.48",WA
+Mission Hospital Inc,Head and Neck,HCPCS 70488,CT scan of face without contrast,"$3,488.51",WA
+Mission Hospital Inc,Head and Neck,HCPCS 70460,CT scan of head with contrast,"$2,908.29",WA
+Mission Hospital Inc,Head and Neck,HCPCS 70470,CT scan of head without contrast,"$3,900.90",WA
+Mission Hospital Inc,Head and Neck,HCPCS 70492,CT scan of neck with contrast,"$3,796.60",WA
+Mission Hospital Inc,Head and Neck,HCPCS 70490,CT scan of neck without contrast,"$2,602.59",WA
+Mission Hospital Inc,Head and Neck,HCPCS 70546,MRA scan of head with and without contrast,"$3,981.21",WA
+Mission Hospital Inc,Head and Neck,HCPCS 70545,MRA scan of head with contrast,"$2,881.92",WA
+Mission Hospital Inc,Head and Neck,HCPCS 70549,MRA scan of neck with and without contrast,"$5,133.26",WA
+Mission Hospital Inc,Head and Neck,HCPCS 70548,MRA scan of neck with contrast,"$4,067.53",WA
+Mission Hospital Inc,Head and Neck,HCPCS 70547,MRA scan of neck without contrast,"$3,131.27",WA
+Mission Hospital Inc,Head and Neck,HCPCS 70552,MRI scan of brain with contrast,"$4,246.15",WA
+Mission Hospital Inc,Head and Neck,HCPCS 70543,"MRI scan of orbits, face, or soft tissue of the neck with and without contrast","$5,247.15",WA
+Mission Hospital Inc,Head and Neck,HCPCS 70542,"MRI scan of orbits, face, or soft tissue of the neck with contrast","$2,666.13",WA
+Mission Hospital Inc,Head and Neck,HCPCS 70540,"MRI scan of orbits, face, or soft tissue of the neck without contrast","$2,491.11",WA
+Mission Hospital Inc,Head and Neck,HCPCS 70336,MRI scan of the jaw joint,"$2,117.67",WA
+Mission Hospital Inc,Head and Neck,HCPCS 70030,"X-ray eye, foreign body",$111.49,WA
+Mission Hospital Inc,Head and Neck,HCPCS 70140,"X-ray facial bones, 1-2 views",$310.49,WA
+Mission Hospital Inc,Head and Neck,HCPCS 70330,"X-ray jaw joint, bilateral",$334.47,WA
+Mission Hospital Inc,Head and Neck,HCPCS 70100,"X-ray jaw, less than 4 views",$297.30,WA
+Mission Hospital Inc,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$647.35,WA
+Mission Hospital Inc,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$357.24,WA
+Mission Hospital Inc,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$520.28,WA
+Mission Hospital Inc,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$539.46,WA
+Mission Hospital Inc,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$296.10,WA
+Mission Hospital Inc,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$296.10,WA
+Mission Hospital Inc,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$656.94,WA
+Mission Hospital Inc,Head and Neck,HCPCS 70200,"X-ray orbits, 4 or more views",$529.87,WA
+Mission Hospital Inc,Head and Neck,HCPCS 70220,"X-ray sinuses, 3 views",$620.98,WA
+Mission Hospital Inc,Head and Neck,HCPCS 70250,"X-ray skull, less than 4 views",$311.69,WA
+Mission Hospital Inc,Hip and Pelvis,HCPCS 72191,CTA scan of pelvis,"$3,504.09",WA
+Mission Hospital Inc,Hip and Pelvis,HCPCS 72194,CT scan of pelvis with and without contrast,"$3,498.10",WA
+Mission Hospital Inc,Hip and Pelvis,HCPCS 72192,CT scan of pelvis without contrast,"$2,602.59",WA
+Mission Hospital Inc,Hip and Pelvis,HCPCS 72197,MRI scan of pelvis with and without contrast,"$5,694.30",WA
+Mission Hospital Inc,Hip and Pelvis,HCPCS 72196,MRI scan of pelvis with contrast,"$1,982.82",WA
+Mission Hospital Inc,Hip and Pelvis,HCPCS 72195,MRI scan of pelvis without contrast,"$3,650.35",WA
+Mission Hospital Inc,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views","$1,012.99",WA
+Mission Hospital Inc,Hip and Pelvis,HCPCS 73521,"X-ray hip and pelvis, 2 views",$101.90,WA
+Mission Hospital Inc,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$443.56,WA
+Mission Hospital Inc,Hip and Pelvis,HCPCS 72190,"X-ray pelvis, 3 or more views",$507.09,WA
+Mission Hospital Inc,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$489.11,WA
+Mission Hospital Inc,Hip and Pelvis,HCPCS 72220,"X-ray sacrum and coccyx, 2 or more views",$282.92,WA
+Mission Hospital Inc,Lower Limbs,HCPCS 73723,"MRI scan of hip, knee, ankle, or foot joints with and without contrast","$5,544.45",WA
+Mission Hospital Inc,Lower Limbs,HCPCS 73565,X-ray Both Knees,$398.00,WA
+Mission Hospital Inc,Other X-ray,HCPCS 74220,X-ray esophagus (esophogram),$587.41,WA
+Mission Hospital Inc,Other X-ray,HCPCS 74230,"X-ray, swallowing function study",$595.80,WA
+Mission Hospital Inc,Spine,HCPCS 72127,CT scan of cervical spine with and without contrast,"$4,116.68",WA
+Mission Hospital Inc,Spine,HCPCS 72126,CT scan of cervical spine with contrast,"$3,934.46",WA
+Mission Hospital Inc,Spine,HCPCS 72125,CT scan of cervical spine without contrast,"$2,904.69",WA
+Mission Hospital Inc,Spine,HCPCS 72133,CT scan of lumbar spine with and without contrast,"$4,116.68",WA
+Mission Hospital Inc,Spine,HCPCS 72132,CT scan of lumbar spine with contrast,"$3,948.85",WA
+Mission Hospital Inc,Spine,HCPCS 72131,CT scan of lumbar spine without contrast,"$2,602.59",WA
+Mission Hospital Inc,Spine,HCPCS 72130,CT scan of thoracic spine with and without contrast,"$4,116.68",WA
+Mission Hospital Inc,Spine,HCPCS 72129,CT scan of thoracic spine with contrast,"$3,948.85",WA
+Mission Hospital Inc,Spine,HCPCS 72128,CT scan of thoracic spine without contrast,"$2,602.59",WA
+Mission Hospital Inc,Spine,HCPCS 72142,MRI scan of cervical spine with contrast,"$4,276.12",WA
+Mission Hospital Inc,Spine,HCPCS 72149,MRI scan of lumbar spine with contrast,"$4,276.12",WA
+Mission Hospital Inc,Spine,HCPCS 72157,MRI scan of thoracic spine with and without contrast,"$5,489.31",WA
+Mission Hospital Inc,Spine,HCPCS 72147,MRI scan of thoracic spine with contrast,"$4,276.12",WA
+Mission Hospital Inc,Spine,HCPCS 72020,"X-ray cervical spine, 1 view",$326.07,WA
+Mission Hospital Inc,Spine,HCPCS 72050,"X-ray cervical spine, 4 or more views",$782.82,WA
+Mission Hospital Inc,Spine,HCPCS 72120,"X-ray complete lumbar spine (with bending), 2-3 views",$568.23,WA
+Mission Hospital Inc,Spine,HCPCS 72114,"X-ray complete lumbar spine (with bending), 6 or more views",$610.19,WA
+Mission Hospital Inc,Spine,HCPCS 72081,"X-ray entire spine (scoliosis evaluation), 1 view",$587.41,WA
+Mission Hospital Inc,Spine,HCPCS 72082,"X-ray entire spine (scoliosis evaluation), 2 views",$511.89,WA
+Mission Hospital Inc,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$573.03,WA
+Mission Hospital Inc,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$326.07,WA
+Mission Hospital Inc,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$899.10,WA
+Mission Hospital Inc,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$668.93,WA
+Mission Hospital Inc,Spine,HCPCS 72080,"X-ray thoracic-lumbar spine, 2 views",$326.07,WA
+Mission Hospital Inc,Spine,HCPCS 72070,"X-ray thoracic spine, 2 views",$326.07,WA
+Mission Hospital Inc,Spine,HCPCS 72072,"X-ray thoracic spine, 3 views",$567.03,WA
+Mission Hospital Inc,Spine,HCPCS 72074,"X-ray thoracic spine, 4 or more views",$583.82,WA
+Mission Hospital Inc,Upper Limbs,HCPCS 73218,"MRI scan of shoulder, arm, or hand without contrast","$5,346.65",WA
+Mission Hospital Inc,Upper Limbs,HCPCS 73020,"X-ray shoulder, 1 view",$33.57,WA
+Mission Hospital Inc,Upper Limbs,HCPCS 73050,X-ray shoulder (AC joint),$421.98,WA
+Mission Hospital Inc,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$882.68,WA
+Mission Hospital Inc,Cardiac,HCPCS 36415,Venipuncture (blood collection),$45.61,WA
+Mission Hospital Inc,General,HCPCS 10060,Drainage of Abscess,$555.88,WA
+Mission Hospital Inc,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$969.26,WA
+Mission Hospital Inc,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$436.08,WA
+Mission Hospital Inc,Soft Tissue,HCPCS 97597,Debridement of open wound,$578.26,WA
+Mission Hospital Inc,Soft Tissue,HCPCS 97602,Non-selective debridement,$264.52,WA
+Mission Hospital Inc,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$256.52,WA
+Mission Hospital Inc,Vascular,HCPCS 36416,Collection of capillary blood specimen,$39.50,WA
+Mission Hospital Inc,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,108.80",WA

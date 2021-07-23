@@ -1,0 +1,530 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Highsmith-Rainey Specialty Hospital,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$340.42,WA
+Highsmith-Rainey Specialty Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$2,114.40",WA
+Highsmith-Rainey Specialty Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$160.50,WA
+Highsmith-Rainey Specialty Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$316.20,WA
+Highsmith-Rainey Specialty Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$689.70,WA
+Highsmith-Rainey Specialty Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,099.80",WA
+Highsmith-Rainey Specialty Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,681.05",WA
+Highsmith-Rainey Specialty Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$243.59,WA
+Highsmith-Rainey Specialty Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$295.58,WA
+Highsmith-Rainey Specialty Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$147.55,WA
+Highsmith-Rainey Specialty Hospital,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$158.53,WA
+Highsmith-Rainey Specialty Hospital,Psychology,HCPCS 90846,"Family psychotherapy, not including patient, 50 min",$193.11,WA
+Highsmith-Rainey Specialty Hospital,Psychology,HCPCS 90853,Group psychotherapy,$220.06,WA
+Highsmith-Rainey Specialty Hospital,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$117.00,WA
+Highsmith-Rainey Specialty Hospital,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$143.84,WA
+Highsmith-Rainey Specialty Hospital,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$182.69,WA
+Highsmith-Rainey Specialty Hospital,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$215.77,WA
+Highsmith-Rainey Specialty Hospital,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$325.63,WA
+Highsmith-Rainey Specialty Hospital,Speech,HCPCS 92507,Speech Therapy,$152.96,WA
+Highsmith-Rainey Specialty Hospital,Speech,HCPCS 92610,Swallow Evaluation,$177.29,WA
+Highsmith-Rainey Specialty Hospital,Speech,HCPCS 92526,Swallow Treatment,$119.25,WA
+Highsmith-Rainey Specialty Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$6.00,WA
+Highsmith-Rainey Specialty Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$33.00,WA
+Highsmith-Rainey Specialty Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$66.00,WA
+Highsmith-Rainey Specialty Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$139.95,WA
+Highsmith-Rainey Specialty Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$48.75,WA
+Highsmith-Rainey Specialty Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$70.12,WA
+Highsmith-Rainey Specialty Hospital,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$48.60,WA
+Highsmith-Rainey Specialty Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$101.10,WA
+Highsmith-Rainey Specialty Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$61.80,WA
+Highsmith-Rainey Specialty Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$25.35,WA
+Highsmith-Rainey Specialty Hospital,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$80.70,WA
+Highsmith-Rainey Specialty Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$32.40,WA
+Highsmith-Rainey Specialty Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$253.80,WA
+Highsmith-Rainey Specialty Hospital,Blood,HCPCS 85041,"Red blood count, automated test",$6.60,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$42.60,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$78.97,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$33.00,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$39.45,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$92.25,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82140,Ammonia level,$83.55,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$92.85,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$83.55,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$177.00,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$91.80,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$44.70,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$30.60,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$91.95,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$48.00,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$54.00,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$42.30,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 84132,Blood potassium level,$52.80,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 84295,Blood sodium level,$52.80,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$54.15,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$151.65,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82310,Calcium level,$49.95,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$108.60,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$34.69,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82465,Cholesterol level,$54.00,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82525,Copper level,$94.80,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$172.35,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$27.06,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$65.25,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$165.30,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$34.20,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$136.35,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$153.30,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$169.80,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$66.75,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$80.10,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$54.75,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$63.45,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$72.30,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$26.57,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 83718,HDL cholesterol level,$67.80,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 83020,Hemoglobin Measurement,$22.50,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$68.70,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$36.42,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$19.65,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$16.50,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$90.60,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$71.25,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 83540,Iron level,$59.10,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$49.95,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$68.40,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$87.60,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$54.00,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$152.85,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$52.35,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 83735,Magnesium Level,$65.25,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$228.60,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$18.75,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$14.95,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 83945,Oxalate level,$34.95,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 83970,Parathormone,$166.35,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$48.60,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$44.10,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$20.40,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$124.65,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$15.90,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$25.20,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$34.80,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$43.30,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$10.82,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$248.70,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$41.70,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$51.15,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$52.80,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$26.70,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 84560,Uric acid level,$35.40,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$59.40,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82340,Urine calcium level,$11.40,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82436,Urine chloride level,$57.90,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$64.20,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$91.80,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$20.40,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 84133,Urine potassium level,$57.90,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 84300,Urine sodium level,$53.55,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 84591,Vitamin B-6 level,$16.20,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$51.15,WA
+Highsmith-Rainey Specialty Hospital,Chemistry,HCPCS 84630,Zinc level,$20.91,WA
+Highsmith-Rainey Specialty Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$19.95,WA
+Highsmith-Rainey Specialty Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$81.75,WA
+Highsmith-Rainey Specialty Hospital,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$19.95,WA
+Highsmith-Rainey Specialty Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$48.15,WA
+Highsmith-Rainey Specialty Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$84.60,WA
+Highsmith-Rainey Specialty Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$19.95,WA
+Highsmith-Rainey Specialty Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$23.62,WA
+Highsmith-Rainey Specialty Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$23.62,WA
+Highsmith-Rainey Specialty Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$18.70,WA
+Highsmith-Rainey Specialty Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$27.00,WA
+Highsmith-Rainey Specialty Hospital,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$58.50,WA
+Highsmith-Rainey Specialty Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$50.55,WA
+Highsmith-Rainey Specialty Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$29.25,WA
+Highsmith-Rainey Specialty Hospital,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$17.70,WA
+Highsmith-Rainey Specialty Hospital,Immunology,HCPCS 86161,Measurement of complement (immune system proteins),$85.80,WA
+Highsmith-Rainey Specialty Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$22.88,WA
+Highsmith-Rainey Specialty Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$87.60,WA
+Highsmith-Rainey Specialty Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$17.10,WA
+Highsmith-Rainey Specialty Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$71.85,WA
+Highsmith-Rainey Specialty Hospital,Immunology,HCPCS 86580,Skin test for tuberculosis,$20.10,WA
+Highsmith-Rainey Specialty Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$51.75,WA
+Highsmith-Rainey Specialty Hospital,Immunology,HCPCS 86361,T cell count and ratio,$166.35,WA
+Highsmith-Rainey Specialty Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$191.10,WA
+Highsmith-Rainey Specialty Hospital,Immunology,HCPCS 86359,"T cells count, total",$53.40,WA
+Highsmith-Rainey Specialty Hospital,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$27.06,WA
+Highsmith-Rainey Specialty Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$135.30,WA
+Highsmith-Rainey Specialty Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$24.00,WA
+Highsmith-Rainey Specialty Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$139.95,WA
+Highsmith-Rainey Specialty Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$30.79,WA
+Highsmith-Rainey Specialty Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$34.20,WA
+Highsmith-Rainey Specialty Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$115.80,WA
+Highsmith-Rainey Specialty Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$198.45,WA
+Highsmith-Rainey Specialty Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$13.20,WA
+Highsmith-Rainey Specialty Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$319.20,WA
+Highsmith-Rainey Specialty Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$139.95,WA
+Highsmith-Rainey Specialty Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$153.00,WA
+Highsmith-Rainey Specialty Hospital,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$48.60,WA
+Highsmith-Rainey Specialty Hospital,Microbiology,HCPCS 87624,HPV Detection,$51.00,WA
+Highsmith-Rainey Specialty Hospital,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$149.40,WA
+Highsmith-Rainey Specialty Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$18.30,WA
+Highsmith-Rainey Specialty Hospital,Microbiology,HCPCS 86747,Parvovirus antibody test,$31.73,WA
+Highsmith-Rainey Specialty Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$31.49,WA
+Highsmith-Rainey Specialty Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$18.30,WA
+Highsmith-Rainey Specialty Hospital,Microbiology,HCPCS 87207,Smear for infectious agents,$14.40,WA
+Highsmith-Rainey Specialty Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$15.90,WA
+Highsmith-Rainey Specialty Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$63.60,WA
+Highsmith-Rainey Specialty Hospital,Microbiology,HCPCS 87045,Stool Culture,$159.90,WA
+Highsmith-Rainey Specialty Hospital,Microbiology,HCPCS 87880,Strep Test,$108.60,WA
+Highsmith-Rainey Specialty Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$36.60,WA
+Highsmith-Rainey Specialty Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$69.45,WA
+Highsmith-Rainey Specialty Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$19.95,WA
+Highsmith-Rainey Specialty Hospital,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$90.00,WA
+Highsmith-Rainey Specialty Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$80.20,WA
+Highsmith-Rainey Specialty Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$121.50,WA
+Highsmith-Rainey Specialty Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$144.60,WA
+Highsmith-Rainey Specialty Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$84.00,WA
+Highsmith-Rainey Specialty Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$143.10,WA
+Highsmith-Rainey Specialty Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$99.60,WA
+Highsmith-Rainey Specialty Hospital,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$168.00,WA
+Highsmith-Rainey Specialty Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$173.70,WA
+Highsmith-Rainey Specialty Hospital,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$19.35,WA
+Highsmith-Rainey Specialty Hospital,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$29.85,WA
+Highsmith-Rainey Specialty Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$79.95,WA
+Highsmith-Rainey Specialty Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$195.00,WA
+Highsmith-Rainey Specialty Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$27.60,WA
+Highsmith-Rainey Specialty Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$102.90,WA
+Highsmith-Rainey Specialty Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$58.35,WA
+Highsmith-Rainey Specialty Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$104.25,WA
+Highsmith-Rainey Specialty Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$63.45,WA
+Highsmith-Rainey Specialty Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$118.80,WA
+Highsmith-Rainey Specialty Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$211.20,WA
+Highsmith-Rainey Specialty Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$84.38,WA
+Highsmith-Rainey Specialty Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$46.80,WA
+Highsmith-Rainey Specialty Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$101.37,WA
+Highsmith-Rainey Specialty Hospital,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$79.53,WA
+Highsmith-Rainey Specialty Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$57.60,WA
+Highsmith-Rainey Specialty Hospital,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$37.80,WA
+Highsmith-Rainey Specialty Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$70.20,WA
+Highsmith-Rainey Specialty Hospital,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$35.78,WA
+Highsmith-Rainey Specialty Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$31.20,WA
+Highsmith-Rainey Specialty Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$60.00,WA
+Highsmith-Rainey Specialty Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$60.26,WA
+Highsmith-Rainey Specialty Hospital,Cardiovascular,MSDRG 310,Cardiac arrhythmia / irregular heartbeat,"$8,407.23",WA
+Highsmith-Rainey Specialty Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report","$1,082.10",WA
+Highsmith-Rainey Specialty Hospital,Cardiovascular,MSDRG 313,Chest pain,"$11,640.24",WA
+Highsmith-Rainey Specialty Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$138.00,WA
+Highsmith-Rainey Specialty Hospital,Cardiovascular,MSDRG 282,Heart attack,"$18,775.51",WA
+Highsmith-Rainey Specialty Hospital,Cardiovascular,MSDRG 293,Heart failure and shock,"$8,991.87",WA
+Highsmith-Rainey Specialty Hospital,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$33.71,WA
+Highsmith-Rainey Specialty Hospital,Cardiovascular,MSDRG 305,Hypertension,"$10,979.18",WA
+Highsmith-Rainey Specialty Hospital,Cardiovascular,MSDRG 312,Loss of conciousness and collapse,"$12,142.34",WA
+Highsmith-Rainey Specialty Hospital,Cardiovascular,MSDRG 208,Respiratory system diagnosis with ventilator support <=96 hours,"$374,052.19",WA
+Highsmith-Rainey Specialty Hospital,Cardiovascular,MSDRG 207,Respiratory system diagnosis with ventilator support >96 hours,"$403,905.64",WA
+Highsmith-Rainey Specialty Hospital,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$1,082.63",WA
+Highsmith-Rainey Specialty Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,$464.40,WA
+Highsmith-Rainey Specialty Hospital,Other Non-Surgical Procedures,MSDRG 203,Bronchitis and asthma,"$4,311.49",WA
+Highsmith-Rainey Specialty Hospital,Other Non-Surgical Procedures,MSDRG 603,Cellulitis,"$8,607.52",WA
+Highsmith-Rainey Specialty Hospital,Other Non-Surgical Procedures,MSDRG 639,Diabetes,"$6,011.53",WA
+Highsmith-Rainey Specialty Hospital,Other Non-Surgical Procedures,MSDRG 440,Disorders of pancreas,"$8,258.19",WA
+Highsmith-Rainey Specialty Hospital,Other Non-Surgical Procedures,MSDRG 392,"Esophagitis, gastroenteritis and miscellaneous digestive disorders","$9,980.87",WA
+Highsmith-Rainey Specialty Hospital,Other Non-Surgical Procedures,MSDRG 536,Fractures of hip and pelvis,"$11,194.46",WA
+Highsmith-Rainey Specialty Hospital,Other Non-Surgical Procedures,MSDRG 563,"Fracture, sprain, strain and dislocation except femur, hip, pelvis and thigh","$11,873.03",WA
+Highsmith-Rainey Specialty Hospital,Other Non-Surgical Procedures,MSDRG 379,Gastrointestinal hemorrhage,"$9,299.48",WA
+Highsmith-Rainey Specialty Hospital,Other Non-Surgical Procedures,MSDRG 390,Gastrointestinal obstruction,"$9,359.05",WA
+Highsmith-Rainey Specialty Hospital,Other Non-Surgical Procedures,MSDRG 690,Kidney and urinary tract infections,"$10,498.96",WA
+Highsmith-Rainey Specialty Hospital,Other Non-Surgical Procedures,MSDRG 373,Major gastrointestinal disorders and peritoneal infections,"$10,101.31",WA
+Highsmith-Rainey Specialty Hospital,Other Non-Surgical Procedures,MSDRG 552,Medical back problems,"$16,080.25",WA
+Highsmith-Rainey Specialty Hospital,Other Non-Surgical Procedures,MSDRG 195,Pneumonia,"$6,241.55",WA
+Highsmith-Rainey Specialty Hospital,Other Non-Surgical Procedures,MSDRG 812,Red blood cell disorders,"$8,546.94",WA
+Highsmith-Rainey Specialty Hospital,Other Non-Surgical Procedures,MSDRG 684,Renal failure,"$7,933.61",WA
+Highsmith-Rainey Specialty Hospital,Other Non-Surgical Procedures,MSDRG 101,Seizures,"$10,856.68",WA
+Highsmith-Rainey Specialty Hospital,Other Non-Surgical Procedures,MSDRG 872,Sepsis (blood infection),"$115,936.46",WA
+Highsmith-Rainey Specialty Hospital,Other Non-Surgical Procedures,MSDRG 870,Septicemia or severe sepsis with mv >96 hours,"$107,888.60",WA
+Highsmith-Rainey Specialty Hospital,Other Non-Surgical Procedures,MSDRG 558,"Tendonitis, myositis and bursitis","$9,457.55",WA
+Highsmith-Rainey Specialty Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,$219.90,WA
+Highsmith-Rainey Specialty Hospital,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$303.60,WA
+Highsmith-Rainey Specialty Hospital,Pulmonary,MSDRG 192,Chronic obstructive pulmonary disease (COPD),"$7,931.26",WA
+Highsmith-Rainey Specialty Hospital,Pulmonary,MSDRG 189,Pulmonary edema and respiratory failure,"$118,224.14",WA
+Highsmith-Rainey Specialty Hospital,Pulmonary,MSDRG 176,Pulmonary embolism (blood clot in lung),"$12,347.76",WA
+Highsmith-Rainey Specialty Hospital,Pulmonary,HCPCS 94618,Pulmonary stress test,$176.55,WA
+Highsmith-Rainey Specialty Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$206.85,WA
+Highsmith-Rainey Specialty Hospital,Sleep,HCPCS 95810,Sleep study,"$2,374.80",WA
+Highsmith-Rainey Specialty Hospital,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$45.00,WA
+Highsmith-Rainey Specialty Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$203.52,WA
+Highsmith-Rainey Specialty Hospital,Breast,HCPCS 77067,Mammogram Screening,$218.47,WA
+Highsmith-Rainey Specialty Hospital,Breast,HCPCS 77066,Mammography of both breasts,$253.45,WA
+Highsmith-Rainey Specialty Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$2,010.40",WA
+Highsmith-Rainey Specialty Hospital,CT Scan,HCPCS 74175,CT angiography scan of abdomen,"$3,152.33",WA
+Highsmith-Rainey Specialty Hospital,CT Scan,HCPCS 74174,CTA scan of abdomen,$801.20,WA
+Highsmith-Rainey Specialty Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,894.64",WA
+Highsmith-Rainey Specialty Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,313.98",WA
+Highsmith-Rainey Specialty Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,358.02",WA
+Highsmith-Rainey Specialty Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,864.90",WA
+Highsmith-Rainey Specialty Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$3,588.16",WA
+Highsmith-Rainey Specialty Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,807.40",WA
+Highsmith-Rainey Specialty Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$2,178.94",WA
+Highsmith-Rainey Specialty Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$2,598.86",WA
+Highsmith-Rainey Specialty Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,531.17",WA
+Highsmith-Rainey Specialty Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,332.74",WA
+Highsmith-Rainey Specialty Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,640.88",WA
+Highsmith-Rainey Specialty Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,700.51",WA
+Highsmith-Rainey Specialty Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$3,049.94",WA
+Highsmith-Rainey Specialty Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$3,233.90",WA
+Highsmith-Rainey Specialty Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$3,072.20",WA
+Highsmith-Rainey Specialty Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$4,239.10",WA
+Highsmith-Rainey Specialty Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$3,091.76",WA
+Highsmith-Rainey Specialty Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$4,092.82",WA
+Highsmith-Rainey Specialty Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$5,437.80",WA
+Highsmith-Rainey Specialty Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,233.48",WA
+Highsmith-Rainey Specialty Hospital,MRI,HCPCS 74182,MRI scan of abdomen with contrast,"$4,726.60",WA
+Highsmith-Rainey Specialty Hospital,MRI,HCPCS 74181,MRI scan of abdomen without contrast,"$2,372.44",WA
+Highsmith-Rainey Specialty Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$4,130.50",WA
+Highsmith-Rainey Specialty Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$3,276.35",WA
+Highsmith-Rainey Specialty Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$2,135.69",WA
+Highsmith-Rainey Specialty Hospital,Chest,HCPCS 76706,"Ultrasound, aortic aneurisum screening",$192.30,WA
+Highsmith-Rainey Specialty Hospital,Hip and Pelvis,HCPCS 76815,"Ultrasound, pregnancy",$284.45,WA
+Highsmith-Rainey Specialty Hospital,Hip and Pelvis,HCPCS 76801,"Ultrasound, pregnancy, 1st trimester",$641.72,WA
+Highsmith-Rainey Specialty Hospital,Hip and Pelvis,HCPCS 76816,"Ultrasound, pregnancy, transabdominal (pelvis)",$407.84,WA
+Highsmith-Rainey Specialty Hospital,Hip and Pelvis,HCPCS 76817,"Ultrasound, pregnancy, transvaginal",$641.72,WA
+Highsmith-Rainey Specialty Hospital,Hip and Pelvis,HCPCS 76870,"Ultrasound, testical",$543.31,WA
+Highsmith-Rainey Specialty Hospital,Other Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$641.72,WA
+Highsmith-Rainey Specialty Hospital,Other Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$645.90,WA
+Highsmith-Rainey Specialty Hospital,Other Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$706.60,WA
+Highsmith-Rainey Specialty Hospital,Other Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$582.42,WA
+Highsmith-Rainey Specialty Hospital,Other Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$561.59,WA
+Highsmith-Rainey Specialty Hospital,Other Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$805.02,WA
+Highsmith-Rainey Specialty Hospital,Other Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$579.71,WA
+Highsmith-Rainey Specialty Hospital,Other Ultrasound,HCPCS 76857,Ultrasound of pelvis,$280.48,WA
+Highsmith-Rainey Specialty Hospital,Other Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$631.07,WA
+Highsmith-Rainey Specialty Hospital,Other Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$544.10,WA
+Highsmith-Rainey Specialty Hospital,Other Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$476.84,WA
+Highsmith-Rainey Specialty Hospital,Spine,HCPCS 76800,"Ultrasound, spinal canal",$774.65,WA
+Highsmith-Rainey Specialty Hospital,Upper Limbs,HCPCS 76882,"Ultrasound, shoulder joint/soft tissue",$491.15,WA
+Highsmith-Rainey Specialty Hospital,Abdomen,HCPCS 74018,"X-ray abdomen, 1 view",$221.25,WA
+Highsmith-Rainey Specialty Hospital,Abdomen,HCPCS 74019,"X-ray abdomen, 2 views",$246.30,WA
+Highsmith-Rainey Specialty Hospital,Abdomen,HCPCS 74021,"X-ray abdomen, 3 or more views",$326.25,WA
+Highsmith-Rainey Specialty Hospital,Chest,HCPCS 71270,CT scan of chest with and without contrast,"$1,431.95",WA
+Highsmith-Rainey Specialty Hospital,Chest,HCPCS 71552,MRI scan of chest with and without contrast,"$3,974.84",WA
+Highsmith-Rainey Specialty Hospital,Chest,HCPCS 71550,MRI scan of chest without contrast,"$2,878.70",WA
+Highsmith-Rainey Specialty Hospital,Chest,HCPCS 76641,Ultrasound of breasts (both),$195.90,WA
+Highsmith-Rainey Specialty Hospital,Chest,HCPCS 76642,Ultrasound of breast (single),$150.00,WA
+Highsmith-Rainey Specialty Hospital,Chest,HCPCS 76604,Ultrasound of chest,$282.86,WA
+Highsmith-Rainey Specialty Hospital,Chest,HCPCS 71047,"X-ray chest, 2 views",$179.55,WA
+Highsmith-Rainey Specialty Hospital,Chest,HCPCS 71048,"X-ray chest, 4 or more views",$202.20,WA
+Highsmith-Rainey Specialty Hospital,Chest,HCPCS 71130,"X-ray chest joints (sternoclavicular), 3 or more views",$170.93,WA
+Highsmith-Rainey Specialty Hospital,Chest,HCPCS 71120,"X-ray chest (sternum), 2 or more views",$249.47,WA
+Highsmith-Rainey Specialty Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$379.54,WA
+Highsmith-Rainey Specialty Hospital,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$190.80,WA
+Highsmith-Rainey Specialty Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$175.20,WA
+Highsmith-Rainey Specialty Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$145.05,WA
+Highsmith-Rainey Specialty Hospital,Chest,HCPCS 71110,"X-ray ribs, bilateral, 3 or more views",$297.17,WA
+Highsmith-Rainey Specialty Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$217.04,WA
+Highsmith-Rainey Specialty Hospital,Chest,HCPCS 71101,"X-ray ribs, unilateral, 3 or more views",$290.65,WA
+Highsmith-Rainey Specialty Hospital,Head and Neck,HCPCS 70496,CTA scan of head,"$1,638.18",WA
+Highsmith-Rainey Specialty Hospital,Head and Neck,HCPCS 70498,CTA scan of neck,"$2,222.66",WA
+Highsmith-Rainey Specialty Hospital,Head and Neck,HCPCS 70481,CT scan of eye with contrast,"$1,528.94",WA
+Highsmith-Rainey Specialty Hospital,Head and Neck,HCPCS 70480,CT scan of eye without contrast,"$1,394.43",WA
+Highsmith-Rainey Specialty Hospital,Head and Neck,HCPCS 70487,CT scan of face with contrast,"$1,487.13",WA
+Highsmith-Rainey Specialty Hospital,Head and Neck,HCPCS 70488,CT scan of face without contrast,"$1,785.25",WA
+Highsmith-Rainey Specialty Hospital,Head and Neck,HCPCS 70460,CT scan of head with contrast,"$1,465.82",WA
+Highsmith-Rainey Specialty Hospital,Head and Neck,HCPCS 70470,CT scan of head without contrast,"$1,865.07",WA
+Highsmith-Rainey Specialty Hospital,Head and Neck,HCPCS 70492,CT scan of neck with contrast,"$1,909.75",WA
+Highsmith-Rainey Specialty Hospital,Head and Neck,HCPCS 70490,CT scan of neck without contrast,"$1,428.77",WA
+Highsmith-Rainey Specialty Hospital,Head and Neck,HCPCS 70546,MRA scan of head with and without contrast,"$3,550.15",WA
+Highsmith-Rainey Specialty Hospital,Head and Neck,HCPCS 70549,MRA scan of neck with and without contrast,"$4,008.55",WA
+Highsmith-Rainey Specialty Hospital,Head and Neck,HCPCS 70548,MRA scan of neck with contrast,"$2,462.40",WA
+Highsmith-Rainey Specialty Hospital,Head and Neck,HCPCS 70547,MRA scan of neck without contrast,"$2,841.65",WA
+Highsmith-Rainey Specialty Hospital,Head and Neck,HCPCS 70552,MRI scan of brain with contrast,"$3,768.62",WA
+Highsmith-Rainey Specialty Hospital,Head and Neck,HCPCS 70543,"MRI scan of orbits, face, or soft tissue of the neck with and without contrast","$4,642.96",WA
+Highsmith-Rainey Specialty Hospital,Head and Neck,HCPCS 70542,"MRI scan of orbits, face, or soft tissue of the neck with contrast","$1,508.40",WA
+Highsmith-Rainey Specialty Hospital,Head and Neck,HCPCS 70540,"MRI scan of orbits, face, or soft tissue of the neck without contrast","$3,508.34",WA
+Highsmith-Rainey Specialty Hospital,Head and Neck,HCPCS 70336,MRI scan of the jaw joint,"$1,787.80",WA
+Highsmith-Rainey Specialty Hospital,Head and Neck,HCPCS 70140,"X-ray facial bones, 1-2 views",$176.81,WA
+Highsmith-Rainey Specialty Hospital,Head and Neck,HCPCS 70330,"X-ray jaw joint, bilateral",$451.09,WA
+Highsmith-Rainey Specialty Hospital,Head and Neck,HCPCS 70100,"X-ray jaw, less than 4 views",$179.99,WA
+Highsmith-Rainey Specialty Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$369.52,WA
+Highsmith-Rainey Specialty Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$229.91,WA
+Highsmith-Rainey Specialty Hospital,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$105.10,WA
+Highsmith-Rainey Specialty Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$349.16,WA
+Highsmith-Rainey Specialty Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$235.32,WA
+Highsmith-Rainey Specialty Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$238.03,WA
+Highsmith-Rainey Specialty Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$362.68,WA
+Highsmith-Rainey Specialty Hospital,Head and Neck,HCPCS 70200,"X-ray orbits, 4 or more views",$349.96,WA
+Highsmith-Rainey Specialty Hospital,Head and Neck,HCPCS 70220,"X-ray sinuses, 3 views",$388.91,WA
+Highsmith-Rainey Specialty Hospital,Head and Neck,HCPCS 70250,"X-ray skull, less than 4 views",$300.04,WA
+Highsmith-Rainey Specialty Hospital,Hip and Pelvis,HCPCS 72191,CTA scan of pelvis,"$2,059.53",WA
+Highsmith-Rainey Specialty Hospital,Hip and Pelvis,HCPCS 72194,CT scan of pelvis with and without contrast,"$1,724.99",WA
+Highsmith-Rainey Specialty Hospital,Hip and Pelvis,HCPCS 72192,CT scan of pelvis without contrast,"$1,297.12",WA
+Highsmith-Rainey Specialty Hospital,Hip and Pelvis,HCPCS 72197,MRI scan of pelvis with and without contrast,"$4,187.27",WA
+Highsmith-Rainey Specialty Hospital,Hip and Pelvis,HCPCS 72195,MRI scan of pelvis without contrast,"$3,033.08",WA
+Highsmith-Rainey Specialty Hospital,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$171.30,WA
+Highsmith-Rainey Specialty Hospital,Hip and Pelvis,HCPCS 73501,"X-ray hip and pelvis, 1 view",$115.80,WA
+Highsmith-Rainey Specialty Hospital,Hip and Pelvis,HCPCS 73521,"X-ray hip and pelvis, 2 views",$171.30,WA
+Highsmith-Rainey Specialty Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$216.00,WA
+Highsmith-Rainey Specialty Hospital,Hip and Pelvis,HCPCS 73523,"X-ray hip and pelvis, 5 or more views",$325.50,WA
+Highsmith-Rainey Specialty Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$239.30,WA
+Highsmith-Rainey Specialty Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$174.58,WA
+Highsmith-Rainey Specialty Hospital,Hip and Pelvis,HCPCS 72220,"X-ray sacrum and coccyx, 2 or more views",$185.39,WA
+Highsmith-Rainey Specialty Hospital,Lower Limbs,HCPCS 73706,"CTA scan of hip, knee, ankle, or foot","$1,472.34",WA
+Highsmith-Rainey Specialty Hospital,Lower Limbs,HCPCS 73702,"CT scan of hip, knee, ankle, or foot with and without contrast","$1,016.40",WA
+Highsmith-Rainey Specialty Hospital,Lower Limbs,HCPCS 73701,"CT scan of hip, knee, ankle, or foot with contrast","$1,075.00",WA
+Highsmith-Rainey Specialty Hospital,Lower Limbs,HCPCS 73700,"CT scan of hip, knee, ankle, or foot without contrast",$916.48,WA
+Highsmith-Rainey Specialty Hospital,Lower Limbs,HCPCS 73723,"MRI scan of hip, knee, ankle, or foot joints with and without contrast","$2,925.13",WA
+Highsmith-Rainey Specialty Hospital,Lower Limbs,HCPCS 73722,"MRI scan of hip, knee, ankle, or foot joints with contrast","$2,251.76",WA
+Highsmith-Rainey Specialty Hospital,Lower Limbs,HCPCS 73720,MRI scan of leg with and without contrast,"$2,822.73",WA
+Highsmith-Rainey Specialty Hospital,Lower Limbs,HCPCS 73718,MRI scan of leg without contrast,"$2,070.98",WA
+Highsmith-Rainey Specialty Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$207.18,WA
+Highsmith-Rainey Specialty Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$298.60,WA
+Highsmith-Rainey Specialty Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$156.46,WA
+Highsmith-Rainey Specialty Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$299.40,WA
+Highsmith-Rainey Specialty Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$298.60,WA
+Highsmith-Rainey Specialty Hospital,Lower Limbs,HCPCS 73551,"X-ray femur, 1 view",$103.05,WA
+Highsmith-Rainey Specialty Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$103.05,WA
+Highsmith-Rainey Specialty Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$216.40,WA
+Highsmith-Rainey Specialty Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$215.77,WA
+Highsmith-Rainey Specialty Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$253.45,WA
+Highsmith-Rainey Specialty Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$293.20,WA
+Highsmith-Rainey Specialty Hospital,Lower Limbs,HCPCS 73580,X-ray knee (arthrogram) with dye,$870.38,WA
+Highsmith-Rainey Specialty Hospital,Lower Limbs,HCPCS 73592,X-ray lower extremities for infant,$140.24,WA
+Highsmith-Rainey Specialty Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$219.74,WA
+Highsmith-Rainey Specialty Hospital,Lower Limbs,HCPCS 73660,"X-ray toes, 2 or more views",$170.61,WA
+Highsmith-Rainey Specialty Hospital,Other X-ray,HCPCS 77073,Bone length scanogram,$205.59,WA
+Highsmith-Rainey Specialty Hospital,Other X-ray,HCPCS 74300,"X-ray bile ducts, with contrast (cholangiogram)",$490.04,WA
+Highsmith-Rainey Specialty Hospital,Other X-ray,HCPCS 74430,"X-ray, bladder (cystogram), 3 or more views",$463.81,WA
+Highsmith-Rainey Specialty Hospital,Other X-ray,HCPCS 74280,"X-ray colon, with contrast",$779.26,WA
+Highsmith-Rainey Specialty Hospital,Other X-ray,HCPCS 74270,"X-ray colon, with or without contrast",$639.82,WA
+Highsmith-Rainey Specialty Hospital,Other X-ray,HCPCS 74220,X-ray esophagus (esophogram),$407.84,WA
+Highsmith-Rainey Specialty Hospital,Other X-ray,HCPCS 76010,X-ray of child for foreign body,$237.82,WA
+Highsmith-Rainey Specialty Hospital,Other X-ray,HCPCS 74250,X-ray small bowel,$379.54,WA
+Highsmith-Rainey Specialty Hospital,Other X-ray,HCPCS 74230,"X-ray, swallowing function study",$349.16,WA
+Highsmith-Rainey Specialty Hospital,Other X-ray,HCPCS 74240,X-ray upper GI tract ,$545.37,WA
+Highsmith-Rainey Specialty Hospital,Other X-ray,HCPCS 74450,"X-ray, urethra (retrograde urethrogram)",$463.81,WA
+Highsmith-Rainey Specialty Hospital,Spine,HCPCS 72127,CT scan of cervical spine with and without contrast,"$1,484.42",WA
+Highsmith-Rainey Specialty Hospital,Spine,HCPCS 72126,CT scan of cervical spine with contrast,"$1,461.53",WA
+Highsmith-Rainey Specialty Hospital,Spine,HCPCS 72125,CT scan of cervical spine without contrast,"$1,486.81",WA
+Highsmith-Rainey Specialty Hospital,Spine,HCPCS 72133,CT scan of lumbar spine with and without contrast,"$1,646.40",WA
+Highsmith-Rainey Specialty Hospital,Spine,HCPCS 72132,CT scan of lumbar spine with contrast,"$1,682.06",WA
+Highsmith-Rainey Specialty Hospital,Spine,HCPCS 72131,CT scan of lumbar spine without contrast,"$1,559.32",WA
+Highsmith-Rainey Specialty Hospital,Spine,HCPCS 72130,CT scan of thoracic spine with and without contrast,"$1,890.99",WA
+Highsmith-Rainey Specialty Hospital,Spine,HCPCS 72129,CT scan of thoracic spine with contrast,"$1,497.31",WA
+Highsmith-Rainey Specialty Hospital,Spine,HCPCS 72128,CT scan of thoracic spine without contrast,"$1,369.15",WA
+Highsmith-Rainey Specialty Hospital,Spine,HCPCS 72142,MRI scan of cervical spine with contrast,"$2,807.15",WA
+Highsmith-Rainey Specialty Hospital,Spine,HCPCS 72149,MRI scan of lumbar spine with contrast,"$3,442.99",WA
+Highsmith-Rainey Specialty Hospital,Spine,HCPCS 72157,MRI scan of thoracic spine with and without contrast,"$4,462.34",WA
+Highsmith-Rainey Specialty Hospital,Spine,HCPCS 72147,MRI scan of thoracic spine with contrast,"$2,914.15",WA
+Highsmith-Rainey Specialty Hospital,Spine,HCPCS 72020,"X-ray cervical spine, 1 view",$270.62,WA
+Highsmith-Rainey Specialty Hospital,Spine,HCPCS 72050,"X-ray cervical spine, 4 or more views",$682.27,WA
+Highsmith-Rainey Specialty Hospital,Spine,HCPCS 72120,"X-ray complete lumbar spine (with bending), 2-3 views",$290.50,WA
+Highsmith-Rainey Specialty Hospital,Spine,HCPCS 72114,"X-ray complete lumbar spine (with bending), 6 or more views",$544.10,WA
+Highsmith-Rainey Specialty Hospital,Spine,HCPCS 72081,"X-ray entire spine (scoliosis evaluation), 1 view",$246.00,WA
+Highsmith-Rainey Specialty Hospital,Spine,HCPCS 72082,"X-ray entire spine (scoliosis evaluation), 2 views",$170.70,WA
+Highsmith-Rainey Specialty Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$459.83,WA
+Highsmith-Rainey Specialty Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$310.85,WA
+Highsmith-Rainey Specialty Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$534.56,WA
+Highsmith-Rainey Specialty Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$527.24,WA
+Highsmith-Rainey Specialty Hospital,Spine,HCPCS 72080,"X-ray thoracic-lumbar spine, 2 views",$291.45,WA
+Highsmith-Rainey Specialty Hospital,Spine,HCPCS 72070,"X-ray thoracic spine, 2 views",$312.12,WA
+Highsmith-Rainey Specialty Hospital,Spine,HCPCS 72072,"X-ray thoracic spine, 3 views",$324.20,WA
+Highsmith-Rainey Specialty Hospital,Spine,HCPCS 72074,"X-ray thoracic spine, 4 or more views",$363.00,WA
+Highsmith-Rainey Specialty Hospital,Upper Limbs,HCPCS 73206,"CTA scan of shoulder, arm, or hand","$1,535.78",WA
+Highsmith-Rainey Specialty Hospital,Upper Limbs,HCPCS 73202,"CT scan of shoulder, arm, or hand with and without contrast","$1,016.40",WA
+Highsmith-Rainey Specialty Hospital,Upper Limbs,HCPCS 73201,"CT scan of shoulder, arm, or hand with contrast","$1,197.91",WA
+Highsmith-Rainey Specialty Hospital,Upper Limbs,HCPCS 73200,"CT scan of shoulder, arm, or hand without contrast","$1,177.40",WA
+Highsmith-Rainey Specialty Hospital,Upper Limbs,HCPCS 73220,"MRI scan of shoulder, arm, or hand with and without contrast","$1,949.66",WA
+Highsmith-Rainey Specialty Hospital,Upper Limbs,HCPCS 73218,"MRI scan of shoulder, arm, or hand without contrast","$1,580.70",WA
+Highsmith-Rainey Specialty Hospital,Upper Limbs,HCPCS 73223,"MRI scan of shoulder, elbow, or hand joints with and without contrast","$2,890.78",WA
+Highsmith-Rainey Specialty Hospital,Upper Limbs,HCPCS 73222,"MRI scan of shoulder, elbow, or hand joints with contrast","$2,601.56",WA
+Highsmith-Rainey Specialty Hospital,Upper Limbs,HCPCS 73000,"X-ray clavicle, 1 view",$206.23,WA
+Highsmith-Rainey Specialty Hospital,Upper Limbs,HCPCS 73070,"X-ray elbow, 2 views",$243.43,WA
+Highsmith-Rainey Specialty Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$372.06,WA
+Highsmith-Rainey Specialty Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$179.99,WA
+Highsmith-Rainey Specialty Hospital,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$271.73,WA
+Highsmith-Rainey Specialty Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$197.48,WA
+Highsmith-Rainey Specialty Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$279.05,WA
+Highsmith-Rainey Specialty Hospital,Upper Limbs,HCPCS 73060,"X-ray humerus, 1 view",$244.70,WA
+Highsmith-Rainey Specialty Hospital,Upper Limbs,HCPCS 73010,"X-ray scapula, 1 view",$182.69,WA
+Highsmith-Rainey Specialty Hospital,Upper Limbs,HCPCS 73020,"X-ray shoulder, 1 view",$159.16,WA
+Highsmith-Rainey Specialty Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$326.90,WA
+Highsmith-Rainey Specialty Hospital,Upper Limbs,HCPCS 73050,X-ray shoulder (AC joint),$253.93,WA
+Highsmith-Rainey Specialty Hospital,Upper Limbs,HCPCS 73092,X-ray upper extremities for infant,$257.58,WA
+Highsmith-Rainey Specialty Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$159.80,WA
+Highsmith-Rainey Specialty Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$236.59,WA
+Highsmith-Rainey Specialty Hospital,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$11,795.84",WA
+Highsmith-Rainey Specialty Hospital,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,$240.00,WA
+Highsmith-Rainey Specialty Hospital,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,$120.00,WA
+Highsmith-Rainey Specialty Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$176.55,WA
+Highsmith-Rainey Specialty Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$176.55,WA
+Highsmith-Rainey Specialty Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$14,225.17",WA
+Highsmith-Rainey Specialty Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$5,350.83",WA
+Highsmith-Rainey Specialty Hospital,Auditory System,HCPCS 69209,"Removal of ear wax, 1 ear",$94.05,WA
+Highsmith-Rainey Specialty Hospital,Auditory System,HCPCS 69210,"Removal of ear wax, both ears",$99.00,WA
+Highsmith-Rainey Specialty Hospital,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,"$114,346.98",WA
+Highsmith-Rainey Specialty Hospital,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),"$177,412.99",WA
+Highsmith-Rainey Specialty Hospital,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$84,872.77",WA
+Highsmith-Rainey Specialty Hospital,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$56,601.80",WA
+Highsmith-Rainey Specialty Hospital,Cardiac,HCPCS 33249,Defibrillator complete system,"$34,680.15",WA
+Highsmith-Rainey Specialty Hospital,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$4,754.30",WA
+Highsmith-Rainey Specialty Hospital,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$553.20,WA
+Highsmith-Rainey Specialty Hospital,Cardiac,MSDRG 217,Heart valve procedure with catheterization (complications),"$125,990.27",WA
+Highsmith-Rainey Specialty Hospital,Cardiac,MSDRG 220,Heart valve procedure without catheterization (complications),"$73,228.17",WA
+Highsmith-Rainey Specialty Hospital,Cardiac,MSDRG 219,Heart valve procedure without catheterization (major complications),"$162,683.14",WA
+Highsmith-Rainey Specialty Hospital,Cardiac,MSDRG 221,Heart valve procedure without catheterization (no complications),"$103,164.96",WA
+Highsmith-Rainey Specialty Hospital,Cardiac,MSDRG 266,Heart valve replacement (major complications),"$156,880.88",WA
+Highsmith-Rainey Specialty Hospital,Cardiac,MSDRG 267,Heart valve replacement (no complications),"$162,032.54",WA
+Highsmith-Rainey Specialty Hospital,Cardiac,MSDRG 247,Implant drug-eluting stent,"$52,849.88",WA
+Highsmith-Rainey Specialty Hospital,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$43,514.72",WA
+Highsmith-Rainey Specialty Hospital,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$13,927.20",WA
+Highsmith-Rainey Specialty Hospital,Cardiac,HCPCS 36415,Venipuncture (blood collection),$17.10,WA
+Highsmith-Rainey Specialty Hospital,Digestive,HCPCS 47000,Biopsy of liver via needle inserted into skin,"$1,378.12",WA
+Highsmith-Rainey Specialty Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,194.75",WA
+Highsmith-Rainey Specialty Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,428.45",WA
+Highsmith-Rainey Specialty Hospital,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,428.45",WA
+Highsmith-Rainey Specialty Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,428.45",WA
+Highsmith-Rainey Specialty Hospital,Digestive,HCPCS 43235,EGD,"$1,183.05",WA
+Highsmith-Rainey Specialty Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$1,183.05",WA
+Highsmith-Rainey Specialty Hospital,Digestive,MSDRG 331,Major small and large bowel procedures,"$24,609.35",WA
+Highsmith-Rainey Specialty Hospital,Digestive,HCPCS 49083,Paracentesis (removal of fluid from peritoneal cavity) with guidance,"$1,288.30",WA
+Highsmith-Rainey Specialty Hospital,Digestive,HCPCS 49082,Paracentesis (removal of fluid from peritoneal cavity) without guidance,"$1,139.10",WA
+Highsmith-Rainey Specialty Hospital,Digestive,HCPCS 43762,Replacement of gastrostromy tube (G-tube),$358.80,WA
+Highsmith-Rainey Specialty Hospital,Female Reproductive,HCPCS 59025,Fetal non-stress test,$270.00,WA
+Highsmith-Rainey Specialty Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$11,429.91",WA
+Highsmith-Rainey Specialty Hospital,General,HCPCS 55700,Biopsy of prostate gland,$138.00,WA
+Highsmith-Rainey Specialty Hospital,General,HCPCS 10060,Drainage of Abscess,$280.48,WA
+Highsmith-Rainey Specialty Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$534.45,WA
+Highsmith-Rainey Specialty Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$176.55,WA
+Highsmith-Rainey Specialty Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$283.95,WA
+Highsmith-Rainey Specialty Hospital,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$522.30,WA
+Highsmith-Rainey Specialty Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$283.95,WA
+Highsmith-Rainey Specialty Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$283.95,WA
+Highsmith-Rainey Specialty Hospital,Head,HCPCS 67028,Injection of drug into the eye,$475.05,WA
+Highsmith-Rainey Specialty Hospital,Musculoskeletal,HCPCS 29130,Application of finger splint,$108.60,WA
+Highsmith-Rainey Specialty Hospital,Musculoskeletal,HCPCS 29105,Application of full arm cast/splint,$221.96,WA
+Highsmith-Rainey Specialty Hospital,Musculoskeletal,HCPCS 29505,Application of full leg cast/splint,$227.05,WA
+Highsmith-Rainey Specialty Hospital,Musculoskeletal,HCPCS 29125,Application of short arm cast/splint (below the elbow),$170.13,WA
+Highsmith-Rainey Specialty Hospital,Musculoskeletal,HCPCS 29515,Application of short leg cast/splint (below the knee),$227.55,WA
+Highsmith-Rainey Specialty Hospital,Musculoskeletal,HCPCS 20605,Arthrocentesis (drainage) of joint,$411.15,WA
+Highsmith-Rainey Specialty Hospital,Musculoskeletal,HCPCS 20600,Arthrocentesis (drainage) of small joint,$411.15,WA
+Highsmith-Rainey Specialty Hospital,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$88,339.31",WA
+Highsmith-Rainey Specialty Hospital,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$361.20,WA
+Highsmith-Rainey Specialty Hospital,Musculoskeletal,MSDRG 482,Hip and femur procedures,"$26,838.91",WA
+Highsmith-Rainey Specialty Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,$844.16,WA
+Highsmith-Rainey Specialty Hospital,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,$844.20,WA
+Highsmith-Rainey Specialty Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,"$1,129.35",WA
+Highsmith-Rainey Specialty Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$418.66,WA
+Highsmith-Rainey Specialty Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$29,839.94",WA
+Highsmith-Rainey Specialty Hospital,Musculoskeletal,MSDRG 494,"Lower extremity and humerus procedures except hip, foot and femur","$20,851.64",WA
+Highsmith-Rainey Specialty Hospital,Musculoskeletal,MSDRG 483,Major joint/limb reattachment procedure of upper extremities,"$40,390.79",WA
+Highsmith-Rainey Specialty Hospital,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$44,009.69",WA
+Highsmith-Rainey Specialty Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$91,944.80",WA
+Highsmith-Rainey Specialty Hospital,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$167.90,WA
+Highsmith-Rainey Specialty Hospital,Musculoskeletal,HCPCS 25605,Treatment of forearm (radius or ulna) fracture,"$1,890.15",WA
+Highsmith-Rainey Specialty Hospital,Musculoskeletal,HCPCS 23650,Treatment of shoulder dislocation without anesthesia,$361.20,WA
+Highsmith-Rainey Specialty Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$9,009.41",WA
+Highsmith-Rainey Specialty Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$4,535.86",WA
+Highsmith-Rainey Specialty Hospital,Skin,HCPCS 10061,Drainage of skin abscess,$304.64,WA
+Highsmith-Rainey Specialty Hospital,Skin,HCPCS 10160,Image-guided puncture and drainage (aspiration) of cyst or abscess,$522.30,WA
+Highsmith-Rainey Specialty Hospital,Skin,HCPCS 19000,Image-guided puncture and drainage (aspiration) of cyst or abscess in the breast,$962.55,WA
+Highsmith-Rainey Specialty Hospital,Skin,HCPCS 10080,Incision and drainage of pilonidal (near tailbone) cyst,$816.75,WA
+Highsmith-Rainey Specialty Hospital,Skin,MSDRG 581,"Other skin, subcutaneous tissue and breast procedures","$11,313.50",WA
+Highsmith-Rainey Specialty Hospital,Skin,HCPCS 10140,Surgical drainage of hematoma or seroma,"$2,264.85",WA
+Highsmith-Rainey Specialty Hospital,Skin,HCPCS 19083,Ultrasound-guided breast biopsy,"$1,183.12",WA
+Highsmith-Rainey Specialty Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$324.38,WA
+Highsmith-Rainey Specialty Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$283.95,WA
+Highsmith-Rainey Specialty Hospital,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$176.55,WA
+Highsmith-Rainey Specialty Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$12.75,WA
+Highsmith-Rainey Specialty Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,651.50",WA
+Highsmith-Rainey Specialty Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$505.20,WA
+Highsmith-Rainey Specialty Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$1,113.45",WA

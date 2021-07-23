@@ -1,0 +1,472 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Bladen County Hospital,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$325.20,WA
+Bladen County Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes",$676.20,WA
+Bladen County Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$129.60,WA
+Bladen County Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$266.40,WA
+Bladen County Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$470.40,WA
+Bladen County Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$736.20,WA
+Bladen County Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,032.00",WA
+Bladen County Hospital,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$289.80,WA
+Bladen County Hospital,Speech,HCPCS 92507,Speech Therapy,$123.60,WA
+Bladen County Hospital,Speech,HCPCS 92610,Swallow Evaluation,$148.80,WA
+Bladen County Hospital,Speech,HCPCS 92526,Swallow Treatment,$96.60,WA
+Bladen County Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$6.00,WA
+Bladen County Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$30.60,WA
+Bladen County Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$60.00,WA
+Bladen County Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$120.00,WA
+Bladen County Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$45.00,WA
+Bladen County Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$56.40,WA
+Bladen County Hospital,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$48.60,WA
+Bladen County Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$86.40,WA
+Bladen County Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$57.00,WA
+Bladen County Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$23.40,WA
+Bladen County Hospital,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$69.00,WA
+Bladen County Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$27.60,WA
+Bladen County Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$225.60,WA
+Bladen County Hospital,Blood,HCPCS 85041,"Red blood count, automated test",$6.60,WA
+Bladen County Hospital,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$42.60,WA
+Bladen County Hospital,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$44.40,WA
+Bladen County Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$30.60,WA
+Bladen County Hospital,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$36.60,WA
+Bladen County Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$85.20,WA
+Bladen County Hospital,Chemistry,HCPCS 82140,Ammonia level,$77.40,WA
+Bladen County Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$85.80,WA
+Bladen County Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$77.40,WA
+Bladen County Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$166.80,WA
+Bladen County Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$84.60,WA
+Bladen County Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$41.40,WA
+Bladen County Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$25.80,WA
+Bladen County Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$91.95,WA
+Bladen County Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$45.00,WA
+Bladen County Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$46.20,WA
+Bladen County Hospital,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,$19.20,WA
+Bladen County Hospital,Chemistry,HCPCS 84132,Blood potassium level,$49.80,WA
+Bladen County Hospital,Chemistry,HCPCS 84295,Blood sodium level,$49.80,WA
+Bladen County Hospital,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$50.40,WA
+Bladen County Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$140.40,WA
+Bladen County Hospital,Chemistry,HCPCS 82310,Calcium level,$46.20,WA
+Bladen County Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$102.00,WA
+Bladen County Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$19.80,WA
+Bladen County Hospital,Chemistry,HCPCS 82465,Cholesterol level,$46.20,WA
+Bladen County Hospital,Chemistry,HCPCS 82525,Copper level,$81.60,WA
+Bladen County Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$147.60,WA
+Bladen County Hospital,Chemistry,HCPCS 84681,C-peptide (protein) level,$15.00,WA
+Bladen County Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$60.60,WA
+Bladen County Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$141.60,WA
+Bladen County Hospital,Chemistry,HCPCS 82626,Dehydroepiandrosterone (DHEA-S) hormone level,$31.80,WA
+Bladen County Hospital,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$126.60,WA
+Bladen County Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$130.80,WA
+Bladen County Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$145.20,WA
+Bladen County Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$57.00,WA
+Bladen County Hospital,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$68.40,WA
+Bladen County Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$51.00,WA
+Bladen County Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$58.80,WA
+Bladen County Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$67.20,WA
+Bladen County Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$15.00,WA
+Bladen County Hospital,Chemistry,HCPCS 83718,HDL cholesterol level,$67.80,WA
+Bladen County Hospital,Chemistry,HCPCS 83020,Hemoglobin Measurement,$25.80,WA
+Bladen County Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$58.80,WA
+Bladen County Hospital,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$17.40,WA
+Bladen County Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$16.80,WA
+Bladen County Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$15.00,WA
+Bladen County Hospital,Chemistry,HCPCS 82330,Ionized Calcium,$90.60,WA
+Bladen County Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$61.20,WA
+Bladen County Hospital,Chemistry,HCPCS 83540,Iron level,$51.00,WA
+Bladen County Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$46.20,WA
+Bladen County Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$68.40,WA
+Bladen County Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$81.60,WA
+Bladen County Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$46.20,WA
+Bladen County Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$141.60,WA
+Bladen County Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$48.60,WA
+Bladen County Hospital,Chemistry,HCPCS 83735,Magnesium Level,$60.60,WA
+Bladen County Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$37.05,WA
+Bladen County Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$17.40,WA
+Bladen County Hospital,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$6.60,WA
+Bladen County Hospital,Chemistry,HCPCS 83945,Oxalate level,$30.00,WA
+Bladen County Hospital,Chemistry,HCPCS 83970,Parathormone,$154.20,WA
+Bladen County Hospital,Chemistry,HCPCS 84060,Phosphatase (enzyme) level,$48.60,WA
+Bladen County Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$40.80,WA
+Bladen County Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$84.00,WA
+Bladen County Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$106.80,WA
+Bladen County Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$14.40,WA
+Bladen County Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$32.40,WA
+Bladen County Hospital,Chemistry,HCPCS 84402,Testosterone Level; Free,$24.00,WA
+Bladen County Hospital,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$6.00,WA
+Bladen County Hospital,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$213.00,WA
+Bladen County Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$38.40,WA
+Bladen County Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$47.40,WA
+Bladen County Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$45.00,WA
+Bladen County Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$22.80,WA
+Bladen County Hospital,Chemistry,HCPCS 84560,Uric acid level,$33.00,WA
+Bladen County Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$54.60,WA
+Bladen County Hospital,Chemistry,HCPCS 82340,Urine calcium level,$9.60,WA
+Bladen County Hospital,Chemistry,HCPCS 82436,Urine chloride level,$49.80,WA
+Bladen County Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$54.60,WA
+Bladen County Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$84.60,WA
+Bladen County Hospital,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$19.20,WA
+Bladen County Hospital,Chemistry,HCPCS 84133,Urine potassium level,$49.80,WA
+Bladen County Hospital,Chemistry,HCPCS 84300,Urine sodium level,$49.80,WA
+Bladen County Hospital,Chemistry,HCPCS 84591,Vitamin B-6 level,$15.00,WA
+Bladen County Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$47.40,WA
+Bladen County Hospital,Chemistry,HCPCS 84630,Zinc level,$10.80,WA
+Bladen County Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$18.60,WA
+Bladen County Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$75.60,WA
+Bladen County Hospital,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$18.60,WA
+Bladen County Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$44.40,WA
+Bladen County Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$72.00,WA
+Bladen County Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$18.60,WA
+Bladen County Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$13.20,WA
+Bladen County Hospital,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$13.20,WA
+Bladen County Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$10.20,WA
+Bladen County Hospital,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$24.60,WA
+Bladen County Hospital,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$50.40,WA
+Bladen County Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$46.80,WA
+Bladen County Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$24.60,WA
+Bladen County Hospital,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$16.20,WA
+Bladen County Hospital,Immunology,HCPCS 86161,Measurement of complement (immune system proteins),$79.80,WA
+Bladen County Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$12.00,WA
+Bladen County Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$81.60,WA
+Bladen County Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$15.60,WA
+Bladen County Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$61.80,WA
+Bladen County Hospital,Immunology,HCPCS 86580,Skin test for tuberculosis,$17.10,WA
+Bladen County Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$48.00,WA
+Bladen County Hospital,Immunology,HCPCS 86361,T cell count and ratio,$154.20,WA
+Bladen County Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$177.00,WA
+Bladen County Hospital,Immunology,HCPCS 86359,"T cells count, total",$48.60,WA
+Bladen County Hospital,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$15.00,WA
+Bladen County Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$119.40,WA
+Bladen County Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$24.00,WA
+Bladen County Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$120.00,WA
+Bladen County Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$30.79,WA
+Bladen County Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$31.80,WA
+Bladen County Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$115.80,WA
+Bladen County Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$169.80,WA
+Bladen County Hospital,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$12.00,WA
+Bladen County Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$273.60,WA
+Bladen County Hospital,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$120.00,WA
+Bladen County Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$144.00,WA
+Bladen County Hospital,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$48.60,WA
+Bladen County Hospital,Microbiology,HCPCS 87624,HPV Detection,$51.00,WA
+Bladen County Hospital,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$140.40,WA
+Bladen County Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$16.80,WA
+Bladen County Hospital,Microbiology,HCPCS 86747,Parvovirus antibody test,$18.00,WA
+Bladen County Hospital,Microbiology,HCPCS 86762,Rubella virus antibody test,$18.00,WA
+Bladen County Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$16.80,WA
+Bladen County Hospital,Microbiology,HCPCS 87207,Smear for infectious agents,$14.40,WA
+Bladen County Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$14.40,WA
+Bladen County Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$54.00,WA
+Bladen County Hospital,Microbiology,HCPCS 87045,Stool Culture,$148.20,WA
+Bladen County Hospital,Microbiology,HCPCS 87880,Strep Test,$98.40,WA
+Bladen County Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$36.60,WA
+Bladen County Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$64.20,WA
+Bladen County Hospital,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$18.60,WA
+Bladen County Hospital,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$84.60,WA
+Bladen County Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$43.80,WA
+Bladen County Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$113.40,WA
+Bladen County Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$135.00,WA
+Bladen County Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$79.20,WA
+Bladen County Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$127.20,WA
+Bladen County Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$93.60,WA
+Bladen County Hospital,Organ or Disease Oriented Panels,HCPCS 80055,Obstetric blood test panel,$168.00,WA
+Bladen County Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$148.80,WA
+Bladen County Hospital,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$18.00,WA
+Bladen County Hospital,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$25.20,WA
+Bladen County Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$73.80,WA
+Bladen County Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$195.00,WA
+Bladen County Hospital,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$27.60,WA
+Bladen County Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$95.40,WA
+Bladen County Hospital,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$99.00,WA
+Bladen County Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$89.40,WA
+Bladen County Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$58.80,WA
+Bladen County Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$110.40,WA
+Bladen County Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$202.80,WA
+Bladen County Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$43.80,WA
+Bladen County Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$43.80,WA
+Bladen County Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$38.40,WA
+Bladen County Hospital,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$82.80,WA
+Bladen County Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$54.00,WA
+Bladen County Hospital,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$35.40,WA
+Bladen County Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$66.00,WA
+Bladen County Hospital,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$21.00,WA
+Bladen County Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$28.80,WA
+Bladen County Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$55.20,WA
+Bladen County Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$54.60,WA
+Bladen County Hospital,Cardiovascular,MSDRG 310,Cardiac arrhythmia / irregular heartbeat,"$8,407.23",WA
+Bladen County Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$908.40,WA
+Bladen County Hospital,Cardiovascular,MSDRG 313,Chest pain,"$11,640.24",WA
+Bladen County Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$130.20,WA
+Bladen County Hospital,Cardiovascular,MSDRG 282,Heart attack,"$18,775.51",WA
+Bladen County Hospital,Cardiovascular,MSDRG 293,Heart failure and shock,"$8,991.87",WA
+Bladen County Hospital,Cardiovascular,MSDRG 305,Hypertension,"$9,023.23",WA
+Bladen County Hospital,Cardiovascular,MSDRG 312,Loss of conciousness and collapse,"$12,142.34",WA
+Bladen County Hospital,Cardiovascular,MSDRG 208,Respiratory system diagnosis with ventilator support <=96 hours,"$36,568.27",WA
+Bladen County Hospital,Cardiovascular,MSDRG 207,Respiratory system diagnosis with ventilator support >96 hours,"$106,940.99",WA
+Bladen County Hospital,Other Non-Surgical Procedures,MSDRG 203,Bronchitis and asthma,"$4,311.49",WA
+Bladen County Hospital,Other Non-Surgical Procedures,MSDRG 603,Cellulitis,"$13,860.98",WA
+Bladen County Hospital,Other Non-Surgical Procedures,MSDRG 639,Diabetes,"$6,011.53",WA
+Bladen County Hospital,Other Non-Surgical Procedures,MSDRG 440,Disorders of pancreas,"$8,258.19",WA
+Bladen County Hospital,Other Non-Surgical Procedures,MSDRG 392,"Esophagitis, gastroenteritis and miscellaneous digestive disorders","$13,311.32",WA
+Bladen County Hospital,Other Non-Surgical Procedures,MSDRG 536,Fractures of hip and pelvis,"$11,194.46",WA
+Bladen County Hospital,Other Non-Surgical Procedures,MSDRG 563,"Fracture, sprain, strain and dislocation except femur, hip, pelvis and thigh","$11,873.03",WA
+Bladen County Hospital,Other Non-Surgical Procedures,MSDRG 379,Gastrointestinal hemorrhage,"$9,299.48",WA
+Bladen County Hospital,Other Non-Surgical Procedures,MSDRG 390,Gastrointestinal obstruction,"$9,359.05",WA
+Bladen County Hospital,Other Non-Surgical Procedures,MSDRG 690,Kidney and urinary tract infections,"$16,593.70",WA
+Bladen County Hospital,Other Non-Surgical Procedures,MSDRG 373,Major gastrointestinal disorders and peritoneal infections,"$10,101.31",WA
+Bladen County Hospital,Other Non-Surgical Procedures,MSDRG 552,Medical back problems,"$16,080.25",WA
+Bladen County Hospital,Other Non-Surgical Procedures,MSDRG 195,Pneumonia,"$14,945.75",WA
+Bladen County Hospital,Other Non-Surgical Procedures,MSDRG 812,Red blood cell disorders,"$13,063.33",WA
+Bladen County Hospital,Other Non-Surgical Procedures,MSDRG 684,Renal failure,"$11,612.33",WA
+Bladen County Hospital,Other Non-Surgical Procedures,MSDRG 101,Seizures,"$10,856.68",WA
+Bladen County Hospital,Other Non-Surgical Procedures,MSDRG 872,Sepsis (blood infection),"$21,873.74",WA
+Bladen County Hospital,Other Non-Surgical Procedures,MSDRG 870,Septicemia or severe sepsis with mv >96 hours,"$107,888.60",WA
+Bladen County Hospital,Other Non-Surgical Procedures,MSDRG 558,"Tendonitis, myositis and bursitis","$9,457.55",WA
+Bladen County Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,$219.90,WA
+Bladen County Hospital,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$303.60,WA
+Bladen County Hospital,Pulmonary,MSDRG 192,Chronic obstructive pulmonary disease (COPD),"$7,931.26",WA
+Bladen County Hospital,Pulmonary,MSDRG 189,Pulmonary edema and respiratory failure,"$16,193.19",WA
+Bladen County Hospital,Pulmonary,MSDRG 176,Pulmonary embolism (blood clot in lung),"$12,347.76",WA
+Bladen County Hospital,Pulmonary,HCPCS 94618,Pulmonary stress test,$176.55,WA
+Bladen County Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$206.85,WA
+Bladen County Hospital,Sleep,HCPCS 95810,Sleep study,"$2,263.20",WA
+Bladen County Hospital,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$45.00,WA
+Bladen County Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$91.20,WA
+Bladen County Hospital,Breast,HCPCS 77067,Mammogram Screening,$176.40,WA
+Bladen County Hospital,Breast,HCPCS 77066,Mammography of both breasts,$204.60,WA
+Bladen County Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,623.00",WA
+Bladen County Hospital,CT Scan,HCPCS 74175,CT angiography scan of abdomen,"$2,544.60",WA
+Bladen County Hospital,CT Scan,HCPCS 74174,CTA scan of abdomen,$666.00,WA
+Bladen County Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,499.40",WA
+Bladen County Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,026.60",WA
+Bladen County Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,044.00",WA
+Bladen County Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,414.60",WA
+Bladen County Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,966.40",WA
+Bladen County Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,496.60",WA
+Bladen County Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,724.40",WA
+Bladen County Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$2,067.00",WA
+Bladen County Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,158.60",WA
+Bladen County Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,008.60",WA
+Bladen County Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,242.00",WA
+Bladen County Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,287.00",WA
+Bladen County Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$2,462.40",WA
+Bladen County Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,610.60",WA
+Bladen County Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,480.40",WA
+Bladen County Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$3,422.40",WA
+Bladen County Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,496.00",WA
+Bladen County Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$3,304.20",WA
+Bladen County Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$4,389.60",WA
+Bladen County Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,803.00",WA
+Bladen County Hospital,MRI,HCPCS 74182,MRI scan of abdomen with contrast,"$3,704.40",WA
+Bladen County Hospital,MRI,HCPCS 74181,MRI scan of abdomen without contrast,"$1,915.20",WA
+Bladen County Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,334.80",WA
+Bladen County Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,645.40",WA
+Bladen County Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$1,724.40",WA
+Bladen County Hospital,Chest,HCPCS 76706,"Ultrasound, aortic aneurisum screening",$192.30,WA
+Bladen County Hospital,Hip and Pelvis,HCPCS 76815,"Ultrasound, pregnancy",$253.20,WA
+Bladen County Hospital,Hip and Pelvis,HCPCS 76801,"Ultrasound, pregnancy, 1st trimester",$517.80,WA
+Bladen County Hospital,Hip and Pelvis,HCPCS 76816,"Ultrasound, pregnancy, transabdominal (pelvis)",$329.40,WA
+Bladen County Hospital,Hip and Pelvis,HCPCS 76817,"Ultrasound, pregnancy, transvaginal",$517.80,WA
+Bladen County Hospital,Hip and Pelvis,HCPCS 76870,"Ultrasound, testical",$438.60,WA
+Bladen County Hospital,Other Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$517.80,WA
+Bladen County Hospital,Other Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$645.90,WA
+Bladen County Hospital,Other Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$570.60,WA
+Bladen County Hospital,Other Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$470.40,WA
+Bladen County Hospital,Other Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$453.60,WA
+Bladen County Hospital,Other Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$649.80,WA
+Bladen County Hospital,Other Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$468.00,WA
+Bladen County Hospital,Other Ultrasound,HCPCS 76857,Ultrasound of pelvis,$280.48,WA
+Bladen County Hospital,Other Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$388.20,WA
+Bladen County Hospital,Other Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$439.20,WA
+Bladen County Hospital,Other Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$414.60,WA
+Bladen County Hospital,Upper Limbs,HCPCS 76882,"Ultrasound, shoulder joint/soft tissue",$414.60,WA
+Bladen County Hospital,Abdomen,HCPCS 74018,"X-ray abdomen, 1 view",$221.25,WA
+Bladen County Hospital,Abdomen,HCPCS 74019,"X-ray abdomen, 2 views",$233.40,WA
+Bladen County Hospital,Abdomen,HCPCS 74021,"X-ray abdomen, 3 or more views",$326.25,WA
+Bladen County Hospital,Chest,HCPCS 71270,CT scan of chest with and without contrast,"$1,102.20",WA
+Bladen County Hospital,Chest,HCPCS 76641,Ultrasound of breasts (both),$150.00,WA
+Bladen County Hospital,Chest,HCPCS 76642,Ultrasound of breast (single),$150.00,WA
+Bladen County Hospital,Chest,HCPCS 76604,Ultrasound of chest,$239.40,WA
+Bladen County Hospital,Chest,HCPCS 71047,"X-ray chest, 2 views",$179.55,WA
+Bladen County Hospital,Chest,HCPCS 71048,"X-ray chest, 4 or more views",$202.20,WA
+Bladen County Hospital,Chest,HCPCS 71120,"X-ray chest (sternum), 2 or more views",$201.60,WA
+Bladen County Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$306.60,WA
+Bladen County Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$175.20,WA
+Bladen County Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$145.05,WA
+Bladen County Hospital,Chest,HCPCS 71110,"X-ray ribs, bilateral, 3 or more views",$297.17,WA
+Bladen County Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$175.20,WA
+Bladen County Hospital,Chest,HCPCS 71101,"X-ray ribs, unilateral, 3 or more views",$248.40,WA
+Bladen County Hospital,Head and Neck,HCPCS 70496,CTA scan of head,"$1,322.40",WA
+Bladen County Hospital,Head and Neck,HCPCS 70498,CTA scan of neck,"$1,794.00",WA
+Bladen County Hospital,Head and Neck,HCPCS 70481,CT scan of eye with contrast,"$1,234.80",WA
+Bladen County Hospital,Head and Neck,HCPCS 70480,CT scan of eye without contrast,"$1,072.20",WA
+Bladen County Hospital,Head and Neck,HCPCS 70487,CT scan of face with contrast,"$1,200.60",WA
+Bladen County Hospital,Head and Neck,HCPCS 70488,CT scan of face without contrast,"$1,441.20",WA
+Bladen County Hospital,Head and Neck,HCPCS 70460,CT scan of head with contrast,"$1,145.40",WA
+Bladen County Hospital,Head and Neck,HCPCS 70470,CT scan of head without contrast,"$1,434.00",WA
+Bladen County Hospital,Head and Neck,HCPCS 70492,CT scan of neck with contrast,"$1,492.20",WA
+Bladen County Hospital,Head and Neck,HCPCS 70490,CT scan of neck without contrast,"$1,081.20",WA
+Bladen County Hospital,Head and Neck,HCPCS 70546,MRA scan of head with and without contrast,"$3,550.15",WA
+Bladen County Hospital,Head and Neck,HCPCS 70549,MRA scan of neck with and without contrast,"$3,235.80",WA
+Bladen County Hospital,Head and Neck,HCPCS 70548,MRA scan of neck with contrast,"$2,462.40",WA
+Bladen County Hospital,Head and Neck,HCPCS 70547,MRA scan of neck without contrast,"$2,293.80",WA
+Bladen County Hospital,Head and Neck,HCPCS 70552,MRI scan of brain with contrast,"$3,042.60",WA
+Bladen County Hospital,Head and Neck,HCPCS 70543,"MRI scan of orbits, face, or soft tissue of the neck with and without contrast","$3,748.20",WA
+Bladen County Hospital,Head and Neck,HCPCS 70542,"MRI scan of orbits, face, or soft tissue of the neck with contrast","$1,508.40",WA
+Bladen County Hospital,Head and Neck,HCPCS 70540,"MRI scan of orbits, face, or soft tissue of the neck without contrast","$2,832.00",WA
+Bladen County Hospital,Head and Neck,HCPCS 70140,"X-ray facial bones, 1-2 views",$151.20,WA
+Bladen County Hospital,Head and Neck,HCPCS 70100,"X-ray jaw, less than 4 views",$132.00,WA
+Bladen County Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$298.20,WA
+Bladen County Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$186.00,WA
+Bladen County Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$282.00,WA
+Bladen County Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$189.60,WA
+Bladen County Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$192.00,WA
+Bladen County Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$292.80,WA
+Bladen County Hospital,Head and Neck,HCPCS 70200,"X-ray orbits, 4 or more views",$282.60,WA
+Bladen County Hospital,Head and Neck,HCPCS 70220,"X-ray sinuses, 3 views",$220.80,WA
+Bladen County Hospital,Head and Neck,HCPCS 70250,"X-ray skull, less than 4 views",$242.40,WA
+Bladen County Hospital,Hip and Pelvis,HCPCS 72191,CTA scan of pelvis,"$1,662.60",WA
+Bladen County Hospital,Hip and Pelvis,HCPCS 72194,CT scan of pelvis with and without contrast,"$1,347.60",WA
+Bladen County Hospital,Hip and Pelvis,HCPCS 72192,CT scan of pelvis without contrast,$997.20,WA
+Bladen County Hospital,Hip and Pelvis,HCPCS 72197,MRI scan of pelvis with and without contrast,"$3,380.40",WA
+Bladen County Hospital,Hip and Pelvis,HCPCS 72195,MRI scan of pelvis without contrast,"$2,448.60",WA
+Bladen County Hospital,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$171.30,WA
+Bladen County Hospital,Hip and Pelvis,HCPCS 73501,"X-ray hip and pelvis, 1 view",$115.80,WA
+Bladen County Hospital,Hip and Pelvis,HCPCS 73521,"X-ray hip and pelvis, 2 views",$171.30,WA
+Bladen County Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$216.00,WA
+Bladen County Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$193.20,WA
+Bladen County Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$141.00,WA
+Bladen County Hospital,Hip and Pelvis,HCPCS 72220,"X-ray sacrum and coccyx, 2 or more views",$149.40,WA
+Bladen County Hospital,Lower Limbs,HCPCS 73706,"CTA scan of hip, knee, ankle, or foot","$1,188.60",WA
+Bladen County Hospital,Lower Limbs,HCPCS 73702,"CT scan of hip, knee, ankle, or foot with and without contrast","$1,016.40",WA
+Bladen County Hospital,Lower Limbs,HCPCS 73701,"CT scan of hip, knee, ankle, or foot with contrast",$826.20,WA
+Bladen County Hospital,Lower Limbs,HCPCS 73700,"CT scan of hip, knee, ankle, or foot without contrast",$700.20,WA
+Bladen County Hospital,Lower Limbs,HCPCS 73723,"MRI scan of hip, knee, ankle, or foot joints with and without contrast","$2,361.60",WA
+Bladen County Hospital,Lower Limbs,HCPCS 73722,"MRI scan of hip, knee, ankle, or foot joints with contrast","$1,818.00",WA
+Bladen County Hospital,Lower Limbs,HCPCS 73720,MRI scan of leg with and without contrast,"$2,278.80",WA
+Bladen County Hospital,Lower Limbs,HCPCS 73718,MRI scan of leg without contrast,"$1,672.20",WA
+Bladen County Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$170.40,WA
+Bladen County Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$243.60,WA
+Bladen County Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$97.80,WA
+Bladen County Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$241.80,WA
+Bladen County Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$241.20,WA
+Bladen County Hospital,Lower Limbs,HCPCS 73551,"X-ray femur, 1 view",$103.05,WA
+Bladen County Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$103.05,WA
+Bladen County Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$174.60,WA
+Bladen County Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$174.00,WA
+Bladen County Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$204.60,WA
+Bladen County Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$242.40,WA
+Bladen County Hospital,Lower Limbs,HCPCS 73592,X-ray lower extremities for infant,$105.00,WA
+Bladen County Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$177.60,WA
+Bladen County Hospital,Lower Limbs,HCPCS 73660,"X-ray toes, 2 or more views",$138.00,WA
+Bladen County Hospital,Other X-ray,HCPCS 77073,Bone length scanogram,$160.80,WA
+Bladen County Hospital,Other X-ray,HCPCS 74300,"X-ray bile ducts, with contrast (cholangiogram)",$411.60,WA
+Bladen County Hospital,Other X-ray,HCPCS 74280,"X-ray colon, with contrast",$635.40,WA
+Bladen County Hospital,Other X-ray,HCPCS 74270,"X-ray colon, with or without contrast",$537.00,WA
+Bladen County Hospital,Other X-ray,HCPCS 74220,X-ray esophagus (esophogram),$342.60,WA
+Bladen County Hospital,Other X-ray,HCPCS 76010,X-ray of child for foreign body,$117.00,WA
+Bladen County Hospital,Other X-ray,HCPCS 74250,X-ray small bowel,$306.60,WA
+Bladen County Hospital,Other X-ray,HCPCS 74230,"X-ray, swallowing function study",$349.16,WA
+Bladen County Hospital,Spine,HCPCS 72127,CT scan of cervical spine with and without contrast,"$1,198.20",WA
+Bladen County Hospital,Spine,HCPCS 72125,CT scan of cervical spine without contrast,"$1,143.00",WA
+Bladen County Hospital,Spine,HCPCS 72133,CT scan of lumbar spine with and without contrast,"$1,646.40",WA
+Bladen County Hospital,Spine,HCPCS 72132,CT scan of lumbar spine with contrast,"$1,357.80",WA
+Bladen County Hospital,Spine,HCPCS 72131,CT scan of lumbar spine without contrast,"$1,258.80",WA
+Bladen County Hospital,Spine,HCPCS 72130,CT scan of thoracic spine with and without contrast,"$1,526.40",WA
+Bladen County Hospital,Spine,HCPCS 72129,CT scan of thoracic spine with contrast,"$1,208.40",WA
+Bladen County Hospital,Spine,HCPCS 72128,CT scan of thoracic spine without contrast,"$1,105.20",WA
+Bladen County Hospital,Spine,HCPCS 72149,MRI scan of lumbar spine with contrast,"$2,779.80",WA
+Bladen County Hospital,Spine,HCPCS 72157,MRI scan of thoracic spine with and without contrast,"$3,602.40",WA
+Bladen County Hospital,Spine,HCPCS 72020,"X-ray cervical spine, 1 view",$215.40,WA
+Bladen County Hospital,Spine,HCPCS 72050,"X-ray cervical spine, 4 or more views",$243.60,WA
+Bladen County Hospital,Spine,HCPCS 72114,"X-ray complete lumbar spine (with bending), 6 or more views",$439.20,WA
+Bladen County Hospital,Spine,HCPCS 72081,"X-ray entire spine (scoliosis evaluation), 1 view",$246.00,WA
+Bladen County Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$370.80,WA
+Bladen County Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$250.80,WA
+Bladen County Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$431.40,WA
+Bladen County Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$197.40,WA
+Bladen County Hospital,Spine,HCPCS 72080,"X-ray thoracic-lumbar spine, 2 views",$291.45,WA
+Bladen County Hospital,Spine,HCPCS 72070,"X-ray thoracic spine, 2 views",$244.20,WA
+Bladen County Hospital,Upper Limbs,HCPCS 73206,"CTA scan of shoulder, arm, or hand","$1,239.60",WA
+Bladen County Hospital,Upper Limbs,HCPCS 73202,"CT scan of shoulder, arm, or hand with and without contrast","$1,016.40",WA
+Bladen County Hospital,Upper Limbs,HCPCS 73201,"CT scan of shoulder, arm, or hand with contrast",$967.20,WA
+Bladen County Hospital,Upper Limbs,HCPCS 73200,"CT scan of shoulder, arm, or hand without contrast",$905.40,WA
+Bladen County Hospital,Upper Limbs,HCPCS 73220,"MRI scan of shoulder, arm, or hand with and without contrast","$1,949.66",WA
+Bladen County Hospital,Upper Limbs,HCPCS 73218,"MRI scan of shoulder, arm, or hand without contrast","$1,276.20",WA
+Bladen County Hospital,Upper Limbs,HCPCS 73223,"MRI scan of shoulder, elbow, or hand joints with and without contrast","$2,333.40",WA
+Bladen County Hospital,Upper Limbs,HCPCS 73222,"MRI scan of shoulder, elbow, or hand joints with contrast","$1,909.20",WA
+Bladen County Hospital,Upper Limbs,HCPCS 73000,"X-ray clavicle, 1 view",$173.40,WA
+Bladen County Hospital,Upper Limbs,HCPCS 73070,"X-ray elbow, 2 views",$198.60,WA
+Bladen County Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$300.60,WA
+Bladen County Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$145.20,WA
+Bladen County Hospital,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$219.00,WA
+Bladen County Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$159.00,WA
+Bladen County Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$225.60,WA
+Bladen County Hospital,Upper Limbs,HCPCS 73060,"X-ray humerus, 1 view",$197.40,WA
+Bladen County Hospital,Upper Limbs,HCPCS 73010,"X-ray scapula, 1 view",$147.60,WA
+Bladen County Hospital,Upper Limbs,HCPCS 73020,"X-ray shoulder, 1 view",$128.40,WA
+Bladen County Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$264.00,WA
+Bladen County Hospital,Upper Limbs,HCPCS 73050,X-ray shoulder (AC joint),$208.20,WA
+Bladen County Hospital,Upper Limbs,HCPCS 73092,X-ray upper extremities for infant,$193.20,WA
+Bladen County Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$129.00,WA
+Bladen County Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$190.80,WA
+Bladen County Hospital,Abdomenal,MSDRG 343,Appendectomy (Inpatient),"$11,795.84",WA
+Bladen County Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$135.75,WA
+Bladen County Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$135.75,WA
+Bladen County Hospital,Abdomenal,MSDRG 419,Laparoscopic cholecystectomy (Inpatient),"$14,225.17",WA
+Bladen County Hospital,Auditory System,HCPCS 69209,"Removal of ear wax, 1 ear",$94.80,WA
+Bladen County Hospital,Auditory System,HCPCS 69210,"Removal of ear wax, both ears",$99.00,WA
+Bladen County Hospital,Cardiac,MSDRG 227,Cardiac defibrillator implant without cardiac catherization,"$114,346.98",WA
+Bladen County Hospital,Cardiac,MSDRG 216,Cardiac valve procedure with cardiac catheterization (major complications),"$177,412.99",WA
+Bladen County Hospital,Cardiac,MSDRG 234,Coronary bypass with cardiac catheterization,"$84,872.77",WA
+Bladen County Hospital,Cardiac,MSDRG 236,Coronary bypass without cardiac catheterization,"$56,601.80",WA
+Bladen County Hospital,Cardiac,MSDRG 217,Heart valve procedure with catheterization (complications),"$125,990.27",WA
+Bladen County Hospital,Cardiac,MSDRG 220,Heart valve procedure without catheterization (complications),"$73,228.17",WA
+Bladen County Hospital,Cardiac,MSDRG 219,Heart valve procedure without catheterization (major complications),"$162,683.14",WA
+Bladen County Hospital,Cardiac,MSDRG 221,Heart valve procedure without catheterization (no complications),"$103,164.96",WA
+Bladen County Hospital,Cardiac,MSDRG 266,Heart valve replacement (major complications),"$156,880.88",WA
+Bladen County Hospital,Cardiac,MSDRG 267,Heart valve replacement (no complications),"$162,032.54",WA
+Bladen County Hospital,Cardiac,MSDRG 247,Implant drug-eluting stent,"$52,849.88",WA
+Bladen County Hospital,Cardiac,MSDRG 244,Implant Permanent Cardiac Pacemaker,"$43,514.72",WA
+Bladen County Hospital,Cardiac,HCPCS 36415,Venipuncture (blood collection),$17.10,WA
+Bladen County Hospital,Digestive,HCPCS 47000,Biopsy of liver via needle inserted into skin,$711.00,WA
+Bladen County Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$1,194.75",WA
+Bladen County Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$1,194.75",WA
+Bladen County Hospital,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$1,194.75",WA
+Bladen County Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,194.75",WA
+Bladen County Hospital,Digestive,HCPCS 43235,EGD,"$1,183.05",WA
+Bladen County Hospital,Digestive,HCPCS 43239,EGD and biopsy,"$1,183.05",WA
+Bladen County Hospital,Digestive,MSDRG 331,Major small and large bowel procedures,"$24,609.35",WA
+Bladen County Hospital,Digestive,HCPCS 49083,Paracentesis (removal of fluid from peritoneal cavity) with guidance,"$1,288.30",WA
+Bladen County Hospital,Female Reproductive,HCPCS 59025,Fetal non-stress test,$201.60,WA
+Bladen County Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$11,429.91",WA
+Bladen County Hospital,General,HCPCS 10060,Drainage of Abscess,$235.20,WA
+Bladen County Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$534.45,WA
+Bladen County Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$248.70,WA
+Bladen County Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$283.95,WA
+Bladen County Hospital,Musculoskeletal,HCPCS 29130,Application of finger splint,$248.70,WA
+Bladen County Hospital,Musculoskeletal,HCPCS 29105,Application of full arm cast/splint,$241.35,WA
+Bladen County Hospital,Musculoskeletal,HCPCS 29505,Application of full leg cast/splint,$241.35,WA
+Bladen County Hospital,Musculoskeletal,HCPCS 29125,Application of short arm cast/splint (below the elbow),$248.70,WA
+Bladen County Hospital,Musculoskeletal,HCPCS 29515,Application of short leg cast/splint (below the knee),$241.35,WA
+Bladen County Hospital,Musculoskeletal,HCPCS 20605,Arthrocentesis (drainage) of joint,$398.85,WA
+Bladen County Hospital,Musculoskeletal,HCPCS 20600,Arthrocentesis (drainage) of small joint,$398.85,WA
+Bladen County Hospital,Musculoskeletal,MSDRG 455,Bi-lateral (combined anterior/posterior) spinal fusion,"$88,339.31",WA
+Bladen County Hospital,Musculoskeletal,MSDRG 482,Hip and femur procedures,"$26,838.91",WA
+Bladen County Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$29,839.94",WA
+Bladen County Hospital,Musculoskeletal,MSDRG 494,"Lower extremity and humerus procedures except hip, foot and femur","$20,851.64",WA
+Bladen County Hospital,Musculoskeletal,MSDRG 483,Major joint/limb reattachment procedure of upper extremities,"$40,390.79",WA
+Bladen County Hospital,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$44,009.69",WA
+Bladen County Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$91,944.80",WA
+Bladen County Hospital,Musculoskeletal,HCPCS 23650,Treatment of shoulder dislocation without anesthesia,$404.25,WA
+Bladen County Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$9,009.41",WA
+Bladen County Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$4,535.86",WA
+Bladen County Hospital,Skin,HCPCS 10061,Drainage of skin abscess,$255.60,WA
+Bladen County Hospital,Skin,HCPCS 10160,Image-guided puncture and drainage (aspiration) of cyst or abscess,$305.85,WA
+Bladen County Hospital,Skin,MSDRG 581,"Other skin, subcutaneous tissue and breast procedures","$11,313.50",WA
+Bladen County Hospital,Skin,HCPCS 10140,Surgical drainage of hematoma or seroma,$84.60,WA
+Bladen County Hospital,Skin,HCPCS 19083,Ultrasound-guided breast biopsy,"$1,183.12",WA
+Bladen County Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$124.20,WA
+Bladen County Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$80.40,WA
+Bladen County Hospital,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$143.42,WA
+Bladen County Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$12.75,WA
+Bladen County Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,364.70",WA
+Bladen County Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$505.20,WA
