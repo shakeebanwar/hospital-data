@@ -1,0 +1,418 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Chatham Hospital,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$219.00,WA
+Chatham Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes",$493.20,WA
+Chatham Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$58.80,WA
+Chatham Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$78.00,WA
+Chatham Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$116.40,WA
+Chatham Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,$213.00,WA
+Chatham Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,$309.60,WA
+Chatham Hospital,Hospital,HCPCS 99234,Hospital observation care discharge,$237.60,WA
+Chatham Hospital,Hospital,HCPCS 99219,Hospital observation care typically 30 minutes,$241.20,WA
+Chatham Hospital,Hospital,HCPCS 99235,"Hospital observation or inpatient care moderate severity, 50 minutes per day",$300.60,WA
+Chatham Hospital,Hospital,HCPCS 99218,Hospital Observation per Hour,$177.60,WA
+Chatham Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$156.60,WA
+Chatham Hospital,Office Visit,HCPCS 99243,"Patient office consultation, typically 40 min",$196.20,WA
+Chatham Hospital,Office Visit,HCPCS 99244,"Patient office consultation, typically 60 min",$294.60,WA
+Chatham Hospital,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$364.20,WA
+Chatham Hospital,Speech,HCPCS 92507,Speech Therapy,$165.00,WA
+Chatham Hospital,Speech,HCPCS 92610,Swallow Evaluation,$169.80,WA
+Chatham Hospital,Speech,HCPCS 92526,Swallow Treatment,$143.40,WA
+Chatham Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$31.20,WA
+Chatham Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$31.20,WA
+Chatham Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$28.80,WA
+Chatham Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$33.00,WA
+Chatham Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$15.60,WA
+Chatham Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$90.60,WA
+Chatham Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$95.40,WA
+Chatham Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$68.40,WA
+Chatham Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$42.00,WA
+Chatham Hospital,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$148.20,WA
+Chatham Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$75.60,WA
+Chatham Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$342.00,WA
+Chatham Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$56.40,WA
+Chatham Hospital,Chemistry,HCPCS 82140,Ammonia level,$108.60,WA
+Chatham Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$72.60,WA
+Chatham Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$211.80,WA
+Chatham Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$88.20,WA
+Chatham Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$132.60,WA
+Chatham Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$51.60,WA
+Chatham Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$42.00,WA
+Chatham Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$58.20,WA
+Chatham Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$48.60,WA
+Chatham Hospital,Chemistry,HCPCS 84132,Blood potassium level,$46.20,WA
+Chatham Hospital,Chemistry,HCPCS 84295,Blood sodium level,$50.40,WA
+Chatham Hospital,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$52.80,WA
+Chatham Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$86.40,WA
+Chatham Hospital,Chemistry,HCPCS 82310,Calcium level,$56.40,WA
+Chatham Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$70.80,WA
+Chatham Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$129.00,WA
+Chatham Hospital,Chemistry,HCPCS 82465,Cholesterol level,$52.80,WA
+Chatham Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$59.40,WA
+Chatham Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$67.80,WA
+Chatham Hospital,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$86.40,WA
+Chatham Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$86.40,WA
+Chatham Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$94.20,WA
+Chatham Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$100.20,WA
+Chatham Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$85.20,WA
+Chatham Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$39.60,WA
+Chatham Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$40.20,WA
+Chatham Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$84.60,WA
+Chatham Hospital,Chemistry,HCPCS 83718,HDL cholesterol level,$63.00,WA
+Chatham Hospital,Chemistry,HCPCS 83020,Hemoglobin Measurement,$34.20,WA
+Chatham Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$164.40,WA
+Chatham Hospital,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$104.40,WA
+Chatham Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$62.40,WA
+Chatham Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$23.40,WA
+Chatham Hospital,Chemistry,HCPCS 83540,Iron level,$67.80,WA
+Chatham Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$33.00,WA
+Chatham Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$52.80,WA
+Chatham Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$68.40,WA
+Chatham Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$45.00,WA
+Chatham Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$93.00,WA
+Chatham Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$91.20,WA
+Chatham Hospital,Chemistry,HCPCS 83735,Magnesium Level,$63.00,WA
+Chatham Hospital,Chemistry,HCPCS 82542,Mass spectrometry,$160.80,WA
+Chatham Hospital,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$127.80,WA
+Chatham Hospital,Chemistry,HCPCS 83915,Nucleotidase 5' (enzyme) level,$130.80,WA
+Chatham Hospital,Chemistry,HCPCS 83970,Parathormone,$165.60,WA
+Chatham Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$25.80,WA
+Chatham Hospital,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$253.80,WA
+Chatham Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$137.40,WA
+Chatham Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$72.60,WA
+Chatham Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$14.40,WA
+Chatham Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$133.80,WA
+Chatham Hospital,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$38.40,WA
+Chatham Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$31.20,WA
+Chatham Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$63.00,WA
+Chatham Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$40.20,WA
+Chatham Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$72.60,WA
+Chatham Hospital,Chemistry,HCPCS 84560,Uric acid level,$30.00,WA
+Chatham Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$50.40,WA
+Chatham Hospital,Chemistry,HCPCS 82340,Urine calcium level,$28.80,WA
+Chatham Hospital,Chemistry,HCPCS 82436,Urine chloride level,$25.80,WA
+Chatham Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$112.20,WA
+Chatham Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$67.80,WA
+Chatham Hospital,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$112.80,WA
+Chatham Hospital,Chemistry,HCPCS 84133,Urine potassium level,$46.20,WA
+Chatham Hospital,Chemistry,HCPCS 84300,Urine sodium level,$43.80,WA
+Chatham Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$210.60,WA
+Chatham Hospital,Chemistry,HCPCS 84630,Zinc level,$93.60,WA
+Chatham Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$88.20,WA
+Chatham Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$88.80,WA
+Chatham Hospital,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$88.20,WA
+Chatham Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$94.20,WA
+Chatham Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$91.20,WA
+Chatham Hospital,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$97.20,WA
+Chatham Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$112.80,WA
+Chatham Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$78.60,WA
+Chatham Hospital,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$46.80,WA
+Chatham Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$68.40,WA
+Chatham Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$18.00,WA
+Chatham Hospital,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$90.60,WA
+Chatham Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$75.00,WA
+Chatham Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$20.40,WA
+Chatham Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$30.60,WA
+Chatham Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$50.40,WA
+Chatham Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$39.60,WA
+Chatham Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$102.00,WA
+Chatham Hospital,Immunology,HCPCS 86359,"T cells count, total",$108.60,WA
+Chatham Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$15.60,WA
+Chatham Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$112.20,WA
+Chatham Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$65.40,WA
+Chatham Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$112.20,WA
+Chatham Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$60.00,WA
+Chatham Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$67.80,WA
+Chatham Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$41.40,WA
+Chatham Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$419.40,WA
+Chatham Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$424.20,WA
+Chatham Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$564.00,WA
+Chatham Hospital,Microbiology,HCPCS 87624,HPV Detection,$65.40,WA
+Chatham Hospital,Microbiology,HCPCS 87230,Microbial toxin or antitoxin assay,$130.80,WA
+Chatham Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$81.00,WA
+Chatham Hospital,Microbiology,HCPCS 86747,Parvovirus antibody test,$102.60,WA
+Chatham Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$82.20,WA
+Chatham Hospital,Microbiology,HCPCS 87207,Smear for infectious agents,$146.40,WA
+Chatham Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$51.60,WA
+Chatham Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$66.00,WA
+Chatham Hospital,Microbiology,HCPCS 87045,Stool Culture,$102.60,WA
+Chatham Hospital,Microbiology,HCPCS 87880,Strep Test,$50.40,WA
+Chatham Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$22.20,WA
+Chatham Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$89.40,WA
+Chatham Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$313.80,WA
+Chatham Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$200.40,WA
+Chatham Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$267.00,WA
+Chatham Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$156.60,WA
+Chatham Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$214.20,WA
+Chatham Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$175.20,WA
+Chatham Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$86.40,WA
+Chatham Hospital,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$66.60,WA
+Chatham Hospital,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$143.40,WA
+Chatham Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$78.60,WA
+Chatham Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$29.40,WA
+Chatham Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$72.00,WA
+Chatham Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$112.80,WA
+Chatham Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$182.40,WA
+Chatham Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$103.20,WA
+Chatham Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$119.40,WA
+Chatham Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$49.20,WA
+Chatham Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$48.60,WA
+Chatham Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$70.80,WA
+Chatham Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$50.40,WA
+Chatham Hospital,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$80.40,WA
+Chatham Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$72.60,WA
+Chatham Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$33.00,WA
+Chatham Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$63.00,WA
+Chatham Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$80.40,WA
+Chatham Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$568.20,WA
+Chatham Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$236.40,WA
+Chatham Hospital,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$124.80,WA
+Chatham Hospital,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$187.20,WA
+Chatham Hospital,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$18.60,WA
+Chatham Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,$268.20,WA
+Chatham Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,$79.20,WA
+Chatham Hospital,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$324.00,WA
+Chatham Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$169.20,WA
+Chatham Hospital,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$119.40,WA
+Chatham Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$179.40,WA
+Chatham Hospital,Breast,HCPCS 77067,Mammogram Screening,$188.40,WA
+Chatham Hospital,Breast,HCPCS 77066,Mammography of both breasts,$283.20,WA
+Chatham Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,891.80",WA
+Chatham Hospital,CT Scan,HCPCS 74175,CT angiography scan of abdomen,"$1,891.80",WA
+Chatham Hospital,CT Scan,HCPCS 74174,CTA scan of abdomen,"$3,430.20",WA
+Chatham Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,420.20",WA
+Chatham Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,182.60",WA
+Chatham Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material","$1,212.60",WA
+Chatham Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,430.20",WA
+Chatham Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$3,010.20",WA
+Chatham Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,839.80",WA
+Chatham Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,593.00",WA
+Chatham Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,744.20",WA
+Chatham Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,862.40",WA
+Chatham Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,503.00",WA
+Chatham Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,512.60",WA
+Chatham Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,620.00",WA
+Chatham Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,491.60",WA
+Chatham Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,491.60",WA
+Chatham Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,491.60",WA
+Chatham Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,738.40",WA
+Chatham Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,918.80",WA
+Chatham Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$2,645.40",WA
+Chatham Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,556.60",WA
+Chatham Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,535.40",WA
+Chatham Hospital,MRI,HCPCS 74182,MRI scan of abdomen with contrast,"$2,121.60",WA
+Chatham Hospital,MRI,HCPCS 74181,MRI scan of abdomen without contrast,"$1,491.60",WA
+Chatham Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,890.80",WA
+Chatham Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,918.80",WA
+Chatham Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$1,535.40",WA
+Chatham Hospital,Chest,HCPCS 76706,"Ultrasound, aortic aneurisum screening",$392.40,WA
+Chatham Hospital,Hip and Pelvis,HCPCS 76815,"Ultrasound, pregnancy",$208.80,WA
+Chatham Hospital,Hip and Pelvis,HCPCS 76801,"Ultrasound, pregnancy, 1st trimester",$347.40,WA
+Chatham Hospital,Hip and Pelvis,HCPCS 76816,"Ultrasound, pregnancy, transabdominal (pelvis)",$226.80,WA
+Chatham Hospital,Hip and Pelvis,HCPCS 76817,"Ultrasound, pregnancy, transvaginal",$136.20,WA
+Chatham Hospital,Hip and Pelvis,HCPCS 76870,"Ultrasound, testical",$254.40,WA
+Chatham Hospital,Other Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$365.40,WA
+Chatham Hospital,Other Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$406.20,WA
+Chatham Hospital,Other Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$278.40,WA
+Chatham Hospital,Other Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$301.20,WA
+Chatham Hospital,Other Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$507.60,WA
+Chatham Hospital,Other Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$254.40,WA
+Chatham Hospital,Other Ultrasound,HCPCS 76857,Ultrasound of pelvis,$270.00,WA
+Chatham Hospital,Other Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$383.40,WA
+Chatham Hospital,Other Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$180.60,WA
+Chatham Hospital,Other Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$150.00,WA
+Chatham Hospital,Upper Limbs,HCPCS 76882,"Ultrasound, shoulder joint/soft tissue",$226.80,WA
+Chatham Hospital,Abdomen,HCPCS 74018,"X-ray abdomen, 1 view",$162.60,WA
+Chatham Hospital,Abdomen,HCPCS 74019,"X-ray abdomen, 2 views",$198.60,WA
+Chatham Hospital,Abdomen,HCPCS 74021,"X-ray abdomen, 3 or more views",$198.60,WA
+Chatham Hospital,Chest,HCPCS 71270,CT scan of chest with and without contrast,"$1,864.20",WA
+Chatham Hospital,Chest,HCPCS 71552,MRI scan of chest with and without contrast,"$2,746.20",WA
+Chatham Hospital,Chest,HCPCS 76641,Ultrasound of breasts (both),$352.80,WA
+Chatham Hospital,Chest,HCPCS 76642,Ultrasound of breast (single),$175.80,WA
+Chatham Hospital,Chest,HCPCS 76604,Ultrasound of chest,$297.60,WA
+Chatham Hospital,Chest,HCPCS 71047,"X-ray chest, 2 views",$175.20,WA
+Chatham Hospital,Chest,HCPCS 71048,"X-ray chest, 4 or more views",$278.40,WA
+Chatham Hospital,Chest,HCPCS 71130,"X-ray chest joints (sternoclavicular), 3 or more views",$193.20,WA
+Chatham Hospital,Chest,HCPCS 71120,"X-ray chest (sternum), 2 or more views",$193.20,WA
+Chatham Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$285.60,WA
+Chatham Hospital,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$197.40,WA
+Chatham Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$157.80,WA
+Chatham Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$143.40,WA
+Chatham Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$130.80,WA
+Chatham Hospital,Chest,HCPCS 71101,"X-ray ribs, unilateral, 3 or more views",$222.60,WA
+Chatham Hospital,Head and Neck,HCPCS 70496,CTA scan of head,"$2,694.60",WA
+Chatham Hospital,Head and Neck,HCPCS 70498,CTA scan of neck,"$2,518.20",WA
+Chatham Hospital,Head and Neck,HCPCS 70481,CT scan of eye with contrast,"$1,275.60",WA
+Chatham Hospital,Head and Neck,HCPCS 70480,CT scan of eye without contrast,"$1,182.60",WA
+Chatham Hospital,Head and Neck,HCPCS 70487,CT scan of face with contrast,"$1,411.80",WA
+Chatham Hospital,Head and Neck,HCPCS 70488,CT scan of face without contrast,"$1,611.00",WA
+Chatham Hospital,Head and Neck,HCPCS 70460,CT scan of head with contrast,"$1,260.60",WA
+Chatham Hospital,Head and Neck,HCPCS 70470,CT scan of head without contrast,"$1,420.20",WA
+Chatham Hospital,Head and Neck,HCPCS 70492,CT scan of neck with contrast,"$1,891.80",WA
+Chatham Hospital,Head and Neck,HCPCS 70490,CT scan of neck without contrast,"$1,440.00",WA
+Chatham Hospital,Head and Neck,HCPCS 70546,MRA scan of head with and without contrast,"$1,573.20",WA
+Chatham Hospital,Head and Neck,HCPCS 70545,MRA scan of head with contrast,"$1,920.00",WA
+Chatham Hospital,Head and Neck,HCPCS 70549,MRA scan of neck with and without contrast,"$2,415.60",WA
+Chatham Hospital,Head and Neck,HCPCS 70548,MRA scan of neck with contrast,"$1,732.20",WA
+Chatham Hospital,Head and Neck,HCPCS 70547,MRA scan of neck without contrast,"$1,491.60",WA
+Chatham Hospital,Head and Neck,HCPCS 70552,MRI scan of brain with contrast,"$2,071.20",WA
+Chatham Hospital,Head and Neck,HCPCS 70543,"MRI scan of orbits, face, or soft tissue of the neck with and without contrast","$2,034.60",WA
+Chatham Hospital,Head and Neck,HCPCS 70542,"MRI scan of orbits, face, or soft tissue of the neck with contrast","$1,701.00",WA
+Chatham Hospital,Head and Neck,HCPCS 70540,"MRI scan of orbits, face, or soft tissue of the neck without contrast","$1,576.20",WA
+Chatham Hospital,Head and Neck,HCPCS 70336,MRI scan of the jaw joint,"$1,587.00",WA
+Chatham Hospital,Head and Neck,HCPCS 70030,"X-ray eye, foreign body",$165.60,WA
+Chatham Hospital,Head and Neck,HCPCS 70140,"X-ray facial bones, 1-2 views",$271.80,WA
+Chatham Hospital,Head and Neck,HCPCS 70330,"X-ray jaw joint, bilateral",$260.40,WA
+Chatham Hospital,Head and Neck,HCPCS 70100,"X-ray jaw, less than 4 views",$230.40,WA
+Chatham Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$336.60,WA
+Chatham Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$144.00,WA
+Chatham Hospital,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$357.00,WA
+Chatham Hospital,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$205.20,WA
+Chatham Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$179.40,WA
+Chatham Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$114.60,WA
+Chatham Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$261.60,WA
+Chatham Hospital,Head and Neck,HCPCS 70200,"X-ray orbits, 4 or more views",$289.80,WA
+Chatham Hospital,Head and Neck,HCPCS 70220,"X-ray sinuses, 3 views",$229.80,WA
+Chatham Hospital,Head and Neck,HCPCS 70250,"X-ray skull, less than 4 views",$184.20,WA
+Chatham Hospital,Hip and Pelvis,HCPCS 72194,CT scan of pelvis with and without contrast,"$1,687.20",WA
+Chatham Hospital,Hip and Pelvis,HCPCS 72192,CT scan of pelvis without contrast,"$1,420.20",WA
+Chatham Hospital,Hip and Pelvis,HCPCS 72197,MRI scan of pelvis with and without contrast,"$1,936.20",WA
+Chatham Hospital,Hip and Pelvis,HCPCS 72196,MRI scan of pelvis with contrast,"$1,857.60",WA
+Chatham Hospital,Hip and Pelvis,HCPCS 72195,MRI scan of pelvis without contrast,"$1,587.00",WA
+Chatham Hospital,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$639.00,WA
+Chatham Hospital,Hip and Pelvis,HCPCS 73501,"X-ray hip and pelvis, 1 view",$119.40,WA
+Chatham Hospital,Hip and Pelvis,HCPCS 73521,"X-ray hip and pelvis, 2 views",$507.60,WA
+Chatham Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$184.20,WA
+Chatham Hospital,Hip and Pelvis,HCPCS 73523,"X-ray hip and pelvis, 5 or more views",$676.80,WA
+Chatham Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$119.40,WA
+Chatham Hospital,Hip and Pelvis,HCPCS 72190,"X-ray pelvis, 3 or more views",$231.00,WA
+Chatham Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$188.40,WA
+Chatham Hospital,Hip and Pelvis,HCPCS 72220,"X-ray sacrum and coccyx, 2 or more views",$177.60,WA
+Chatham Hospital,Lower Limbs,HCPCS 73706,"CTA scan of hip, knee, ankle, or foot","$1,039.80",WA
+Chatham Hospital,Lower Limbs,HCPCS 73702,"CT scan of hip, knee, ankle, or foot with and without contrast","$1,449.60",WA
+Chatham Hospital,Lower Limbs,HCPCS 73701,"CT scan of hip, knee, ankle, or foot with contrast","$2,205.00",WA
+Chatham Hospital,Lower Limbs,HCPCS 73700,"CT scan of hip, knee, ankle, or foot without contrast","$1,293.00",WA
+Chatham Hospital,Lower Limbs,HCPCS 73723,"MRI scan of hip, knee, ankle, or foot joints with and without contrast","$2,121.00",WA
+Chatham Hospital,Lower Limbs,HCPCS 73722,"MRI scan of hip, knee, ankle, or foot joints with contrast","$1,701.00",WA
+Chatham Hospital,Lower Limbs,HCPCS 73720,MRI scan of leg with and without contrast,"$2,147.40",WA
+Chatham Hospital,Lower Limbs,HCPCS 73719,MRI scan of leg with contrast,"$1,573.20",WA
+Chatham Hospital,Lower Limbs,HCPCS 73718,MRI scan of leg without contrast,"$1,491.60",WA
+Chatham Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$119.40,WA
+Chatham Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$174.00,WA
+Chatham Hospital,Lower Limbs,HCPCS 73565,X-ray Both Knees,$171.60,WA
+Chatham Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$166.20,WA
+Chatham Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$174.00,WA
+Chatham Hospital,Lower Limbs,HCPCS 73551,"X-ray femur, 1 view",$118.20,WA
+Chatham Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$357.60,WA
+Chatham Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$119.40,WA
+Chatham Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$119.40,WA
+Chatham Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$119.40,WA
+Chatham Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$252.00,WA
+Chatham Hospital,Lower Limbs,HCPCS 73592,X-ray lower extremities for infant,$135.60,WA
+Chatham Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$174.00,WA
+Chatham Hospital,Lower Limbs,HCPCS 73660,"X-ray toes, 2 or more views",$119.40,WA
+Chatham Hospital,Other X-ray,HCPCS 74300,"X-ray bile ducts, with contrast (cholangiogram)",$355.20,WA
+Chatham Hospital,Other X-ray,HCPCS 74430,"X-ray, bladder (cystogram), 3 or more views",$279.60,WA
+Chatham Hospital,Other X-ray,HCPCS 74280,"X-ray colon, with contrast",$624.00,WA
+Chatham Hospital,Other X-ray,HCPCS 74270,"X-ray colon, with or without contrast",$524.40,WA
+Chatham Hospital,Other X-ray,HCPCS 74220,X-ray esophagus (esophogram),$252.00,WA
+Chatham Hospital,Other X-ray,HCPCS 76010,X-ray of child for foreign body,$142.80,WA
+Chatham Hospital,Other X-ray,HCPCS 74250,X-ray small bowel,$333.00,WA
+Chatham Hospital,Other X-ray,HCPCS 74230,"X-ray, swallowing function study",$252.00,WA
+Chatham Hospital,Other X-ray,HCPCS 74240,X-ray upper GI tract ,$583.80,WA
+Chatham Hospital,Spine,HCPCS 72127,CT scan of cervical spine with and without contrast,"$1,857.00",WA
+Chatham Hospital,Spine,HCPCS 72126,CT scan of cervical spine with contrast,"$1,504.20",WA
+Chatham Hospital,Spine,HCPCS 72125,CT scan of cervical spine without contrast,"$1,327.20",WA
+Chatham Hospital,Spine,HCPCS 72133,CT scan of lumbar spine with and without contrast,"$1,864.20",WA
+Chatham Hospital,Spine,HCPCS 72132,CT scan of lumbar spine with contrast,"$1,420.20",WA
+Chatham Hospital,Spine,HCPCS 72131,CT scan of lumbar spine without contrast,"$1,145.40",WA
+Chatham Hospital,Spine,HCPCS 72130,CT scan of thoracic spine with and without contrast,"$1,228.20",WA
+Chatham Hospital,Spine,HCPCS 72129,CT scan of thoracic spine with contrast,"$1,182.60",WA
+Chatham Hospital,Spine,HCPCS 72128,CT scan of thoracic spine without contrast,"$1,104.00",WA
+Chatham Hospital,Spine,HCPCS 72142,MRI scan of cervical spine with contrast,"$2,147.40",WA
+Chatham Hospital,Spine,HCPCS 72149,MRI scan of lumbar spine with contrast,"$2,034.00",WA
+Chatham Hospital,Spine,HCPCS 72157,MRI scan of thoracic spine with and without contrast,"$2,631.00",WA
+Chatham Hospital,Spine,HCPCS 72147,MRI scan of thoracic spine with contrast,"$2,275.20",WA
+Chatham Hospital,Spine,HCPCS 72020,"X-ray cervical spine, 1 view",$130.80,WA
+Chatham Hospital,Spine,HCPCS 72050,"X-ray cervical spine, 4 or more views",$370.80,WA
+Chatham Hospital,Spine,HCPCS 72120,"X-ray complete lumbar spine (with bending), 2-3 views",$179.40,WA
+Chatham Hospital,Spine,HCPCS 72114,"X-ray complete lumbar spine (with bending), 6 or more views",$387.00,WA
+Chatham Hospital,Spine,HCPCS 72081,"X-ray entire spine (scoliosis evaluation), 1 view",$358.20,WA
+Chatham Hospital,Spine,HCPCS 72082,"X-ray entire spine (scoliosis evaluation), 2 views",$472.20,WA
+Chatham Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$296.40,WA
+Chatham Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$179.40,WA
+Chatham Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$283.80,WA
+Chatham Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$180.00,WA
+Chatham Hospital,Spine,HCPCS 72080,"X-ray thoracic-lumbar spine, 2 views",$308.40,WA
+Chatham Hospital,Spine,HCPCS 72070,"X-ray thoracic spine, 2 views",$243.60,WA
+Chatham Hospital,Spine,HCPCS 72072,"X-ray thoracic spine, 3 views",$251.40,WA
+Chatham Hospital,Upper Limbs,HCPCS 73202,"CT scan of shoulder, arm, or hand with and without contrast","$1,691.40",WA
+Chatham Hospital,Upper Limbs,HCPCS 73201,"CT scan of shoulder, arm, or hand with contrast","$1,454.40",WA
+Chatham Hospital,Upper Limbs,HCPCS 73200,"CT scan of shoulder, arm, or hand without contrast","$1,143.00",WA
+Chatham Hospital,Upper Limbs,HCPCS 73220,"MRI scan of shoulder, arm, or hand with and without contrast","$2,147.40",WA
+Chatham Hospital,Upper Limbs,HCPCS 73218,"MRI scan of shoulder, arm, or hand without contrast","$1,491.60",WA
+Chatham Hospital,Upper Limbs,HCPCS 73223,"MRI scan of shoulder, elbow, or hand joints with and without contrast","$2,121.00",WA
+Chatham Hospital,Upper Limbs,HCPCS 73222,"MRI scan of shoulder, elbow, or hand joints with contrast","$1,573.20",WA
+Chatham Hospital,Upper Limbs,HCPCS 73000,"X-ray clavicle, 1 view",$144.00,WA
+Chatham Hospital,Upper Limbs,HCPCS 73070,"X-ray elbow, 2 views",$119.40,WA
+Chatham Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$166.20,WA
+Chatham Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$119.40,WA
+Chatham Hospital,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$166.20,WA
+Chatham Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$112.20,WA
+Chatham Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$161.40,WA
+Chatham Hospital,Upper Limbs,HCPCS 73060,"X-ray humerus, 1 view",$174.00,WA
+Chatham Hospital,Upper Limbs,HCPCS 73010,"X-ray scapula, 1 view",$179.40,WA
+Chatham Hospital,Upper Limbs,HCPCS 73020,"X-ray shoulder, 1 view",$119.40,WA
+Chatham Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$180.00,WA
+Chatham Hospital,Upper Limbs,HCPCS 73050,X-ray shoulder (AC joint),$180.00,WA
+Chatham Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$119.40,WA
+Chatham Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$174.00,WA
+Chatham Hospital,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,$671.40,WA
+Chatham Hospital,Abdomenal,HCPCS 47562,Cholecystectomy,"$1,333.80",WA
+Chatham Hospital,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,$750.60,WA
+Chatham Hospital,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),$931.80,WA
+Chatham Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$120.60,WA
+Chatham Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$278.40,WA
+Chatham Hospital,Abdomenal,HCPCS 52648,Laser vaporization of prostate using an endoscope,"$2,929.20",WA
+Chatham Hospital,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$1,664.40",WA
+Chatham Hospital,Breast,HCPCS 19101,Biopsy of breast,$588.00,WA
+Chatham Hospital,Cardiac,HCPCS 36415,Venipuncture (blood collection),$14.40,WA
+Chatham Hospital,Digestive,HCPCS 45378,"Colonoscopy, diagnostic",$579.60,WA
+Chatham Hospital,Digestive,HCPCS 45380,"Colonoscopy, with biopsy",$891.00,WA
+Chatham Hospital,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal",$829.80,WA
+Chatham Hospital,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$1,003.20",WA
+Chatham Hospital,Digestive,HCPCS 43235,EGD,$563.40,WA
+Chatham Hospital,Digestive,HCPCS 43239,EGD and biopsy,$650.40,WA
+Chatham Hospital,Digestive,HCPCS 49082,Paracentesis (removal of fluid from peritoneal cavity) without guidance,$355.80,WA
+Chatham Hospital,Female Reproductive,HCPCS 59025,Fetal non-stress test,$217.20,WA
+Chatham Hospital,Female Reproductive,HCPCS 58300,Insertion of intrauterine device (IUD),$112.80,WA
+Chatham Hospital,General,HCPCS 10060,Drainage of Abscess,$212.40,WA
+Chatham Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$264.60,WA
+Chatham Hospital,General,HCPCS 69200,Removal of foreign body from ear canal,$185.40,WA
+Chatham Hospital,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$193.80,WA
+Chatham Hospital,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$300.00,WA
+Chatham Hospital,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$193.20,WA
+Chatham Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$158.40,WA
+Chatham Hospital,Musculoskeletal,HCPCS 29130,Application of finger splint,$72.60,WA
+Chatham Hospital,Musculoskeletal,HCPCS 29105,Application of full arm cast/splint,$165.60,WA
+Chatham Hospital,Musculoskeletal,HCPCS 29125,Application of short arm cast/splint (below the elbow),$111.60,WA
+Chatham Hospital,Musculoskeletal,HCPCS 29515,Application of short leg cast/splint (below the knee),$123.60,WA
+Chatham Hospital,Musculoskeletal,HCPCS 20605,Arthrocentesis (drainage) of joint,$92.40,WA
+Chatham Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$465.60,WA
+Chatham Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$109.20,WA
+Chatham Hospital,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$1,102.20",WA
+Chatham Hospital,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,$312.60,WA
+Chatham Hospital,Musculoskeletal,HCPCS 25605,Treatment of forearm (radius or ulna) fracture,$955.80,WA
+Chatham Hospital,Musculoskeletal,HCPCS 23650,Treatment of shoulder dislocation without anesthesia,$563.40,WA
+Chatham Hospital,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$2,404.80",WA
+Chatham Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$6,407.07",WA
+Chatham Hospital,Ocular,HCPCS 66984,Cataract removal,"$1,272.00",WA
+Chatham Hospital,Ocular,HCPCS 66982,Cataract removal with insertion of lens,"$1,581.00",WA
+Chatham Hospital,Skin,HCPCS 10061,Drainage of skin abscess,$368.40,WA
+Chatham Hospital,Skin,HCPCS 10160,Image-guided puncture and drainage (aspiration) of cyst or abscess,$228.60,WA
+Chatham Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$160.80,WA
+Chatham Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$159.00,WA
+Chatham Hospital,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$46.20,WA
+Chatham Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$18.00,WA
+Chatham Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),$373.20,WA
+Chatham Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$388.80,WA
+Chatham Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,$478.80,WA

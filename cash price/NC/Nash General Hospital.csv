@@ -1,0 +1,404 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Nash General Hospital,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$238.80,WA
+Nash General Hospital,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,590.00",WA
+Nash General Hospital,Emergency Care,HCPCS 99281,Emergency Level 1,$316.20,WA
+Nash General Hospital,Emergency Care,HCPCS 99282,Emergency Level 2,$346.20,WA
+Nash General Hospital,Emergency Care,HCPCS 99283,Emergency Level 3,$708.00,WA
+Nash General Hospital,Emergency Care,HCPCS 99284,Emergency Level 4,"$1,084.20",WA
+Nash General Hospital,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,506.00",WA
+Nash General Hospital,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$218.40,WA
+Nash General Hospital,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$283.20,WA
+Nash General Hospital,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$127.80,WA
+Nash General Hospital,Psychology,HCPCS 90847,"Family psychotherapy, including patient, 50 min",$108.60,WA
+Nash General Hospital,Psychology,HCPCS 90853,Group psychotherapy,$57.60,WA
+Nash General Hospital,Psychology,HCPCS 90791,Psychiatric diagnostic evaluation,$54.00,WA
+Nash General Hospital,Psychology,HCPCS 90832,"Psychotherapy, 30 minutes with patient",$54.60,WA
+Nash General Hospital,Psychology,HCPCS 90834,"Psychotherapy, 45 minutes with patient",$73.80,WA
+Nash General Hospital,Psychology,HCPCS 90837,"Psychotherapy, 60 min",$103.80,WA
+Nash General Hospital,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$214.80,WA
+Nash General Hospital,Speech,HCPCS 92507,Speech Therapy,$214.20,WA
+Nash General Hospital,Speech,HCPCS 92610,Swallow Evaluation,$199.20,WA
+Nash General Hospital,Speech,HCPCS 92526,Swallow Treatment,$197.40,WA
+Nash General Hospital,Blood,HCPCS 85018,"Blood count, hemoglobin",$22.80,WA
+Nash General Hospital,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$19.80,WA
+Nash General Hospital,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$51.00,WA
+Nash General Hospital,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$180.60,WA
+Nash General Hospital,Blood,HCPCS 85610,"Blood test, clotting time",$25.20,WA
+Nash General Hospital,Blood,HCPCS 85730,Coagulation assessment blood test,$55.80,WA
+Nash General Hospital,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$82.80,WA
+Nash General Hospital,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$73.20,WA
+Nash General Hospital,Blood,HCPCS 85027,"Complete blood count, automated",$67.80,WA
+Nash General Hospital,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$32.40,WA
+Nash General Hospital,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$203.40,WA
+Nash General Hospital,Blood,HCPCS 85660,Red blood cell sickling measurement,$47.40,WA
+Nash General Hospital,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$191.40,WA
+Nash General Hospital,Chemistry,HCPCS 82040,Albumin (protein) level,$55.80,WA
+Nash General Hospital,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$175.80,WA
+Nash General Hospital,Chemistry,HCPCS 82140,Ammonia level,$45.60,WA
+Nash General Hospital,Chemistry,HCPCS 82150,Amylase (enzyme) level,$201.00,WA
+Nash General Hospital,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$82.20,WA
+Nash General Hospital,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$93.00,WA
+Nash General Hospital,Chemistry,HCPCS 84439,Assay of free thyroxine,$169.20,WA
+Nash General Hospital,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$136.20,WA
+Nash General Hospital,Chemistry,HCPCS 82248,Bilirubin level (Direct),$49.80,WA
+Nash General Hospital,Chemistry,HCPCS 82247,Bilirubin level (Total),$50.40,WA
+Nash General Hospital,Chemistry,HCPCS 82565,Blood creatinine level,$49.80,WA
+Nash General Hospital,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$15.00,WA
+Nash General Hospital,Chemistry,HCPCS 84132,Blood potassium level,$49.80,WA
+Nash General Hospital,Chemistry,HCPCS 84295,Blood sodium level,$19.80,WA
+Nash General Hospital,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$45.00,WA
+Nash General Hospital,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$101.40,WA
+Nash General Hospital,Chemistry,HCPCS 82310,Calcium level,$90.00,WA
+Nash General Hospital,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$12.00,WA
+Nash General Hospital,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$135.60,WA
+Nash General Hospital,Chemistry,HCPCS 82465,Cholesterol level,$100.20,WA
+Nash General Hospital,Chemistry,HCPCS 82533,Cortisol Measurement,$147.60,WA
+Nash General Hospital,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$79.80,WA
+Nash General Hospital,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$113.40,WA
+Nash General Hospital,Chemistry,HCPCS 82746,Folic acid; serum,$54.60,WA
+Nash General Hospital,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$159.00,WA
+Nash General Hospital,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$159.00,WA
+Nash General Hospital,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$394.20,WA
+Nash General Hospital,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$318.60,WA
+Nash General Hospital,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$52.20,WA
+Nash General Hospital,Chemistry,HCPCS 83020,Hemoglobin Measurement,$112.80,WA
+Nash General Hospital,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$123.00,WA
+Nash General Hospital,Chemistry,HCPCS 83525,Insulin Measurement; Total,$159.00,WA
+Nash General Hospital,Chemistry,HCPCS 83550,Iron Binding Capacity,$40.20,WA
+Nash General Hospital,Chemistry,HCPCS 83540,Iron level,$57.60,WA
+Nash General Hospital,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$60.60,WA
+Nash General Hospital,Chemistry,HCPCS 83721,LDL cholesterol level,$34.80,WA
+Nash General Hospital,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$155.40,WA
+Nash General Hospital,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$136.80,WA
+Nash General Hospital,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$127.20,WA
+Nash General Hospital,Chemistry,HCPCS 83021,Liver function blood test panel,$166.80,WA
+Nash General Hospital,Chemistry,HCPCS 83735,Magnesium Level,$59.40,WA
+Nash General Hospital,Chemistry,HCPCS 83970,Parathormone,$345.60,WA
+Nash General Hospital,Chemistry,HCPCS 84157,Prealbumin (protein) level,$67.20,WA
+Nash General Hospital,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$211.80,WA
+Nash General Hospital,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$98.40,WA
+Nash General Hospital,Chemistry,HCPCS 82270,Stool analysis for blood,$13.80,WA
+Nash General Hospital,Chemistry,HCPCS 84403,Testosterone (hormone) level,$323.40,WA
+Nash General Hospital,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$31.80,WA
+Nash General Hospital,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$84.00,WA
+Nash General Hospital,Chemistry,HCPCS 84155,"Total protein level, blood",$72.60,WA
+Nash General Hospital,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$67.20,WA
+Nash General Hospital,Chemistry,HCPCS 84166,Troponin (protein) analysis,$98.40,WA
+Nash General Hospital,Chemistry,HCPCS 84560,Uric acid level,$109.20,WA
+Nash General Hospital,Chemistry,HCPCS 84550,"Uric acid level, blood",$117.00,WA
+Nash General Hospital,Chemistry,HCPCS 82340,Urine calcium level,$63.60,WA
+Nash General Hospital,Chemistry,HCPCS 82436,Urine chloride level,$33.60,WA
+Nash General Hospital,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$166.80,WA
+Nash General Hospital,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$29.40,WA
+Nash General Hospital,Chemistry,HCPCS 84133,Urine potassium level,$73.20,WA
+Nash General Hospital,Chemistry,HCPCS 84300,Urine sodium level,$20.40,WA
+Nash General Hospital,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$237.60,WA
+Nash General Hospital,Chemistry,HCPCS 84630,Zinc level,$84.00,WA
+Nash General Hospital,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$294.60,WA
+Nash General Hospital,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$465.00,WA
+Nash General Hospital,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$115.80,WA
+Nash General Hospital,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$11.40,WA
+Nash General Hospital,Immunology,HCPCS 86318,Covid-19 antibody test,$46.80,WA
+Nash General Hospital,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$82.20,WA
+Nash General Hospital,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$9.60,WA
+Nash General Hospital,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$201.60,WA
+Nash General Hospital,Immunology,HCPCS 86140,Measurement C-reactive protein,$109.80,WA
+Nash General Hospital,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$14.40,WA
+Nash General Hospital,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$31.20,WA
+Nash General Hospital,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$37.80,WA
+Nash General Hospital,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$35.40,WA
+Nash General Hospital,Immunology,HCPCS 86431,Rheumatoid factor level,$146.40,WA
+Nash General Hospital,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$163.20,WA
+Nash General Hospital,Immunology,HCPCS 86592,Syphilis Detection Test,$97.20,WA
+Nash General Hospital,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$180.60,WA
+Nash General Hospital,Immunology,HCPCS 86359,"T cells count, total",$180.60,WA
+Nash General Hospital,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$19.20,WA
+Nash General Hospital,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$103.20,WA
+Nash General Hospital,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$166.80,WA
+Nash General Hospital,Microbiology,HCPCS 87491,Chlamydia Test,$183.60,WA
+Nash General Hospital,Microbiology,HCPCS 87635,Covid-19 current infection test,$60.00,WA
+Nash General Hospital,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$93.60,WA
+Nash General Hospital,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$72.00,WA
+Nash General Hospital,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$302.40,WA
+Nash General Hospital,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$78.60,WA
+Nash General Hospital,Microbiology,HCPCS 87517,Hepatitis B Detection,$332.40,WA
+Nash General Hospital,Microbiology,HCPCS 87624,HPV Detection,$48.60,WA
+Nash General Hospital,Microbiology,HCPCS 86735,Mumps virus antibody test,$95.40,WA
+Nash General Hospital,Microbiology,HCPCS 86765,Rubeola virus antibody test,$49.20,WA
+Nash General Hospital,Microbiology,HCPCS 87177,Smear for Parasites,$42.60,WA
+Nash General Hospital,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$60.00,WA
+Nash General Hospital,Microbiology,HCPCS 87045,Stool Culture,$115.80,WA
+Nash General Hospital,Microbiology,HCPCS 87804,Test for Influenza Virus,$37.80,WA
+Nash General Hospital,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$93.60,WA
+Nash General Hospital,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$357.60,WA
+Nash General Hospital,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$267.60,WA
+Nash General Hospital,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$118.80,WA
+Nash General Hospital,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$172.80,WA
+Nash General Hospital,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$204.00,WA
+Nash General Hospital,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$64.20,WA
+Nash General Hospital,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$171.60,WA
+Nash General Hospital,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$99.60,WA
+Nash General Hospital,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$99.60,WA
+Nash General Hospital,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$27.00,WA
+Nash General Hospital,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$49.20,WA
+Nash General Hospital,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$291.00,WA
+Nash General Hospital,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$54.00,WA
+Nash General Hospital,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$46.80,WA
+Nash General Hospital,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$49.20,WA
+Nash General Hospital,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$72.00,WA
+Nash General Hospital,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$75.00,WA
+Nash General Hospital,Transfusion,HCPCS 86900,"Blood Typing, ABO",$48.60,WA
+Nash General Hospital,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$64.20,WA
+Nash General Hospital,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$90.00,WA
+Nash General Hospital,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$64.80,WA
+Nash General Hospital,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$54.60,WA
+Nash General Hospital,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$63.60,WA
+Nash General Hospital,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$40.80,WA
+Nash General Hospital,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$49.80,WA
+Nash General Hospital,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$52.20,WA
+Nash General Hospital,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$139.80,WA
+Nash General Hospital,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$826.20,WA
+Nash General Hospital,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$169.80,WA
+Nash General Hospital,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,$47.40,WA
+Nash General Hospital,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$179.40,WA
+Nash General Hospital,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$20.40,WA
+Nash General Hospital,Cardiovascular,HCPCS 93975,Ultrasound Heart,$383.40,WA
+Nash General Hospital,Pulmonary,HCPCS 94640,Aerosol Treatment,$127.80,WA
+Nash General Hospital,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$198.00,WA
+Nash General Hospital,Pulmonary,HCPCS 94618,Pulmonary stress test,$143.40,WA
+Nash General Hospital,Pulmonary,HCPCS 94010,Spirometry - breathing test,$237.60,WA
+Nash General Hospital,Sleep,HCPCS 95810,Sleep study,"$3,958.80",WA
+Nash General Hospital,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$56.40,WA
+Nash General Hospital,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$285.00,WA
+Nash General Hospital,Breast,HCPCS 77067,Mammogram Screening,$341.40,WA
+Nash General Hospital,Breast,HCPCS 77066,Mammography of both breasts,$413.40,WA
+Nash General Hospital,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,931.40",WA
+Nash General Hospital,CT Scan,HCPCS 74175,CT angiography scan of abdomen,"$2,637.60",WA
+Nash General Hospital,CT Scan,HCPCS 74174,CTA scan of abdomen,"$2,898.60",WA
+Nash General Hospital,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$2,301.00",WA
+Nash General Hospital,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$1,289.40",WA
+Nash General Hospital,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$573.00,WA
+Nash General Hospital,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,894.00",WA
+Nash General Hospital,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$3,540.00",WA
+Nash General Hospital,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$3,186.00",WA
+Nash General Hospital,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$2,407.20",WA
+Nash General Hospital,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$2,513.40",WA
+Nash General Hospital,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,451.40",WA
+Nash General Hospital,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,045.20",WA
+Nash General Hospital,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,948.20",WA
+Nash General Hospital,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,623.60",WA
+Nash General Hospital,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$2,091.60",WA
+Nash General Hospital,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,553.60",WA
+Nash General Hospital,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$2,553.60",WA
+Nash General Hospital,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$3,294.00",WA
+Nash General Hospital,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,553.60",WA
+Nash General Hospital,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$3,294.00",WA
+Nash General Hospital,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,884.20",WA
+Nash General Hospital,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,285.40",WA
+Nash General Hospital,MRI,HCPCS 74182,MRI scan of abdomen with contrast,"$1,845.60",WA
+Nash General Hospital,MRI,HCPCS 74181,MRI scan of abdomen without contrast,"$1,759.20",WA
+Nash General Hospital,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,581.40",WA
+Nash General Hospital,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,157.60",WA
+Nash General Hospital,MRI,HCPCS 73721,MRI scan of leg joint,"$2,473.20",WA
+Nash General Hospital,Chest,HCPCS 76706,"Ultrasound, aortic aneurisum screening",$348.60,WA
+Nash General Hospital,Hip and Pelvis,HCPCS 76815,"Ultrasound, pregnancy",$732.00,WA
+Nash General Hospital,Hip and Pelvis,HCPCS 76801,"Ultrasound, pregnancy, 1st trimester",$974.40,WA
+Nash General Hospital,Hip and Pelvis,HCPCS 76816,"Ultrasound, pregnancy, transabdominal (pelvis)",$907.80,WA
+Nash General Hospital,Hip and Pelvis,HCPCS 76817,"Ultrasound, pregnancy, transvaginal",$703.80,WA
+Nash General Hospital,Hip and Pelvis,HCPCS 76870,"Ultrasound, testical",$903.60,WA
+Nash General Hospital,Other Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$974.40,WA
+Nash General Hospital,Other Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$745.20,WA
+Nash General Hospital,Other Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$709.20,WA
+Nash General Hospital,Other Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$870.00,WA
+Nash General Hospital,Other Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$565.80,WA
+Nash General Hospital,Other Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$981.60,WA
+Nash General Hospital,Other Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$961.80,WA
+Nash General Hospital,Other Ultrasound,HCPCS 76857,Ultrasound of pelvis,$145.20,WA
+Nash General Hospital,Other Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$969.60,WA
+Nash General Hospital,Other Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$797.40,WA
+Nash General Hospital,Spine,HCPCS 76800,"Ultrasound, spinal canal",$317.40,WA
+Nash General Hospital,Upper Limbs,HCPCS 76882,"Ultrasound, shoulder joint/soft tissue",$246.00,WA
+Nash General Hospital,Abdomen,HCPCS 74018,"X-ray abdomen, 1 view",$304.80,WA
+Nash General Hospital,Abdomen,HCPCS 74019,"X-ray abdomen, 2 views",$304.80,WA
+Nash General Hospital,Abdomen,HCPCS 74021,"X-ray abdomen, 3 or more views",$177.00,WA
+Nash General Hospital,Chest,HCPCS 71270,CT scan of chest with and without contrast,"$1,603.20",WA
+Nash General Hospital,Chest,HCPCS 71552,MRI scan of chest with and without contrast,"$2,871.00",WA
+Nash General Hospital,Chest,HCPCS 71550,MRI scan of chest without contrast,"$2,097.00",WA
+Nash General Hospital,Chest,HCPCS 76641,Ultrasound of breasts (both),$518.40,WA
+Nash General Hospital,Chest,HCPCS 76642,Ultrasound of breast (single),$308.40,WA
+Nash General Hospital,Chest,HCPCS 76604,Ultrasound of chest,$140.40,WA
+Nash General Hospital,Chest,HCPCS 71130,"X-ray chest joints (sternoclavicular), 3 or more views",$222.00,WA
+Nash General Hospital,Chest,HCPCS 71120,"X-ray chest (sternum), 2 or more views",$651.00,WA
+Nash General Hospital,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$671.40,WA
+Nash General Hospital,Chest,HCPCS 71046,X-ray of chest; 2 Views,$382.80,WA
+Nash General Hospital,Chest,HCPCS 71045,X-ray of chest; Single View,$156.60,WA
+Nash General Hospital,Chest,HCPCS 71110,"X-ray ribs, bilateral, 3 or more views",$384.60,WA
+Nash General Hospital,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$163.20,WA
+Nash General Hospital,Chest,HCPCS 71101,"X-ray ribs, unilateral, 3 or more views",$651.60,WA
+Nash General Hospital,Head and Neck,HCPCS 70496,CTA scan of head,"$2,013.00",WA
+Nash General Hospital,Head and Neck,HCPCS 70498,CTA scan of neck,"$1,996.80",WA
+Nash General Hospital,Head and Neck,HCPCS 70481,CT scan of eye with contrast,"$2,090.40",WA
+Nash General Hospital,Head and Neck,HCPCS 70480,CT scan of eye without contrast,"$1,482.60",WA
+Nash General Hospital,Head and Neck,HCPCS 70487,CT scan of face with contrast,"$2,968.20",WA
+Nash General Hospital,Head and Neck,HCPCS 70488,CT scan of face without contrast,"$1,441.80",WA
+Nash General Hospital,Head and Neck,HCPCS 70460,CT scan of head with contrast,"$1,315.20",WA
+Nash General Hospital,Head and Neck,HCPCS 70470,CT scan of head without contrast,"$1,766.40",WA
+Nash General Hospital,Head and Neck,HCPCS 70492,CT scan of neck with contrast,"$1,834.80",WA
+Nash General Hospital,Head and Neck,HCPCS 70490,CT scan of neck without contrast,"$1,234.20",WA
+Nash General Hospital,Head and Neck,HCPCS 70546,MRA scan of head with and without contrast,"$2,447.40",WA
+Nash General Hospital,Head and Neck,HCPCS 70549,MRA scan of neck with and without contrast,"$2,368.80",WA
+Nash General Hospital,Head and Neck,HCPCS 70548,MRA scan of neck with contrast,"$1,746.60",WA
+Nash General Hospital,Head and Neck,HCPCS 70547,MRA scan of neck without contrast,"$1,729.20",WA
+Nash General Hospital,Head and Neck,HCPCS 70552,MRI scan of brain with contrast,"$2,265.60",WA
+Nash General Hospital,Head and Neck,HCPCS 70543,"MRI scan of orbits, face, or soft tissue of the neck with and without contrast","$2,455.20",WA
+Nash General Hospital,Head and Neck,HCPCS 70540,"MRI scan of orbits, face, or soft tissue of the neck without contrast","$1,743.00",WA
+Nash General Hospital,Head and Neck,HCPCS 70030,"X-ray eye, foreign body",$96.00,WA
+Nash General Hospital,Head and Neck,HCPCS 70140,"X-ray facial bones, 1-2 views",$361.80,WA
+Nash General Hospital,Head and Neck,HCPCS 70330,"X-ray jaw joint, bilateral",$247.20,WA
+Nash General Hospital,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$807.60,WA
+Nash General Hospital,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$496.20,WA
+Nash General Hospital,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$394.80,WA
+Nash General Hospital,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$427.80,WA
+Nash General Hospital,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$169.20,WA
+Nash General Hospital,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$563.40,WA
+Nash General Hospital,Head and Neck,HCPCS 70200,"X-ray orbits, 4 or more views",$804.00,WA
+Nash General Hospital,Head and Neck,HCPCS 70220,"X-ray sinuses, 3 views",$439.80,WA
+Nash General Hospital,Head and Neck,HCPCS 70250,"X-ray skull, less than 4 views",$443.40,WA
+Nash General Hospital,Hip and Pelvis,HCPCS 72191,CTA scan of pelvis,"$2,229.60",WA
+Nash General Hospital,Hip and Pelvis,HCPCS 72194,CT scan of pelvis with and without contrast,"$2,229.60",WA
+Nash General Hospital,Hip and Pelvis,HCPCS 72192,CT scan of pelvis without contrast,"$1,651.20",WA
+Nash General Hospital,Hip and Pelvis,HCPCS 72197,MRI scan of pelvis with and without contrast,"$3,114.60",WA
+Nash General Hospital,Hip and Pelvis,HCPCS 72196,MRI scan of pelvis with contrast,"$1,993.20",WA
+Nash General Hospital,Hip and Pelvis,HCPCS 72195,MRI scan of pelvis without contrast,"$1,897.80",WA
+Nash General Hospital,Hip and Pelvis,HCPCS 73501,"X-ray hip and pelvis, 1 view",$133.80,WA
+Nash General Hospital,Hip and Pelvis,HCPCS 73521,"X-ray hip and pelvis, 2 views",$250.80,WA
+Nash General Hospital,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$159.60,WA
+Nash General Hospital,Hip and Pelvis,HCPCS 73525,X-ray hip (arthrogram) with dye,$400.80,WA
+Nash General Hospital,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$281.40,WA
+Nash General Hospital,Hip and Pelvis,HCPCS 72190,"X-ray pelvis, 3 or more views",$298.20,WA
+Nash General Hospital,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$559.20,WA
+Nash General Hospital,Hip and Pelvis,HCPCS 72220,"X-ray sacrum and coccyx, 2 or more views",$478.20,WA
+Nash General Hospital,Lower Limbs,HCPCS 73706,"CTA scan of hip, knee, ankle, or foot","$1,528.80",WA
+Nash General Hospital,Lower Limbs,HCPCS 73702,"CT scan of hip, knee, ankle, or foot with and without contrast","$1,487.40",WA
+Nash General Hospital,Lower Limbs,HCPCS 73701,"CT scan of hip, knee, ankle, or foot with contrast","$1,472.40",WA
+Nash General Hospital,Lower Limbs,HCPCS 73700,"CT scan of hip, knee, ankle, or foot without contrast","$1,458.00",WA
+Nash General Hospital,Lower Limbs,HCPCS 73723,"MRI scan of hip, knee, ankle, or foot joints with and without contrast","$3,586.20",WA
+Nash General Hospital,Lower Limbs,HCPCS 73722,"MRI scan of hip, knee, ankle, or foot joints with contrast","$2,980.80",WA
+Nash General Hospital,Lower Limbs,HCPCS 73720,MRI scan of leg with and without contrast,"$3,586.20",WA
+Nash General Hospital,Lower Limbs,HCPCS 73718,MRI scan of leg without contrast,"$2,473.20",WA
+Nash General Hospital,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$381.00,WA
+Nash General Hospital,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$537.00,WA
+Nash General Hospital,Lower Limbs,HCPCS 73630,X-ray exam of foot,$569.40,WA
+Nash General Hospital,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$571.80,WA
+Nash General Hospital,Lower Limbs,HCPCS 73551,"X-ray femur, 1 view",$75.60,WA
+Nash General Hospital,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$583.20,WA
+Nash General Hospital,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$398.40,WA
+Nash General Hospital,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$292.20,WA
+Nash General Hospital,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$330.60,WA
+Nash General Hospital,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$330.60,WA
+Nash General Hospital,Lower Limbs,HCPCS 73592,X-ray lower extremities for infant,$153.60,WA
+Nash General Hospital,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$553.20,WA
+Nash General Hospital,Lower Limbs,HCPCS 73660,"X-ray toes, 2 or more views",$256.80,WA
+Nash General Hospital,Other X-ray,HCPCS 74300,"X-ray bile ducts, with contrast (cholangiogram)",$587.40,WA
+Nash General Hospital,Other X-ray,HCPCS 74430,"X-ray, bladder (cystogram), 3 or more views",$492.00,WA
+Nash General Hospital,Other X-ray,HCPCS 74280,"X-ray colon, with contrast","$1,488.60",WA
+Nash General Hospital,Other X-ray,HCPCS 74270,"X-ray colon, with or without contrast",$532.20,WA
+Nash General Hospital,Other X-ray,HCPCS 74220,X-ray esophagus (esophogram),$427.20,WA
+Nash General Hospital,Other X-ray,HCPCS 74250,X-ray small bowel,$469.20,WA
+Nash General Hospital,Other X-ray,HCPCS 74230,"X-ray, swallowing function study",$192.00,WA
+Nash General Hospital,Other X-ray,HCPCS 74240,X-ray upper GI tract ,$480.00,WA
+Nash General Hospital,Other X-ray,HCPCS 74450,"X-ray, urethra (retrograde urethrogram)",$279.60,WA
+Nash General Hospital,Spine,HCPCS 72127,CT scan of cervical spine with and without contrast,"$2,055.00",WA
+Nash General Hospital,Spine,HCPCS 72126,CT scan of cervical spine with contrast,"$2,031.60",WA
+Nash General Hospital,Spine,HCPCS 72125,CT scan of cervical spine without contrast,"$1,992.00",WA
+Nash General Hospital,Spine,HCPCS 72133,CT scan of lumbar spine with and without contrast,"$2,792.40",WA
+Nash General Hospital,Spine,HCPCS 72132,CT scan of lumbar spine with contrast,"$2,523.60",WA
+Nash General Hospital,Spine,HCPCS 72131,CT scan of lumbar spine without contrast,"$2,315.40",WA
+Nash General Hospital,Spine,HCPCS 72130,CT scan of thoracic spine with and without contrast,"$1,992.00",WA
+Nash General Hospital,Spine,HCPCS 72129,CT scan of thoracic spine with contrast,"$1,548.60",WA
+Nash General Hospital,Spine,HCPCS 72128,CT scan of thoracic spine without contrast,"$1,420.80",WA
+Nash General Hospital,Spine,HCPCS 72142,MRI scan of cervical spine with contrast,"$2,655.60",WA
+Nash General Hospital,Spine,HCPCS 72149,MRI scan of lumbar spine with contrast,"$2,655.60",WA
+Nash General Hospital,Spine,HCPCS 72157,MRI scan of thoracic spine with and without contrast,"$3,294.00",WA
+Nash General Hospital,Spine,HCPCS 72147,MRI scan of thoracic spine with contrast,"$2,655.60",WA
+Nash General Hospital,Spine,HCPCS 72020,"X-ray cervical spine, 1 view",$354.60,WA
+Nash General Hospital,Spine,HCPCS 72050,"X-ray cervical spine, 4 or more views",$283.20,WA
+Nash General Hospital,Spine,HCPCS 72120,"X-ray complete lumbar spine (with bending), 2-3 views",$274.80,WA
+Nash General Hospital,Spine,HCPCS 72114,"X-ray complete lumbar spine (with bending), 6 or more views",$304.80,WA
+Nash General Hospital,Spine,HCPCS 72081,"X-ray entire spine (scoliosis evaluation), 1 view",$326.40,WA
+Nash General Hospital,Spine,HCPCS 72082,"X-ray entire spine (scoliosis evaluation), 2 views",$430.20,WA
+Nash General Hospital,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$853.80,WA
+Nash General Hospital,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$508.20,WA
+Nash General Hospital,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$913.20,WA
+Nash General Hospital,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$534.00,WA
+Nash General Hospital,Spine,HCPCS 72080,"X-ray thoracic-lumbar spine, 2 views",$332.40,WA
+Nash General Hospital,Spine,HCPCS 72070,"X-ray thoracic spine, 2 views",$556.20,WA
+Nash General Hospital,Spine,HCPCS 72072,"X-ray thoracic spine, 3 views",$352.20,WA
+Nash General Hospital,Upper Limbs,HCPCS 73206,"CTA scan of shoulder, arm, or hand","$1,654.20",WA
+Nash General Hospital,Upper Limbs,HCPCS 73202,"CT scan of shoulder, arm, or hand with and without contrast","$1,519.80",WA
+Nash General Hospital,Upper Limbs,HCPCS 73201,"CT scan of shoulder, arm, or hand with contrast","$1,477.20",WA
+Nash General Hospital,Upper Limbs,HCPCS 73200,"CT scan of shoulder, arm, or hand without contrast","$1,420.20",WA
+Nash General Hospital,Upper Limbs,HCPCS 73220,"MRI scan of shoulder, arm, or hand with and without contrast","$2,961.60",WA
+Nash General Hospital,Upper Limbs,HCPCS 73218,"MRI scan of shoulder, arm, or hand without contrast","$1,828.20",WA
+Nash General Hospital,Upper Limbs,HCPCS 73223,"MRI scan of shoulder, elbow, or hand joints with and without contrast","$2,948.40",WA
+Nash General Hospital,Upper Limbs,HCPCS 73222,"MRI scan of shoulder, elbow, or hand joints with contrast","$2,536.80",WA
+Nash General Hospital,Upper Limbs,HCPCS 73000,"X-ray clavicle, 1 view",$486.00,WA
+Nash General Hospital,Upper Limbs,HCPCS 73070,"X-ray elbow, 2 views",$424.80,WA
+Nash General Hospital,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$582.00,WA
+Nash General Hospital,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$476.40,WA
+Nash General Hospital,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$531.60,WA
+Nash General Hospital,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$394.20,WA
+Nash General Hospital,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$562.80,WA
+Nash General Hospital,Upper Limbs,HCPCS 73060,"X-ray humerus, 1 view",$449.40,WA
+Nash General Hospital,Upper Limbs,HCPCS 73010,"X-ray scapula, 1 view",$368.40,WA
+Nash General Hospital,Upper Limbs,HCPCS 73020,"X-ray shoulder, 1 view",$234.60,WA
+Nash General Hospital,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$559.20,WA
+Nash General Hospital,Upper Limbs,HCPCS 73050,X-ray shoulder (AC joint),$222.00,WA
+Nash General Hospital,Upper Limbs,HCPCS 73040,X-ray shoulder (arthrogram) with dye,"$1,175.40",WA
+Nash General Hospital,Upper Limbs,HCPCS 73092,X-ray upper extremities for infant,$137.40,WA
+Nash General Hospital,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$453.60,WA
+Nash General Hospital,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$574.20,WA
+Nash General Hospital,Upper Limbs,HCPCS 73115,X-ray wriste (arthrogram) with dye,$330.60,WA
+Nash General Hospital,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$301.80,WA
+Nash General Hospital,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$95.40,WA
+Nash General Hospital,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$24,921.00",WA
+Nash General Hospital,Auditory System,HCPCS 69210,"Removal of ear wax, both ears",$117.60,WA
+Nash General Hospital,Cardiac,HCPCS 33249,Defibrillator complete system,"$2,721.60",WA
+Nash General Hospital,Cardiac,HCPCS 93452,Diagnostic heart catheterization,"$10,366.80",WA
+Nash General Hospital,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$5,992.20",WA
+Nash General Hospital,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$351.00,WA
+Nash General Hospital,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$11,775.60",WA
+Nash General Hospital,Cardiac,HCPCS 36415,Venipuncture (blood collection),$28.20,WA
+Nash General Hospital,Digestive,HCPCS 47000,Biopsy of liver via needle inserted into skin,"$1,262.40",WA
+Nash General Hospital,Digestive,HCPCS 49083,Paracentesis (removal of fluid from peritoneal cavity) with guidance,"$1,020.00",WA
+Nash General Hospital,Digestive,HCPCS 49082,Paracentesis (removal of fluid from peritoneal cavity) without guidance,$942.60,WA
+Nash General Hospital,Digestive,HCPCS 43762,Replacement of gastrostromy tube (G-tube),$272.40,WA
+Nash General Hospital,Female Reproductive,HCPCS 59025,Fetal non-stress test,$543.00,WA
+Nash General Hospital,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$16,896.11",WA
+Nash General Hospital,General,HCPCS 55700,Biopsy of prostate gland,$996.60,WA
+Nash General Hospital,General,HCPCS 10060,Drainage of Abscess,$536.40,WA
+Nash General Hospital,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$116.40,WA
+Nash General Hospital,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$172.80,WA
+Nash General Hospital,Musculoskeletal,HCPCS 20605,Arthrocentesis (drainage) of joint,$477.00,WA
+Nash General Hospital,Musculoskeletal,HCPCS 62323,Injection of substance into spinal canal of lower back or sacrum using imaging guidance,"$1,846.20",WA
+Nash General Hospital,Musculoskeletal,HCPCS 62321,Injection of substance into spinal canal of upper or middle back using imaging guidance,"$1,846.20",WA
+Nash General Hospital,Musculoskeletal,HCPCS 64483,Injections of anesthetic and/or steroid drug into lower or sacral spine nerve root using imaging guidance,$727.80,WA
+Nash General Hospital,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$603.60,WA
+Nash General Hospital,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$23,413.79",WA
+Nash General Hospital,Musculoskeletal,MSDRG 473,Spinal fusion (cervical),"$36,779.65",WA
+Nash General Hospital,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$56,252.78",WA
+Nash General Hospital,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$177.00,WA
+Nash General Hospital,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$10,805.10",WA
+Nash General Hospital,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$8,925.21",WA
+Nash General Hospital,Skin,HCPCS 10061,Drainage of skin abscess,$536.40,WA
+Nash General Hospital,Skin,HCPCS 10160,Image-guided puncture and drainage (aspiration) of cyst or abscess,$213.60,WA
+Nash General Hospital,Skin,HCPCS 19000,Image-guided puncture and drainage (aspiration) of cyst or abscess in the breast,$413.40,WA
+Nash General Hospital,Skin,HCPCS 10140,Surgical drainage of hematoma or seroma,"$1,321.20",WA
+Nash General Hospital,Skin,HCPCS 19083,Ultrasound-guided breast biopsy,"$2,529.60",WA
+Nash General Hospital,Soft Tissue,HCPCS 97597,Debridement of open wound,$316.80,WA
+Nash General Hospital,Soft Tissue,HCPCS 97602,Non-selective debridement,$150.00,WA
+Nash General Hospital,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$173.40,WA
+Nash General Hospital,Vascular,HCPCS 36416,Collection of capillary blood specimen,$25.20,WA
+Nash General Hospital,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),$665.40,WA
+Nash General Hospital,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$477.60,WA
+Nash General Hospital,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,$910.20,WA
