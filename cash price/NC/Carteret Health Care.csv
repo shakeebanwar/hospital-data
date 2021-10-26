@@ -1,0 +1,426 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+Carteret HealthCare,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,662.31 ",WA
+Carteret HealthCare,Emergency Care,HCPCS 99281,Emergency Level 1,$334.42 ,WA
+Carteret HealthCare,Emergency Care,HCPCS 99282,Emergency Level 2,$240.32 ,WA
+Carteret HealthCare,Emergency Care,HCPCS 99283,Emergency Level 3,"$1,330.23 ",WA
+Carteret HealthCare,Emergency Care,HCPCS 99284,Emergency Level 4,"$2,650.32 ",WA
+Carteret HealthCare,Emergency Care,HCPCS 99285,Emergency Level 5,"$2,641.24 ",WA
+Carteret HealthCare,Hospital,HCPCS 99219,Hospital observation care typically 30 minutes,$313.33 ,WA
+Carteret HealthCare,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min","$1,347.24 ",WA
+Carteret HealthCare,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$358.44 ,WA
+Carteret HealthCare,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$484.07 ,WA
+Carteret HealthCare,Speech,HCPCS 92507,Speech Therapy,$96.77 ,WA
+Carteret HealthCare,Speech,HCPCS 92610,Swallow Evaluation,$196.01 ,WA
+Carteret HealthCare,Speech,HCPCS 92526,Swallow Treatment,$134.40 ,WA
+Carteret HealthCare,Blood,HCPCS 85018,"Blood count, hemoglobin",$16.15 ,WA
+Carteret HealthCare,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$32.30 ,WA
+Carteret HealthCare,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$55.82 ,WA
+Carteret HealthCare,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$162.41 ,WA
+Carteret HealthCare,Blood,HCPCS 85610,"Blood test, clotting time","$3,676.00 ",WA
+Carteret HealthCare,Blood,HCPCS 85730,Coagulation assessment blood test,"$3,676.00 ",WA
+Carteret HealthCare,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$434.80 ,WA
+Carteret HealthCare,Blood,HCPCS 85027,"Complete blood count, automated",$55.88 ,WA
+Carteret HealthCare,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$53.76 ,WA
+Carteret HealthCare,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$53.89 ,WA
+Carteret HealthCare,Blood,HCPCS 85660,Red blood cell sickling measurement,$63.67 ,WA
+Carteret HealthCare,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$582.12 ,WA
+Carteret HealthCare,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$594.32 ,WA
+Carteret HealthCare,Chemistry,HCPCS 82040,Albumin (protein) level,$22.45 ,WA
+Carteret HealthCare,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$180.43 ,WA
+Carteret HealthCare,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$192.81 ,WA
+Carteret HealthCare,Chemistry,HCPCS 82140,Ammonia level,$41.36 ,WA
+Carteret HealthCare,Chemistry,HCPCS 82150,Amylase (enzyme) level,$118.86 ,WA
+Carteret HealthCare,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$19.86 ,WA
+Carteret HealthCare,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$48.24 ,WA
+Carteret HealthCare,Chemistry,HCPCS 84439,Assay of free thyroxine,$491.75 ,WA
+Carteret HealthCare,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$102.60 ,WA
+Carteret HealthCare,Chemistry,HCPCS 82248,Bilirubin level (Direct),$63.02 ,WA
+Carteret HealthCare,Chemistry,HCPCS 82247,Bilirubin level (Total),"$2,118.77 ",WA
+Carteret HealthCare,Chemistry,HCPCS 82565,Blood creatinine level,"$3,676.00 ",WA
+Carteret HealthCare,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$37.00 ,WA
+Carteret HealthCare,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,"$1,996.68 ",WA
+Carteret HealthCare,Chemistry,HCPCS 84132,Blood potassium level,$33.09 ,WA
+Carteret HealthCare,Chemistry,HCPCS 84295,Blood sodium level,$27.02 ,WA
+Carteret HealthCare,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$49.76 ,WA
+Carteret HealthCare,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$608.47 ,WA
+Carteret HealthCare,Chemistry,HCPCS 82310,Calcium level,$36.02 ,WA
+Carteret HealthCare,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$871.17 ,WA
+Carteret HealthCare,Chemistry,HCPCS 82465,Cholesterol level,$37.00 ,WA
+Carteret HealthCare,Chemistry,HCPCS 82525,Copper level,$32.62 ,WA
+Carteret HealthCare,Chemistry,HCPCS 82533,Cortisol Measurement,$226.42 ,WA
+Carteret HealthCare,Chemistry,HCPCS 84681,C-peptide (protein) level,$22.69 ,WA
+Carteret HealthCare,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$104.44 ,WA
+Carteret HealthCare,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$103.32 ,WA
+Carteret HealthCare,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$42.13 ,WA
+Carteret HealthCare,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$333.40 ,WA
+Carteret HealthCare,Chemistry,HCPCS 82746,Folic acid; serum,$51.98 ,WA
+Carteret HealthCare,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$60.15 ,WA
+Carteret HealthCare,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$88.26 ,WA
+Carteret HealthCare,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$77.82 ,WA
+Carteret HealthCare,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$14.19 ,WA
+Carteret HealthCare,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$19.86 ,WA
+Carteret HealthCare,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$15.59 ,WA
+Carteret HealthCare,Chemistry,HCPCS 83718,HDL cholesterol level,$56.31 ,WA
+Carteret HealthCare,Chemistry,HCPCS 83020,Hemoglobin Measurement,$63.67 ,WA
+Carteret HealthCare,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$68.07 ,WA
+Carteret HealthCare,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$434.86 ,WA
+Carteret HealthCare,Chemistry,HCPCS 83525,Insulin Measurement; Total,$63.67 ,WA
+Carteret HealthCare,Chemistry,HCPCS 82330,Ionized Calcium,$90.20 ,WA
+Carteret HealthCare,Chemistry,HCPCS 83550,Iron Binding Capacity,$333.40 ,WA
+Carteret HealthCare,Chemistry,HCPCS 83540,Iron level,$70.16 ,WA
+Carteret HealthCare,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,"$1,079.12 ",WA
+Carteret HealthCare,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$88.26 ,WA
+Carteret HealthCare,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$59.43 ,WA
+Carteret HealthCare,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$24.11 ,WA
+Carteret HealthCare,Chemistry,HCPCS 83021,Liver function blood test panel,$63.67 ,WA
+Carteret HealthCare,Chemistry,HCPCS 83735,Magnesium Level,"$1,419.65 ",WA
+Carteret HealthCare,Chemistry,HCPCS 82542,Mass spectrometry,$38.29 ,WA
+Carteret HealthCare,Chemistry,HCPCS 83883,"Nephelometry, test method using light","$1,079.12 ",WA
+Carteret HealthCare,Chemistry,HCPCS 83970,Parathormone,$154.72 ,WA
+Carteret HealthCare,Chemistry,HCPCS 84157,Prealbumin (protein) level,$59.43 ,WA
+Carteret HealthCare,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$33.10 ,WA
+Carteret HealthCare,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$245.65 ,WA
+Carteret HealthCare,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$79.59 ,WA
+Carteret HealthCare,Chemistry,HCPCS A9270,Selenium (vitamin) level,$0.25 ,WA
+Carteret HealthCare,Chemistry,HCPCS 84403,Testosterone (hormone) level,$14.19 ,WA
+Carteret HealthCare,Chemistry,HCPCS 84402,Testosterone Level; Free,$38.29 ,WA
+Carteret HealthCare,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$27.00 ,WA
+Carteret HealthCare,Chemistry,HCPCS 84445,Thyroid stimulating immune globulins (thyroid related protein) level,$112.31 ,WA
+Carteret HealthCare,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$88.26 ,WA
+Carteret HealthCare,Chemistry,HCPCS 84155,"Total protein level, blood",$64.83 ,WA
+Carteret HealthCare,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$34.44 ,WA
+Carteret HealthCare,Chemistry,HCPCS 84166,Troponin (protein) analysis,$60.15 ,WA
+Carteret HealthCare,Chemistry,HCPCS 84550,"Uric acid level, blood",$66.64 ,WA
+Carteret HealthCare,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$20.00 ,WA
+Carteret HealthCare,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$60.04 ,WA
+Carteret HealthCare,Chemistry,HCPCS 84300,Urine sodium level,$20.00 ,WA
+Carteret HealthCare,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$111.65 ,WA
+Carteret HealthCare,Chemistry,HCPCS 84630,Zinc level,$15.59 ,WA
+Carteret HealthCare,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$98.27 ,WA
+Carteret HealthCare,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$24.11 ,WA
+Carteret HealthCare,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$59.16 ,WA
+Carteret HealthCare,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$109.86 ,WA
+Carteret HealthCare,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$99.05 ,WA
+Carteret HealthCare,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$103.18 ,WA
+Carteret HealthCare,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$103.18 ,WA
+Carteret HealthCare,Immunology,HCPCS 86317,Immunoassay for infectious agent antibody,$30.51 ,WA
+Carteret HealthCare,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$113.22 ,WA
+Carteret HealthCare,Immunology,HCPCS 86140,Measurement C-reactive protein,$562.92 ,WA
+Carteret HealthCare,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$18.12 ,WA
+Carteret HealthCare,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$10.64 ,WA
+Carteret HealthCare,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$17.56 ,WA
+Carteret HealthCare,Immunology,HCPCS 86431,Rheumatoid factor level,$11.00 ,WA
+Carteret HealthCare,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$63.02 ,WA
+Carteret HealthCare,Immunology,HCPCS 86592,Syphilis Detection Test,$8.00 ,WA
+Carteret HealthCare,Immunology,HCPCS 86361,T cell count and ratio,$163.08 ,WA
+Carteret HealthCare,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$17.56 ,WA
+Carteret HealthCare,Microbiology,HCPCS 87147,Analysis for antibody bordetella (respiratory bacteria),$28.79 ,WA
+Carteret HealthCare,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$104.44 ,WA
+Carteret HealthCare,Microbiology,HCPCS 87491,Chlamydia Test,$120.00 ,WA
+Carteret HealthCare,Microbiology,HCPCS 87635,Covid-19 current infection test,$128.00 ,WA
+Carteret HealthCare,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$92.48 ,WA
+Carteret HealthCare,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$279.72 ,WA
+Carteret HealthCare,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$312.12 ,WA
+Carteret HealthCare,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$159.53 ,WA
+Carteret HealthCare,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$120.00 ,WA
+Carteret HealthCare,Microbiology,HCPCS 87517,Hepatitis B Detection,$382.86 ,WA
+Carteret HealthCare,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$15.75 ,WA
+Carteret HealthCare,Microbiology,HCPCS 86735,Mumps virus antibody test,$83.51 ,WA
+Carteret HealthCare,Microbiology,HCPCS 86747,Parvovirus antibody test,$38.29 ,WA
+Carteret HealthCare,Microbiology,HCPCS 86762,Rubella virus antibody test,$77.84 ,WA
+Carteret HealthCare,Microbiology,HCPCS 86765,Rubeola virus antibody test,$77.84 ,WA
+Carteret HealthCare,Microbiology,HCPCS 87207,Smear for infectious agents,$65.01 ,WA
+Carteret HealthCare,Microbiology,HCPCS 87177,Smear for Parasites,$24.10 ,WA
+Carteret HealthCare,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$30.00 ,WA
+Carteret HealthCare,Microbiology,HCPCS 87045,Stool Culture,$298.66 ,WA
+Carteret HealthCare,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$45.40 ,WA
+Carteret HealthCare,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$28.35 ,WA
+Carteret HealthCare,Molecular pathology,HCPCS 81256,Gene analysis (hemochromatosis) common variants,$198.57 ,WA
+Carteret HealthCare,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$258.51 ,WA
+Carteret HealthCare,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,"$6,014.15 ",WA
+Carteret HealthCare,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$178.01 ,WA
+Carteret HealthCare,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$415.75 ,WA
+Carteret HealthCare,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$64.83 ,WA
+Carteret HealthCare,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$415.75 ,WA
+Carteret HealthCare,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$40.71 ,WA
+Carteret HealthCare,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$275.94 ,WA
+Carteret HealthCare,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$110.60 ,WA
+Carteret HealthCare,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$155.64 ,WA
+Carteret HealthCare,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$75.27 ,WA
+Carteret HealthCare,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$33.22 ,WA
+Carteret HealthCare,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$41.36 ,WA
+Carteret HealthCare,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$101.43 ,WA
+Carteret HealthCare,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$72.06 ,WA
+Carteret HealthCare,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$53.59 ,WA
+Carteret HealthCare,Transfusion,HCPCS 86900,"Blood Typing, ABO",$16.28 ,WA
+Carteret HealthCare,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$16.28 ,WA
+Carteret HealthCare,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$42.18 ,WA
+Carteret HealthCare,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$16.28 ,WA
+Carteret HealthCare,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$16.28 ,WA
+Carteret HealthCare,Urinalysis,HCPCS 81002,"Urinalysis, Automated Test",$9.22 ,WA
+Carteret HealthCare,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$50.43 ,WA
+Carteret HealthCare,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$88.01 ,WA
+Carteret HealthCare,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$91.40 ,WA
+Carteret HealthCare,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$423.38 ,WA
+Carteret HealthCare,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report","$1,996.68 ",WA
+Carteret HealthCare,Cardiovascular,MSDRG 282,Heart attack,"$4,217.98 ",WA
+Carteret HealthCare,Cardiovascular,HCPCS 93041,Heart rhythm symptom-related tracing of 24-hour EKG monitoring up to 30 days,"$2,118.77 ",WA
+Carteret HealthCare,Cardiovascular,HCPCS 93975,Ultrasound Heart,$488.04 ,WA
+Carteret HealthCare,Other Non-Surgical Procedures,MSDRG 812,Red blood cell disorders,$657.36 ,WA
+Carteret HealthCare,Other Non-Surgical Procedures,MSDRG 872,Sepsis (blood infection),$639.31 ,WA
+Carteret HealthCare,Pulmonary,HCPCS 94640,Aerosol Treatment,"$2,641.24 ",WA
+Carteret HealthCare,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$98.38 ,WA
+Carteret HealthCare,Pulmonary,HCPCS 94618,Pulmonary stress test,$297.70 ,WA
+Carteret HealthCare,Pulmonary,HCPCS 94010,Spirometry - breathing test,$137.74 ,WA
+Carteret HealthCare,Sleep,HCPCS 95810,Sleep study,"$1,899.15 ",WA
+Carteret HealthCare,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$555.75 ,WA
+Carteret HealthCare,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$430.31 ,WA
+Carteret HealthCare,Breast,HCPCS 77067,Mammogram Screening,$555.75 ,WA
+Carteret HealthCare,Breast,HCPCS 77066,Mammography of both breasts,$509.05 ,WA
+Carteret HealthCare,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$2,216.21 ",WA
+Carteret HealthCare,CT Scan,HCPCS 74175,CT angiography scan of abdomen,"$1,456.85 ",WA
+Carteret HealthCare,CT Scan,HCPCS 74174,CTA scan of abdomen,"$1,906.09 ",WA
+Carteret HealthCare,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,918.10 ",WA
+Carteret HealthCare,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast","$2,641.24 ",WA
+Carteret HealthCare,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$956.24 ,WA
+Carteret HealthCare,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$4,930.23 ",WA
+Carteret HealthCare,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$6,014.15 ",WA
+Carteret HealthCare,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$3,646.35 ",WA
+Carteret HealthCare,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$2,496.06 ",WA
+Carteret HealthCare,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$2,618.39 ",WA
+Carteret HealthCare,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$2,222.60 ",WA
+Carteret HealthCare,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,063.78 ",WA
+Carteret HealthCare,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$2,158.57 ",WA
+Carteret HealthCare,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,974.35 ",WA
+Carteret HealthCare,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$2,249.95 ",WA
+Carteret HealthCare,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,249.95 ",WA
+Carteret HealthCare,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$3,093.70 ",WA
+Carteret HealthCare,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$4,300.24 ",WA
+Carteret HealthCare,MRI,HCPCS 72141,MRI neck spine without contrast material,"$3,093.70 ",WA
+Carteret HealthCare,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$1,683.96 ",WA
+Carteret HealthCare,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,157.79 ",WA
+Carteret HealthCare,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,249.95 ",WA
+Carteret HealthCare,MRI,HCPCS 74181,MRI scan of abdomen without contrast,"$2,315.45 ",WA
+Carteret HealthCare,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$3,536.65 ",WA
+Carteret HealthCare,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,436.84 ",WA
+Carteret HealthCare,MRI,HCPCS 73721,MRI scan of leg joint,"$2,249.95 ",WA
+Carteret HealthCare,Chest,HCPCS 76706,"Ultrasound, aortic aneurisum screening",$135.65 ,WA
+Carteret HealthCare,Hip and Pelvis,HCPCS 76815,"Ultrasound, pregnancy",$303.74 ,WA
+Carteret HealthCare,Hip and Pelvis,HCPCS 76801,"Ultrasound, pregnancy, 1st trimester",$236.38 ,WA
+Carteret HealthCare,Hip and Pelvis,HCPCS 76816,"Ultrasound, pregnancy, transabdominal (pelvis)",$127.97 ,WA
+Carteret HealthCare,Hip and Pelvis,HCPCS 76817,"Ultrasound, pregnancy, transvaginal",$281.41 ,WA
+Carteret HealthCare,Hip and Pelvis,HCPCS 76870,"Ultrasound, testical",$554.05 ,WA
+Carteret HealthCare,Other Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$358.60 ,WA
+Carteret HealthCare,Other Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$459.84 ,WA
+Carteret HealthCare,Other Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$719.99 ,WA
+Carteret HealthCare,Other Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$535.76 ,WA
+Carteret HealthCare,Other Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$707.33 ,WA
+Carteret HealthCare,Other Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$530.15 ,WA
+Carteret HealthCare,Other Ultrasound,HCPCS 76857,Ultrasound of pelvis,$208.12 ,WA
+Carteret HealthCare,Other Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$719.99 ,WA
+Carteret HealthCare,Other Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$707.33 ,WA
+Carteret HealthCare,Other Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$376.87 ,WA
+Carteret HealthCare,Upper Limbs,HCPCS 76882,"Ultrasound, shoulder joint/soft tissue",$260.16 ,WA
+Carteret HealthCare,Abdomen,HCPCS 74018,"X-ray abdomen, 1 view",$383.89 ,WA
+Carteret HealthCare,Abdomen,HCPCS 74019,"X-ray abdomen, 2 views",$399.36 ,WA
+Carteret HealthCare,Chest,HCPCS 76641,Ultrasound of breasts (both),$672.18 ,WA
+Carteret HealthCare,Chest,HCPCS 76642,Ultrasound of breast (single),$352.97 ,WA
+Carteret HealthCare,Chest,HCPCS 76604,Ultrasound of chest,$170.16 ,WA
+Carteret HealthCare,Chest,HCPCS 71130,"X-ray chest joints (sternoclavicular), 3 or more views",$112.50 ,WA
+Carteret HealthCare,Chest,HCPCS 71120,"X-ray chest (sternum), 2 or more views",$159.26 ,WA
+Carteret HealthCare,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$683.42 ,WA
+Carteret HealthCare,Chest,HCPCS 71046,X-ray of chest; 2 Views,$275.63 ,WA
+Carteret HealthCare,Chest,HCPCS 71045,X-ray of chest; Single View,"$1,996.68 ",WA
+Carteret HealthCare,Chest,HCPCS 71110,"X-ray ribs, bilateral, 3 or more views",$179.50 ,WA
+Carteret HealthCare,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$282.26 ,WA
+Carteret HealthCare,Chest,HCPCS 71101,"X-ray ribs, unilateral, 3 or more views",$185.73 ,WA
+Carteret HealthCare,Head and Neck,HCPCS 70496,CTA scan of head,"$3,676.00 ",WA
+Carteret HealthCare,Head and Neck,HCPCS 70498,CTA scan of neck,"$3,676.00 ",WA
+Carteret HealthCare,Head and Neck,HCPCS 70481,CT scan of eye with contrast,"$1,132.88 ",WA
+Carteret HealthCare,Head and Neck,HCPCS 70480,CT scan of eye without contrast,"$1,297.95 ",WA
+Carteret HealthCare,Head and Neck,HCPCS 70487,CT scan of face with contrast,"$1,691.70 ",WA
+Carteret HealthCare,Head and Neck,HCPCS 70488,CT scan of face without contrast,$914.59 ,WA
+Carteret HealthCare,Head and Neck,HCPCS 70460,CT scan of head with contrast,$405.24 ,WA
+Carteret HealthCare,Head and Neck,HCPCS 70470,CT scan of head without contrast,"$2,271.06 ",WA
+Carteret HealthCare,Head and Neck,HCPCS 70492,CT scan of neck with contrast,"$1,238.21 ",WA
+Carteret HealthCare,Head and Neck,HCPCS 70490,CT scan of neck without contrast,$309.54 ,WA
+Carteret HealthCare,Head and Neck,HCPCS 70549,MRA scan of neck with and without contrast,$893.74 ,WA
+Carteret HealthCare,Head and Neck,HCPCS 70547,MRA scan of neck without contrast,"$1,269.16 ",WA
+Carteret HealthCare,Head and Neck,HCPCS 70543,"MRI scan of orbits, face, or soft tissue of the neck with and without contrast","$3,618.29 ",WA
+Carteret HealthCare,Head and Neck,HCPCS 70030,"X-ray eye, foreign body",$143.43 ,WA
+Carteret HealthCare,Head and Neck,HCPCS 70330,"X-ray jaw joint, bilateral",$103.36 ,WA
+Carteret HealthCare,Head and Neck,HCPCS 70100,"X-ray jaw, less than 4 views",$303.74 ,WA
+Carteret HealthCare,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$199.35 ,WA
+Carteret HealthCare,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$248.76 ,WA
+Carteret HealthCare,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$265.79 ,WA
+Carteret HealthCare,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$172.96 ,WA
+Carteret HealthCare,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$544.22 ,WA
+Carteret HealthCare,Head and Neck,HCPCS 70200,"X-ray orbits, 4 or more views",$214.25 ,WA
+Carteret HealthCare,Head and Neck,HCPCS 70220,"X-ray sinuses, 3 views",$437.35 ,WA
+Carteret HealthCare,Head and Neck,HCPCS 70250,"X-ray skull, less than 4 views",$411.42 ,WA
+Carteret HealthCare,Hip and Pelvis,HCPCS 72194,CT scan of pelvis with and without contrast,"$2,311.84 ",WA
+Carteret HealthCare,Hip and Pelvis,HCPCS 72192,CT scan of pelvis without contrast,"$1,728.26 ",WA
+Carteret HealthCare,Hip and Pelvis,HCPCS 72197,MRI scan of pelvis with and without contrast,"$3,597.55 ",WA
+Carteret HealthCare,Hip and Pelvis,HCPCS 72196,MRI scan of pelvis with contrast,"$1,555.94 ",WA
+Carteret HealthCare,Hip and Pelvis,HCPCS 72195,MRI scan of pelvis without contrast,"$2,288.34 ",WA
+Carteret HealthCare,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$489.00 ,WA
+Carteret HealthCare,Hip and Pelvis,HCPCS 73501,"X-ray hip and pelvis, 1 view",$245.00 ,WA
+Carteret HealthCare,Hip and Pelvis,HCPCS 73521,"X-ray hip and pelvis, 2 views",$367.00 ,WA
+Carteret HealthCare,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$326.00 ,WA
+Carteret HealthCare,Hip and Pelvis,HCPCS 73523,"X-ray hip and pelvis, 5 or more views",$581.00 ,WA
+Carteret HealthCare,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$171.23 ,WA
+Carteret HealthCare,Hip and Pelvis,HCPCS 72190,"X-ray pelvis, 3 or more views",$261.35 ,WA
+Carteret HealthCare,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$242.12 ,WA
+Carteret HealthCare,Hip and Pelvis,HCPCS 72220,"X-ray sacrum and coccyx, 2 or more views",$120.94 ,WA
+Carteret HealthCare,Lower Limbs,HCPCS 73706,"CTA scan of hip, knee, ankle, or foot",$979.30 ,WA
+Carteret HealthCare,Lower Limbs,HCPCS 73701,"CT scan of hip, knee, ankle, or foot with contrast","$1,178.42 ",WA
+Carteret HealthCare,Lower Limbs,HCPCS 73700,"CT scan of hip, knee, ankle, or foot without contrast","$1,079.60 ",WA
+Carteret HealthCare,Lower Limbs,HCPCS 73723,"MRI scan of hip, knee, ankle, or foot joints with and without contrast","$3,144.32 ",WA
+Carteret HealthCare,Lower Limbs,HCPCS 73722,"MRI scan of hip, knee, ankle, or foot joints with contrast","$1,197.45 ",WA
+Carteret HealthCare,Lower Limbs,HCPCS 73720,MRI scan of leg with and without contrast,"$1,849.81 ",WA
+Carteret HealthCare,Lower Limbs,HCPCS 73719,MRI scan of leg with contrast,"$3,144.68 ",WA
+Carteret HealthCare,Lower Limbs,HCPCS 73718,MRI scan of leg without contrast,"$2,432.78 ",WA
+Carteret HealthCare,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$152.90 ,WA
+Carteret HealthCare,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$742.80 ,WA
+Carteret HealthCare,Lower Limbs,HCPCS 73565,X-ray Both Knees,$471.24 ,WA
+Carteret HealthCare,Lower Limbs,HCPCS 73630,X-ray exam of foot,$302.99 ,WA
+Carteret HealthCare,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$196.52 ,WA
+Carteret HealthCare,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$269.00 ,WA
+Carteret HealthCare,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$259.93 ,WA
+Carteret HealthCare,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$200.81 ,WA
+Carteret HealthCare,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$314.15 ,WA
+Carteret HealthCare,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$782.96 ,WA
+Carteret HealthCare,Lower Limbs,HCPCS 73580,X-ray knee (arthrogram) with dye,$390.77 ,WA
+Carteret HealthCare,Lower Limbs,HCPCS 73592,X-ray lower extremities for infant,$135.54 ,WA
+Carteret HealthCare,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$271.10 ,WA
+Carteret HealthCare,Lower Limbs,HCPCS 73660,"X-ray toes, 2 or more views",$143.31 ,WA
+Carteret HealthCare,Other X-ray,HCPCS 74300,"X-ray bile ducts, with contrast (cholangiogram)",$629.99 ,WA
+Carteret HealthCare,Other X-ray,HCPCS 74430,"X-ray, bladder (cystogram), 3 or more views",$192.94 ,WA
+Carteret HealthCare,Other X-ray,HCPCS 74280,"X-ray colon, with contrast",$355.77 ,WA
+Carteret HealthCare,Other X-ray,HCPCS 74270,"X-ray colon, with or without contrast",$334.68 ,WA
+Carteret HealthCare,Other X-ray,HCPCS 74220,X-ray esophagus (esophogram),$437.35 ,WA
+Carteret HealthCare,Other X-ray,HCPCS 76010,X-ray of child for foreign body,$216.87 ,WA
+Carteret HealthCare,Other X-ray,HCPCS 74250,X-ray small bowel,$642.65 ,WA
+Carteret HealthCare,Other X-ray,HCPCS 74230,"X-ray, swallowing function study",$103.36 ,WA
+Carteret HealthCare,Spine,HCPCS 72126,CT scan of cervical spine with contrast,"$1,078.57 ",WA
+Carteret HealthCare,Spine,HCPCS 72125,CT scan of cervical spine without contrast,"$1,118.38 ",WA
+Carteret HealthCare,Spine,HCPCS 72132,CT scan of lumbar spine with contrast,$913.46 ,WA
+Carteret HealthCare,Spine,HCPCS 72131,CT scan of lumbar spine without contrast,$839.60 ,WA
+Carteret HealthCare,Spine,HCPCS 72129,CT scan of thoracic spine with contrast,$918.18 ,WA
+Carteret HealthCare,Spine,HCPCS 72128,CT scan of thoracic spine without contrast,"$1,402.01 ",WA
+Carteret HealthCare,Spine,HCPCS 72149,MRI scan of lumbar spine with contrast,"$1,089.17 ",WA
+Carteret HealthCare,Spine,HCPCS 72157,MRI scan of thoracic spine with and without contrast,"$3,536.65 ",WA
+Carteret HealthCare,Spine,HCPCS 72020,"X-ray cervical spine, 1 view",$254.71 ,WA
+Carteret HealthCare,Spine,HCPCS 72050,"X-ray cervical spine, 4 or more views",$437.35 ,WA
+Carteret HealthCare,Spine,HCPCS 72120,"X-ray complete lumbar spine (with bending), 2-3 views",$134.73 ,WA
+Carteret HealthCare,Spine,HCPCS 72114,"X-ray complete lumbar spine (with bending), 6 or more views",$559.68 ,WA
+Carteret HealthCare,Spine,HCPCS 72081,"X-ray entire spine (scoliosis evaluation), 1 view",$60.80 ,WA
+Carteret HealthCare,Spine,HCPCS 72082,"X-ray entire spine (scoliosis evaluation), 2 views",$100.69 ,WA
+Carteret HealthCare,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$641.24 ,WA
+Carteret HealthCare,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$453.43 ,WA
+Carteret HealthCare,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$485.15 ,WA
+Carteret HealthCare,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$881.21 ,WA
+Carteret HealthCare,Spine,HCPCS 72070,"X-ray thoracic spine, 2 views",$302.28 ,WA
+Carteret HealthCare,Spine,HCPCS 72072,"X-ray thoracic spine, 3 views",$200.74 ,WA
+Carteret HealthCare,Spine,HCPCS 72074,"X-ray thoracic spine, 4 or more views",$245.90 ,WA
+Carteret HealthCare,Upper Limbs,HCPCS 73201,"CT scan of shoulder, arm, or hand with contrast",$990.27 ,WA
+Carteret HealthCare,Upper Limbs,HCPCS 73200,"CT scan of shoulder, arm, or hand without contrast",$693.19 ,WA
+Carteret HealthCare,Upper Limbs,HCPCS 73220,"MRI scan of shoulder, arm, or hand with and without contrast","$2,110.75 ",WA
+Carteret HealthCare,Upper Limbs,HCPCS 73218,"MRI scan of shoulder, arm, or hand without contrast","$2,145.41 ",WA
+Carteret HealthCare,Upper Limbs,HCPCS 73223,"MRI scan of shoulder, elbow, or hand joints with and without contrast","$2,569.01 ",WA
+Carteret HealthCare,Upper Limbs,HCPCS 73222,"MRI scan of shoulder, elbow, or hand joints with contrast","$2,769.93 ",WA
+Carteret HealthCare,Upper Limbs,HCPCS 73000,"X-ray clavicle, 1 view",$342.55 ,WA
+Carteret HealthCare,Upper Limbs,HCPCS 73070,"X-ray elbow, 2 views",$291.83 ,WA
+Carteret HealthCare,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$271.10 ,WA
+Carteret HealthCare,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$237.60 ,WA
+Carteret HealthCare,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$255.94 ,WA
+Carteret HealthCare,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$242.20 ,WA
+Carteret HealthCare,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$358.60 ,WA
+Carteret HealthCare,Upper Limbs,HCPCS 73060,"X-ray humerus, 1 view",$223.25 ,WA
+Carteret HealthCare,Upper Limbs,HCPCS 73010,"X-ray scapula, 1 view",$127.56 ,WA
+Carteret HealthCare,Upper Limbs,HCPCS 73020,"X-ray shoulder, 1 view",$113.90 ,WA
+Carteret HealthCare,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$302.99 ,WA
+Carteret HealthCare,Upper Limbs,HCPCS 73050,X-ray shoulder (AC joint),$127.56 ,WA
+Carteret HealthCare,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$289.68 ,WA
+Carteret HealthCare,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$870.89 ,WA
+Carteret HealthCare,Upper Limbs,HCPCS 73115,X-ray wriste (arthrogram) with dye,$301.92 ,WA
+Carteret HealthCare,Abdomenal,HCPCS 52204,Biopsy of the bladder using an endoscope,"$7,651.70 ",WA
+Carteret HealthCare,Abdomenal,HCPCS 47562,Cholecystectomy,"$10,927.55 ",WA
+Carteret HealthCare,Abdomenal,HCPCS 47563,Cholecystectomy with cholangiography,"$12,828.15 ",WA
+Carteret HealthCare,Abdomenal,HCPCS 52353,Crushing of stone in urinary duct (ureter) using an endoscope,"$12,041.49 ",WA
+Carteret HealthCare,Abdomenal,HCPCS 52356,Crushing of stone in urinary duct (ureter) with stent using an endoscope,"$10,226.04 ",WA
+Carteret HealthCare,Abdomenal,HCPCS 52000,Diagnostic examination of the bladder and bladder canal (urethra) using an endoscope,"$2,411.21 ",WA
+Carteret HealthCare,Abdomenal,HCPCS 49505,Inguinal hernia repair (age over 5),"$9,567.69 ",WA
+Carteret HealthCare,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$982.59 ,WA
+Carteret HealthCare,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$546.44 ,WA
+Carteret HealthCare,Abdomenal,HCPCS 44970,Removal of appendix using an endoscope (Outpatient),"$14,917.26 ",WA
+Carteret HealthCare,Abdomenal,HCPCS 52601,Removal of prostate through bladder canal (urethra) using an endoscope,"$11,857.31 ",WA
+Carteret HealthCare,Abdomenal,HCPCS 49650,Repair of groin hernia using an endoscope,"$13,216.54 ",WA
+Carteret HealthCare,Abdomenal,HCPCS 49654,Repair of incisional hernia using an endoscope,"$13,378.43 ",WA
+Carteret HealthCare,Abdomenal,HCPCS 49653,Repair of trapped hernia using an endoscope,"$12,932.51 ",WA
+Carteret HealthCare,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$7,199.46 ",WA
+Carteret HealthCare,Abdomenal,HCPCS 49507,Trapped inguinal hernia repair (age over 5),"$9,974.00 ",WA
+Carteret HealthCare,Abdomenal,HCPCS 49585,Umbilical hernia repair (age over 5),"$11,984.66 ",WA
+Carteret HealthCare,Breast,HCPCS 19125,Excision of breast lesion,"$18,121.99 ",WA
+Carteret HealthCare,Breast,HCPCS 19120,Excision of cyst of breast,"$8,470.08 ",WA
+Carteret HealthCare,Breast,HCPCS 19301,Partial removal of breast,"$24,558.24 ",WA
+Carteret HealthCare,Breast,HCPCS 19318,Reduction mammaplasty,"$22,613.16 ",WA
+Carteret HealthCare,Breast,HCPCS 19307,Removal of breast and underarm lymph nodes,"$15,431.64 ",WA
+Carteret HealthCare,Breast,HCPCS 19303,Total removal of breast,"$19,608.42 ",WA
+Carteret HealthCare,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$6,467.00 ",WA
+Carteret HealthCare,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$28,697.09 ",WA
+Carteret HealthCare,Cardiac,HCPCS 36415,Venipuncture (blood collection),$457.89 ,WA
+Carteret HealthCare,Digestive,HCPCS 47000,Biopsy of liver via needle inserted into skin,"$2,780.75 ",WA
+Carteret HealthCare,Digestive,HCPCS 45378,"Colonoscopy, diagnostic","$3,282.99 ",WA
+Carteret HealthCare,Digestive,HCPCS 45380,"Colonoscopy, with biopsy","$5,350.00 ",WA
+Carteret HealthCare,Digestive,HCPCS 45384,"Colonoscopy, with tumor removal","$4,210.68 ",WA
+Carteret HealthCare,Digestive,HCPCS 45385,"Colonoscopy, with tumor removal (SNARE)","$5,062.49 ",WA
+Carteret HealthCare,Digestive,HCPCS 43235,EGD,"$3,441.21 ",WA
+Carteret HealthCare,Digestive,HCPCS 43239,EGD and biopsy,"$3,436.73 ",WA
+Carteret HealthCare,Digestive,HCPCS 49083,Paracentesis (removal of fluid from peritoneal cavity) with guidance,"$1,880.53 ",WA
+Carteret HealthCare,Digestive,HCPCS 49082,Paracentesis (removal of fluid from peritoneal cavity) without guidance,"$26,254.35 ",WA
+Carteret HealthCare,Digestive,HCPCS 46255,Removal of internal and external hemorrhoids,"$10,493.47 ",WA
+Carteret HealthCare,Digestive,HCPCS 46260,Removal of multiple internal and external hemorrhoid groups,"$11,109.19 ",WA
+Carteret HealthCare,Digestive,HCPCS 43762,Replacement of gastrostromy tube (G-tube),"$1,217.41 ",WA
+Carteret HealthCare,Female Reproductive,HCPCS 59025,Fetal non-stress test,$996.77 ,WA
+Carteret HealthCare,General,HCPCS 10060,Drainage of Abscess,$334.42 ,WA
+Carteret HealthCare,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple","$1,268.16 ",WA
+Carteret HealthCare,General,HCPCS 69200,Removal of foreign body from ear canal,"$1,035.32 ",WA
+Carteret HealthCare,General,HCPCS 60240,Removal of thyroid,"$15,460.38 ",WA
+Carteret HealthCare,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),"$1,503.15 ",WA
+Carteret HealthCare,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),"$11,932.71 ",WA
+Carteret HealthCare,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$448.69 ,WA
+Carteret HealthCare,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less","$1,497.97 ",WA
+Carteret HealthCare,Musculoskeletal,HCPCS 29130,Application of finger splint,$763.12 ,WA
+Carteret HealthCare,Musculoskeletal,HCPCS 29105,Application of full arm cast/splint,"$1,471.67 ",WA
+Carteret HealthCare,Musculoskeletal,HCPCS 29505,Application of full leg cast/splint,"$2,353.56 ",WA
+Carteret HealthCare,Musculoskeletal,HCPCS 29125,Application of short arm cast/splint (below the elbow),$897.46 ,WA
+Carteret HealthCare,Musculoskeletal,HCPCS 29515,Application of short leg cast/splint (below the knee),"$1,462.73 ",WA
+Carteret HealthCare,Musculoskeletal,HCPCS 20605,Arthrocentesis (drainage) of joint,"$1,898.62 ",WA
+Carteret HealthCare,Musculoskeletal,HCPCS 20600,Arthrocentesis (drainage) of small joint,$950.99 ,WA
+Carteret HealthCare,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,"$1,459.77 ",WA
+Carteret HealthCare,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,"$2,726.44 ",WA
+Carteret HealthCare,Musculoskeletal,HCPCS 29881,Knee arthroscopic cartilage removal,"$9,389.60 ",WA
+Carteret HealthCare,Musculoskeletal,HCPCS 29877,Knee arthroscopic chrondoplasty,"$11,427.14 ",WA
+Carteret HealthCare,Musculoskeletal,HCPCS 63685,Neurostimulator pulse generator,"$92,997.05 ",WA
+Carteret HealthCare,Musculoskeletal,HCPCS 29824,Shoulder arthroscopy,"$20,350.61 ",WA
+Carteret HealthCare,Musculoskeletal,HCPCS 29826,Shoulder arthroscopy with bone shaving,"$22,238.49 ",WA
+Carteret HealthCare,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot","$2,696.90 ",WA
+Carteret HealthCare,Musculoskeletal,HCPCS 25605,Treatment of forearm (radius or ulna) fracture,"$1,950.68 ",WA
+Carteret HealthCare,Musculoskeletal,HCPCS 23650,Treatment of shoulder dislocation without anesthesia,"$2,281.76 ",WA
+Carteret HealthCare,Obstetrics,HCPCS 58571,Abdominal removal of uterus with removal of tubes and/or ovaries using an endoscope,"$25,645.38 ",WA
+Carteret HealthCare,Obstetrics,HCPCS 58558,Biopsy and/or removal of polyp of the uterus using an endoscope,"$12,880.75 ",WA
+Carteret HealthCare,Obstetrics,HCPCS 58662,Destruction or removal of ovary or pelvic growths using an endoscope,"$13,054.68 ",WA
+Carteret HealthCare,Obstetrics,HCPCS 58661,Removal of ovaries and/or tubes using an endoscope,"$13,572.85 ",WA
+Carteret HealthCare,Skin,HCPCS 10160,Image-guided puncture and drainage (aspiration) of cyst or abscess,$876.46 ,WA
+Carteret HealthCare,Skin,HCPCS 19000,Image-guided puncture and drainage (aspiration) of cyst or abscess in the breast,"$11,601.38 ",WA
+Carteret HealthCare,Skin,HCPCS 10080,Incision and drainage of pilonidal (near tailbone) cyst,"$1,014.66 ",WA
+Carteret HealthCare,Skin,HCPCS 15830,Removal of excess skin and tissue from abdomen (panniculectomy),"$16,142.65 ",WA
+Carteret HealthCare,Skin,HCPCS 10140,Surgical drainage of hematoma or seroma,$583.38 ,WA
+Carteret HealthCare,Skin,HCPCS 19083,Ultrasound-guided breast biopsy,"$4,022.72 ",WA
+Carteret HealthCare,Soft Tissue,HCPCS 97597,Debridement of open wound,$394.79 ,WA
+Carteret HealthCare,Soft Tissue,HCPCS 97602,Non-selective debridement,$231.30 ,WA
+Carteret HealthCare,Vascular,HCPCS 36592,Collection of blood specimen from central or peripheral venous catheter,$784.34 ,WA
+Carteret HealthCare,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$6,684.87 ",WA
+Carteret HealthCare,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,"$1,927.04 ",WA
+Carteret HealthCare,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,"$5,428.24 ",WA

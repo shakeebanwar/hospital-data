@@ -1,0 +1,412 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+UNC Rockingham Health Care,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$290.40,WA
+UNC Rockingham Health Care,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes",$967.20,WA
+UNC Rockingham Health Care,Emergency Care,HCPCS 99281,Emergency Level 1,$164.40,WA
+UNC Rockingham Health Care,Emergency Care,HCPCS 99282,Emergency Level 2,$291.60,WA
+UNC Rockingham Health Care,Emergency Care,HCPCS 99283,Emergency Level 3,$470.40,WA
+UNC Rockingham Health Care,Emergency Care,HCPCS 99284,Emergency Level 4,$757.20,WA
+UNC Rockingham Health Care,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,090.80",WA
+UNC Rockingham Health Care,Office Visit,HCPCS 99385,Initial new patient preventive medicine evaluation (18-39 years),$82.20,WA
+UNC Rockingham Health Care,Office Visit,HCPCS 99386,Initial new patient preventive medicine evaluation (40-64 years),$100.80,WA
+UNC Rockingham Health Care,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$264.00,WA
+UNC Rockingham Health Care,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$319.80,WA
+UNC Rockingham Health Care,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$199.20,WA
+UNC Rockingham Health Care,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$170.40,WA
+UNC Rockingham Health Care,Speech,HCPCS 92507,Speech Therapy,$74.40,WA
+UNC Rockingham Health Care,Speech,HCPCS 92610,Swallow Evaluation,$128.40,WA
+UNC Rockingham Health Care,Speech,HCPCS 92526,Swallow Treatment,$88.80,WA
+UNC Rockingham Health Care,Blood,HCPCS 85018,"Blood count, hemoglobin",$20.40,WA
+UNC Rockingham Health Care,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$20.40,WA
+UNC Rockingham Health Care,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$52.80,WA
+UNC Rockingham Health Care,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$85.20,WA
+UNC Rockingham Health Care,Blood,HCPCS 85610,"Blood test, clotting time",$39.00,WA
+UNC Rockingham Health Care,Blood,HCPCS 85730,Coagulation assessment blood test,$40.80,WA
+UNC Rockingham Health Care,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$63.60,WA
+UNC Rockingham Health Care,Blood,HCPCS 85027,"Complete blood count, automated",$35.40,WA
+UNC Rockingham Health Care,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$47.40,WA
+UNC Rockingham Health Care,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$174.60,WA
+UNC Rockingham Health Care,Blood,HCPCS 85660,Red blood cell sickling measurement,$52.20,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$250.80,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 82040,Albumin (protein) level,$40.20,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$86.40,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$100.80,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 82140,Ammonia level,$49.20,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 82150,Amylase (enzyme) level,$48.00,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$64.80,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 84439,Assay of free thyroxine,$82.20,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$91.80,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 82248,Bilirubin level (Direct),$36.00,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 82247,Bilirubin level (Total),$33.60,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 82565,Blood creatinine level,$31.80,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$36.00,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 82948,Blood glucose (sugar) measurement using reagent strip,-,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 84132,Blood potassium level,$30.60,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 84295,Blood sodium level,$34.20,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$65.40,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$78.60,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 82310,Calcium level,$31.80,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$40.80,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$114.00,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 82465,Cholesterol level,$42.60,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 82525,Copper level,$126.00,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 82533,Cortisol Measurement,$114.60,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 84681,C-peptide (protein) level,$110.40,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$44.40,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$87.00,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$222.00,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$58.80,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 82746,Folic acid; serum,$91.20,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$101.40,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$42.00,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$67.80,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$90.00,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$73.20,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$75.60,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 83718,HDL cholesterol level,$73.80,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 83090,Homocysteine (amino acid) level,$268.80,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 83498,"Hydroxyprogesterone, 17-D (synthetic hormone) level",$187.20,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$113.40,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 83525,Insulin Measurement; Total,$75.60,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 82330,Ionized Calcium,$94.20,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 83550,Iron Binding Capacity,$46.20,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 83540,Iron level,$26.40,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$40.20,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 83721,LDL cholesterol level,$81.00,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$89.40,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$39.00,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$97.80,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 83021,Liver function blood test panel,$86.40,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 83735,Magnesium Level,$49.20,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$100.80,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 83945,Oxalate level,$60.60,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 83970,Parathormone,$138.00,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 84157,Prealbumin (protein) level,$56.40,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$333.60,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$118.20,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$63.00,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 84403,Testosterone (hormone) level,$175.80,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 84402,Testosterone Level; Free,$280.20,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$42.00,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$43.80,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 84155,"Total protein level, blood",$37.80,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$37.20,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 84166,Troponin (protein) analysis,$167.40,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 84560,Uric acid level,$60.60,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 84550,"Uric acid level, blood",$37.80,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 82340,Urine calcium level,$61.20,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 82436,Urine chloride level,$30.60,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$44.40,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$49.20,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 84133,Urine potassium level,$41.40,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 84300,Urine sodium level,$22.20,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$231.00,WA
+UNC Rockingham Health Care,Chemistry,HCPCS 84630,Zinc level,$37.80,WA
+UNC Rockingham Health Care,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$121.80,WA
+UNC Rockingham Health Care,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$109.20,WA
+UNC Rockingham Health Care,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$81.60,WA
+UNC Rockingham Health Care,Immunology,HCPCS 86695,"Analysis for antibody to Herpes simplex virus, type 1",$60.60,WA
+UNC Rockingham Health Care,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$15.00,WA
+UNC Rockingham Health Care,Immunology,HCPCS 86318,Covid-19 antibody test,$155.40,WA
+UNC Rockingham Health Care,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$109.20,WA
+UNC Rockingham Health Care,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$51.00,WA
+UNC Rockingham Health Care,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$51.00,WA
+UNC Rockingham Health Care,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$135.60,WA
+UNC Rockingham Health Care,Immunology,HCPCS 86140,Measurement C-reactive protein,$64.20,WA
+UNC Rockingham Health Care,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$18.00,WA
+UNC Rockingham Health Care,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$41.40,WA
+UNC Rockingham Health Care,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$86.40,WA
+UNC Rockingham Health Care,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$79.20,WA
+UNC Rockingham Health Care,Immunology,HCPCS 86431,Rheumatoid factor level,$62.40,WA
+UNC Rockingham Health Care,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$81.00,WA
+UNC Rockingham Health Care,Immunology,HCPCS 86592,Syphilis Detection Test,$66.00,WA
+UNC Rockingham Health Care,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$249.00,WA
+UNC Rockingham Health Care,Immunology,HCPCS 86359,"T cells count, total",$181.80,WA
+UNC Rockingham Health Care,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$97.20,WA
+UNC Rockingham Health Care,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$81.00,WA
+UNC Rockingham Health Care,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$52.20,WA
+UNC Rockingham Health Care,Microbiology,HCPCS 87491,Chlamydia Test,$78.00,WA
+UNC Rockingham Health Care,Microbiology,HCPCS 87635,Covid-19 current infection test,$60.00,WA
+UNC Rockingham Health Care,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$124.20,WA
+UNC Rockingham Health Care,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$278.40,WA
+UNC Rockingham Health Care,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$7.20,WA
+UNC Rockingham Health Care,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$76.80,WA
+UNC Rockingham Health Care,Microbiology,HCPCS 87517,Hepatitis B Detection,$394.20,WA
+UNC Rockingham Health Care,Microbiology,HCPCS 87389,HIV antigen and antibodies detection test,$156.60,WA
+UNC Rockingham Health Care,Microbiology,HCPCS 87624,HPV Detection,$138.60,WA
+UNC Rockingham Health Care,Microbiology,HCPCS 86735,Mumps virus antibody test,$52.20,WA
+UNC Rockingham Health Care,Microbiology,HCPCS 86747,Parvovirus antibody test,$95.40,WA
+UNC Rockingham Health Care,Microbiology,HCPCS 86762,Rubella virus antibody test,$53.40,WA
+UNC Rockingham Health Care,Microbiology,HCPCS 86765,Rubeola virus antibody test,$84.00,WA
+UNC Rockingham Health Care,Microbiology,HCPCS 87177,Smear for Parasites,$54.00,WA
+UNC Rockingham Health Care,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$47.40,WA
+UNC Rockingham Health Care,Microbiology,HCPCS 87045,Stool Culture,$28.20,WA
+UNC Rockingham Health Care,Microbiology,HCPCS 87880,Strep Test,$36.00,WA
+UNC Rockingham Health Care,Microbiology,HCPCS 87804,Test for Influenza Virus,$42.60,WA
+UNC Rockingham Health Care,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$63.00,WA
+UNC Rockingham Health Care,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$84.60,WA
+UNC Rockingham Health Care,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$185.40,WA
+UNC Rockingham Health Care,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$60.00,WA
+UNC Rockingham Health Care,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$72.00,WA
+UNC Rockingham Health Care,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$70.20,WA
+UNC Rockingham Health Care,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$42.60,WA
+UNC Rockingham Health Care,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$67.20,WA
+UNC Rockingham Health Care,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$107.40,WA
+UNC Rockingham Health Care,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$129.60,WA
+UNC Rockingham Health Care,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$74.40,WA
+UNC Rockingham Health Care,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$15.00,WA
+UNC Rockingham Health Care,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$133.80,WA
+UNC Rockingham Health Care,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$54.00,WA
+UNC Rockingham Health Care,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$83.40,WA
+UNC Rockingham Health Care,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$92.40,WA
+UNC Rockingham Health Care,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$208.20,WA
+UNC Rockingham Health Care,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$75.60,WA
+UNC Rockingham Health Care,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$88.80,WA
+UNC Rockingham Health Care,Transfusion,HCPCS 86900,"Blood Typing, ABO",$41.40,WA
+UNC Rockingham Health Care,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$27.00,WA
+UNC Rockingham Health Care,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$105.00,WA
+UNC Rockingham Health Care,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$51.60,WA
+UNC Rockingham Health Care,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$96.60,WA
+UNC Rockingham Health Care,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$55.20,WA
+UNC Rockingham Health Care,Urinalysis,HCPCS 81001,"Urinalysis with Examination, using Microscope",$32.40,WA
+UNC Rockingham Health Care,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$71.40,WA
+UNC Rockingham Health Care,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$402.00,WA
+UNC Rockingham Health Care,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$103.80,WA
+UNC Rockingham Health Care,Cardiovascular,HCPCS 93975,Ultrasound Heart,$577.80,WA
+UNC Rockingham Health Care,Pulmonary,HCPCS 94640,Aerosol Treatment,$31.80,WA
+UNC Rockingham Health Care,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$156.60,WA
+UNC Rockingham Health Care,Pulmonary,HCPCS 94618,Pulmonary stress test,$123.00,WA
+UNC Rockingham Health Care,Pulmonary,HCPCS 94010,Spirometry - breathing test,$79.20,WA
+UNC Rockingham Health Care,Breast,HCPCS 77063,3D Mammogram Screening (Tomosynthesis),$111.60,WA
+UNC Rockingham Health Care,Breast,HCPCS 77065,"Diagnostic mammography, unilateral",$285.60,WA
+UNC Rockingham Health Care,Breast,HCPCS 77067,Mammogram Screening,$244.80,WA
+UNC Rockingham Health Care,Breast,HCPCS 77066,Mammography of both breasts,$344.40,WA
+UNC Rockingham Health Care,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,051.20",WA
+UNC Rockingham Health Care,CT Scan,HCPCS 74175,CT angiography scan of abdomen,"$1,434.60",WA
+UNC Rockingham Health Care,CT Scan,HCPCS 74174,CTA scan of abdomen,"$2,049.00",WA
+UNC Rockingham Health Care,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,$994.20,WA
+UNC Rockingham Health Care,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$617.40,WA
+UNC Rockingham Health Care,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$797.40,WA
+UNC Rockingham Health Care,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$2,394.00",WA
+UNC Rockingham Health Care,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$1,841.40",WA
+UNC Rockingham Health Care,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$1,693.80",WA
+UNC Rockingham Health Care,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,197.00",WA
+UNC Rockingham Health Care,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,399.20",WA
+UNC Rockingham Health Care,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material",$883.20,WA
+UNC Rockingham Health Care,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material",$751.20,WA
+UNC Rockingham Health Care,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast",$845.40,WA
+UNC Rockingham Health Care,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,250.40",WA
+UNC Rockingham Health Care,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,633.80",WA
+UNC Rockingham Health Care,MRI,HCPCS 72146,MRI chest spine without contrast material,"$1,309.80",WA
+UNC Rockingham Health Care,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,606.20",WA
+UNC Rockingham Health Care,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,088.00",WA
+UNC Rockingham Health Care,MRI,HCPCS 72141,MRI neck spine without contrast material,"$1,570.80",WA
+UNC Rockingham Health Care,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$2,042.40",WA
+UNC Rockingham Health Care,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,068.20",WA
+UNC Rockingham Health Care,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$1,380.60",WA
+UNC Rockingham Health Care,MRI,HCPCS 74181,MRI scan of abdomen without contrast,"$1,633.80",WA
+UNC Rockingham Health Care,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,091.00",WA
+UNC Rockingham Health Care,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$1,633.80",WA
+UNC Rockingham Health Care,MRI,HCPCS 73721,MRI scan of leg joint,"$1,317.00",WA
+UNC Rockingham Health Care,Chest,HCPCS 76706,"Ultrasound, aortic aneurisum screening",$163.20,WA
+UNC Rockingham Health Care,Hip and Pelvis,HCPCS 76815,"Ultrasound, pregnancy",$193.80,WA
+UNC Rockingham Health Care,Hip and Pelvis,HCPCS 76801,"Ultrasound, pregnancy, 1st trimester",$322.80,WA
+UNC Rockingham Health Care,Hip and Pelvis,HCPCS 76816,"Ultrasound, pregnancy, transabdominal (pelvis)",$250.80,WA
+UNC Rockingham Health Care,Hip and Pelvis,HCPCS 76817,"Ultrasound, pregnancy, transvaginal",$352.80,WA
+UNC Rockingham Health Care,Hip and Pelvis,HCPCS 76870,"Ultrasound, testical",$375.60,WA
+UNC Rockingham Health Care,Other Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$338.40,WA
+UNC Rockingham Health Care,Other Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$411.60,WA
+UNC Rockingham Health Care,Other Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$359.40,WA
+UNC Rockingham Health Care,Other Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$431.40,WA
+UNC Rockingham Health Care,Other Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$477.00,WA
+UNC Rockingham Health Care,Other Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$372.00,WA
+UNC Rockingham Health Care,Other Ultrasound,HCPCS 76857,Ultrasound of pelvis,$90.00,WA
+UNC Rockingham Health Care,Other Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$342.60,WA
+UNC Rockingham Health Care,Other Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$419.40,WA
+UNC Rockingham Health Care,Other Ultrasound,HCPCS 76881,Ultrasound Veins of Both Arms or Legs,$687.60,WA
+UNC Rockingham Health Care,Spine,HCPCS 76800,"Ultrasound, spinal canal",$216.60,WA
+UNC Rockingham Health Care,Upper Limbs,HCPCS 76882,"Ultrasound, shoulder joint/soft tissue",$144.00,WA
+UNC Rockingham Health Care,Abdomen,HCPCS 74018,"X-ray abdomen, 1 view",$144.00,WA
+UNC Rockingham Health Care,Abdomen,HCPCS 74019,"X-ray abdomen, 2 views",$208.20,WA
+UNC Rockingham Health Care,Chest,HCPCS 71552,MRI scan of chest with and without contrast,"$1,830.00",WA
+UNC Rockingham Health Care,Chest,HCPCS 71550,MRI scan of chest without contrast,"$1,513.20",WA
+UNC Rockingham Health Care,Chest,HCPCS 76641,Ultrasound of breasts (both),$257.40,WA
+UNC Rockingham Health Care,Chest,HCPCS 76642,Ultrasound of breast (single),$240.60,WA
+UNC Rockingham Health Care,Chest,HCPCS 76604,Ultrasound of chest,$175.20,WA
+UNC Rockingham Health Care,Chest,HCPCS 71047,"X-ray chest, 2 views",$135.00,WA
+UNC Rockingham Health Care,Chest,HCPCS 71048,"X-ray chest, 4 or more views",$200.40,WA
+UNC Rockingham Health Care,Chest,HCPCS 71130,"X-ray chest joints (sternoclavicular), 3 or more views",$148.80,WA
+UNC Rockingham Health Care,Chest,HCPCS 71120,"X-ray chest (sternum), 2 or more views",$144.00,WA
+UNC Rockingham Health Care,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$258.00,WA
+UNC Rockingham Health Care,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$201.60,WA
+UNC Rockingham Health Care,Chest,HCPCS 71046,X-ray of chest; 2 Views,$114.60,WA
+UNC Rockingham Health Care,Chest,HCPCS 71045,X-ray of chest; Single View,$103.20,WA
+UNC Rockingham Health Care,Chest,HCPCS 71110,"X-ray ribs, bilateral, 3 or more views",$226.80,WA
+UNC Rockingham Health Care,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$158.40,WA
+UNC Rockingham Health Care,Chest,HCPCS 71101,"X-ray ribs, unilateral, 3 or more views",$226.80,WA
+UNC Rockingham Health Care,Head and Neck,HCPCS 70496,CTA scan of head,"$1,080.60",WA
+UNC Rockingham Health Care,Head and Neck,HCPCS 70498,CTA scan of neck,"$1,080.60",WA
+UNC Rockingham Health Care,Head and Neck,HCPCS 70481,CT scan of eye with contrast,"$1,215.00",WA
+UNC Rockingham Health Care,Head and Neck,HCPCS 70480,CT scan of eye without contrast,"$1,178.40",WA
+UNC Rockingham Health Care,Head and Neck,HCPCS 70487,CT scan of face with contrast,$884.40,WA
+UNC Rockingham Health Care,Head and Neck,HCPCS 70460,CT scan of head with contrast,$858.00,WA
+UNC Rockingham Health Care,Head and Neck,HCPCS 70470,CT scan of head without contrast,"$1,008.60",WA
+UNC Rockingham Health Care,Head and Neck,HCPCS 70492,CT scan of neck with contrast,"$1,250.40",WA
+UNC Rockingham Health Care,Head and Neck,HCPCS 70490,CT scan of neck without contrast,"$1,012.80",WA
+UNC Rockingham Health Care,Head and Neck,HCPCS 70546,MRA scan of head with and without contrast,"$2,303.40",WA
+UNC Rockingham Health Care,Head and Neck,HCPCS 70549,MRA scan of neck with and without contrast,"$1,608.00",WA
+UNC Rockingham Health Care,Head and Neck,HCPCS 70547,MRA scan of neck without contrast,"$1,423.20",WA
+UNC Rockingham Health Care,Head and Neck,HCPCS 70552,MRI scan of brain with contrast,"$1,927.80",WA
+UNC Rockingham Health Care,Head and Neck,HCPCS 70543,"MRI scan of orbits, face, or soft tissue of the neck with and without contrast","$1,822.20",WA
+UNC Rockingham Health Care,Head and Neck,HCPCS 70542,"MRI scan of orbits, face, or soft tissue of the neck with contrast","$1,572.00",WA
+UNC Rockingham Health Care,Head and Neck,HCPCS 70540,"MRI scan of orbits, face, or soft tissue of the neck without contrast","$1,465.80",WA
+UNC Rockingham Health Care,Head and Neck,HCPCS 70030,"X-ray eye, foreign body",$105.00,WA
+UNC Rockingham Health Care,Head and Neck,HCPCS 70140,"X-ray facial bones, 1-2 views",$115.80,WA
+UNC Rockingham Health Care,Head and Neck,HCPCS 70330,"X-ray jaw joint, bilateral",$214.20,WA
+UNC Rockingham Health Care,Head and Neck,HCPCS 70100,"X-ray jaw, less than 4 views",$124.80,WA
+UNC Rockingham Health Care,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$226.80,WA
+UNC Rockingham Health Care,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$173.40,WA
+UNC Rockingham Health Care,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$282.60,WA
+UNC Rockingham Health Care,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$191.40,WA
+UNC Rockingham Health Care,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$106.20,WA
+UNC Rockingham Health Care,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$130.80,WA
+UNC Rockingham Health Care,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$253.20,WA
+UNC Rockingham Health Care,Head and Neck,HCPCS 70200,"X-ray orbits, 4 or more views",$187.80,WA
+UNC Rockingham Health Care,Head and Neck,HCPCS 70220,"X-ray sinuses, 3 views",$229.20,WA
+UNC Rockingham Health Care,Head and Neck,HCPCS 70250,"X-ray skull, less than 4 views",$173.40,WA
+UNC Rockingham Health Care,Hip and Pelvis,HCPCS 72191,CTA scan of pelvis,"$1,347.00",WA
+UNC Rockingham Health Care,Hip and Pelvis,HCPCS 72194,CT scan of pelvis with and without contrast,"$1,107.60",WA
+UNC Rockingham Health Care,Hip and Pelvis,HCPCS 72192,CT scan of pelvis without contrast,$735.60,WA
+UNC Rockingham Health Care,Hip and Pelvis,HCPCS 72197,MRI scan of pelvis with and without contrast,"$2,049.60",WA
+UNC Rockingham Health Care,Hip and Pelvis,HCPCS 72196,MRI scan of pelvis with contrast,"$1,393.80",WA
+UNC Rockingham Health Care,Hip and Pelvis,HCPCS 72195,MRI scan of pelvis without contrast,"$1,599.00",WA
+UNC Rockingham Health Care,Hip and Pelvis,HCPCS 73522,"X-ray Both Hips and Pelvis, 3-4 Views",$218.40,WA
+UNC Rockingham Health Care,Hip and Pelvis,HCPCS 73501,"X-ray hip and pelvis, 1 view",$128.40,WA
+UNC Rockingham Health Care,Hip and Pelvis,HCPCS 73521,"X-ray hip and pelvis, 2 views",$205.20,WA
+UNC Rockingham Health Care,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$149.40,WA
+UNC Rockingham Health Care,Hip and Pelvis,HCPCS 73523,"X-ray hip and pelvis, 5 or more views",$242.40,WA
+UNC Rockingham Health Care,Hip and Pelvis,HCPCS 73525,X-ray hip (arthrogram) with dye,$347.40,WA
+UNC Rockingham Health Care,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$127.20,WA
+UNC Rockingham Health Care,Hip and Pelvis,HCPCS 72190,"X-ray pelvis, 3 or more views",$144.60,WA
+UNC Rockingham Health Care,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$204.60,WA
+UNC Rockingham Health Care,Hip and Pelvis,HCPCS 72220,"X-ray sacrum and coccyx, 2 or more views",$240.60,WA
+UNC Rockingham Health Care,Lower Limbs,HCPCS 73706,"CTA scan of hip, knee, ankle, or foot","$2,694.00",WA
+UNC Rockingham Health Care,Lower Limbs,HCPCS 73701,"CT scan of hip, knee, ankle, or foot with contrast",$994.80,WA
+UNC Rockingham Health Care,Lower Limbs,HCPCS 73700,"CT scan of hip, knee, ankle, or foot without contrast",$783.60,WA
+UNC Rockingham Health Care,Lower Limbs,HCPCS 73723,"MRI scan of hip, knee, ankle, or foot joints with and without contrast","$1,650.00",WA
+UNC Rockingham Health Care,Lower Limbs,HCPCS 73722,"MRI scan of hip, knee, ankle, or foot joints with contrast","$1,577.40",WA
+UNC Rockingham Health Care,Lower Limbs,HCPCS 73720,MRI scan of leg with and without contrast,"$1,651.80",WA
+UNC Rockingham Health Care,Lower Limbs,HCPCS 73719,MRI scan of leg with contrast,"$1,406.40",WA
+UNC Rockingham Health Care,Lower Limbs,HCPCS 73718,MRI scan of leg without contrast,"$1,324.80",WA
+UNC Rockingham Health Care,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$214.20,WA
+UNC Rockingham Health Care,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$252.00,WA
+UNC Rockingham Health Care,Lower Limbs,HCPCS 73565,X-ray Both Knees,$162.60,WA
+UNC Rockingham Health Care,Lower Limbs,HCPCS 73630,X-ray exam of foot,$181.80,WA
+UNC Rockingham Health Care,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$325.20,WA
+UNC Rockingham Health Care,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$136.80,WA
+UNC Rockingham Health Care,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$154.20,WA
+UNC Rockingham Health Care,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$150.00,WA
+UNC Rockingham Health Care,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$178.20,WA
+UNC Rockingham Health Care,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$439.20,WA
+UNC Rockingham Health Care,Lower Limbs,HCPCS 73580,X-ray knee (arthrogram) with dye,$280.20,WA
+UNC Rockingham Health Care,Lower Limbs,HCPCS 73592,X-ray lower extremities for infant,$322.80,WA
+UNC Rockingham Health Care,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$182.40,WA
+UNC Rockingham Health Care,Lower Limbs,HCPCS 73660,"X-ray toes, 2 or more views",$151.80,WA
+UNC Rockingham Health Care,Other X-ray,HCPCS 77073,Bone length scanogram,$208.80,WA
+UNC Rockingham Health Care,Other X-ray,HCPCS 74300,"X-ray bile ducts, with contrast (cholangiogram)",$297.60,WA
+UNC Rockingham Health Care,Other X-ray,HCPCS 74430,"X-ray, bladder (cystogram), 3 or more views",$313.20,WA
+UNC Rockingham Health Care,Other X-ray,HCPCS 74280,"X-ray colon, with contrast",$445.80,WA
+UNC Rockingham Health Care,Other X-ray,HCPCS 74270,"X-ray colon, with or without contrast",$329.40,WA
+UNC Rockingham Health Care,Other X-ray,HCPCS 74220,X-ray esophagus (esophogram),$275.40,WA
+UNC Rockingham Health Care,Other X-ray,HCPCS 76010,X-ray of child for foreign body,$103.80,WA
+UNC Rockingham Health Care,Other X-ray,HCPCS 74250,X-ray small bowel,$301.20,WA
+UNC Rockingham Health Care,Other X-ray,HCPCS 74230,"X-ray, swallowing function study",$279.60,WA
+UNC Rockingham Health Care,Other X-ray,HCPCS 74240,X-ray upper GI tract ,$504.00,WA
+UNC Rockingham Health Care,Spine,HCPCS 72126,CT scan of cervical spine with contrast,"$1,243.20",WA
+UNC Rockingham Health Care,Spine,HCPCS 72125,CT scan of cervical spine without contrast,"$1,120.20",WA
+UNC Rockingham Health Care,Spine,HCPCS 72133,CT scan of lumbar spine with and without contrast,"$1,030.20",WA
+UNC Rockingham Health Care,Spine,HCPCS 72132,CT scan of lumbar spine with contrast,"$1,209.60",WA
+UNC Rockingham Health Care,Spine,HCPCS 72131,CT scan of lumbar spine without contrast,"$1,120.20",WA
+UNC Rockingham Health Care,Spine,HCPCS 72129,CT scan of thoracic spine with contrast,$967.20,WA
+UNC Rockingham Health Care,Spine,HCPCS 72128,CT scan of thoracic spine without contrast,$806.40,WA
+UNC Rockingham Health Care,Spine,HCPCS 72142,MRI scan of cervical spine with contrast,"$1,476.60",WA
+UNC Rockingham Health Care,Spine,HCPCS 72149,MRI scan of lumbar spine with contrast,"$1,894.80",WA
+UNC Rockingham Health Care,Spine,HCPCS 72157,MRI scan of thoracic spine with and without contrast,"$1,637.40",WA
+UNC Rockingham Health Care,Spine,HCPCS 72147,MRI scan of thoracic spine with contrast,"$1,506.60",WA
+UNC Rockingham Health Care,Spine,HCPCS 72020,"X-ray cervical spine, 1 view",$124.80,WA
+UNC Rockingham Health Care,Spine,HCPCS 72050,"X-ray cervical spine, 4 or more views",$291.00,WA
+UNC Rockingham Health Care,Spine,HCPCS 72120,"X-ray complete lumbar spine (with bending), 2-3 views",$325.20,WA
+UNC Rockingham Health Care,Spine,HCPCS 72114,"X-ray complete lumbar spine (with bending), 6 or more views",$358.20,WA
+UNC Rockingham Health Care,Spine,HCPCS 72081,"X-ray entire spine (scoliosis evaluation), 1 view",$84.00,WA
+UNC Rockingham Health Care,Spine,HCPCS 72082,"X-ray entire spine (scoliosis evaluation), 2 views",$135.00,WA
+UNC Rockingham Health Care,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$325.20,WA
+UNC Rockingham Health Care,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$178.80,WA
+UNC Rockingham Health Care,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$355.20,WA
+UNC Rockingham Health Care,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$183.60,WA
+UNC Rockingham Health Care,Spine,HCPCS 72080,"X-ray thoracic-lumbar spine, 2 views",$118.20,WA
+UNC Rockingham Health Care,Spine,HCPCS 72070,"X-ray thoracic spine, 2 views",$157.80,WA
+UNC Rockingham Health Care,Spine,HCPCS 72072,"X-ray thoracic spine, 3 views",$225.00,WA
+UNC Rockingham Health Care,Upper Limbs,HCPCS 73206,"CTA scan of shoulder, arm, or hand","$1,203.00",WA
+UNC Rockingham Health Care,Upper Limbs,HCPCS 73201,"CT scan of shoulder, arm, or hand with contrast",$894.00,WA
+UNC Rockingham Health Care,Upper Limbs,HCPCS 73200,"CT scan of shoulder, arm, or hand without contrast",$649.20,WA
+UNC Rockingham Health Care,Upper Limbs,HCPCS 73220,"MRI scan of shoulder, arm, or hand with and without contrast","$1,839.60",WA
+UNC Rockingham Health Care,Upper Limbs,HCPCS 73218,"MRI scan of shoulder, arm, or hand without contrast","$1,546.20",WA
+UNC Rockingham Health Care,Upper Limbs,HCPCS 73223,"MRI scan of shoulder, elbow, or hand joints with and without contrast","$1,747.80",WA
+UNC Rockingham Health Care,Upper Limbs,HCPCS 73222,"MRI scan of shoulder, elbow, or hand joints with contrast","$1,468.20",WA
+UNC Rockingham Health Care,Upper Limbs,HCPCS 73000,"X-ray clavicle, 1 view",$316.80,WA
+UNC Rockingham Health Care,Upper Limbs,HCPCS 73070,"X-ray elbow, 2 views",$388.80,WA
+UNC Rockingham Health Care,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$436.80,WA
+UNC Rockingham Health Care,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$112.80,WA
+UNC Rockingham Health Care,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$337.20,WA
+UNC Rockingham Health Care,Upper Limbs,HCPCS 73120,"X-ray Hand, 2 Views",$187.20,WA
+UNC Rockingham Health Care,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$421.20,WA
+UNC Rockingham Health Care,Upper Limbs,HCPCS 73060,"X-ray humerus, 1 view",$261.60,WA
+UNC Rockingham Health Care,Upper Limbs,HCPCS 73010,"X-ray scapula, 1 view",$337.20,WA
+UNC Rockingham Health Care,Upper Limbs,HCPCS 73020,"X-ray shoulder, 1 view",$193.20,WA
+UNC Rockingham Health Care,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$247.20,WA
+UNC Rockingham Health Care,Upper Limbs,HCPCS 73050,X-ray shoulder (AC joint),$97.20,WA
+UNC Rockingham Health Care,Upper Limbs,HCPCS 73040,X-ray shoulder (arthrogram) with dye,$310.80,WA
+UNC Rockingham Health Care,Upper Limbs,HCPCS 73092,X-ray upper extremities for infant,$144.00,WA
+UNC Rockingham Health Care,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$314.40,WA
+UNC Rockingham Health Care,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$218.40,WA
+UNC Rockingham Health Care,Upper Limbs,HCPCS 73115,X-ray wriste (arthrogram) with dye,$347.40,WA
+UNC Rockingham Health Care,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$108.60,WA
+UNC Rockingham Health Care,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$90.60,WA
+UNC Rockingham Health Care,Auditory System,HCPCS 69209,"Removal of ear wax, 1 ear",$100.20,WA
+UNC Rockingham Health Care,Auditory System,HCPCS 69210,"Removal of ear wax, both ears",$105.60,WA
+UNC Rockingham Health Care,Cardiac,HCPCS 93320,"Doppler ultrasound of heart blood flow, valves, and chambers",$283.20,WA
+UNC Rockingham Health Care,Cardiac,HCPCS 36415,Venipuncture (blood collection),$9.60,WA
+UNC Rockingham Health Care,Digestive,HCPCS 49083,Paracentesis (removal of fluid from peritoneal cavity) with guidance,$823.80,WA
+UNC Rockingham Health Care,Digestive,HCPCS 49082,Paracentesis (removal of fluid from peritoneal cavity) without guidance,$829.20,WA
+UNC Rockingham Health Care,Digestive,HCPCS 43762,Replacement of gastrostromy tube (G-tube),$440.40,WA
+UNC Rockingham Health Care,Female Reproductive,HCPCS 59025,Fetal non-stress test,$135.00,WA
+UNC Rockingham Health Care,Female Reproductive,HCPCS 58301,Removal of intrauterine device (IUD),$219.00,WA
+UNC Rockingham Health Care,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$10,022.88",WA
+UNC Rockingham Health Care,General,HCPCS 10060,Drainage of Abscess,$182.40,WA
+UNC Rockingham Health Care,General,HCPCS 10120,"Incision and removal of foreign body, subcutaneous tissues; simple",$393.00,WA
+UNC Rockingham Health Care,General,HCPCS 69200,Removal of foreign body from ear canal,$98.40,WA
+UNC Rockingham Health Care,General,HCPCS 12002,Repair of Wound (2.6 to 7.5 centimeters),$386.40,WA
+UNC Rockingham Health Care,General,HCPCS 12005,Repair of Wound (7.6 to 12.5 cm),$386.40,WA
+UNC Rockingham Health Care,General,HCPCS 12011,"Simple wound repair of face, including ears; 2.5 cm or less",$273.60,WA
+UNC Rockingham Health Care,General,HCPCS 12001,"Simple wound repair of scalp, neck, external genitalia; 2.5 cm or less",$165.00,WA
+UNC Rockingham Health Care,Musculoskeletal,HCPCS 29130,Application of finger splint,$166.20,WA
+UNC Rockingham Health Care,Musculoskeletal,HCPCS 29105,Application of full arm cast/splint,$246.60,WA
+UNC Rockingham Health Care,Musculoskeletal,HCPCS 29505,Application of full leg cast/splint,$226.80,WA
+UNC Rockingham Health Care,Musculoskeletal,HCPCS 29125,Application of short arm cast/splint (below the elbow),$236.40,WA
+UNC Rockingham Health Care,Musculoskeletal,HCPCS 29515,Application of short leg cast/splint (below the knee),$201.00,WA
+UNC Rockingham Health Care,Musculoskeletal,HCPCS 20605,Arthrocentesis (drainage) of joint,$301.20,WA
+UNC Rockingham Health Care,Musculoskeletal,HCPCS 26770,Closed treatment of dislocated finger joint with manipulation,$285.60,WA
+UNC Rockingham Health Care,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$283.80,WA
+UNC Rockingham Health Care,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$24,408.47",WA
+UNC Rockingham Health Care,Musculoskeletal,MSDRG 460,Spinal fusion (non-cervical),"$41,505.89",WA
+UNC Rockingham Health Care,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$202.80,WA
+UNC Rockingham Health Care,Musculoskeletal,HCPCS 25605,Treatment of forearm (radius or ulna) fracture,$422.40,WA
+UNC Rockingham Health Care,Musculoskeletal,HCPCS 23650,Treatment of shoulder dislocation without anesthesia,$450.60,WA
+UNC Rockingham Health Care,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$8,666.36",WA
+UNC Rockingham Health Care,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$4,833.76",WA
+UNC Rockingham Health Care,Skin,HCPCS 10061,Drainage of skin abscess,$198.00,WA
+UNC Rockingham Health Care,Skin,HCPCS 10160,Image-guided puncture and drainage (aspiration) of cyst or abscess,$241.20,WA
+UNC Rockingham Health Care,Skin,HCPCS 10080,Incision and drainage of pilonidal (near tailbone) cyst,$420.00,WA
+UNC Rockingham Health Care,Skin,HCPCS 10140,Surgical drainage of hematoma or seroma,"$1,726.20",WA
+UNC Rockingham Health Care,Soft Tissue,HCPCS 97597,Debridement of open wound,$199.80,WA
+UNC Rockingham Health Care,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),"$1,198.20",WA
+UNC Rockingham Health Care,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$323.40,WA

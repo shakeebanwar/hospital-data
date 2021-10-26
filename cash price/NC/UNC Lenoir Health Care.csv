@@ -1,0 +1,401 @@
+Hospital Name,Category,ServiceCode,ServiceName,ServicePrice,State
+UNC Lenoir Health Care,Emergency Care,HCPCS 99292,"Emergency Critical Care, Each Additional 30 Minutes",$42.60,WA
+UNC Lenoir Health Care,Emergency Care,HCPCS 99291,"Emergency Critical Care, First 30 Minutes","$1,413.60",WA
+UNC Lenoir Health Care,Emergency Care,HCPCS 99281,Emergency Level 1,$145.80,WA
+UNC Lenoir Health Care,Emergency Care,HCPCS 99282,Emergency Level 2,$213.00,WA
+UNC Lenoir Health Care,Emergency Care,HCPCS 99283,Emergency Level 3,$448.80,WA
+UNC Lenoir Health Care,Emergency Care,HCPCS 99284,Emergency Level 4,$718.20,WA
+UNC Lenoir Health Care,Emergency Care,HCPCS 99285,Emergency Level 5,"$1,122.60",WA
+UNC Lenoir Health Care,Office Visit,HCPCS 99204,"New patient office of other outpatient visit, typically 45 min",$154.20,WA
+UNC Lenoir Health Care,Office Visit,HCPCS 99205,"New patient office of other outpatient visit, typically 60 min",$193.20,WA
+UNC Lenoir Health Care,Office Visit,HCPCS 99203,"New patient office or other outpatient visit, typically 30 min",$121.20,WA
+UNC Lenoir Health Care,Speech,HCPCS 92523,Evaluation of Speech Sound Production and Language Comprehenson,$178.20,WA
+UNC Lenoir Health Care,Speech,HCPCS 92507,Speech Therapy,$116.40,WA
+UNC Lenoir Health Care,Speech,HCPCS 92610,Swallow Evaluation,$135.00,WA
+UNC Lenoir Health Care,Speech,HCPCS 92526,Swallow Treatment,$130.80,WA
+UNC Lenoir Health Care,Blood,HCPCS 85018,"Blood count, hemoglobin",$25.80,WA
+UNC Lenoir Health Care,Blood,HCPCS 85014,"Blood count, hemoglobin and hematocrit",$25.80,WA
+UNC Lenoir Health Care,Blood,HCPCS 82950,Blood glucose (sugar) level after receiving dose of glucose,$30.00,WA
+UNC Lenoir Health Care,Blood,HCPCS 82951,Blood glucose (sugar) tolerance test,$31.80,WA
+UNC Lenoir Health Care,Blood,HCPCS 85610,"Blood test, clotting time",$41.40,WA
+UNC Lenoir Health Care,Blood,HCPCS 85730,Coagulation assessment blood test,$42.60,WA
+UNC Lenoir Health Care,Blood,HCPCS 85611,Coagulation Function Measurement; D-dimer; quantitative,$27.60,WA
+UNC Lenoir Health Care,Blood,HCPCS 85025,"Complete blood cell count, with differential white blood cells, automated",$65.40,WA
+UNC Lenoir Health Care,Blood,HCPCS 85027,"Complete blood count, automated",$40.20,WA
+UNC Lenoir Health Care,Blood,HCPCS 85007,Microscopic examination for white blood cells with manual cell count,$15.00,WA
+UNC Lenoir Health Care,Blood,HCPCS 85303,Protein C antigen (clotting inhibitor) measurement,$79.20,WA
+UNC Lenoir Health Care,Blood,HCPCS 85660,Red blood cell sickling measurement,$32.40,WA
+UNC Lenoir Health Care,Blood,HCPCS P9016,"Red Blood Cells, Leukocytes Reduced, Each Unit",$236.40,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 84588,ADH (antidiuretic hormone) level,$106.20,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 82024,Adrenocorticotropic hormone (ACTH) level,$109.80,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 82040,Albumin (protein) level,$35.40,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 82103,Alpha-1-antitrypsin; total,$39.60,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 82105,"Alpha-Fetoprotein (AFP) Level, Serum",$76.80,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 82140,Ammonia level,$54.00,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 82150,Amylase (enzyme) level,$78.00,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 82164,Angiotensin l - converting enzyme (ACE) level,$56.40,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 82803,Arterial Blood Gases Measurement,$74.40,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 84439,Assay of free thyroxine,$100.80,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 82232,Beta-2 microglobulin (protein) level,$58.20,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 82248,Bilirubin level (Direct),$40.80,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 82247,Bilirubin level (Total),$50.40,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 82565,Blood creatinine level,$34.20,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 82947,Blood glucose (sugar) level,$32.40,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 84132,Blood potassium level,$31.80,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 84295,Blood sodium level,$26.40,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 84478,"Blood test, lipids (cholesterol and triglycerides)",$36.60,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 84443,"Blood test, thyroid stimulating hormone (TSH)",$94.20,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 82310,Calcium level,$28.80,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 82374,Carbon dioxide (bicarbonate) level,$19.80,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 82378,Carcinoembryonic antigen (CEA) protein level,$72.60,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 82465,Cholesterol level,$36.00,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 82525,Copper level,$43.80,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 82533,Cortisol Measurement,$48.60,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 84681,C-peptide (protein) level,$81.60,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 82550,Creatine kinase Level (cardiac enzyme) - Total,$52.80,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 82607,Cyanocobalamin (vitamin B-12) level,$58.80,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 82652,"Dihydroxyvitamin D, 1, 25 level",$189.00,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 82728,Ferritin (blood protein) level,$48.00,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 82746,Folic acid; serum,$55.20,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 82784,Gammaglobulin Measurement,$39.00,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 82977,Glutamyltransferase (liver enzyme) level,$39.00,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 83036,Glycosylated hemoglobin test,$55.80,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 83001,"Gonadotropin, follicle stimulating (reproductive hormone) level",$65.40,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 83002,Gonadotropin (reproductive hormone) analysis,$82.80,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 83010,Haptoglobin (serum protein) level,$48.60,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 83718,HDL cholesterol level,$36.60,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 83020,Hemoglobin Measurement,$78.00,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 83520,Immunoassay other than infectious agent antibody,$84.00,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 83525,Insulin Measurement; Total,$34.80,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 82330,Ionized Calcium,$56.40,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 83550,Iron Binding Capacity,$21.60,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 83540,Iron level,$30.00,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 83615,Lactate dehydrogenase (enzyme) level,$46.80,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 83690,Lipase (fat enzyme) level,$61.80,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 84450,"Liver enzyme (SGOT), level",$46.80,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 84480,"Liver enzyme (SGPT), level",$50.40,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 83021,Liver function blood test panel,$38.40,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 83735,Magnesium Level,$40.80,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 82542,Mass spectrometry,$72.60,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 83883,"Nephelometry, test method using light",$65.40,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 83918,Organic acid level,$61.80,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 83945,Oxalate level,$43.80,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 83970,Parathormone,$107.40,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 84157,Prealbumin (protein) level,$45.00,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 83519,Procalcitonin (hormone) level,$105.60,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 84146,Prolactin (milk producing hormone) level,$64.80,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 84165,"Protein Measurement, Serum",$47.40,WA
+UNC Lenoir Health Care,Chemistry,HCPCS A9270,Selenium (vitamin) level,$1.65,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 84403,Testosterone (hormone) level,$86.40,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 84402,Testosterone Level; Free,$83.40,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 84479,"Thyroid hormone, T3 measurement - Total",$21.60,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 84436,Thyroxine (thyroid chemical) measurement - Free Thyroxine,$28.80,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 84155,"Total protein level, blood",$33.00,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 84156,"Total Protein Level, Urine",$40.20,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 84166,Troponin (protein) analysis,$26.40,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 84560,Uric acid level,$34.20,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 84550,"Uric acid level, blood",$48.00,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 82340,Urine calcium level,$34.80,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 82436,Urine chloride level,$16.20,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 82043,Urine microalbumin (protein) level,$30.00,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 83935,Urine osmolality (concentration) measurement,$36.60,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 84120,Urine porphyrins (metabolism substance) measurement,$69.60,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 84133,Urine potassium level,$22.80,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 84300,Urine sodium level,$28.20,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 82306,Vitamin D; 25 hydroxy,$151.20,WA
+UNC Lenoir Health Care,Chemistry,HCPCS 84630,Zinc level,$40.20,WA
+UNC Lenoir Health Care,Immunology,HCPCS 86618,Analysis for antibody Borrelia burgdorferi (Lyme disease bacteria),$68.40,WA
+UNC Lenoir Health Care,Immunology,HCPCS 86644,Analysis for antibody (IgM) to Cytomegalovirus (CMV),$59.40,WA
+UNC Lenoir Health Care,Immunology,HCPCS 86694,Analysis for antibody to Herpes simplex virus,$77.40,WA
+UNC Lenoir Health Care,Immunology,HCPCS 86701,Analysis for antibody to HIV -1 virus,$83.40,WA
+UNC Lenoir Health Care,Immunology,HCPCS 86803,Confirmation test for Hepatitis C antibody,$119.40,WA
+UNC Lenoir Health Care,Immunology,HCPCS 86225,Deoxyribonucleic acid (DNA) antibody; native or double stranded,$87.00,WA
+UNC Lenoir Health Care,Immunology,HCPCS 86704,Hepatitis B core antibody (IgM) measurement,$65.40,WA
+UNC Lenoir Health Care,Immunology,HCPCS 86706,Hepatitis B surface antibody measurement,$66.60,WA
+UNC Lenoir Health Care,Immunology,HCPCS 86334,Immunofixation electrophoresis; serum,$90.60,WA
+UNC Lenoir Health Care,Immunology,HCPCS 86140,Measurement C-reactive protein,$56.40,WA
+UNC Lenoir Health Care,Immunology,HCPCS 86003,Measurement of antibody (IgE) to allergic substance,$16.20,WA
+UNC Lenoir Health Care,Immunology,HCPCS 86255,Measurement of antibody to noninfectious agent,$85.20,WA
+UNC Lenoir Health Care,Immunology,HCPCS 86708,Measurement of Hepatitis A antibody (IgM),$65.40,WA
+UNC Lenoir Health Care,Immunology,HCPCS 86376,Microsomal Antibodies Measurement,$51.00,WA
+UNC Lenoir Health Care,Immunology,HCPCS 86308,Screening test for mononucleosis (mono),$66.60,WA
+UNC Lenoir Health Care,Immunology,HCPCS 86580,Skin test for tuberculosis,$18.60,WA
+UNC Lenoir Health Care,Immunology,HCPCS 86592,Syphilis Detection Test,$22.80,WA
+UNC Lenoir Health Care,Immunology,HCPCS 86360,"T cells; absolute CD4 and CD8 count, including ratio",$154.80,WA
+UNC Lenoir Health Care,Immunology,HCPCS 86800,Thyroglobulin (thyroid protein) antibody measurement,$66.60,WA
+UNC Lenoir Health Care,Microbiology,HCPCS 87070,"Bacterial Culture, any source ",$88.20,WA
+UNC Lenoir Health Care,Microbiology,HCPCS 87086,Bacterial urine culture; quantitative colony count,$63.60,WA
+UNC Lenoir Health Care,Microbiology,HCPCS 87491,Chlamydia Test,$92.40,WA
+UNC Lenoir Health Care,Microbiology,HCPCS 87635,Covid-19 current infection test,$40.20,WA
+UNC Lenoir Health Care,Microbiology,HCPCS 87493,Detection test for clostridium difficile,$73.80,WA
+UNC Lenoir Health Care,Microbiology,HCPCS 87324,Detection test for clostridium difficile toxins (stool pathogen),$94.80,WA
+UNC Lenoir Health Care,Microbiology,HCPCS 87497,"Detection test for cytomegalovirus, quantification",$274.80,WA
+UNC Lenoir Health Care,Microbiology,HCPCS 87340,Detection test for Hepatitis Be surface antigen,$48.00,WA
+UNC Lenoir Health Care,Microbiology,HCPCS 87536,"Detection test for HIV-1 virus, quantification",$192.00,WA
+UNC Lenoir Health Care,Microbiology,HCPCS 87591,Detection Test for Neisseria Gonorrhoeae,$70.20,WA
+UNC Lenoir Health Care,Microbiology,HCPCS 87624,HPV Detection,$112.20,WA
+UNC Lenoir Health Care,Microbiology,HCPCS 86735,Mumps virus antibody test,$68.40,WA
+UNC Lenoir Health Care,Microbiology,HCPCS 86747,Parvovirus antibody test,$49.80,WA
+UNC Lenoir Health Care,Microbiology,HCPCS 86762,Rubella virus antibody test,$36.00,WA
+UNC Lenoir Health Care,Microbiology,HCPCS 86765,Rubeola virus antibody test,$52.80,WA
+UNC Lenoir Health Care,Microbiology,HCPCS 87207,Smear for infectious agents,$34.20,WA
+UNC Lenoir Health Care,Microbiology,HCPCS 87177,Smear for Parasites,$73.80,WA
+UNC Lenoir Health Care,Microbiology,HCPCS 87206,Special stain for microorganism; special stain for parasites,$34.20,WA
+UNC Lenoir Health Care,Microbiology,HCPCS 87045,Stool Culture,$93.00,WA
+UNC Lenoir Health Care,Microbiology,HCPCS 86780,Treponema pallidum antibody test,$56.40,WA
+UNC Lenoir Health Care,Microbiology,HCPCS 86787,Varicella-zoster virus antibody test,$56.40,WA
+UNC Lenoir Health Care,Organ or Disease Oriented Panels,HCPCS 80074,Acute hepatitis panel,$249.00,WA
+UNC Lenoir Health Care,Organ or Disease Oriented Panels,HCPCS 80048,Basic metabolic panel,$79.80,WA
+UNC Lenoir Health Care,Organ or Disease Oriented Panels,HCPCS 80053,"Blood test, comprehensive group of blood chemicals",$133.80,WA
+UNC Lenoir Health Care,Organ or Disease Oriented Panels,HCPCS 80061,"Blood test, lipids (cholesterol and triglycerides)",$114.00,WA
+UNC Lenoir Health Care,Organ or Disease Oriented Panels,HCPCS 80069,Kidney Function Blood Test Panel,$85.20,WA
+UNC Lenoir Health Care,Organ or Disease Oriented Panels,HCPCS 80076,Liver function blood test panel,$103.80,WA
+UNC Lenoir Health Care,Surgical Pathology,HCPCS 88312,Special Stain for Microorganism; Gram or Glemsa Stain,$96.60,WA
+UNC Lenoir Health Care,Therapeutic Drug Assays,HCPCS 80299,Cortisol (hormone) measurement,$155.40,WA
+UNC Lenoir Health Care,Therapeutic Drug Assays,HCPCS 80158,Cyclosporine level,$74.40,WA
+UNC Lenoir Health Care,Therapeutic Drug Assays,HCPCS 80162,Digoxin level,$28.80,WA
+UNC Lenoir Health Care,Therapeutic Drug Assays,HCPCS 80307,Drug Test(s) by Chemistry Analyzer,$120.60,WA
+UNC Lenoir Health Care,Therapeutic Drug Assays,HCPCS 80177,Levetiracetam level,$72.60,WA
+UNC Lenoir Health Care,Therapeutic Drug Assays,HCPCS 80178,Lithium Level,$50.40,WA
+UNC Lenoir Health Care,Therapeutic Drug Assays,HCPCS 80184,Phenobarbital level,$31.80,WA
+UNC Lenoir Health Care,Therapeutic Drug Assays,HCPCS 80185,Phenytoin level,$33.60,WA
+UNC Lenoir Health Care,Therapeutic Drug Assays,HCPCS 80197,Tacrolimus Level,$96.60,WA
+UNC Lenoir Health Care,Therapeutic Drug Assays,HCPCS 80164,Valproic acid level,$63.00,WA
+UNC Lenoir Health Care,Therapeutic Drug Assays,HCPCS 80202,Vancomycin (antibiotic) level,$43.20,WA
+UNC Lenoir Health Care,Transfusion,HCPCS 86900,"Blood Typing, ABO",$29.40,WA
+UNC Lenoir Health Care,Transfusion,HCPCS 86901,"Blood Typing, Rh (D)",$28.80,WA
+UNC Lenoir Health Care,Transfusion,HCPCS 86922,Blood Unit Compatibility Test; Antiglobulin Technique,$42.00,WA
+UNC Lenoir Health Care,Transfusion,HCPCS 86945,"Irradiation blood product, each unit",$57.00,WA
+UNC Lenoir Health Care,Transfusion,HCPCS 86880,Red blood cell (RBC) antibody detection test,$42.60,WA
+UNC Lenoir Health Care,Transfusion,HCPCS 86906,Screening test for compatible blood unit,$134.40,WA
+UNC Lenoir Health Care,Transfusion,HCPCS 86850,Screening test for red blood cell (RBC) antibodies,$63.00,WA
+UNC Lenoir Health Care,Urinalysis,HCPCS 81003,"Urinalysis, Automated Test",$39.00,WA
+UNC Lenoir Health Care,Urinalysis,HCPCS 81025,Urine Pregnancy Test,$70.20,WA
+UNC Lenoir Health Care,Cardiovascular,HCPCS 93015,"Cardiovascular stress test, with interpretation and report",$607.80,WA
+UNC Lenoir Health Care,Cardiovascular,HCPCS 93017,"Cardiovascular stress test, without interpretation and report",$620.40,WA
+UNC Lenoir Health Care,Cardiovascular,HCPCS 93005,"Electrocardiogram, tracing only, without interpretation and report",$110.40,WA
+UNC Lenoir Health Care,Cardiovascular,HCPCS 93226,Holter Testing - 48-Hour EKG,$235.20,WA
+UNC Lenoir Health Care,Cardiovascular,HCPCS 93010,Routine 12 Lead EKG with report,$12.60,WA
+UNC Lenoir Health Care,Cardiovascular,HCPCS 93660,Tilt table test to evaluate heart (for unexplained fainting),"$1,076.40",WA
+UNC Lenoir Health Care,Other Non-Surgical Procedures,MSDRG 812,Red blood cell disorders,$4.80,WA
+UNC Lenoir Health Care,Other Non-Surgical Procedures,MSDRG 872,Sepsis (blood infection),$1.20,WA
+UNC Lenoir Health Care,Other Non-Surgical Procedures,MSDRG 870,Septicemia or severe sepsis with mv >96 hours,$1.20,WA
+UNC Lenoir Health Care,Pulmonary,HCPCS 94640,Aerosol Treatment,$45.00,WA
+UNC Lenoir Health Care,Pulmonary,HCPCS 94729,Blood osmolality (concentration) measurement,$131.40,WA
+UNC Lenoir Health Care,Pulmonary,HCPCS 94010,Spirometry - breathing test,$122.40,WA
+UNC Lenoir Health Care,Sleep,HCPCS 95810,Sleep study,"$1,965.00",WA
+UNC Lenoir Health Care,CT Scan,HCPCS 71275,CT Angiogram Chest with and without Contrast,"$1,682.40",WA
+UNC Lenoir Health Care,CT Scan,HCPCS 74175,CT angiography scan of abdomen,"$1,465.20",WA
+UNC Lenoir Health Care,CT Scan,HCPCS 74174,CTA scan of abdomen,"$2,764.80",WA
+UNC Lenoir Health Care,CT Scan,HCPCS 74150,CT scan Abdomen without Contrast,"$1,395.60",WA
+UNC Lenoir Health Care,CT Scan,HCPCS 70450,"CT scan, head or brain, without contrast",$910.80,WA
+UNC Lenoir Health Care,CT Scan,HCPCS 70486,"CT scan, maxillofacial area; without contrast material",$984.60,WA
+UNC Lenoir Health Care,CT Scan,HCPCS 74178,CT scan of abdomen & pelvis with and without contrast material,"$3,168.60",WA
+UNC Lenoir Health Care,CT Scan,HCPCS 74177,CT scan of abdomen & pelvis with contrast material,"$2,907.00",WA
+UNC Lenoir Health Care,CT Scan,HCPCS 74176,CT scan of abdomen & pelvis without contrast material,"$2,761.80",WA
+UNC Lenoir Health Care,CT Scan,HCPCS 74160,CT scan of abdomen with contrast material,"$1,627.80",WA
+UNC Lenoir Health Care,CT Scan,HCPCS 74170,CT scan of abdomen without & with contrast material,"$1,657.20",WA
+UNC Lenoir Health Care,CT Scan,HCPCS 71260,"CT Scan of thorax, with contrast material","$1,360.80",WA
+UNC Lenoir Health Care,CT Scan,HCPCS 71250,"CT Scan of thorax, without contrast material","$1,134.00",WA
+UNC Lenoir Health Care,CT Scan,HCPCS 72193,"CT scan, pelvis, with contrast","$1,046.40",WA
+UNC Lenoir Health Care,CT Scan,HCPCS 70491,"CT scan, soft tissue neck; with contrast material(s)","$1,141.20",WA
+UNC Lenoir Health Care,MRA,HCPCS 70544,"Magnetic resonance angiography, head; without contrast material(s)","$1,197.60",WA
+UNC Lenoir Health Care,MRI,HCPCS 75561,Cardiac MRI,"$1,873.80",WA
+UNC Lenoir Health Care,MRI,HCPCS 72146,MRI chest spine without contrast material,"$2,109.60",WA
+UNC Lenoir Health Care,MRI,HCPCS 72148,MRI lumbar spine without contrast material,"$1,902.60",WA
+UNC Lenoir Health Care,MRI,HCPCS 72158,MRI lumbar spine without & with contrast material,"$2,112.00",WA
+UNC Lenoir Health Care,MRI,HCPCS 72141,MRI neck spine without contrast material,"$2,109.60",WA
+UNC Lenoir Health Care,MRI,HCPCS 72156,MRI neck spine without & with contrast material,"$2,236.20",WA
+UNC Lenoir Health Care,MRI,HCPCS 74183,MRI of abdomen without & with contrast material,"$2,536.20",WA
+UNC Lenoir Health Care,MRI,HCPCS 73221,MRI of upper extremity joint; without contrast material,"$2,212.20",WA
+UNC Lenoir Health Care,MRI,HCPCS 74181,MRI scan of abdomen without contrast,"$2,409.60",WA
+UNC Lenoir Health Care,MRI,HCPCS 70553,MRI scan of brain before and after contrast,"$2,539.80",WA
+UNC Lenoir Health Care,MRI,HCPCS 70551,MRI scan of brain (including brain stem); without contrast material,"$2,133.60",WA
+UNC Lenoir Health Care,MRI,HCPCS 73721,MRI scan of leg joint,"$1,902.60",WA
+UNC Lenoir Health Care,Chest,HCPCS 76706,"Ultrasound, aortic aneurisum screening",$124.20,WA
+UNC Lenoir Health Care,Hip and Pelvis,HCPCS 76815,"Ultrasound, pregnancy",$322.80,WA
+UNC Lenoir Health Care,Hip and Pelvis,HCPCS 76801,"Ultrasound, pregnancy, 1st trimester",$520.80,WA
+UNC Lenoir Health Care,Hip and Pelvis,HCPCS 76816,"Ultrasound, pregnancy, transabdominal (pelvis)",$159.00,WA
+UNC Lenoir Health Care,Hip and Pelvis,HCPCS 76817,"Ultrasound, pregnancy, transvaginal",$468.00,WA
+UNC Lenoir Health Care,Hip and Pelvis,HCPCS 76870,"Ultrasound, testical",$468.00,WA
+UNC Lenoir Health Care,Other Ultrasound,HCPCS 76805,"Abdominal ultrasound of pregnant uterus, first trimester",$499.80,WA
+UNC Lenoir Health Care,Other Ultrasound,HCPCS 76506,Ultrasound Blood Flow Outside the Brain,$394.20,WA
+UNC Lenoir Health Care,Other Ultrasound,HCPCS 76770,"Ultrasound exam of abdomenal back wall, complete",$511.20,WA
+UNC Lenoir Health Care,Other Ultrasound,HCPCS 76536,Ultrasound exam of head and neck,$531.60,WA
+UNC Lenoir Health Care,Other Ultrasound,HCPCS 76942,Ultrasound guidance for biopsy,$535.20,WA
+UNC Lenoir Health Care,Other Ultrasound,HCPCS 76700,"Ultrasound of abdomen, complete",$730.20,WA
+UNC Lenoir Health Care,Other Ultrasound,HCPCS 76705,"Ultrasound of abdomen, limited",$514.20,WA
+UNC Lenoir Health Care,Other Ultrasound,HCPCS 76857,Ultrasound of pelvis,$233.40,WA
+UNC Lenoir Health Care,Other Ultrasound,HCPCS 76856,"Ultrasound, pelvic, complete",$424.20,WA
+UNC Lenoir Health Care,Other Ultrasound,HCPCS 76830,"Ultrasound, transvaginal",$500.40,WA
+UNC Lenoir Health Care,Spine,HCPCS 76800,"Ultrasound, spinal canal",$407.40,WA
+UNC Lenoir Health Care,Upper Limbs,HCPCS 76882,"Ultrasound, shoulder joint/soft tissue",$376.80,WA
+UNC Lenoir Health Care,Abdomen,HCPCS 74018,"X-ray abdomen, 1 view",$219.00,WA
+UNC Lenoir Health Care,Abdomen,HCPCS 74019,"X-ray abdomen, 2 views",$263.40,WA
+UNC Lenoir Health Care,Chest,HCPCS 71270,CT scan of chest with and without contrast,"$1,576.20",WA
+UNC Lenoir Health Care,Chest,HCPCS 71552,MRI scan of chest with and without contrast,"$1,873.80",WA
+UNC Lenoir Health Care,Chest,HCPCS 76642,Ultrasound of breast (single),$276.00,WA
+UNC Lenoir Health Care,Chest,HCPCS 76604,Ultrasound of chest,$228.00,WA
+UNC Lenoir Health Care,Chest,HCPCS 71047,"X-ray chest, 2 views",$69.60,WA
+UNC Lenoir Health Care,Chest,HCPCS 71048,"X-ray chest, 4 or more views",$225.60,WA
+UNC Lenoir Health Care,Chest,HCPCS 71130,"X-ray chest joints (sternoclavicular), 3 or more views",$109.80,WA
+UNC Lenoir Health Care,Chest,HCPCS 71120,"X-ray chest (sternum), 2 or more views",$188.40,WA
+UNC Lenoir Health Care,Chest,HCPCS 71111,"X-ray of Both Sides of Ribs, Including Chest, Minimum of 4 Views",$343.80,WA
+UNC Lenoir Health Care,Chest,HCPCS 70130,"X-ray of breast bone, minimum of 2 views",$163.80,WA
+UNC Lenoir Health Care,Chest,HCPCS 71046,X-ray of chest; 2 Views,$172.80,WA
+UNC Lenoir Health Care,Chest,HCPCS 71045,X-ray of chest; Single View,$112.20,WA
+UNC Lenoir Health Care,Chest,HCPCS 71110,"X-ray ribs, bilateral, 3 or more views",$343.80,WA
+UNC Lenoir Health Care,Chest,HCPCS 71100,"X-ray Ribs One Side, 2 Views",$293.40,WA
+UNC Lenoir Health Care,Chest,HCPCS 71101,"X-ray ribs, unilateral, 3 or more views",$318.60,WA
+UNC Lenoir Health Care,Head and Neck,HCPCS 70496,CTA scan of head,"$1,280.40",WA
+UNC Lenoir Health Care,Head and Neck,HCPCS 70498,CTA scan of neck,"$1,231.20",WA
+UNC Lenoir Health Care,Head and Neck,HCPCS 70481,CT scan of eye with contrast,"$1,026.60",WA
+UNC Lenoir Health Care,Head and Neck,HCPCS 70480,CT scan of eye without contrast,"$1,016.40",WA
+UNC Lenoir Health Care,Head and Neck,HCPCS 70487,CT scan of face with contrast,"$1,152.00",WA
+UNC Lenoir Health Care,Head and Neck,HCPCS 70460,CT scan of head with contrast,"$1,047.00",WA
+UNC Lenoir Health Care,Head and Neck,HCPCS 70470,CT scan of head without contrast,"$1,101.60",WA
+UNC Lenoir Health Care,Head and Neck,HCPCS 70492,CT scan of neck with contrast,"$1,152.60",WA
+UNC Lenoir Health Care,Head and Neck,HCPCS 70490,CT scan of neck without contrast,$901.80,WA
+UNC Lenoir Health Care,Head and Neck,HCPCS 70549,MRA scan of neck with and without contrast,"$1,597.20",WA
+UNC Lenoir Health Care,Head and Neck,HCPCS 70547,MRA scan of neck without contrast,"$1,437.60",WA
+UNC Lenoir Health Care,Head and Neck,HCPCS 70552,MRI scan of brain with contrast,"$1,981.20",WA
+UNC Lenoir Health Care,Head and Neck,HCPCS 70543,"MRI scan of orbits, face, or soft tissue of the neck with and without contrast","$2,370.00",WA
+UNC Lenoir Health Care,Head and Neck,HCPCS 70540,"MRI scan of orbits, face, or soft tissue of the neck without contrast","$1,777.80",WA
+UNC Lenoir Health Care,Head and Neck,HCPCS 70336,MRI scan of the jaw joint,"$1,764.00",WA
+UNC Lenoir Health Care,Head and Neck,HCPCS 70140,"X-ray facial bones, 1-2 views",$202.20,WA
+UNC Lenoir Health Care,Head and Neck,HCPCS 70330,"X-ray jaw joint, bilateral",$149.40,WA
+UNC Lenoir Health Care,Head and Neck,HCPCS 70150,"X-ray of bones of face, minimum of 3 views",$292.80,WA
+UNC Lenoir Health Care,Head and Neck,HCPCS 70160,"X-ray of bones of nose, minimum of 3 views",$246.60,WA
+UNC Lenoir Health Care,Head and Neck,HCPCS 77076,X-ray of jaw joints on both sides of the face,$225.00,WA
+UNC Lenoir Health Care,Head and Neck,HCPCS 70110,"X-ray of mandible, minimum of 4 views",$253.80,WA
+UNC Lenoir Health Care,Head and Neck,HCPCS 70360,X-ray of neck soft tissue,$202.80,WA
+UNC Lenoir Health Care,Head and Neck,HCPCS 70210,"X-ray of paranasal sinus, less than 3 views",$162.60,WA
+UNC Lenoir Health Care,Head and Neck,HCPCS 70260,"X-ray of skull, complete, minimum of 4 views",$414.60,WA
+UNC Lenoir Health Care,Head and Neck,HCPCS 70200,"X-ray orbits, 4 or more views",$292.20,WA
+UNC Lenoir Health Care,Head and Neck,HCPCS 70220,"X-ray sinuses, 3 views",$397.20,WA
+UNC Lenoir Health Care,Head and Neck,HCPCS 70250,"X-ray skull, less than 4 views",$306.60,WA
+UNC Lenoir Health Care,Hip and Pelvis,HCPCS 72191,CTA scan of pelvis,"$1,437.00",WA
+UNC Lenoir Health Care,Hip and Pelvis,HCPCS 72194,CT scan of pelvis with and without contrast,"$1,114.20",WA
+UNC Lenoir Health Care,Hip and Pelvis,HCPCS 72192,CT scan of pelvis without contrast,$969.00,WA
+UNC Lenoir Health Care,Hip and Pelvis,HCPCS 72197,MRI scan of pelvis with and without contrast,"$2,377.20",WA
+UNC Lenoir Health Care,Hip and Pelvis,HCPCS 72195,MRI scan of pelvis without contrast,"$2,258.40",WA
+UNC Lenoir Health Care,Hip and Pelvis,HCPCS 73501,"X-ray hip and pelvis, 1 view",$97.80,WA
+UNC Lenoir Health Care,Hip and Pelvis,HCPCS 73502,"X-ray Hip and Pelvis, 2 Views",$150.60,WA
+UNC Lenoir Health Care,Hip and Pelvis,HCPCS 73523,"X-ray hip and pelvis, 5 or more views",$222.60,WA
+UNC Lenoir Health Care,Hip and Pelvis,HCPCS 73525,X-ray hip (arthrogram) with dye,$360.00,WA
+UNC Lenoir Health Care,Hip and Pelvis,HCPCS 72170,"X-ray Pelvis, 1-2 Views",$262.80,WA
+UNC Lenoir Health Care,Hip and Pelvis,HCPCS 72202,"X-ray Sacroiliac Joints, 3 or More Views",$154.80,WA
+UNC Lenoir Health Care,Hip and Pelvis,HCPCS 72220,"X-ray sacrum and coccyx, 2 or more views",$175.80,WA
+UNC Lenoir Health Care,Lower Limbs,HCPCS 73706,"CTA scan of hip, knee, ankle, or foot","$1,004.40",WA
+UNC Lenoir Health Care,Lower Limbs,HCPCS 73702,"CT scan of hip, knee, ankle, or foot with and without contrast","$1,024.80",WA
+UNC Lenoir Health Care,Lower Limbs,HCPCS 73701,"CT scan of hip, knee, ankle, or foot with contrast",$850.20,WA
+UNC Lenoir Health Care,Lower Limbs,HCPCS 73700,"CT scan of hip, knee, ankle, or foot without contrast",$833.40,WA
+UNC Lenoir Health Care,Lower Limbs,HCPCS 73723,"MRI scan of hip, knee, ankle, or foot joints with and without contrast","$2,226.00",WA
+UNC Lenoir Health Care,Lower Limbs,HCPCS 73722,"MRI scan of hip, knee, ankle, or foot joints with contrast","$2,112.00",WA
+UNC Lenoir Health Care,Lower Limbs,HCPCS 73720,MRI scan of leg with and without contrast,"$2,240.40",WA
+UNC Lenoir Health Care,Lower Limbs,HCPCS 73718,MRI scan of leg without contrast,"$2,175.00",WA
+UNC Lenoir Health Care,Lower Limbs,HCPCS 73600,"X-ray Ankle, 2 Views",$176.40,WA
+UNC Lenoir Health Care,Lower Limbs,HCPCS 73610,"X-ray Ankle, 3 Views",$285.00,WA
+UNC Lenoir Health Care,Lower Limbs,HCPCS 73565,X-ray Both Knees,$222.60,WA
+UNC Lenoir Health Care,Lower Limbs,HCPCS 73630,X-ray exam of foot,$235.80,WA
+UNC Lenoir Health Care,Lower Limbs,HCPCS 73562,"X-ray exam of knee, 3 views",$370.20,WA
+UNC Lenoir Health Care,Lower Limbs,HCPCS 73552,"X-ray Femur, 2 Views",$211.80,WA
+UNC Lenoir Health Care,Lower Limbs,HCPCS 73620,"X-ray Foot, 2 Views",$169.80,WA
+UNC Lenoir Health Care,Lower Limbs,HCPCS 73650,"X-ray Heel, 2 Views",$209.40,WA
+UNC Lenoir Health Care,Lower Limbs,HCPCS 73560,"X-ray Knee, 1-2 Views",$229.20,WA
+UNC Lenoir Health Care,Lower Limbs,HCPCS 73564,"X-ray Knee, 4 or More Views",$300.00,WA
+UNC Lenoir Health Care,Lower Limbs,HCPCS 73580,X-ray knee (arthrogram) with dye,$266.40,WA
+UNC Lenoir Health Care,Lower Limbs,HCPCS 73592,X-ray lower extremities for infant,$91.20,WA
+UNC Lenoir Health Care,Lower Limbs,HCPCS 73590,"X-ray Lower Leg, 2 Views",$243.00,WA
+UNC Lenoir Health Care,Lower Limbs,HCPCS 73660,"X-ray toes, 2 or more views",$192.60,WA
+UNC Lenoir Health Care,Other X-ray,HCPCS 77073,Bone length scanogram,$135.60,WA
+UNC Lenoir Health Care,Other X-ray,HCPCS 74300,"X-ray bile ducts, with contrast (cholangiogram)",$327.60,WA
+UNC Lenoir Health Care,Other X-ray,HCPCS 74430,"X-ray, bladder (cystogram), 3 or more views",$207.60,WA
+UNC Lenoir Health Care,Other X-ray,HCPCS 74280,"X-ray colon, with contrast",$485.40,WA
+UNC Lenoir Health Care,Other X-ray,HCPCS 74270,"X-ray colon, with or without contrast",$354.60,WA
+UNC Lenoir Health Care,Other X-ray,HCPCS 74220,X-ray esophagus (esophogram),$332.40,WA
+UNC Lenoir Health Care,Other X-ray,HCPCS 74250,X-ray small bowel,$355.20,WA
+UNC Lenoir Health Care,Other X-ray,HCPCS 74230,"X-ray, swallowing function study",$223.20,WA
+UNC Lenoir Health Care,Other X-ray,HCPCS 74240,X-ray upper GI tract ,$471.00,WA
+UNC Lenoir Health Care,Other X-ray,HCPCS 74450,"X-ray, urethra (retrograde urethrogram)",$279.00,WA
+UNC Lenoir Health Care,Spine,HCPCS 72126,CT scan of cervical spine with contrast,"$1,293.00",WA
+UNC Lenoir Health Care,Spine,HCPCS 72125,CT scan of cervical spine without contrast,"$1,086.60",WA
+UNC Lenoir Health Care,Spine,HCPCS 72133,CT scan of lumbar spine with and without contrast,"$1,236.00",WA
+UNC Lenoir Health Care,Spine,HCPCS 72132,CT scan of lumbar spine with contrast,"$1,225.20",WA
+UNC Lenoir Health Care,Spine,HCPCS 72131,CT scan of lumbar spine without contrast,"$1,074.60",WA
+UNC Lenoir Health Care,Spine,HCPCS 72129,CT scan of thoracic spine with contrast,"$1,044.00",WA
+UNC Lenoir Health Care,Spine,HCPCS 72128,CT scan of thoracic spine without contrast,$907.80,WA
+UNC Lenoir Health Care,Spine,HCPCS 72142,MRI scan of cervical spine with contrast,"$2,215.20",WA
+UNC Lenoir Health Care,Spine,HCPCS 72149,MRI scan of lumbar spine with contrast,"$1,959.60",WA
+UNC Lenoir Health Care,Spine,HCPCS 72157,MRI scan of thoracic spine with and without contrast,"$2,236.20",WA
+UNC Lenoir Health Care,Spine,HCPCS 72147,MRI scan of thoracic spine with contrast,"$2,215.20",WA
+UNC Lenoir Health Care,Spine,HCPCS 72020,"X-ray cervical spine, 1 view",$144.60,WA
+UNC Lenoir Health Care,Spine,HCPCS 72050,"X-ray cervical spine, 4 or more views",$571.80,WA
+UNC Lenoir Health Care,Spine,HCPCS 72120,"X-ray complete lumbar spine (with bending), 2-3 views",$383.40,WA
+UNC Lenoir Health Care,Spine,HCPCS 72114,"X-ray complete lumbar spine (with bending), 6 or more views",$433.20,WA
+UNC Lenoir Health Care,Spine,HCPCS 72082,"X-ray entire spine (scoliosis evaluation), 2 views",$150.00,WA
+UNC Lenoir Health Care,Spine,HCPCS 72110,"X-ray, lower back, minimum four views",$383.40,WA
+UNC Lenoir Health Care,Spine,HCPCS 72100,"X-ray Lower Sacral Spine, 2 or 3 views",$303.00,WA
+UNC Lenoir Health Care,Spine,HCPCS 72052,"X-ray Lower Sacral Spine, 4 or More Views",$571.80,WA
+UNC Lenoir Health Care,Spine,HCPCS 72040,"X-ray Neck Spine, 2-3 Views",$331.20,WA
+UNC Lenoir Health Care,Spine,HCPCS 72070,"X-ray thoracic spine, 2 views",$318.60,WA
+UNC Lenoir Health Care,Spine,HCPCS 72074,"X-ray thoracic spine, 4 or more views",$354.00,WA
+UNC Lenoir Health Care,Upper Limbs,HCPCS 73206,"CTA scan of shoulder, arm, or hand",$829.20,WA
+UNC Lenoir Health Care,Upper Limbs,HCPCS 73202,"CT scan of shoulder, arm, or hand with and without contrast",$881.40,WA
+UNC Lenoir Health Care,Upper Limbs,HCPCS 73201,"CT scan of shoulder, arm, or hand with contrast",$857.40,WA
+UNC Lenoir Health Care,Upper Limbs,HCPCS 73200,"CT scan of shoulder, arm, or hand without contrast",$808.80,WA
+UNC Lenoir Health Care,Upper Limbs,HCPCS 73220,"MRI scan of shoulder, arm, or hand with and without contrast","$2,236.20",WA
+UNC Lenoir Health Care,Upper Limbs,HCPCS 73218,"MRI scan of shoulder, arm, or hand without contrast","$2,101.80",WA
+UNC Lenoir Health Care,Upper Limbs,HCPCS 73223,"MRI scan of shoulder, elbow, or hand joints with and without contrast","$2,256.60",WA
+UNC Lenoir Health Care,Upper Limbs,HCPCS 73222,"MRI scan of shoulder, elbow, or hand joints with contrast","$2,234.40",WA
+UNC Lenoir Health Care,Upper Limbs,HCPCS 73000,"X-ray clavicle, 1 view",$214.80,WA
+UNC Lenoir Health Care,Upper Limbs,HCPCS 73070,"X-ray elbow, 2 views",$152.40,WA
+UNC Lenoir Health Care,Upper Limbs,HCPCS 73080,"X-ray Elbow, 3 Views",$299.40,WA
+UNC Lenoir Health Care,Upper Limbs,HCPCS 73140,"X-ray Fingers, 2 Views",$210.60,WA
+UNC Lenoir Health Care,Upper Limbs,HCPCS 73090,"X-ray Forearm, 2 Views",$280.80,WA
+UNC Lenoir Health Care,Upper Limbs,HCPCS 73130,"X-ray Hand, 3 Views",$220.80,WA
+UNC Lenoir Health Care,Upper Limbs,HCPCS 73060,"X-ray humerus, 1 view",$191.40,WA
+UNC Lenoir Health Care,Upper Limbs,HCPCS 73010,"X-ray scapula, 1 view",$199.80,WA
+UNC Lenoir Health Care,Upper Limbs,HCPCS 73030,"X-ray Shoulder, 2 Views",$276.60,WA
+UNC Lenoir Health Care,Upper Limbs,HCPCS 73050,X-ray shoulder (AC joint),$223.20,WA
+UNC Lenoir Health Care,Upper Limbs,HCPCS 73040,X-ray shoulder (arthrogram) with dye,$460.80,WA
+UNC Lenoir Health Care,Upper Limbs,HCPCS 73092,X-ray upper extremities for infant,$126.60,WA
+UNC Lenoir Health Care,Upper Limbs,HCPCS 73100,"X-ray Wrist, 3 Views",$150.00,WA
+UNC Lenoir Health Care,Upper Limbs,HCPCS 73110,"X-ray Wrist, 3+ Views",$264.00,WA
+UNC Lenoir Health Care,Abdomenal,HCPCS 51702,Insertion of Indwelling Bladder Catheter,$88.80,WA
+UNC Lenoir Health Care,Abdomenal,HCPCS 51701,Insertion of temporary bladder catheter,$38.40,WA
+UNC Lenoir Health Care,Abdomenal,HCPCS 50590,Shock wave crushing of kidney stones,"$4,318.20",WA
+UNC Lenoir Health Care,Auditory System,HCPCS 69209,"Removal of ear wax, 1 ear",$94.20,WA
+UNC Lenoir Health Care,Auditory System,HCPCS 69210,"Removal of ear wax, both ears",$94.20,WA
+UNC Lenoir Health Care,Cardiac,HCPCS 33249,Defibrillator complete system,"$3,924.00",WA
+UNC Lenoir Health Care,Cardiac,HCPCS 93451,Diagnostic heart catheterization (right side),"$2,368.80",WA
+UNC Lenoir Health Care,Cardiac,HCPCS 36471,"Elimination of spider veins (sclerotherapy), multiple veins on 1 limb",$420.00,WA
+UNC Lenoir Health Care,Cardiac,HCPCS 36470,"Elimination of spider veins (sclerotherapy), single vein","$3,000.00",WA
+UNC Lenoir Health Care,Cardiac,HCPCS 33228,Replacement of dual lead permanent pacemaker pulse generator,"$1,575.00",WA
+UNC Lenoir Health Care,Cardiac,HCPCS 36415,Venipuncture (blood collection),$10.80,WA
+UNC Lenoir Health Care,Digestive,HCPCS 47000,Biopsy of liver via needle inserted into skin,$751.80,WA
+UNC Lenoir Health Care,Digestive,HCPCS 49083,Paracentesis (removal of fluid from peritoneal cavity) with guidance,$225.00,WA
+UNC Lenoir Health Care,Digestive,HCPCS 43762,Replacement of gastrostromy tube (G-tube),$168.00,WA
+UNC Lenoir Health Care,Female Reproductive,HCPCS 59025,Fetal non-stress test,$107.40,WA
+UNC Lenoir Health Care,Female Reproductive,MSDRG 743,"Uterine and adnexa procedures, non-malignancy","$19,842.63",WA
+UNC Lenoir Health Care,General,HCPCS 10060,Drainage of Abscess,$232.20,WA
+UNC Lenoir Health Care,Musculoskeletal,HCPCS 29130,Application of finger splint,$81.00,WA
+UNC Lenoir Health Care,Musculoskeletal,HCPCS 29105,Application of full arm cast/splint,$119.40,WA
+UNC Lenoir Health Care,Musculoskeletal,HCPCS 29505,Application of full leg cast/splint,$96.00,WA
+UNC Lenoir Health Care,Musculoskeletal,HCPCS 29125,Application of short arm cast/splint (below the elbow),$119.40,WA
+UNC Lenoir Health Care,Musculoskeletal,HCPCS 29515,Application of short leg cast/splint (below the knee),$119.40,WA
+UNC Lenoir Health Care,Musculoskeletal,HCPCS 20610,Joint arthrocentesis,$301.80,WA
+UNC Lenoir Health Care,Musculoskeletal,MSDRG 470,Joint replacement (hip or knee),"$27,210.94",WA
+UNC Lenoir Health Care,Musculoskeletal,HCPCS 29580,"Strapping, Unna boot",$61.20,WA
+UNC Lenoir Health Care,Obstetrics,MSDRG 788,Cesarean Section (C-Section) Delivery of Child,"$10,872.67",WA
+UNC Lenoir Health Care,Obstetrics,MSDRG 807,Vaginal Delivery of Child,"$3,786.16",WA
+UNC Lenoir Health Care,Skin,HCPCS 10061,Drainage of skin abscess,$450.00,WA
+UNC Lenoir Health Care,Skin,HCPCS 10160,Image-guided puncture and drainage (aspiration) of cyst or abscess,$66.60,WA
+UNC Lenoir Health Care,Skin,HCPCS 10140,Surgical drainage of hematoma or seroma,"$1,860.00",WA
+UNC Lenoir Health Care,Skin,HCPCS 19083,Ultrasound-guided breast biopsy,"$1,040.40",WA
+UNC Lenoir Health Care,Soft Tissue,HCPCS 97597,Debridement of open wound,$80.40,WA
+UNC Lenoir Health Care,Soft Tissue,HCPCS 97602,Non-selective debridement,$208.80,WA
+UNC Lenoir Health Care,Vascular,HCPCS 36416,Collection of capillary blood specimen,$38.40,WA
+UNC Lenoir Health Care,Vascular,HCPCS 36556,Insert non-tunneled catheter (age over 5),$466.20,WA
+UNC Lenoir Health Care,Vascular,HCPCS 36430,Transfusion of Blood or Blood Products,$430.80,WA
+UNC Lenoir Health Care,Vascular,HCPCS 36590,Ultrasound Veins of One Arm or Leg,$614.40,WA
